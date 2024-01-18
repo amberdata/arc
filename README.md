@@ -1,2 +1,2 @@
 # arc
-Open Source Repository for Asset Classification &amp; Reference Data
+Open Source Repository for Asset Classification & Reference Data
