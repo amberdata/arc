@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:QCA000000000",
+        "normalizedPair": "fil_qc",
+        "normalizedSymbol": "fil",
+        "nativePair": "fil_qc",
+        "exchange": "zb",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "fil_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:USD000000335",
+        "normalizedPair": "fil_usdt",
+        "normalizedSymbol": "fil",
+        "nativePair": "fil_usdt",
+        "exchange": "zb",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fil_usdt",
+        "instrumentType": "spot"
+    }
+]

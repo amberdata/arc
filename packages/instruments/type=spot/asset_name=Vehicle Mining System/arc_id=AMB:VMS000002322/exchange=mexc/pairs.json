@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VMS000002322_AMB:USD000000335",
+        "normalizedPair": "vms_usdt",
+        "normalizedSymbol": "vms",
+        "nativePair": "VMSUSDT",
+        "exchange": "mexc",
+        "assetName": "Vehicle Mining System",
+        "assetArcId": "AMB:VMS000002322",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vms_usdt",
+        "instrumentType": "spot"
+    }
+]

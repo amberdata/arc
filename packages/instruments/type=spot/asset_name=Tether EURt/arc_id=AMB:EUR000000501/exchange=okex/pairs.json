@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EUR000000501_AMB:USD000000335",
+        "normalizedPair": "eurt_usdt",
+        "normalizedSymbol": "eurt",
+        "nativePair": "EURT-USDT",
+        "exchange": "okex",
+        "assetName": "Tether EURt",
+        "assetArcId": "AMB:EUR000000501",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "eurt_usdt",
+        "instrumentType": "spot"
+    }
+]

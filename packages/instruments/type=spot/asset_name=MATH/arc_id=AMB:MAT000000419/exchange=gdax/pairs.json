@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAT000000419_AMB:USD000000949",
+        "normalizedPair": "math_usd",
+        "normalizedSymbol": "math",
+        "nativePair": "MATH-USD",
+        "exchange": "gdax",
+        "assetName": "MATH",
+        "assetArcId": "AMB:MAT000000419",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "math_usd",
+        "instrumentType": "spot"
+    }
+]

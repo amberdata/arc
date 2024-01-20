@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TLR000002657_AMB:USD000000949",
+        "normalizedPair": "tlry_usd",
+        "normalizedSymbol": "tlry",
+        "nativePair": "TLRY/USD",
+        "exchange": "ftx",
+        "assetName": " Tilray",
+        "assetArcId": "AMB:TLR000002657",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "tlry_usd",
+        "instrumentType": "spot"
+    }
+]

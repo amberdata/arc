@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:ETC000000117_AMB:BTC000000000",
+        "normalizedPair": "etc_btc",
+        "normalizedSymbol": "etc",
+        "nativePair": "XETCXXBT",
+        "exchange": "kraken",
+        "assetName": "Ethereum Classic",
+        "assetArcId": "AMB:ETC000000117",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "etc_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ETC000000117_AMB:ETH000000000",
+        "normalizedPair": "etc_eth",
+        "normalizedSymbol": "etc",
+        "nativePair": "XETCXETH",
+        "exchange": "kraken",
+        "assetName": "Ethereum Classic",
+        "assetArcId": "AMB:ETC000000117",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "etc_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ETC000000117_AMB:EUR000000120",
+        "normalizedPair": "etc_eur",
+        "normalizedSymbol": "etc",
+        "nativePair": "XETCZEUR",
+        "exchange": "kraken",
+        "assetName": "Ethereum Classic",
+        "assetArcId": "AMB:ETC000000117",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "etc_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ETC000000117_AMB:USD000000949",
+        "normalizedPair": "etc_usd",
+        "normalizedSymbol": "etc",
+        "nativePair": "XETCZUSD",
+        "exchange": "kraken",
+        "assetName": "Ethereum Classic",
+        "assetArcId": "AMB:ETC000000117",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "etc_usd",
+        "instrumentType": "spot"
+    }
+]

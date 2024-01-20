@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHO000002181_AMB:USD000000335",
+        "normalizedPair": "shopx_usdt",
+        "normalizedSymbol": "shopx",
+        "nativePair": "SHOPXUSDT",
+        "exchange": "mexc",
+        "assetName": "SHOPX",
+        "assetArcId": "AMB:SHO000002181",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shopx_usdt",
+        "instrumentType": "spot"
+    }
+]

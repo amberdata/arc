@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BEN000000635_AMB:USD000000335",
+        "normalizedPair": "benji_usdt",
+        "normalizedSymbol": "benji",
+        "nativePair": "benjiusdt",
+        "exchange": "huobi",
+        "assetName": "Benji Bananas",
+        "assetArcId": "AMB:BEN000000635",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "benji_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NMR000000227_AMB:KRW000000000",
+        "normalizedPair": "nmr_krw",
+        "normalizedSymbol": "nmr",
+        "nativePair": "NMR/KRW",
+        "exchange": "bithumb",
+        "assetName": "Numeraire",
+        "assetArcId": "AMB:NMR000000227",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "nmr_krw",
+        "instrumentType": "spot"
+    }
+]

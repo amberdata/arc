@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GEN000001704_AMB:USD000000335",
+        "normalizedPair": "genedao_usdt",
+        "normalizedSymbol": "genedao",
+        "nativePair": "GENEDAOUSDT",
+        "exchange": "mexc",
+        "assetName": "GenomesDAO",
+        "assetArcId": "AMB:GEN000001704",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "genedao_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZIG000000879_AMB:USD000000335",
+        "normalizedPair": "zig_usdt",
+        "normalizedSymbol": "zig",
+        "nativePair": "zigusdt",
+        "exchange": "huobi",
+        "assetName": "Zigcoin",
+        "assetArcId": "AMB:ZIG000000879",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zig_usdt",
+        "instrumentType": "spot"
+    }
+]

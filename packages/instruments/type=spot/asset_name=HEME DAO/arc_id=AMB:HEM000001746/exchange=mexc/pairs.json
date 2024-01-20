@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HEM000001746_AMB:USD000000335",
+        "normalizedPair": "heme_usdt",
+        "normalizedSymbol": "heme",
+        "nativePair": "HEMEUSDT",
+        "exchange": "mexc",
+        "assetName": "HEME DAO",
+        "assetArcId": "AMB:HEM000001746",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "heme_usdt",
+        "instrumentType": "spot"
+    }
+]

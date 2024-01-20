@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WOJ000000861_AMB:USD000000335",
+        "normalizedPair": "wojak_usdt",
+        "normalizedSymbol": "wojak",
+        "nativePair": "WOJAK_USDT",
+        "exchange": "poloniex",
+        "assetName": "Wojak",
+        "assetArcId": "AMB:WOJ000000861",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wojak_usdt",
+        "instrumentType": "spot"
+    }
+]

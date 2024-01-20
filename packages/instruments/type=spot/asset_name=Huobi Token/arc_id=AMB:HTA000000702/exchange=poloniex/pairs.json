@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HTA000000702_AMB:USD000000335",
+        "normalizedPair": "ht_usdt",
+        "normalizedSymbol": "ht",
+        "nativePair": "HT_USDT",
+        "exchange": "poloniex",
+        "assetName": "Huobi Token",
+        "assetArcId": "AMB:HTA000000702",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ht_usdt",
+        "instrumentType": "spot"
+    }
+]

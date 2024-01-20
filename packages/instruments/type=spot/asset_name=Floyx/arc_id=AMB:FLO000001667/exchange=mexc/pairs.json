@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FLO000001667_AMB:USD000000335",
+        "normalizedPair": "floyx_usdt",
+        "normalizedSymbol": "floyx",
+        "nativePair": "FLOYXUSDT",
+        "exchange": "mexc",
+        "assetName": "Floyx",
+        "assetArcId": "AMB:FLO000001667",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "floyx_usdt",
+        "instrumentType": "spot"
+    }
+]

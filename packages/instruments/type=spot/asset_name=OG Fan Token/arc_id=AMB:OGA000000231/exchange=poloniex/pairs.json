@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:OGA000000231_AMB:USD000000841",
+        "normalizedPair": "og_usdd",
+        "normalizedSymbol": "og",
+        "nativePair": "OG_USDD",
+        "exchange": "poloniex",
+        "assetName": "OG Fan Token",
+        "assetArcId": "AMB:OGA000000231",
+        "quoteArcId": "AMB:USD000000841",
+        "collectedPair": "og_usdd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OGA000000231_AMB:USD000000335",
+        "normalizedPair": "og_usdt",
+        "normalizedSymbol": "og",
+        "nativePair": "OG_USDT",
+        "exchange": "poloniex",
+        "assetName": "OG Fan Token",
+        "assetArcId": "AMB:OGA000000231",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "og_usdt",
+        "instrumentType": "spot"
+    }
+]

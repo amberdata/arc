@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:MIN000000216_AMB:BTC000000000",
+        "normalizedPair": "mina_btc",
+        "normalizedSymbol": "mina",
+        "nativePair": "MINABTC",
+        "exchange": "binance",
+        "assetName": "Mina",
+        "assetArcId": "AMB:MIN000000216",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "mina_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MIN000000216_AMB:BUS000000067",
+        "normalizedPair": "mina_busd",
+        "normalizedSymbol": "mina",
+        "nativePair": "MINABUSD",
+        "exchange": "binance",
+        "assetName": "Mina",
+        "assetArcId": "AMB:MIN000000216",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "mina_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MIN000000216_AMB:TRY000000940",
+        "normalizedPair": "mina_try",
+        "normalizedSymbol": "mina",
+        "nativePair": "MINATRY",
+        "exchange": "binance",
+        "assetName": "Mina",
+        "assetArcId": "AMB:MIN000000216",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "mina_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MIN000000216_AMB:USD000000335",
+        "normalizedPair": "mina_usdt",
+        "normalizedSymbol": "mina",
+        "nativePair": "MINAUSDT",
+        "exchange": "binance",
+        "assetName": "Mina",
+        "assetArcId": "AMB:MIN000000216",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mina_usdt",
+        "instrumentType": "spot"
+    }
+]

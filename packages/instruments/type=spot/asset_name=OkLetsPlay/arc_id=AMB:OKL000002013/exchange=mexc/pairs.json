@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OKL000002013_AMB:USD000000335",
+        "normalizedPair": "oklp_usdt",
+        "normalizedSymbol": "oklp",
+        "nativePair": "OKLPUSDT",
+        "exchange": "mexc",
+        "assetName": "OkLetsPlay",
+        "assetArcId": "AMB:OKL000002013",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "oklp_usdt",
+        "instrumentType": "spot"
+    }
+]

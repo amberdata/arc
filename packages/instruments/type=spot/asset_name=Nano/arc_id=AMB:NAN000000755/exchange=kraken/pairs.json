@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:NAN000000755_AMB:BTC000000000",
+        "normalizedPair": "nano_btc",
+        "normalizedSymbol": "nano",
+        "nativePair": "NANOXBT",
+        "exchange": "kraken",
+        "assetName": "Nano",
+        "assetArcId": "AMB:NAN000000755",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "nano_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NAN000000755_AMB:ETH000000000",
+        "normalizedPair": "nano_eth",
+        "normalizedSymbol": "nano",
+        "nativePair": "NANOETH",
+        "exchange": "kraken",
+        "assetName": "Nano",
+        "assetArcId": "AMB:NAN000000755",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "nano_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NAN000000755_AMB:EUR000000120",
+        "normalizedPair": "nano_eur",
+        "normalizedSymbol": "nano",
+        "nativePair": "NANOEUR",
+        "exchange": "kraken",
+        "assetName": "Nano",
+        "assetArcId": "AMB:NAN000000755",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "nano_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NAN000000755_AMB:USD000000949",
+        "normalizedPair": "nano_usd",
+        "normalizedSymbol": "nano",
+        "nativePair": "NANOUSD",
+        "exchange": "kraken",
+        "assetName": "Nano",
+        "assetArcId": "AMB:NAN000000755",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "nano_usd",
+        "instrumentType": "spot"
+    }
+]

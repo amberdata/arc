@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZIL000000371_AMB:KRW000000000",
+        "normalizedPair": "zil_krw",
+        "normalizedSymbol": "zil",
+        "nativePair": "ZIL/KRW",
+        "exchange": "bithumb",
+        "assetName": "Zilliqa",
+        "assetArcId": "AMB:ZIL000000371",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "zil_krw",
+        "instrumentType": "spot"
+    }
+]

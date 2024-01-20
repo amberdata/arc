@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EJS000001626_AMB:USD000000335",
+        "normalizedPair": "ejs_usdt",
+        "normalizedSymbol": "ejs",
+        "nativePair": "EJSUSDT",
+        "exchange": "mexc",
+        "assetName": "Enjinstarter",
+        "assetArcId": "AMB:EJS000001626",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ejs_usdt",
+        "instrumentType": "spot"
+    }
+]

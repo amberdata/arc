@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IOT000000173_AMB:USD000000949",
+        "normalizedPair": "iotx_usd",
+        "normalizedSymbol": "iotx",
+        "nativePair": "iotxusd",
+        "exchange": "gemini",
+        "assetName": "IoTeX",
+        "assetArcId": "AMB:IOT000000173",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "iotx_usd",
+        "instrumentType": "spot"
+    }
+]

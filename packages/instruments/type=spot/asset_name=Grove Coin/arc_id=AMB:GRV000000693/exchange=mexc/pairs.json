@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GRV000000693_AMB:USD000000335",
+        "normalizedPair": "grv_usdt",
+        "normalizedSymbol": "grv",
+        "nativePair": "GRVUSDT",
+        "exchange": "mexc",
+        "assetName": "Grove Coin",
+        "assetArcId": "AMB:GRV000000693",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "grv_usdt",
+        "instrumentType": "spot"
+    }
+]

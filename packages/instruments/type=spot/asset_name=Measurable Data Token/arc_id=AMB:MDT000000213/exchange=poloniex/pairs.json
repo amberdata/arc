@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:MDT000000213_AMB:BTC000000000",
+        "normalizedPair": "mdt_btc",
+        "normalizedSymbol": "mdt",
+        "nativePair": "MDT_BTC",
+        "exchange": "poloniex",
+        "assetName": "Measurable Data Token",
+        "assetArcId": "AMB:MDT000000213",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "mdt_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MDT000000213_AMB:TRX000000325",
+        "normalizedPair": "mdt_trx",
+        "normalizedSymbol": "mdt",
+        "nativePair": "MDT_TRX",
+        "exchange": "poloniex",
+        "assetName": "Measurable Data Token",
+        "assetArcId": "AMB:MDT000000213",
+        "quoteArcId": "AMB:TRX000000325",
+        "collectedPair": "mdt_trx",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MDT000000213_AMB:USD000000335",
+        "normalizedPair": "mdt_usdt",
+        "normalizedSymbol": "mdt",
+        "nativePair": "MDT_USDT",
+        "exchange": "poloniex",
+        "assetName": "Measurable Data Token",
+        "assetArcId": "AMB:MDT000000213",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mdt_usdt",
+        "instrumentType": "spot"
+    }
+]

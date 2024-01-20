@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:USD000000841_AMB:USD000000333",
+        "normalizedPair": "usdd_usdc",
+        "normalizedSymbol": "usdd",
+        "nativePair": "USDDUSDC",
+        "exchange": "mexc",
+        "assetName": "USDD",
+        "assetArcId": "AMB:USD000000841",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "usdd_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:USD000000841_AMB:USD000000335",
+        "normalizedPair": "usdd_usdt",
+        "normalizedSymbol": "usdd",
+        "nativePair": "USDDUSDT",
+        "exchange": "mexc",
+        "assetName": "USDD",
+        "assetArcId": "AMB:USD000000841",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "usdd_usdt",
+        "instrumentType": "spot"
+    }
+]

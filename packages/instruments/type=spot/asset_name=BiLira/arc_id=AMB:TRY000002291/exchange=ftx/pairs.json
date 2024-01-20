@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRY000002291_AMB:USD000000949",
+        "normalizedPair": "tryb_usd",
+        "normalizedSymbol": "tryb",
+        "nativePair": "TRYB/USD",
+        "exchange": "ftx",
+        "assetName": "BiLira",
+        "assetArcId": "AMB:TRY000002291",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "tryb_usd",
+        "instrumentType": "spot"
+    }
+]

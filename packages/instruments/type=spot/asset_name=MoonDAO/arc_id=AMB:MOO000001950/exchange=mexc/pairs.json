@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MOO000001950_AMB:USD000000335",
+        "normalizedPair": "mooney_usdt",
+        "normalizedSymbol": "mooney",
+        "nativePair": "MOONEYUSDT",
+        "exchange": "mexc",
+        "assetName": "MoonDAO",
+        "assetArcId": "AMB:MOO000001950",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mooney_usdt",
+        "instrumentType": "spot"
+    }
+]

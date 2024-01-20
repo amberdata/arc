@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:ANT000000020_AMB:BNB000000055",
+        "normalizedPair": "ant_bnb",
+        "normalizedSymbol": "ant",
+        "nativePair": "ANTBNB",
+        "exchange": "binance",
+        "assetName": "Aragon",
+        "assetArcId": "AMB:ANT000000020",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "ant_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ANT000000020_AMB:BTC000000000",
+        "normalizedPair": "ant_btc",
+        "normalizedSymbol": "ant",
+        "nativePair": "ANTBTC",
+        "exchange": "binance",
+        "assetName": "Aragon",
+        "assetArcId": "AMB:ANT000000020",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ant_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ANT000000020_AMB:USD000000335",
+        "normalizedPair": "ant_usdt",
+        "normalizedSymbol": "ant",
+        "nativePair": "ANTUSDT",
+        "exchange": "binance",
+        "assetName": "Aragon",
+        "assetArcId": "AMB:ANT000000020",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ant_usdt",
+        "instrumentType": "spot"
+    }
+]

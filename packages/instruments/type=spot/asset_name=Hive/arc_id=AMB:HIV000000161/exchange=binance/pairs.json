@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:HIV000000161_AMB:BTC000000000",
+        "normalizedPair": "hive_btc",
+        "normalizedSymbol": "hive",
+        "nativePair": "HIVEBTC",
+        "exchange": "binance",
+        "assetName": "Hive",
+        "assetArcId": "AMB:HIV000000161",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "hive_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:HIV000000161_AMB:USD000000335",
+        "normalizedPair": "hive_usdt",
+        "normalizedSymbol": "hive",
+        "nativePair": "HIVEUSDT",
+        "exchange": "binance",
+        "assetName": "Hive",
+        "assetArcId": "AMB:HIV000000161",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hive_usdt",
+        "instrumentType": "spot"
+    }
+]

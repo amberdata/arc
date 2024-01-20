@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GLM000000148_AMB:USD000000335",
+        "normalizedPair": "glmr_usdt",
+        "normalizedSymbol": "glmr",
+        "nativePair": "glmrusdt",
+        "exchange": "huobi",
+        "assetName": "Moonbeam",
+        "assetArcId": "AMB:GLM000000148",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "glmr_usdt",
+        "instrumentType": "spot"
+    }
+]

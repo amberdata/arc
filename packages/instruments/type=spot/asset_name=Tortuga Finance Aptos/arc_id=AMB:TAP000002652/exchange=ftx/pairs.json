@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TAP000002652_AMB:USD000000949",
+        "normalizedPair": "tapt_usd",
+        "normalizedSymbol": "tapt",
+        "nativePair": "TAPT/USD",
+        "exchange": "ftx",
+        "assetName": "Tortuga Finance Aptos",
+        "assetArcId": "AMB:TAP000002652",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "tapt_usd",
+        "instrumentType": "spot"
+    }
+]

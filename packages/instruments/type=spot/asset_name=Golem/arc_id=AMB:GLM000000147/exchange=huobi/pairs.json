@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GLM000000147_AMB:USD000000335",
+        "normalizedPair": "glm_usdt",
+        "normalizedSymbol": "glm",
+        "nativePair": "glmusdt",
+        "exchange": "huobi",
+        "assetName": "Golem",
+        "assetArcId": "AMB:GLM000000147",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "glm_usdt",
+        "instrumentType": "spot"
+    }
+]

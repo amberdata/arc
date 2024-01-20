@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:USD000000949_AMB:JPY000000903",
+        "normalizedPair": "usd_jpy",
+        "normalizedSymbol": "usd",
+        "nativePair": "USD/JPY",
+        "exchange": "ftx",
+        "assetName": "United States Dollar",
+        "assetArcId": "AMB:USD000000949",
+        "quoteArcId": "AMB:JPY000000903",
+        "collectedPair": "usd_jpy",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:USD000000949_AMB:TRY000000940",
+        "normalizedPair": "usd_try",
+        "normalizedSymbol": "usd",
+        "nativePair": "USD/TRY",
+        "exchange": "ftx",
+        "assetName": "United States Dollar",
+        "assetArcId": "AMB:USD000000949",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "usd_try",
+        "instrumentType": "spot"
+    }
+]

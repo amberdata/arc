@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:KLA000000183_AMB:BTC000000000",
+        "normalizedPair": "klay_btc",
+        "normalizedSymbol": "klay",
+        "nativePair": "KLAYBTC",
+        "exchange": "binance",
+        "assetName": "Klaytn",
+        "assetArcId": "AMB:KLA000000183",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "klay_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KLA000000183_AMB:USD000000335",
+        "normalizedPair": "klay_usdt",
+        "normalizedSymbol": "klay",
+        "nativePair": "KLAYUSDT",
+        "exchange": "binance",
+        "assetName": "Klaytn",
+        "assetArcId": "AMB:KLA000000183",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "klay_usdt",
+        "instrumentType": "spot"
+    }
+]

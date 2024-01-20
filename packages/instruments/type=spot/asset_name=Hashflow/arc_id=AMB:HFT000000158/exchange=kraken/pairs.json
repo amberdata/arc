@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:HFT000000158_AMB:EUR000000120",
+        "normalizedPair": "hft_eur",
+        "normalizedSymbol": "hft",
+        "nativePair": "HFTEUR",
+        "exchange": "kraken",
+        "assetName": "Hashflow",
+        "assetArcId": "AMB:HFT000000158",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "hft_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:HFT000000158_AMB:USD000000949",
+        "normalizedPair": "hft_usd",
+        "normalizedSymbol": "hft",
+        "nativePair": "HFTUSD",
+        "exchange": "kraken",
+        "assetName": "Hashflow",
+        "assetArcId": "AMB:HFT000000158",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "hft_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:BTC000000000",
+        "normalizedPair": "mkr_btc",
+        "normalizedSymbol": "mkr",
+        "nativePair": "MKRXBT",
+        "exchange": "kraken",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "mkr_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:EUR000000120",
+        "normalizedPair": "mkr_eur",
+        "normalizedSymbol": "mkr",
+        "nativePair": "MKREUR",
+        "exchange": "kraken",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "mkr_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:USD000000949",
+        "normalizedPair": "mkr_usd",
+        "normalizedSymbol": "mkr",
+        "nativePair": "MKRUSD",
+        "exchange": "kraken",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mkr_usd",
+        "instrumentType": "spot"
+    }
+]

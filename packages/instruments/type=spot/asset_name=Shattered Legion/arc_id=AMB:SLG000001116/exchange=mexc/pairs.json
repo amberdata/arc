@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SLG000001116_AMB:USD000000335",
+        "normalizedPair": "slg_usdt",
+        "normalizedSymbol": "slg",
+        "nativePair": "SLGUSDT",
+        "exchange": "mexc",
+        "assetName": "Shattered Legion",
+        "assetArcId": "AMB:SLG000001116",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "slg_usdt",
+        "instrumentType": "spot"
+    }
+]

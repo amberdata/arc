@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:QNT000000267_AMB:BTC000000000",
+        "normalizedPair": "qnt_btc",
+        "normalizedSymbol": "qnt",
+        "nativePair": "QNTBTC",
+        "exchange": "binance",
+        "assetName": "Quant",
+        "assetArcId": "AMB:QNT000000267",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "qnt_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:QNT000000267_AMB:BUS000000067",
+        "normalizedPair": "qnt_busd",
+        "normalizedSymbol": "qnt",
+        "nativePair": "QNTBUSD",
+        "exchange": "binance",
+        "assetName": "Quant",
+        "assetArcId": "AMB:QNT000000267",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "qnt_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:QNT000000267_AMB:USD000000335",
+        "normalizedPair": "qnt_usdt",
+        "normalizedSymbol": "qnt",
+        "nativePair": "QNTUSDT",
+        "exchange": "binance",
+        "assetName": "Quant",
+        "assetArcId": "AMB:QNT000000267",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "qnt_usdt",
+        "instrumentType": "spot"
+    }
+]

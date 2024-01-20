@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ARI000000626_AMB:USD000000335",
+        "normalizedPair": "arix_usdt",
+        "normalizedSymbol": "arix",
+        "nativePair": "ARIXUSDT",
+        "exchange": "mexc",
+        "assetName": "Arix",
+        "assetArcId": "AMB:ARI000000626",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "arix_usdt",
+        "instrumentType": "spot"
+    }
+]

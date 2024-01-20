@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WAV000000346_AMB:USD000000335",
+        "normalizedPair": "waves_usdt",
+        "normalizedSymbol": "waves",
+        "nativePair": "WAVESUSDT",
+        "exchange": "binanceus",
+        "assetName": "Waves",
+        "assetArcId": "AMB:WAV000000346",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "waves_usdt",
+        "instrumentType": "spot"
+    }
+]

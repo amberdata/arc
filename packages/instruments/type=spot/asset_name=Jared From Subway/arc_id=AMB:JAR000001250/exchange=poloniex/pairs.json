@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JAR000001250_AMB:USD000000335",
+        "normalizedPair": "jared_usdt",
+        "normalizedSymbol": "jared",
+        "nativePair": "JARED_USDT",
+        "exchange": "poloniex",
+        "assetName": "Jared From Subway",
+        "assetArcId": "AMB:JAR000001250",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jared_usdt",
+        "instrumentType": "spot"
+    }
+]

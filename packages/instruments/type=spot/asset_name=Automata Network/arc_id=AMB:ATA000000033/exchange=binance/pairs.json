@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ATA000000033_AMB:BTC000000000",
+        "normalizedPair": "ata_btc",
+        "normalizedSymbol": "ata",
+        "nativePair": "ATABTC",
+        "exchange": "binance",
+        "assetName": "Automata Network",
+        "assetArcId": "AMB:ATA000000033",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ata_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ATA000000033_AMB:USD000000335",
+        "normalizedPair": "ata_usdt",
+        "normalizedSymbol": "ata",
+        "nativePair": "ATAUSDT",
+        "exchange": "binance",
+        "assetName": "Automata Network",
+        "assetArcId": "AMB:ATA000000033",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ata_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SDN000000797_AMB:EUR000000120",
+        "normalizedPair": "sdn_eur",
+        "normalizedSymbol": "sdn",
+        "nativePair": "SDNEUR",
+        "exchange": "kraken",
+        "assetName": "Shiden Network",
+        "assetArcId": "AMB:SDN000000797",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "sdn_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SDN000000797_AMB:USD000000949",
+        "normalizedPair": "sdn_usd",
+        "normalizedSymbol": "sdn",
+        "nativePair": "SDNUSD",
+        "exchange": "kraken",
+        "assetName": "Shiden Network",
+        "assetArcId": "AMB:SDN000000797",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sdn_usd",
+        "instrumentType": "spot"
+    }
+]

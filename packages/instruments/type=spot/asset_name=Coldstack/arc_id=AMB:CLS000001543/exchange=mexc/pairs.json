@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CLS000001543_AMB:USD000000335",
+        "normalizedPair": "cls_usdt",
+        "normalizedSymbol": "cls",
+        "nativePair": "CLSUSDT",
+        "exchange": "mexc",
+        "assetName": "Coldstack",
+        "assetArcId": "AMB:CLS000001543",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cls_usdt",
+        "instrumentType": "spot"
+    }
+]

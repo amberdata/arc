@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XEC000000357_AMB:QCA000000000",
+        "normalizedPair": "xec_qc",
+        "normalizedSymbol": "xec",
+        "nativePair": "xec_qc",
+        "exchange": "zb",
+        "assetName": "eCash",
+        "assetArcId": "AMB:XEC000000357",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "xec_qc",
+        "instrumentType": "spot"
+    }
+]

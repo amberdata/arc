@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BEN000001456_AMB:USD000000335",
+        "normalizedPair": "benqi_usdt",
+        "normalizedSymbol": "benqi",
+        "nativePair": "BENQIUSDT",
+        "exchange": "mexc",
+        "assetName": "BENQI",
+        "assetArcId": "AMB:BEN000001456",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "benqi_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MOB000000219_AMB:BTC000000000",
+        "normalizedPair": "mob_btc",
+        "normalizedSymbol": "mob",
+        "nativePair": "MOBBTC",
+        "exchange": "binance",
+        "assetName": "Mobster",
+        "assetArcId": "AMB:MOB000000219",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "mob_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MOB000000219_AMB:USD000000335",
+        "normalizedPair": "mob_usdt",
+        "normalizedSymbol": "mob",
+        "nativePair": "MOBUSDT",
+        "exchange": "binance",
+        "assetName": "Mobster",
+        "assetArcId": "AMB:MOB000000219",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mob_usdt",
+        "instrumentType": "spot"
+    }
+]

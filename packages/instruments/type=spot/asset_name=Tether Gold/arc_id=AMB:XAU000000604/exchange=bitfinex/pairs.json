@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:XAU000000604_AMB:BTC000000000",
+        "normalizedPair": "xaut_btc",
+        "normalizedSymbol": "xaut",
+        "nativePair": "tXAUT:BTC",
+        "exchange": "bitfinex",
+        "assetName": "Tether Gold",
+        "assetArcId": "AMB:XAU000000604",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "xaut_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XAU000000604_AMB:USD000000949",
+        "normalizedPair": "xaut_usd",
+        "normalizedSymbol": "xaut",
+        "nativePair": "tXAUT:USD",
+        "exchange": "bitfinex",
+        "assetName": "Tether Gold",
+        "assetArcId": "AMB:XAU000000604",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xaut_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XAU000000604_AMB:USD000000335",
+        "normalizedPair": "xaut_usdt",
+        "normalizedSymbol": "xaut",
+        "nativePair": "tXAUT:UST",
+        "exchange": "bitfinex",
+        "assetName": "Tether Gold",
+        "assetArcId": "AMB:XAU000000604",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xaut_usdt",
+        "instrumentType": "spot"
+    }
+]

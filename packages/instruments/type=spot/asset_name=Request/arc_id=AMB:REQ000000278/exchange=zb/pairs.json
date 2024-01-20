@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:REQ000000278_AMB:QCA000000000",
+        "normalizedPair": "req_qc",
+        "normalizedSymbol": "req",
+        "nativePair": "req_qc",
+        "exchange": "zb",
+        "assetName": "Request",
+        "assetArcId": "AMB:REQ000000278",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "req_qc",
+        "instrumentType": "spot"
+    }
+]

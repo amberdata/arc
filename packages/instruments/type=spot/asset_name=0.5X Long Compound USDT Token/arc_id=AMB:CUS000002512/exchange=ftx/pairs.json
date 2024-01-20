@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CUS000002512_AMB:USD000000949",
+        "normalizedPair": "cusdthalf_usd",
+        "normalizedSymbol": "cusdthalf",
+        "nativePair": "CUSDTHALF/USD",
+        "exchange": "ftx",
+        "assetName": "0.5X Long Compound USDT Token",
+        "assetArcId": "AMB:CUS000002512",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "cusdthalf_usd",
+        "instrumentType": "spot"
+    }
+]

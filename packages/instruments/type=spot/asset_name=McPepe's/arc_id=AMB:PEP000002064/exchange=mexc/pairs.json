@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PEP000002064_AMB:USD000000335",
+        "normalizedPair": "pepes_usdt",
+        "normalizedSymbol": "pepes",
+        "nativePair": "PEPESUSDT",
+        "exchange": "mexc",
+        "assetName": "McPepe's",
+        "assetArcId": "AMB:PEP000002064",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pepes_usdt",
+        "instrumentType": "spot"
+    }
+]

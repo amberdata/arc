@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RON000001108_AMB:USD000000335",
+        "normalizedPair": "rond_usdt",
+        "normalizedSymbol": "rond",
+        "nativePair": "RONDUSDT",
+        "exchange": "bybit",
+        "assetName": "ROND",
+        "assetArcId": "AMB:RON000001108",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rond_usdt",
+        "instrumentType": "spot"
+    }
+]

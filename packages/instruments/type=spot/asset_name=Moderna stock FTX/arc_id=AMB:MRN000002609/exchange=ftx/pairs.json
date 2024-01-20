@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MRN000002609_AMB:USD000000949",
+        "normalizedPair": "mrna_usd",
+        "normalizedSymbol": "mrna",
+        "nativePair": "MRNA/USD",
+        "exchange": "ftx",
+        "assetName": "Moderna stock FTX",
+        "assetArcId": "AMB:MRN000002609",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mrna_usd",
+        "instrumentType": "spot"
+    }
+]

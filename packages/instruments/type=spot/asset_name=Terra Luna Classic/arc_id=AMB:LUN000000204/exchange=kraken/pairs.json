@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LUN000000204_AMB:EUR000000120",
+        "normalizedPair": "lunc_eur",
+        "normalizedSymbol": "lunc",
+        "nativePair": "LUNAEUR",
+        "exchange": "kraken",
+        "assetName": "Terra Luna Classic",
+        "assetArcId": "AMB:LUN000000204",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "lunc_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LUN000000204_AMB:USD000000949",
+        "normalizedPair": "lunc_usd",
+        "normalizedSymbol": "lunc",
+        "nativePair": "LUNAUSD",
+        "exchange": "kraken",
+        "assetName": "Terra Luna Classic",
+        "assetArcId": "AMB:LUN000000204",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "lunc_usd",
+        "instrumentType": "spot"
+    }
+]

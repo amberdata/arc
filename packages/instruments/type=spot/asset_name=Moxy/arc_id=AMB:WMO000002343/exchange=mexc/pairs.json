@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WMO000002343_AMB:USD000000335",
+        "normalizedPair": "wmoxy_usdt",
+        "normalizedSymbol": "wmoxy",
+        "nativePair": "WMOXYUSDT",
+        "exchange": "mexc",
+        "assetName": "Moxy",
+        "assetArcId": "AMB:WMO000002343",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wmoxy_usdt",
+        "instrumentType": "spot"
+    }
+]

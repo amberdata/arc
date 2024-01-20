@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:UNF000000331_AMB:BTC000000000",
+        "normalizedPair": "unfi_btc",
+        "normalizedSymbol": "unfi",
+        "nativePair": "UNFIBTC",
+        "exchange": "binance",
+        "assetName": "Unifi Protocol DAO",
+        "assetArcId": "AMB:UNF000000331",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "unfi_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:UNF000000331_AMB:BUS000000067",
+        "normalizedPair": "unfi_busd",
+        "normalizedSymbol": "unfi",
+        "nativePair": "UNFIBUSD",
+        "exchange": "binance",
+        "assetName": "Unifi Protocol DAO",
+        "assetArcId": "AMB:UNF000000331",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "unfi_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:UNF000000331_AMB:TRY000000940",
+        "normalizedPair": "unfi_try",
+        "normalizedSymbol": "unfi",
+        "nativePair": "UNFITRY",
+        "exchange": "binance",
+        "assetName": "Unifi Protocol DAO",
+        "assetArcId": "AMB:UNF000000331",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "unfi_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:UNF000000331_AMB:USD000000335",
+        "normalizedPair": "unfi_usdt",
+        "normalizedSymbol": "unfi",
+        "nativePair": "UNFIUSDT",
+        "exchange": "binance",
+        "assetName": "Unifi Protocol DAO",
+        "assetArcId": "AMB:UNF000000331",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "unfi_usdt",
+        "instrumentType": "spot"
+    }
+]

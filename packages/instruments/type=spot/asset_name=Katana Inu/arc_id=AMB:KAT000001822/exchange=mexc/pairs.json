@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KAT000001822_AMB:USD000000335",
+        "normalizedPair": "kata_usdt",
+        "normalizedSymbol": "kata",
+        "nativePair": "KATAUSDT",
+        "exchange": "mexc",
+        "assetName": "Katana Inu",
+        "assetArcId": "AMB:KAT000001822",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kata_usdt",
+        "instrumentType": "spot"
+    }
+]

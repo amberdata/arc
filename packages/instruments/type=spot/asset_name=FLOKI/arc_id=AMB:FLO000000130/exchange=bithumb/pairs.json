@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FLO000000130_AMB:KRW000000000",
+        "normalizedPair": "floki_krw",
+        "normalizedSymbol": "floki",
+        "nativePair": "FLOKI/KRW",
+        "exchange": "bithumb",
+        "assetName": "FLOKI",
+        "assetArcId": "AMB:FLO000000130",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "floki_krw",
+        "instrumentType": "spot"
+    }
+]

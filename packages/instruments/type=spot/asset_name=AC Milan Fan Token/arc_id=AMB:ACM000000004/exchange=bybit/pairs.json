@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ACM000000004_AMB:USD000000335",
+        "normalizedPair": "acm_usdt",
+        "normalizedSymbol": "acm",
+        "nativePair": "ACMUSDT",
+        "exchange": "bybit",
+        "assetName": "AC Milan Fan Token",
+        "assetArcId": "AMB:ACM000000004",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "acm_usdt",
+        "instrumentType": "spot"
+    }
+]

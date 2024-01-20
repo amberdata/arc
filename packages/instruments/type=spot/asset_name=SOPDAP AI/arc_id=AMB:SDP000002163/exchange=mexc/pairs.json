@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SDP000002163_AMB:USD000000335",
+        "normalizedPair": "sdp_usdt",
+        "normalizedSymbol": "sdp",
+        "nativePair": "SDPUSDT",
+        "exchange": "mexc",
+        "assetName": "SOPDAP AI",
+        "assetArcId": "AMB:SDP000002163",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sdp_usdt",
+        "instrumentType": "spot"
+    }
+]

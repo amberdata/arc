@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ONE000000235_AMB:USD000000335",
+        "normalizedPair": "one_usdt",
+        "normalizedSymbol": "one",
+        "nativePair": "ONEUSDT",
+        "exchange": "mexc",
+        "assetName": "ONE Token",
+        "assetArcId": "AMB:ONE000000235",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "one_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CEL000000071_AMB:USD000000335",
+        "normalizedPair": "celr_usdt",
+        "normalizedSymbol": "celr",
+        "nativePair": "CELR-USDT",
+        "exchange": "okex",
+        "assetName": "Celer Network",
+        "assetArcId": "AMB:CEL000000071",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "celr_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CAK000000069_AMB:KRW000000000",
+        "normalizedPair": "cake_krw",
+        "normalizedSymbol": "cake",
+        "nativePair": "CAKE/KRW",
+        "exchange": "bithumb",
+        "assetName": "PancakeSwap",
+        "assetArcId": "AMB:CAK000000069",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "cake_krw",
+        "instrumentType": "spot"
+    }
+]

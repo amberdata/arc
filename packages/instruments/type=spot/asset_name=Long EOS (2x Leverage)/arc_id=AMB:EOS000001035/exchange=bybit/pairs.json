@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EOS000001035_AMB:USD000000335",
+        "normalizedPair": "eos2l_usdt",
+        "normalizedSymbol": "eos2l",
+        "nativePair": "EOS2LUSDT",
+        "exchange": "bybit",
+        "assetName": "Long EOS (2x Leverage)",
+        "assetArcId": "AMB:EOS000001035",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "eos2l_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FTI000000685_AMB:USD000000335",
+        "normalizedPair": "fti_usdt",
+        "normalizedSymbol": "fti",
+        "nativePair": "ftiusdt",
+        "exchange": "huobi",
+        "assetName": "FansTime",
+        "assetArcId": "AMB:FTI000000685",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fti_usdt",
+        "instrumentType": "spot"
+    }
+]

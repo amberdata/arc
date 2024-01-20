@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RUN000002144_AMB:USD000000335",
+        "normalizedPair": "run5km_usdt",
+        "normalizedSymbol": "run5km",
+        "nativePair": "RUN5KMUSDT",
+        "exchange": "mexc",
+        "assetName": "FiveKM RUN",
+        "assetArcId": "AMB:RUN000002144",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "run5km_usdt",
+        "instrumentType": "spot"
+    }
+]

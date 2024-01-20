@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RLC000000280_AMB:USD000000335",
+        "normalizedPair": "rlc_usdt",
+        "normalizedSymbol": "rlc",
+        "nativePair": "RLC_USDT",
+        "exchange": "poloniex",
+        "assetName": "iExec RLC",
+        "assetArcId": "AMB:RLC000000280",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rlc_usdt",
+        "instrumentType": "spot"
+    }
+]

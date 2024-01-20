@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RLY000000615_AMB:KRW000000000",
+        "normalizedPair": "rly_krw",
+        "normalizedSymbol": "rly",
+        "nativePair": "RLY/KRW",
+        "exchange": "bithumb",
+        "assetName": "Rally",
+        "assetArcId": "AMB:RLY000000615",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "rly_krw",
+        "instrumentType": "spot"
+    }
+]

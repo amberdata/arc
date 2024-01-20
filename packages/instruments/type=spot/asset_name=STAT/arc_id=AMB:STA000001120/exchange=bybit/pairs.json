@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STA000001120_AMB:USD000000335",
+        "normalizedPair": "stat_usdt",
+        "normalizedSymbol": "stat",
+        "nativePair": "STATUSDT",
+        "exchange": "bybit",
+        "assetName": "STAT",
+        "assetArcId": "AMB:STA000001120",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "stat_usdt",
+        "instrumentType": "spot"
+    }
+]

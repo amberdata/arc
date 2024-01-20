@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OKB000002618_AMB:USD000000949",
+        "normalizedPair": "okbbear_usd",
+        "normalizedSymbol": "okbbear",
+        "nativePair": "OKBBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short OKB Token",
+        "assetArcId": "AMB:OKB000002618",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "okbbear_usd",
+        "instrumentType": "spot"
+    }
+]

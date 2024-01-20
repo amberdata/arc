@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ORB000000553_AMB:BTC000000000",
+        "normalizedPair": "orb_btc",
+        "normalizedSymbol": "orb",
+        "nativePair": "ORB/BTC",
+        "exchange": "bithumb",
+        "assetName": "Orbcity",
+        "assetArcId": "AMB:ORB000000553",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "orb_btc",
+        "instrumentType": "spot"
+    }
+]

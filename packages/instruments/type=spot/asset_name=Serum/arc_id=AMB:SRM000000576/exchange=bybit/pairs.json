@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SRM000000576_AMB:USD000000335",
+        "normalizedPair": "srm_usdt",
+        "normalizedSymbol": "srm",
+        "nativePair": "SRMUSDT",
+        "exchange": "bybit",
+        "assetName": "Serum",
+        "assetArcId": "AMB:SRM000000576",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "srm_usdt",
+        "instrumentType": "spot"
+    }
+]

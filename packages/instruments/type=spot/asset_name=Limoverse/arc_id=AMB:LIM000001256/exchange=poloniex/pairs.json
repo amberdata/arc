@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LIM000001256_AMB:USD000000335",
+        "normalizedPair": "limo_usdt",
+        "normalizedSymbol": "limo",
+        "nativePair": "LIMO_USDT",
+        "exchange": "poloniex",
+        "assetName": "Limoverse",
+        "assetArcId": "AMB:LIM000001256",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "limo_usdt",
+        "instrumentType": "spot"
+    }
+]

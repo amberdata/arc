@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WNX000000353_AMB:USD000000335",
+        "normalizedPair": "wnxm_usdt",
+        "normalizedSymbol": "wnxm",
+        "nativePair": "WNXMUSDT",
+        "exchange": "mexc",
+        "assetName": "Wrapped NXM",
+        "assetArcId": "AMB:WNX000000353",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wnxm_usdt",
+        "instrumentType": "spot"
+    }
+]

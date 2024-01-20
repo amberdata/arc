@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TIT000000827_AMB:USD000000335",
+        "normalizedPair": "titan_usdt",
+        "normalizedSymbol": "titan",
+        "nativePair": "titanusdt",
+        "exchange": "huobi",
+        "assetName": "Titanswap",
+        "assetArcId": "AMB:TIT000000827",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "titan_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:AVA000000039_AMB:EUR000000120",
+        "normalizedPair": "avax_eur",
+        "normalizedSymbol": "avax",
+        "nativePair": "AVAXEUR",
+        "exchange": "kraken",
+        "assetName": "Avalanche",
+        "assetArcId": "AMB:AVA000000039",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "avax_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AVA000000039_AMB:USD000000949",
+        "normalizedPair": "avax_usd",
+        "normalizedSymbol": "avax",
+        "nativePair": "AVAXUSD",
+        "exchange": "kraken",
+        "assetName": "Avalanche",
+        "assetArcId": "AMB:AVA000000039",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "avax_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AVA000000039_AMB:USD000000335",
+        "normalizedPair": "avax_usdt",
+        "normalizedSymbol": "avax",
+        "nativePair": "AVAXUSDT",
+        "exchange": "kraken",
+        "assetName": "Avalanche",
+        "assetArcId": "AMB:AVA000000039",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "avax_usdt",
+        "instrumentType": "spot"
+    }
+]

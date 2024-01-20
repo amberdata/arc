@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WLK000000859_AMB:USD000000335",
+        "normalizedPair": "wlkn_usdt",
+        "normalizedSymbol": "wlkn",
+        "nativePair": "wlknusdt",
+        "exchange": "huobi",
+        "assetName": "Walken",
+        "assetArcId": "AMB:WLK000000859",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wlkn_usdt",
+        "instrumentType": "spot"
+    }
+]

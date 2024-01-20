@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRE000000939_AMB:USD000000949",
+        "normalizedPair": "treeb_usd",
+        "normalizedSymbol": "treeb",
+        "nativePair": "tTREEB:USD",
+        "exchange": "bitfinex",
+        "assetName": "Retreeb",
+        "assetArcId": "AMB:TRE000000939",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "treeb_usd",
+        "instrumentType": "spot"
+    }
+]

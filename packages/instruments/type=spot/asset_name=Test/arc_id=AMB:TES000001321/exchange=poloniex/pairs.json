@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TES000001321_AMB:USD000000335",
+        "normalizedPair": "test_usdt",
+        "normalizedSymbol": "test",
+        "nativePair": "TEST_USDT",
+        "exchange": "poloniex",
+        "assetName": "Test",
+        "assetArcId": "AMB:TES000001321",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "test_usdt",
+        "instrumentType": "spot"
+    }
+]

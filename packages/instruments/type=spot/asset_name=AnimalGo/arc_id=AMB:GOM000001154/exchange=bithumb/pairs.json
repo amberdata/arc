@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GOM000001154_AMB:KRW000000000",
+        "normalizedPair": "gom2_krw",
+        "normalizedSymbol": "gom2",
+        "nativePair": "GOM2/KRW",
+        "exchange": "bithumb",
+        "assetName": "AnimalGo",
+        "assetArcId": "AMB:GOM000001154",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "gom2_krw",
+        "instrumentType": "spot"
+    }
+]

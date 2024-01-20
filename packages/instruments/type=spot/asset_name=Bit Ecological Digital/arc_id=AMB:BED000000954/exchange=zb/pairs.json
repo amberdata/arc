@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BED000000954_AMB:QCA000000000",
+        "normalizedPair": "bed_qc",
+        "normalizedSymbol": "bed",
+        "nativePair": "bed_qc",
+        "exchange": "zb",
+        "assetName": "Bit Ecological Digital",
+        "assetArcId": "AMB:BED000000954",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "bed_qc",
+        "instrumentType": "spot"
+    }
+]

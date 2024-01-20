@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ARP000000029_AMB:EUR000000120",
+        "normalizedPair": "arpa_eur",
+        "normalizedSymbol": "arpa",
+        "nativePair": "ARPAEUR",
+        "exchange": "kraken",
+        "assetName": "ARPA Chain",
+        "assetArcId": "AMB:ARP000000029",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "arpa_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ARP000000029_AMB:USD000000949",
+        "normalizedPair": "arpa_usd",
+        "normalizedSymbol": "arpa",
+        "nativePair": "ARPAUSD",
+        "exchange": "kraken",
+        "assetName": "ARPA Chain",
+        "assetArcId": "AMB:ARP000000029",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "arpa_usd",
+        "instrumentType": "spot"
+    }
+]

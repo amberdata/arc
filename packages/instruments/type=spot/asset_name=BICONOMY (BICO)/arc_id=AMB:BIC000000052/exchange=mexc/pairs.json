@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BIC000000052_AMB:USD000000335",
+        "normalizedPair": "bico_usdt",
+        "normalizedSymbol": "bico",
+        "nativePair": "BICOUSDT",
+        "exchange": "mexc",
+        "assetName": "BICONOMY (BICO)",
+        "assetArcId": "AMB:BIC000000052",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bico_usdt",
+        "instrumentType": "spot"
+    }
+]

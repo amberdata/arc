@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XPR000000875_AMB:USD000000335",
+        "normalizedPair": "xprt_usdt",
+        "normalizedSymbol": "xprt",
+        "nativePair": "xprtusdt",
+        "exchange": "huobi",
+        "assetName": "Persistence",
+        "assetArcId": "AMB:XPR000000875",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xprt_usdt",
+        "instrumentType": "spot"
+    }
+]

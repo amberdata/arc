@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SUI000001121_AMB:USD000000335",
+        "normalizedPair": "suia_usdt",
+        "normalizedSymbol": "suia",
+        "nativePair": "SUIAUSDT",
+        "exchange": "bybit",
+        "assetName": "SUIA",
+        "assetArcId": "AMB:SUI000001121",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "suia_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MET000001920_AMB:USD000000335",
+        "normalizedPair": "meto_usdt",
+        "normalizedSymbol": "meto",
+        "nativePair": "METOUSDT",
+        "exchange": "mexc",
+        "assetName": "Metoshi",
+        "assetArcId": "AMB:MET000001920",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "meto_usdt",
+        "instrumentType": "spot"
+    }
+]

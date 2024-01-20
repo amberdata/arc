@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRI000000835_AMB:USD000000335",
+        "normalizedPair": "tribe_usdt",
+        "normalizedSymbol": "tribe",
+        "nativePair": "tribeusdt",
+        "exchange": "huobi",
+        "assetName": "Tribe",
+        "assetArcId": "AMB:TRI000000835",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tribe_usdt",
+        "instrumentType": "spot"
+    }
+]

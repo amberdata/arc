@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ARB000000024_AMB:KRW000000000",
+        "normalizedPair": "arb_krw",
+        "normalizedSymbol": "arb",
+        "nativePair": "ARB/KRW",
+        "exchange": "bithumb",
+        "assetName": "Arbitrum",
+        "assetArcId": "AMB:ARB000000024",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "arb_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FEG000001656_AMB:USD000000335",
+        "normalizedPair": "feg_usdt",
+        "normalizedSymbol": "feg",
+        "nativePair": "FEGUSDT",
+        "exchange": "mexc",
+        "assetName": "FEG Token [NEW]",
+        "assetArcId": "AMB:FEG000001656",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "feg_usdt",
+        "instrumentType": "spot"
+    }
+]

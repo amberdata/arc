@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MEV000000741_AMB:USD000000335",
+        "normalizedPair": "mev_usdt",
+        "normalizedSymbol": "mev",
+        "nativePair": "MEVUSDT",
+        "exchange": "mexc",
+        "assetName": "MEVerse",
+        "assetArcId": "AMB:MEV000000741",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mev_usdt",
+        "instrumentType": "spot"
+    }
+]

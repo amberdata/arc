@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XRP000002382_AMB:USD000000335",
+        "normalizedPair": "xrpaynet_usdt",
+        "normalizedSymbol": "xrpaynet",
+        "nativePair": "XRPAYNETUSDT",
+        "exchange": "mexc",
+        "assetName": "XRPayNet",
+        "assetArcId": "AMB:XRP000002382",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xrpaynet_usdt",
+        "instrumentType": "spot"
+    }
+]

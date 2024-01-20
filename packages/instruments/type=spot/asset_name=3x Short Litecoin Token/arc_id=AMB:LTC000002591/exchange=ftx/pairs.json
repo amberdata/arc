@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LTC000002591_AMB:USD000000949",
+        "normalizedPair": "ltcbear_usd",
+        "normalizedSymbol": "ltcbear",
+        "nativePair": "LTCBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3x Short Litecoin Token",
+        "assetArcId": "AMB:LTC000002591",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ltcbear_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LTC000002591_AMB:USD000000335",
+        "normalizedPair": "ltcbear_usdt",
+        "normalizedSymbol": "ltcbear",
+        "nativePair": "LTCBEAR/USDT",
+        "exchange": "ftx",
+        "assetName": "3x Short Litecoin Token",
+        "assetArcId": "AMB:LTC000002591",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ltcbear_usdt",
+        "instrumentType": "spot"
+    }
+]

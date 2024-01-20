@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MCO000000420_AMB:USD000000949",
+        "normalizedPair": "mco2_usd",
+        "normalizedSymbol": "mco2",
+        "nativePair": "MCO2-USD",
+        "exchange": "gdax",
+        "assetName": "Moss Carbon Credit",
+        "assetArcId": "AMB:MCO000000420",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mco2_usd",
+        "instrumentType": "spot"
+    }
+]

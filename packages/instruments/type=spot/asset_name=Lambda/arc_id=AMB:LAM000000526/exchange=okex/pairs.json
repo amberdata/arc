@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LAM000000526_AMB:USD000000335",
+        "normalizedPair": "lamb_usdt",
+        "normalizedSymbol": "lamb",
+        "nativePair": "LAMB-USDT",
+        "exchange": "okex",
+        "assetName": "Lambda",
+        "assetArcId": "AMB:LAM000000526",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lamb_usdt",
+        "instrumentType": "spot"
+    }
+]

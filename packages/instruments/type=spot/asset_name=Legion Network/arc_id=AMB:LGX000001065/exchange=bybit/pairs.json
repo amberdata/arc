@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LGX000001065_AMB:USD000000335",
+        "normalizedPair": "lgx_usdt",
+        "normalizedSymbol": "lgx",
+        "nativePair": "LGXUSDT",
+        "exchange": "bybit",
+        "assetName": "Legion Network",
+        "assetArcId": "AMB:LGX000001065",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lgx_usdt",
+        "instrumentType": "spot"
+    }
+]

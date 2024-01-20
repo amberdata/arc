@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MPL000000749_AMB:USD000000949",
+        "normalizedPair": "mplx_usd",
+        "normalizedSymbol": "mplx",
+        "nativePair": "MPLX/USD",
+        "exchange": "ftx",
+        "assetName": "Metaplex",
+        "assetArcId": "AMB:MPL000000749",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mplx_usd",
+        "instrumentType": "spot"
+    }
+]

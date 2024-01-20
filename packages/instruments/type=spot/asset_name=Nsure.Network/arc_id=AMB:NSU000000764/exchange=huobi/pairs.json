@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NSU000000764_AMB:USD000000335",
+        "normalizedPair": "nsure_usdt",
+        "normalizedSymbol": "nsure",
+        "nativePair": "nsureusdt",
+        "exchange": "huobi",
+        "assetName": "Nsure.Network",
+        "assetArcId": "AMB:NSU000000764",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nsure_usdt",
+        "instrumentType": "spot"
+    }
+]

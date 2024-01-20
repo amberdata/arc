@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UTA000000843_AMB:USD000000335",
+        "normalizedPair": "ut_usdt",
+        "normalizedSymbol": "ut",
+        "nativePair": "UT_USDT",
+        "exchange": "poloniex",
+        "assetName": "Fantaverse",
+        "assetArcId": "AMB:UTA000000843",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ut_usdt",
+        "instrumentType": "spot"
+    }
+]

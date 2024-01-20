@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ARK000000027_AMB:KRW000000000",
+        "normalizedPair": "arkm_krw",
+        "normalizedSymbol": "arkm",
+        "nativePair": "ARKM/KRW",
+        "exchange": "bithumb",
+        "assetName": "Arkham",
+        "assetArcId": "AMB:ARK000000027",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "arkm_krw",
+        "instrumentType": "spot"
+    }
+]

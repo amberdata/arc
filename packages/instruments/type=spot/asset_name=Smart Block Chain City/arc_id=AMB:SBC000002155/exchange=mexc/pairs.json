@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SBC000002155_AMB:USD000000335",
+        "normalizedPair": "sbcc_usdt",
+        "normalizedSymbol": "sbcc",
+        "nativePair": "SBCCUSDT",
+        "exchange": "mexc",
+        "assetName": "Smart Block Chain City",
+        "assetArcId": "AMB:SBC000002155",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sbcc_usdt",
+        "instrumentType": "spot"
+    }
+]

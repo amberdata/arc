@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ICX000000165_AMB:USD000000335",
+        "normalizedPair": "icx_usdt",
+        "normalizedSymbol": "icx",
+        "nativePair": "ICXUSDT",
+        "exchange": "binanceus",
+        "assetName": "ICON",
+        "assetArcId": "AMB:ICX000000165",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "icx_usdt",
+        "instrumentType": "spot"
+    }
+]

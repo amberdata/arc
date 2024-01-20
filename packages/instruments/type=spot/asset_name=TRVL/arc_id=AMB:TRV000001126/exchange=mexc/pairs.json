@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRV000001126_AMB:USD000000335",
+        "normalizedPair": "trvl_usdt",
+        "normalizedSymbol": "trvl",
+        "nativePair": "TRVLUSDT",
+        "exchange": "mexc",
+        "assetName": "TRVL",
+        "assetArcId": "AMB:TRV000001126",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trvl_usdt",
+        "instrumentType": "spot"
+    }
+]

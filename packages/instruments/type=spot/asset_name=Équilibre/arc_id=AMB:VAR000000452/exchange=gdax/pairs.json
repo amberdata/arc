@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VAR000000452_AMB:USD000000949",
+        "normalizedPair": "vara_usd",
+        "normalizedSymbol": "vara",
+        "nativePair": "VARA-USD",
+        "exchange": "gdax",
+        "assetName": "\u00c9quilibre",
+        "assetArcId": "AMB:VAR000000452",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "vara_usd",
+        "instrumentType": "spot"
+    }
+]

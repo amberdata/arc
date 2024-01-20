@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MTR000001961_AMB:USD000000335",
+        "normalizedPair": "mtrm_usdt",
+        "normalizedSymbol": "mtrm",
+        "nativePair": "MTRMUSDT",
+        "exchange": "mexc",
+        "assetName": "Materium",
+        "assetArcId": "AMB:MTR000001961",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mtrm_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JUN000001815_AMB:USD000000335",
+        "normalizedPair": "juno_usdt",
+        "normalizedSymbol": "juno",
+        "nativePair": "JUNOUSDT",
+        "exchange": "mexc",
+        "assetName": "JUNO",
+        "assetArcId": "AMB:JUN000001815",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "juno_usdt",
+        "instrumentType": "spot"
+    }
+]

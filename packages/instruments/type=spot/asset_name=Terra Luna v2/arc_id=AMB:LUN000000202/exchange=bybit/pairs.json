@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LUN000000202_AMB:USD000000335",
+        "normalizedPair": "luna_usdt",
+        "normalizedSymbol": "luna",
+        "nativePair": "LUNAUSDT",
+        "exchange": "bybit",
+        "assetName": "Terra Luna v2",
+        "assetArcId": "AMB:LUN000000202",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "luna_usdt",
+        "instrumentType": "spot"
+    }
+]

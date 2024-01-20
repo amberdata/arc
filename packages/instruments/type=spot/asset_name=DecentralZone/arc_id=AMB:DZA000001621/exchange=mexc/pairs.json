@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DZA000001621_AMB:USD000000335",
+        "normalizedPair": "dz_usdt",
+        "normalizedSymbol": "dz",
+        "nativePair": "DZUSDT",
+        "exchange": "mexc",
+        "assetName": "DecentralZone",
+        "assetArcId": "AMB:DZA000001621",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dz_usdt",
+        "instrumentType": "spot"
+    }
+]

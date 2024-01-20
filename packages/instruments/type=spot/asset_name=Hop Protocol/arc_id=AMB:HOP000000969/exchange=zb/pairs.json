@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HOP000000969_AMB:USD000000335",
+        "normalizedPair": "hop_usdt",
+        "normalizedSymbol": "hop",
+        "nativePair": "hop_usdt",
+        "exchange": "zb",
+        "assetName": "Hop Protocol",
+        "assetArcId": "AMB:HOP000000969",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hop_usdt",
+        "instrumentType": "spot"
+    }
+]

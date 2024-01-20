@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:RAI000000440_AMB:QCA000000000",
+        "normalizedPair": "rai_qc",
+        "normalizedSymbol": "rai",
+        "nativePair": "rai_qc",
+        "exchange": "zb",
+        "assetName": "Rai Reflex Index",
+        "assetArcId": "AMB:RAI000000440",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "rai_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RAI000000440_AMB:USD000000335",
+        "normalizedPair": "rai_usdt",
+        "normalizedSymbol": "rai",
+        "nativePair": "rai_usdt",
+        "exchange": "zb",
+        "assetName": "Rai Reflex Index",
+        "assetArcId": "AMB:RAI000000440",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rai_usdt",
+        "instrumentType": "spot"
+    }
+]

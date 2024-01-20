@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LLA000001257_AMB:USD000000335",
+        "normalizedPair": "ll_usdt",
+        "normalizedSymbol": "ll",
+        "nativePair": "LL_USDT",
+        "exchange": "poloniex",
+        "assetName": "Liangle",
+        "assetArcId": "AMB:LLA000001257",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ll_usdt",
+        "instrumentType": "spot"
+    }
+]

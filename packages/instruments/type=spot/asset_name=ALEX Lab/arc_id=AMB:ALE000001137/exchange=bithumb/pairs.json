@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALE000001137_AMB:KRW000000000",
+        "normalizedPair": "alex_krw",
+        "normalizedSymbol": "alex",
+        "nativePair": "ALEX/KRW",
+        "exchange": "bithumb",
+        "assetName": "ALEX Lab",
+        "assetArcId": "AMB:ALE000001137",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "alex_krw",
+        "instrumentType": "spot"
+    }
+]

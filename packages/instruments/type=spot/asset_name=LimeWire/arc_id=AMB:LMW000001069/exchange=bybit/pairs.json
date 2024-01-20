@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LMW000001069_AMB:USD000000335",
+        "normalizedPair": "lmwr_usdt",
+        "normalizedSymbol": "lmwr",
+        "nativePair": "LMWRUSDT",
+        "exchange": "bybit",
+        "assetName": "LimeWire",
+        "assetArcId": "AMB:LMW000001069",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lmwr_usdt",
+        "instrumentType": "spot"
+    }
+]

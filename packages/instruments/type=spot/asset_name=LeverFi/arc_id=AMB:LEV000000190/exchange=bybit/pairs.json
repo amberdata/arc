@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LEV000000190_AMB:USD000000335",
+        "normalizedPair": "lever_usdt",
+        "normalizedSymbol": "lever",
+        "nativePair": "LEVERUSDT",
+        "exchange": "bybit",
+        "assetName": "LeverFi",
+        "assetArcId": "AMB:LEV000000190",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lever_usdt",
+        "instrumentType": "spot"
+    }
+]

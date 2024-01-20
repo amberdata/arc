@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ORN000000240_AMB:BTC000000000",
+        "normalizedPair": "orn_btc",
+        "normalizedSymbol": "orn",
+        "nativePair": "ORNBTC",
+        "exchange": "binance",
+        "assetName": "Orion Protocol",
+        "assetArcId": "AMB:ORN000000240",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "orn_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ORN000000240_AMB:USD000000335",
+        "normalizedPair": "orn_usdt",
+        "normalizedSymbol": "orn",
+        "nativePair": "ORNUSDT",
+        "exchange": "binance",
+        "assetName": "Orion Protocol",
+        "assetArcId": "AMB:ORN000000240",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "orn_usdt",
+        "instrumentType": "spot"
+    }
+]

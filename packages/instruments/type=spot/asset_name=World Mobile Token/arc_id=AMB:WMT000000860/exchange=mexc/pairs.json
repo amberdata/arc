@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WMT000000860_AMB:USD000000335",
+        "normalizedPair": "wmt_usdt",
+        "normalizedSymbol": "wmt",
+        "nativePair": "WMTUSDT",
+        "exchange": "mexc",
+        "assetName": "World Mobile Token",
+        "assetArcId": "AMB:WMT000000860",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wmt_usdt",
+        "instrumentType": "spot"
+    }
+]

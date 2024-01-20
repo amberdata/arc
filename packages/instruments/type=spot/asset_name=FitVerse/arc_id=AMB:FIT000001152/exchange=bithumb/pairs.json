@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FIT000001152_AMB:KRW000000000",
+        "normalizedPair": "fit_krw",
+        "normalizedSymbol": "fit",
+        "nativePair": "FIT/KRW",
+        "exchange": "bithumb",
+        "assetName": "FitVerse",
+        "assetArcId": "AMB:FIT000001152",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "fit_krw",
+        "instrumentType": "spot"
+    }
+]

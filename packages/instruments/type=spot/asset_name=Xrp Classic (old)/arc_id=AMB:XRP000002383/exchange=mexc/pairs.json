@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XRP000002383_AMB:USD000000335",
+        "normalizedPair": "xrpc_usdt",
+        "normalizedSymbol": "xrpc",
+        "nativePair": "XRPCUSDT",
+        "exchange": "mexc",
+        "assetName": "Xrp Classic (old)",
+        "assetArcId": "AMB:XRP000002383",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xrpc_usdt",
+        "instrumentType": "spot"
+    }
+]

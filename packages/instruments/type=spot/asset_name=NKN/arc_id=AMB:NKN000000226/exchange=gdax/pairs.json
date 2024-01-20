@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:NKN000000226_AMB:BTC000000000",
+        "normalizedPair": "nkn_btc",
+        "normalizedSymbol": "nkn",
+        "nativePair": "NKN-BTC",
+        "exchange": "gdax",
+        "assetName": "NKN",
+        "assetArcId": "AMB:NKN000000226",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "nkn_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NKN000000226_AMB:EUR000000120",
+        "normalizedPair": "nkn_eur",
+        "normalizedSymbol": "nkn",
+        "nativePair": "NKN-EUR",
+        "exchange": "gdax",
+        "assetName": "NKN",
+        "assetArcId": "AMB:NKN000000226",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "nkn_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NKN000000226_AMB:GBP000000144",
+        "normalizedPair": "nkn_gbp",
+        "normalizedSymbol": "nkn",
+        "nativePair": "NKN-GBP",
+        "exchange": "gdax",
+        "assetName": "NKN",
+        "assetArcId": "AMB:NKN000000226",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "nkn_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NKN000000226_AMB:USD000000949",
+        "normalizedPair": "nkn_usd",
+        "normalizedSymbol": "nkn",
+        "nativePair": "NKN-USD",
+        "exchange": "gdax",
+        "assetName": "NKN",
+        "assetArcId": "AMB:NKN000000226",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "nkn_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GOG000000513_AMB:USD000000335",
+        "normalizedPair": "gog_usdt",
+        "normalizedSymbol": "gog",
+        "nativePair": "GOG-USDT",
+        "exchange": "okex",
+        "assetName": "Guild of Guardians",
+        "assetArcId": "AMB:GOG000000513",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gog_usdt",
+        "instrumentType": "spot"
+    }
+]

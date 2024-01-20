@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:KRW000000000",
+        "normalizedPair": "bch_krw",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCH/KRW",
+        "exchange": "bithumb",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "bch_krw",
+        "instrumentType": "spot"
+    }
+]

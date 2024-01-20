@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BRE000000642_AMB:USD000000335",
+        "normalizedPair": "breed_usdt",
+        "normalizedSymbol": "breed",
+        "nativePair": "breedusdt",
+        "exchange": "huobi",
+        "assetName": "BreederDAO",
+        "assetArcId": "AMB:BRE000000642",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "breed_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BOB000000639_AMB:USD000000335",
+        "normalizedPair": "bob_usdt",
+        "normalizedSymbol": "bob",
+        "nativePair": "BOBUSDT",
+        "exchange": "bybit",
+        "assetName": "BOB Coin",
+        "assetArcId": "AMB:BOB000000639",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bob_usdt",
+        "instrumentType": "spot"
+    }
+]

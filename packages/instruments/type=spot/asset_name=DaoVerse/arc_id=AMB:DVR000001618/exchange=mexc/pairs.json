@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DVR000001618_AMB:USD000000335",
+        "normalizedPair": "dvrs_usdt",
+        "normalizedSymbol": "dvrs",
+        "nativePair": "DVRSUSDT",
+        "exchange": "mexc",
+        "assetName": "DaoVerse",
+        "assetArcId": "AMB:DVR000001618",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dvrs_usdt",
+        "instrumentType": "spot"
+    }
+]

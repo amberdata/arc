@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NIO000002614_AMB:USD000000949",
+        "normalizedPair": "nio_usd",
+        "normalizedSymbol": "nio",
+        "nativePair": "NIO/USD",
+        "exchange": "ftx",
+        "assetName": "Nio Tokenized Stock",
+        "assetArcId": "AMB:NIO000002614",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "nio_usd",
+        "instrumentType": "spot"
+    }
+]

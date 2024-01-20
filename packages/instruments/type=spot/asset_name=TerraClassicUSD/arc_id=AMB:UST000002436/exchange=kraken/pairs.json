@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:UST000002436_AMB:EUR000000120",
+        "normalizedPair": "ust.amb.1_eur",
+        "normalizedSymbol": "ust.amb.1",
+        "nativePair": "USTEUR",
+        "exchange": "kraken",
+        "assetName": "TerraClassicUSD",
+        "assetArcId": "AMB:UST000002436",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "ust_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:UST000002436_AMB:USD000000949",
+        "normalizedPair": "ust.amb.1_usd",
+        "normalizedSymbol": "ust.amb.1",
+        "nativePair": "USTUSD",
+        "exchange": "kraken",
+        "assetName": "TerraClassicUSD",
+        "assetArcId": "AMB:UST000002436",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ust_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:UST000002436_AMB:USD000000333",
+        "normalizedPair": "ust.amb.1_usdc",
+        "normalizedSymbol": "ust.amb.1",
+        "nativePair": "USTUSDC",
+        "exchange": "kraken",
+        "assetName": "TerraClassicUSD",
+        "assetArcId": "AMB:UST000002436",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "ust_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:UST000002436_AMB:USD000000335",
+        "normalizedPair": "ust.amb.1_usdt",
+        "normalizedSymbol": "ust.amb.1",
+        "nativePair": "USTUSDT",
+        "exchange": "kraken",
+        "assetName": "TerraClassicUSD",
+        "assetArcId": "AMB:UST000002436",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ust_usdt",
+        "instrumentType": "spot"
+    }
+]

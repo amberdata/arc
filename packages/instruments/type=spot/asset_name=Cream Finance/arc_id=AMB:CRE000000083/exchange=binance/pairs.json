@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRE000000083_AMB:USD000000335",
+        "normalizedPair": "cream_usdt",
+        "normalizedSymbol": "cream",
+        "nativePair": "CREAMUSDT",
+        "exchange": "binance",
+        "assetName": "Cream Finance",
+        "assetArcId": "AMB:CRE000000083",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cream_usdt",
+        "instrumentType": "spot"
+    }
+]

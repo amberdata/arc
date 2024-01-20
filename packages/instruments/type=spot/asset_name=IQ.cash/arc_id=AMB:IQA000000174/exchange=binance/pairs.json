@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IQA000000174_AMB:USD000000335",
+        "normalizedPair": "iq_usdt",
+        "normalizedSymbol": "iq",
+        "nativePair": "IQUSDT",
+        "exchange": "binance",
+        "assetName": "IQ.cash",
+        "assetArcId": "AMB:IQA000000174",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "iq_usdt",
+        "instrumentType": "spot"
+    }
+]

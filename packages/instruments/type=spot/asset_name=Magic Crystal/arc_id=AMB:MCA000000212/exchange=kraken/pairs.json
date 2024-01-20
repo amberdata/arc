@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MCA000000212_AMB:EUR000000120",
+        "normalizedPair": "mc_eur",
+        "normalizedSymbol": "mc",
+        "nativePair": "MCEUR",
+        "exchange": "kraken",
+        "assetName": "Magic Crystal",
+        "assetArcId": "AMB:MCA000000212",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "mc_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MCA000000212_AMB:USD000000949",
+        "normalizedPair": "mc_usd",
+        "normalizedSymbol": "mc",
+        "nativePair": "MCUSD",
+        "exchange": "kraken",
+        "assetName": "Magic Crystal",
+        "assetArcId": "AMB:MCA000000212",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mc_usd",
+        "instrumentType": "spot"
+    }
+]

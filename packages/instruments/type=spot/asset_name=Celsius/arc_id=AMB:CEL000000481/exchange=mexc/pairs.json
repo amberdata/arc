@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:CEL000000481_AMB:USD000000333",
+        "normalizedPair": "cel_usdc",
+        "normalizedSymbol": "cel",
+        "nativePair": "CELUSDC",
+        "exchange": "mexc",
+        "assetName": "Celsius",
+        "assetArcId": "AMB:CEL000000481",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "cel_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CEL000000481_AMB:USD000000335",
+        "normalizedPair": "cel_usdt",
+        "normalizedSymbol": "cel",
+        "nativePair": "CELUSDT",
+        "exchange": "mexc",
+        "assetName": "Celsius",
+        "assetArcId": "AMB:CEL000000481",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cel_usdt",
+        "instrumentType": "spot"
+    }
+]

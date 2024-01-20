@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XCV000002365_AMB:USD000000335",
+        "normalizedPair": "xcv_usdt",
+        "normalizedSymbol": "xcv",
+        "nativePair": "XCVUSDT",
+        "exchange": "mexc",
+        "assetName": "XCarnival",
+        "assetArcId": "AMB:XCV000002365",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xcv_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAR000001442_AMB:USD000000335",
+        "normalizedPair": "bartsimpson_usdt",
+        "normalizedSymbol": "bartsimpson",
+        "nativePair": "BARTSIMPSONUSDT",
+        "exchange": "mexc",
+        "assetName": "Bart Simpson",
+        "assetArcId": "AMB:BAR000001442",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bartsimpson_usdt",
+        "instrumentType": "spot"
+    }
+]

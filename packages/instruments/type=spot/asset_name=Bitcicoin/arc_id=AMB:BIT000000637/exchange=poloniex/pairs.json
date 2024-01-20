@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BIT000000637_AMB:USD000000841",
+        "normalizedPair": "bitci_usdd",
+        "normalizedSymbol": "bitci",
+        "nativePair": "BITCI_USDD",
+        "exchange": "poloniex",
+        "assetName": "Bitcicoin",
+        "assetArcId": "AMB:BIT000000637",
+        "quoteArcId": "AMB:USD000000841",
+        "collectedPair": "bitci_usdd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BIT000000637_AMB:USD000000335",
+        "normalizedPair": "bitci_usdt",
+        "normalizedSymbol": "bitci",
+        "nativePair": "BITCI_USDT",
+        "exchange": "poloniex",
+        "assetName": "Bitcicoin",
+        "assetArcId": "AMB:BIT000000637",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bitci_usdt",
+        "instrumentType": "spot"
+    }
+]

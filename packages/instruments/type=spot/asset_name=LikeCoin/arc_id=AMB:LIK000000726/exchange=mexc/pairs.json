@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LIK000000726_AMB:USD000000335",
+        "normalizedPair": "like_usdt",
+        "normalizedSymbol": "like",
+        "nativePair": "LIKEUSDT",
+        "exchange": "mexc",
+        "assetName": "LikeCoin",
+        "assetArcId": "AMB:LIK000000726",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "like_usdt",
+        "instrumentType": "spot"
+    }
+]

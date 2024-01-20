@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IMX000000169_AMB:KRW000000000",
+        "normalizedPair": "imx_krw",
+        "normalizedSymbol": "imx",
+        "nativePair": "IMX/KRW",
+        "exchange": "bithumb",
+        "assetName": "Immutable",
+        "assetArcId": "AMB:IMX000000169",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "imx_krw",
+        "instrumentType": "spot"
+    }
+]

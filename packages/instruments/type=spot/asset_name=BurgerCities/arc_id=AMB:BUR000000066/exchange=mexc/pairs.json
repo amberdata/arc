@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BUR000000066_AMB:USD000000335",
+        "normalizedPair": "burger_usdt",
+        "normalizedSymbol": "burger",
+        "nativePair": "BURGERUSDT",
+        "exchange": "mexc",
+        "assetName": "BurgerCities",
+        "assetArcId": "AMB:BUR000000066",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "burger_usdt",
+        "instrumentType": "spot"
+    }
+]

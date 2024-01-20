@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FDT000000680_AMB:USD000000335",
+        "normalizedPair": "fdt_usdt",
+        "normalizedSymbol": "fdt",
+        "nativePair": "fdtusdt",
+        "exchange": "huobi",
+        "assetName": "Frutti Dino",
+        "assetArcId": "AMB:FDT000000680",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fdt_usdt",
+        "instrumentType": "spot"
+    }
+]

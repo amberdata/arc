@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FER000001228_AMB:USD000000335",
+        "normalizedPair": "ferc_usdt",
+        "normalizedSymbol": "ferc",
+        "nativePair": "FERC_USDT",
+        "exchange": "poloniex",
+        "assetName": "FairERC20",
+        "assetArcId": "AMB:FER000001228",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ferc_usdt",
+        "instrumentType": "spot"
+    }
+]

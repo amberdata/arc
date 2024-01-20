@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:KAV000000180_AMB:BNB000000055",
+        "normalizedPair": "kava_bnb",
+        "normalizedSymbol": "kava",
+        "nativePair": "KAVABNB",
+        "exchange": "binance",
+        "assetName": "Kava",
+        "assetArcId": "AMB:KAV000000180",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "kava_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KAV000000180_AMB:BTC000000000",
+        "normalizedPair": "kava_btc",
+        "normalizedSymbol": "kava",
+        "nativePair": "KAVABTC",
+        "exchange": "binance",
+        "assetName": "Kava",
+        "assetArcId": "AMB:KAV000000180",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "kava_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KAV000000180_AMB:BUS000000067",
+        "normalizedPair": "kava_busd",
+        "normalizedSymbol": "kava",
+        "nativePair": "KAVABUSD",
+        "exchange": "binance",
+        "assetName": "Kava",
+        "assetArcId": "AMB:KAV000000180",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "kava_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KAV000000180_AMB:ETH000000000",
+        "normalizedPair": "kava_eth",
+        "normalizedSymbol": "kava",
+        "nativePair": "KAVAETH",
+        "exchange": "binance",
+        "assetName": "Kava",
+        "assetArcId": "AMB:KAV000000180",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "kava_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KAV000000180_AMB:USD000000335",
+        "normalizedPair": "kava_usdt",
+        "normalizedSymbol": "kava",
+        "nativePair": "KAVAUSDT",
+        "exchange": "binance",
+        "assetName": "Kava",
+        "assetArcId": "AMB:KAV000000180",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kava_usdt",
+        "instrumentType": "spot"
+    }
+]

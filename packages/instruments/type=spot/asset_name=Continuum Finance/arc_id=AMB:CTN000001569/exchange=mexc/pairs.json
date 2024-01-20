@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CTN000001569_AMB:USD000000335",
+        "normalizedPair": "ctn_usdt",
+        "normalizedSymbol": "ctn",
+        "nativePair": "CTNUSDT",
+        "exchange": "mexc",
+        "assetName": "Continuum Finance",
+        "assetArcId": "AMB:CTN000001569",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ctn_usdt",
+        "instrumentType": "spot"
+    }
+]

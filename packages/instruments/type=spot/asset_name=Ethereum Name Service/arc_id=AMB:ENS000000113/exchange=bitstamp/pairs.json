@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ENS000000113_AMB:EUR000000120",
+        "normalizedPair": "ens_eur",
+        "normalizedSymbol": "ens",
+        "nativePair": "enseur",
+        "exchange": "bitstamp",
+        "assetName": "Ethereum Name Service",
+        "assetArcId": "AMB:ENS000000113",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "ens_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ENS000000113_AMB:USD000000949",
+        "normalizedPair": "ens_usd",
+        "normalizedSymbol": "ens",
+        "nativePair": "ensusd",
+        "exchange": "bitstamp",
+        "assetName": "Ethereum Name Service",
+        "assetArcId": "AMB:ENS000000113",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ens_usd",
+        "instrumentType": "spot"
+    }
+]

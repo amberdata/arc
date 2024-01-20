@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRU000000656_AMB:QCA000000000",
+        "normalizedPair": "cru_qc",
+        "normalizedSymbol": "cru",
+        "nativePair": "cru_qc",
+        "exchange": "zb",
+        "assetName": "Cryptounit",
+        "assetArcId": "AMB:CRU000000656",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "cru_qc",
+        "instrumentType": "spot"
+    }
+]

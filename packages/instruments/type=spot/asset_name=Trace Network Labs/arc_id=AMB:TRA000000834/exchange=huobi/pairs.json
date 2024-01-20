@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRA000000834_AMB:USD000000335",
+        "normalizedPair": "trace_usdt",
+        "normalizedSymbol": "trace",
+        "nativePair": "traceusdt",
+        "exchange": "huobi",
+        "assetName": "Trace Network Labs",
+        "assetArcId": "AMB:TRA000000834",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trace_usdt",
+        "instrumentType": "spot"
+    }
+]

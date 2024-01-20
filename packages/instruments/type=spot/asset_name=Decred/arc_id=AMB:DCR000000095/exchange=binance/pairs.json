@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:DCR000000095_AMB:BTC000000000",
+        "normalizedPair": "dcr_btc",
+        "normalizedSymbol": "dcr",
+        "nativePair": "DCRBTC",
+        "exchange": "binance",
+        "assetName": "Decred",
+        "assetArcId": "AMB:DCR000000095",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "dcr_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DCR000000095_AMB:USD000000335",
+        "normalizedPair": "dcr_usdt",
+        "normalizedSymbol": "dcr",
+        "nativePair": "DCRUSDT",
+        "exchange": "binance",
+        "assetName": "Decred",
+        "assetArcId": "AMB:DCR000000095",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dcr_usdt",
+        "instrumentType": "spot"
+    }
+]

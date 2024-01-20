@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BUL000002497_AMB:USD000000949",
+        "normalizedPair": "bullshit_usd",
+        "normalizedSymbol": "bullshit",
+        "nativePair": "BULLSHIT/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long Shitcoin Index Token",
+        "assetArcId": "AMB:BUL000002497",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bullshit_usd",
+        "instrumentType": "spot"
+    }
+]

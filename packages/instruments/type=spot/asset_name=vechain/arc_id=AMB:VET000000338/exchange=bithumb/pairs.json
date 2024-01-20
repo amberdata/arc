@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VET000000338_AMB:KRW000000000",
+        "normalizedPair": "vet_krw",
+        "normalizedSymbol": "vet",
+        "nativePair": "VET/KRW",
+        "exchange": "bithumb",
+        "assetName": "vechain",
+        "assetArcId": "AMB:VET000000338",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "vet_krw",
+        "instrumentType": "spot"
+    }
+]

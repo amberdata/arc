@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PXT000002102_AMB:USD000000335",
+        "normalizedPair": "pxt_usdt",
+        "normalizedSymbol": "pxt",
+        "nativePair": "PXTUSDT",
+        "exchange": "mexc",
+        "assetName": "Pixer Eternity",
+        "assetArcId": "AMB:PXT000002102",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pxt_usdt",
+        "instrumentType": "spot"
+    }
+]

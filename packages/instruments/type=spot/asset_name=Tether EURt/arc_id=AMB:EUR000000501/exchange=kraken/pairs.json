@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:EUR000000501_AMB:EUR000000120",
+        "normalizedPair": "eurt_eur",
+        "normalizedSymbol": "eurt",
+        "nativePair": "EURTEUR",
+        "exchange": "kraken",
+        "assetName": "Tether EURt",
+        "assetArcId": "AMB:EUR000000501",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "eurt_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:EUR000000501_AMB:USD000000949",
+        "normalizedPair": "eurt_usd",
+        "normalizedSymbol": "eurt",
+        "nativePair": "EURTUSD",
+        "exchange": "kraken",
+        "assetName": "Tether EURt",
+        "assetArcId": "AMB:EUR000000501",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "eurt_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:EUR000000501_AMB:USD000000335",
+        "normalizedPair": "eurt_usdt",
+        "normalizedSymbol": "eurt",
+        "nativePair": "EURTUSDT",
+        "exchange": "kraken",
+        "assetName": "Tether EURt",
+        "assetArcId": "AMB:EUR000000501",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "eurt_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HUM000002571_AMB:USD000000949",
+        "normalizedPair": "hum_usd",
+        "normalizedSymbol": "hum",
+        "nativePair": "HUM/USD",
+        "exchange": "ftx",
+        "assetName": "Hummus",
+        "assetArcId": "AMB:HUM000002571",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "hum_usd",
+        "instrumentType": "spot"
+    }
+]

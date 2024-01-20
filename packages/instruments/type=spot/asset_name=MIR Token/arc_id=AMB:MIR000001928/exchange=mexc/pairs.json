@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MIR000001928_AMB:USD000000335",
+        "normalizedPair": "mir_usdt",
+        "normalizedSymbol": "mir",
+        "nativePair": "MIRUSDT",
+        "exchange": "mexc",
+        "assetName": "MIR Token",
+        "assetArcId": "AMB:MIR000001928",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mir_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SOL000000298_AMB:USD000000949",
+        "normalizedPair": "sol_usd",
+        "normalizedSymbol": "sol",
+        "nativePair": "solusd",
+        "exchange": "gemini",
+        "assetName": "Solana",
+        "assetArcId": "AMB:SOL000000298",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sol_usd",
+        "instrumentType": "spot"
+    }
+]

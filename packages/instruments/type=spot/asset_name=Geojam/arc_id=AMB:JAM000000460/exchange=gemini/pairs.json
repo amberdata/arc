@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JAM000000460_AMB:USD000000949",
+        "normalizedPair": "jam_usd",
+        "normalizedSymbol": "jam",
+        "nativePair": "jamusd",
+        "exchange": "gemini",
+        "assetName": "Geojam",
+        "assetArcId": "AMB:JAM000000460",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "jam_usd",
+        "instrumentType": "spot"
+    }
+]

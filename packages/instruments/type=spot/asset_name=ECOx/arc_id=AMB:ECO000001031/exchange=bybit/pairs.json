@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ECO000001031_AMB:USD000000335",
+        "normalizedPair": "ecox_usdt",
+        "normalizedSymbol": "ecox",
+        "nativePair": "ECOXUSDT",
+        "exchange": "bybit",
+        "assetName": "ECOx",
+        "assetArcId": "AMB:ECO000001031",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ecox_usdt",
+        "instrumentType": "spot"
+    }
+]

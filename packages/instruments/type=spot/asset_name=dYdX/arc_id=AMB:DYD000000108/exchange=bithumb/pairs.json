@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DYD000000108_AMB:KRW000000000",
+        "normalizedPair": "dydx_krw",
+        "normalizedSymbol": "dydx",
+        "nativePair": "DYDX/KRW",
+        "exchange": "bithumb",
+        "assetName": "dYdX",
+        "assetArcId": "AMB:DYD000000108",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "dydx_krw",
+        "instrumentType": "spot"
+    }
+]

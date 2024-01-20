@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SCR000000290_AMB:EUR000000120",
+        "normalizedPair": "scrt_eur",
+        "normalizedSymbol": "scrt",
+        "nativePair": "SCRTEUR",
+        "exchange": "kraken",
+        "assetName": "Secret",
+        "assetArcId": "AMB:SCR000000290",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "scrt_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SCR000000290_AMB:USD000000949",
+        "normalizedPair": "scrt_usd",
+        "normalizedSymbol": "scrt",
+        "nativePair": "SCRTUSD",
+        "exchange": "kraken",
+        "assetName": "Secret",
+        "assetArcId": "AMB:SCR000000290",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "scrt_usd",
+        "instrumentType": "spot"
+    }
+]

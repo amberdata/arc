@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GNS000000153_AMB:USD000000335",
+        "normalizedPair": "gns_usdt",
+        "normalizedSymbol": "gns",
+        "nativePair": "gnsusdt",
+        "exchange": "huobi",
+        "assetName": "Gains Network",
+        "assetArcId": "AMB:GNS000000153",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gns_usdt",
+        "instrumentType": "spot"
+    }
+]

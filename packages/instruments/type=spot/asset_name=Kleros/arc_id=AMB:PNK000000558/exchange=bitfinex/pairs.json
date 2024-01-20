@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PNK000000558_AMB:USD000000949",
+        "normalizedPair": "pnk_usd",
+        "normalizedSymbol": "pnk",
+        "nativePair": "tPNKUSD",
+        "exchange": "bitfinex",
+        "assetName": "Kleros",
+        "assetArcId": "AMB:PNK000000558",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "pnk_usd",
+        "instrumentType": "spot"
+    }
+]

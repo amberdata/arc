@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MIL000001924_AMB:USD000000335",
+        "normalizedPair": "miloweb3_usdt",
+        "normalizedSymbol": "miloweb3",
+        "nativePair": "MILOWEB3USDT",
+        "exchange": "mexc",
+        "assetName": "Milo",
+        "assetArcId": "AMB:MIL000001924",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "miloweb3_usdt",
+        "instrumentType": "spot"
+    }
+]

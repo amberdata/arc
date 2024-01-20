@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SCR000000290_AMB:USD000000335",
+        "normalizedPair": "scrt_usdt",
+        "normalizedSymbol": "scrt",
+        "nativePair": "SCRTUSDT",
+        "exchange": "mexc",
+        "assetName": "Secret",
+        "assetArcId": "AMB:SCR000000290",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "scrt_usdt",
+        "instrumentType": "spot"
+    }
+]

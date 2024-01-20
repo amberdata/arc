@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BTT000000477_AMB:USD000000949",
+        "normalizedPair": "btt_usd",
+        "normalizedSymbol": "btt",
+        "nativePair": "tBTTUSD",
+        "exchange": "bitfinex",
+        "assetName": "BitTorrent",
+        "assetArcId": "AMB:BTT000000477",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "btt_usd",
+        "instrumentType": "spot"
+    }
+]

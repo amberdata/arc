@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RBC000002116_AMB:USD000000335",
+        "normalizedPair": "rbc_usdt",
+        "normalizedSymbol": "rbc",
+        "nativePair": "RBCUSDT",
+        "exchange": "mexc",
+        "assetName": "Real BIG Coin",
+        "assetArcId": "AMB:RBC000002116",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rbc_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AKR000000010_AMB:USD000000335",
+        "normalizedPair": "akro_usdt",
+        "normalizedSymbol": "akro",
+        "nativePair": "AKROUSDT",
+        "exchange": "mexc",
+        "assetName": "Akropolis",
+        "assetArcId": "AMB:AKR000000010",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "akro_usdt",
+        "instrumentType": "spot"
+    }
+]

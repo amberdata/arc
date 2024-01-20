@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BRI000000643_AMB:USD000000335",
+        "normalizedPair": "brise_usdt",
+        "normalizedSymbol": "brise",
+        "nativePair": "BRISE_USDT",
+        "exchange": "poloniex",
+        "assetName": "Bitgert",
+        "assetArcId": "AMB:BRI000000643",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "brise_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NEM000001982_AMB:USD000000335",
+        "normalizedPair": "nems_usdt",
+        "normalizedSymbol": "nems",
+        "nativePair": "NEMSUSDT",
+        "exchange": "mexc",
+        "assetName": "The Nemesis",
+        "assetArcId": "AMB:NEM000001982",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nems_usdt",
+        "instrumentType": "spot"
+    }
+]

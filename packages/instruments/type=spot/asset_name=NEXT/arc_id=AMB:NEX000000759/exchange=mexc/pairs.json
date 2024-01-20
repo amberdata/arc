@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NEX000000759_AMB:USD000000335",
+        "normalizedPair": "next_usdt",
+        "normalizedSymbol": "next",
+        "nativePair": "NEXTUSDT",
+        "exchange": "mexc",
+        "assetName": "NEXT",
+        "assetArcId": "AMB:NEX000000759",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "next_usdt",
+        "instrumentType": "spot"
+    }
+]

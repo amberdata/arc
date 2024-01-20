@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:PHA000000249_AMB:BTC000000000",
+        "normalizedPair": "pha_btc",
+        "normalizedSymbol": "pha",
+        "nativePair": "PHABTC",
+        "exchange": "binance",
+        "assetName": "Phala Network",
+        "assetArcId": "AMB:PHA000000249",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "pha_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PHA000000249_AMB:BUS000000067",
+        "normalizedPair": "pha_busd",
+        "normalizedSymbol": "pha",
+        "nativePair": "PHABUSD",
+        "exchange": "binance",
+        "assetName": "Phala Network",
+        "assetArcId": "AMB:PHA000000249",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "pha_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PHA000000249_AMB:USD000000335",
+        "normalizedPair": "pha_usdt",
+        "normalizedSymbol": "pha",
+        "nativePair": "PHAUSDT",
+        "exchange": "binance",
+        "assetName": "Phala Network",
+        "assetArcId": "AMB:PHA000000249",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pha_usdt",
+        "instrumentType": "spot"
+    }
+]

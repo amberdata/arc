@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WFA000001333_AMB:USD000000335",
+        "normalizedPair": "wfai_usdt",
+        "normalizedSymbol": "wfai",
+        "nativePair": "WFAIUSDT",
+        "exchange": "mexc",
+        "assetName": "WaifuAI",
+        "assetArcId": "AMB:WFA000001333",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wfai_usdt",
+        "instrumentType": "spot"
+    }
+]

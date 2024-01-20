@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:THE000000317_AMB:USD000000333",
+        "normalizedPair": "theta_usdc",
+        "normalizedSymbol": "theta",
+        "nativePair": "THETA-USDC",
+        "exchange": "okex",
+        "assetName": "Theta Network",
+        "assetArcId": "AMB:THE000000317",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "theta_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:THE000000317_AMB:USD000000335",
+        "normalizedPair": "theta_usdt",
+        "normalizedSymbol": "theta",
+        "nativePair": "THETA-USDT",
+        "exchange": "okex",
+        "assetName": "Theta Network",
+        "assetArcId": "AMB:THE000000317",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "theta_usdt",
+        "instrumentType": "spot"
+    }
+]

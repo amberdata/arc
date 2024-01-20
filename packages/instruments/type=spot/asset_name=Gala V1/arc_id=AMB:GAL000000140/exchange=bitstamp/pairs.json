@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:GAL000000140_AMB:EUR000000120",
+        "normalizedPair": "gala_eur",
+        "normalizedSymbol": "gala",
+        "nativePair": "galaeur",
+        "exchange": "bitstamp",
+        "assetName": "Gala V1",
+        "assetArcId": "AMB:GAL000000140",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "gala_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GAL000000140_AMB:USD000000949",
+        "normalizedPair": "gala_usd",
+        "normalizedSymbol": "gala",
+        "nativePair": "galausd",
+        "exchange": "bitstamp",
+        "assetName": "Gala V1",
+        "assetArcId": "AMB:GAL000000140",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "gala_usd",
+        "instrumentType": "spot"
+    }
+]

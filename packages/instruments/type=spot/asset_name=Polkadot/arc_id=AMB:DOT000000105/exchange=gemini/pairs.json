@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOT000000105_AMB:USD000000949",
+        "normalizedPair": "dot_usd",
+        "normalizedSymbol": "dot",
+        "nativePair": "dotusd",
+        "exchange": "gemini",
+        "assetName": "Polkadot",
+        "assetArcId": "AMB:DOT000000105",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dot_usd",
+        "instrumentType": "spot"
+    }
+]

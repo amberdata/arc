@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ARB000000024_AMB:USD000000949",
+        "normalizedPair": "arb_usd",
+        "normalizedSymbol": "arb",
+        "nativePair": "ARB-USD",
+        "exchange": "gdax",
+        "assetName": "Arbitrum",
+        "assetArcId": "AMB:ARB000000024",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "arb_usd",
+        "instrumentType": "spot"
+    }
+]

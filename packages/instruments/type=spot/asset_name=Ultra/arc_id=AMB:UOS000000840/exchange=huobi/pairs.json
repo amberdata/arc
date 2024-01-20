@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UOS000000840_AMB:USD000000335",
+        "normalizedPair": "uos_usdt",
+        "normalizedSymbol": "uos",
+        "nativePair": "uosusdt",
+        "exchange": "huobi",
+        "assetName": "Ultra",
+        "assetArcId": "AMB:UOS000000840",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "uos_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EMA000000499_AMB:USD000000335",
+        "normalizedPair": "em_usdt",
+        "normalizedSymbol": "em",
+        "nativePair": "EM-USDT",
+        "exchange": "okex",
+        "assetName": "Eminer",
+        "assetArcId": "AMB:EMA000000499",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "em_usdt",
+        "instrumentType": "spot"
+    }
+]

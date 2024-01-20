@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:XEC000000357_AMB:BUS000000067",
+        "normalizedPair": "xec_busd",
+        "normalizedSymbol": "xec",
+        "nativePair": "XECBUSD",
+        "exchange": "binance",
+        "assetName": "eCash",
+        "assetArcId": "AMB:XEC000000357",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "xec_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XEC000000357_AMB:TRY000000940",
+        "normalizedPair": "xec_try",
+        "normalizedSymbol": "xec",
+        "nativePair": "XECTRY",
+        "exchange": "binance",
+        "assetName": "eCash",
+        "assetArcId": "AMB:XEC000000357",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "xec_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XEC000000357_AMB:USD000000335",
+        "normalizedPair": "xec_usdt",
+        "normalizedSymbol": "xec",
+        "nativePair": "XECUSDT",
+        "exchange": "binance",
+        "assetName": "eCash",
+        "assetArcId": "AMB:XEC000000357",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xec_usdt",
+        "instrumentType": "spot"
+    }
+]

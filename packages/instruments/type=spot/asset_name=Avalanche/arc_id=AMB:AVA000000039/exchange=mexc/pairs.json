@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:AVA000000039_AMB:USD000000333",
+        "normalizedPair": "avax_usdc",
+        "normalizedSymbol": "avax",
+        "nativePair": "AVAXUSDC",
+        "exchange": "mexc",
+        "assetName": "Avalanche",
+        "assetArcId": "AMB:AVA000000039",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "avax_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AVA000000039_AMB:USD000000335",
+        "normalizedPair": "avax_usdt",
+        "normalizedSymbol": "avax",
+        "nativePair": "AVAXUSDT",
+        "exchange": "mexc",
+        "assetName": "Avalanche",
+        "assetArcId": "AMB:AVA000000039",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "avax_usdt",
+        "instrumentType": "spot"
+    }
+]

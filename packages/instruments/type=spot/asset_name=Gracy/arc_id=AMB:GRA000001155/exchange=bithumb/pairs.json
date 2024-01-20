@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GRA000001155_AMB:KRW000000000",
+        "normalizedPair": "gracy_krw",
+        "normalizedSymbol": "gracy",
+        "nativePair": "GRACY/KRW",
+        "exchange": "bithumb",
+        "assetName": "Gracy",
+        "assetArcId": "AMB:GRA000001155",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "gracy_krw",
+        "instrumentType": "spot"
+    }
+]

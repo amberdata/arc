@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZKD000002406_AMB:USD000000335",
+        "normalizedPair": "zkdoge_usdt",
+        "normalizedSymbol": "zkdoge",
+        "nativePair": "ZKDOGEUSDT",
+        "exchange": "mexc",
+        "assetName": "ZKDOGE",
+        "assetArcId": "AMB:ZKD000002406",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zkdoge_usdt",
+        "instrumentType": "spot"
+    }
+]

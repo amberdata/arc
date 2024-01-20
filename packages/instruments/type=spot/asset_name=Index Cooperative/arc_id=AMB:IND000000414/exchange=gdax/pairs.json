@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IND000000414_AMB:USD000000949",
+        "normalizedPair": "index_usd",
+        "normalizedSymbol": "index",
+        "nativePair": "INDEX-USD",
+        "exchange": "gdax",
+        "assetName": "Index Cooperative",
+        "assetArcId": "AMB:IND000000414",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "index_usd",
+        "instrumentType": "spot"
+    }
+]

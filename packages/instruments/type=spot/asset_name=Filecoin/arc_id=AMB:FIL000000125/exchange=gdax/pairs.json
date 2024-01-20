@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:BTC000000000",
+        "normalizedPair": "fil_btc",
+        "normalizedSymbol": "fil",
+        "nativePair": "FIL-BTC",
+        "exchange": "gdax",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "fil_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:EUR000000120",
+        "normalizedPair": "fil_eur",
+        "normalizedSymbol": "fil",
+        "nativePair": "FIL-EUR",
+        "exchange": "gdax",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "fil_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:GBP000000144",
+        "normalizedPair": "fil_gbp",
+        "normalizedSymbol": "fil",
+        "nativePair": "FIL-GBP",
+        "exchange": "gdax",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "fil_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:USD000000949",
+        "normalizedPair": "fil_usd",
+        "normalizedSymbol": "fil",
+        "nativePair": "FIL-USD",
+        "exchange": "gdax",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "fil_usd",
+        "instrumentType": "spot"
+    }
+]

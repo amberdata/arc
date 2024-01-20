@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AMA000001393_AMB:USD000000335",
+        "normalizedPair": "ama_usdt",
+        "normalizedSymbol": "ama",
+        "nativePair": "AMAUSDT",
+        "exchange": "mexc",
+        "assetName": "AMAUROT",
+        "assetArcId": "AMB:AMA000001393",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ama_usdt",
+        "instrumentType": "spot"
+    }
+]

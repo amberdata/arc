@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SUP000002240_AMB:USD000000335",
+        "normalizedPair": "sup_usdt",
+        "normalizedSymbol": "sup",
+        "nativePair": "SUPUSDT",
+        "exchange": "mexc",
+        "assetName": "SUP",
+        "assetArcId": "AMB:SUP000002240",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sup_usdt",
+        "instrumentType": "spot"
+    }
+]

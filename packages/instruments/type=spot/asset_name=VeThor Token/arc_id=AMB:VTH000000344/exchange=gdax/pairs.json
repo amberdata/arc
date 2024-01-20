@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VTH000000344_AMB:USD000000949",
+        "normalizedPair": "vtho_usd",
+        "normalizedSymbol": "vtho",
+        "nativePair": "VTHO-USD",
+        "exchange": "gdax",
+        "assetName": "VeThor Token",
+        "assetArcId": "AMB:VTH000000344",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "vtho_usd",
+        "instrumentType": "spot"
+    }
+]

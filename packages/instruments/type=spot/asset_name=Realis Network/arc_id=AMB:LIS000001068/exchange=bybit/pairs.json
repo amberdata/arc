@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LIS000001068_AMB:USD000000335",
+        "normalizedPair": "lis_usdt",
+        "normalizedSymbol": "lis",
+        "nativePair": "LISUSDT",
+        "exchange": "bybit",
+        "assetName": "Realis Network",
+        "assetArcId": "AMB:LIS000001068",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lis_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AST000001416_AMB:USD000000335",
+        "normalizedPair": "astradao_usdt",
+        "normalizedSymbol": "astradao",
+        "nativePair": "ASTRADAOUSDT",
+        "exchange": "mexc",
+        "assetName": "Astra DAO",
+        "assetArcId": "AMB:AST000001416",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "astradao_usdt",
+        "instrumentType": "spot"
+    }
+]

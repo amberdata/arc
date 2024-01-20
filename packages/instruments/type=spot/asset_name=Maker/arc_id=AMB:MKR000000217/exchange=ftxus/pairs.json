@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:USD000000949",
+        "normalizedPair": "mkr_usd",
+        "normalizedSymbol": "mkr",
+        "nativePair": "MKR/USD",
+        "exchange": "ftxus",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mkr_usd",
+        "instrumentType": "spot"
+    }
+]

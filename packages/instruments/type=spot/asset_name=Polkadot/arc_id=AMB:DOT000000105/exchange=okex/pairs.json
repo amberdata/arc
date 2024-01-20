@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:DOT000000105_AMB:BTC000000000",
+        "normalizedPair": "dot_btc",
+        "normalizedSymbol": "dot",
+        "nativePair": "DOT-BTC",
+        "exchange": "okex",
+        "assetName": "Polkadot",
+        "assetArcId": "AMB:DOT000000105",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "dot_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DOT000000105_AMB:ETH000000000",
+        "normalizedPair": "dot_eth",
+        "normalizedSymbol": "dot",
+        "nativePair": "DOT-ETH",
+        "exchange": "okex",
+        "assetName": "Polkadot",
+        "assetArcId": "AMB:DOT000000105",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "dot_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DOT000000105_AMB:USD000000333",
+        "normalizedPair": "dot_usdc",
+        "normalizedSymbol": "dot",
+        "nativePair": "DOT-USDC",
+        "exchange": "okex",
+        "assetName": "Polkadot",
+        "assetArcId": "AMB:DOT000000105",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "dot_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DOT000000105_AMB:USD000000335",
+        "normalizedPair": "dot_usdt",
+        "normalizedSymbol": "dot",
+        "nativePair": "DOT-USDT",
+        "exchange": "okex",
+        "assetName": "Polkadot",
+        "assetArcId": "AMB:DOT000000105",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dot_usdt",
+        "instrumentType": "spot"
+    }
+]

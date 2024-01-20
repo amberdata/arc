@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LUN000000202_AMB:QCA000000000",
+        "normalizedPair": "luna_qc",
+        "normalizedSymbol": "luna",
+        "nativePair": "luna_qc",
+        "exchange": "zb",
+        "assetName": "Terra Luna v2",
+        "assetArcId": "AMB:LUN000000202",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "luna_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LUN000000202_AMB:USD000000335",
+        "normalizedPair": "luna_usdt",
+        "normalizedSymbol": "luna",
+        "nativePair": "luna_usdt",
+        "exchange": "zb",
+        "assetName": "Terra Luna v2",
+        "assetArcId": "AMB:LUN000000202",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "luna_usdt",
+        "instrumentType": "spot"
+    }
+]

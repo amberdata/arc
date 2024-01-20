@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BTC000000063_AMB:USD000000335",
+        "normalizedPair": "btcup_usdt",
+        "normalizedSymbol": "btcup",
+        "nativePair": "BTCUPUSDT",
+        "exchange": "binance",
+        "assetName": "BTCUP",
+        "assetArcId": "AMB:BTC000000063",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "btcup_usdt",
+        "instrumentType": "spot"
+    }
+]

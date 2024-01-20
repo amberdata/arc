@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:QTU000000268_AMB:QCA000000000",
+        "normalizedPair": "qtum_qc",
+        "normalizedSymbol": "qtum",
+        "nativePair": "qtum_qc",
+        "exchange": "zb",
+        "assetName": "Qtum",
+        "assetArcId": "AMB:QTU000000268",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "qtum_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:QTU000000268_AMB:USD000000335",
+        "normalizedPair": "qtum_usdt",
+        "normalizedSymbol": "qtum",
+        "nativePair": "qtum_usdt",
+        "exchange": "zb",
+        "assetName": "Qtum",
+        "assetArcId": "AMB:QTU000000268",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "qtum_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHA000002174_AMB:USD000000335",
+        "normalizedPair": "shaun_usdt",
+        "normalizedSymbol": "shaun",
+        "nativePair": "SHAUNUSDT",
+        "exchange": "mexc",
+        "assetName": "SHAUN INU",
+        "assetArcId": "AMB:SHA000002174",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shaun_usdt",
+        "instrumentType": "spot"
+    }
+]

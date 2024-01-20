@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KTA000000719_AMB:USD000000335",
+        "normalizedPair": "kt.amb.1_usdt",
+        "normalizedSymbol": "kt.amb.1",
+        "nativePair": "KTUSDT",
+        "exchange": "mexc",
+        "assetName": "Ktalk",
+        "assetArcId": "AMB:KTA000000719",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kt_usdt",
+        "instrumentType": "spot"
+    }
+]

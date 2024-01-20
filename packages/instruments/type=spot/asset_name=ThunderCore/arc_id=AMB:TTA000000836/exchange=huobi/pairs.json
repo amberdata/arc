@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TTA000000836_AMB:USD000000335",
+        "normalizedPair": "tt_usdt",
+        "normalizedSymbol": "tt",
+        "nativePair": "ttusdt",
+        "exchange": "huobi",
+        "assetName": "ThunderCore",
+        "assetArcId": "AMB:TTA000000836",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tt_usdt",
+        "instrumentType": "spot"
+    }
+]

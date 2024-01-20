@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:FID000000124_AMB:USD000000949",
+        "normalizedPair": "fida_usd",
+        "normalizedSymbol": "fida",
+        "nativePair": "FIDA/USD",
+        "exchange": "ftx",
+        "assetName": "Bonfida",
+        "assetArcId": "AMB:FID000000124",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "fida_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FID000000124_AMB:USD000000335",
+        "normalizedPair": "fida_usdt",
+        "normalizedSymbol": "fida",
+        "nativePair": "FIDA/USDT",
+        "exchange": "ftx",
+        "assetName": "Bonfida",
+        "assetArcId": "AMB:FID000000124",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fida_usdt",
+        "instrumentType": "spot"
+    }
+]

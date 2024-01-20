@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MXC000000428_AMB:EUR000000120",
+        "normalizedPair": "mxc_eur",
+        "normalizedSymbol": "mxc",
+        "nativePair": "MXCEUR",
+        "exchange": "kraken",
+        "assetName": "MXC",
+        "assetArcId": "AMB:MXC000000428",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "mxc_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MXC000000428_AMB:USD000000949",
+        "normalizedPair": "mxc_usd",
+        "normalizedSymbol": "mxc",
+        "nativePair": "MXCUSD",
+        "exchange": "kraken",
+        "assetName": "MXC",
+        "assetArcId": "AMB:MXC000000428",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mxc_usd",
+        "instrumentType": "spot"
+    }
+]

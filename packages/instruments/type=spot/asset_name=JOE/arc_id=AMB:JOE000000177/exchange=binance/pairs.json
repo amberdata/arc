@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:JOE000000177_AMB:BTC000000000",
+        "normalizedPair": "joe_btc",
+        "normalizedSymbol": "joe",
+        "nativePair": "JOEBTC",
+        "exchange": "binance",
+        "assetName": "JOE",
+        "assetArcId": "AMB:JOE000000177",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "joe_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:JOE000000177_AMB:BUS000000067",
+        "normalizedPair": "joe_busd",
+        "normalizedSymbol": "joe",
+        "nativePair": "JOEBUSD",
+        "exchange": "binance",
+        "assetName": "JOE",
+        "assetArcId": "AMB:JOE000000177",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "joe_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:JOE000000177_AMB:TRY000000940",
+        "normalizedPair": "joe_try",
+        "normalizedSymbol": "joe",
+        "nativePair": "JOETRY",
+        "exchange": "binance",
+        "assetName": "JOE",
+        "assetArcId": "AMB:JOE000000177",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "joe_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:JOE000000177_AMB:USD000000335",
+        "normalizedPair": "joe_usdt",
+        "normalizedSymbol": "joe",
+        "nativePair": "JOEUSDT",
+        "exchange": "binance",
+        "assetName": "JOE",
+        "assetArcId": "AMB:JOE000000177",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "joe_usdt",
+        "instrumentType": "spot"
+    }
+]

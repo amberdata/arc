@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GAY000001697_AMB:USD000000335",
+        "normalizedPair": "gaypepe_usdt",
+        "normalizedSymbol": "gaypepe",
+        "nativePair": "GAYPEPEUSDT",
+        "exchange": "mexc",
+        "assetName": "Gay Pepe",
+        "assetArcId": "AMB:GAY000001697",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gaypepe_usdt",
+        "instrumentType": "spot"
+    }
+]

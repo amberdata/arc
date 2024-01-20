@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BYN000001509_AMB:USD000000335",
+        "normalizedPair": "byn_usdt",
+        "normalizedSymbol": "byn",
+        "nativePair": "BYNUSDT",
+        "exchange": "mexc",
+        "assetName": "NBX",
+        "assetArcId": "AMB:BYN000001509",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "byn_usdt",
+        "instrumentType": "spot"
+    }
+]

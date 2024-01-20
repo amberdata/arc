@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PAX000002622_AMB:USD000000949",
+        "normalizedPair": "paxgbear_usd",
+        "normalizedSymbol": "paxgbear",
+        "nativePair": "PAXGBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short PAXG Token",
+        "assetArcId": "AMB:PAX000002622",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "paxgbear_usd",
+        "instrumentType": "spot"
+    }
+]

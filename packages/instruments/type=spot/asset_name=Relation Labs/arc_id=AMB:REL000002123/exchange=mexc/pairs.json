@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:REL000002123_AMB:USD000000335",
+        "normalizedPair": "rel_usdt",
+        "normalizedSymbol": "rel",
+        "nativePair": "RELUSDT",
+        "exchange": "mexc",
+        "assetName": "Relation Labs",
+        "assetArcId": "AMB:REL000002123",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rel_usdt",
+        "instrumentType": "spot"
+    }
+]

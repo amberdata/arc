@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AHT000001136_AMB:BTC000000000",
+        "normalizedPair": "aht_btc",
+        "normalizedSymbol": "aht",
+        "nativePair": "AHT/BTC",
+        "exchange": "bithumb",
+        "assetName": "AhaToken",
+        "assetArcId": "AMB:AHT000001136",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "aht_btc",
+        "instrumentType": "spot"
+    }
+]

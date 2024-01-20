@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RIO000000567_AMB:USD000000335",
+        "normalizedPair": "rio_usdt",
+        "normalizedSymbol": "rio",
+        "nativePair": "RIOUSDT",
+        "exchange": "mexc",
+        "assetName": "Realio Network",
+        "assetArcId": "AMB:RIO000000567",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rio_usdt",
+        "instrumentType": "spot"
+    }
+]

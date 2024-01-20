@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POO000000781_AMB:USD000000335",
+        "normalizedPair": "pooh_usdt",
+        "normalizedSymbol": "pooh",
+        "nativePair": "poohusdt",
+        "exchange": "huobi",
+        "assetName": "Pooh Inu",
+        "assetArcId": "AMB:POO000000781",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pooh_usdt",
+        "instrumentType": "spot"
+    }
+]

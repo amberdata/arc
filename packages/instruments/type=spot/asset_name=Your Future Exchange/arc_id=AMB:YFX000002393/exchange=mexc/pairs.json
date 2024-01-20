@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:YFX000002393_AMB:USD000000335",
+        "normalizedPair": "yfx_usdt",
+        "normalizedSymbol": "yfx",
+        "nativePair": "YFXUSDT",
+        "exchange": "mexc",
+        "assetName": "Your Future Exchange",
+        "assetArcId": "AMB:YFX000002393",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "yfx_usdt",
+        "instrumentType": "spot"
+    }
+]

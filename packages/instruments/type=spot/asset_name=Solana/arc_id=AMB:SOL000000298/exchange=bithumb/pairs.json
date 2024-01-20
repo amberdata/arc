@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SOL000000298_AMB:BTC000000000",
+        "normalizedPair": "sol_btc",
+        "normalizedSymbol": "sol",
+        "nativePair": "SOL/BTC",
+        "exchange": "bithumb",
+        "assetName": "Solana",
+        "assetArcId": "AMB:SOL000000298",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "sol_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SOL000000298_AMB:KRW000000000",
+        "normalizedPair": "sol_krw",
+        "normalizedSymbol": "sol",
+        "nativePair": "SOL/KRW",
+        "exchange": "bithumb",
+        "assetName": "Solana",
+        "assetArcId": "AMB:SOL000000298",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "sol_krw",
+        "instrumentType": "spot"
+    }
+]

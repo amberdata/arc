@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:NEA000000223_AMB:EUR000000120",
+        "normalizedPair": "near_eur",
+        "normalizedSymbol": "near",
+        "nativePair": "NEAREUR",
+        "exchange": "kraken",
+        "assetName": "NEAR Protocol",
+        "assetArcId": "AMB:NEA000000223",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "near_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NEA000000223_AMB:USD000000949",
+        "normalizedPair": "near_usd",
+        "normalizedSymbol": "near",
+        "nativePair": "NEARUSD",
+        "exchange": "kraken",
+        "assetName": "NEAR Protocol",
+        "assetArcId": "AMB:NEA000000223",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "near_usd",
+        "instrumentType": "spot"
+    }
+]

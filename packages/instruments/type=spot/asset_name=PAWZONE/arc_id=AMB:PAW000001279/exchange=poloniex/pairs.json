@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PAW000001279_AMB:USD000000335",
+        "normalizedPair": "paw_usdt",
+        "normalizedSymbol": "paw",
+        "nativePair": "PAW_USDT",
+        "exchange": "poloniex",
+        "assetName": "PAWZONE",
+        "assetArcId": "AMB:PAW000001279",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "paw_usdt",
+        "instrumentType": "spot"
+    }
+]

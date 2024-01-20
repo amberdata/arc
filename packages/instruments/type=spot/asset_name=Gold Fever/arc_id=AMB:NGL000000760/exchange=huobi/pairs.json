@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NGL000000760_AMB:USD000000335",
+        "normalizedPair": "ngl_usdt",
+        "normalizedSymbol": "ngl",
+        "nativePair": "nglusdt",
+        "exchange": "huobi",
+        "assetName": "Gold Fever",
+        "assetArcId": "AMB:NGL000000760",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ngl_usdt",
+        "instrumentType": "spot"
+    }
+]

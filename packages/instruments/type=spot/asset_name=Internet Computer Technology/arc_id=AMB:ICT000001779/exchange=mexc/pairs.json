@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ICT000001779_AMB:USD000000335",
+        "normalizedPair": "ict_usdt",
+        "normalizedSymbol": "ict",
+        "nativePair": "ICTUSDT",
+        "exchange": "mexc",
+        "assetName": "Internet Computer Technology",
+        "assetArcId": "AMB:ICT000001779",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ict_usdt",
+        "instrumentType": "spot"
+    }
+]

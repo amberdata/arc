@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MXC000000428_AMB:USD000000335",
+        "normalizedPair": "mxc_usdt",
+        "normalizedSymbol": "mxc",
+        "nativePair": "MXCUSDT",
+        "exchange": "binanceus",
+        "assetName": "MXC",
+        "assetArcId": "AMB:MXC000000428",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mxc_usdt",
+        "instrumentType": "spot"
+    }
+]

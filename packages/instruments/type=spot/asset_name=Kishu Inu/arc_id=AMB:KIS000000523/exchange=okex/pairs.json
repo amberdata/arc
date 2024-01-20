@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KIS000000523_AMB:USD000000335",
+        "normalizedPair": "kishu_usdt",
+        "normalizedSymbol": "kishu",
+        "nativePair": "KISHU-USDT",
+        "exchange": "okex",
+        "assetName": "Kishu Inu",
+        "assetArcId": "AMB:KIS000000523",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kishu_usdt",
+        "instrumentType": "spot"
+    }
+]

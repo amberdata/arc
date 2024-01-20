@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SBR000002157_AMB:USD000000335",
+        "normalizedPair": "sbr_usdt",
+        "normalizedSymbol": "sbr",
+        "nativePair": "SBRUSDT",
+        "exchange": "mexc",
+        "assetName": "Saber",
+        "assetArcId": "AMB:SBR000002157",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sbr_usdt",
+        "instrumentType": "spot"
+    }
+]

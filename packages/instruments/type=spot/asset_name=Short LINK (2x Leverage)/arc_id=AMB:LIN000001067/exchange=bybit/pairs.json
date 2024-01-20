@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LIN000001067_AMB:USD000000335",
+        "normalizedPair": "link2s_usdt",
+        "normalizedSymbol": "link2s",
+        "nativePair": "LINK2SUSDT",
+        "exchange": "bybit",
+        "assetName": "Short LINK (2x Leverage)",
+        "assetArcId": "AMB:LIN000001067",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "link2s_usdt",
+        "instrumentType": "spot"
+    }
+]

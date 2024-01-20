@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DKS000000666_AMB:USD000000335",
+        "normalizedPair": "dks_usdt",
+        "normalizedSymbol": "dks",
+        "nativePair": "DKSUSDT",
+        "exchange": "mexc",
+        "assetName": "DarkShield Games Studio",
+        "assetArcId": "AMB:DKS000000666",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dks_usdt",
+        "instrumentType": "spot"
+    }
+]

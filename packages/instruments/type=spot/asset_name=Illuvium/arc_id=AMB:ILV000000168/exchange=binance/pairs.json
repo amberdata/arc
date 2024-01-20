@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:ILV000000168_AMB:BTC000000000",
+        "normalizedPair": "ilv_btc",
+        "normalizedSymbol": "ilv",
+        "nativePair": "ILVBTC",
+        "exchange": "binance",
+        "assetName": "Illuvium",
+        "assetArcId": "AMB:ILV000000168",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ilv_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ILV000000168_AMB:BUS000000067",
+        "normalizedPair": "ilv_busd",
+        "normalizedSymbol": "ilv",
+        "nativePair": "ILVBUSD",
+        "exchange": "binance",
+        "assetName": "Illuvium",
+        "assetArcId": "AMB:ILV000000168",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "ilv_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ILV000000168_AMB:USD000000335",
+        "normalizedPair": "ilv_usdt",
+        "normalizedSymbol": "ilv",
+        "nativePair": "ILVUSDT",
+        "exchange": "binance",
+        "assetName": "Illuvium",
+        "assetArcId": "AMB:ILV000000168",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ilv_usdt",
+        "instrumentType": "spot"
+    }
+]

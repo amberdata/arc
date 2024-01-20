@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:RLC000000280_AMB:BTC000000000",
+        "normalizedPair": "rlc_btc",
+        "normalizedSymbol": "rlc",
+        "nativePair": "RLCBTC",
+        "exchange": "binance",
+        "assetName": "iExec RLC",
+        "assetArcId": "AMB:RLC000000280",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "rlc_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RLC000000280_AMB:ETH000000000",
+        "normalizedPair": "rlc_eth",
+        "normalizedSymbol": "rlc",
+        "nativePair": "RLCETH",
+        "exchange": "binance",
+        "assetName": "iExec RLC",
+        "assetArcId": "AMB:RLC000000280",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "rlc_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RLC000000280_AMB:USD000000335",
+        "normalizedPair": "rlc_usdt",
+        "normalizedSymbol": "rlc",
+        "nativePair": "RLCUSDT",
+        "exchange": "binance",
+        "assetName": "iExec RLC",
+        "assetArcId": "AMB:RLC000000280",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rlc_usdt",
+        "instrumentType": "spot"
+    }
+]

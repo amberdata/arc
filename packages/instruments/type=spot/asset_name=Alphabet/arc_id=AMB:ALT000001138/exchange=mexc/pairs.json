@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALT000001138_AMB:USD000000335",
+        "normalizedPair": "alt_usdt",
+        "normalizedSymbol": "alt",
+        "nativePair": "ALTUSDT",
+        "exchange": "mexc",
+        "assetName": "Alphabet",
+        "assetArcId": "AMB:ALT000001138",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "alt_usdt",
+        "instrumentType": "spot"
+    }
+]

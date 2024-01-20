@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:INV000000415_AMB:USD000000949",
+        "normalizedPair": "inv_usd",
+        "normalizedSymbol": "inv",
+        "nativePair": "INV-USD",
+        "exchange": "gdax",
+        "assetName": "Inverse Finance",
+        "assetArcId": "AMB:INV000000415",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "inv_usd",
+        "instrumentType": "spot"
+    }
+]

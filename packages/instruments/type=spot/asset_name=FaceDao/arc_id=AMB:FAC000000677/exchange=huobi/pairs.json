@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FAC000000677_AMB:USD000000335",
+        "normalizedPair": "face_usdt",
+        "normalizedSymbol": "face",
+        "nativePair": "faceusdt",
+        "exchange": "huobi",
+        "assetName": "FaceDao",
+        "assetArcId": "AMB:FAC000000677",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "face_usdt",
+        "instrumentType": "spot"
+    }
+]

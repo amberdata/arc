@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MBO000000211_AMB:USD000000335",
+        "normalizedPair": "mbox_usdt",
+        "normalizedSymbol": "mbox",
+        "nativePair": "MBOXUSDT",
+        "exchange": "mexc",
+        "assetName": "MOBOX",
+        "assetArcId": "AMB:MBO000000211",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mbox_usdt",
+        "instrumentType": "spot"
+    }
+]

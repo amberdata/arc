@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRI000002280_AMB:USD000000335",
+        "normalizedPair": "trias_usdt",
+        "normalizedSymbol": "trias",
+        "nativePair": "TRIASUSDT",
+        "exchange": "mexc",
+        "assetName": "Trias Token (new)",
+        "assetArcId": "AMB:TRI000002280",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trias_usdt",
+        "instrumentType": "spot"
+    }
+]

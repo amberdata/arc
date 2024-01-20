@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HTH000002569_AMB:USD000000949",
+        "normalizedPair": "hthalf_usd",
+        "normalizedSymbol": "hthalf",
+        "nativePair": "HTHALF/USD",
+        "exchange": "ftx",
+        "assetName": "0.5X Long HT Token",
+        "assetArcId": "AMB:HTH000002569",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "hthalf_usd",
+        "instrumentType": "spot"
+    }
+]

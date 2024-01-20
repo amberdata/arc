@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:HXR000002572_AMB:USD000000949",
+        "normalizedPair": "hxro_usd",
+        "normalizedSymbol": "hxro",
+        "nativePair": "HXRO/USD",
+        "exchange": "ftx",
+        "assetName": "Hxro",
+        "assetArcId": "AMB:HXR000002572",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "hxro_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:HXR000002572_AMB:USD000000335",
+        "normalizedPair": "hxro_usdt",
+        "normalizedSymbol": "hxro",
+        "nativePair": "HXRO/USDT",
+        "exchange": "ftx",
+        "assetName": "Hxro",
+        "assetArcId": "AMB:HXR000002572",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hxro_usdt",
+        "instrumentType": "spot"
+    }
+]

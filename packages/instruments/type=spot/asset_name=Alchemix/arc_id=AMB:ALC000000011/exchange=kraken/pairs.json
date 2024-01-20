@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ALC000000011_AMB:EUR000000120",
+        "normalizedPair": "alcx_eur",
+        "normalizedSymbol": "alcx",
+        "nativePair": "ALCXEUR",
+        "exchange": "kraken",
+        "assetName": "Alchemix",
+        "assetArcId": "AMB:ALC000000011",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "alcx_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALC000000011_AMB:USD000000949",
+        "normalizedPair": "alcx_usd",
+        "normalizedSymbol": "alcx",
+        "nativePair": "ALCXUSD",
+        "exchange": "kraken",
+        "assetName": "Alchemix",
+        "assetArcId": "AMB:ALC000000011",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "alcx_usd",
+        "instrumentType": "spot"
+    }
+]

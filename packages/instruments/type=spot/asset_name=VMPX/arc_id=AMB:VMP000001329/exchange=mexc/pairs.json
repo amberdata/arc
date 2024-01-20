@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VMP000001329_AMB:USD000000335",
+        "normalizedPair": "vmpx_usdt",
+        "normalizedSymbol": "vmpx",
+        "nativePair": "VMPXUSDT",
+        "exchange": "mexc",
+        "assetName": "VMPX",
+        "assetArcId": "AMB:VMP000001329",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vmpx_usdt",
+        "instrumentType": "spot"
+    }
+]

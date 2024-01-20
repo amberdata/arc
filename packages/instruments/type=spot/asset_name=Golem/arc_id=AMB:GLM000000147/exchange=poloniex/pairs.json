@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:GLM000000147_AMB:BTC000000000",
+        "normalizedPair": "glm_btc",
+        "normalizedSymbol": "glm",
+        "nativePair": "GLM_BTC",
+        "exchange": "poloniex",
+        "assetName": "Golem",
+        "assetArcId": "AMB:GLM000000147",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "glm_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GLM000000147_AMB:USD000000335",
+        "normalizedPair": "glm_usdt",
+        "normalizedSymbol": "glm",
+        "nativePair": "GLM_USDT",
+        "exchange": "poloniex",
+        "assetName": "Golem",
+        "assetArcId": "AMB:GLM000000147",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "glm_usdt",
+        "instrumentType": "spot"
+    }
+]

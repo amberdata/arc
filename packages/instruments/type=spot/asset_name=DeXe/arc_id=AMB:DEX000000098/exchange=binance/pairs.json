@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:DEX000000098_AMB:BUS000000067",
+        "normalizedPair": "dexe_busd",
+        "normalizedSymbol": "dexe",
+        "nativePair": "DEXEBUSD",
+        "exchange": "binance",
+        "assetName": "DeXe",
+        "assetArcId": "AMB:DEX000000098",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "dexe_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DEX000000098_AMB:ETH000000000",
+        "normalizedPair": "dexe_eth",
+        "normalizedSymbol": "dexe",
+        "nativePair": "DEXEETH",
+        "exchange": "binance",
+        "assetName": "DeXe",
+        "assetArcId": "AMB:DEX000000098",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "dexe_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DEX000000098_AMB:USD000000335",
+        "normalizedPair": "dexe_usdt",
+        "normalizedSymbol": "dexe",
+        "nativePair": "DEXEUSDT",
+        "exchange": "binance",
+        "assetName": "DeXe",
+        "assetArcId": "AMB:DEX000000098",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dexe_usdt",
+        "instrumentType": "spot"
+    }
+]

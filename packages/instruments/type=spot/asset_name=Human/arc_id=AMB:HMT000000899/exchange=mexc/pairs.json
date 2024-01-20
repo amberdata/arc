@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HMT000000899_AMB:USD000000335",
+        "normalizedPair": "hmt_usdt",
+        "normalizedSymbol": "hmt",
+        "nativePair": "HMTUSDT",
+        "exchange": "mexc",
+        "assetName": "Human",
+        "assetArcId": "AMB:HMT000000899",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hmt_usdt",
+        "instrumentType": "spot"
+    }
+]

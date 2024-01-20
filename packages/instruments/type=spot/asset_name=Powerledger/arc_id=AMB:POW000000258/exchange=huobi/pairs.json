@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POW000000258_AMB:BTC000000000",
+        "normalizedPair": "powr_btc",
+        "normalizedSymbol": "powr",
+        "nativePair": "powrbtc",
+        "exchange": "huobi",
+        "assetName": "Powerledger",
+        "assetArcId": "AMB:POW000000258",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "powr_btc",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JUM000000710_AMB:USD000000335",
+        "normalizedPair": "jumbo_usdt",
+        "normalizedSymbol": "jumbo",
+        "nativePair": "jumbousdt",
+        "exchange": "huobi",
+        "assetName": "Jumbo Exchange",
+        "assetArcId": "AMB:JUM000000710",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jumbo_usdt",
+        "instrumentType": "spot"
+    }
+]

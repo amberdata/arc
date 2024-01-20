@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XFI000000872_AMB:USD000000335",
+        "normalizedPair": "xfi_usdt",
+        "normalizedSymbol": "xfi",
+        "nativePair": "xfiusdt",
+        "exchange": "huobi",
+        "assetName": "CrossFi",
+        "assetArcId": "AMB:XFI000000872",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xfi_usdt",
+        "instrumentType": "spot"
+    }
+]

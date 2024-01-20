@@ -1,0 +1,86 @@
+[
+    {
+        "arcPairId": "AMB:USD000000333_AMB:AUD000002420",
+        "normalizedPair": "usdc_aud",
+        "normalizedSymbol": "usdc",
+        "nativePair": "USDCAUD",
+        "exchange": "kraken",
+        "assetName": "USD Coin",
+        "assetArcId": "AMB:USD000000333",
+        "quoteArcId": "AMB:AUD000002420",
+        "collectedPair": "usdc_aud",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:USD000000333_AMB:CAD000002500",
+        "normalizedPair": "usdc_cad",
+        "normalizedSymbol": "usdc",
+        "nativePair": "USDCCAD",
+        "exchange": "kraken",
+        "assetName": "USD Coin",
+        "assetArcId": "AMB:USD000000333",
+        "quoteArcId": "AMB:CAD000002500",
+        "collectedPair": "usdc_cad",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:USD000000333_AMB:CHF000000000",
+        "normalizedPair": "usdc_chf",
+        "normalizedSymbol": "usdc",
+        "nativePair": "USDCCHF",
+        "exchange": "kraken",
+        "assetName": "USD Coin",
+        "assetArcId": "AMB:USD000000333",
+        "quoteArcId": "AMB:CHF000000000",
+        "collectedPair": "usdc_chf",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:USD000000333_AMB:EUR000000120",
+        "normalizedPair": "usdc_eur",
+        "normalizedSymbol": "usdc",
+        "nativePair": "USDCEUR",
+        "exchange": "kraken",
+        "assetName": "USD Coin",
+        "assetArcId": "AMB:USD000000333",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "usdc_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:USD000000333_AMB:GBP000000144",
+        "normalizedPair": "usdc_gbp",
+        "normalizedSymbol": "usdc",
+        "nativePair": "USDCGBP",
+        "exchange": "kraken",
+        "assetName": "USD Coin",
+        "assetArcId": "AMB:USD000000333",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "usdc_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:USD000000333_AMB:USD000000949",
+        "normalizedPair": "usdc_usd",
+        "normalizedSymbol": "usdc",
+        "nativePair": "USDCUSD",
+        "exchange": "kraken",
+        "assetName": "USD Coin",
+        "assetArcId": "AMB:USD000000333",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "usdc_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:USD000000333_AMB:USD000000335",
+        "normalizedPair": "usdc_usdt",
+        "normalizedSymbol": "usdc",
+        "nativePair": "USDCUSDT",
+        "exchange": "kraken",
+        "assetName": "USD Coin",
+        "assetArcId": "AMB:USD000000333",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "usdc_usdt",
+        "instrumentType": "spot"
+    }
+]

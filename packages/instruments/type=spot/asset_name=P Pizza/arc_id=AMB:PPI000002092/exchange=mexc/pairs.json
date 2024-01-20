@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PPI000002092_AMB:USD000000335",
+        "normalizedPair": "ppizza_usdt",
+        "normalizedSymbol": "ppizza",
+        "nativePair": "PPIZZAUSDT",
+        "exchange": "mexc",
+        "assetName": "P Pizza",
+        "assetArcId": "AMB:PPI000002092",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ppizza_usdt",
+        "instrumentType": "spot"
+    }
+]

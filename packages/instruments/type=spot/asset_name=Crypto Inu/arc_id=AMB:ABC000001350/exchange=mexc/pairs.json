@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ABC000001350_AMB:USD000000335",
+        "normalizedPair": "abcd_usdt",
+        "normalizedSymbol": "abcd",
+        "nativePair": "ABCDUSDT",
+        "exchange": "mexc",
+        "assetName": "Crypto Inu",
+        "assetArcId": "AMB:ABC000001350",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "abcd_usdt",
+        "instrumentType": "spot"
+    }
+]

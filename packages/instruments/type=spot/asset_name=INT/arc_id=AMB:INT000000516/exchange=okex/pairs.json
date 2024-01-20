@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:INT000000516_AMB:BTC000000000",
+        "normalizedPair": "int_btc",
+        "normalizedSymbol": "int",
+        "nativePair": "INT-BTC",
+        "exchange": "okex",
+        "assetName": "INT",
+        "assetArcId": "AMB:INT000000516",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "int_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:INT000000516_AMB:USD000000335",
+        "normalizedPair": "int_usdt",
+        "normalizedSymbol": "int",
+        "nativePair": "INT-USDT",
+        "exchange": "okex",
+        "assetName": "INT",
+        "assetArcId": "AMB:INT000000516",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "int_usdt",
+        "instrumentType": "spot"
+    }
+]

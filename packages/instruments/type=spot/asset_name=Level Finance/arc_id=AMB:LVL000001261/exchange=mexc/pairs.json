@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LVL000001261_AMB:USD000000335",
+        "normalizedPair": "lvl_usdt",
+        "normalizedSymbol": "lvl",
+        "nativePair": "LVLUSDT",
+        "exchange": "mexc",
+        "assetName": "Level Finance",
+        "assetArcId": "AMB:LVL000001261",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lvl_usdt",
+        "instrumentType": "spot"
+    }
+]

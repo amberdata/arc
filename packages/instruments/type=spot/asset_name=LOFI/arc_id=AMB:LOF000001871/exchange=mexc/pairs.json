@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LOF000001871_AMB:USD000000335",
+        "normalizedPair": "lofi_usdt",
+        "normalizedSymbol": "lofi",
+        "nativePair": "LOFIUSDT",
+        "exchange": "mexc",
+        "assetName": "LOFI",
+        "assetArcId": "AMB:LOF000001871",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lofi_usdt",
+        "instrumentType": "spot"
+    }
+]

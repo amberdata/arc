@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ATA000000033_AMB:USD000000949",
+        "normalizedPair": "ata_usd",
+        "normalizedSymbol": "ata",
+        "nativePair": "ATA-USD",
+        "exchange": "gdax",
+        "assetName": "Automata Network",
+        "assetArcId": "AMB:ATA000000033",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ata_usd",
+        "instrumentType": "spot"
+    }
+]

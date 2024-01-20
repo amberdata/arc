@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:FET000000123_AMB:EUR000000120",
+        "normalizedPair": "fet_eur",
+        "normalizedSymbol": "fet",
+        "nativePair": "feteur",
+        "exchange": "bitstamp",
+        "assetName": "Fetch.ai",
+        "assetArcId": "AMB:FET000000123",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "fet_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FET000000123_AMB:USD000000949",
+        "normalizedPair": "fet_usd",
+        "normalizedSymbol": "fet",
+        "nativePair": "fetusd",
+        "exchange": "bitstamp",
+        "assetName": "Fetch.ai",
+        "assetArcId": "AMB:FET000000123",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "fet_usd",
+        "instrumentType": "spot"
+    }
+]

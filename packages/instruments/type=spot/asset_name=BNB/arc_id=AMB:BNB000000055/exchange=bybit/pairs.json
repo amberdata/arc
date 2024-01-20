@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BNB000000055_AMB:USD000000335",
+        "normalizedPair": "bnb_usdt",
+        "normalizedSymbol": "bnb",
+        "nativePair": "BNBUSDT",
+        "exchange": "bybit",
+        "assetName": "BNB",
+        "assetArcId": "AMB:BNB000000055",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bnb_usdt",
+        "instrumentType": "spot"
+    }
+]

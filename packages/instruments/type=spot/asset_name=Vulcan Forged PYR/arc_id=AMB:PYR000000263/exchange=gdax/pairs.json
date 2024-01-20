@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PYR000000263_AMB:USD000000949",
+        "normalizedPair": "pyr_usd",
+        "normalizedSymbol": "pyr",
+        "nativePair": "PYR-USD",
+        "exchange": "gdax",
+        "assetName": "Vulcan Forged PYR",
+        "assetArcId": "AMB:PYR000000263",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "pyr_usd",
+        "instrumentType": "spot"
+    }
+]

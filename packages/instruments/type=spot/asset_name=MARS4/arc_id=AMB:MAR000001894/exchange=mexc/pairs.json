@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAR000001894_AMB:USD000000335",
+        "normalizedPair": "mars4_usdt",
+        "normalizedSymbol": "mars4",
+        "nativePair": "MARS4USDT",
+        "exchange": "mexc",
+        "assetName": "MARS4",
+        "assetArcId": "AMB:MAR000001894",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mars4_usdt",
+        "instrumentType": "spot"
+    }
+]

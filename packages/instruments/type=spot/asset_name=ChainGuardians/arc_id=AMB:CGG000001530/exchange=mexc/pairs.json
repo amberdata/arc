@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CGG000001530_AMB:USD000000335",
+        "normalizedPair": "cgg_usdt",
+        "normalizedSymbol": "cgg",
+        "nativePair": "CGGUSDT",
+        "exchange": "mexc",
+        "assetName": "ChainGuardians",
+        "assetArcId": "AMB:CGG000001530",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cgg_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:SHI000000293_AMB:QCA000000000",
+        "normalizedPair": "shib_qc",
+        "normalizedSymbol": "shib",
+        "nativePair": "shib_qc",
+        "exchange": "zb",
+        "assetName": "SHIBA INU",
+        "assetArcId": "AMB:SHI000000293",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "shib_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SHI000000293_AMB:USD000000333",
+        "normalizedPair": "shib_usdc",
+        "normalizedSymbol": "shib",
+        "nativePair": "shib_usdc",
+        "exchange": "zb",
+        "assetName": "SHIBA INU",
+        "assetArcId": "AMB:SHI000000293",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "shib_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SHI000000293_AMB:USD000000335",
+        "normalizedPair": "shib_usdt",
+        "normalizedSymbol": "shib",
+        "nativePair": "shib_usdt",
+        "exchange": "zb",
+        "assetName": "SHIBA INU",
+        "assetArcId": "AMB:SHI000000293",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shib_usdt",
+        "instrumentType": "spot"
+    }
+]

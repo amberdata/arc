@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KIL000000972_AMB:USD000000335",
+        "normalizedPair": "kilt_usdt",
+        "normalizedSymbol": "kilt",
+        "nativePair": "KILTUSDT",
+        "exchange": "mexc",
+        "assetName": "KILT Protocol",
+        "assetArcId": "AMB:KIL000000972",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kilt_usdt",
+        "instrumentType": "spot"
+    }
+]

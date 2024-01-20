@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:GOC000000896_AMB:USD000000949",
+        "normalizedPair": "goc_usd",
+        "normalizedSymbol": "goc",
+        "nativePair": "tGOCUSD",
+        "exchange": "bitfinex",
+        "assetName": "GoCrypto Token",
+        "assetArcId": "AMB:GOC000000896",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "goc_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GOC000000896_AMB:USD000000335",
+        "normalizedPair": "goc_usdt",
+        "normalizedSymbol": "goc",
+        "nativePair": "tGOCUST",
+        "exchange": "bitfinex",
+        "assetName": "GoCrypto Token",
+        "assetArcId": "AMB:GOC000000896",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "goc_usdt",
+        "instrumentType": "spot"
+    }
+]

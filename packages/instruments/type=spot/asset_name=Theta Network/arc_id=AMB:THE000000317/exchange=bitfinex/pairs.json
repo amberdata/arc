@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:THE000000317_AMB:USD000000949",
+        "normalizedPair": "theta_usd",
+        "normalizedSymbol": "theta",
+        "nativePair": "tTHETA:USD",
+        "exchange": "bitfinex",
+        "assetName": "Theta Network",
+        "assetArcId": "AMB:THE000000317",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "theta_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:THE000000317_AMB:USD000000335",
+        "normalizedPair": "theta_usdt",
+        "normalizedSymbol": "theta",
+        "nativePair": "tTHETA:UST",
+        "exchange": "bitfinex",
+        "assetName": "Theta Network",
+        "assetArcId": "AMB:THE000000317",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "theta_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:FTM000000136_AMB:EUR000000120",
+        "normalizedPair": "ftm_eur",
+        "normalizedSymbol": "ftm",
+        "nativePair": "FTMEUR",
+        "exchange": "kraken",
+        "assetName": "Fantom",
+        "assetArcId": "AMB:FTM000000136",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "ftm_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FTM000000136_AMB:USD000000949",
+        "normalizedPair": "ftm_usd",
+        "normalizedSymbol": "ftm",
+        "nativePair": "FTMUSD",
+        "exchange": "kraken",
+        "assetName": "Fantom",
+        "assetArcId": "AMB:FTM000000136",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ftm_usd",
+        "instrumentType": "spot"
+    }
+]

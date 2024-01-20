@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GMX000000151_AMB:KRW000000000",
+        "normalizedPair": "gmx_krw",
+        "normalizedSymbol": "gmx",
+        "nativePair": "GMX/KRW",
+        "exchange": "bithumb",
+        "assetName": "GameX",
+        "assetArcId": "AMB:GMX000000151",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "gmx_krw",
+        "instrumentType": "spot"
+    }
+]

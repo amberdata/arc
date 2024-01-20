@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BHO000001461_AMB:USD000000335",
+        "normalizedPair": "bho_usdt",
+        "normalizedSymbol": "bho",
+        "nativePair": "BHOUSDT",
+        "exchange": "mexc",
+        "assetName": "BHO Network",
+        "assetArcId": "AMB:BHO000001461",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bho_usdt",
+        "instrumentType": "spot"
+    }
+]

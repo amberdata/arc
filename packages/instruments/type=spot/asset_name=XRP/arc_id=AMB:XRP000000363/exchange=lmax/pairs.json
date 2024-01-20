@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:EUR000000120",
+        "normalizedPair": "xrp_eur",
+        "normalizedSymbol": "xrp",
+        "nativePair": "xrp-eur",
+        "exchange": "lmax",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "xrp_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:GBP000000144",
+        "normalizedPair": "xrp_gbp",
+        "normalizedSymbol": "xrp",
+        "nativePair": "xrp-gbp",
+        "exchange": "lmax",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "xrp_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:JPY000000903",
+        "normalizedPair": "xrp_jpy",
+        "normalizedSymbol": "xrp",
+        "nativePair": "xrp-jpy",
+        "exchange": "lmax",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:JPY000000903",
+        "collectedPair": "xrp_jpy",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:USD000000949",
+        "normalizedPair": "xrp_usd",
+        "normalizedSymbol": "xrp",
+        "nativePair": "xrp-usd",
+        "exchange": "lmax",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xrp_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:USD000000333",
+        "normalizedPair": "xrp_usdc",
+        "normalizedSymbol": "xrp",
+        "nativePair": "xrp-usdc",
+        "exchange": "lmax",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "xrp_usdc",
+        "instrumentType": "spot"
+    }
+]

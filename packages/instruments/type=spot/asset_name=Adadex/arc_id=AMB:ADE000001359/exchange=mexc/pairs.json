@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ADE000001359_AMB:USD000000335",
+        "normalizedPair": "adex_usdt",
+        "normalizedSymbol": "adex",
+        "nativePair": "ADEXUSDT",
+        "exchange": "mexc",
+        "assetName": "Adadex",
+        "assetArcId": "AMB:ADE000001359",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "adex_usdt",
+        "instrumentType": "spot"
+    }
+]

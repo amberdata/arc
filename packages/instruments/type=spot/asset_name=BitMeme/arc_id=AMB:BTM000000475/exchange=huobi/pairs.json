@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BTM000000475_AMB:USD000000335",
+        "normalizedPair": "btm_usdt",
+        "normalizedSymbol": "btm",
+        "nativePair": "btmusdt",
+        "exchange": "huobi",
+        "assetName": "BitMeme",
+        "assetArcId": "AMB:BTM000000475",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "btm_usdt",
+        "instrumentType": "spot"
+    }
+]

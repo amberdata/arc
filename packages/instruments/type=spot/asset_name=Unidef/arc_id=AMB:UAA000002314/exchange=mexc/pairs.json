@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UAA000002314_AMB:USD000000335",
+        "normalizedPair": "u_usdt",
+        "normalizedSymbol": "u",
+        "nativePair": "UUSDT",
+        "exchange": "mexc",
+        "assetName": "Unidef",
+        "assetArcId": "AMB:UAA000002314",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "u_usdt",
+        "instrumentType": "spot"
+    }
+]

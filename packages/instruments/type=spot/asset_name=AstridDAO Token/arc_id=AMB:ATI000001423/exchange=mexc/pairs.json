@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ATI000001423_AMB:USD000000335",
+        "normalizedPair": "atid_usdt",
+        "normalizedSymbol": "atid",
+        "nativePair": "ATIDUSDT",
+        "exchange": "mexc",
+        "assetName": "AstridDAO Token",
+        "assetArcId": "AMB:ATI000001423",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "atid_usdt",
+        "instrumentType": "spot"
+    }
+]

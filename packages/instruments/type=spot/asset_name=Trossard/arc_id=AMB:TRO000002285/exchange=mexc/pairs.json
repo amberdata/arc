@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRO000002285_AMB:USD000000335",
+        "normalizedPair": "tross_usdt",
+        "normalizedSymbol": "tross",
+        "nativePair": "TROSSUSDT",
+        "exchange": "mexc",
+        "assetName": "Trossard",
+        "assetArcId": "AMB:TRO000002285",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tross_usdt",
+        "instrumentType": "spot"
+    }
+]

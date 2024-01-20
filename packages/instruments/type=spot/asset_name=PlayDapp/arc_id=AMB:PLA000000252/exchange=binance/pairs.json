@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:PLA000000252_AMB:BTC000000000",
+        "normalizedPair": "pla_btc",
+        "normalizedSymbol": "pla",
+        "nativePair": "PLABTC",
+        "exchange": "binance",
+        "assetName": "PlayDapp",
+        "assetArcId": "AMB:PLA000000252",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "pla_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PLA000000252_AMB:USD000000335",
+        "normalizedPair": "pla_usdt",
+        "normalizedSymbol": "pla",
+        "nativePair": "PLAUSDT",
+        "exchange": "binance",
+        "assetName": "PlayDapp",
+        "assetArcId": "AMB:PLA000000252",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pla_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AVA000001003_AMB:USD000000335",
+        "normalizedPair": "avax2l_usdt",
+        "normalizedSymbol": "avax2l",
+        "nativePair": "AVAX2LUSDT",
+        "exchange": "bybit",
+        "assetName": "Long AVAX (2x Leverage)",
+        "assetArcId": "AMB:AVA000001003",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "avax2l_usdt",
+        "instrumentType": "spot"
+    }
+]

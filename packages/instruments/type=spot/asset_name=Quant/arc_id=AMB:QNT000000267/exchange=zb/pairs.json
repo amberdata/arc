@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:QNT000000267_AMB:USD000000333",
+        "normalizedPair": "qnt_usdc",
+        "normalizedSymbol": "qnt",
+        "nativePair": "qnt_usdc",
+        "exchange": "zb",
+        "assetName": "Quant",
+        "assetArcId": "AMB:QNT000000267",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "qnt_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:QNT000000267_AMB:USD000000335",
+        "normalizedPair": "qnt_usdt",
+        "normalizedSymbol": "qnt",
+        "nativePair": "qnt_usdt",
+        "exchange": "zb",
+        "assetName": "Quant",
+        "assetArcId": "AMB:QNT000000267",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "qnt_usdt",
+        "instrumentType": "spot"
+    }
+]

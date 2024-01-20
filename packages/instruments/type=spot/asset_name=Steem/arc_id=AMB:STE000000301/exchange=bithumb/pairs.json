@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STE000000301_AMB:KRW000000000",
+        "normalizedPair": "steem_krw",
+        "normalizedSymbol": "steem",
+        "nativePair": "STEEM/KRW",
+        "exchange": "bithumb",
+        "assetName": "Steem",
+        "assetArcId": "AMB:STE000000301",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "steem_krw",
+        "instrumentType": "spot"
+    }
+]

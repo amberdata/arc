@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SLG000001116_AMB:USD000000333",
+        "normalizedPair": "slg_usdc",
+        "normalizedSymbol": "slg",
+        "nativePair": "SLGUSDC",
+        "exchange": "bybit",
+        "assetName": "Shattered Legion",
+        "assetArcId": "AMB:SLG000001116",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "slg_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SLG000001116_AMB:USD000000335",
+        "normalizedPair": "slg_usdt",
+        "normalizedSymbol": "slg",
+        "nativePair": "SLGUSDT",
+        "exchange": "bybit",
+        "assetName": "Shattered Legion",
+        "assetArcId": "AMB:SLG000001116",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "slg_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOD000000103_AMB:USD000000949",
+        "normalizedPair": "dodo_usd",
+        "normalizedSymbol": "dodo",
+        "nativePair": "DODO/USD",
+        "exchange": "ftx",
+        "assetName": "DODO",
+        "assetArcId": "AMB:DOD000000103",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dodo_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VOW000001330_AMB:USD000000335",
+        "normalizedPair": "vow_usdt",
+        "normalizedSymbol": "vow",
+        "nativePair": "VOW_USDT",
+        "exchange": "poloniex",
+        "assetName": "Vow",
+        "assetArcId": "AMB:VOW000001330",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vow_usdt",
+        "instrumentType": "spot"
+    }
+]

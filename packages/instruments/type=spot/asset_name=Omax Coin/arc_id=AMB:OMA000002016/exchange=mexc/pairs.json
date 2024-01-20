@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OMA000002016_AMB:USD000000335",
+        "normalizedPair": "omax_usdt",
+        "normalizedSymbol": "omax",
+        "nativePair": "OMAXUSDT",
+        "exchange": "mexc",
+        "assetName": "Omax Coin",
+        "assetArcId": "AMB:OMA000002016",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "omax_usdt",
+        "instrumentType": "spot"
+    }
+]

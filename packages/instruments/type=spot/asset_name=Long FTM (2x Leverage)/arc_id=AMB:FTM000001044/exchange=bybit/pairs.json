@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FTM000001044_AMB:USD000000335",
+        "normalizedPair": "ftm2l_usdt",
+        "normalizedSymbol": "ftm2l",
+        "nativePair": "FTM2LUSDT",
+        "exchange": "bybit",
+        "assetName": "Long FTM (2x Leverage)",
+        "assetArcId": "AMB:FTM000001044",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ftm2l_usdt",
+        "instrumentType": "spot"
+    }
+]

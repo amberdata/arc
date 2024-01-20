@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:VET000002686_AMB:USD000000949",
+        "normalizedPair": "vetbear_usd",
+        "normalizedSymbol": "vetbear",
+        "nativePair": "VETBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short VeChain Token",
+        "assetArcId": "AMB:VET000002686",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "vetbear_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:VET000002686_AMB:USD000000335",
+        "normalizedPair": "vetbear_usdt",
+        "normalizedSymbol": "vetbear",
+        "nativePair": "VETBEAR/USDT",
+        "exchange": "ftx",
+        "assetName": "3X Short VeChain Token",
+        "assetArcId": "AMB:VET000002686",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vetbear_usdt",
+        "instrumentType": "spot"
+    }
+]

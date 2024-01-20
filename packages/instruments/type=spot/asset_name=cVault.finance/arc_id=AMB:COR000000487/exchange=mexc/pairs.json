@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COR000000487_AMB:USD000000335",
+        "normalizedPair": "core_usdt",
+        "normalizedSymbol": "core",
+        "nativePair": "COREUSDT",
+        "exchange": "mexc",
+        "assetName": "cVault.finance",
+        "assetArcId": "AMB:COR000000487",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "core_usdt",
+        "instrumentType": "spot"
+    }
+]

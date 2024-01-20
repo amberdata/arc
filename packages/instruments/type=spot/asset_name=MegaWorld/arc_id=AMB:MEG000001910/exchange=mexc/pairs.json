@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MEG000001910_AMB:USD000000335",
+        "normalizedPair": "mega_usdt",
+        "normalizedSymbol": "mega",
+        "nativePair": "MEGAUSDT",
+        "exchange": "mexc",
+        "assetName": "MegaWorld",
+        "assetArcId": "AMB:MEG000001910",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mega_usdt",
+        "instrumentType": "spot"
+    }
+]

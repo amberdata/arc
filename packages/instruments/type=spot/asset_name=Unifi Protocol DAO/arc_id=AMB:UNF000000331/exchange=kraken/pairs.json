@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:UNF000000331_AMB:EUR000000120",
+        "normalizedPair": "unfi_eur",
+        "normalizedSymbol": "unfi",
+        "nativePair": "UNFIEUR",
+        "exchange": "kraken",
+        "assetName": "Unifi Protocol DAO",
+        "assetArcId": "AMB:UNF000000331",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "unfi_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:UNF000000331_AMB:USD000000949",
+        "normalizedPair": "unfi_usd",
+        "normalizedSymbol": "unfi",
+        "nativePair": "UNFIUSD",
+        "exchange": "kraken",
+        "assetName": "Unifi Protocol DAO",
+        "assetArcId": "AMB:UNF000000331",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "unfi_usd",
+        "instrumentType": "spot"
+    }
+]

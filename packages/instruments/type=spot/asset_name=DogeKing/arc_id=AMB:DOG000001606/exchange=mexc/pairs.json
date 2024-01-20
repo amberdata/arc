@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOG000001606_AMB:USD000000335",
+        "normalizedPair": "dogeking_usdt",
+        "normalizedSymbol": "dogeking",
+        "nativePair": "DOGEKINGUSDT",
+        "exchange": "mexc",
+        "assetName": "DogeKing",
+        "assetArcId": "AMB:DOG000001606",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dogeking_usdt",
+        "instrumentType": "spot"
+    }
+]

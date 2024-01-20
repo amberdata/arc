@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:AAV000000001_AMB:USD000000333",
+        "normalizedPair": "aave_usdc",
+        "normalizedSymbol": "aave",
+        "nativePair": "AAVEUSDC",
+        "exchange": "mexc",
+        "assetName": "Aave",
+        "assetArcId": "AMB:AAV000000001",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "aave_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AAV000000001_AMB:USD000000335",
+        "normalizedPair": "aave_usdt",
+        "normalizedSymbol": "aave",
+        "nativePair": "AAVEUSDT",
+        "exchange": "mexc",
+        "assetName": "Aave",
+        "assetArcId": "AMB:AAV000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aave_usdt",
+        "instrumentType": "spot"
+    }
+]

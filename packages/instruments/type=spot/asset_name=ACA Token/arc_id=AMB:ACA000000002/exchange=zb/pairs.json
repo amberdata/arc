@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ACA000000002_AMB:USD000000335",
+        "normalizedPair": "aca_usdt",
+        "normalizedSymbol": "aca",
+        "nativePair": "aca_usdt",
+        "exchange": "zb",
+        "assetName": "ACA Token",
+        "assetArcId": "AMB:ACA000000002",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aca_usdt",
+        "instrumentType": "spot"
+    }
+]

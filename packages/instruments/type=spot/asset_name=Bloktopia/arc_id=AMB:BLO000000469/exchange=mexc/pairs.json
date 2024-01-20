@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BLO000000469_AMB:USD000000335",
+        "normalizedPair": "blok_usdt",
+        "normalizedSymbol": "blok",
+        "nativePair": "BLOKUSDT",
+        "exchange": "mexc",
+        "assetName": "Bloktopia",
+        "assetArcId": "AMB:BLO000000469",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "blok_usdt",
+        "instrumentType": "spot"
+    }
+]

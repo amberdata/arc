@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAN000000287_AMB:USD000000335",
+        "normalizedPair": "sand_usdt",
+        "normalizedSymbol": "sand",
+        "nativePair": "sandusdt",
+        "exchange": "huobi",
+        "assetName": "The Sandbox",
+        "assetArcId": "AMB:SAN000000287",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sand_usdt",
+        "instrumentType": "spot"
+    }
+]

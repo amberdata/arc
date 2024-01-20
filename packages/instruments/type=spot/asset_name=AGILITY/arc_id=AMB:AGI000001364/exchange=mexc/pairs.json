@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AGI000001364_AMB:USD000000335",
+        "normalizedPair": "agility_usdt",
+        "normalizedSymbol": "agility",
+        "nativePair": "AGILITYUSDT",
+        "exchange": "mexc",
+        "assetName": "AGILITY",
+        "assetArcId": "AMB:AGI000001364",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "agility_usdt",
+        "instrumentType": "spot"
+    }
+]

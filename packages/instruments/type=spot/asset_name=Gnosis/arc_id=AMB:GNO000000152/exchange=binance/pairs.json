@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GNO000000152_AMB:USD000000335",
+        "normalizedPair": "gno_usdt",
+        "normalizedSymbol": "gno",
+        "nativePair": "GNOUSDT",
+        "exchange": "binance",
+        "assetName": "Gnosis",
+        "assetArcId": "AMB:GNO000000152",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gno_usdt",
+        "instrumentType": "spot"
+    }
+]

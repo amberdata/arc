@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:VEG000000948_AMB:EUR000000120",
+        "normalizedPair": "vega_eur",
+        "normalizedSymbol": "vega",
+        "nativePair": "vegaeur",
+        "exchange": "bitstamp",
+        "assetName": "Vega Protocol",
+        "assetArcId": "AMB:VEG000000948",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "vega_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:VEG000000948_AMB:USD000000949",
+        "normalizedPair": "vega_usd",
+        "normalizedSymbol": "vega",
+        "nativePair": "vegausd",
+        "exchange": "bitstamp",
+        "assetName": "Vega Protocol",
+        "assetArcId": "AMB:VEG000000948",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "vega_usd",
+        "instrumentType": "spot"
+    }
+]

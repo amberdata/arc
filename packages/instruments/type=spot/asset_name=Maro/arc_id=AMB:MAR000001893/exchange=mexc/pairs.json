@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAR000001893_AMB:USD000000335",
+        "normalizedPair": "maro_usdt",
+        "normalizedSymbol": "maro",
+        "nativePair": "MAROUSDT",
+        "exchange": "mexc",
+        "assetName": "Maro",
+        "assetArcId": "AMB:MAR000001893",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "maro_usdt",
+        "instrumentType": "spot"
+    }
+]

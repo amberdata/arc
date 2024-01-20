@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:DAS000000093_AMB:BTC000000000",
+        "normalizedPair": "dash_btc",
+        "normalizedSymbol": "dash",
+        "nativePair": "DASHXBT",
+        "exchange": "kraken",
+        "assetName": "Dash",
+        "assetArcId": "AMB:DAS000000093",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "dash_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DAS000000093_AMB:EUR000000120",
+        "normalizedPair": "dash_eur",
+        "normalizedSymbol": "dash",
+        "nativePair": "DASHEUR",
+        "exchange": "kraken",
+        "assetName": "Dash",
+        "assetArcId": "AMB:DAS000000093",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "dash_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DAS000000093_AMB:USD000000949",
+        "normalizedPair": "dash_usd",
+        "normalizedSymbol": "dash",
+        "nativePair": "DASHUSD",
+        "exchange": "kraken",
+        "assetName": "Dash",
+        "assetArcId": "AMB:DAS000000093",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dash_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MUL000000222_AMB:USD000000335",
+        "normalizedPair": "multi_usdt",
+        "normalizedSymbol": "multi",
+        "nativePair": "multiusdt",
+        "exchange": "huobi",
+        "assetName": "Multichain",
+        "assetArcId": "AMB:MUL000000222",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "multi_usdt",
+        "instrumentType": "spot"
+    }
+]

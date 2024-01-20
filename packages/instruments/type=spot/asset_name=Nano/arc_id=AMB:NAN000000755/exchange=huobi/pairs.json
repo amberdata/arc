@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NAN000000755_AMB:USD000000335",
+        "normalizedPair": "nano_usdt",
+        "normalizedSymbol": "nano",
+        "nativePair": "nanousdt",
+        "exchange": "huobi",
+        "assetName": "Nano",
+        "assetArcId": "AMB:NAN000000755",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nano_usdt",
+        "instrumentType": "spot"
+    }
+]

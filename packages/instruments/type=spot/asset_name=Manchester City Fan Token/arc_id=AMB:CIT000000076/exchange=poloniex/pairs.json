@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:CIT000000076_AMB:USD000000841",
+        "normalizedPair": "city_usdd",
+        "normalizedSymbol": "city",
+        "nativePair": "CITY_USDD",
+        "exchange": "poloniex",
+        "assetName": "Manchester City Fan Token",
+        "assetArcId": "AMB:CIT000000076",
+        "quoteArcId": "AMB:USD000000841",
+        "collectedPair": "city_usdd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CIT000000076_AMB:USD000000335",
+        "normalizedPair": "city_usdt",
+        "normalizedSymbol": "city",
+        "nativePair": "CITY_USDT",
+        "exchange": "poloniex",
+        "assetName": "Manchester City Fan Token",
+        "assetArcId": "AMB:CIT000000076",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "city_usdt",
+        "instrumentType": "spot"
+    }
+]

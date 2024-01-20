@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UNI000002307_AMB:USD000000335",
+        "normalizedPair": "unilapse_usdt",
+        "normalizedSymbol": "unilapse",
+        "nativePair": "UNILAPSEUSDT",
+        "exchange": "mexc",
+        "assetName": "UNILAPSE",
+        "assetArcId": "AMB:UNI000002307",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "unilapse_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:WLK000000859_AMB:USD000000841",
+        "normalizedPair": "wlkn_usdd",
+        "normalizedSymbol": "wlkn",
+        "nativePair": "WLKN_USDD",
+        "exchange": "poloniex",
+        "assetName": "Walken",
+        "assetArcId": "AMB:WLK000000859",
+        "quoteArcId": "AMB:USD000000841",
+        "collectedPair": "wlkn_usdd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WLK000000859_AMB:USD000000335",
+        "normalizedPair": "wlkn_usdt",
+        "normalizedSymbol": "wlkn",
+        "nativePair": "WLKN_USDT",
+        "exchange": "poloniex",
+        "assetName": "Walken",
+        "assetArcId": "AMB:WLK000000859",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wlkn_usdt",
+        "instrumentType": "spot"
+    }
+]

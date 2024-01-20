@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GLM000000147_AMB:KRW000000000",
+        "normalizedPair": "glm_krw",
+        "normalizedSymbol": "glm",
+        "nativePair": "GLM/KRW",
+        "exchange": "bithumb",
+        "assetName": "Golem",
+        "assetArcId": "AMB:GLM000000147",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "glm_krw",
+        "instrumentType": "spot"
+    }
+]

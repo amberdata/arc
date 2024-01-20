@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VET000000338_AMB:USD000000335",
+        "normalizedPair": "vet_usdt",
+        "normalizedSymbol": "vet",
+        "nativePair": "vetusdt",
+        "exchange": "huobi",
+        "assetName": "vechain",
+        "assetArcId": "AMB:VET000000338",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vet_usdt",
+        "instrumentType": "spot"
+    }
+]

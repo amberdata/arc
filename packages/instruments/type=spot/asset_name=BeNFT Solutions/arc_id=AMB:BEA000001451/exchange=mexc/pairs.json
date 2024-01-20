@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BEA000001451_AMB:USD000000335",
+        "normalizedPair": "beai_usdt",
+        "normalizedSymbol": "beai",
+        "nativePair": "BEAIUSDT",
+        "exchange": "mexc",
+        "assetName": "BeNFT Solutions",
+        "assetArcId": "AMB:BEA000001451",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "beai_usdt",
+        "instrumentType": "spot"
+    }
+]

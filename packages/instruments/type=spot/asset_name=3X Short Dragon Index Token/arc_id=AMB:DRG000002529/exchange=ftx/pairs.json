@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DRG000002529_AMB:USD000000949",
+        "normalizedPair": "drgnbear_usd",
+        "normalizedSymbol": "drgnbear",
+        "nativePair": "DRGNBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short Dragon Index Token",
+        "assetArcId": "AMB:DRG000002529",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "drgnbear_usd",
+        "instrumentType": "spot"
+    }
+]

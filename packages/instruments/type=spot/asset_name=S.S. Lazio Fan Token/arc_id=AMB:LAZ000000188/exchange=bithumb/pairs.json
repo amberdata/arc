@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LAZ000000188_AMB:BTC000000000",
+        "normalizedPair": "lazio_btc",
+        "normalizedSymbol": "lazio",
+        "nativePair": "LAZIO/BTC",
+        "exchange": "bithumb",
+        "assetName": "S.S. Lazio Fan Token",
+        "assetArcId": "AMB:LAZ000000188",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "lazio_btc",
+        "instrumentType": "spot"
+    }
+]

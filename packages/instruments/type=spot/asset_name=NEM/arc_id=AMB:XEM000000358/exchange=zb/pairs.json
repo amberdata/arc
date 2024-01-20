@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XEM000000358_AMB:QCA000000000",
+        "normalizedPair": "xem_qc",
+        "normalizedSymbol": "xem",
+        "nativePair": "xem_qc",
+        "exchange": "zb",
+        "assetName": "NEM",
+        "assetArcId": "AMB:XEM000000358",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "xem_qc",
+        "instrumentType": "spot"
+    }
+]

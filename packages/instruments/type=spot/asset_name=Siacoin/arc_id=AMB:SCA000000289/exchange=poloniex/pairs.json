@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SCA000000289_AMB:BTC000000000",
+        "normalizedPair": "sc_btc",
+        "normalizedSymbol": "sc",
+        "nativePair": "SC_BTC",
+        "exchange": "poloniex",
+        "assetName": "Siacoin",
+        "assetArcId": "AMB:SCA000000289",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "sc_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SCA000000289_AMB:USD000000335",
+        "normalizedPair": "sc_usdt",
+        "normalizedSymbol": "sc",
+        "nativePair": "SC_USDT",
+        "exchange": "poloniex",
+        "assetName": "Siacoin",
+        "assetArcId": "AMB:SCA000000289",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sc_usdt",
+        "instrumentType": "spot"
+    }
+]

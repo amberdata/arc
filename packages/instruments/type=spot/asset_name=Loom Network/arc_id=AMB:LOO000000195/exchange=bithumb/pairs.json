@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LOO000000195_AMB:KRW000000000",
+        "normalizedPair": "loom_krw",
+        "normalizedSymbol": "loom",
+        "nativePair": "LOOM/KRW",
+        "exchange": "bithumb",
+        "assetName": "Loom Network",
+        "assetArcId": "AMB:LOO000000195",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "loom_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GAL000000140_AMB:USD000000949",
+        "normalizedPair": "gala_usd",
+        "normalizedSymbol": "gala",
+        "nativePair": "GALA/USD",
+        "exchange": "ftx",
+        "assetName": "Gala V1",
+        "assetArcId": "AMB:GAL000000140",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "gala_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LOT000001875_AMB:USD000000335",
+        "normalizedPair": "lott_usdt",
+        "normalizedSymbol": "lott",
+        "nativePair": "LOTTUSDT",
+        "exchange": "mexc",
+        "assetName": "Beauty Bakery Linked Operation Transaction Technology",
+        "assetArcId": "AMB:LOT000001875",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lott_usdt",
+        "instrumentType": "spot"
+    }
+]

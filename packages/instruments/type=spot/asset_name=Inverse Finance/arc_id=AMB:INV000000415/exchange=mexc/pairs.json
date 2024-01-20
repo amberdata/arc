@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:INV000000415_AMB:USD000000335",
+        "normalizedPair": "inv_usdt",
+        "normalizedSymbol": "inv",
+        "nativePair": "INVUSDT",
+        "exchange": "mexc",
+        "assetName": "Inverse Finance",
+        "assetArcId": "AMB:INV000000415",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "inv_usdt",
+        "instrumentType": "spot"
+    }
+]

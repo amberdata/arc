@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MSH000001956_AMB:USD000000335",
+        "normalizedPair": "mshib_usdt",
+        "normalizedSymbol": "mshib",
+        "nativePair": "MSHIBUSDT",
+        "exchange": "mexc",
+        "assetName": "Magic Shiba Starter",
+        "assetArcId": "AMB:MSH000001956",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mshib_usdt",
+        "instrumentType": "spot"
+    }
+]

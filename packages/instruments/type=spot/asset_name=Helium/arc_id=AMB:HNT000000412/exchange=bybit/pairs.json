@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HNT000000412_AMB:USD000000335",
+        "normalizedPair": "hnt_usdt",
+        "normalizedSymbol": "hnt",
+        "nativePair": "HNTUSDT",
+        "exchange": "bybit",
+        "assetName": "Helium",
+        "assetArcId": "AMB:HNT000000412",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hnt_usdt",
+        "instrumentType": "spot"
+    }
+]

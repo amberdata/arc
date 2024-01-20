@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RCK000001293_AMB:USD000000335",
+        "normalizedPair": "rckt_usdt",
+        "normalizedSymbol": "rckt",
+        "nativePair": "RCKT_USDT",
+        "exchange": "poloniex",
+        "assetName": "RocketSwap",
+        "assetArcId": "AMB:RCK000001293",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rckt_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRE000000654_AMB:USD000000335",
+        "normalizedPair": "cre_usdt",
+        "normalizedSymbol": "cre",
+        "nativePair": "creusdt",
+        "exchange": "huobi",
+        "assetName": "Crescite",
+        "assetArcId": "AMB:CRE000000654",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cre_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "arcPairId": "AMB:ARB000000024_AMB:BTC000000000",
+        "normalizedPair": "arb_btc",
+        "normalizedSymbol": "arb",
+        "nativePair": "ARBBTC",
+        "exchange": "binance",
+        "assetName": "Arbitrum",
+        "assetArcId": "AMB:ARB000000024",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "arb_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ARB000000024_AMB:ETH000000000",
+        "normalizedPair": "arb_eth",
+        "normalizedSymbol": "arb",
+        "nativePair": "ARBETH",
+        "exchange": "binance",
+        "assetName": "Arbitrum",
+        "assetArcId": "AMB:ARB000000024",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "arb_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ARB000000024_AMB:EUR000000120",
+        "normalizedPair": "arb_eur",
+        "normalizedSymbol": "arb",
+        "nativePair": "ARBEUR",
+        "exchange": "binance",
+        "assetName": "Arbitrum",
+        "assetArcId": "AMB:ARB000000024",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "arb_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ARB000000024_AMB:FDU000000122",
+        "normalizedPair": "arb_fdusd",
+        "normalizedSymbol": "arb",
+        "nativePair": "ARBFDUSD",
+        "exchange": "binance",
+        "assetName": "Arbitrum",
+        "assetArcId": "AMB:ARB000000024",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "arb_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ARB000000024_AMB:RUB000000000",
+        "normalizedPair": "arb_rub",
+        "normalizedSymbol": "arb",
+        "nativePair": "ARBRUB",
+        "exchange": "binance",
+        "assetName": "Arbitrum",
+        "assetArcId": "AMB:ARB000000024",
+        "quoteArcId": "AMB:RUB000000000",
+        "collectedPair": "arb_rub",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ARB000000024_AMB:TRY000000940",
+        "normalizedPair": "arb_try",
+        "normalizedSymbol": "arb",
+        "nativePair": "ARBTRY",
+        "exchange": "binance",
+        "assetName": "Arbitrum",
+        "assetArcId": "AMB:ARB000000024",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "arb_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ARB000000024_AMB:TUS000000326",
+        "normalizedPair": "arb_tusd",
+        "normalizedSymbol": "arb",
+        "nativePair": "ARBTUSD",
+        "exchange": "binance",
+        "assetName": "Arbitrum",
+        "assetArcId": "AMB:ARB000000024",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "arb_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ARB000000024_AMB:USD000000335",
+        "normalizedPair": "arb_usdt",
+        "normalizedSymbol": "arb",
+        "nativePair": "ARBUSDT",
+        "exchange": "binance",
+        "assetName": "Arbitrum",
+        "assetArcId": "AMB:ARB000000024",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "arb_usdt",
+        "instrumentType": "spot"
+    }
+]

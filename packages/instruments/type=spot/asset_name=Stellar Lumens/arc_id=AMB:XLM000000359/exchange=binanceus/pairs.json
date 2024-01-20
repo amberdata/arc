@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XLM000000359_AMB:USD000000335",
+        "normalizedPair": "xlm_usdt",
+        "normalizedSymbol": "xlm",
+        "nativePair": "XLMUSDT",
+        "exchange": "binanceus",
+        "assetName": "Stellar Lumens",
+        "assetArcId": "AMB:XLM000000359",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xlm_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETH000000672_AMB:USD000000335",
+        "normalizedPair": "ethf_usdt",
+        "normalizedSymbol": "ethf",
+        "nativePair": "ethfusdt",
+        "exchange": "huobi",
+        "assetName": "EthereumFair",
+        "assetArcId": "AMB:ETH000000672",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ethf_usdt",
+        "instrumentType": "spot"
+    }
+]

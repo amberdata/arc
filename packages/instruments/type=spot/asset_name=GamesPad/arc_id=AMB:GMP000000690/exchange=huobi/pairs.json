@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GMP000000690_AMB:USD000000335",
+        "normalizedPair": "gmpd_usdt",
+        "normalizedSymbol": "gmpd",
+        "nativePair": "gmpdusdt",
+        "exchange": "huobi",
+        "assetName": "GamesPad",
+        "assetArcId": "AMB:GMP000000690",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gmpd_usdt",
+        "instrumentType": "spot"
+    }
+]

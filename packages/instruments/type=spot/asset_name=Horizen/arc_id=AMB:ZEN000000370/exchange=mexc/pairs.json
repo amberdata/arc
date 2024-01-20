@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZEN000000370_AMB:USD000000335",
+        "normalizedPair": "zen_usdt",
+        "normalizedSymbol": "zen",
+        "nativePair": "ZENUSDT",
+        "exchange": "mexc",
+        "assetName": "Horizen",
+        "assetArcId": "AMB:ZEN000000370",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zen_usdt",
+        "instrumentType": "spot"
+    }
+]

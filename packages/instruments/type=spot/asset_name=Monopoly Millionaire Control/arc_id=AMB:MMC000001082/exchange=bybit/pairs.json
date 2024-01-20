@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MMC000001082_AMB:USD000000335",
+        "normalizedPair": "mmc_usdt",
+        "normalizedSymbol": "mmc",
+        "nativePair": "MMCUSDT",
+        "exchange": "bybit",
+        "assetName": "Monopoly Millionaire Control",
+        "assetArcId": "AMB:MMC000001082",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mmc_usdt",
+        "instrumentType": "spot"
+    }
+]

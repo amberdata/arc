@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRO000000390_AMB:KRW000000000",
+        "normalizedPair": "cro_krw",
+        "normalizedSymbol": "cro",
+        "nativePair": "CRO/KRW",
+        "exchange": "bithumb",
+        "assetName": "Crypto.com Coin",
+        "assetArcId": "AMB:CRO000000390",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "cro_krw",
+        "instrumentType": "spot"
+    }
+]

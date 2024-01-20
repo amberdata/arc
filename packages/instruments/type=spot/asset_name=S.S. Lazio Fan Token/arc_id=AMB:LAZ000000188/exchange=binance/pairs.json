@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:LAZ000000188_AMB:BTC000000000",
+        "normalizedPair": "lazio_btc",
+        "normalizedSymbol": "lazio",
+        "nativePair": "LAZIOBTC",
+        "exchange": "binance",
+        "assetName": "S.S. Lazio Fan Token",
+        "assetArcId": "AMB:LAZ000000188",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "lazio_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LAZ000000188_AMB:BUS000000067",
+        "normalizedPair": "lazio_busd",
+        "normalizedSymbol": "lazio",
+        "nativePair": "LAZIOBUSD",
+        "exchange": "binance",
+        "assetName": "S.S. Lazio Fan Token",
+        "assetArcId": "AMB:LAZ000000188",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "lazio_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LAZ000000188_AMB:EUR000000120",
+        "normalizedPair": "lazio_eur",
+        "normalizedSymbol": "lazio",
+        "nativePair": "LAZIOEUR",
+        "exchange": "binance",
+        "assetName": "S.S. Lazio Fan Token",
+        "assetArcId": "AMB:LAZ000000188",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "lazio_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LAZ000000188_AMB:TRY000000940",
+        "normalizedPair": "lazio_try",
+        "normalizedSymbol": "lazio",
+        "nativePair": "LAZIOTRY",
+        "exchange": "binance",
+        "assetName": "S.S. Lazio Fan Token",
+        "assetArcId": "AMB:LAZ000000188",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "lazio_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LAZ000000188_AMB:USD000000335",
+        "normalizedPair": "lazio_usdt",
+        "normalizedSymbol": "lazio",
+        "nativePair": "LAZIOUSDT",
+        "exchange": "binance",
+        "assetName": "S.S. Lazio Fan Token",
+        "assetArcId": "AMB:LAZ000000188",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lazio_usdt",
+        "instrumentType": "spot"
+    }
+]

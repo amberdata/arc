@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:IDE000000167_AMB:USD000000949",
+        "normalizedPair": "idex_usd",
+        "normalizedSymbol": "idex",
+        "nativePair": "IDEX-USD",
+        "exchange": "gdax",
+        "assetName": "IDEX",
+        "assetArcId": "AMB:IDE000000167",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "idex_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IDE000000167_AMB:USD000000335",
+        "normalizedPair": "idex_usdt",
+        "normalizedSymbol": "idex",
+        "nativePair": "IDEX-USDT",
+        "exchange": "gdax",
+        "assetName": "IDEX",
+        "assetArcId": "AMB:IDE000000167",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "idex_usdt",
+        "instrumentType": "spot"
+    }
+]

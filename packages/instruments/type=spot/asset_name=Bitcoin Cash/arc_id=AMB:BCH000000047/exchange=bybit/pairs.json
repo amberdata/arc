@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:USD000000335",
+        "normalizedPair": "bch_usdt",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCHUSDT",
+        "exchange": "bybit",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bch_usdt",
+        "instrumentType": "spot"
+    }
+]

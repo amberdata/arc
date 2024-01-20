@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CUS000002513_AMB:USD000000949",
+        "normalizedPair": "cusdthedge_usd",
+        "normalizedSymbol": "cusdthedge",
+        "nativePair": "CUSDTHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short Compound USDT Token",
+        "assetArcId": "AMB:CUS000002513",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "cusdthedge_usd",
+        "instrumentType": "spot"
+    }
+]

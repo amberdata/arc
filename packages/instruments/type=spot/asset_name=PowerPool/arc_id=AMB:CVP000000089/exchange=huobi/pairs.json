@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CVP000000089_AMB:USD000000335",
+        "normalizedPair": "cvp_usdt",
+        "normalizedSymbol": "cvp",
+        "nativePair": "cvpusdt",
+        "exchange": "huobi",
+        "assetName": "PowerPool",
+        "assetArcId": "AMB:CVP000000089",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cvp_usdt",
+        "instrumentType": "spot"
+    }
+]

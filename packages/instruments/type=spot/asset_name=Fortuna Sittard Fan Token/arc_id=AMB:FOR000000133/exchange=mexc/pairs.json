@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FOR000000133_AMB:USD000000335",
+        "normalizedPair": "for_usdt",
+        "normalizedSymbol": "for",
+        "nativePair": "FORUSDT",
+        "exchange": "mexc",
+        "assetName": "Fortuna Sittard Fan Token",
+        "assetArcId": "AMB:FOR000000133",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "for_usdt",
+        "instrumentType": "spot"
+    }
+]

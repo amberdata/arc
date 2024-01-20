@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:KLV000000714_AMB:BTC000000000",
+        "normalizedPair": "klv_btc",
+        "normalizedSymbol": "klv",
+        "nativePair": "KLV_BTC",
+        "exchange": "poloniex",
+        "assetName": "Klever",
+        "assetArcId": "AMB:KLV000000714",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "klv_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KLV000000714_AMB:TRX000000325",
+        "normalizedPair": "klv_trx",
+        "normalizedSymbol": "klv",
+        "nativePair": "KLV_TRX",
+        "exchange": "poloniex",
+        "assetName": "Klever",
+        "assetArcId": "AMB:KLV000000714",
+        "quoteArcId": "AMB:TRX000000325",
+        "collectedPair": "klv_trx",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KLV000000714_AMB:USD000000335",
+        "normalizedPair": "klv_usdt",
+        "normalizedSymbol": "klv",
+        "nativePair": "KLV_USDT",
+        "exchange": "poloniex",
+        "assetName": "Klever",
+        "assetArcId": "AMB:KLV000000714",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "klv_usdt",
+        "instrumentType": "spot"
+    }
+]

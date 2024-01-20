@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ADX000000006_AMB:EUR000000120",
+        "normalizedPair": "adx_eur",
+        "normalizedSymbol": "adx",
+        "nativePair": "ADXEUR",
+        "exchange": "kraken",
+        "assetName": "Ambire AdEx",
+        "assetArcId": "AMB:ADX000000006",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "adx_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ADX000000006_AMB:USD000000949",
+        "normalizedPair": "adx_usd",
+        "normalizedSymbol": "adx",
+        "nativePair": "ADXUSD",
+        "exchange": "kraken",
+        "assetName": "Ambire AdEx",
+        "assetArcId": "AMB:ADX000000006",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "adx_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DON000001221_AMB:USD000000335",
+        "normalizedPair": "dons_usdt",
+        "normalizedSymbol": "dons",
+        "nativePair": "DONSUSDT",
+        "exchange": "mexc",
+        "assetName": "The Dons",
+        "assetArcId": "AMB:DON000001221",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dons_usdt",
+        "instrumentType": "spot"
+    }
+]

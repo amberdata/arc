@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DGC000001594_AMB:USD000000335",
+        "normalizedPair": "dgc_usdt",
+        "normalizedSymbol": "dgc",
+        "nativePair": "DGCUSDT",
+        "exchange": "mexc",
+        "assetName": "Digitalcoin",
+        "assetArcId": "AMB:DGC000001594",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dgc_usdt",
+        "instrumentType": "spot"
+    }
+]

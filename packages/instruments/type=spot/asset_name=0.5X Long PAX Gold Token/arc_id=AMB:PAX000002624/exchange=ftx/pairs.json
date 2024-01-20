@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PAX000002624_AMB:USD000000949",
+        "normalizedPair": "paxghalf_usd",
+        "normalizedSymbol": "paxghalf",
+        "nativePair": "PAXGHALF/USD",
+        "exchange": "ftx",
+        "assetName": "0.5X Long PAX Gold Token",
+        "assetArcId": "AMB:PAX000002624",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "paxghalf_usd",
+        "instrumentType": "spot"
+    }
+]

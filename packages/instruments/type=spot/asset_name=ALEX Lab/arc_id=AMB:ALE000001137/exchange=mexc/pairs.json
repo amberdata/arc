@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALE000001137_AMB:USD000000335",
+        "normalizedPair": "alex_usdt",
+        "normalizedSymbol": "alex",
+        "nativePair": "ALEXUSDT",
+        "exchange": "mexc",
+        "assetName": "ALEX Lab",
+        "assetArcId": "AMB:ALE000001137",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "alex_usdt",
+        "instrumentType": "spot"
+    }
+]

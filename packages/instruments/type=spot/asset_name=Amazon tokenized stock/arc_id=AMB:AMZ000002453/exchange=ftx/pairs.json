@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AMZ000002453_AMB:USD000000949",
+        "normalizedPair": "amzn_usd",
+        "normalizedSymbol": "amzn",
+        "nativePair": "AMZN/USD",
+        "exchange": "ftx",
+        "assetName": "Amazon tokenized stock",
+        "assetArcId": "AMB:AMZ000002453",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "amzn_usd",
+        "instrumentType": "spot"
+    }
+]

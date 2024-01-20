@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CAD000002500_AMB:USD000000949",
+        "normalizedPair": "cad_usd",
+        "normalizedSymbol": "cad",
+        "nativePair": "CAD/USD",
+        "exchange": "ftx",
+        "assetName": "Canadian dollar",
+        "assetArcId": "AMB:CAD000002500",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "cad_usd",
+        "instrumentType": "spot"
+    }
+]

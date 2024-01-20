@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FUN000001234_AMB:USD000000335",
+        "normalizedPair": "fund_usdt",
+        "normalizedSymbol": "fund",
+        "nativePair": "FUNDUSDT",
+        "exchange": "mexc",
+        "assetName": "Teh Fund",
+        "assetArcId": "AMB:FUN000001234",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fund_usdt",
+        "instrumentType": "spot"
+    }
+]

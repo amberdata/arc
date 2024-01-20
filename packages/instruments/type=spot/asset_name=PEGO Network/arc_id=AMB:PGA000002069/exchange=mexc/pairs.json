@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PGA000002069_AMB:USD000000335",
+        "normalizedPair": "pg_usdt",
+        "normalizedSymbol": "pg",
+        "nativePair": "PGUSDT",
+        "exchange": "mexc",
+        "assetName": "PEGO Network",
+        "assetArcId": "AMB:PGA000002069",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pg_usdt",
+        "instrumentType": "spot"
+    }
+]

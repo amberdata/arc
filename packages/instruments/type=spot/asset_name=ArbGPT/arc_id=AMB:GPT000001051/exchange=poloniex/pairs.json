@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GPT000001051_AMB:USD000000335",
+        "normalizedPair": "gpt_usdt",
+        "normalizedSymbol": "gpt",
+        "nativePair": "GPT_USDT",
+        "exchange": "poloniex",
+        "assetName": "ArbGPT",
+        "assetArcId": "AMB:GPT000001051",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gpt_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:HBA000000157_AMB:BTC000000000",
+        "normalizedPair": "hbar_btc",
+        "normalizedSymbol": "hbar",
+        "nativePair": "HBAR-BTC",
+        "exchange": "okex",
+        "assetName": "Hedera",
+        "assetArcId": "AMB:HBA000000157",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "hbar_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:HBA000000157_AMB:USD000000333",
+        "normalizedPair": "hbar_usdc",
+        "normalizedSymbol": "hbar",
+        "nativePair": "HBAR-USDC",
+        "exchange": "okex",
+        "assetName": "Hedera",
+        "assetArcId": "AMB:HBA000000157",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "hbar_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:HBA000000157_AMB:USD000000335",
+        "normalizedPair": "hbar_usdt",
+        "normalizedSymbol": "hbar",
+        "nativePair": "HBAR-USDT",
+        "exchange": "okex",
+        "assetName": "Hedera",
+        "assetArcId": "AMB:HBA000000157",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hbar_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ORB000000462_AMB:USD000000335",
+        "normalizedPair": "orbs_usdt",
+        "normalizedSymbol": "orbs",
+        "nativePair": "ORBSUSDT",
+        "exchange": "binanceus",
+        "assetName": "Orbs",
+        "assetArcId": "AMB:ORB000000462",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "orbs_usdt",
+        "instrumentType": "spot"
+    }
+]

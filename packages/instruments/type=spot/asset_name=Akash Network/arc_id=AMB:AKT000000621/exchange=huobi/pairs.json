@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AKT000000621_AMB:USD000000335",
+        "normalizedPair": "akt_usdt",
+        "normalizedSymbol": "akt",
+        "nativePair": "aktusdt",
+        "exchange": "huobi",
+        "assetName": "Akash Network",
+        "assetArcId": "AMB:AKT000000621",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "akt_usdt",
+        "instrumentType": "spot"
+    }
+]

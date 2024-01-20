@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MPL000000425_AMB:EUR000000120",
+        "normalizedPair": "mpl_eur",
+        "normalizedSymbol": "mpl",
+        "nativePair": "mpleur",
+        "exchange": "bitstamp",
+        "assetName": "Maple",
+        "assetArcId": "AMB:MPL000000425",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "mpl_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MPL000000425_AMB:USD000000949",
+        "normalizedPair": "mpl_usd",
+        "normalizedSymbol": "mpl",
+        "nativePair": "mplusd",
+        "exchange": "bitstamp",
+        "assetName": "Maple",
+        "assetArcId": "AMB:MPL000000425",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mpl_usd",
+        "instrumentType": "spot"
+    }
+]

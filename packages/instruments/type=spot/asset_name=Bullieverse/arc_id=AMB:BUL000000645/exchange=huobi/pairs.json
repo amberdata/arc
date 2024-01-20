@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BUL000000645_AMB:USD000000335",
+        "normalizedPair": "bull.amb.1_usdt",
+        "normalizedSymbol": "bull.amb.1",
+        "nativePair": "bullusdt",
+        "exchange": "huobi",
+        "assetName": "Bullieverse",
+        "assetArcId": "AMB:BUL000000645",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bull_usdt",
+        "instrumentType": "spot"
+    }
+]

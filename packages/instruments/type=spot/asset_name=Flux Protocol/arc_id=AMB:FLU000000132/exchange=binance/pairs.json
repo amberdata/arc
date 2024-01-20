@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:FLU000000132_AMB:BTC000000000",
+        "normalizedPair": "flux_btc",
+        "normalizedSymbol": "flux",
+        "nativePair": "FLUXBTC",
+        "exchange": "binance",
+        "assetName": "Flux Protocol",
+        "assetArcId": "AMB:FLU000000132",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "flux_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FLU000000132_AMB:BUS000000067",
+        "normalizedPair": "flux_busd",
+        "normalizedSymbol": "flux",
+        "nativePair": "FLUXBUSD",
+        "exchange": "binance",
+        "assetName": "Flux Protocol",
+        "assetArcId": "AMB:FLU000000132",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "flux_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FLU000000132_AMB:USD000000335",
+        "normalizedPair": "flux_usdt",
+        "normalizedSymbol": "flux",
+        "nativePair": "FLUXUSDT",
+        "exchange": "binance",
+        "assetName": "Flux Protocol",
+        "assetArcId": "AMB:FLU000000132",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "flux_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GLF000001710_AMB:USD000000335",
+        "normalizedPair": "glft_usdt",
+        "normalizedSymbol": "glft",
+        "nativePair": "GLFTUSDT",
+        "exchange": "mexc",
+        "assetName": "Global Fan Token",
+        "assetArcId": "AMB:GLF000001710",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "glft_usdt",
+        "instrumentType": "spot"
+    }
+]

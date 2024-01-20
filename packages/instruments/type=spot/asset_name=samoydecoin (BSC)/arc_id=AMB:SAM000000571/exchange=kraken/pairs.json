@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SAM000000571_AMB:EUR000000120",
+        "normalizedPair": "samo_eur",
+        "normalizedSymbol": "samo",
+        "nativePair": "SAMOEUR",
+        "exchange": "kraken",
+        "assetName": "samoydecoin (BSC)",
+        "assetArcId": "AMB:SAM000000571",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "samo_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SAM000000571_AMB:USD000000949",
+        "normalizedPair": "samo_usd",
+        "normalizedSymbol": "samo",
+        "nativePair": "SAMOUSD",
+        "exchange": "kraken",
+        "assetName": "samoydecoin (BSC)",
+        "assetArcId": "AMB:SAM000000571",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "samo_usd",
+        "instrumentType": "spot"
+    }
+]

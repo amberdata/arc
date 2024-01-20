@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JON000001810_AMB:USD000000335",
+        "normalizedPair": "jones_usdt",
+        "normalizedSymbol": "jones",
+        "nativePair": "JONESUSDT",
+        "exchange": "mexc",
+        "assetName": "Jones DAO",
+        "assetArcId": "AMB:JON000001810",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jones_usdt",
+        "instrumentType": "spot"
+    }
+]

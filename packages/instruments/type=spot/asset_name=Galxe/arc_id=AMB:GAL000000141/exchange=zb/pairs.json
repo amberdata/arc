@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:GAL000000141_AMB:QCA000000000",
+        "normalizedPair": "gal_qc",
+        "normalizedSymbol": "gal",
+        "nativePair": "gal_qc",
+        "exchange": "zb",
+        "assetName": "Galxe",
+        "assetArcId": "AMB:GAL000000141",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "gal_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GAL000000141_AMB:USD000000335",
+        "normalizedPair": "gal_usdt",
+        "normalizedSymbol": "gal",
+        "nativePair": "gal_usdt",
+        "exchange": "zb",
+        "assetName": "Galxe",
+        "assetArcId": "AMB:GAL000000141",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gal_usdt",
+        "instrumentType": "spot"
+    }
+]

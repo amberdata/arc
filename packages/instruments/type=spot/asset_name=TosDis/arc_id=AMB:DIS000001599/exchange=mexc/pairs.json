@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DIS000001599_AMB:USD000000335",
+        "normalizedPair": "dis_usdt",
+        "normalizedSymbol": "dis",
+        "nativePair": "DISUSDT",
+        "exchange": "mexc",
+        "assetName": "TosDis",
+        "assetArcId": "AMB:DIS000001599",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dis_usdt",
+        "instrumentType": "spot"
+    }
+]

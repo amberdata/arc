@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SWF000000446_AMB:USD000000335",
+        "normalizedPair": "swftc_usdt",
+        "normalizedSymbol": "swftc",
+        "nativePair": "SWFTC-USDT",
+        "exchange": "okex",
+        "assetName": "SwftCoin",
+        "assetArcId": "AMB:SWF000000446",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "swftc_usdt",
+        "instrumentType": "spot"
+    }
+]

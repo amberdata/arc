@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ORC000000774_AMB:KRW000000000",
+        "normalizedPair": "orc_krw",
+        "normalizedSymbol": "orc",
+        "nativePair": "ORC/KRW",
+        "exchange": "bithumb",
+        "assetName": "Orbit Chain",
+        "assetArcId": "AMB:ORC000000774",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "orc_krw",
+        "instrumentType": "spot"
+    }
+]

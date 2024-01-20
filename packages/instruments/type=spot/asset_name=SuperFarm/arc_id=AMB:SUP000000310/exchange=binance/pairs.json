@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:SUP000000310_AMB:BTC000000000",
+        "normalizedPair": "super_btc",
+        "normalizedSymbol": "super",
+        "nativePair": "SUPERBTC",
+        "exchange": "binance",
+        "assetName": "SuperFarm",
+        "assetArcId": "AMB:SUP000000310",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "super_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SUP000000310_AMB:BUS000000067",
+        "normalizedPair": "super_busd",
+        "normalizedSymbol": "super",
+        "nativePair": "SUPERBUSD",
+        "exchange": "binance",
+        "assetName": "SuperFarm",
+        "assetArcId": "AMB:SUP000000310",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "super_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SUP000000310_AMB:USD000000335",
+        "normalizedPair": "super_usdt",
+        "normalizedSymbol": "super",
+        "nativePair": "SUPERUSDT",
+        "exchange": "binance",
+        "assetName": "SuperFarm",
+        "assetArcId": "AMB:SUP000000310",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "super_usdt",
+        "instrumentType": "spot"
+    }
+]

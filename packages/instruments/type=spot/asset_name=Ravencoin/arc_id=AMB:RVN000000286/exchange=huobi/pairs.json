@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RVN000000286_AMB:USD000000335",
+        "normalizedPair": "rvn_usdt",
+        "normalizedSymbol": "rvn",
+        "nativePair": "rvnusdt",
+        "exchange": "huobi",
+        "assetName": "Ravencoin",
+        "assetArcId": "AMB:RVN000000286",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rvn_usdt",
+        "instrumentType": "spot"
+    }
+]

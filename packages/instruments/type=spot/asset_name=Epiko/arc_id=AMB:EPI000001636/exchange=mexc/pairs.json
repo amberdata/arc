@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EPI000001636_AMB:USD000000335",
+        "normalizedPair": "epiko_usdt",
+        "normalizedSymbol": "epiko",
+        "nativePair": "EPIKOUSDT",
+        "exchange": "mexc",
+        "assetName": "Epiko",
+        "assetArcId": "AMB:EPI000001636",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "epiko_usdt",
+        "instrumentType": "spot"
+    }
+]

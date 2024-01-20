@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOK000000616_AMB:USD000000335",
+        "normalizedPair": "toke_usdt",
+        "normalizedSymbol": "toke",
+        "nativePair": "tokeusdt",
+        "exchange": "huobi",
+        "assetName": "Tokemak",
+        "assetArcId": "AMB:TOK000000616",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "toke_usdt",
+        "instrumentType": "spot"
+    }
+]

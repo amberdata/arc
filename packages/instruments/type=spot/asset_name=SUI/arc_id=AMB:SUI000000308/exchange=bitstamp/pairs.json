@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SUI000000308_AMB:EUR000000120",
+        "normalizedPair": "sui_eur",
+        "normalizedSymbol": "sui",
+        "nativePair": "suieur",
+        "exchange": "bitstamp",
+        "assetName": "SUI",
+        "assetArcId": "AMB:SUI000000308",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "sui_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SUI000000308_AMB:USD000000949",
+        "normalizedPair": "sui_usd",
+        "normalizedSymbol": "sui",
+        "nativePair": "suiusd",
+        "exchange": "bitstamp",
+        "assetName": "SUI",
+        "assetArcId": "AMB:SUI000000308",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sui_usd",
+        "instrumentType": "spot"
+    }
+]

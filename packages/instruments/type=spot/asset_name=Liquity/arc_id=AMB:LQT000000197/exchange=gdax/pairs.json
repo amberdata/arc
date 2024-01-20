@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:LQT000000197_AMB:EUR000000120",
+        "normalizedPair": "lqty_eur",
+        "normalizedSymbol": "lqty",
+        "nativePair": "LQTY-EUR",
+        "exchange": "gdax",
+        "assetName": "Liquity",
+        "assetArcId": "AMB:LQT000000197",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "lqty_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LQT000000197_AMB:USD000000949",
+        "normalizedPair": "lqty_usd",
+        "normalizedSymbol": "lqty",
+        "nativePair": "LQTY-USD",
+        "exchange": "gdax",
+        "assetName": "Liquity",
+        "assetArcId": "AMB:LQT000000197",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "lqty_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LQT000000197_AMB:USD000000335",
+        "normalizedPair": "lqty_usdt",
+        "normalizedSymbol": "lqty",
+        "nativePair": "LQTY-USDT",
+        "exchange": "gdax",
+        "assetName": "Liquity",
+        "assetArcId": "AMB:LQT000000197",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lqty_usdt",
+        "instrumentType": "spot"
+    }
+]

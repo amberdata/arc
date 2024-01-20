@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAM000000571_AMB:USD000000949",
+        "normalizedPair": "samo_usd",
+        "normalizedSymbol": "samo",
+        "nativePair": "samousd",
+        "exchange": "gemini",
+        "assetName": "samoydecoin (BSC)",
+        "assetArcId": "AMB:SAM000000571",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "samo_usd",
+        "instrumentType": "spot"
+    }
+]

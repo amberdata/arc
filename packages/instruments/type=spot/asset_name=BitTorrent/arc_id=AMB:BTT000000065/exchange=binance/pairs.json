@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BTT000000065_AMB:TRY000000940",
+        "normalizedPair": "bttc_try",
+        "normalizedSymbol": "bttc",
+        "nativePair": "BTTCTRY",
+        "exchange": "binance",
+        "assetName": "BitTorrent",
+        "assetArcId": "AMB:BTT000000065",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "bttc_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTT000000065_AMB:USD000000335",
+        "normalizedPair": "bttc_usdt",
+        "normalizedSymbol": "bttc",
+        "nativePair": "BTTCUSDT",
+        "exchange": "binance",
+        "assetName": "BitTorrent",
+        "assetArcId": "AMB:BTT000000065",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bttc_usdt",
+        "instrumentType": "spot"
+    }
+]

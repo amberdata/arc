@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:YFI000000367_AMB:USD000000949",
+        "normalizedPair": "yfi_usd",
+        "normalizedSymbol": "yfi",
+        "nativePair": "yfiusd",
+        "exchange": "gemini",
+        "assetName": "yearn.finance",
+        "assetArcId": "AMB:YFI000000367",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "yfi_usd",
+        "instrumentType": "spot"
+    }
+]

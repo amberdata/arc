@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JEW000001808_AMB:USD000000335",
+        "normalizedPair": "jewel_usdt",
+        "normalizedSymbol": "jewel",
+        "nativePair": "JEWELUSDT",
+        "exchange": "mexc",
+        "assetName": "DeFi Kingdoms",
+        "assetArcId": "AMB:JEW000001808",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jewel_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TNG000002271_AMB:USD000000335",
+        "normalizedPair": "tngbl_usdt",
+        "normalizedSymbol": "tngbl",
+        "nativePair": "TNGBLUSDT",
+        "exchange": "mexc",
+        "assetName": "Tangible",
+        "assetArcId": "AMB:TNG000002271",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tngbl_usdt",
+        "instrumentType": "spot"
+    }
+]

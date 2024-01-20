@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:TRU000000324_AMB:EUR000000120",
+        "normalizedPair": "tru_eur",
+        "normalizedSymbol": "tru",
+        "nativePair": "TRUEUR",
+        "exchange": "kraken",
+        "assetName": "TrueFi",
+        "assetArcId": "AMB:TRU000000324",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "tru_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TRU000000324_AMB:USD000000949",
+        "normalizedPair": "tru_usd",
+        "normalizedSymbol": "tru",
+        "nativePair": "TRUUSD",
+        "exchange": "kraken",
+        "assetName": "TrueFi",
+        "assetArcId": "AMB:TRU000000324",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "tru_usd",
+        "instrumentType": "spot"
+    }
+]

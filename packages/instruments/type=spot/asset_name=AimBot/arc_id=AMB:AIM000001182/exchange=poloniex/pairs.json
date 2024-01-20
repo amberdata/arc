@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIM000001182_AMB:USD000000335",
+        "normalizedPair": "aimbot_usdt",
+        "normalizedSymbol": "aimbot",
+        "nativePair": "AIMBOT_USDT",
+        "exchange": "poloniex",
+        "assetName": "AimBot",
+        "assetArcId": "AMB:AIM000001182",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aimbot_usdt",
+        "instrumentType": "spot"
+    }
+]

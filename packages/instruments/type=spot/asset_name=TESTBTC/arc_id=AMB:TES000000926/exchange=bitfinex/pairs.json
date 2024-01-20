@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:TES000000926_AMB:TES000000000",
+        "normalizedPair": "testbtc_testusd",
+        "normalizedSymbol": "testbtc",
+        "nativePair": "tTESTBTC:TESTUSD",
+        "exchange": "bitfinex",
+        "assetName": "TESTBTC",
+        "assetArcId": "AMB:TES000000926",
+        "quoteArcId": "AMB:TES000000000",
+        "collectedPair": "testbtc_testusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TES000000926_AMB:TES000000001",
+        "normalizedPair": "testbtc_testusdt",
+        "normalizedSymbol": "testbtc",
+        "nativePair": "tTESTBTC:TESTUSDT",
+        "exchange": "bitfinex",
+        "assetName": "TESTBTC",
+        "assetArcId": "AMB:TES000000926",
+        "quoteArcId": "AMB:TES000000001",
+        "collectedPair": "testbtc_testusdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BFC000001141_AMB:USD000000335",
+        "normalizedPair": "bfc_usdt",
+        "normalizedSymbol": "bfc",
+        "nativePair": "BFCUSDT",
+        "exchange": "mexc",
+        "assetName": "Bifrost (BFC)",
+        "assetArcId": "AMB:BFC000001141",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bfc_usdt",
+        "instrumentType": "spot"
+    }
+]

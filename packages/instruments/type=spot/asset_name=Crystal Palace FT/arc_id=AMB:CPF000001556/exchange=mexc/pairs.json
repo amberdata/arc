@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CPF000001556_AMB:USD000000335",
+        "normalizedPair": "cpfc_usdt",
+        "normalizedSymbol": "cpfc",
+        "nativePair": "CPFCUSDT",
+        "exchange": "mexc",
+        "assetName": "Crystal Palace FT",
+        "assetArcId": "AMB:CPF000001556",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cpfc_usdt",
+        "instrumentType": "spot"
+    }
+]

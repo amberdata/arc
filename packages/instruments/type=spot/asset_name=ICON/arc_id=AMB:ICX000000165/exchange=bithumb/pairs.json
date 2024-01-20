@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ICX000000165_AMB:KRW000000000",
+        "normalizedPair": "icx_krw",
+        "normalizedSymbol": "icx",
+        "nativePair": "ICX/KRW",
+        "exchange": "bithumb",
+        "assetName": "ICON",
+        "assetArcId": "AMB:ICX000000165",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "icx_krw",
+        "instrumentType": "spot"
+    }
+]

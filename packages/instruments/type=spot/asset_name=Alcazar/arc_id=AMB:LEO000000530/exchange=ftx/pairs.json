@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LEO000000530_AMB:USD000000949",
+        "normalizedPair": "leo_usd",
+        "normalizedSymbol": "leo",
+        "nativePair": "LEO/USD",
+        "exchange": "ftx",
+        "assetName": "Alcazar",
+        "assetArcId": "AMB:LEO000000530",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "leo_usd",
+        "instrumentType": "spot"
+    }
+]

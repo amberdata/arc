@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:LOK000000194_AMB:BNB000000055",
+        "normalizedPair": "loka_bnb",
+        "normalizedSymbol": "loka",
+        "nativePair": "LOKABNB",
+        "exchange": "binance",
+        "assetName": "League of Kingdoms Arena",
+        "assetArcId": "AMB:LOK000000194",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "loka_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LOK000000194_AMB:BTC000000000",
+        "normalizedPair": "loka_btc",
+        "normalizedSymbol": "loka",
+        "nativePair": "LOKABTC",
+        "exchange": "binance",
+        "assetName": "League of Kingdoms Arena",
+        "assetArcId": "AMB:LOK000000194",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "loka_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LOK000000194_AMB:USD000000335",
+        "normalizedPair": "loka_usdt",
+        "normalizedSymbol": "loka",
+        "nativePair": "LOKAUSDT",
+        "exchange": "binance",
+        "assetName": "League of Kingdoms Arena",
+        "assetArcId": "AMB:LOK000000194",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "loka_usdt",
+        "instrumentType": "spot"
+    }
+]

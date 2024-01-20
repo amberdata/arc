@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AGI000000996_AMB:USD000000335",
+        "normalizedPair": "agi_usdt",
+        "normalizedSymbol": "agi",
+        "nativePair": "AGIUSDT",
+        "exchange": "bybit",
+        "assetName": "Auragi",
+        "assetArcId": "AMB:AGI000000996",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "agi_usdt",
+        "instrumentType": "spot"
+    }
+]

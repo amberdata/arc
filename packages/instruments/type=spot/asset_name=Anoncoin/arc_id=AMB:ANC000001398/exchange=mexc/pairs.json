@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ANC000001398_AMB:USD000000335",
+        "normalizedPair": "anc_usdt",
+        "normalizedSymbol": "anc",
+        "nativePair": "ANCUSDT",
+        "exchange": "mexc",
+        "assetName": "Anoncoin",
+        "assetArcId": "AMB:ANC000001398",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "anc_usdt",
+        "instrumentType": "spot"
+    }
+]

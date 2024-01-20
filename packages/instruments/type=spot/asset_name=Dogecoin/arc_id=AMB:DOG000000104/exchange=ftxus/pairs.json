@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:DOG000000104_AMB:BTC000000000",
+        "normalizedPair": "doge_btc",
+        "normalizedSymbol": "doge",
+        "nativePair": "DOGE/BTC",
+        "exchange": "ftxus",
+        "assetName": "Dogecoin",
+        "assetArcId": "AMB:DOG000000104",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "doge_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DOG000000104_AMB:USD000000949",
+        "normalizedPair": "doge_usd",
+        "normalizedSymbol": "doge",
+        "nativePair": "DOGE/USD",
+        "exchange": "ftxus",
+        "assetName": "Dogecoin",
+        "assetArcId": "AMB:DOG000000104",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "doge_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DOG000000104_AMB:USD000000335",
+        "normalizedPair": "doge_usdt",
+        "normalizedSymbol": "doge",
+        "nativePair": "DOGE/USDT",
+        "exchange": "ftxus",
+        "assetName": "Dogecoin",
+        "assetArcId": "AMB:DOG000000104",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "doge_usdt",
+        "instrumentType": "spot"
+    }
+]

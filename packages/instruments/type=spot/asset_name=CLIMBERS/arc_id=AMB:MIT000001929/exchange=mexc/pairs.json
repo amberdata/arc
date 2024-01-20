@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MIT000001929_AMB:USD000000335",
+        "normalizedPair": "mithril_usdt",
+        "normalizedSymbol": "mithril",
+        "nativePair": "MITHRILUSDT",
+        "exchange": "mexc",
+        "assetName": "CLIMBERS",
+        "assetArcId": "AMB:MIT000001929",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mithril_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KSP000001158_AMB:BTC000000000",
+        "normalizedPair": "ksp_btc",
+        "normalizedSymbol": "ksp",
+        "nativePair": "KSP/BTC",
+        "exchange": "bithumb",
+        "assetName": "KLAYswap Protocol",
+        "assetArcId": "AMB:KSP000001158",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ksp_btc",
+        "instrumentType": "spot"
+    }
+]

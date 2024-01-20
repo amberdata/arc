@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NVI000001271_AMB:USD000000335",
+        "normalizedPair": "nvir_usdt",
+        "normalizedSymbol": "nvir",
+        "nativePair": "NVIRUSDT",
+        "exchange": "mexc",
+        "assetName": "NvirWorld",
+        "assetArcId": "AMB:NVI000001271",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nvir_usdt",
+        "instrumentType": "spot"
+    }
+]

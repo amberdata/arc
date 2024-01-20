@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SNX000000297_AMB:EUR000000120",
+        "normalizedPair": "snx_eur",
+        "normalizedSymbol": "snx",
+        "nativePair": "snxeur",
+        "exchange": "bitstamp",
+        "assetName": "SincroniX",
+        "assetArcId": "AMB:SNX000000297",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "snx_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SNX000000297_AMB:USD000000949",
+        "normalizedPair": "snx_usd",
+        "normalizedSymbol": "snx",
+        "nativePair": "snxusd",
+        "exchange": "bitstamp",
+        "assetName": "SincroniX",
+        "assetArcId": "AMB:SNX000000297",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "snx_usd",
+        "instrumentType": "spot"
+    }
+]

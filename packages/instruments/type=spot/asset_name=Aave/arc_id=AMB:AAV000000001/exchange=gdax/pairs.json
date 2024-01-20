@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:AAV000000001_AMB:BTC000000000",
+        "normalizedPair": "aave_btc",
+        "normalizedSymbol": "aave",
+        "nativePair": "AAVE-BTC",
+        "exchange": "gdax",
+        "assetName": "Aave",
+        "assetArcId": "AMB:AAV000000001",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "aave_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AAV000000001_AMB:EUR000000120",
+        "normalizedPair": "aave_eur",
+        "normalizedSymbol": "aave",
+        "nativePair": "AAVE-EUR",
+        "exchange": "gdax",
+        "assetName": "Aave",
+        "assetArcId": "AMB:AAV000000001",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "aave_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AAV000000001_AMB:GBP000000144",
+        "normalizedPair": "aave_gbp",
+        "normalizedSymbol": "aave",
+        "nativePair": "AAVE-GBP",
+        "exchange": "gdax",
+        "assetName": "Aave",
+        "assetArcId": "AMB:AAV000000001",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "aave_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AAV000000001_AMB:USD000000949",
+        "normalizedPair": "aave_usd",
+        "normalizedSymbol": "aave",
+        "nativePair": "AAVE-USD",
+        "exchange": "gdax",
+        "assetName": "Aave",
+        "assetArcId": "AMB:AAV000000001",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "aave_usd",
+        "instrumentType": "spot"
+    }
+]

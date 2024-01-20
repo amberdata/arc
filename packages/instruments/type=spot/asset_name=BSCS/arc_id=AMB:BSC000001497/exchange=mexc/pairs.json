@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BSC000001497_AMB:USD000000335",
+        "normalizedPair": "bscs_usdt",
+        "normalizedSymbol": "bscs",
+        "nativePair": "BSCSUSDT",
+        "exchange": "mexc",
+        "assetName": "BSCS",
+        "assetArcId": "AMB:BSC000001497",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bscs_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GEN000001047_AMB:USD000000335",
+        "normalizedPair": "gene_usdt",
+        "normalizedSymbol": "gene",
+        "nativePair": "GENEUSDT",
+        "exchange": "mexc",
+        "assetName": "Genopets",
+        "assetArcId": "AMB:GEN000001047",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gene_usdt",
+        "instrumentType": "spot"
+    }
+]

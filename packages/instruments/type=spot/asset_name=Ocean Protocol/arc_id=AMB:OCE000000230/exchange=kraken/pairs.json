@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:OCE000000230_AMB:BTC000000000",
+        "normalizedPair": "ocean_btc",
+        "normalizedSymbol": "ocean",
+        "nativePair": "OCEANXBT",
+        "exchange": "kraken",
+        "assetName": "Ocean Protocol",
+        "assetArcId": "AMB:OCE000000230",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ocean_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OCE000000230_AMB:EUR000000120",
+        "normalizedPair": "ocean_eur",
+        "normalizedSymbol": "ocean",
+        "nativePair": "OCEANEUR",
+        "exchange": "kraken",
+        "assetName": "Ocean Protocol",
+        "assetArcId": "AMB:OCE000000230",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "ocean_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OCE000000230_AMB:GBP000000144",
+        "normalizedPair": "ocean_gbp",
+        "normalizedSymbol": "ocean",
+        "nativePair": "OCEANGBP",
+        "exchange": "kraken",
+        "assetName": "Ocean Protocol",
+        "assetArcId": "AMB:OCE000000230",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "ocean_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OCE000000230_AMB:USD000000949",
+        "normalizedPair": "ocean_usd",
+        "normalizedSymbol": "ocean",
+        "nativePair": "OCEANUSD",
+        "exchange": "kraken",
+        "assetName": "Ocean Protocol",
+        "assetArcId": "AMB:OCE000000230",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ocean_usd",
+        "instrumentType": "spot"
+    }
+]

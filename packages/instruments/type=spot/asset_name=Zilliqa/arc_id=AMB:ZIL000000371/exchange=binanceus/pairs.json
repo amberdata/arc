@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZIL000000371_AMB:USD000000335",
+        "normalizedPair": "zil_usdt",
+        "normalizedSymbol": "zil",
+        "nativePair": "ZILUSDT",
+        "exchange": "binanceus",
+        "assetName": "Zilliqa",
+        "assetArcId": "AMB:ZIL000000371",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zil_usdt",
+        "instrumentType": "spot"
+    }
+]

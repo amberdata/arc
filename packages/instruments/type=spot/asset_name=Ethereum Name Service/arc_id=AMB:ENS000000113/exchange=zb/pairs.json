@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ENS000000113_AMB:USD000000335",
+        "normalizedPair": "ens_usdt",
+        "normalizedSymbol": "ens",
+        "nativePair": "ens_usdt",
+        "exchange": "zb",
+        "assetName": "Ethereum Name Service",
+        "assetArcId": "AMB:ENS000000113",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ens_usdt",
+        "instrumentType": "spot"
+    }
+]

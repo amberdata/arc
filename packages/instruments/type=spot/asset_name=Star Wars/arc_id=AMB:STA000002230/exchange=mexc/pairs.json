@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STA000002230_AMB:USD000000335",
+        "normalizedPair": "starwars_usdt",
+        "normalizedSymbol": "starwars",
+        "nativePair": "STARWARSUSDT",
+        "exchange": "mexc",
+        "assetName": "Star Wars",
+        "assetArcId": "AMB:STA000002230",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "starwars_usdt",
+        "instrumentType": "spot"
+    }
+]

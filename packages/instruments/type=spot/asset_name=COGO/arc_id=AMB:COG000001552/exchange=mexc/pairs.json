@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COG000001552_AMB:USD000000335",
+        "normalizedPair": "cogo_usdt",
+        "normalizedSymbol": "cogo",
+        "nativePair": "COGOUSDT",
+        "exchange": "mexc",
+        "assetName": "COGO",
+        "assetArcId": "AMB:COG000001552",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cogo_usdt",
+        "instrumentType": "spot"
+    }
+]

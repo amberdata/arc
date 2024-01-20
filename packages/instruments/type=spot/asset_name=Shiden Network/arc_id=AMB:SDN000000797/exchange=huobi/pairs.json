@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SDN000000797_AMB:USD000000335",
+        "normalizedPair": "sdn_usdt",
+        "normalizedSymbol": "sdn",
+        "nativePair": "sdnusdt",
+        "exchange": "huobi",
+        "assetName": "Shiden Network",
+        "assetArcId": "AMB:SDN000000797",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sdn_usdt",
+        "instrumentType": "spot"
+    }
+]

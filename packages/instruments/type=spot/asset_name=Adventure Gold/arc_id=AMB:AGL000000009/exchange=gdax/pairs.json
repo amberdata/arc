@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:AGL000000009_AMB:USD000000949",
+        "normalizedPair": "agld_usd",
+        "normalizedSymbol": "agld",
+        "nativePair": "AGLD-USD",
+        "exchange": "gdax",
+        "assetName": "Adventure Gold",
+        "assetArcId": "AMB:AGL000000009",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "agld_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AGL000000009_AMB:USD000000335",
+        "normalizedPair": "agld_usdt",
+        "normalizedSymbol": "agld",
+        "nativePair": "AGLD-USDT",
+        "exchange": "gdax",
+        "assetName": "Adventure Gold",
+        "assetArcId": "AMB:AGL000000009",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "agld_usdt",
+        "instrumentType": "spot"
+    }
+]

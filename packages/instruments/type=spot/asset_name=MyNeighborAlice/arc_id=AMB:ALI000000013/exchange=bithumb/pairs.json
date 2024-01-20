@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALI000000013_AMB:KRW000000000",
+        "normalizedPair": "alice_krw",
+        "normalizedSymbol": "alice",
+        "nativePair": "ALICE/KRW",
+        "exchange": "bithumb",
+        "assetName": "MyNeighborAlice",
+        "assetArcId": "AMB:ALI000000013",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "alice_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALT000002452_AMB:USD000000949",
+        "normalizedPair": "althedge_usd",
+        "normalizedSymbol": "althedge",
+        "nativePair": "ALTHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short Altcoin Index Token",
+        "assetArcId": "AMB:ALT000002452",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "althedge_usd",
+        "instrumentType": "spot"
+    }
+]

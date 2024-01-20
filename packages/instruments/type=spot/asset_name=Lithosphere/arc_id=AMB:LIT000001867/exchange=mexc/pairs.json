@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LIT000001867_AMB:USD000000335",
+        "normalizedPair": "litho_usdt",
+        "normalizedSymbol": "litho",
+        "nativePair": "LITHOUSDT",
+        "exchange": "mexc",
+        "assetName": "Lithosphere",
+        "assetArcId": "AMB:LIT000001867",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "litho_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CEL000000070_AMB:KRW000000000",
+        "normalizedPair": "celo_krw",
+        "normalizedSymbol": "celo",
+        "nativePair": "CELO/KRW",
+        "exchange": "bithumb",
+        "assetName": "Celo",
+        "assetArcId": "AMB:CEL000000070",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "celo_krw",
+        "instrumentType": "spot"
+    }
+]

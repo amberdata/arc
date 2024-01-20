@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DIO000001598_AMB:USD000000335",
+        "normalizedPair": "dione_usdt",
+        "normalizedSymbol": "dione",
+        "nativePair": "DIONEUSDT",
+        "exchange": "mexc",
+        "assetName": "Dione Protocol",
+        "assetArcId": "AMB:DIO000001598",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dione_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZKU000002409_AMB:USD000000335",
+        "normalizedPair": "zkusd_usdt",
+        "normalizedSymbol": "zkusd",
+        "nativePair": "ZKUSDUSDT",
+        "exchange": "mexc",
+        "assetName": "Goal3",
+        "assetArcId": "AMB:ZKU000002409",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zkusd_usdt",
+        "instrumentType": "spot"
+    }
+]

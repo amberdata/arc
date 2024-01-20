@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MCH000001902_AMB:USD000000335",
+        "normalizedPair": "mchc_usdt",
+        "normalizedSymbol": "mchc",
+        "nativePair": "MCHCUSDT",
+        "exchange": "mexc",
+        "assetName": "My Crypto Heroes",
+        "assetArcId": "AMB:MCH000001902",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mchc_usdt",
+        "instrumentType": "spot"
+    }
+]

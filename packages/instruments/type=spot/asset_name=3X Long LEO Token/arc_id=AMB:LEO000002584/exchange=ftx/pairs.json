@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LEO000002584_AMB:USD000000949",
+        "normalizedPair": "leobull_usd",
+        "normalizedSymbol": "leobull",
+        "nativePair": "LEOBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long LEO Token",
+        "assetArcId": "AMB:LEO000002584",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "leobull_usd",
+        "instrumentType": "spot"
+    }
+]

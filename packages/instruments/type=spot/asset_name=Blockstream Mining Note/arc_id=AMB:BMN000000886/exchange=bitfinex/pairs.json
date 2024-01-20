@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BMN000000886_AMB:BTC000000000",
+        "normalizedPair": "bmn_btc",
+        "normalizedSymbol": "bmn",
+        "nativePair": "tBMNBTC",
+        "exchange": "bitfinex",
+        "assetName": "Blockstream Mining Note",
+        "assetArcId": "AMB:BMN000000886",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "bmn_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BMN000000886_AMB:USD000000949",
+        "normalizedPair": "bmn_usd",
+        "normalizedSymbol": "bmn",
+        "nativePair": "tBMNUSD",
+        "exchange": "bitfinex",
+        "assetName": "Blockstream Mining Note",
+        "assetArcId": "AMB:BMN000000886",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bmn_usd",
+        "instrumentType": "spot"
+    }
+]

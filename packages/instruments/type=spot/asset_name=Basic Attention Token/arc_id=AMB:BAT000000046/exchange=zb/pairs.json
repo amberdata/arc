@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAT000000046_AMB:QCA000000000",
+        "normalizedPair": "bat_qc",
+        "normalizedSymbol": "bat",
+        "nativePair": "bat_qc",
+        "exchange": "zb",
+        "assetName": "Basic Attention Token",
+        "assetArcId": "AMB:BAT000000046",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "bat_qc",
+        "instrumentType": "spot"
+    }
+]

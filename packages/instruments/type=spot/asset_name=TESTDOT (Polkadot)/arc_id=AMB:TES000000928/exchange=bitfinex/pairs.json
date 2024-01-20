@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TES000000928_AMB:TES000000000",
+        "normalizedPair": "testdot_testusd",
+        "normalizedSymbol": "testdot",
+        "nativePair": "tTESTDOT:TESTUSD",
+        "exchange": "bitfinex",
+        "assetName": "TESTDOT (Polkadot)",
+        "assetArcId": "AMB:TES000000928",
+        "quoteArcId": "AMB:TES000000000",
+        "collectedPair": "testdot_testusd",
+        "instrumentType": "spot"
+    }
+]

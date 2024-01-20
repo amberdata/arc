@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FXS000000139_AMB:USD000000949",
+        "normalizedPair": "fxs_usd",
+        "normalizedSymbol": "fxs",
+        "nativePair": "FXS/USD",
+        "exchange": "ftx",
+        "assetName": "Frax Share",
+        "assetArcId": "AMB:FXS000000139",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "fxs_usd",
+        "instrumentType": "spot"
+    }
+]

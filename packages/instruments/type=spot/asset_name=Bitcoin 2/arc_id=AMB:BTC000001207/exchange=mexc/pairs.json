@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BTC000001207_AMB:USD000000335",
+        "normalizedPair": "btc2_usdt",
+        "normalizedSymbol": "btc2",
+        "nativePair": "BTC2USDT",
+        "exchange": "mexc",
+        "assetName": "Bitcoin 2",
+        "assetArcId": "AMB:BTC000001207",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "btc2_usdt",
+        "instrumentType": "spot"
+    }
+]

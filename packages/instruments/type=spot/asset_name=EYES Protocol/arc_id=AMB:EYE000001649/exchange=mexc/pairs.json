@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EYE000001649_AMB:USD000000335",
+        "normalizedPair": "eyes_usdt",
+        "normalizedSymbol": "eyes",
+        "nativePair": "EYESUSDT",
+        "exchange": "mexc",
+        "assetName": "EYES Protocol",
+        "assetArcId": "AMB:EYE000001649",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "eyes_usdt",
+        "instrumentType": "spot"
+    }
+]

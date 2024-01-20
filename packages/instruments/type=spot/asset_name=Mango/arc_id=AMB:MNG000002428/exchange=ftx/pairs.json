@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MNG000002428_AMB:USD000000949",
+        "normalizedPair": "mngo_usd",
+        "normalizedSymbol": "mngo",
+        "nativePair": "MNGO/USD",
+        "exchange": "ftx",
+        "assetName": "Mango",
+        "assetArcId": "AMB:MNG000002428",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mngo_usd",
+        "instrumentType": "spot"
+    }
+]

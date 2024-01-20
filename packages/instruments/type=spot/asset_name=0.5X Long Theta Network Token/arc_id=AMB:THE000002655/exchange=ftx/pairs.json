@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:THE000002655_AMB:USD000000949",
+        "normalizedPair": "thetahalf_usd",
+        "normalizedSymbol": "thetahalf",
+        "nativePair": "THETAHALF/USD",
+        "exchange": "ftx",
+        "assetName": "0.5X Long Theta Network Token",
+        "assetArcId": "AMB:THE000002655",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "thetahalf_usd",
+        "instrumentType": "spot"
+    }
+]

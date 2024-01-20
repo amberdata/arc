@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SIX000001171_AMB:KRW000000000",
+        "normalizedPair": "six_krw",
+        "normalizedSymbol": "six",
+        "nativePair": "SIX/KRW",
+        "exchange": "bithumb",
+        "assetName": "SIX",
+        "assetArcId": "AMB:SIX000001171",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "six_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:BTC000000000",
+        "normalizedPair": "algo_btc",
+        "normalizedSymbol": "algo",
+        "nativePair": "ALGOXBT",
+        "exchange": "kraken",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "algo_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:ETH000000000",
+        "normalizedPair": "algo_eth",
+        "normalizedSymbol": "algo",
+        "nativePair": "ALGOETH",
+        "exchange": "kraken",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "algo_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:EUR000000120",
+        "normalizedPair": "algo_eur",
+        "normalizedSymbol": "algo",
+        "nativePair": "ALGOEUR",
+        "exchange": "kraken",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "algo_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:GBP000000144",
+        "normalizedPair": "algo_gbp",
+        "normalizedSymbol": "algo",
+        "nativePair": "ALGOGBP",
+        "exchange": "kraken",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "algo_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:USD000000949",
+        "normalizedPair": "algo_usd",
+        "normalizedSymbol": "algo",
+        "nativePair": "ALGOUSD",
+        "exchange": "kraken",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "algo_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:USD000000335",
+        "normalizedPair": "algo_usdt",
+        "normalizedSymbol": "algo",
+        "nativePair": "ALGOUSDT",
+        "exchange": "kraken",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "algo_usdt",
+        "instrumentType": "spot"
+    }
+]

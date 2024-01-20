@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SUI000000308_AMB:USD000000949",
+        "normalizedPair": "sui_usd",
+        "normalizedSymbol": "sui",
+        "nativePair": "SUI-USD",
+        "exchange": "gdax",
+        "assetName": "SUI",
+        "assetArcId": "AMB:SUI000000308",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sui_usd",
+        "instrumentType": "spot"
+    }
+]

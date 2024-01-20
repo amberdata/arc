@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:DOT000000105_AMB:BTC000000000",
+        "normalizedPair": "dot_btc",
+        "normalizedSymbol": "dot",
+        "nativePair": "DOT/BTC",
+        "exchange": "ftx",
+        "assetName": "Polkadot",
+        "assetArcId": "AMB:DOT000000105",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "dot_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DOT000000105_AMB:JPY000000903",
+        "normalizedPair": "dot_jpy",
+        "normalizedSymbol": "dot",
+        "nativePair": "DOT/JPY",
+        "exchange": "ftx",
+        "assetName": "Polkadot",
+        "assetArcId": "AMB:DOT000000105",
+        "quoteArcId": "AMB:JPY000000903",
+        "collectedPair": "dot_jpy",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DOT000000105_AMB:USD000000949",
+        "normalizedPair": "dot_usd",
+        "normalizedSymbol": "dot",
+        "nativePair": "DOT/USD",
+        "exchange": "ftx",
+        "assetName": "Polkadot",
+        "assetArcId": "AMB:DOT000000105",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dot_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DOT000000105_AMB:USD000000335",
+        "normalizedPair": "dot_usdt",
+        "normalizedSymbol": "dot",
+        "nativePair": "DOT/USDT",
+        "exchange": "ftx",
+        "assetName": "Polkadot",
+        "assetArcId": "AMB:DOT000000105",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dot_usdt",
+        "instrumentType": "spot"
+    }
+]

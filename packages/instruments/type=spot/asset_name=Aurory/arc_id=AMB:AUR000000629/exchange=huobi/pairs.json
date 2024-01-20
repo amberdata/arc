@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AUR000000629_AMB:USD000000335",
+        "normalizedPair": "aury_usdt",
+        "normalizedSymbol": "aury",
+        "nativePair": "auryusdt",
+        "exchange": "huobi",
+        "assetName": "Aurory",
+        "assetArcId": "AMB:AUR000000629",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aury_usdt",
+        "instrumentType": "spot"
+    }
+]

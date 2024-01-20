@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CLO000001541_AMB:USD000000335",
+        "normalizedPair": "clore_usdt",
+        "normalizedSymbol": "clore",
+        "nativePair": "CLOREUSDT",
+        "exchange": "mexc",
+        "assetName": "Clore.ai",
+        "assetArcId": "AMB:CLO000001541",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "clore_usdt",
+        "instrumentType": "spot"
+    }
+]

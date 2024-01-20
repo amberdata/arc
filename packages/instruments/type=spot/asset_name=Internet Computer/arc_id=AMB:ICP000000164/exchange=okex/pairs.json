@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ICP000000164_AMB:USD000000333",
+        "normalizedPair": "icp_usdc",
+        "normalizedSymbol": "icp",
+        "nativePair": "ICP-USDC",
+        "exchange": "okex",
+        "assetName": "Internet Computer",
+        "assetArcId": "AMB:ICP000000164",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "icp_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ICP000000164_AMB:USD000000335",
+        "normalizedPair": "icp_usdt",
+        "normalizedSymbol": "icp",
+        "nativePair": "ICP-USDT",
+        "exchange": "okex",
+        "assetName": "Internet Computer",
+        "assetArcId": "AMB:ICP000000164",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "icp_usdt",
+        "instrumentType": "spot"
+    }
+]

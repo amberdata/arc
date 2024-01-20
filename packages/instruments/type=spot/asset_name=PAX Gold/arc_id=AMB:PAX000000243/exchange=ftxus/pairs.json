@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:PAX000000243_AMB:USD000000949",
+        "normalizedPair": "paxg_usd",
+        "normalizedSymbol": "paxg",
+        "nativePair": "PAXG/USD",
+        "exchange": "ftxus",
+        "assetName": "PAX Gold",
+        "assetArcId": "AMB:PAX000000243",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "paxg_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PAX000000243_AMB:USD000000335",
+        "normalizedPair": "paxg_usdt",
+        "normalizedSymbol": "paxg",
+        "nativePair": "PAXG/USDT",
+        "exchange": "ftxus",
+        "assetName": "PAX Gold",
+        "assetArcId": "AMB:PAX000000243",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "paxg_usdt",
+        "instrumentType": "spot"
+    }
+]

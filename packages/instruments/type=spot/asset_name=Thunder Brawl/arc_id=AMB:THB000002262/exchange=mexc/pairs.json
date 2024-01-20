@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:THB000002262_AMB:USD000000335",
+        "normalizedPair": "thb_usdt",
+        "normalizedSymbol": "thb",
+        "nativePair": "THBUSDT",
+        "exchange": "mexc",
+        "assetName": "Thunder Brawl",
+        "assetArcId": "AMB:THB000002262",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "thb_usdt",
+        "instrumentType": "spot"
+    }
+]

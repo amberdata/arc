@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ROS000002142_AMB:USD000000335",
+        "normalizedPair": "rosx_usdt",
+        "normalizedSymbol": "rosx",
+        "nativePair": "ROSXUSDT",
+        "exchange": "mexc",
+        "assetName": "Roseon",
+        "assetArcId": "AMB:ROS000002142",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rosx_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CKB000000077_AMB:USD000000335",
+        "normalizedPair": "ckb_usdt",
+        "normalizedSymbol": "ckb",
+        "nativePair": "CKBUSDT",
+        "exchange": "mexc",
+        "assetName": "Nervos Network",
+        "assetArcId": "AMB:CKB000000077",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ckb_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZCX000000877_AMB:USD000000335",
+        "normalizedPair": "zcx_usdt",
+        "normalizedSymbol": "zcx",
+        "nativePair": "zcxusdt",
+        "exchange": "huobi",
+        "assetName": "Unizen",
+        "assetArcId": "AMB:ZCX000000877",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zcx_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SGB000000917_AMB:EUR000000120",
+        "normalizedPair": "sgb_eur",
+        "normalizedSymbol": "sgb",
+        "nativePair": "SGBEUR",
+        "exchange": "kraken",
+        "assetName": "Songbird",
+        "assetArcId": "AMB:SGB000000917",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "sgb_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SGB000000917_AMB:USD000000949",
+        "normalizedPair": "sgb_usd",
+        "normalizedSymbol": "sgb",
+        "nativePair": "SGBUSD",
+        "exchange": "kraken",
+        "assetName": "Songbird",
+        "assetArcId": "AMB:SGB000000917",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sgb_usd",
+        "instrumentType": "spot"
+    }
+]

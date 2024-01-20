@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZKS000000610_AMB:USD000000335",
+        "normalizedPair": "zks_usdt",
+        "normalizedSymbol": "zks",
+        "nativePair": "ZKS_USDT",
+        "exchange": "poloniex",
+        "assetName": "ZKSpace",
+        "assetArcId": "AMB:ZKS000000610",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zks_usdt",
+        "instrumentType": "spot"
+    }
+]

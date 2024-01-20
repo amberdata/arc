@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PLA000000252_AMB:USD000000335",
+        "normalizedPair": "pla_usdt",
+        "normalizedSymbol": "pla",
+        "nativePair": "plausdt",
+        "exchange": "huobi",
+        "assetName": "PlayDapp",
+        "assetArcId": "AMB:PLA000000252",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pla_usdt",
+        "instrumentType": "spot"
+    }
+]

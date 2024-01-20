@@ -1,0 +1,86 @@
+[
+    {
+        "arcPairId": "AMB:XTZ000000364_AMB:AUD000002420",
+        "normalizedPair": "xtz_aud",
+        "normalizedSymbol": "xtz",
+        "nativePair": "XTZAUD",
+        "exchange": "kraken",
+        "assetName": "Tezos",
+        "assetArcId": "AMB:XTZ000000364",
+        "quoteArcId": "AMB:AUD000002420",
+        "collectedPair": "xtz_aud",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XTZ000000364_AMB:BTC000000000",
+        "normalizedPair": "xtz_btc",
+        "normalizedSymbol": "xtz",
+        "nativePair": "XTZXBT",
+        "exchange": "kraken",
+        "assetName": "Tezos",
+        "assetArcId": "AMB:XTZ000000364",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "xtz_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XTZ000000364_AMB:ETH000000000",
+        "normalizedPair": "xtz_eth",
+        "normalizedSymbol": "xtz",
+        "nativePair": "XTZETH",
+        "exchange": "kraken",
+        "assetName": "Tezos",
+        "assetArcId": "AMB:XTZ000000364",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "xtz_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XTZ000000364_AMB:EUR000000120",
+        "normalizedPair": "xtz_eur",
+        "normalizedSymbol": "xtz",
+        "nativePair": "XTZEUR",
+        "exchange": "kraken",
+        "assetName": "Tezos",
+        "assetArcId": "AMB:XTZ000000364",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "xtz_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XTZ000000364_AMB:GBP000000144",
+        "normalizedPair": "xtz_gbp",
+        "normalizedSymbol": "xtz",
+        "nativePair": "XTZGBP",
+        "exchange": "kraken",
+        "assetName": "Tezos",
+        "assetArcId": "AMB:XTZ000000364",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "xtz_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XTZ000000364_AMB:USD000000949",
+        "normalizedPair": "xtz_usd",
+        "normalizedSymbol": "xtz",
+        "nativePair": "XTZUSD",
+        "exchange": "kraken",
+        "assetName": "Tezos",
+        "assetArcId": "AMB:XTZ000000364",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xtz_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XTZ000000364_AMB:USD000000335",
+        "normalizedPair": "xtz_usdt",
+        "normalizedSymbol": "xtz",
+        "nativePair": "XTZUSDT",
+        "exchange": "kraken",
+        "assetName": "Tezos",
+        "assetArcId": "AMB:XTZ000000364",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xtz_usdt",
+        "instrumentType": "spot"
+    }
+]

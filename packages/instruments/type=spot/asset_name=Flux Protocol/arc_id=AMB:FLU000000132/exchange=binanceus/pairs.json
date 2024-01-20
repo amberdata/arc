@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FLU000000132_AMB:USD000000335",
+        "normalizedPair": "flux_usdt",
+        "normalizedSymbol": "flux",
+        "nativePair": "FLUXUSDT",
+        "exchange": "binanceus",
+        "assetName": "Flux Protocol",
+        "assetArcId": "AMB:FLU000000132",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "flux_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AST000001418_AMB:USD000000335",
+        "normalizedPair": "astra_usdt",
+        "normalizedSymbol": "astra",
+        "nativePair": "ASTRAUSDT",
+        "exchange": "mexc",
+        "assetName": "ASTRA Protocol",
+        "assetArcId": "AMB:AST000001418",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "astra_usdt",
+        "instrumentType": "spot"
+    }
+]

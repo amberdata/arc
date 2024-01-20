@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:VID000000341_AMB:BTC000000000",
+        "normalizedPair": "vidt_btc",
+        "normalizedSymbol": "vidt",
+        "nativePair": "VIDTBTC",
+        "exchange": "binance",
+        "assetName": "VIDT DAO",
+        "assetArcId": "AMB:VID000000341",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "vidt_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:VID000000341_AMB:BUS000000067",
+        "normalizedPair": "vidt_busd",
+        "normalizedSymbol": "vidt",
+        "nativePair": "VIDTBUSD",
+        "exchange": "binance",
+        "assetName": "VIDT DAO",
+        "assetArcId": "AMB:VID000000341",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "vidt_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:VID000000341_AMB:USD000000335",
+        "normalizedPair": "vidt_usdt",
+        "normalizedSymbol": "vidt",
+        "nativePair": "VIDTUSDT",
+        "exchange": "binance",
+        "assetName": "VIDT DAO",
+        "assetArcId": "AMB:VID000000341",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vidt_usdt",
+        "instrumentType": "spot"
+    }
+]

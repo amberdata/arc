@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KEN000001828_AMB:USD000000335",
+        "normalizedPair": "kenka_usdt",
+        "normalizedSymbol": "kenka",
+        "nativePair": "KENKAUSDT",
+        "exchange": "mexc",
+        "assetName": "KENKA METAVERSE",
+        "assetArcId": "AMB:KEN000001828",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kenka_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SRM000000576_AMB:USD000000949",
+        "normalizedPair": "srm_usd",
+        "normalizedSymbol": "srm",
+        "nativePair": "SRM/USD",
+        "exchange": "ftx",
+        "assetName": "Serum",
+        "assetArcId": "AMB:SRM000000576",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "srm_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SRM000000576_AMB:USD000000335",
+        "normalizedPair": "srm_usdt",
+        "normalizedSymbol": "srm",
+        "nativePair": "SRM/USDT",
+        "exchange": "ftx",
+        "assetName": "Serum",
+        "assetArcId": "AMB:SRM000000576",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "srm_usdt",
+        "instrumentType": "spot"
+    }
+]

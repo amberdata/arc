@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SUP000000310_AMB:USD000000335",
+        "normalizedPair": "super_usdt",
+        "normalizedSymbol": "super",
+        "nativePair": "superusdt",
+        "exchange": "huobi",
+        "assetName": "SuperFarm",
+        "assetArcId": "AMB:SUP000000310",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "super_usdt",
+        "instrumentType": "spot"
+    }
+]

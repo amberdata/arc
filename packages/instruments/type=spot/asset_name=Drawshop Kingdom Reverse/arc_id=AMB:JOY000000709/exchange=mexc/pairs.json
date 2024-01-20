@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JOY000000709_AMB:USD000000335",
+        "normalizedPair": "joy_usdt",
+        "normalizedSymbol": "joy",
+        "nativePair": "JOYUSDT",
+        "exchange": "mexc",
+        "assetName": "Drawshop Kingdom Reverse",
+        "assetArcId": "AMB:JOY000000709",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "joy_usdt",
+        "instrumentType": "spot"
+    }
+]

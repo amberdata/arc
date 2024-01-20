@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HEL000001745_AMB:USD000000335",
+        "normalizedPair": "hello_usdt",
+        "normalizedSymbol": "hello",
+        "nativePair": "HELLOUSDT",
+        "exchange": "mexc",
+        "assetName": "HELLO Labs",
+        "assetArcId": "AMB:HEL000001745",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hello_usdt",
+        "instrumentType": "spot"
+    }
+]

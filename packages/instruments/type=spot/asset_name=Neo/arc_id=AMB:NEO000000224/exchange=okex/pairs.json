@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:NEO000000224_AMB:BTC000000000",
+        "normalizedPair": "neo_btc",
+        "normalizedSymbol": "neo",
+        "nativePair": "NEO-BTC",
+        "exchange": "okex",
+        "assetName": "Neo",
+        "assetArcId": "AMB:NEO000000224",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "neo_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NEO000000224_AMB:USD000000335",
+        "normalizedPair": "neo_usdt",
+        "normalizedSymbol": "neo",
+        "nativePair": "NEO-USDT",
+        "exchange": "okex",
+        "assetName": "Neo",
+        "assetArcId": "AMB:NEO000000224",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "neo_usdt",
+        "instrumentType": "spot"
+    }
+]

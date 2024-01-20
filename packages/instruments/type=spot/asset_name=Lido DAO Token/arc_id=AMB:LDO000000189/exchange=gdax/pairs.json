@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LDO000000189_AMB:USD000000949",
+        "normalizedPair": "ldo_usd",
+        "normalizedSymbol": "ldo",
+        "nativePair": "LDO-USD",
+        "exchange": "gdax",
+        "assetName": "Lido DAO Token",
+        "assetArcId": "AMB:LDO000000189",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ldo_usd",
+        "instrumentType": "spot"
+    }
+]

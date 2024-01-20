@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:EUR000000402_AMB:EUR000000120",
+        "normalizedPair": "euroc_eur",
+        "normalizedSymbol": "euroc",
+        "nativePair": "EUROC-EUR",
+        "exchange": "gdax",
+        "assetName": "Euro Coin",
+        "assetArcId": "AMB:EUR000000402",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "euroc_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:EUR000000402_AMB:USD000000949",
+        "normalizedPair": "euroc_usd",
+        "normalizedSymbol": "euroc",
+        "nativePair": "EUROC-USD",
+        "exchange": "gdax",
+        "assetName": "Euro Coin",
+        "assetArcId": "AMB:EUR000000402",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "euroc_usd",
+        "instrumentType": "spot"
+    }
+]

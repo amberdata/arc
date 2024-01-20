@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WFC000002339_AMB:USD000000335",
+        "normalizedPair": "wfca_usdt",
+        "normalizedSymbol": "wfca",
+        "nativePair": "WFCAUSDT",
+        "exchange": "mexc",
+        "assetName": "WFCA",
+        "assetArcId": "AMB:WFC000002339",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wfca_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BAL000000043_AMB:USD000000949",
+        "normalizedPair": "bal_usd",
+        "normalizedSymbol": "bal",
+        "nativePair": "BAL/USD",
+        "exchange": "ftx",
+        "assetName": "Balancer",
+        "assetArcId": "AMB:BAL000000043",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bal_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAL000000043_AMB:USD000000335",
+        "normalizedPair": "bal_usdt",
+        "normalizedSymbol": "bal",
+        "nativePair": "BAL/USDT",
+        "exchange": "ftx",
+        "assetName": "Balancer",
+        "assetArcId": "AMB:BAL000000043",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bal_usdt",
+        "instrumentType": "spot"
+    }
+]

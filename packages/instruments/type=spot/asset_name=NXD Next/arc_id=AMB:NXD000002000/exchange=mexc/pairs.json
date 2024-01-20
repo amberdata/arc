@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NXD000002000_AMB:USD000000335",
+        "normalizedPair": "nxdt_usdt",
+        "normalizedSymbol": "nxdt",
+        "nativePair": "NXDTUSDT",
+        "exchange": "mexc",
+        "assetName": "NXD Next",
+        "assetArcId": "AMB:NXD000002000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nxdt_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GFL000001707_AMB:USD000000335",
+        "normalizedPair": "gfloki_usdt",
+        "normalizedSymbol": "gfloki",
+        "nativePair": "GFLOKIUSDT",
+        "exchange": "mexc",
+        "assetName": "GenshinFlokiInu",
+        "assetArcId": "AMB:GFL000001707",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gfloki_usdt",
+        "instrumentType": "spot"
+    }
+]

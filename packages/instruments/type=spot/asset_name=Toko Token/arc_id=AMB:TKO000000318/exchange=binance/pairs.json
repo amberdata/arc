@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:TKO000000318_AMB:BTC000000000",
+        "normalizedPair": "tko_btc",
+        "normalizedSymbol": "tko",
+        "nativePair": "TKOBTC",
+        "exchange": "binance",
+        "assetName": "Toko Token",
+        "assetArcId": "AMB:TKO000000318",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "tko_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TKO000000318_AMB:BUS000000067",
+        "normalizedPair": "tko_busd",
+        "normalizedSymbol": "tko",
+        "nativePair": "TKOBUSD",
+        "exchange": "binance",
+        "assetName": "Toko Token",
+        "assetArcId": "AMB:TKO000000318",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "tko_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TKO000000318_AMB:USD000000335",
+        "normalizedPair": "tko_usdt",
+        "normalizedSymbol": "tko",
+        "nativePair": "TKOUSDT",
+        "exchange": "binance",
+        "assetName": "Toko Token",
+        "assetArcId": "AMB:TKO000000318",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tko_usdt",
+        "instrumentType": "spot"
+    }
+]

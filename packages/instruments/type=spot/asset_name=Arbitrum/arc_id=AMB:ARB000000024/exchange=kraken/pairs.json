@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ARB000000024_AMB:EUR000000120",
+        "normalizedPair": "arb_eur",
+        "normalizedSymbol": "arb",
+        "nativePair": "ARBEUR",
+        "exchange": "kraken",
+        "assetName": "Arbitrum",
+        "assetArcId": "AMB:ARB000000024",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "arb_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ARB000000024_AMB:USD000000949",
+        "normalizedPair": "arb_usd",
+        "normalizedSymbol": "arb",
+        "nativePair": "ARBUSD",
+        "exchange": "kraken",
+        "assetName": "Arbitrum",
+        "assetArcId": "AMB:ARB000000024",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "arb_usd",
+        "instrumentType": "spot"
+    }
+]

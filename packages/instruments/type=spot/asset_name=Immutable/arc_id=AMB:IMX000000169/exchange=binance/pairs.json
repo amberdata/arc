@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:IMX000000169_AMB:BTC000000000",
+        "normalizedPair": "imx_btc",
+        "normalizedSymbol": "imx",
+        "nativePair": "IMXBTC",
+        "exchange": "binance",
+        "assetName": "Immutable",
+        "assetArcId": "AMB:IMX000000169",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "imx_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IMX000000169_AMB:BUS000000067",
+        "normalizedPair": "imx_busd",
+        "normalizedSymbol": "imx",
+        "nativePair": "IMXBUSD",
+        "exchange": "binance",
+        "assetName": "Immutable",
+        "assetArcId": "AMB:IMX000000169",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "imx_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IMX000000169_AMB:USD000000335",
+        "normalizedPair": "imx_usdt",
+        "normalizedSymbol": "imx",
+        "nativePair": "IMXUSDT",
+        "exchange": "binance",
+        "assetName": "Immutable",
+        "assetArcId": "AMB:IMX000000169",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "imx_usdt",
+        "instrumentType": "spot"
+    }
+]

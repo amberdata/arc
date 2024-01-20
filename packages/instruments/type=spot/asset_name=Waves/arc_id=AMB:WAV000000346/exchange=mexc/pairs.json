@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:WAV000000346_AMB:USD000000333",
+        "normalizedPair": "waves_usdc",
+        "normalizedSymbol": "waves",
+        "nativePair": "WAVESUSDC",
+        "exchange": "mexc",
+        "assetName": "Waves",
+        "assetArcId": "AMB:WAV000000346",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "waves_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WAV000000346_AMB:USD000000335",
+        "normalizedPair": "waves_usdt",
+        "normalizedSymbol": "waves",
+        "nativePair": "WAVESUSDT",
+        "exchange": "mexc",
+        "assetName": "Waves",
+        "assetArcId": "AMB:WAV000000346",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "waves_usdt",
+        "instrumentType": "spot"
+    }
+]

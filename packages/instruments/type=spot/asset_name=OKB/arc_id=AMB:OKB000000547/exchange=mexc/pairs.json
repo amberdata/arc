@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OKB000000547_AMB:USD000000335",
+        "normalizedPair": "okb_usdt",
+        "normalizedSymbol": "okb",
+        "nativePair": "OKBUSDT",
+        "exchange": "mexc",
+        "assetName": "OKB",
+        "assetArcId": "AMB:OKB000000547",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "okb_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:IOT000000173_AMB:USD000000333",
+        "normalizedPair": "iotx_usdc",
+        "normalizedSymbol": "iotx",
+        "nativePair": "iotx_usdc",
+        "exchange": "zb",
+        "assetName": "IoTeX",
+        "assetArcId": "AMB:IOT000000173",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "iotx_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IOT000000173_AMB:USD000000335",
+        "normalizedPair": "iotx_usdt",
+        "normalizedSymbol": "iotx",
+        "nativePair": "iotx_usdt",
+        "exchange": "zb",
+        "assetName": "IoTeX",
+        "assetArcId": "AMB:IOT000000173",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "iotx_usdt",
+        "instrumentType": "spot"
+    }
+]

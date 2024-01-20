@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SXP000000312_AMB:KRW000000000",
+        "normalizedPair": "sxp_krw",
+        "normalizedSymbol": "sxp",
+        "nativePair": "SXP/KRW",
+        "exchange": "bithumb",
+        "assetName": "Solar",
+        "assetArcId": "AMB:SXP000000312",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "sxp_krw",
+        "instrumentType": "spot"
+    }
+]

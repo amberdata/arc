@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:SCA000000289_AMB:BTC000000000",
+        "normalizedPair": "sc_btc",
+        "normalizedSymbol": "sc",
+        "nativePair": "SCXBT",
+        "exchange": "kraken",
+        "assetName": "Siacoin",
+        "assetArcId": "AMB:SCA000000289",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "sc_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SCA000000289_AMB:ETH000000000",
+        "normalizedPair": "sc_eth",
+        "normalizedSymbol": "sc",
+        "nativePair": "SCETH",
+        "exchange": "kraken",
+        "assetName": "Siacoin",
+        "assetArcId": "AMB:SCA000000289",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "sc_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SCA000000289_AMB:EUR000000120",
+        "normalizedPair": "sc_eur",
+        "normalizedSymbol": "sc",
+        "nativePair": "SCEUR",
+        "exchange": "kraken",
+        "assetName": "Siacoin",
+        "assetArcId": "AMB:SCA000000289",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "sc_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SCA000000289_AMB:USD000000949",
+        "normalizedPair": "sc_usd",
+        "normalizedSymbol": "sc",
+        "nativePair": "SCUSD",
+        "exchange": "kraken",
+        "assetName": "Siacoin",
+        "assetArcId": "AMB:SCA000000289",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sc_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:QRL000002105_AMB:USD000000335",
+        "normalizedPair": "qrl_usdt",
+        "normalizedSymbol": "qrl",
+        "nativePair": "QRLUSDT",
+        "exchange": "mexc",
+        "assetName": "Quantum Resistant Ledger",
+        "assetArcId": "AMB:QRL000002105",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "qrl_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COP000002508_AMB:USD000000949",
+        "normalizedPair": "cope_usd",
+        "normalizedSymbol": "cope",
+        "nativePair": "COPE/USD",
+        "exchange": "ftx",
+        "assetName": "Cope",
+        "assetArcId": "AMB:COP000002508",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "cope_usd",
+        "instrumentType": "spot"
+    }
+]

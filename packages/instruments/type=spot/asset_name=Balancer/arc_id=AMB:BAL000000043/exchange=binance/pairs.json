@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BAL000000043_AMB:BTC000000000",
+        "normalizedPair": "bal_btc",
+        "normalizedSymbol": "bal",
+        "nativePair": "BALBTC",
+        "exchange": "binance",
+        "assetName": "Balancer",
+        "assetArcId": "AMB:BAL000000043",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "bal_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAL000000043_AMB:USD000000335",
+        "normalizedPair": "bal_usdt",
+        "normalizedSymbol": "bal",
+        "nativePair": "BALUSDT",
+        "exchange": "binance",
+        "assetName": "Balancer",
+        "assetArcId": "AMB:BAL000000043",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bal_usdt",
+        "instrumentType": "spot"
+    }
+]

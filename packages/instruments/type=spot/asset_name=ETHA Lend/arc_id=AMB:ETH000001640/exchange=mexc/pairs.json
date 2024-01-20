@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETH000001640_AMB:USD000000335",
+        "normalizedPair": "etha_usdt",
+        "normalizedSymbol": "etha",
+        "nativePair": "ETHAUSDT",
+        "exchange": "mexc",
+        "assetName": "ETHA Lend",
+        "assetArcId": "AMB:ETH000001640",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "etha_usdt",
+        "instrumentType": "spot"
+    }
+]

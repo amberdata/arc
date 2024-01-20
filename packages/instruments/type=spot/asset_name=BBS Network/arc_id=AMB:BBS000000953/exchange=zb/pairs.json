@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BBS000000953_AMB:USD000000335",
+        "normalizedPair": "bbs_usdt",
+        "normalizedSymbol": "bbs",
+        "nativePair": "bbs_usdt",
+        "exchange": "zb",
+        "assetName": "BBS Network",
+        "assetArcId": "AMB:BBS000000953",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bbs_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SLI000002195_AMB:USD000000335",
+        "normalizedPair": "slim_usdt",
+        "normalizedSymbol": "slim",
+        "nativePair": "SLIMUSDT",
+        "exchange": "mexc",
+        "assetName": "Solanium",
+        "assetArcId": "AMB:SLI000002195",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "slim_usdt",
+        "instrumentType": "spot"
+    }
+]

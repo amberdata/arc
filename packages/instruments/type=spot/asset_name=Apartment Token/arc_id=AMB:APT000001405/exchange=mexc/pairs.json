@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:APT000001405_AMB:USD000000335",
+        "normalizedPair": "apt1_usdt",
+        "normalizedSymbol": "apt1",
+        "nativePair": "APT1USDT",
+        "exchange": "mexc",
+        "assetName": "Apartment Token",
+        "assetArcId": "AMB:APT000001405",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "apt1_usdt",
+        "instrumentType": "spot"
+    }
+]

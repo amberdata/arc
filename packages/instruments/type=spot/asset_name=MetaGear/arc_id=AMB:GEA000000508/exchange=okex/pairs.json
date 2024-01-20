@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GEA000000508_AMB:USD000000335",
+        "normalizedPair": "gear_usdt",
+        "normalizedSymbol": "gear",
+        "nativePair": "GEAR-USDT",
+        "exchange": "okex",
+        "assetName": "MetaGear",
+        "assetArcId": "AMB:GEA000000508",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gear_usdt",
+        "instrumentType": "spot"
+    }
+]

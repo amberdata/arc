@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ACH000000003_AMB:KRW000000000",
+        "normalizedPair": "ach_krw",
+        "normalizedSymbol": "ach",
+        "nativePair": "ACH/KRW",
+        "exchange": "bithumb",
+        "assetName": "Alchemy Pay",
+        "assetArcId": "AMB:ACH000000003",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "ach_krw",
+        "instrumentType": "spot"
+    }
+]

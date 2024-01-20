@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HOP000000413_AMB:USD000000949",
+        "normalizedPair": "hopr_usd",
+        "normalizedSymbol": "hopr",
+        "nativePair": "HOPR-USD",
+        "exchange": "gdax",
+        "assetName": "HOPR",
+        "assetArcId": "AMB:HOP000000413",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "hopr_usd",
+        "instrumentType": "spot"
+    }
+]

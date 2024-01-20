@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ARA000000025_AMB:ETH000000000",
+        "normalizedPair": "ar_eth",
+        "normalizedSymbol": "ar",
+        "nativePair": "ARETH",
+        "exchange": "mexc",
+        "assetName": "Arweave",
+        "assetArcId": "AMB:ARA000000025",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "ar_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ARA000000025_AMB:USD000000335",
+        "normalizedPair": "ar_usdt",
+        "normalizedSymbol": "ar",
+        "nativePair": "ARUSDT",
+        "exchange": "mexc",
+        "assetName": "Arweave",
+        "assetArcId": "AMB:ARA000000025",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ar_usdt",
+        "instrumentType": "spot"
+    }
+]

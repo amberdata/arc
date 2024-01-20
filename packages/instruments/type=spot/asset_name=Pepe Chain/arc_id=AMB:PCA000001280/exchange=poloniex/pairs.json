@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PCA000001280_AMB:USD000000335",
+        "normalizedPair": "pc_usdt",
+        "normalizedSymbol": "pc",
+        "nativePair": "PC_USDT",
+        "exchange": "poloniex",
+        "assetName": "Pepe Chain",
+        "assetArcId": "AMB:PCA000001280",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pc_usdt",
+        "instrumentType": "spot"
+    }
+]

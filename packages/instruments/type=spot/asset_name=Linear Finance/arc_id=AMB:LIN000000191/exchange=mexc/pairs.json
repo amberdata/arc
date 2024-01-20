@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LIN000000191_AMB:USD000000335",
+        "normalizedPair": "lina_usdt",
+        "normalizedSymbol": "lina",
+        "nativePair": "LINAUSDT",
+        "exchange": "mexc",
+        "assetName": "Linear Finance",
+        "assetArcId": "AMB:LIN000000191",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lina_usdt",
+        "instrumentType": "spot"
+    }
+]

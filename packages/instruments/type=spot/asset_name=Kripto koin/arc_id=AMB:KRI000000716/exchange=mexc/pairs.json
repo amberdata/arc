@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KRI000000716_AMB:USD000000335",
+        "normalizedPair": "kripto_usdt",
+        "normalizedSymbol": "kripto",
+        "nativePair": "KRIPTOUSDT",
+        "exchange": "mexc",
+        "assetName": "Kripto koin",
+        "assetArcId": "AMB:KRI000000716",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kripto_usdt",
+        "instrumentType": "spot"
+    }
+]

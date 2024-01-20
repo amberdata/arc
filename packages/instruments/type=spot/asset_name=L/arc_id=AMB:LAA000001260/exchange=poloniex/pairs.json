@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LAA000001260_AMB:USD000000335",
+        "normalizedPair": "l_usdt",
+        "normalizedSymbol": "l",
+        "nativePair": "L_USDT",
+        "exchange": "poloniex",
+        "assetName": "L",
+        "assetArcId": "AMB:LAA000001260",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "l_usdt",
+        "instrumentType": "spot"
+    }
+]

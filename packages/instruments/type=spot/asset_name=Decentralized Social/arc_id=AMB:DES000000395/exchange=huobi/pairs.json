@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DES000000395_AMB:USD000000335",
+        "normalizedPair": "deso_usdt",
+        "normalizedSymbol": "deso",
+        "nativePair": "desousdt",
+        "exchange": "huobi",
+        "assetName": "Decentralized Social",
+        "assetArcId": "AMB:DES000000395",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "deso_usdt",
+        "instrumentType": "spot"
+    }
+]

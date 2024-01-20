@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AMP000000018_AMB:USD000000335",
+        "normalizedPair": "amp_usdt",
+        "normalizedSymbol": "amp",
+        "nativePair": "ampusdt",
+        "exchange": "huobi",
+        "assetName": "Amp",
+        "assetArcId": "AMB:AMP000000018",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "amp_usdt",
+        "instrumentType": "spot"
+    }
+]

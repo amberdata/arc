@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:USD000000949",
+        "normalizedPair": "atom_usd",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOM/USD",
+        "exchange": "ftx",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "atom_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:USD000000335",
+        "normalizedPair": "atom_usdt",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOM/USDT",
+        "exchange": "ftx",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "atom_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IMG000001248_AMB:USD000000335",
+        "normalizedPair": "imgnai_usdt",
+        "normalizedSymbol": "imgnai",
+        "nativePair": "IMGNAI_USDT",
+        "exchange": "poloniex",
+        "assetName": "Image Generation AI",
+        "assetArcId": "AMB:IMG000001248",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "imgnai_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAB000000468_AMB:USD000000335",
+        "normalizedPair": "babydoge_usdt",
+        "normalizedSymbol": "babydoge",
+        "nativePair": "babydogeusdt",
+        "exchange": "huobi",
+        "assetName": "BabyDoge ETH",
+        "assetArcId": "AMB:BAB000000468",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "babydoge_usdt",
+        "instrumentType": "spot"
+    }
+]

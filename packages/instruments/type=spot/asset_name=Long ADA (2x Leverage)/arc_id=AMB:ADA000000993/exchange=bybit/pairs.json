@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ADA000000993_AMB:USD000000335",
+        "normalizedPair": "ada2l_usdt",
+        "normalizedSymbol": "ada2l",
+        "nativePair": "ADA2LUSDT",
+        "exchange": "bybit",
+        "assetName": "Long ADA (2x Leverage)",
+        "assetArcId": "AMB:ADA000000993",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ada2l_usdt",
+        "instrumentType": "spot"
+    }
+]

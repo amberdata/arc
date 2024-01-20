@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DPR000001610_AMB:USD000000335",
+        "normalizedPair": "dpr_usdt",
+        "normalizedSymbol": "dpr",
+        "nativePair": "DPRUSDT",
+        "exchange": "mexc",
+        "assetName": "Deeper Network",
+        "assetArcId": "AMB:DPR000001610",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dpr_usdt",
+        "instrumentType": "spot"
+    }
+]

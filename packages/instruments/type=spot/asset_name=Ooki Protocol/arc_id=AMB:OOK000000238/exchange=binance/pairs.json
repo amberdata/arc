@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OOK000000238_AMB:USD000000335",
+        "normalizedPair": "ooki_usdt",
+        "normalizedSymbol": "ooki",
+        "nativePair": "OOKIUSDT",
+        "exchange": "binance",
+        "assetName": "Ooki Protocol",
+        "assetArcId": "AMB:OOK000000238",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ooki_usdt",
+        "instrumentType": "spot"
+    }
+]

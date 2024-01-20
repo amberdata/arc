@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:REN000000277_AMB:USD000000335",
+        "normalizedPair": "ren_usdt",
+        "normalizedSymbol": "ren",
+        "nativePair": "REN-USDT",
+        "exchange": "okex",
+        "assetName": "Ren",
+        "assetArcId": "AMB:REN000000277",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ren_usdt",
+        "instrumentType": "spot"
+    }
+]

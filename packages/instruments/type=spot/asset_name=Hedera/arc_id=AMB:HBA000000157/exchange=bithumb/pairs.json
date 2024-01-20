@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HBA000000157_AMB:KRW000000000",
+        "normalizedPair": "hbar_krw",
+        "normalizedSymbol": "hbar",
+        "nativePair": "HBAR/KRW",
+        "exchange": "bithumb",
+        "assetName": "Hedera",
+        "assetArcId": "AMB:HBA000000157",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "hbar_krw",
+        "instrumentType": "spot"
+    }
+]

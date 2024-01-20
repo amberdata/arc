@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:FXS000000139_AMB:EUR000000120",
+        "normalizedPair": "fxs_eur",
+        "normalizedSymbol": "fxs",
+        "nativePair": "FXSEUR",
+        "exchange": "kraken",
+        "assetName": "Frax Share",
+        "assetArcId": "AMB:FXS000000139",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "fxs_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FXS000000139_AMB:USD000000949",
+        "normalizedPair": "fxs_usd",
+        "normalizedSymbol": "fxs",
+        "nativePair": "FXSUSD",
+        "exchange": "kraken",
+        "assetName": "Frax Share",
+        "assetArcId": "AMB:FXS000000139",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "fxs_usd",
+        "instrumentType": "spot"
+    }
+]

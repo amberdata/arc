@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VAI000002315_AMB:USD000000335",
+        "normalizedPair": "vai_usdt",
+        "normalizedSymbol": "vai",
+        "nativePair": "VAIUSDT",
+        "exchange": "mexc",
+        "assetName": "VAIOT",
+        "assetArcId": "AMB:VAI000002315",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vai_usdt",
+        "instrumentType": "spot"
+    }
+]

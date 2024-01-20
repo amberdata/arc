@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CEE000000480_AMB:USD000000335",
+        "normalizedPair": "ceek_usdt",
+        "normalizedSymbol": "ceek",
+        "nativePair": "ceekusdt",
+        "exchange": "huobi",
+        "assetName": "CEEK VR",
+        "assetArcId": "AMB:CEE000000480",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ceek_usdt",
+        "instrumentType": "spot"
+    }
+]

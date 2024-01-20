@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:REP000000565_AMB:USD000000335",
+        "normalizedPair": "rep_usdt",
+        "normalizedSymbol": "rep",
+        "nativePair": "REP-USDT",
+        "exchange": "okex",
+        "assetName": "Augur",
+        "assetArcId": "AMB:REP000000565",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rep_usdt",
+        "instrumentType": "spot"
+    }
+]

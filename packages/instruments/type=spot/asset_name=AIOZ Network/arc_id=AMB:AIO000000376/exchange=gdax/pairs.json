@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIO000000376_AMB:USD000000949",
+        "normalizedPair": "aioz_usd",
+        "normalizedSymbol": "aioz",
+        "nativePair": "AIOZ-USD",
+        "exchange": "gdax",
+        "assetName": "AIOZ Network",
+        "assetArcId": "AMB:AIO000000376",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "aioz_usd",
+        "instrumentType": "spot"
+    }
+]

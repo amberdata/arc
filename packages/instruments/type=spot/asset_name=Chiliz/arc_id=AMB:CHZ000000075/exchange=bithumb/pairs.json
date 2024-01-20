@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHZ000000075_AMB:KRW000000000",
+        "normalizedPair": "chz_krw",
+        "normalizedSymbol": "chz",
+        "nativePair": "CHZ/KRW",
+        "exchange": "bithumb",
+        "assetName": "Chiliz",
+        "assetArcId": "AMB:CHZ000000075",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "chz_krw",
+        "instrumentType": "spot"
+    }
+]

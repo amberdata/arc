@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WXT000000603_AMB:USD000000335",
+        "normalizedPair": "wxt_usdt",
+        "normalizedSymbol": "wxt",
+        "nativePair": "WXT-USDT",
+        "exchange": "okex",
+        "assetName": "Wirex Token",
+        "assetArcId": "AMB:WXT000000603",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wxt_usdt",
+        "instrumentType": "spot"
+    }
+]

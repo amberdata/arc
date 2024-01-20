@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NRK000001993_AMB:USD000000335",
+        "normalizedPair": "nrk_usdt",
+        "normalizedSymbol": "nrk",
+        "nativePair": "NRKUSDT",
+        "exchange": "mexc",
+        "assetName": "Nordek",
+        "assetArcId": "AMB:NRK000001993",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nrk_usdt",
+        "instrumentType": "spot"
+    }
+]

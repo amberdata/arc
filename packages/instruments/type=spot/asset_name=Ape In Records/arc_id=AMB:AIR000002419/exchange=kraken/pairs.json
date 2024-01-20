@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:AIR000002419_AMB:EUR000000120",
+        "normalizedPair": "air_eur",
+        "normalizedSymbol": "air",
+        "nativePair": "AIREUR",
+        "exchange": "kraken",
+        "assetName": "Ape In Records",
+        "assetArcId": "AMB:AIR000002419",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "air_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AIR000002419_AMB:USD000000949",
+        "normalizedPair": "air_usd",
+        "normalizedSymbol": "air",
+        "nativePair": "AIRUSD",
+        "exchange": "kraken",
+        "assetName": "Ape In Records",
+        "assetArcId": "AMB:AIR000002419",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "air_usd",
+        "instrumentType": "spot"
+    }
+]

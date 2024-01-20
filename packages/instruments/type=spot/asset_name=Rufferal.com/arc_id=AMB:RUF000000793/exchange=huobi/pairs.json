@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RUF000000793_AMB:USD000000335",
+        "normalizedPair": "ruff_usdt",
+        "normalizedSymbol": "ruff",
+        "nativePair": "ruffusdt",
+        "exchange": "huobi",
+        "assetName": "Rufferal.com",
+        "assetArcId": "AMB:RUF000000793",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ruff_usdt",
+        "instrumentType": "spot"
+    }
+]

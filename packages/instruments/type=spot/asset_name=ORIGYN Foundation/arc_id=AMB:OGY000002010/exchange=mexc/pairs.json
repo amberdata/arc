@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OGY000002010_AMB:USD000000335",
+        "normalizedPair": "ogy_usdt",
+        "normalizedSymbol": "ogy",
+        "nativePair": "OGYUSDT",
+        "exchange": "mexc",
+        "assetName": "ORIGYN Foundation",
+        "assetArcId": "AMB:OGY000002010",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ogy_usdt",
+        "instrumentType": "spot"
+    }
+]

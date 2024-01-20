@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETC000001037_AMB:USD000000335",
+        "normalizedPair": "etc2l_usdt",
+        "normalizedSymbol": "etc2l",
+        "nativePair": "ETC2LUSDT",
+        "exchange": "bybit",
+        "assetName": "Long ETC (2x Leverage)",
+        "assetArcId": "AMB:ETC000001037",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "etc2l_usdt",
+        "instrumentType": "spot"
+    }
+]

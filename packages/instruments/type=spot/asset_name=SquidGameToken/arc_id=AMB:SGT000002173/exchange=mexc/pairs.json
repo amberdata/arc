@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SGT000002173_AMB:USD000000335",
+        "normalizedPair": "sgt_usdt",
+        "normalizedSymbol": "sgt",
+        "nativePair": "SGTUSDT",
+        "exchange": "mexc",
+        "assetName": "SquidGameToken",
+        "assetArcId": "AMB:SGT000002173",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sgt_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LBV000001856_AMB:USD000000335",
+        "normalizedPair": "lbvv_usdt",
+        "normalizedSymbol": "lbvv",
+        "nativePair": "LBVVUSDT",
+        "exchange": "mexc",
+        "assetName": "LBViVi",
+        "assetArcId": "AMB:LBV000001856",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lbvv_usdt",
+        "instrumentType": "spot"
+    }
+]

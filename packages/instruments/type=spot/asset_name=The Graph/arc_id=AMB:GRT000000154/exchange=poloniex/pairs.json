@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GRT000000154_AMB:USD000000335",
+        "normalizedPair": "grt_usdt",
+        "normalizedSymbol": "grt",
+        "nativePair": "GRT_USDT",
+        "exchange": "poloniex",
+        "assetName": "The Graph",
+        "assetArcId": "AMB:GRT000000154",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "grt_usdt",
+        "instrumentType": "spot"
+    }
+]

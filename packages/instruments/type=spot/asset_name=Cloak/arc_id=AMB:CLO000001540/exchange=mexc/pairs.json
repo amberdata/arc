@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CLO000001540_AMB:USD000000335",
+        "normalizedPair": "cloak_usdt",
+        "normalizedSymbol": "cloak",
+        "nativePair": "CLOAKUSDT",
+        "exchange": "mexc",
+        "assetName": "Cloak",
+        "assetArcId": "AMB:CLO000001540",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cloak_usdt",
+        "instrumentType": "spot"
+    }
+]

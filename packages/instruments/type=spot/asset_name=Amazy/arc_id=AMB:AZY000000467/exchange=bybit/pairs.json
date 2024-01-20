@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AZY000000467_AMB:USD000000335",
+        "normalizedPair": "azy_usdt",
+        "normalizedSymbol": "azy",
+        "nativePair": "AZYUSDT",
+        "exchange": "bybit",
+        "assetName": "Amazy",
+        "assetArcId": "AMB:AZY000000467",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "azy_usdt",
+        "instrumentType": "spot"
+    }
+]

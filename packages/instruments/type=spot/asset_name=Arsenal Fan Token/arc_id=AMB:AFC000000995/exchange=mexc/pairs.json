@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AFC000000995_AMB:USD000000335",
+        "normalizedPair": "afc_usdt",
+        "normalizedSymbol": "afc",
+        "nativePair": "AFCUSDT",
+        "exchange": "mexc",
+        "assetName": "Arsenal Fan Token",
+        "assetArcId": "AMB:AFC000000995",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "afc_usdt",
+        "instrumentType": "spot"
+    }
+]

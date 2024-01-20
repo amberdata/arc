@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRO000000323_AMB:USD000000335",
+        "normalizedPair": "troy_usdt",
+        "normalizedSymbol": "troy",
+        "nativePair": "TROYUSDT",
+        "exchange": "binance",
+        "assetName": "TROY",
+        "assetArcId": "AMB:TRO000000323",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "troy_usdt",
+        "instrumentType": "spot"
+    }
+]

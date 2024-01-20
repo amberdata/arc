@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DRM000001613_AMB:USD000000335",
+        "normalizedPair": "drm_usdt",
+        "normalizedSymbol": "drm",
+        "nativePair": "DRMUSDT",
+        "exchange": "mexc",
+        "assetName": "Dreamcoin",
+        "assetArcId": "AMB:DRM000001613",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "drm_usdt",
+        "instrumentType": "spot"
+    }
+]

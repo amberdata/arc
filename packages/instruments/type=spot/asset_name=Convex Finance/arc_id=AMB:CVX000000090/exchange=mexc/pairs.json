@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CVX000000090_AMB:USD000000335",
+        "normalizedPair": "cvx_usdt",
+        "normalizedSymbol": "cvx",
+        "nativePair": "CVXUSDT",
+        "exchange": "mexc",
+        "assetName": "Convex Finance",
+        "assetArcId": "AMB:CVX000000090",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cvx_usdt",
+        "instrumentType": "spot"
+    }
+]

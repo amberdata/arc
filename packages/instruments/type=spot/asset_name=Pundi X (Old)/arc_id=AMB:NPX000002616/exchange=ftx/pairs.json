@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NPX000002616_AMB:USD000000949",
+        "normalizedPair": "npxs_usd",
+        "normalizedSymbol": "npxs",
+        "nativePair": "NONE-VALUE-FROM-API",
+        "exchange": "ftx",
+        "assetName": "Pundi X (Old)",
+        "assetArcId": "AMB:NPX000002616",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "npxs_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KAS000001060_AMB:USD000000335",
+        "normalizedPair": "kas_usdt",
+        "normalizedSymbol": "kas",
+        "nativePair": "KASUSDT",
+        "exchange": "mexc",
+        "assetName": "Kaspa",
+        "assetArcId": "AMB:KAS000001060",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kas_usdt",
+        "instrumentType": "spot"
+    }
+]

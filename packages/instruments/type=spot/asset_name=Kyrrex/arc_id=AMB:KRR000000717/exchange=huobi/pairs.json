@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KRR000000717_AMB:USD000000335",
+        "normalizedPair": "krrx_usdt",
+        "normalizedSymbol": "krrx",
+        "nativePair": "krrxusdt",
+        "exchange": "huobi",
+        "assetName": "Kyrrex",
+        "assetArcId": "AMB:KRR000000717",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "krrx_usdt",
+        "instrumentType": "spot"
+    }
+]

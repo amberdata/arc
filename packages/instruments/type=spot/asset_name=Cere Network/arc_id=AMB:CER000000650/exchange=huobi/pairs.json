@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CER000000650_AMB:USD000000335",
+        "normalizedPair": "cere_usdt",
+        "normalizedSymbol": "cere",
+        "nativePair": "cereusdt",
+        "exchange": "huobi",
+        "assetName": "Cere Network",
+        "assetArcId": "AMB:CER000000650",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cere_usdt",
+        "instrumentType": "spot"
+    }
+]

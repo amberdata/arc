@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MCB000001900_AMB:USD000000335",
+        "normalizedPair": "mcb_usdt",
+        "normalizedSymbol": "mcb",
+        "nativePair": "MCBUSDT",
+        "exchange": "mexc",
+        "assetName": "MUX Protocol",
+        "assetArcId": "AMB:MCB000001900",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mcb_usdt",
+        "instrumentType": "spot"
+    }
+]

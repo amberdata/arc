@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ATO000002465_AMB:USD000000949",
+        "normalizedPair": "atomhedge_usd",
+        "normalizedSymbol": "atomhedge",
+        "nativePair": "ATOMHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short Cosmos Token",
+        "assetArcId": "AMB:ATO000002465",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "atomhedge_usd",
+        "instrumentType": "spot"
+    }
+]

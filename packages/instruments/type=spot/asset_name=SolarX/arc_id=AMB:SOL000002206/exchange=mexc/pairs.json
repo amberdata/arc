@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SOL000002206_AMB:USD000000335",
+        "normalizedPair": "solarx_usdt",
+        "normalizedSymbol": "solarx",
+        "nativePair": "SOLARXUSDT",
+        "exchange": "mexc",
+        "assetName": "SolarX",
+        "assetArcId": "AMB:SOL000002206",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "solarx_usdt",
+        "instrumentType": "spot"
+    }
+]

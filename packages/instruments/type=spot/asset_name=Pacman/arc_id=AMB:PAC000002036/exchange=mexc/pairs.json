@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PAC000002036_AMB:USD000000335",
+        "normalizedPair": "pacoin_usdt",
+        "normalizedSymbol": "pacoin",
+        "nativePair": "PACOINUSDT",
+        "exchange": "mexc",
+        "assetName": "Pacman",
+        "assetArcId": "AMB:PAC000002036",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pacoin_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HOO000000162_AMB:USD000000335",
+        "normalizedPair": "hook_usdt",
+        "normalizedSymbol": "hook",
+        "nativePair": "HOOKUSDT",
+        "exchange": "mexc",
+        "assetName": "Hooked Protocol",
+        "assetArcId": "AMB:HOO000000162",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hook_usdt",
+        "instrumentType": "spot"
+    }
+]

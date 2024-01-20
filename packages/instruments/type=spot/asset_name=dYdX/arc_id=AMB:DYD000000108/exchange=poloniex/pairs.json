@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DYD000000108_AMB:USD000000335",
+        "normalizedPair": "dydx_usdt",
+        "normalizedSymbol": "dydx",
+        "nativePair": "DYDX_USDT",
+        "exchange": "poloniex",
+        "assetName": "dYdX",
+        "assetArcId": "AMB:DYD000000108",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dydx_usdt",
+        "instrumentType": "spot"
+    }
+]

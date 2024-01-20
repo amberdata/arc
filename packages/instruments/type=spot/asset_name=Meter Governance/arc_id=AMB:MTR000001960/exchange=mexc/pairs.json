@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MTR000001960_AMB:USD000000335",
+        "normalizedPair": "mtrg_usdt",
+        "normalizedSymbol": "mtrg",
+        "nativePair": "MTRGUSDT",
+        "exchange": "mexc",
+        "assetName": "Meter Governance",
+        "assetArcId": "AMB:MTR000001960",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mtrg_usdt",
+        "instrumentType": "spot"
+    }
+]

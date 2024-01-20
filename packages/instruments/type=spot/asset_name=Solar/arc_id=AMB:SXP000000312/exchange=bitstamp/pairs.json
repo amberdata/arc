@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SXP000000312_AMB:EUR000000120",
+        "normalizedPair": "sxp_eur",
+        "normalizedSymbol": "sxp",
+        "nativePair": "sxpeur",
+        "exchange": "bitstamp",
+        "assetName": "Solar",
+        "assetArcId": "AMB:SXP000000312",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "sxp_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SXP000000312_AMB:USD000000949",
+        "normalizedPair": "sxp_usd",
+        "normalizedSymbol": "sxp",
+        "nativePair": "sxpusd",
+        "exchange": "bitstamp",
+        "assetName": "Solar",
+        "assetArcId": "AMB:SXP000000312",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sxp_usd",
+        "instrumentType": "spot"
+    }
+]

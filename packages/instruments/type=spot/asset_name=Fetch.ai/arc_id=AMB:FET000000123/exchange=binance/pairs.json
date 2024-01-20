@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:FET000000123_AMB:BNB000000055",
+        "normalizedPair": "fet_bnb",
+        "normalizedSymbol": "fet",
+        "nativePair": "FETBNB",
+        "exchange": "binance",
+        "assetName": "Fetch.ai",
+        "assetArcId": "AMB:FET000000123",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "fet_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FET000000123_AMB:BTC000000000",
+        "normalizedPair": "fet_btc",
+        "normalizedSymbol": "fet",
+        "nativePair": "FETBTC",
+        "exchange": "binance",
+        "assetName": "Fetch.ai",
+        "assetArcId": "AMB:FET000000123",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "fet_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FET000000123_AMB:BUS000000067",
+        "normalizedPair": "fet_busd",
+        "normalizedSymbol": "fet",
+        "nativePair": "FETBUSD",
+        "exchange": "binance",
+        "assetName": "Fetch.ai",
+        "assetArcId": "AMB:FET000000123",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "fet_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FET000000123_AMB:TRY000000940",
+        "normalizedPair": "fet_try",
+        "normalizedSymbol": "fet",
+        "nativePair": "FETTRY",
+        "exchange": "binance",
+        "assetName": "Fetch.ai",
+        "assetArcId": "AMB:FET000000123",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "fet_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FET000000123_AMB:USD000000335",
+        "normalizedPair": "fet_usdt",
+        "normalizedSymbol": "fet",
+        "nativePair": "FETUSDT",
+        "exchange": "binance",
+        "assetName": "Fetch.ai",
+        "assetArcId": "AMB:FET000000123",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fet_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DER000001588_AMB:USD000000335",
+        "normalizedPair": "deri_usdt",
+        "normalizedSymbol": "deri",
+        "nativePair": "DERIUSDT",
+        "exchange": "mexc",
+        "assetName": "Deri Protocol",
+        "assetArcId": "AMB:DER000001588",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "deri_usdt",
+        "instrumentType": "spot"
+    }
+]

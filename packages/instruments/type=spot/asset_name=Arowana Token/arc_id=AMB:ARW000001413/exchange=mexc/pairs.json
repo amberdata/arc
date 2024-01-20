@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ARW000001413_AMB:USD000000335",
+        "normalizedPair": "arw_usdt",
+        "normalizedSymbol": "arw",
+        "nativePair": "ARWUSDT",
+        "exchange": "mexc",
+        "assetName": "Arowana Token",
+        "assetArcId": "AMB:ARW000001413",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "arw_usdt",
+        "instrumentType": "spot"
+    }
+]

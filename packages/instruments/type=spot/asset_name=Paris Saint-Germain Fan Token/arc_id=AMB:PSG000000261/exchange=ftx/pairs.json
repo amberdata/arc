@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PSG000000261_AMB:USD000000949",
+        "normalizedPair": "psg_usd",
+        "normalizedSymbol": "psg",
+        "nativePair": "PSG/USD",
+        "exchange": "ftx",
+        "assetName": "Paris Saint-Germain Fan Token",
+        "assetArcId": "AMB:PSG000000261",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "psg_usd",
+        "instrumentType": "spot"
+    }
+]

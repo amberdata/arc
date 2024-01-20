@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SNC000000803_AMB:USD000000335",
+        "normalizedPair": "snc_usdt",
+        "normalizedSymbol": "snc",
+        "nativePair": "SNCUSDT",
+        "exchange": "mexc",
+        "assetName": "SunContract",
+        "assetArcId": "AMB:SNC000000803",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "snc_usdt",
+        "instrumentType": "spot"
+    }
+]

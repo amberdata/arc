@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OPU000000772_AMB:USD000000335",
+        "normalizedPair": "opul_usdt",
+        "normalizedSymbol": "opul",
+        "nativePair": "OPULUSDT",
+        "exchange": "mexc",
+        "assetName": "Opulous",
+        "assetArcId": "AMB:OPU000000772",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "opul_usdt",
+        "instrumentType": "spot"
+    }
+]

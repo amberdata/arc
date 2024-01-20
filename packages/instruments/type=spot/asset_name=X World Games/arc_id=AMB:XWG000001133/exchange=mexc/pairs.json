@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:XWG000001133_AMB:USD000000333",
+        "normalizedPair": "xwg_usdc",
+        "normalizedSymbol": "xwg",
+        "nativePair": "XWGUSDC",
+        "exchange": "mexc",
+        "assetName": "X World Games",
+        "assetArcId": "AMB:XWG000001133",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "xwg_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XWG000001133_AMB:USD000000335",
+        "normalizedPair": "xwg_usdt",
+        "normalizedSymbol": "xwg",
+        "nativePair": "XWGUSDT",
+        "exchange": "mexc",
+        "assetName": "X World Games",
+        "assetArcId": "AMB:XWG000001133",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xwg_usdt",
+        "instrumentType": "spot"
+    }
+]

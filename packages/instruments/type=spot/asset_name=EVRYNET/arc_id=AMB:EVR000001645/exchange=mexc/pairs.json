@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EVR000001645_AMB:USD000000335",
+        "normalizedPair": "evry_usdt",
+        "normalizedSymbol": "evry",
+        "nativePair": "EVRYUSDT",
+        "exchange": "mexc",
+        "assetName": "EVRYNET",
+        "assetArcId": "AMB:EVR000001645",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "evry_usdt",
+        "instrumentType": "spot"
+    }
+]

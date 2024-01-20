@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XRP000001132_AMB:USD000000335",
+        "normalizedPair": "xrp3s_usdt",
+        "normalizedSymbol": "xrp3s",
+        "nativePair": "XRP3SUSDT",
+        "exchange": "bybit",
+        "assetName": "Short XRP (3x Leverage)",
+        "assetArcId": "AMB:XRP000001132",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xrp3s_usdt",
+        "instrumentType": "spot"
+    }
+]

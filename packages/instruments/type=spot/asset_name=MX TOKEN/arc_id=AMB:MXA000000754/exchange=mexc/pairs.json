@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:MXA000000754_AMB:BTC000000000",
+        "normalizedPair": "mx_btc",
+        "normalizedSymbol": "mx",
+        "nativePair": "MXBTC",
+        "exchange": "mexc",
+        "assetName": "MX TOKEN",
+        "assetArcId": "AMB:MXA000000754",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "mx_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MXA000000754_AMB:ETH000000000",
+        "normalizedPair": "mx_eth",
+        "normalizedSymbol": "mx",
+        "nativePair": "MXETH",
+        "exchange": "mexc",
+        "assetName": "MX TOKEN",
+        "assetArcId": "AMB:MXA000000754",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "mx_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MXA000000754_AMB:USD000000333",
+        "normalizedPair": "mx_usdc",
+        "normalizedSymbol": "mx",
+        "nativePair": "MXUSDC",
+        "exchange": "mexc",
+        "assetName": "MX TOKEN",
+        "assetArcId": "AMB:MXA000000754",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "mx_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MXA000000754_AMB:USD000000335",
+        "normalizedPair": "mx_usdt",
+        "normalizedSymbol": "mx",
+        "nativePair": "MXUSDT",
+        "exchange": "mexc",
+        "assetName": "MX TOKEN",
+        "assetArcId": "AMB:MXA000000754",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mx_usdt",
+        "instrumentType": "spot"
+    }
+]

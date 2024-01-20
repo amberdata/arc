@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KAK000001821_AMB:USD000000335",
+        "normalizedPair": "kaka_usdt",
+        "normalizedSymbol": "kaka",
+        "nativePair": "KAKAUSDT",
+        "exchange": "mexc",
+        "assetName": "KAKA NFT World",
+        "assetArcId": "AMB:KAK000001821",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kaka_usdt",
+        "instrumentType": "spot"
+    }
+]

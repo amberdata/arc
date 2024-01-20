@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PEE000002054_AMB:USD000000335",
+        "normalizedPair": "peepo_usdt",
+        "normalizedSymbol": "peepo",
+        "nativePair": "PEEPOUSDT",
+        "exchange": "mexc",
+        "assetName": "PEEPO",
+        "assetArcId": "AMB:PEE000002054",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "peepo_usdt",
+        "instrumentType": "spot"
+    }
+]

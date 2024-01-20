@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LAV000001851_AMB:USD000000335",
+        "normalizedPair": "lave_usdt",
+        "normalizedSymbol": "lave",
+        "nativePair": "LAVEUSDT",
+        "exchange": "mexc",
+        "assetName": "Lavandos",
+        "assetArcId": "AMB:LAV000001851",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lave_usdt",
+        "instrumentType": "spot"
+    }
+]

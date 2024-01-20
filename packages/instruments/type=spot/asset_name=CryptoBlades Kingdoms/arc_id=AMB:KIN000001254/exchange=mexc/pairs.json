@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KIN000001254_AMB:USD000000335",
+        "normalizedPair": "king_usdt",
+        "normalizedSymbol": "king",
+        "nativePair": "KINGUSDT",
+        "exchange": "mexc",
+        "assetName": "CryptoBlades Kingdoms",
+        "assetArcId": "AMB:KIN000001254",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "king_usdt",
+        "instrumentType": "spot"
+    }
+]

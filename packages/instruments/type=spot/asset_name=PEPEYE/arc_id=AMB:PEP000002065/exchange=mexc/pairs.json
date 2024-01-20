@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PEP000002065_AMB:USD000000335",
+        "normalizedPair": "pepeye_usdt",
+        "normalizedSymbol": "pepeye",
+        "nativePair": "PEPEYEUSDT",
+        "exchange": "mexc",
+        "assetName": "PEPEYE",
+        "assetArcId": "AMB:PEP000002065",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pepeye_usdt",
+        "instrumentType": "spot"
+    }
+]

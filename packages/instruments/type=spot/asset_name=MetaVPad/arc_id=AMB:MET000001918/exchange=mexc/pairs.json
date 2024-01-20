@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MET000001918_AMB:USD000000335",
+        "normalizedPair": "metav_usdt",
+        "normalizedSymbol": "metav",
+        "nativePair": "METAVUSDT",
+        "exchange": "mexc",
+        "assetName": "MetaVPad",
+        "assetArcId": "AMB:MET000001918",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "metav_usdt",
+        "instrumentType": "spot"
+    }
+]

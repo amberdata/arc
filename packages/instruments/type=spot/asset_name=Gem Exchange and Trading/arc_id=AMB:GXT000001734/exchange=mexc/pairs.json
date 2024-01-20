@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GXT000001734_AMB:USD000000335",
+        "normalizedPair": "gxt_usdt",
+        "normalizedSymbol": "gxt",
+        "nativePair": "GXTUSDT",
+        "exchange": "mexc",
+        "assetName": "Gem Exchange and Trading",
+        "assetArcId": "AMB:GXT000001734",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gxt_usdt",
+        "instrumentType": "spot"
+    }
+]

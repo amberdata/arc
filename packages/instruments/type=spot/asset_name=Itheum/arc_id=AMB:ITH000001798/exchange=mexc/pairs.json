@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ITH000001798_AMB:USD000000335",
+        "normalizedPair": "itheum_usdt",
+        "normalizedSymbol": "itheum",
+        "nativePair": "ITHEUMUSDT",
+        "exchange": "mexc",
+        "assetName": "Itheum",
+        "assetArcId": "AMB:ITH000001798",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "itheum_usdt",
+        "instrumentType": "spot"
+    }
+]

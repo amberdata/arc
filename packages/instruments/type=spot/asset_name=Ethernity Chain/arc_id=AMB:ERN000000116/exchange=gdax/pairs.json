@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ERN000000116_AMB:USD000000949",
+        "normalizedPair": "ern_usd",
+        "normalizedSymbol": "ern",
+        "nativePair": "ERN-USD",
+        "exchange": "gdax",
+        "assetName": "Ethernity Chain",
+        "assetArcId": "AMB:ERN000000116",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ern_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ERN000000116_AMB:USD000000335",
+        "normalizedPair": "ern_usdt",
+        "normalizedSymbol": "ern",
+        "nativePair": "ERN-USDT",
+        "exchange": "gdax",
+        "assetName": "Ethernity Chain",
+        "assetArcId": "AMB:ERN000000116",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ern_usdt",
+        "instrumentType": "spot"
+    }
+]

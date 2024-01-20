@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PAY000002048_AMB:USD000000335",
+        "normalizedPair": "payu_usdt",
+        "normalizedSymbol": "payu",
+        "nativePair": "PAYUUSDT",
+        "exchange": "mexc",
+        "assetName": "Platform of meme coins",
+        "assetArcId": "AMB:PAY000002048",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "payu_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRI000002281_AMB:USD000000335",
+        "normalizedPair": "trivia_usdt",
+        "normalizedSymbol": "trivia",
+        "nativePair": "TRIVIAUSDT",
+        "exchange": "mexc",
+        "assetName": "Trivians",
+        "assetArcId": "AMB:TRI000002281",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trivia_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BOT000001204_AMB:USD000000335",
+        "normalizedPair": "bots_usdt",
+        "normalizedSymbol": "bots",
+        "nativePair": "BOTS_USDT",
+        "exchange": "poloniex",
+        "assetName": "DeezBots",
+        "assetArcId": "AMB:BOT000001204",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bots_usdt",
+        "instrumentType": "spot"
+    }
+]

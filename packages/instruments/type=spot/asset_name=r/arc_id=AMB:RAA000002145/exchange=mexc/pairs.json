@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAA000002145_AMB:USD000000335",
+        "normalizedPair": "r_usdt",
+        "normalizedSymbol": "r",
+        "nativePair": "RUSDT",
+        "exchange": "mexc",
+        "assetName": "R",
+        "assetArcId": "AMB:RAA000002145",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "r_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EMP000001632_AMB:USD000000335",
+        "normalizedPair": "emp_usdt",
+        "normalizedSymbol": "emp",
+        "nativePair": "EMPUSDT",
+        "exchange": "mexc",
+        "assetName": "Export Mortos Platform",
+        "assetArcId": "AMB:EMP000001632",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "emp_usdt",
+        "instrumentType": "spot"
+    }
+]

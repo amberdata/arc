@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRR000001325_AMB:USD000000335",
+        "normalizedPair": "trr_usdt",
+        "normalizedSymbol": "trr",
+        "nativePair": "TRR_USDT",
+        "exchange": "poloniex",
+        "assetName": "Terran Coin",
+        "assetArcId": "AMB:TRR000001325",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trr_usdt",
+        "instrumentType": "spot"
+    }
+]

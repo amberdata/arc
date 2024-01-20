@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KNC000002580_AMB:USD000000949",
+        "normalizedPair": "knchedge_usd",
+        "normalizedSymbol": "knchedge",
+        "nativePair": "KNCHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short Kyber Network Token",
+        "assetArcId": "AMB:KNC000002580",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "knchedge_usd",
+        "instrumentType": "spot"
+    }
+]

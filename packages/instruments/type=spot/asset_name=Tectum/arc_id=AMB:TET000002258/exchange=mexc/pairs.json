@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TET000002258_AMB:USD000000335",
+        "normalizedPair": "tet_usdt",
+        "normalizedSymbol": "tet",
+        "nativePair": "TETUSDT",
+        "exchange": "mexc",
+        "assetName": "Tectum",
+        "assetArcId": "AMB:TET000002258",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tet_usdt",
+        "instrumentType": "spot"
+    }
+]

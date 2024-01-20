@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:APN000001404_AMB:USD000000335",
+        "normalizedPair": "apn_usdt",
+        "normalizedSymbol": "apn",
+        "nativePair": "APNUSDT",
+        "exchange": "mexc",
+        "assetName": "Apron Network",
+        "assetArcId": "AMB:APN000001404",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "apn_usdt",
+        "instrumentType": "spot"
+    }
+]

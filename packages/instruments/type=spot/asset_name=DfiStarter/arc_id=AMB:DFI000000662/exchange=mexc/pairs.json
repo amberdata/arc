@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DFI000000662_AMB:USD000000335",
+        "normalizedPair": "dfi.amb.1_usdt",
+        "normalizedSymbol": "dfi.amb.1",
+        "nativePair": "DFIUSDT",
+        "exchange": "mexc",
+        "assetName": "DfiStarter",
+        "assetArcId": "AMB:DFI000000662",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dfi_usdt",
+        "instrumentType": "spot"
+    }
+]

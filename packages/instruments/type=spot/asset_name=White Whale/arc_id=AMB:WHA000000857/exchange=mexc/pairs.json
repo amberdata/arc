@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WHA000000857_AMB:USD000000335",
+        "normalizedPair": "whale.amb.1_usdt",
+        "normalizedSymbol": "whale.amb.1",
+        "nativePair": "WHALEUSDT",
+        "exchange": "mexc",
+        "assetName": "White Whale",
+        "assetArcId": "AMB:WHA000000857",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "whale_usdt",
+        "instrumentType": "spot"
+    }
+]

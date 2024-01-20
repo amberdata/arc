@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SNY000002642_AMB:USD000000949",
+        "normalizedPair": "sny_usd",
+        "normalizedSymbol": "sny",
+        "nativePair": "SNY/USD",
+        "exchange": "ftx",
+        "assetName": "Synthetify",
+        "assetArcId": "AMB:SNY000002642",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sny_usd",
+        "instrumentType": "spot"
+    }
+]

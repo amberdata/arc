@@ -1,0 +1,86 @@
+[
+    {
+        "arcPairId": "AMB:VET000000338_AMB:BNB000000055",
+        "normalizedPair": "vet_bnb",
+        "normalizedSymbol": "vet",
+        "nativePair": "VETBNB",
+        "exchange": "binance",
+        "assetName": "vechain",
+        "assetArcId": "AMB:VET000000338",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "vet_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:VET000000338_AMB:BTC000000000",
+        "normalizedPair": "vet_btc",
+        "normalizedSymbol": "vet",
+        "nativePair": "VETBTC",
+        "exchange": "binance",
+        "assetName": "vechain",
+        "assetArcId": "AMB:VET000000338",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "vet_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:VET000000338_AMB:BUS000000067",
+        "normalizedPair": "vet_busd",
+        "normalizedSymbol": "vet",
+        "nativePair": "VETBUSD",
+        "exchange": "binance",
+        "assetName": "vechain",
+        "assetArcId": "AMB:VET000000338",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "vet_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:VET000000338_AMB:ETH000000000",
+        "normalizedPair": "vet_eth",
+        "normalizedSymbol": "vet",
+        "nativePair": "VETETH",
+        "exchange": "binance",
+        "assetName": "vechain",
+        "assetArcId": "AMB:VET000000338",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "vet_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:VET000000338_AMB:EUR000000120",
+        "normalizedPair": "vet_eur",
+        "normalizedSymbol": "vet",
+        "nativePair": "VETEUR",
+        "exchange": "binance",
+        "assetName": "vechain",
+        "assetArcId": "AMB:VET000000338",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "vet_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:VET000000338_AMB:TRY000000940",
+        "normalizedPair": "vet_try",
+        "normalizedSymbol": "vet",
+        "nativePair": "VETTRY",
+        "exchange": "binance",
+        "assetName": "vechain",
+        "assetArcId": "AMB:VET000000338",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "vet_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:VET000000338_AMB:USD000000335",
+        "normalizedPair": "vet_usdt",
+        "normalizedSymbol": "vet",
+        "nativePair": "VETUSDT",
+        "exchange": "binance",
+        "assetName": "vechain",
+        "assetArcId": "AMB:VET000000338",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vet_usdt",
+        "instrumentType": "spot"
+    }
+]

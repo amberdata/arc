@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NEW000000758_AMB:USD000000335",
+        "normalizedPair": "new_usdt",
+        "normalizedSymbol": "new",
+        "nativePair": "newusdt",
+        "exchange": "huobi",
+        "assetName": "Newton",
+        "assetArcId": "AMB:NEW000000758",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "new_usdt",
+        "instrumentType": "spot"
+    }
+]

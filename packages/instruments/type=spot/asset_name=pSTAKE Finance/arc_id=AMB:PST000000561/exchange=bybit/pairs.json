@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PST000000561_AMB:USD000000335",
+        "normalizedPair": "pstake_usdt",
+        "normalizedSymbol": "pstake",
+        "nativePair": "PSTAKEUSDT",
+        "exchange": "bybit",
+        "assetName": "pSTAKE Finance",
+        "assetArcId": "AMB:PST000000561",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pstake_usdt",
+        "instrumentType": "spot"
+    }
+]

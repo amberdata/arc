@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:RAD000000271_AMB:BTC000000000",
+        "normalizedPair": "rad_btc",
+        "normalizedSymbol": "rad",
+        "nativePair": "RAD-BTC",
+        "exchange": "gdax",
+        "assetName": "Radworks",
+        "assetArcId": "AMB:RAD000000271",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "rad_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RAD000000271_AMB:EUR000000120",
+        "normalizedPair": "rad_eur",
+        "normalizedSymbol": "rad",
+        "nativePair": "RAD-EUR",
+        "exchange": "gdax",
+        "assetName": "Radworks",
+        "assetArcId": "AMB:RAD000000271",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "rad_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RAD000000271_AMB:GBP000000144",
+        "normalizedPair": "rad_gbp",
+        "normalizedSymbol": "rad",
+        "nativePair": "RAD-GBP",
+        "exchange": "gdax",
+        "assetName": "Radworks",
+        "assetArcId": "AMB:RAD000000271",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "rad_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RAD000000271_AMB:USD000000949",
+        "normalizedPair": "rad_usd",
+        "normalizedSymbol": "rad",
+        "nativePair": "RAD-USD",
+        "exchange": "gdax",
+        "assetName": "Radworks",
+        "assetArcId": "AMB:RAD000000271",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "rad_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RAD000000271_AMB:USD000000335",
+        "normalizedPair": "rad_usdt",
+        "normalizedSymbol": "rad",
+        "nativePair": "RAD-USDT",
+        "exchange": "gdax",
+        "assetName": "Radworks",
+        "assetArcId": "AMB:RAD000000271",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rad_usdt",
+        "instrumentType": "spot"
+    }
+]

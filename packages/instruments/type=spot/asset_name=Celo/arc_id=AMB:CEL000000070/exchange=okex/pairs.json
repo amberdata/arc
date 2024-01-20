@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:CEL000000070_AMB:USD000000333",
+        "normalizedPair": "celo_usdc",
+        "normalizedSymbol": "celo",
+        "nativePair": "CELO-USDC",
+        "exchange": "okex",
+        "assetName": "Celo",
+        "assetArcId": "AMB:CEL000000070",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "celo_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CEL000000070_AMB:USD000000335",
+        "normalizedPair": "celo_usdt",
+        "normalizedSymbol": "celo",
+        "nativePair": "CELO-USDT",
+        "exchange": "okex",
+        "assetName": "Celo",
+        "assetArcId": "AMB:CEL000000070",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "celo_usdt",
+        "instrumentType": "spot"
+    }
+]

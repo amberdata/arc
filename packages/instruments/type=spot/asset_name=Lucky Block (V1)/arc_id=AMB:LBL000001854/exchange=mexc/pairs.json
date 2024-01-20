@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LBL000001854_AMB:USD000000335",
+        "normalizedPair": "lblock_usdt",
+        "normalizedSymbol": "lblock",
+        "nativePair": "LBLOCKUSDT",
+        "exchange": "mexc",
+        "assetName": "Lucky Block (V1)",
+        "assetArcId": "AMB:LBL000001854",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lblock_usdt",
+        "instrumentType": "spot"
+    }
+]

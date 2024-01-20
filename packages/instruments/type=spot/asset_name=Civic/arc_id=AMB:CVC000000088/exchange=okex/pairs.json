@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CVC000000088_AMB:USD000000335",
+        "normalizedPair": "cvc_usdt",
+        "normalizedSymbol": "cvc",
+        "nativePair": "CVC-USDT",
+        "exchange": "okex",
+        "assetName": "Civic",
+        "assetArcId": "AMB:CVC000000088",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cvc_usdt",
+        "instrumentType": "spot"
+    }
+]

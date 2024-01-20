@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GRI000000968_AMB:USD000000335",
+        "normalizedPair": "grin_usdt",
+        "normalizedSymbol": "grin",
+        "nativePair": "grin_usdt",
+        "exchange": "zb",
+        "assetName": "Grin",
+        "assetArcId": "AMB:GRI000000968",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "grin_usdt",
+        "instrumentType": "spot"
+    }
+]

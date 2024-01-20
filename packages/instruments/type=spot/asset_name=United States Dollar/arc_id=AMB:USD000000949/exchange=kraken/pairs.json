@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:USD000000949_AMB:AED000000000",
+        "normalizedPair": "usd_aed",
+        "normalizedSymbol": "usd",
+        "nativePair": "USDAED",
+        "exchange": "kraken",
+        "assetName": "United States Dollar",
+        "assetArcId": "AMB:USD000000949",
+        "quoteArcId": "AMB:AED000000000",
+        "collectedPair": "usd_aed",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:USD000000949_AMB:CAD000002500",
+        "normalizedPair": "usd_cad",
+        "normalizedSymbol": "usd",
+        "nativePair": "ZUSDZCAD",
+        "exchange": "kraken",
+        "assetName": "United States Dollar",
+        "assetArcId": "AMB:USD000000949",
+        "quoteArcId": "AMB:CAD000002500",
+        "collectedPair": "usd_cad",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:USD000000949_AMB:CHF000000000",
+        "normalizedPair": "usd_chf",
+        "normalizedSymbol": "usd",
+        "nativePair": "USDCHF",
+        "exchange": "kraken",
+        "assetName": "United States Dollar",
+        "assetArcId": "AMB:USD000000949",
+        "quoteArcId": "AMB:CHF000000000",
+        "collectedPair": "usd_chf",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:USD000000949_AMB:JPY000000903",
+        "normalizedPair": "usd_jpy",
+        "normalizedSymbol": "usd",
+        "nativePair": "ZUSDZJPY",
+        "exchange": "kraken",
+        "assetName": "United States Dollar",
+        "assetArcId": "AMB:USD000000949",
+        "quoteArcId": "AMB:JPY000000903",
+        "collectedPair": "usd_jpy",
+        "instrumentType": "spot"
+    }
+]

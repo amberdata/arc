@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SCA000000289_AMB:USD000000335",
+        "normalizedPair": "sc_usdt",
+        "normalizedSymbol": "sc",
+        "nativePair": "SCUSDT",
+        "exchange": "bybit",
+        "assetName": "Siacoin",
+        "assetArcId": "AMB:SCA000000289",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sc_usdt",
+        "instrumentType": "spot"
+    }
+]

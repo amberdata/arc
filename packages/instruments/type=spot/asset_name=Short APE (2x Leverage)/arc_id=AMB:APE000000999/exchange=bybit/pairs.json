@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:APE000000999_AMB:USD000000335",
+        "normalizedPair": "ape2s_usdt",
+        "normalizedSymbol": "ape2s",
+        "nativePair": "APE2SUSDT",
+        "exchange": "bybit",
+        "assetName": "Short APE (2x Leverage)",
+        "assetArcId": "AMB:APE000000999",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ape2s_usdt",
+        "instrumentType": "spot"
+    }
+]

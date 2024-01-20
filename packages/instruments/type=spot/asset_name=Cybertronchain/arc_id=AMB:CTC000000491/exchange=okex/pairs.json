@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CTC000000491_AMB:USD000000335",
+        "normalizedPair": "ctc_usdt",
+        "normalizedSymbol": "ctc",
+        "nativePair": "CTC-USDT",
+        "exchange": "okex",
+        "assetName": "Cybertronchain",
+        "assetArcId": "AMB:CTC000000491",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ctc_usdt",
+        "instrumentType": "spot"
+    }
+]

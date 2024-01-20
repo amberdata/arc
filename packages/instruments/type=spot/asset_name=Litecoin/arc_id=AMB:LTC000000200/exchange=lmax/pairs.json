@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:LTC000000200_AMB:EUR000000120",
+        "normalizedPair": "ltc_eur",
+        "normalizedSymbol": "ltc",
+        "nativePair": "ltc-eur",
+        "exchange": "lmax",
+        "assetName": "Litecoin",
+        "assetArcId": "AMB:LTC000000200",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "ltc_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LTC000000200_AMB:GBP000000144",
+        "normalizedPair": "ltc_gbp",
+        "normalizedSymbol": "ltc",
+        "nativePair": "ltc-gbp",
+        "exchange": "lmax",
+        "assetName": "Litecoin",
+        "assetArcId": "AMB:LTC000000200",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "ltc_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LTC000000200_AMB:JPY000000903",
+        "normalizedPair": "ltc_jpy",
+        "normalizedSymbol": "ltc",
+        "nativePair": "ltc-jpy",
+        "exchange": "lmax",
+        "assetName": "Litecoin",
+        "assetArcId": "AMB:LTC000000200",
+        "quoteArcId": "AMB:JPY000000903",
+        "collectedPair": "ltc_jpy",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LTC000000200_AMB:USD000000949",
+        "normalizedPair": "ltc_usd",
+        "normalizedSymbol": "ltc",
+        "nativePair": "ltc-usd",
+        "exchange": "lmax",
+        "assetName": "Litecoin",
+        "assetArcId": "AMB:LTC000000200",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ltc_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LTC000000200_AMB:USD000000333",
+        "normalizedPair": "ltc_usdc",
+        "normalizedSymbol": "ltc",
+        "nativePair": "ltc-usdc",
+        "exchange": "lmax",
+        "assetName": "Litecoin",
+        "assetArcId": "AMB:LTC000000200",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "ltc_usdc",
+        "instrumentType": "spot"
+    }
+]

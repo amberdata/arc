@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EDE000001622_AMB:USD000000335",
+        "normalizedPair": "eden_usdt",
+        "normalizedSymbol": "eden",
+        "nativePair": "EDENUSDT",
+        "exchange": "mexc",
+        "assetName": "Eden",
+        "assetArcId": "AMB:EDE000001622",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "eden_usdt",
+        "instrumentType": "spot"
+    }
+]

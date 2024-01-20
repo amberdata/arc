@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DFA000000099_AMB:USD000000335",
+        "normalizedPair": "df_usdt",
+        "normalizedSymbol": "df",
+        "nativePair": "dfusdt",
+        "exchange": "huobi",
+        "assetName": "dForce",
+        "assetArcId": "AMB:DFA000000099",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "df_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:AKR000000010_AMB:USD000000949",
+        "normalizedPair": "akro_usd",
+        "normalizedSymbol": "akro",
+        "nativePair": "AKRO/USD",
+        "exchange": "ftx",
+        "assetName": "Akropolis",
+        "assetArcId": "AMB:AKR000000010",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "akro_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AKR000000010_AMB:USD000000335",
+        "normalizedPair": "akro_usdt",
+        "normalizedSymbol": "akro",
+        "nativePair": "AKRO/USDT",
+        "exchange": "ftx",
+        "assetName": "Akropolis",
+        "assetArcId": "AMB:AKR000000010",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "akro_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:DEG000000096_AMB:BTC000000000",
+        "normalizedPair": "dego_btc",
+        "normalizedSymbol": "dego",
+        "nativePair": "DEGOBTC",
+        "exchange": "binance",
+        "assetName": "Dego Finance",
+        "assetArcId": "AMB:DEG000000096",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "dego_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DEG000000096_AMB:USD000000335",
+        "normalizedPair": "dego_usdt",
+        "normalizedSymbol": "dego",
+        "nativePair": "DEGOUSDT",
+        "exchange": "binance",
+        "assetName": "Dego Finance",
+        "assetArcId": "AMB:DEG000000096",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dego_usdt",
+        "instrumentType": "spot"
+    }
+]

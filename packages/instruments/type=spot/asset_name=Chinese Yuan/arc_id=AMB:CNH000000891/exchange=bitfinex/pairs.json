@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CNH000000891_AMB:CNH000000892",
+        "normalizedPair": "cnh_cnht",
+        "normalizedSymbol": "cnh",
+        "nativePair": "tCNH:CNHT",
+        "exchange": "bitfinex",
+        "assetName": "Chinese Yuan",
+        "assetArcId": "AMB:CNH000000891",
+        "quoteArcId": "AMB:CNH000000892",
+        "collectedPair": "cnh_cnht",
+        "instrumentType": "spot"
+    }
+]

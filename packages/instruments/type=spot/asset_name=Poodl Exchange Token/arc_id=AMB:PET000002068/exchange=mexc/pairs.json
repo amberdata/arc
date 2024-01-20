@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PET000002068_AMB:USD000000335",
+        "normalizedPair": "pet_usdt",
+        "normalizedSymbol": "pet",
+        "nativePair": "PETUSDT",
+        "exchange": "mexc",
+        "assetName": "Poodl Exchange Token",
+        "assetArcId": "AMB:PET000002068",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pet_usdt",
+        "instrumentType": "spot"
+    }
+]

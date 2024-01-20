@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XOD000002377_AMB:USD000000335",
+        "normalizedPair": "xodex_usdt",
+        "normalizedSymbol": "xodex",
+        "nativePair": "XODEXUSDT",
+        "exchange": "mexc",
+        "assetName": "Xodex",
+        "assetArcId": "AMB:XOD000002377",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xodex_usdt",
+        "instrumentType": "spot"
+    }
+]

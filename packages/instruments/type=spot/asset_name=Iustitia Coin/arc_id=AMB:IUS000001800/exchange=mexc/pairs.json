@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IUS000001800_AMB:USD000000335",
+        "normalizedPair": "ius_usdt",
+        "normalizedSymbol": "ius",
+        "nativePair": "IUSUSDT",
+        "exchange": "mexc",
+        "assetName": "Iustitia Coin",
+        "assetArcId": "AMB:IUS000001800",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ius_usdt",
+        "instrumentType": "spot"
+    }
+]

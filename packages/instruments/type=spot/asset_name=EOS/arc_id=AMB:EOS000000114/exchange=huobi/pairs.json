@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:EOS000000114_AMB:BTC000000000",
+        "normalizedPair": "eos_btc",
+        "normalizedSymbol": "eos",
+        "nativePair": "eosbtc",
+        "exchange": "huobi",
+        "assetName": "EOS",
+        "assetArcId": "AMB:EOS000000114",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "eos_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:EOS000000114_AMB:USD000000841",
+        "normalizedPair": "eos_usdd",
+        "normalizedSymbol": "eos",
+        "nativePair": "eosusdd",
+        "exchange": "huobi",
+        "assetName": "EOS",
+        "assetArcId": "AMB:EOS000000114",
+        "quoteArcId": "AMB:USD000000841",
+        "collectedPair": "eos_usdd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:EOS000000114_AMB:USD000000335",
+        "normalizedPair": "eos_usdt",
+        "normalizedSymbol": "eos",
+        "nativePair": "eosusdt",
+        "exchange": "huobi",
+        "assetName": "EOS",
+        "assetArcId": "AMB:EOS000000114",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "eos_usdt",
+        "instrumentType": "spot"
+    }
+]

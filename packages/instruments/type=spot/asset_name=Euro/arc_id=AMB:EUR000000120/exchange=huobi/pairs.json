@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EUR000000120_AMB:USD000000335",
+        "normalizedPair": "eur_usdt",
+        "normalizedSymbol": "eur",
+        "nativePair": "eurusdt",
+        "exchange": "huobi",
+        "assetName": "Euro",
+        "assetArcId": "AMB:EUR000000120",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "eur_usdt",
+        "instrumentType": "spot"
+    }
+]

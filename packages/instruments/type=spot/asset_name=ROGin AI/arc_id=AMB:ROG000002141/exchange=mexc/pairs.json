@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ROG000002141_AMB:USD000000335",
+        "normalizedPair": "rog_usdt",
+        "normalizedSymbol": "rog",
+        "nativePair": "ROGUSDT",
+        "exchange": "mexc",
+        "assetName": "ROGin AI",
+        "assetArcId": "AMB:ROG000002141",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rog_usdt",
+        "instrumentType": "spot"
+    }
+]

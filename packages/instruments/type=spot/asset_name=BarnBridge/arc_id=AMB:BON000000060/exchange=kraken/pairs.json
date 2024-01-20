@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BON000000060_AMB:EUR000000120",
+        "normalizedPair": "bond_eur",
+        "normalizedSymbol": "bond",
+        "nativePair": "BONDEUR",
+        "exchange": "kraken",
+        "assetName": "BarnBridge",
+        "assetArcId": "AMB:BON000000060",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "bond_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BON000000060_AMB:USD000000949",
+        "normalizedPair": "bond_usd",
+        "normalizedSymbol": "bond",
+        "nativePair": "BONDUSD",
+        "exchange": "kraken",
+        "assetName": "BarnBridge",
+        "assetArcId": "AMB:BON000000060",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bond_usd",
+        "instrumentType": "spot"
+    }
+]

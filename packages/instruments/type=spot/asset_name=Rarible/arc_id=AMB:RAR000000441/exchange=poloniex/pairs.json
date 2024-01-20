@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAR000000441_AMB:USD000000335",
+        "normalizedPair": "rari_usdt",
+        "normalizedSymbol": "rari",
+        "nativePair": "RARI_USDT",
+        "exchange": "poloniex",
+        "assetName": "Rarible",
+        "assetArcId": "AMB:RAR000000441",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rari_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BRS000001495_AMB:USD000000335",
+        "normalizedPair": "brs_usdt",
+        "normalizedSymbol": "brs",
+        "nativePair": "BRSUSDT",
+        "exchange": "mexc",
+        "assetName": "Broovs Projects",
+        "assetArcId": "AMB:BRS000001495",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "brs_usdt",
+        "instrumentType": "spot"
+    }
+]

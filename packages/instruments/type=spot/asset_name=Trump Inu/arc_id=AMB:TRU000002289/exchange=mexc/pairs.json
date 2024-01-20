@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRU000002289_AMB:USD000000335",
+        "normalizedPair": "trumpinu_usdt",
+        "normalizedSymbol": "trumpinu",
+        "nativePair": "TRUMPINUUSDT",
+        "exchange": "mexc",
+        "assetName": "Trump Inu",
+        "assetArcId": "AMB:TRU000002289",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trumpinu_usdt",
+        "instrumentType": "spot"
+    }
+]

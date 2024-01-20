@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SPU000001317_AMB:USD000000335",
+        "normalizedPair": "spurdo_usdt",
+        "normalizedSymbol": "spurdo",
+        "nativePair": "SPURDO_USDT",
+        "exchange": "poloniex",
+        "assetName": "spurdo",
+        "assetArcId": "AMB:SPU000001317",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "spurdo_usdt",
+        "instrumentType": "spot"
+    }
+]

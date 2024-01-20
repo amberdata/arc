@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CYB000001577_AMB:USD000000335",
+        "normalizedPair": "cyberai_usdt",
+        "normalizedSymbol": "cyberai",
+        "nativePair": "CYBERAIUSDT",
+        "exchange": "mexc",
+        "assetName": "CyberAI",
+        "assetArcId": "AMB:CYB000001577",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cyberai_usdt",
+        "instrumentType": "spot"
+    }
+]

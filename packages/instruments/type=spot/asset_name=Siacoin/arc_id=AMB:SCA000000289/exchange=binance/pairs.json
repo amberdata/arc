@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SCA000000289_AMB:ETH000000000",
+        "normalizedPair": "sc_eth",
+        "normalizedSymbol": "sc",
+        "nativePair": "SCETH",
+        "exchange": "binance",
+        "assetName": "Siacoin",
+        "assetArcId": "AMB:SCA000000289",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "sc_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SCA000000289_AMB:USD000000335",
+        "normalizedPair": "sc_usdt",
+        "normalizedSymbol": "sc",
+        "nativePair": "SCUSDT",
+        "exchange": "binance",
+        "assetName": "Siacoin",
+        "assetArcId": "AMB:SCA000000289",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sc_usdt",
+        "instrumentType": "spot"
+    }
+]

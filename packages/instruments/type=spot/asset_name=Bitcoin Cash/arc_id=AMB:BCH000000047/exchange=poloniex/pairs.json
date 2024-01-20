@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:BTC000000000",
+        "normalizedPair": "bch_btc",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCH_BTC",
+        "exchange": "poloniex",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "bch_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:USD000000333",
+        "normalizedPair": "bch_usdc",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCH_USDC",
+        "exchange": "poloniex",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "bch_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:USD000000335",
+        "normalizedPair": "bch_usdt",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCH_USDT",
+        "exchange": "poloniex",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bch_usdt",
+        "instrumentType": "spot"
+    }
+]

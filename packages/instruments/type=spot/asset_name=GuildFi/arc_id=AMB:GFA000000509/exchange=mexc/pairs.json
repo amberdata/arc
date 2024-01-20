@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GFA000000509_AMB:USD000000335",
+        "normalizedPair": "gf_usdt",
+        "normalizedSymbol": "gf",
+        "nativePair": "GFUSDT",
+        "exchange": "mexc",
+        "assetName": "GuildFi",
+        "assetArcId": "AMB:GFA000000509",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gf_usdt",
+        "instrumentType": "spot"
+    }
+]

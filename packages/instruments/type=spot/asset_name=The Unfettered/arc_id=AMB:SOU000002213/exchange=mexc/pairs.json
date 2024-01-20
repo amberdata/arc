@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SOU000002213_AMB:USD000000335",
+        "normalizedPair": "souls_usdt",
+        "normalizedSymbol": "souls",
+        "nativePair": "SOULSUSDT",
+        "exchange": "mexc",
+        "assetName": "The Unfettered",
+        "assetArcId": "AMB:SOU000002213",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "souls_usdt",
+        "instrumentType": "spot"
+    }
+]

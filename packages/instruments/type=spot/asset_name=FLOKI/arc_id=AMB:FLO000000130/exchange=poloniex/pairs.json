@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FLO000000130_AMB:USD000000335",
+        "normalizedPair": "floki_usdt",
+        "normalizedSymbol": "floki",
+        "nativePair": "FLOKI_USDT",
+        "exchange": "poloniex",
+        "assetName": "FLOKI",
+        "assetArcId": "AMB:FLO000000130",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "floki_usdt",
+        "instrumentType": "spot"
+    }
+]

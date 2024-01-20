@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SNC000000803_AMB:BTC000000000",
+        "normalizedPair": "snc_btc",
+        "normalizedSymbol": "snc",
+        "nativePair": "sncbtc",
+        "exchange": "huobi",
+        "assetName": "SunContract",
+        "assetArcId": "AMB:SNC000000803",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "snc_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SNC000000803_AMB:ETH000000000",
+        "normalizedPair": "snc_eth",
+        "normalizedSymbol": "snc",
+        "nativePair": "snceth",
+        "exchange": "huobi",
+        "assetName": "SunContract",
+        "assetArcId": "AMB:SNC000000803",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "snc_eth",
+        "instrumentType": "spot"
+    }
+]

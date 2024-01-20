@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UNI000002679_AMB:USD000000949",
+        "normalizedPair": "uniswapbear_usd",
+        "normalizedSymbol": "uniswapbear",
+        "nativePair": "UNISWAPBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short Uniswap Token",
+        "assetArcId": "AMB:UNI000002679",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "uniswapbear_usd",
+        "instrumentType": "spot"
+    }
+]

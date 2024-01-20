@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LIN000001066_AMB:USD000000335",
+        "normalizedPair": "link2l_usdt",
+        "normalizedSymbol": "link2l",
+        "nativePair": "LINK2LUSDT",
+        "exchange": "bybit",
+        "assetName": "Long LINK (2x Leverage)",
+        "assetArcId": "AMB:LIN000001066",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "link2l_usdt",
+        "instrumentType": "spot"
+    }
+]

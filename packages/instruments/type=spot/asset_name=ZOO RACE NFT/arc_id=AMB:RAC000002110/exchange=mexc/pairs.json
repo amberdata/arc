@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAC000002110_AMB:USD000000335",
+        "normalizedPair": "racezoo_usdt",
+        "normalizedSymbol": "racezoo",
+        "nativePair": "RACEZOOUSDT",
+        "exchange": "mexc",
+        "assetName": "ZOO RACE NFT",
+        "assetArcId": "AMB:RAC000002110",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "racezoo_usdt",
+        "instrumentType": "spot"
+    }
+]

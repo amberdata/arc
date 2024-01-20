@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RFD000001296_AMB:USD000000335",
+        "normalizedPair": "rfd_usdt",
+        "normalizedSymbol": "rfd",
+        "nativePair": "RFD_USDT",
+        "exchange": "poloniex",
+        "assetName": "RefundCoin",
+        "assetArcId": "AMB:RFD000001296",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rfd_usdt",
+        "instrumentType": "spot"
+    }
+]

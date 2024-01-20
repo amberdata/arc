@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:CRV000000084_AMB:ETH000000000",
+        "normalizedPair": "crv_eth",
+        "normalizedSymbol": "crv",
+        "nativePair": "CRVETH",
+        "exchange": "mexc",
+        "assetName": "Curve DAO Token",
+        "assetArcId": "AMB:CRV000000084",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "crv_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CRV000000084_AMB:USD000000335",
+        "normalizedPair": "crv_usdt",
+        "normalizedSymbol": "crv",
+        "nativePair": "CRVUSDT",
+        "exchange": "mexc",
+        "assetName": "Curve DAO Token",
+        "assetArcId": "AMB:CRV000000084",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "crv_usdt",
+        "instrumentType": "spot"
+    }
+]

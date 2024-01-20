@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CNT000001549_AMB:USD000000335",
+        "normalizedPair": "cntm_usdt",
+        "normalizedSymbol": "cntm",
+        "nativePair": "CNTMUSDT",
+        "exchange": "mexc",
+        "assetName": "Connectome",
+        "assetArcId": "AMB:CNT000001549",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cntm_usdt",
+        "instrumentType": "spot"
+    }
+]

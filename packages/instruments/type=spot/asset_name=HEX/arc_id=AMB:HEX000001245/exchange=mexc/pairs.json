@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HEX000001245_AMB:USD000000335",
+        "normalizedPair": "hex_usdt",
+        "normalizedSymbol": "hex",
+        "nativePair": "HEXUSDT",
+        "exchange": "mexc",
+        "assetName": "HEX",
+        "assetArcId": "AMB:HEX000001245",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hex_usdt",
+        "instrumentType": "spot"
+    }
+]

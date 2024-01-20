@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHA000001532_AMB:USD000000335",
+        "normalizedPair": "champ_usdt",
+        "normalizedSymbol": "champ",
+        "nativePair": "CHAMPUSDT",
+        "exchange": "mexc",
+        "assetName": "NFT Champions",
+        "assetArcId": "AMB:CHA000001532",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "champ_usdt",
+        "instrumentType": "spot"
+    }
+]

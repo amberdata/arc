@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:QIA000000264_AMB:USD000000949",
+        "normalizedPair": "qi_usd",
+        "normalizedSymbol": "qi",
+        "nativePair": "QI-USD",
+        "exchange": "gdax",
+        "assetName": "BENQI",
+        "assetArcId": "AMB:QIA000000264",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "qi_usd",
+        "instrumentType": "spot"
+    }
+]

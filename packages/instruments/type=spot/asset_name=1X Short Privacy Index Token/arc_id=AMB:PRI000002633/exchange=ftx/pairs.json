@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PRI000002633_AMB:USD000000949",
+        "normalizedPair": "privhedge_usd",
+        "normalizedSymbol": "privhedge",
+        "nativePair": "PRIVHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short Privacy Index Token",
+        "assetArcId": "AMB:PRI000002633",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "privhedge_usd",
+        "instrumentType": "spot"
+    }
+]

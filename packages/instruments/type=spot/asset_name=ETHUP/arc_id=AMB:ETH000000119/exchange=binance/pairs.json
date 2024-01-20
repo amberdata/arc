@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETH000000119_AMB:USD000000335",
+        "normalizedPair": "ethup_usdt",
+        "normalizedSymbol": "ethup",
+        "nativePair": "ETHUPUSDT",
+        "exchange": "binance",
+        "assetName": "ETHUP",
+        "assetArcId": "AMB:ETH000000119",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ethup_usdt",
+        "instrumentType": "spot"
+    }
+]

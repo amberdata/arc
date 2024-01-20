@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LUA000002595_AMB:USD000000949",
+        "normalizedPair": "lua_usd",
+        "normalizedSymbol": "lua",
+        "nativePair": "LUA/USD",
+        "exchange": "ftx",
+        "assetName": "Lua Swap",
+        "assetArcId": "AMB:LUA000002595",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "lua_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LUA000002595_AMB:USD000000335",
+        "normalizedPair": "lua_usdt",
+        "normalizedSymbol": "lua",
+        "nativePair": "LUA/USDT",
+        "exchange": "ftx",
+        "assetName": "Lua Swap",
+        "assetArcId": "AMB:LUA000002595",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lua_usdt",
+        "instrumentType": "spot"
+    }
+]

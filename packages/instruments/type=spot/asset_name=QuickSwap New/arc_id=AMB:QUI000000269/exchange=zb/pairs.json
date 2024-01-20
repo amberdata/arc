@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:QUI000000269_AMB:QCA000000000",
+        "normalizedPair": "quick_qc",
+        "normalizedSymbol": "quick",
+        "nativePair": "quick_qc",
+        "exchange": "zb",
+        "assetName": "QuickSwap New",
+        "assetArcId": "AMB:QUI000000269",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "quick_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:QUI000000269_AMB:USD000000335",
+        "normalizedPair": "quick_usdt",
+        "normalizedSymbol": "quick",
+        "nativePair": "quick_usdt",
+        "exchange": "zb",
+        "assetName": "QuickSwap New",
+        "assetArcId": "AMB:QUI000000269",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "quick_usdt",
+        "instrumentType": "spot"
+    }
+]

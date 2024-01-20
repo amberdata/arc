@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:USD000000335",
+        "normalizedPair": "atom_usdt",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOMUSDT",
+        "exchange": "binanceus",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "atom_usdt",
+        "instrumentType": "spot"
+    }
+]

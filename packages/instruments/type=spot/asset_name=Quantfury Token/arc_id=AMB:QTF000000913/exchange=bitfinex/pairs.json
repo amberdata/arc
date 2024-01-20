@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:QTF000000913_AMB:BTC000000000",
+        "normalizedPair": "qtf_btc",
+        "normalizedSymbol": "qtf",
+        "nativePair": "tQTFBTC",
+        "exchange": "bitfinex",
+        "assetName": "Quantfury Token",
+        "assetArcId": "AMB:QTF000000913",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "qtf_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:QTF000000913_AMB:USD000000949",
+        "normalizedPair": "qtf_usd",
+        "normalizedSymbol": "qtf",
+        "nativePair": "tQTFUSD",
+        "exchange": "bitfinex",
+        "assetName": "Quantfury Token",
+        "assetArcId": "AMB:QTF000000913",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "qtf_usd",
+        "instrumentType": "spot"
+    }
+]

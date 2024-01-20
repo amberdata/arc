@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MON000001947_AMB:USD000000335",
+        "normalizedPair": "monie_usdt",
+        "normalizedSymbol": "monie",
+        "nativePair": "MONIEUSDT",
+        "exchange": "mexc",
+        "assetName": "Infiblue World",
+        "assetArcId": "AMB:MON000001947",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "monie_usdt",
+        "instrumentType": "spot"
+    }
+]

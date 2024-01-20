@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MUR000001965_AMB:USD000000335",
+        "normalizedPair": "muratiai_usdt",
+        "normalizedSymbol": "muratiai",
+        "nativePair": "MURATIAIUSDT",
+        "exchange": "mexc",
+        "assetName": "MuratiAI",
+        "assetArcId": "AMB:MUR000001965",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "muratiai_usdt",
+        "instrumentType": "spot"
+    }
+]

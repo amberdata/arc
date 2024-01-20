@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BPD000001205_AMB:USD000000335",
+        "normalizedPair": "bpd_usdt",
+        "normalizedSymbol": "bpd",
+        "nativePair": "BPD_USDT",
+        "exchange": "poloniex",
+        "assetName": "Beautiful Princess Disorder",
+        "assetArcId": "AMB:BPD000001205",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bpd_usdt",
+        "instrumentType": "spot"
+    }
+]

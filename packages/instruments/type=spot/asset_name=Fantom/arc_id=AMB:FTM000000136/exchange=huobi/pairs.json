@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FTM000000136_AMB:USD000000335",
+        "normalizedPair": "ftm_usdt",
+        "normalizedSymbol": "ftm",
+        "nativePair": "ftmusdt",
+        "exchange": "huobi",
+        "assetName": "Fantom",
+        "assetArcId": "AMB:FTM000000136",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ftm_usdt",
+        "instrumentType": "spot"
+    }
+]

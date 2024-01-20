@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OCE000000230_AMB:KRW000000000",
+        "normalizedPair": "ocean_krw",
+        "normalizedSymbol": "ocean",
+        "nativePair": "OCEAN/KRW",
+        "exchange": "bithumb",
+        "assetName": "Ocean Protocol",
+        "assetArcId": "AMB:OCE000000230",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "ocean_krw",
+        "instrumentType": "spot"
+    }
+]

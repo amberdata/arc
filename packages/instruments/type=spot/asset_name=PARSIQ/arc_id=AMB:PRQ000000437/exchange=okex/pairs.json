@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PRQ000000437_AMB:USD000000335",
+        "normalizedPair": "prq_usdt",
+        "normalizedSymbol": "prq",
+        "nativePair": "PRQ-USDT",
+        "exchange": "okex",
+        "assetName": "PARSIQ",
+        "assetArcId": "AMB:PRQ000000437",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "prq_usdt",
+        "instrumentType": "spot"
+    }
+]
