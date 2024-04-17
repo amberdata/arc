@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:REE000000275_AMB:USD000000335",
+        "normalizedPair": "reef_usdt",
+        "normalizedSymbol": "reef",
+        "nativePair": "REEFUSDT",
+        "exchange": "mexc",
+        "assetName": "Reef",
+        "assetArcId": "AMB:REE000000275",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "reef_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:XEN000000871_AMB:ETH000000000",
+        "normalizedPair": "xen_eth",
+        "normalizedSymbol": "xen",
+        "nativePair": "XENETH",
+        "exchange": "mexc",
+        "assetName": "XEN Crypto",
+        "assetArcId": "AMB:XEN000000871",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "xen_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XEN000000871_AMB:USD000000333",
+        "normalizedPair": "xen_usdc",
+        "normalizedSymbol": "xen",
+        "nativePair": "XENUSDC",
+        "exchange": "mexc",
+        "assetName": "XEN Crypto",
+        "assetArcId": "AMB:XEN000000871",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "xen_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XEN000000871_AMB:USD000000335",
+        "normalizedPair": "xen_usdt",
+        "normalizedSymbol": "xen",
+        "nativePair": "XENUSDT",
+        "exchange": "mexc",
+        "assetName": "XEN Crypto",
+        "assetArcId": "AMB:XEN000000871",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xen_usdt",
+        "instrumentType": "spot"
+    }
+]

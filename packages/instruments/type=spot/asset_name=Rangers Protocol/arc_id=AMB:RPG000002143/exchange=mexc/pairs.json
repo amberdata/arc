@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RPG000002143_AMB:USD000000335",
+        "normalizedPair": "rpg_usdt",
+        "normalizedSymbol": "rpg",
+        "nativePair": "RPGUSDT",
+        "exchange": "mexc",
+        "assetName": "Rangers Protocol",
+        "assetArcId": "AMB:RPG000002143",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rpg_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:THE000000317_AMB:KRW000000000",
+        "normalizedPair": "theta_krw",
+        "normalizedSymbol": "theta",
+        "nativePair": "THETA/KRW",
+        "exchange": "bithumb",
+        "assetName": "Theta Network",
+        "assetArcId": "AMB:THE000000317",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "theta_krw",
+        "instrumentType": "spot"
+    }
+]

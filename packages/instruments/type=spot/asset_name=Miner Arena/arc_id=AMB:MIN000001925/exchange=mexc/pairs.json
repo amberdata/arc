@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MIN000001925_AMB:USD000000335",
+        "normalizedPair": "minar_usdt",
+        "normalizedSymbol": "minar",
+        "nativePair": "MINARUSDT",
+        "exchange": "mexc",
+        "assetName": "Miner Arena",
+        "assetArcId": "AMB:MIN000001925",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "minar_usdt",
+        "instrumentType": "spot"
+    }
+]

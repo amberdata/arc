@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BLT000001478_AMB:USD000000949",
+        "normalizedPair": "blt_usd",
+        "normalizedSymbol": "blt",
+        "nativePair": "BLT/USD",
+        "exchange": "ftx",
+        "assetName": "Blocto Token",
+        "assetArcId": "AMB:BLT000001478",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "blt_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:AGL000000009_AMB:USD000000333",
+        "normalizedPair": "agld_usdc",
+        "normalizedSymbol": "agld",
+        "nativePair": "AGLD-USDC",
+        "exchange": "okex",
+        "assetName": "Adventure Gold",
+        "assetArcId": "AMB:AGL000000009",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "agld_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AGL000000009_AMB:USD000000335",
+        "normalizedPair": "agld_usdt",
+        "normalizedSymbol": "agld",
+        "nativePair": "AGLD-USDT",
+        "exchange": "okex",
+        "assetName": "Adventure Gold",
+        "assetArcId": "AMB:AGL000000009",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "agld_usdt",
+        "instrumentType": "spot"
+    }
+]

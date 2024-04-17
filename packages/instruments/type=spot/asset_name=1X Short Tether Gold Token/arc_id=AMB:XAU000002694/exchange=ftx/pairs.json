@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XAU000002694_AMB:USD000000949",
+        "normalizedPair": "xauthedge_usd",
+        "normalizedSymbol": "xauthedge",
+        "nativePair": "XAUTHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short Tether Gold Token",
+        "assetArcId": "AMB:XAU000002694",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xauthedge_usd",
+        "instrumentType": "spot"
+    }
+]

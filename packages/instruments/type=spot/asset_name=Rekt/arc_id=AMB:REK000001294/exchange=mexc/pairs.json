@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:REK000001294_AMB:USD000000335",
+        "normalizedPair": "rekt_usdt",
+        "normalizedSymbol": "rekt",
+        "nativePair": "REKTUSDT",
+        "exchange": "mexc",
+        "assetName": "Rekt",
+        "assetArcId": "AMB:REK000001294",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rekt_usdt",
+        "instrumentType": "spot"
+    }
+]

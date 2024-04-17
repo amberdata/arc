@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:SNX000000297_AMB:BTC000000000",
+        "normalizedPair": "snx_btc",
+        "normalizedSymbol": "snx",
+        "nativePair": "SNXXBT",
+        "exchange": "kraken",
+        "assetName": "SincroniX",
+        "assetArcId": "AMB:SNX000000297",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "snx_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SNX000000297_AMB:ETH000000000",
+        "normalizedPair": "snx_eth",
+        "normalizedSymbol": "snx",
+        "nativePair": "SNXETH",
+        "exchange": "kraken",
+        "assetName": "SincroniX",
+        "assetArcId": "AMB:SNX000000297",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "snx_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SNX000000297_AMB:EUR000000120",
+        "normalizedPair": "snx_eur",
+        "normalizedSymbol": "snx",
+        "nativePair": "SNXEUR",
+        "exchange": "kraken",
+        "assetName": "SincroniX",
+        "assetArcId": "AMB:SNX000000297",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "snx_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SNX000000297_AMB:USD000000949",
+        "normalizedPair": "snx_usd",
+        "normalizedSymbol": "snx",
+        "nativePair": "SNXUSD",
+        "exchange": "kraken",
+        "assetName": "SincroniX",
+        "assetArcId": "AMB:SNX000000297",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "snx_usd",
+        "instrumentType": "spot"
+    }
+]

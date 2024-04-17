@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETC000001038_AMB:USD000000335",
+        "normalizedPair": "etc2s_usdt",
+        "normalizedSymbol": "etc2s",
+        "nativePair": "ETC2SUSDT",
+        "exchange": "bybit",
+        "assetName": "Short ETC (2x Leverage)",
+        "assetArcId": "AMB:ETC000001038",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "etc2s_usdt",
+        "instrumentType": "spot"
+    }
+]

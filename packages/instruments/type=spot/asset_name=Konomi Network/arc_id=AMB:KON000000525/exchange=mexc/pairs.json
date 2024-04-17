@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KON000000525_AMB:USD000000335",
+        "normalizedPair": "kono_usdt",
+        "normalizedSymbol": "kono",
+        "nativePair": "KONOUSDT",
+        "exchange": "mexc",
+        "assetName": "Konomi Network",
+        "assetArcId": "AMB:KON000000525",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kono_usdt",
+        "instrumentType": "spot"
+    }
+]

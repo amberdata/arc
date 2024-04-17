@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ACS000000375_AMB:USD000000949",
+        "normalizedPair": "acs_usd",
+        "normalizedSymbol": "acs",
+        "nativePair": "ACS-USD",
+        "exchange": "gdax",
+        "assetName": "Access",
+        "assetArcId": "AMB:ACS000000375",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "acs_usd",
+        "instrumentType": "spot"
+    }
+]

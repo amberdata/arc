@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:3PA000000992_AMB:USD000000335",
+        "normalizedPair": "3p_usdt",
+        "normalizedSymbol": "3p",
+        "nativePair": "3PUSDT",
+        "exchange": "bybit",
+        "assetName": "Web3Camp",
+        "assetArcId": "AMB:3PA000000992",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "3p_usdt",
+        "instrumentType": "spot"
+    }
+]

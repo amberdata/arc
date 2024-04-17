@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TIG000002266_AMB:USD000000335",
+        "normalizedPair": "tiger_usdt",
+        "normalizedSymbol": "tiger",
+        "nativePair": "TIGERUSDT",
+        "exchange": "mexc",
+        "assetName": "JungleKing TigerCoin",
+        "assetArcId": "AMB:TIG000002266",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tiger_usdt",
+        "instrumentType": "spot"
+    }
+]

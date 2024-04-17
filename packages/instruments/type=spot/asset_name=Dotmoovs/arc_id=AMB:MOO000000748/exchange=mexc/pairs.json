@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MOO000000748_AMB:USD000000335",
+        "normalizedPair": "moov_usdt",
+        "normalizedSymbol": "moov",
+        "nativePair": "MOOVUSDT",
+        "exchange": "mexc",
+        "assetName": "Dotmoovs",
+        "assetArcId": "AMB:MOO000000748",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "moov_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MRP000001953_AMB:USD000000335",
+        "normalizedPair": "mrpotato_usdt",
+        "normalizedSymbol": "mrpotato",
+        "nativePair": "MRPOTATOUSDT",
+        "exchange": "mexc",
+        "assetName": "Mr Potato",
+        "assetArcId": "AMB:MRP000001953",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mrpotato_usdt",
+        "instrumentType": "spot"
+    }
+]

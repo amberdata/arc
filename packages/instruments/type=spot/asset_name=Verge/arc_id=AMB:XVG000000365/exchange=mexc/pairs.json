@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XVG000000365_AMB:USD000000335",
+        "normalizedPair": "xvg_usdt",
+        "normalizedSymbol": "xvg",
+        "nativePair": "XVGUSDT",
+        "exchange": "mexc",
+        "assetName": "Verge",
+        "assetArcId": "AMB:XVG000000365",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xvg_usdt",
+        "instrumentType": "spot"
+    }
+]

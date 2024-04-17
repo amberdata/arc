@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JOE000000177_AMB:KRW000000000",
+        "normalizedPair": "joe_krw",
+        "normalizedSymbol": "joe",
+        "nativePair": "JOE/KRW",
+        "exchange": "bithumb",
+        "assetName": "JOE",
+        "assetArcId": "AMB:JOE000000177",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "joe_krw",
+        "instrumentType": "spot"
+    }
+]

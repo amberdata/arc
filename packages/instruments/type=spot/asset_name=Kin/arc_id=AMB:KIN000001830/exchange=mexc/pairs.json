@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KIN000001830_AMB:USD000000335",
+        "normalizedPair": "kin_usdt",
+        "normalizedSymbol": "kin",
+        "nativePair": "KINUSDT",
+        "exchange": "mexc",
+        "assetName": "Kin",
+        "assetArcId": "AMB:KIN000001830",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kin_usdt",
+        "instrumentType": "spot"
+    }
+]

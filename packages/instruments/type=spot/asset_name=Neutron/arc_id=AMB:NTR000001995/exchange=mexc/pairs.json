@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NTR000001995_AMB:USD000000335",
+        "normalizedPair": "ntrn_usdt",
+        "normalizedSymbol": "ntrn",
+        "nativePair": "NTRNUSDT",
+        "exchange": "mexc",
+        "assetName": "Neutron",
+        "assetArcId": "AMB:NTR000001995",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ntrn_usdt",
+        "instrumentType": "spot"
+    }
+]

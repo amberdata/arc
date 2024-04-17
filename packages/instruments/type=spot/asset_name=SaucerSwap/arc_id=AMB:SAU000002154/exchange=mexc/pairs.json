@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAU000002154_AMB:USD000000335",
+        "normalizedPair": "sauce_usdt",
+        "normalizedSymbol": "sauce",
+        "nativePair": "SAUCEUSDT",
+        "exchange": "mexc",
+        "assetName": "SaucerSwap",
+        "assetArcId": "AMB:SAU000002154",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sauce_usdt",
+        "instrumentType": "spot"
+    }
+]

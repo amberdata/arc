@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ONT000000237_AMB:USD000000335",
+        "normalizedPair": "ont_usdt",
+        "normalizedSymbol": "ont",
+        "nativePair": "ONT-USDT",
+        "exchange": "okex",
+        "assetName": "Ontology",
+        "assetArcId": "AMB:ONT000000237",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ont_usdt",
+        "instrumentType": "spot"
+    }
+]

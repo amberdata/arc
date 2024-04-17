@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STG000000302_AMB:USD000000335",
+        "normalizedPair": "stg_usdt",
+        "normalizedSymbol": "stg",
+        "nativePair": "STGUSDT",
+        "exchange": "bybit",
+        "assetName": "Stargate Finance V1",
+        "assetArcId": "AMB:STG000000302",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "stg_usdt",
+        "instrumentType": "spot"
+    }
+]

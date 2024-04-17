@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RLY000000615_AMB:USD000000335",
+        "normalizedPair": "rly_usdt",
+        "normalizedSymbol": "rly",
+        "nativePair": "rlyusdt",
+        "exchange": "huobi",
+        "assetName": "Rally",
+        "assetArcId": "AMB:RLY000000615",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rly_usdt",
+        "instrumentType": "spot"
+    }
+]

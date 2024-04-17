@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:LPT000000196_AMB:BNB000000055",
+        "normalizedPair": "lpt_bnb",
+        "normalizedSymbol": "lpt",
+        "nativePair": "LPTBNB",
+        "exchange": "binance",
+        "assetName": "Livepeer",
+        "assetArcId": "AMB:LPT000000196",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "lpt_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LPT000000196_AMB:BTC000000000",
+        "normalizedPair": "lpt_btc",
+        "normalizedSymbol": "lpt",
+        "nativePair": "LPTBTC",
+        "exchange": "binance",
+        "assetName": "Livepeer",
+        "assetArcId": "AMB:LPT000000196",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "lpt_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LPT000000196_AMB:BUS000000067",
+        "normalizedPair": "lpt_busd",
+        "normalizedSymbol": "lpt",
+        "nativePair": "LPTBUSD",
+        "exchange": "binance",
+        "assetName": "Livepeer",
+        "assetArcId": "AMB:LPT000000196",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "lpt_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LPT000000196_AMB:TRY000000940",
+        "normalizedPair": "lpt_try",
+        "normalizedSymbol": "lpt",
+        "nativePair": "LPTTRY",
+        "exchange": "binance",
+        "assetName": "Livepeer",
+        "assetArcId": "AMB:LPT000000196",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "lpt_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LPT000000196_AMB:USD000000335",
+        "normalizedPair": "lpt_usdt",
+        "normalizedSymbol": "lpt",
+        "nativePair": "LPTUSDT",
+        "exchange": "binance",
+        "assetName": "Livepeer",
+        "assetArcId": "AMB:LPT000000196",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lpt_usdt",
+        "instrumentType": "spot"
+    }
+]

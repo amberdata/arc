@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GRA000000692_AMB:USD000000335",
+        "normalizedPair": "grail_usdt",
+        "normalizedSymbol": "grail",
+        "nativePair": "GRAIL_USDT",
+        "exchange": "poloniex",
+        "assetName": "Camelot Token",
+        "assetArcId": "AMB:GRA000000692",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "grail_usdt",
+        "instrumentType": "spot"
+    }
+]

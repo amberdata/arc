@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NAB000001972_AMB:USD000000335",
+        "normalizedPair": "nabox_usdt",
+        "normalizedSymbol": "nabox",
+        "nativePair": "NABOXUSDT",
+        "exchange": "mexc",
+        "assetName": "Nabox",
+        "assetArcId": "AMB:NAB000001972",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nabox_usdt",
+        "instrumentType": "spot"
+    }
+]

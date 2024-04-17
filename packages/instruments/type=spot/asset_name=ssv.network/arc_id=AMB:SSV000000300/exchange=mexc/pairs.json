@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SSV000000300_AMB:USD000000335",
+        "normalizedPair": "ssv_usdt",
+        "normalizedSymbol": "ssv",
+        "nativePair": "SSVUSDT",
+        "exchange": "mexc",
+        "assetName": "ssv.network",
+        "assetArcId": "AMB:SSV000000300",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ssv_usdt",
+        "instrumentType": "spot"
+    }
+]

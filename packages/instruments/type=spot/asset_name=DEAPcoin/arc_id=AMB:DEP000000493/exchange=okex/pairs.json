@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DEP000000493_AMB:USD000000335",
+        "normalizedPair": "dep_usdt",
+        "normalizedSymbol": "dep",
+        "nativePair": "DEP-USDT",
+        "exchange": "okex",
+        "assetName": "DEAPcoin",
+        "assetArcId": "AMB:DEP000000493",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dep_usdt",
+        "instrumentType": "spot"
+    }
+]

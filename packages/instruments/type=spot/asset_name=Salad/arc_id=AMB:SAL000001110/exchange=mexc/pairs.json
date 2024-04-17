@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAL000001110_AMB:USD000000335",
+        "normalizedPair": "sald_usdt",
+        "normalizedSymbol": "sald",
+        "nativePair": "SALDUSDT",
+        "exchange": "mexc",
+        "assetName": "Salad",
+        "assetArcId": "AMB:SAL000001110",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sald_usdt",
+        "instrumentType": "spot"
+    }
+]

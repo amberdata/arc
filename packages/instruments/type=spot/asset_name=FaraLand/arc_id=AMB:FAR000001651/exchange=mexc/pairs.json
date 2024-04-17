@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FAR000001651_AMB:USD000000335",
+        "normalizedPair": "fara_usdt",
+        "normalizedSymbol": "fara",
+        "nativePair": "FARAUSDT",
+        "exchange": "mexc",
+        "assetName": "FaraLand",
+        "assetArcId": "AMB:FAR000001651",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fara_usdt",
+        "instrumentType": "spot"
+    }
+]

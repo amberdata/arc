@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:KSM000000187_AMB:USD000000333",
+        "normalizedPair": "ksm_usdc",
+        "normalizedSymbol": "ksm",
+        "nativePair": "KSM-USDC",
+        "exchange": "okex",
+        "assetName": "Kusama",
+        "assetArcId": "AMB:KSM000000187",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "ksm_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KSM000000187_AMB:USD000000335",
+        "normalizedPair": "ksm_usdt",
+        "normalizedSymbol": "ksm",
+        "nativePair": "KSM-USDT",
+        "exchange": "okex",
+        "assetName": "Kusama",
+        "assetArcId": "AMB:KSM000000187",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ksm_usdt",
+        "instrumentType": "spot"
+    }
+]

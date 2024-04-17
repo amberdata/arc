@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:LPT000000196_AMB:BTC000000000",
+        "normalizedPair": "lpt_btc",
+        "normalizedSymbol": "lpt",
+        "nativePair": "LPTXBT",
+        "exchange": "kraken",
+        "assetName": "Livepeer",
+        "assetArcId": "AMB:LPT000000196",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "lpt_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LPT000000196_AMB:EUR000000120",
+        "normalizedPair": "lpt_eur",
+        "normalizedSymbol": "lpt",
+        "nativePair": "LPTEUR",
+        "exchange": "kraken",
+        "assetName": "Livepeer",
+        "assetArcId": "AMB:LPT000000196",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "lpt_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LPT000000196_AMB:GBP000000144",
+        "normalizedPair": "lpt_gbp",
+        "normalizedSymbol": "lpt",
+        "nativePair": "LPTGBP",
+        "exchange": "kraken",
+        "assetName": "Livepeer",
+        "assetArcId": "AMB:LPT000000196",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "lpt_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LPT000000196_AMB:USD000000949",
+        "normalizedPair": "lpt_usd",
+        "normalizedSymbol": "lpt",
+        "nativePair": "LPTUSD",
+        "exchange": "kraken",
+        "assetName": "Livepeer",
+        "assetArcId": "AMB:LPT000000196",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "lpt_usd",
+        "instrumentType": "spot"
+    }
+]

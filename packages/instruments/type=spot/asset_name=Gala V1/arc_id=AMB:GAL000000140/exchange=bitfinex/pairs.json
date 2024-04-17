@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:GAL000000140_AMB:USD000000949",
+        "normalizedPair": "gala_usd",
+        "normalizedSymbol": "gala",
+        "nativePair": "tGALA:USD",
+        "exchange": "bitfinex",
+        "assetName": "Gala V1",
+        "assetArcId": "AMB:GAL000000140",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "gala_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GAL000000140_AMB:USD000000335",
+        "normalizedPair": "gala_usdt",
+        "normalizedSymbol": "gala",
+        "nativePair": "tGALA:UST",
+        "exchange": "bitfinex",
+        "assetName": "Gala V1",
+        "assetArcId": "AMB:GAL000000140",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gala_usdt",
+        "instrumentType": "spot"
+    }
+]

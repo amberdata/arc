@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZBC000000609_AMB:USD000000335",
+        "normalizedPair": "zbc_usdt",
+        "normalizedSymbol": "zbc",
+        "nativePair": "ZBC-USDT",
+        "exchange": "okex",
+        "assetName": "Zebec Protocol",
+        "assetArcId": "AMB:ZBC000000609",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zbc_usdt",
+        "instrumentType": "spot"
+    }
+]

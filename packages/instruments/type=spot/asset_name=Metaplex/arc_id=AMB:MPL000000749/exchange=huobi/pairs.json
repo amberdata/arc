@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MPL000000749_AMB:USD000000335",
+        "normalizedPair": "mplx_usdt",
+        "normalizedSymbol": "mplx",
+        "nativePair": "mplxusdt",
+        "exchange": "huobi",
+        "assetName": "Metaplex",
+        "assetArcId": "AMB:MPL000000749",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mplx_usdt",
+        "instrumentType": "spot"
+    }
+]

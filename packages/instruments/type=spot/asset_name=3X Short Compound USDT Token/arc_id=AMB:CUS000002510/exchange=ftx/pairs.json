@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:CUS000002510_AMB:USD000000949",
+        "normalizedPair": "cusdtbear_usd",
+        "normalizedSymbol": "cusdtbear",
+        "nativePair": "CUSDTBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short Compound USDT Token",
+        "assetArcId": "AMB:CUS000002510",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "cusdtbear_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CUS000002510_AMB:USD000000335",
+        "normalizedPair": "cusdtbear_usdt",
+        "normalizedSymbol": "cusdtbear",
+        "nativePair": "CUSDTBEAR/USDT",
+        "exchange": "ftx",
+        "assetName": "3X Short Compound USDT Token",
+        "assetArcId": "AMB:CUS000002510",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cusdtbear_usdt",
+        "instrumentType": "spot"
+    }
+]

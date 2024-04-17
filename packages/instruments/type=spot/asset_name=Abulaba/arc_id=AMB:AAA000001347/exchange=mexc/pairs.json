@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AAA000001347_AMB:USD000000335",
+        "normalizedPair": "aaa_usdt",
+        "normalizedSymbol": "aaa",
+        "nativePair": "AAAUSDT",
+        "exchange": "mexc",
+        "assetName": "Abulaba",
+        "assetArcId": "AMB:AAA000001347",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aaa_usdt",
+        "instrumentType": "spot"
+    }
+]

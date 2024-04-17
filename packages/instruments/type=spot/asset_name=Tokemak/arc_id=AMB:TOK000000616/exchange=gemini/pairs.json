@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOK000000616_AMB:USD000000949",
+        "normalizedPair": "toke_usd",
+        "normalizedSymbol": "toke",
+        "nativePair": "tokeusd",
+        "exchange": "gemini",
+        "assetName": "Tokemak",
+        "assetArcId": "AMB:TOK000000616",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "toke_usd",
+        "instrumentType": "spot"
+    }
+]

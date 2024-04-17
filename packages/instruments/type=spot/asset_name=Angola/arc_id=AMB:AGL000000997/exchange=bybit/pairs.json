@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AGL000000997_AMB:USD000000335",
+        "normalizedPair": "agla_usdt",
+        "normalizedSymbol": "agla",
+        "nativePair": "AGLAUSDT",
+        "exchange": "bybit",
+        "assetName": "Angola",
+        "assetArcId": "AMB:AGL000000997",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "agla_usdt",
+        "instrumentType": "spot"
+    }
+]

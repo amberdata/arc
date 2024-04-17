@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NUM000000766_AMB:USD000000335",
+        "normalizedPair": "num_usdt",
+        "normalizedSymbol": "num",
+        "nativePair": "numusdt",
+        "exchange": "huobi",
+        "assetName": "Numbers Protocol",
+        "assetArcId": "AMB:NUM000000766",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "num_usdt",
+        "instrumentType": "spot"
+    }
+]

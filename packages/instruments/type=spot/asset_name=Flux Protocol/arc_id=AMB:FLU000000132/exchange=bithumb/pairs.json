@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FLU000000132_AMB:KRW000000000",
+        "normalizedPair": "flux_krw",
+        "normalizedSymbol": "flux",
+        "nativePair": "FLUX/KRW",
+        "exchange": "bithumb",
+        "assetName": "Flux Protocol",
+        "assetArcId": "AMB:FLU000000132",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "flux_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BWO000000647_AMB:USD000000335",
+        "normalizedPair": "bwo_usdt",
+        "normalizedSymbol": "bwo",
+        "nativePair": "bwousdt",
+        "exchange": "huobi",
+        "assetName": "Battle World",
+        "assetArcId": "AMB:BWO000000647",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bwo_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AMD000001395_AMB:USD000000949",
+        "normalizedPair": "amd.amb.1_usd",
+        "normalizedSymbol": "amd.amb.1",
+        "nativePair": "AMD/USD",
+        "exchange": "ftx",
+        "assetName": "Advanced Micro Devices",
+        "assetArcId": "AMB:AMD000001395",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "amd_usd",
+        "instrumentType": "spot"
+    }
+]

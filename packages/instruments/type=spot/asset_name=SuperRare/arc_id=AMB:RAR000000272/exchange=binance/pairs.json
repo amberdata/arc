@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:RAR000000272_AMB:BTC000000000",
+        "normalizedPair": "rare_btc",
+        "normalizedSymbol": "rare",
+        "nativePair": "RAREBTC",
+        "exchange": "binance",
+        "assetName": "SuperRare",
+        "assetArcId": "AMB:RAR000000272",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "rare_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RAR000000272_AMB:USD000000335",
+        "normalizedPair": "rare_usdt",
+        "normalizedSymbol": "rare",
+        "nativePair": "RAREUSDT",
+        "exchange": "binance",
+        "assetName": "SuperRare",
+        "assetArcId": "AMB:RAR000000272",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rare_usdt",
+        "instrumentType": "spot"
+    }
+]

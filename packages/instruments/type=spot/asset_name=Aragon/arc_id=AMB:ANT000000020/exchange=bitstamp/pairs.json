@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ANT000000020_AMB:EUR000000120",
+        "normalizedPair": "ant_eur",
+        "normalizedSymbol": "ant",
+        "nativePair": "anteur",
+        "exchange": "bitstamp",
+        "assetName": "Aragon",
+        "assetArcId": "AMB:ANT000000020",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "ant_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ANT000000020_AMB:USD000000949",
+        "normalizedPair": "ant_usd",
+        "normalizedSymbol": "ant",
+        "nativePair": "antusd",
+        "exchange": "bitstamp",
+        "assetName": "Aragon",
+        "assetArcId": "AMB:ANT000000020",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ant_usd",
+        "instrumentType": "spot"
+    }
+]

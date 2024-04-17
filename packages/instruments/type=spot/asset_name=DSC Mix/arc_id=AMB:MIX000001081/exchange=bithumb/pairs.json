@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MIX000001081_AMB:KRW000000000",
+        "normalizedPair": "mix_krw",
+        "normalizedSymbol": "mix",
+        "nativePair": "MIX/KRW",
+        "exchange": "bithumb",
+        "assetName": "DSC Mix",
+        "assetArcId": "AMB:MIX000001081",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "mix_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MBL000000210_AMB:USD000000335",
+        "normalizedPair": "mbl_usdt",
+        "normalizedSymbol": "mbl",
+        "nativePair": "mblusdt",
+        "exchange": "huobi",
+        "assetName": "MovieBloc",
+        "assetArcId": "AMB:MBL000000210",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mbl_usdt",
+        "instrumentType": "spot"
+    }
+]

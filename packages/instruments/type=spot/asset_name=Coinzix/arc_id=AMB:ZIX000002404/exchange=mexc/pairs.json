@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZIX000002404_AMB:USD000000335",
+        "normalizedPair": "zix_usdt",
+        "normalizedSymbol": "zix",
+        "nativePair": "ZIXUSDT",
+        "exchange": "mexc",
+        "assetName": "Coinzix",
+        "assetArcId": "AMB:ZIX000002404",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zix_usdt",
+        "instrumentType": "spot"
+    }
+]

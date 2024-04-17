@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:APD000001402_AMB:USD000000335",
+        "normalizedPair": "apd_usdt",
+        "normalizedSymbol": "apd",
+        "nativePair": "APDUSDT",
+        "exchange": "mexc",
+        "assetName": "Aptopad",
+        "assetArcId": "AMB:APD000001402",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "apd_usdt",
+        "instrumentType": "spot"
+    }
+]

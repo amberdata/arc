@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ANV000000623_AMB:USD000000335",
+        "normalizedPair": "anv_usdt",
+        "normalizedSymbol": "anv",
+        "nativePair": "anvusdt",
+        "exchange": "huobi",
+        "assetName": "ANIVERSE",
+        "assetArcId": "AMB:ANV000000623",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "anv_usdt",
+        "instrumentType": "spot"
+    }
+]

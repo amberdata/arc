@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:SKL000000294_AMB:BTC000000000",
+        "normalizedPair": "skl_btc",
+        "normalizedSymbol": "skl",
+        "nativePair": "SKL-BTC",
+        "exchange": "gdax",
+        "assetName": "SKALE",
+        "assetArcId": "AMB:SKL000000294",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "skl_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SKL000000294_AMB:EUR000000120",
+        "normalizedPair": "skl_eur",
+        "normalizedSymbol": "skl",
+        "nativePair": "SKL-EUR",
+        "exchange": "gdax",
+        "assetName": "SKALE",
+        "assetArcId": "AMB:SKL000000294",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "skl_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SKL000000294_AMB:GBP000000144",
+        "normalizedPair": "skl_gbp",
+        "normalizedSymbol": "skl",
+        "nativePair": "SKL-GBP",
+        "exchange": "gdax",
+        "assetName": "SKALE",
+        "assetArcId": "AMB:SKL000000294",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "skl_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SKL000000294_AMB:USD000000949",
+        "normalizedPair": "skl_usd",
+        "normalizedSymbol": "skl",
+        "nativePair": "SKL-USD",
+        "exchange": "gdax",
+        "assetName": "SKALE",
+        "assetArcId": "AMB:SKL000000294",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "skl_usd",
+        "instrumentType": "spot"
+    }
+]

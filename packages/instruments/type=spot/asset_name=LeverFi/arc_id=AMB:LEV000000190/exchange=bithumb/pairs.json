@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LEV000000190_AMB:KRW000000000",
+        "normalizedPair": "lever_krw",
+        "normalizedSymbol": "lever",
+        "nativePair": "LEVER/KRW",
+        "exchange": "bithumb",
+        "assetName": "LeverFi",
+        "assetArcId": "AMB:LEV000000190",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "lever_krw",
+        "instrumentType": "spot"
+    }
+]

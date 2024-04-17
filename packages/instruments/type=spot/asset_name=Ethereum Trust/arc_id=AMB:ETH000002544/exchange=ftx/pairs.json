@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETH000002544_AMB:USD000000949",
+        "normalizedPair": "ethe_usd",
+        "normalizedSymbol": "ethe",
+        "nativePair": "ETHE/USD",
+        "exchange": "ftx",
+        "assetName": "Ethereum Trust",
+        "assetArcId": "AMB:ETH000002544",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ethe_usd",
+        "instrumentType": "spot"
+    }
+]

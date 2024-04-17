@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DMT000001218_AMB:USD000000335",
+        "normalizedPair": "dmt_usdt",
+        "normalizedSymbol": "dmt",
+        "nativePair": "DMT_USDT",
+        "exchange": "poloniex",
+        "assetName": "Sanko Dream Machine",
+        "assetArcId": "AMB:DMT000001218",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dmt_usdt",
+        "instrumentType": "spot"
+    }
+]

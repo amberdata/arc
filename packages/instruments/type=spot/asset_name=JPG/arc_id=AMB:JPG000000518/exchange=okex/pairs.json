@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JPG000000518_AMB:USD000000335",
+        "normalizedPair": "jpg_usdt",
+        "normalizedSymbol": "jpg",
+        "nativePair": "JPG-USDT",
+        "exchange": "okex",
+        "assetName": "JPG",
+        "assetArcId": "AMB:JPG000000518",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jpg_usdt",
+        "instrumentType": "spot"
+    }
+]

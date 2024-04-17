@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RND000000281_AMB:KRW000000000",
+        "normalizedPair": "rndr_krw",
+        "normalizedSymbol": "rndr",
+        "nativePair": "RNDR/KRW",
+        "exchange": "bithumb",
+        "assetName": "Render",
+        "assetArcId": "AMB:RND000000281",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "rndr_krw",
+        "instrumentType": "spot"
+    }
+]

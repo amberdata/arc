@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:THE000000317_AMB:USD000000335",
+        "normalizedPair": "theta_usdt",
+        "normalizedSymbol": "theta",
+        "nativePair": "thetausdt",
+        "exchange": "huobi",
+        "assetName": "Theta Network",
+        "assetArcId": "AMB:THE000000317",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "theta_usdt",
+        "instrumentType": "spot"
+    }
+]

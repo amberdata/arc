@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OCE000000230_AMB:USD000000335",
+        "normalizedPair": "ocean_usdt",
+        "normalizedSymbol": "ocean",
+        "nativePair": "OCEANUSDT",
+        "exchange": "binanceus",
+        "assetName": "Ocean Protocol",
+        "assetArcId": "AMB:OCE000000230",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ocean_usdt",
+        "instrumentType": "spot"
+    }
+]

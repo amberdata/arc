@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:QKC000000266_AMB:USD000000335",
+        "normalizedPair": "qkc_usdt",
+        "normalizedSymbol": "qkc",
+        "nativePair": "QKCUSDT",
+        "exchange": "mexc",
+        "assetName": "QuarkChain",
+        "assetArcId": "AMB:QKC000000266",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "qkc_usdt",
+        "instrumentType": "spot"
+    }
+]

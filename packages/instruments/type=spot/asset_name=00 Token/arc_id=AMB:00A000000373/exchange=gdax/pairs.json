@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:00A000000373_AMB:USD000000949",
+        "normalizedPair": "00_usd",
+        "normalizedSymbol": "00",
+        "nativePair": "00-USD",
+        "exchange": "gdax",
+        "assetName": "00 Token",
+        "assetArcId": "AMB:00A000000373",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "00_usd",
+        "instrumentType": "spot"
+    }
+]

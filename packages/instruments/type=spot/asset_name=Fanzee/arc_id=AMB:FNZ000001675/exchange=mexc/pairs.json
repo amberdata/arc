@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FNZ000001675_AMB:USD000000335",
+        "normalizedPair": "fnz_usdt",
+        "normalizedSymbol": "fnz",
+        "nativePair": "FNZUSDT",
+        "exchange": "mexc",
+        "assetName": "Fanzee",
+        "assetArcId": "AMB:FNZ000001675",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fnz_usdt",
+        "instrumentType": "spot"
+    }
+]

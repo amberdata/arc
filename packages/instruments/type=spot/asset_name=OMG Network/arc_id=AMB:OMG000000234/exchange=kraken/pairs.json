@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:OMG000000234_AMB:BTC000000000",
+        "normalizedPair": "omg_btc",
+        "normalizedSymbol": "omg",
+        "nativePair": "OMGXBT",
+        "exchange": "kraken",
+        "assetName": "OMG Network",
+        "assetArcId": "AMB:OMG000000234",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "omg_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OMG000000234_AMB:ETH000000000",
+        "normalizedPair": "omg_eth",
+        "normalizedSymbol": "omg",
+        "nativePair": "OMGETH",
+        "exchange": "kraken",
+        "assetName": "OMG Network",
+        "assetArcId": "AMB:OMG000000234",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "omg_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OMG000000234_AMB:EUR000000120",
+        "normalizedPair": "omg_eur",
+        "normalizedSymbol": "omg",
+        "nativePair": "OMGEUR",
+        "exchange": "kraken",
+        "assetName": "OMG Network",
+        "assetArcId": "AMB:OMG000000234",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "omg_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OMG000000234_AMB:JPY000000903",
+        "normalizedPair": "omg_jpy",
+        "normalizedSymbol": "omg",
+        "nativePair": "OMGJPY",
+        "exchange": "kraken",
+        "assetName": "OMG Network",
+        "assetArcId": "AMB:OMG000000234",
+        "quoteArcId": "AMB:JPY000000903",
+        "collectedPair": "omg_jpy",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OMG000000234_AMB:USD000000949",
+        "normalizedPair": "omg_usd",
+        "normalizedSymbol": "omg",
+        "nativePair": "OMGUSD",
+        "exchange": "kraken",
+        "assetName": "OMG Network",
+        "assetArcId": "AMB:OMG000000234",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "omg_usd",
+        "instrumentType": "spot"
+    }
+]

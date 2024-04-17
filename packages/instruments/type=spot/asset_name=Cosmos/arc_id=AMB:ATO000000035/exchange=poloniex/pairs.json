@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:BTC000000000",
+        "normalizedPair": "atom_btc",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOM_BTC",
+        "exchange": "poloniex",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "atom_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:USD000000333",
+        "normalizedPair": "atom_usdc",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOM_USDC",
+        "exchange": "poloniex",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "atom_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:USD000000335",
+        "normalizedPair": "atom_usdt",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOM_USDT",
+        "exchange": "poloniex",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "atom_usdt",
+        "instrumentType": "spot"
+    }
+]

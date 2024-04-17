@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TFU000000316_AMB:KRW000000000",
+        "normalizedPair": "tfuel_krw",
+        "normalizedSymbol": "tfuel",
+        "nativePair": "TFUEL/KRW",
+        "exchange": "bithumb",
+        "assetName": "Theta Fuel",
+        "assetArcId": "AMB:TFU000000316",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "tfuel_krw",
+        "instrumentType": "spot"
+    }
+]

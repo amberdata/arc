@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DIC000001022_AMB:BTC000000000",
+        "normalizedPair": "dice_btc",
+        "normalizedSymbol": "dice",
+        "nativePair": "DICE/BTC",
+        "exchange": "bithumb",
+        "assetName": "KLAYDICE",
+        "assetArcId": "AMB:DIC000001022",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "dice_btc",
+        "instrumentType": "spot"
+    }
+]

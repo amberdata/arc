@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FNF000001674_AMB:USD000000335",
+        "normalizedPair": "fnf_usdt",
+        "normalizedSymbol": "fnf",
+        "nativePair": "FNFUSDT",
+        "exchange": "mexc",
+        "assetName": "FunFi",
+        "assetArcId": "AMB:FNF000001674",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fnf_usdt",
+        "instrumentType": "spot"
+    }
+]

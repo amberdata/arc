@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAF000002112_AMB:USD000000335",
+        "normalizedPair": "raft_usdt",
+        "normalizedSymbol": "raft",
+        "nativePair": "RAFTUSDT",
+        "exchange": "mexc",
+        "assetName": "Raft",
+        "assetArcId": "AMB:RAF000002112",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "raft_usdt",
+        "instrumentType": "spot"
+    }
+]

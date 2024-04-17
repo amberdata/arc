@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COT000000082_AMB:USD000000335",
+        "normalizedPair": "coti_usdt",
+        "normalizedSymbol": "coti",
+        "nativePair": "COTIUSDT",
+        "exchange": "mexc",
+        "assetName": "COTI",
+        "assetArcId": "AMB:COT000000082",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "coti_usdt",
+        "instrumentType": "spot"
+    }
+]

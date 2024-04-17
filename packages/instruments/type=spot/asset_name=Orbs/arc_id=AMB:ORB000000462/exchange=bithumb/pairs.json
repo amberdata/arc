@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ORB000000462_AMB:KRW000000000",
+        "normalizedPair": "orbs_krw",
+        "normalizedSymbol": "orbs",
+        "nativePair": "ORBS/KRW",
+        "exchange": "bithumb",
+        "assetName": "Orbs",
+        "assetArcId": "AMB:ORB000000462",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "orbs_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XTO000001339_AMB:USD000000335",
+        "normalizedPair": "xtoken_usdt",
+        "normalizedSymbol": "xtoken",
+        "nativePair": "XTOKEN_USDT",
+        "exchange": "poloniex",
+        "assetName": "Xerc20",
+        "assetArcId": "AMB:XTO000001339",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xtoken_usdt",
+        "instrumentType": "spot"
+    }
+]

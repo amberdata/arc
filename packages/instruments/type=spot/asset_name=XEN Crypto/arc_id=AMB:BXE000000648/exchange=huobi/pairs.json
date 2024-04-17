@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BXE000000648_AMB:USD000000335",
+        "normalizedPair": "bxen_usdt",
+        "normalizedSymbol": "bxen",
+        "nativePair": "bxenusdt",
+        "exchange": "huobi",
+        "assetName": "XEN Crypto",
+        "assetArcId": "AMB:BXE000000648",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bxen_usdt",
+        "instrumentType": "spot"
+    }
+]

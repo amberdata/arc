@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MLT000001931_AMB:USD000000335",
+        "normalizedPair": "mlt_usdt",
+        "normalizedSymbol": "mlt",
+        "nativePair": "MLTUSDT",
+        "exchange": "mexc",
+        "assetName": "MILC Platform",
+        "assetArcId": "AMB:MLT000001931",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mlt_usdt",
+        "instrumentType": "spot"
+    }
+]

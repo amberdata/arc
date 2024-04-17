@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAT000002597_AMB:USD000000949",
+        "normalizedPair": "maticbear2021_usd",
+        "normalizedSymbol": "maticbear2021",
+        "nativePair": "MATICBEAR2021/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short MATIC Token",
+        "assetArcId": "AMB:MAT000002597",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "maticbear2021_usd",
+        "instrumentType": "spot"
+    }
+]

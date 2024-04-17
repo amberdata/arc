@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAF000001887_AMB:USD000000335",
+        "normalizedPair": "maf_usdt",
+        "normalizedSymbol": "maf",
+        "nativePair": "MAFUSDT",
+        "exchange": "mexc",
+        "assetName": "MetaMAFIA",
+        "assetArcId": "AMB:MAF000001887",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "maf_usdt",
+        "instrumentType": "spot"
+    }
+]

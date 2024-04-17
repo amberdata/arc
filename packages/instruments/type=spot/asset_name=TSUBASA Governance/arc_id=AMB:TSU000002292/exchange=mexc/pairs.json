@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TSU000002292_AMB:USD000000335",
+        "normalizedPair": "tsugt_usdt",
+        "normalizedSymbol": "tsugt",
+        "nativePair": "TSUGTUSDT",
+        "exchange": "mexc",
+        "assetName": "TSUBASA Governance",
+        "assetArcId": "AMB:TSU000002292",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tsugt_usdt",
+        "instrumentType": "spot"
+    }
+]

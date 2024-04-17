@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRA000001567_AMB:USD000000335",
+        "normalizedPair": "cr_usdt",
+        "normalizedSymbol": "cr",
+        "nativePair": "CRUSDT",
+        "exchange": "mexc",
+        "assetName": "Crypto Rangers",
+        "assetArcId": "AMB:CRA000001567",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cr_usdt",
+        "instrumentType": "spot"
+    }
+]

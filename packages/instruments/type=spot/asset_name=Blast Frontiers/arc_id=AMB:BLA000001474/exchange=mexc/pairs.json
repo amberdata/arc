@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BLA000001474_AMB:USD000000335",
+        "normalizedPair": "blast_usdt",
+        "normalizedSymbol": "blast",
+        "nativePair": "BLASTUSDT",
+        "exchange": "mexc",
+        "assetName": "Blast Frontiers",
+        "assetArcId": "AMB:BLA000001474",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "blast_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAT000000208_AMB:KRW000000000",
+        "normalizedPair": "matic_krw",
+        "normalizedSymbol": "matic",
+        "nativePair": "MATIC/KRW",
+        "exchange": "bithumb",
+        "assetName": "Polygon",
+        "assetArcId": "AMB:MAT000000208",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "matic_krw",
+        "instrumentType": "spot"
+    }
+]

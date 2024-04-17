@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:ALP000000016_AMB:BTC000000000",
+        "normalizedPair": "alpine_btc",
+        "normalizedSymbol": "alpine",
+        "nativePair": "ALPINEBTC",
+        "exchange": "binance",
+        "assetName": "Alpine F1 Team Fan Token",
+        "assetArcId": "AMB:ALP000000016",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "alpine_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALP000000016_AMB:EUR000000120",
+        "normalizedPair": "alpine_eur",
+        "normalizedSymbol": "alpine",
+        "nativePair": "ALPINEEUR",
+        "exchange": "binance",
+        "assetName": "Alpine F1 Team Fan Token",
+        "assetArcId": "AMB:ALP000000016",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "alpine_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALP000000016_AMB:TRY000000940",
+        "normalizedPair": "alpine_try",
+        "normalizedSymbol": "alpine",
+        "nativePair": "ALPINETRY",
+        "exchange": "binance",
+        "assetName": "Alpine F1 Team Fan Token",
+        "assetArcId": "AMB:ALP000000016",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "alpine_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALP000000016_AMB:USD000000335",
+        "normalizedPair": "alpine_usdt",
+        "normalizedSymbol": "alpine",
+        "nativePair": "ALPINEUSDT",
+        "exchange": "binance",
+        "assetName": "Alpine F1 Team Fan Token",
+        "assetArcId": "AMB:ALP000000016",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "alpine_usdt",
+        "instrumentType": "spot"
+    }
+]

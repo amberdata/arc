@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AST000001415_AMB:USD000000335",
+        "normalizedPair": "asto_usdt",
+        "normalizedSymbol": "asto",
+        "nativePair": "ASTOUSDT",
+        "exchange": "mexc",
+        "assetName": "Altered State Token",
+        "assetArcId": "AMB:AST000001415",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "asto_usdt",
+        "instrumentType": "spot"
+    }
+]

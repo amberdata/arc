@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KWE000001159_AMB:BTC000000000",
+        "normalizedPair": "kwenta_btc",
+        "normalizedSymbol": "kwenta",
+        "nativePair": "KWENTA/BTC",
+        "exchange": "bithumb",
+        "assetName": "Kwenta",
+        "assetArcId": "AMB:KWE000001159",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "kwenta_btc",
+        "instrumentType": "spot"
+    }
+]

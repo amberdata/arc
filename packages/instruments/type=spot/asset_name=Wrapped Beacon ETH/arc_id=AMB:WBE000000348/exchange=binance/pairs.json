@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:WBE000000348_AMB:ETH000000000",
+        "normalizedPair": "wbeth_eth",
+        "normalizedSymbol": "wbeth",
+        "nativePair": "WBETHETH",
+        "exchange": "binance",
+        "assetName": "Wrapped Beacon ETH",
+        "assetArcId": "AMB:WBE000000348",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "wbeth_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WBE000000348_AMB:USD000000335",
+        "normalizedPair": "wbeth_usdt",
+        "normalizedSymbol": "wbeth",
+        "nativePair": "WBETHUSDT",
+        "exchange": "binance",
+        "assetName": "Wrapped Beacon ETH",
+        "assetArcId": "AMB:WBE000000348",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wbeth_usdt",
+        "instrumentType": "spot"
+    }
+]

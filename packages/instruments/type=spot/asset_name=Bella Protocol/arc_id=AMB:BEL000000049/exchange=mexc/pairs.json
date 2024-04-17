@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BEL000000049_AMB:USD000000335",
+        "normalizedPair": "bel_usdt",
+        "normalizedSymbol": "bel",
+        "nativePair": "BELUSDT",
+        "exchange": "mexc",
+        "assetName": "Bella Protocol",
+        "assetArcId": "AMB:BEL000000049",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bel_usdt",
+        "instrumentType": "spot"
+    }
+]

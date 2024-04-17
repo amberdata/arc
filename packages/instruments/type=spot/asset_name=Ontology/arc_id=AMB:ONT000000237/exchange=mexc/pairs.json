@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ONT000000237_AMB:BTC000000000",
+        "normalizedPair": "ont_btc",
+        "normalizedSymbol": "ont",
+        "nativePair": "ONTBTC",
+        "exchange": "mexc",
+        "assetName": "Ontology",
+        "assetArcId": "AMB:ONT000000237",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ont_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ONT000000237_AMB:USD000000335",
+        "normalizedPair": "ont_usdt",
+        "normalizedSymbol": "ont",
+        "nativePair": "ONTUSDT",
+        "exchange": "mexc",
+        "assetName": "Ontology",
+        "assetArcId": "AMB:ONT000000237",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ont_usdt",
+        "instrumentType": "spot"
+    }
+]

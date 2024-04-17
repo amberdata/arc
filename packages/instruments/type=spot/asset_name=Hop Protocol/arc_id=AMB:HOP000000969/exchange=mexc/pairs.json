@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:HOP000000969_AMB:USD000000333",
+        "normalizedPair": "hop_usdc",
+        "normalizedSymbol": "hop",
+        "nativePair": "HOPUSDC",
+        "exchange": "mexc",
+        "assetName": "Hop Protocol",
+        "assetArcId": "AMB:HOP000000969",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "hop_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:HOP000000969_AMB:USD000000335",
+        "normalizedPair": "hop_usdt",
+        "normalizedSymbol": "hop",
+        "nativePair": "HOPUSDT",
+        "exchange": "mexc",
+        "assetName": "Hop Protocol",
+        "assetArcId": "AMB:HOP000000969",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hop_usdt",
+        "instrumentType": "spot"
+    }
+]

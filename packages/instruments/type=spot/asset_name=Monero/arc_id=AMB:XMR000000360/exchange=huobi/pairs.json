@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XMR000000360_AMB:USD000000335",
+        "normalizedPair": "xmr_usdt",
+        "normalizedSymbol": "xmr",
+        "nativePair": "xmrusdt",
+        "exchange": "huobi",
+        "assetName": "Monero",
+        "assetArcId": "AMB:XMR000000360",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xmr_usdt",
+        "instrumentType": "spot"
+    }
+]

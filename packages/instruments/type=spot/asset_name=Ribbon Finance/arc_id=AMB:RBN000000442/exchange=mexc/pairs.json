@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RBN000000442_AMB:USD000000335",
+        "normalizedPair": "rbn_usdt",
+        "normalizedSymbol": "rbn",
+        "nativePair": "RBNUSDT",
+        "exchange": "mexc",
+        "assetName": "Ribbon Finance",
+        "assetArcId": "AMB:RBN000000442",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rbn_usdt",
+        "instrumentType": "spot"
+    }
+]

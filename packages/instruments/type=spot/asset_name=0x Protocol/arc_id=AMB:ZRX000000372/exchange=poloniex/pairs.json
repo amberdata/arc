@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:ZRX000000372_AMB:BTC000000000",
+        "normalizedPair": "zrx_btc",
+        "normalizedSymbol": "zrx",
+        "nativePair": "ZRX_BTC",
+        "exchange": "poloniex",
+        "assetName": "0x Protocol",
+        "assetArcId": "AMB:ZRX000000372",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "zrx_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ZRX000000372_AMB:ETH000000000",
+        "normalizedPair": "zrx_eth",
+        "normalizedSymbol": "zrx",
+        "nativePair": "ZRX_ETH",
+        "exchange": "poloniex",
+        "assetName": "0x Protocol",
+        "assetArcId": "AMB:ZRX000000372",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "zrx_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ZRX000000372_AMB:USD000000335",
+        "normalizedPair": "zrx_usdt",
+        "normalizedSymbol": "zrx",
+        "nativePair": "ZRX_USDT",
+        "exchange": "poloniex",
+        "assetName": "0x Protocol",
+        "assetArcId": "AMB:ZRX000000372",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zrx_usdt",
+        "instrumentType": "spot"
+    }
+]

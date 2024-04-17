@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SER000002167_AMB:USD000000335",
+        "normalizedPair": "serp_usdt",
+        "normalizedSymbol": "serp",
+        "nativePair": "SERPUSDT",
+        "exchange": "mexc",
+        "assetName": "Shibarium Perpetuals",
+        "assetArcId": "AMB:SER000002167",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "serp_usdt",
+        "instrumentType": "spot"
+    }
+]

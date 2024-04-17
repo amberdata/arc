@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VEM000000844_AMB:USD000000335",
+        "normalizedPair": "vemp_usdt",
+        "normalizedSymbol": "vemp",
+        "nativePair": "vempusdt",
+        "exchange": "huobi",
+        "assetName": "vEmpire DDAO",
+        "assetArcId": "AMB:VEM000000844",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vemp_usdt",
+        "instrumentType": "spot"
+    }
+]

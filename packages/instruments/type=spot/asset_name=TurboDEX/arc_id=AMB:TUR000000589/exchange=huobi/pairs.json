@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TUR000000589_AMB:USD000000335",
+        "normalizedPair": "turbo_usdt",
+        "normalizedSymbol": "turbo",
+        "nativePair": "turbousdt",
+        "exchange": "huobi",
+        "assetName": "TurboDEX",
+        "assetArcId": "AMB:TUR000000589",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "turbo_usdt",
+        "instrumentType": "spot"
+    }
+]

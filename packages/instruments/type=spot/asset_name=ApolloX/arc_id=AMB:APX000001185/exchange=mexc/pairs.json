@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:APX000001185_AMB:USD000000335",
+        "normalizedPair": "apx_usdt",
+        "normalizedSymbol": "apx",
+        "nativePair": "APXUSDT",
+        "exchange": "mexc",
+        "assetName": "ApolloX",
+        "assetArcId": "AMB:APX000001185",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "apx_usdt",
+        "instrumentType": "spot"
+    }
+]

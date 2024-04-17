@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PAR000002043_AMB:USD000000335",
+        "normalizedPair": "parma_usdt",
+        "normalizedSymbol": "parma",
+        "nativePair": "PARMAUSDT",
+        "exchange": "mexc",
+        "assetName": "PARMA Fan Token",
+        "assetArcId": "AMB:PAR000002043",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "parma_usdt",
+        "instrumentType": "spot"
+    }
+]

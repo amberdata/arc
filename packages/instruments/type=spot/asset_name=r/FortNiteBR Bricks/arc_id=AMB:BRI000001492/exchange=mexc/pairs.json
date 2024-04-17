@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BRI000001492_AMB:USD000000335",
+        "normalizedPair": "brick_usdt",
+        "normalizedSymbol": "brick",
+        "nativePair": "BRICKUSDT",
+        "exchange": "mexc",
+        "assetName": "r/FortNiteBR Bricks",
+        "assetArcId": "AMB:BRI000001492",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "brick_usdt",
+        "instrumentType": "spot"
+    }
+]

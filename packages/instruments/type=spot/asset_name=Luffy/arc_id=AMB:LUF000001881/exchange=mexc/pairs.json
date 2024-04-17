@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LUF000001881_AMB:USD000000335",
+        "normalizedPair": "luffy_usdt",
+        "normalizedSymbol": "luffy",
+        "nativePair": "LUFFYUSDT",
+        "exchange": "mexc",
+        "assetName": "Luffy",
+        "assetArcId": "AMB:LUF000001881",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "luffy_usdt",
+        "instrumentType": "spot"
+    }
+]

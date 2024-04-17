@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DFI000000661_AMB:USD000000335",
+        "normalizedPair": "dfi_usdt",
+        "normalizedSymbol": "dfi",
+        "nativePair": "dfiusdt",
+        "exchange": "huobi",
+        "assetName": "DeFiChain",
+        "assetArcId": "AMB:DFI000000661",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dfi_usdt",
+        "instrumentType": "spot"
+    }
+]

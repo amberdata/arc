@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:USD000000335_AMB:USD000000949",
+        "normalizedPair": "usdt_usd",
+        "normalizedSymbol": "usdt",
+        "nativePair": "usdt-usd",
+        "exchange": "lmax",
+        "assetName": "USDT",
+        "assetArcId": "AMB:USD000000335",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "usdt_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:USD000000335_AMB:USD000000333",
+        "normalizedPair": "usdt_usdc",
+        "normalizedSymbol": "usdt",
+        "nativePair": "usdt-usdc",
+        "exchange": "lmax",
+        "assetName": "USDT",
+        "assetArcId": "AMB:USD000000335",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "usdt_usdc",
+        "instrumentType": "spot"
+    }
+]

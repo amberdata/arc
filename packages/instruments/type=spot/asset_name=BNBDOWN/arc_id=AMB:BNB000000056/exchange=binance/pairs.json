@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BNB000000056_AMB:USD000000335",
+        "normalizedPair": "bnbdown_usdt",
+        "normalizedSymbol": "bnbdown",
+        "nativePair": "BNBDOWNUSDT",
+        "exchange": "binance",
+        "assetName": "BNBDOWN",
+        "assetArcId": "AMB:BNB000000056",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bnbdown_usdt",
+        "instrumentType": "spot"
+    }
+]

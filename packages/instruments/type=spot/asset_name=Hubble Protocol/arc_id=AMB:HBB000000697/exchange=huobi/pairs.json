@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HBB000000697_AMB:USD000000335",
+        "normalizedPair": "hbb_usdt",
+        "normalizedSymbol": "hbb",
+        "nativePair": "hbbusdt",
+        "exchange": "huobi",
+        "assetName": "Hubble Protocol",
+        "assetArcId": "AMB:HBB000000697",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hbb_usdt",
+        "instrumentType": "spot"
+    }
+]

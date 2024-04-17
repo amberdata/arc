@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EMG000001630_AMB:USD000000335",
+        "normalizedPair": "emgs_usdt",
+        "normalizedSymbol": "emgs",
+        "nativePair": "EMGSUSDT",
+        "exchange": "mexc",
+        "assetName": "EMG SuperApp",
+        "assetArcId": "AMB:EMG000001630",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "emgs_usdt",
+        "instrumentType": "spot"
+    }
+]

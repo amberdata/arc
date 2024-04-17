@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZBU000002398_AMB:USD000000335",
+        "normalizedPair": "zbu_usdt",
+        "normalizedSymbol": "zbu",
+        "nativePair": "ZBUUSDT",
+        "exchange": "mexc",
+        "assetName": "ZEEBU",
+        "assetArcId": "AMB:ZBU000002398",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zbu_usdt",
+        "instrumentType": "spot"
+    }
+]

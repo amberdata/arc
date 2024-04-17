@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LDO000000189_AMB:USD000000333",
+        "normalizedPair": "ldo_usdc",
+        "normalizedSymbol": "ldo",
+        "nativePair": "LDOUSDC",
+        "exchange": "bybit",
+        "assetName": "Lido DAO Token",
+        "assetArcId": "AMB:LDO000000189",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "ldo_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LDO000000189_AMB:USD000000335",
+        "normalizedPair": "ldo_usdt",
+        "normalizedSymbol": "ldo",
+        "nativePair": "LDOUSDT",
+        "exchange": "bybit",
+        "assetName": "Lido DAO Token",
+        "assetArcId": "AMB:LDO000000189",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ldo_usdt",
+        "instrumentType": "spot"
+    }
+]

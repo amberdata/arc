@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:P00000002034_AMB:USD000000335",
+        "normalizedPair": "p00ls_usdt",
+        "normalizedSymbol": "p00ls",
+        "nativePair": "P00LSUSDT",
+        "exchange": "mexc",
+        "assetName": "P00LS",
+        "assetArcId": "AMB:P00000002034",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "p00ls_usdt",
+        "instrumentType": "spot"
+    }
+]

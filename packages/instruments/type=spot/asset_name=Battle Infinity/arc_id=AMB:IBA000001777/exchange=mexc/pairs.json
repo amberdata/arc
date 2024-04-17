@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IBA000001777_AMB:USD000000335",
+        "normalizedPair": "ibat_usdt",
+        "normalizedSymbol": "ibat",
+        "nativePair": "IBATUSDT",
+        "exchange": "mexc",
+        "assetName": "Battle Infinity",
+        "assetArcId": "AMB:IBA000001777",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ibat_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EGL000000110_AMB:USD000000335",
+        "normalizedPair": "egld_usdt",
+        "normalizedSymbol": "egld",
+        "nativePair": "EGLDUSDT",
+        "exchange": "bybit",
+        "assetName": "MultiversX",
+        "assetArcId": "AMB:EGL000000110",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "egld_usdt",
+        "instrumentType": "spot"
+    }
+]

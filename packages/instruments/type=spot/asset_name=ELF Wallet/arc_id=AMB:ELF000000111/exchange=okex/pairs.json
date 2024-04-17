@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ELF000000111_AMB:USD000000335",
+        "normalizedPair": "elf_usdt",
+        "normalizedSymbol": "elf",
+        "nativePair": "ELF-USDT",
+        "exchange": "okex",
+        "assetName": "ELF Wallet",
+        "assetArcId": "AMB:ELF000000111",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "elf_usdt",
+        "instrumentType": "spot"
+    }
+]

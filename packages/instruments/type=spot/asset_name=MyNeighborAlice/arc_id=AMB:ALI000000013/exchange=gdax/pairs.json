@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALI000000013_AMB:USD000000949",
+        "normalizedPair": "alice_usd",
+        "normalizedSymbol": "alice",
+        "nativePair": "ALICE-USD",
+        "exchange": "gdax",
+        "assetName": "MyNeighborAlice",
+        "assetArcId": "AMB:ALI000000013",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "alice_usd",
+        "instrumentType": "spot"
+    }
+]

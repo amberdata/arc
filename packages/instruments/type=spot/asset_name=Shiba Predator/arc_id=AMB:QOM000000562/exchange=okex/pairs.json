@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:QOM000000562_AMB:USD000000335",
+        "normalizedPair": "qom_usdt",
+        "normalizedSymbol": "qom",
+        "nativePair": "QOM-USDT",
+        "exchange": "okex",
+        "assetName": "Shiba Predator",
+        "assetArcId": "AMB:QOM000000562",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "qom_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LBT000001855_AMB:BTC000000000",
+        "normalizedPair": "lbtc_btc",
+        "normalizedSymbol": "lbtc",
+        "nativePair": "LBTCBTC",
+        "exchange": "mexc",
+        "assetName": "Lightning Bitcoin",
+        "assetArcId": "AMB:LBT000001855",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "lbtc_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LBT000001855_AMB:USD000000335",
+        "normalizedPair": "lbtc_usdt",
+        "normalizedSymbol": "lbtc",
+        "nativePair": "LBTCUSDT",
+        "exchange": "mexc",
+        "assetName": "Lightning Bitcoin",
+        "assetArcId": "AMB:LBT000001855",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lbtc_usdt",
+        "instrumentType": "spot"
+    }
+]

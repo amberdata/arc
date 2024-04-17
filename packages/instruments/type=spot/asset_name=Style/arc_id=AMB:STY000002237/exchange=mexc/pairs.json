@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STY000002237_AMB:USD000000335",
+        "normalizedPair": "style_usdt",
+        "normalizedSymbol": "style",
+        "nativePair": "STYLEUSDT",
+        "exchange": "mexc",
+        "assetName": "Style",
+        "assetArcId": "AMB:STY000002237",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "style_usdt",
+        "instrumentType": "spot"
+    }
+]

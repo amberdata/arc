@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UNI000000332_AMB:USD000000335",
+        "normalizedPair": "uni_usdt",
+        "normalizedSymbol": "uni",
+        "nativePair": "UNIUSDT",
+        "exchange": "bybit",
+        "assetName": "Uniswap",
+        "assetArcId": "AMB:UNI000000332",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "uni_usdt",
+        "instrumentType": "spot"
+    }
+]

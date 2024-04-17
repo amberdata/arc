@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALI000000611_AMB:USD000000335",
+        "normalizedPair": "ali_usdt",
+        "normalizedSymbol": "ali",
+        "nativePair": "ALIUSDT",
+        "exchange": "mexc",
+        "assetName": "Alita Finance",
+        "assetArcId": "AMB:ALI000000611",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ali_usdt",
+        "instrumentType": "spot"
+    }
+]

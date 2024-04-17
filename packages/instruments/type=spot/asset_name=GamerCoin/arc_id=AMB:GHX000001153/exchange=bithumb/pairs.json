@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GHX000001153_AMB:KRW000000000",
+        "normalizedPair": "ghx_krw",
+        "normalizedSymbol": "ghx",
+        "nativePair": "GHX/KRW",
+        "exchange": "bithumb",
+        "assetName": "GamerCoin",
+        "assetArcId": "AMB:GHX000001153",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "ghx_krw",
+        "instrumentType": "spot"
+    }
+]

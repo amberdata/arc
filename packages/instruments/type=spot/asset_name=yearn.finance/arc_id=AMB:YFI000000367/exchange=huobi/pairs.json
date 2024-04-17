@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:YFI000000367_AMB:USD000000335",
+        "normalizedPair": "yfi_usdt",
+        "normalizedSymbol": "yfi",
+        "nativePair": "yfiusdt",
+        "exchange": "huobi",
+        "assetName": "yearn.finance",
+        "assetArcId": "AMB:YFI000000367",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "yfi_usdt",
+        "instrumentType": "spot"
+    }
+]

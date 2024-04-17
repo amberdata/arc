@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MOO000001951_AMB:USD000000335",
+        "normalizedPair": "moon_usdt",
+        "normalizedSymbol": "moon",
+        "nativePair": "MOONUSDT",
+        "exchange": "mexc",
+        "assetName": "r/CryptoCurrency Moons",
+        "assetArcId": "AMB:MOO000001951",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "moon_usdt",
+        "instrumentType": "spot"
+    }
+]

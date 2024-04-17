@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KCS000001252_AMB:USD000000335",
+        "normalizedPair": "kcs_usdt",
+        "normalizedSymbol": "kcs",
+        "nativePair": "KCSUSDT",
+        "exchange": "mexc",
+        "assetName": "KuCoin Token",
+        "assetArcId": "AMB:KCS000001252",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kcs_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:TRU000000324_AMB:BTC000000000",
+        "normalizedPair": "tru_btc",
+        "normalizedSymbol": "tru",
+        "nativePair": "TRU-BTC",
+        "exchange": "gdax",
+        "assetName": "TrueFi",
+        "assetArcId": "AMB:TRU000000324",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "tru_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TRU000000324_AMB:EUR000000120",
+        "normalizedPair": "tru_eur",
+        "normalizedSymbol": "tru",
+        "nativePair": "TRU-EUR",
+        "exchange": "gdax",
+        "assetName": "TrueFi",
+        "assetArcId": "AMB:TRU000000324",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "tru_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TRU000000324_AMB:USD000000949",
+        "normalizedPair": "tru_usd",
+        "normalizedSymbol": "tru",
+        "nativePair": "TRU-USD",
+        "exchange": "gdax",
+        "assetName": "TrueFi",
+        "assetArcId": "AMB:TRU000000324",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "tru_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TRU000000324_AMB:USD000000335",
+        "normalizedPair": "tru_usdt",
+        "normalizedSymbol": "tru",
+        "nativePair": "TRU-USDT",
+        "exchange": "gdax",
+        "assetName": "TrueFi",
+        "assetArcId": "AMB:TRU000000324",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tru_usdt",
+        "instrumentType": "spot"
+    }
+]

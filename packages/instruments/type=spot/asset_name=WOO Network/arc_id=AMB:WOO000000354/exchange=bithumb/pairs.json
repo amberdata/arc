@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WOO000000354_AMB:KRW000000000",
+        "normalizedPair": "woo_krw",
+        "normalizedSymbol": "woo",
+        "nativePair": "WOO/KRW",
+        "exchange": "bithumb",
+        "assetName": "WOO Network",
+        "assetArcId": "AMB:WOO000000354",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "woo_krw",
+        "instrumentType": "spot"
+    }
+]

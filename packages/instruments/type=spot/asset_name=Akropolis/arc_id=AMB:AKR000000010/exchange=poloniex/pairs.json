@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:AKR000000010_AMB:BTC000000000",
+        "normalizedPair": "akro_btc",
+        "normalizedSymbol": "akro",
+        "nativePair": "AKRO_BTC",
+        "exchange": "poloniex",
+        "assetName": "Akropolis",
+        "assetArcId": "AMB:AKR000000010",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "akro_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AKR000000010_AMB:USD000000335",
+        "normalizedPair": "akro_usdt",
+        "normalizedSymbol": "akro",
+        "nativePair": "AKRO_USDT",
+        "exchange": "poloniex",
+        "assetName": "Akropolis",
+        "assetArcId": "AMB:AKR000000010",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "akro_usdt",
+        "instrumentType": "spot"
+    }
+]

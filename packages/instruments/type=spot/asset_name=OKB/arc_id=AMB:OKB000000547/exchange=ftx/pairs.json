@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OKB000000547_AMB:USD000000949",
+        "normalizedPair": "okb_usd",
+        "normalizedSymbol": "okb",
+        "nativePair": "OKB/USD",
+        "exchange": "ftx",
+        "assetName": "OKB",
+        "assetArcId": "AMB:OKB000000547",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "okb_usd",
+        "instrumentType": "spot"
+    }
+]

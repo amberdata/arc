@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:WBT000000349_AMB:BTC000000000",
+        "normalizedPair": "wbtc_btc",
+        "normalizedSymbol": "wbtc",
+        "nativePair": "WBTCXBT",
+        "exchange": "kraken",
+        "assetName": "Wrapped Bitcoin",
+        "assetArcId": "AMB:WBT000000349",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "wbtc_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WBT000000349_AMB:EUR000000120",
+        "normalizedPair": "wbtc_eur",
+        "normalizedSymbol": "wbtc",
+        "nativePair": "WBTCEUR",
+        "exchange": "kraken",
+        "assetName": "Wrapped Bitcoin",
+        "assetArcId": "AMB:WBT000000349",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "wbtc_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WBT000000349_AMB:USD000000949",
+        "normalizedPair": "wbtc_usd",
+        "normalizedSymbol": "wbtc",
+        "nativePair": "WBTCUSD",
+        "exchange": "kraken",
+        "assetName": "Wrapped Bitcoin",
+        "assetArcId": "AMB:WBT000000349",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "wbtc_usd",
+        "instrumentType": "spot"
+    }
+]

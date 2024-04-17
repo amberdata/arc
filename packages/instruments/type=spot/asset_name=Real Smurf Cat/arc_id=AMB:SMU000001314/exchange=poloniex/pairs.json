@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SMU000001314_AMB:USD000000335",
+        "normalizedPair": "smurfcat_usdt",
+        "normalizedSymbol": "smurfcat",
+        "nativePair": "SMURFCAT_USDT",
+        "exchange": "poloniex",
+        "assetName": "Real Smurf Cat",
+        "assetArcId": "AMB:SMU000001314",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "smurfcat_usdt",
+        "instrumentType": "spot"
+    }
+]

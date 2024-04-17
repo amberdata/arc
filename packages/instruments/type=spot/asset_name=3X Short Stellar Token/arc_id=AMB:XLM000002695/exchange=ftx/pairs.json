@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XLM000002695_AMB:USD000000949",
+        "normalizedPair": "xlmbear_usd",
+        "normalizedSymbol": "xlmbear",
+        "nativePair": "XLMBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short Stellar Token",
+        "assetArcId": "AMB:XLM000002695",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xlmbear_usd",
+        "instrumentType": "spot"
+    }
+]

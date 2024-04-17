@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MLX000001933_AMB:USD000000335",
+        "normalizedPair": "mlxc_usdt",
+        "normalizedSymbol": "mlxc",
+        "nativePair": "MLXCUSDT",
+        "exchange": "mexc",
+        "assetName": "Marvellex Classic",
+        "assetArcId": "AMB:MLX000001933",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mlxc_usdt",
+        "instrumentType": "spot"
+    }
+]

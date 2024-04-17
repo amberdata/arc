@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NMR000000227_AMB:USD000000335",
+        "normalizedPair": "nmr_usdt",
+        "normalizedSymbol": "nmr",
+        "nativePair": "NMRUSDT",
+        "exchange": "binanceus",
+        "assetName": "Numeraire",
+        "assetArcId": "AMB:NMR000000227",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nmr_usdt",
+        "instrumentType": "spot"
+    }
+]

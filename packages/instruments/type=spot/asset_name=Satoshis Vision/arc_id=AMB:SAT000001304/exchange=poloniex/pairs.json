@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAT000001304_AMB:USD000000335",
+        "normalizedPair": "sats_usdt",
+        "normalizedSymbol": "sats",
+        "nativePair": "SATS_USDT",
+        "exchange": "poloniex",
+        "assetName": "Satoshis Vision",
+        "assetArcId": "AMB:SAT000001304",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sats_usdt",
+        "instrumentType": "spot"
+    }
+]

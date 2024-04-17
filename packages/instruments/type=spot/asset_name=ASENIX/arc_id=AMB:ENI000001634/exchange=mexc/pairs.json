@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ENI000001634_AMB:USD000000335",
+        "normalizedPair": "enix_usdt",
+        "normalizedSymbol": "enix",
+        "nativePair": "ENIXUSDT",
+        "exchange": "mexc",
+        "assetName": "ASENIX",
+        "assetArcId": "AMB:ENI000001634",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "enix_usdt",
+        "instrumentType": "spot"
+    }
+]

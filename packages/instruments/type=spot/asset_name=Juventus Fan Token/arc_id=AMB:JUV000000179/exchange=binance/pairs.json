@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:JUV000000179_AMB:TRY000000940",
+        "normalizedPair": "juv_try",
+        "normalizedSymbol": "juv",
+        "nativePair": "JUVTRY",
+        "exchange": "binance",
+        "assetName": "Juventus Fan Token",
+        "assetArcId": "AMB:JUV000000179",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "juv_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:JUV000000179_AMB:USD000000335",
+        "normalizedPair": "juv_usdt",
+        "normalizedSymbol": "juv",
+        "nativePair": "JUVUSDT",
+        "exchange": "binance",
+        "assetName": "Juventus Fan Token",
+        "assetArcId": "AMB:JUV000000179",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "juv_usdt",
+        "instrumentType": "spot"
+    }
+]

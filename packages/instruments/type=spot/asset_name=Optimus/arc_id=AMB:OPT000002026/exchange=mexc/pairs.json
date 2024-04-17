@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OPT000002026_AMB:USD000000335",
+        "normalizedPair": "optimus_usdt",
+        "normalizedSymbol": "optimus",
+        "nativePair": "OPTIMUSUSDT",
+        "exchange": "mexc",
+        "assetName": "Optimus",
+        "assetArcId": "AMB:OPT000002026",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "optimus_usdt",
+        "instrumentType": "spot"
+    }
+]

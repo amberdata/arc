@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MVC000001164_AMB:KRW000000000",
+        "normalizedPair": "mvc_krw",
+        "normalizedSymbol": "mvc",
+        "nativePair": "MVC/KRW",
+        "exchange": "bithumb",
+        "assetName": "Multiverse Capital",
+        "assetArcId": "AMB:MVC000001164",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "mvc_krw",
+        "instrumentType": "spot"
+    }
+]

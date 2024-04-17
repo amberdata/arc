@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:RAR000000272_AMB:QCA000000000",
+        "normalizedPair": "rare_qc",
+        "normalizedSymbol": "rare",
+        "nativePair": "rare_qc",
+        "exchange": "zb",
+        "assetName": "SuperRare",
+        "assetArcId": "AMB:RAR000000272",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "rare_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RAR000000272_AMB:USD000000335",
+        "normalizedPair": "rare_usdt",
+        "normalizedSymbol": "rare",
+        "nativePair": "rare_usdt",
+        "exchange": "zb",
+        "assetName": "SuperRare",
+        "assetArcId": "AMB:RAR000000272",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rare_usdt",
+        "instrumentType": "spot"
+    }
+]

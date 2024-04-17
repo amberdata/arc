@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:FLO000000131_AMB:BTC000000000",
+        "normalizedPair": "flow_btc",
+        "normalizedSymbol": "flow",
+        "nativePair": "FLOWXBT",
+        "exchange": "kraken",
+        "assetName": "Flow",
+        "assetArcId": "AMB:FLO000000131",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "flow_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FLO000000131_AMB:ETH000000000",
+        "normalizedPair": "flow_eth",
+        "normalizedSymbol": "flow",
+        "nativePair": "FLOWETH",
+        "exchange": "kraken",
+        "assetName": "Flow",
+        "assetArcId": "AMB:FLO000000131",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "flow_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FLO000000131_AMB:EUR000000120",
+        "normalizedPair": "flow_eur",
+        "normalizedSymbol": "flow",
+        "nativePair": "FLOWEUR",
+        "exchange": "kraken",
+        "assetName": "Flow",
+        "assetArcId": "AMB:FLO000000131",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "flow_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FLO000000131_AMB:GBP000000144",
+        "normalizedPair": "flow_gbp",
+        "normalizedSymbol": "flow",
+        "nativePair": "FLOWGBP",
+        "exchange": "kraken",
+        "assetName": "Flow",
+        "assetArcId": "AMB:FLO000000131",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "flow_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FLO000000131_AMB:USD000000949",
+        "normalizedPair": "flow_usd",
+        "normalizedSymbol": "flow",
+        "nativePair": "FLOWUSD",
+        "exchange": "kraken",
+        "assetName": "Flow",
+        "assetArcId": "AMB:FLO000000131",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "flow_usd",
+        "instrumentType": "spot"
+    }
+]

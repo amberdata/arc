@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PMA000001284_AMB:USD000000335",
+        "normalizedPair": "pman_usdt",
+        "normalizedSymbol": "pman",
+        "nativePair": "PMAN_USDT",
+        "exchange": "poloniex",
+        "assetName": "PEPMAN",
+        "assetArcId": "AMB:PMA000001284",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pman_usdt",
+        "instrumentType": "spot"
+    }
+]

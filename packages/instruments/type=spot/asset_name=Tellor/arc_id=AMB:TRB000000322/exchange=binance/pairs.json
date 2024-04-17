@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:TRB000000322_AMB:BTC000000000",
+        "normalizedPair": "trb_btc",
+        "normalizedSymbol": "trb",
+        "nativePair": "TRBBTC",
+        "exchange": "binance",
+        "assetName": "Tellor",
+        "assetArcId": "AMB:TRB000000322",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "trb_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TRB000000322_AMB:BUS000000067",
+        "normalizedPair": "trb_busd",
+        "normalizedSymbol": "trb",
+        "nativePair": "TRBBUSD",
+        "exchange": "binance",
+        "assetName": "Tellor",
+        "assetArcId": "AMB:TRB000000322",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "trb_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TRB000000322_AMB:USD000000335",
+        "normalizedPair": "trb_usdt",
+        "normalizedSymbol": "trb",
+        "nativePair": "TRBUSDT",
+        "exchange": "binance",
+        "assetName": "Tellor",
+        "assetArcId": "AMB:TRB000000322",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trb_usdt",
+        "instrumentType": "spot"
+    }
+]

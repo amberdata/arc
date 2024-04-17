@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EGL000000110_AMB:KRW000000000",
+        "normalizedPair": "egld_krw",
+        "normalizedSymbol": "egld",
+        "nativePair": "EGLD/KRW",
+        "exchange": "bithumb",
+        "assetName": "MultiversX",
+        "assetArcId": "AMB:EGL000000110",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "egld_krw",
+        "instrumentType": "spot"
+    }
+]

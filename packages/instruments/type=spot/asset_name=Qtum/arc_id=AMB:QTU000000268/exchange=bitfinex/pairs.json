@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:QTU000000268_AMB:USD000000949",
+        "normalizedPair": "qtum_usd",
+        "normalizedSymbol": "qtum",
+        "nativePair": "tQTMUSD",
+        "exchange": "bitfinex",
+        "assetName": "Qtum",
+        "assetArcId": "AMB:QTU000000268",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "qtum_usd",
+        "instrumentType": "spot"
+    }
+]

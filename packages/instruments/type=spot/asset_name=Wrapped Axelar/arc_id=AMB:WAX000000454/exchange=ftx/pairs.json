@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WAX000000454_AMB:USD000000949",
+        "normalizedPair": "waxl_usd",
+        "normalizedSymbol": "waxl",
+        "nativePair": "WAXL/USD",
+        "exchange": "ftx",
+        "assetName": "Wrapped Axelar",
+        "assetArcId": "AMB:WAX000000454",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "waxl_usd",
+        "instrumentType": "spot"
+    }
+]

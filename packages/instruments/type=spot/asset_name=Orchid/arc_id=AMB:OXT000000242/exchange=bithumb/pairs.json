@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OXT000000242_AMB:KRW000000000",
+        "normalizedPair": "oxt_krw",
+        "normalizedSymbol": "oxt",
+        "nativePair": "OXT/KRW",
+        "exchange": "bithumb",
+        "assetName": "Orchid",
+        "assetArcId": "AMB:OXT000000242",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "oxt_krw",
+        "instrumentType": "spot"
+    }
+]

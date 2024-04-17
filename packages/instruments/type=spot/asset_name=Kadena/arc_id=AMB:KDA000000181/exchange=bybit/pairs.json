@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KDA000000181_AMB:USD000000335",
+        "normalizedPair": "kda_usdt",
+        "normalizedSymbol": "kda",
+        "nativePair": "KDAUSDT",
+        "exchange": "bybit",
+        "assetName": "Kadena",
+        "assetArcId": "AMB:KDA000000181",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kda_usdt",
+        "instrumentType": "spot"
+    }
+]

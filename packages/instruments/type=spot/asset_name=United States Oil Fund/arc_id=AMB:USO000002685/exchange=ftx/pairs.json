@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:USO000002685_AMB:USD000000949",
+        "normalizedPair": "uso_usd",
+        "normalizedSymbol": "uso",
+        "nativePair": "USO/USD",
+        "exchange": "ftx",
+        "assetName": "United States Oil Fund",
+        "assetArcId": "AMB:USO000002685",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "uso_usd",
+        "instrumentType": "spot"
+    }
+]

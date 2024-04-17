@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PEN000002056_AMB:USD000000335",
+        "normalizedPair": "pendulum_usdt",
+        "normalizedSymbol": "pendulum",
+        "nativePair": "PENDULUMUSDT",
+        "exchange": "mexc",
+        "assetName": "Pendulum",
+        "assetArcId": "AMB:PEN000002056",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pendulum_usdt",
+        "instrumentType": "spot"
+    }
+]

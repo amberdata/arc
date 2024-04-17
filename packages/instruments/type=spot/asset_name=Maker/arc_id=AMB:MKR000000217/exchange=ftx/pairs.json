@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:JPY000000903",
+        "normalizedPair": "mkr_jpy",
+        "normalizedSymbol": "mkr",
+        "nativePair": "MKR/JPY",
+        "exchange": "ftx",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:JPY000000903",
+        "collectedPair": "mkr_jpy",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:USD000000949",
+        "normalizedPair": "mkr_usd",
+        "normalizedSymbol": "mkr",
+        "nativePair": "MKR/USD",
+        "exchange": "ftx",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mkr_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:USD000000335",
+        "normalizedPair": "mkr_usdt",
+        "normalizedSymbol": "mkr",
+        "nativePair": "MKR/USDT",
+        "exchange": "ftx",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mkr_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOM000002659_AMB:USD000000949",
+        "normalizedPair": "tomobear_usd",
+        "normalizedSymbol": "tomobear",
+        "nativePair": "NONE-VALUE-FROM-API",
+        "exchange": "ftx",
+        "assetName": "3X Short TomoChain Token",
+        "assetArcId": "AMB:TOM000002659",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "tomobear_usd",
+        "instrumentType": "spot"
+    }
+]

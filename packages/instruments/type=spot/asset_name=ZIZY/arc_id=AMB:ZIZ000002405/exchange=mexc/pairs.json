@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZIZ000002405_AMB:USD000000335",
+        "normalizedPair": "zizy_usdt",
+        "normalizedSymbol": "zizy",
+        "nativePair": "ZIZYUSDT",
+        "exchange": "mexc",
+        "assetName": "ZIZY",
+        "assetArcId": "AMB:ZIZ000002405",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zizy_usdt",
+        "instrumentType": "spot"
+    }
+]

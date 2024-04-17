@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CBK000001522_AMB:USD000000335",
+        "normalizedPair": "cbk_usdt",
+        "normalizedSymbol": "cbk",
+        "nativePair": "CBKUSDT",
+        "exchange": "mexc",
+        "assetName": "Cobak Token",
+        "assetArcId": "AMB:CBK000001522",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cbk_usdt",
+        "instrumentType": "spot"
+    }
+]

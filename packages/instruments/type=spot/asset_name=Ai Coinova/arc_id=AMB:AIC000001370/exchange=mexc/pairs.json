@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIC000001370_AMB:USD000000335",
+        "normalizedPair": "aicn_usdt",
+        "normalizedSymbol": "aicn",
+        "nativePair": "AICNUSDT",
+        "exchange": "mexc",
+        "assetName": "Ai Coinova",
+        "assetArcId": "AMB:AIC000001370",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aicn_usdt",
+        "instrumentType": "spot"
+    }
+]

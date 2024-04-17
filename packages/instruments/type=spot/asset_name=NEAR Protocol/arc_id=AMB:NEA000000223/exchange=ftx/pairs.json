@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:NEA000000223_AMB:USD000000949",
+        "normalizedPair": "near_usd",
+        "normalizedSymbol": "near",
+        "nativePair": "NEAR/USD",
+        "exchange": "ftx",
+        "assetName": "NEAR Protocol",
+        "assetArcId": "AMB:NEA000000223",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "near_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NEA000000223_AMB:USD000000335",
+        "normalizedPair": "near_usdt",
+        "normalizedSymbol": "near",
+        "nativePair": "NEAR/USDT",
+        "exchange": "ftx",
+        "assetName": "NEAR Protocol",
+        "assetArcId": "AMB:NEA000000223",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "near_usdt",
+        "instrumentType": "spot"
+    }
+]

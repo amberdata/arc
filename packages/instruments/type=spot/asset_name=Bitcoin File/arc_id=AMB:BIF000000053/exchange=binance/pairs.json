@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BIF000000053_AMB:USD000000335",
+        "normalizedPair": "bifi_usdt",
+        "normalizedSymbol": "bifi",
+        "nativePair": "BIFIUSDT",
+        "exchange": "binance",
+        "assetName": "Bitcoin File",
+        "assetArcId": "AMB:BIF000000053",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bifi_usdt",
+        "instrumentType": "spot"
+    }
+]

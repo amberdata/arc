@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CVT000001574_AMB:USD000000335",
+        "normalizedPair": "cvtx_usdt",
+        "normalizedSymbol": "cvtx",
+        "nativePair": "CVTXUSDT",
+        "exchange": "mexc",
+        "assetName": "Carrieverse",
+        "assetArcId": "AMB:CVT000001574",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cvtx_usdt",
+        "instrumentType": "spot"
+    }
+]

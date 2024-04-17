@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ERG000000670_AMB:USD000000335",
+        "normalizedPair": "erg_usdt",
+        "normalizedSymbol": "erg",
+        "nativePair": "ergusdt",
+        "exchange": "huobi",
+        "assetName": "Ergo",
+        "assetArcId": "AMB:ERG000000670",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "erg_usdt",
+        "instrumentType": "spot"
+    }
+]

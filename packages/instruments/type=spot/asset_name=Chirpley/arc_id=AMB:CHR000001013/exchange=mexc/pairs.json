@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHR000001013_AMB:USD000000335",
+        "normalizedPair": "chrp_usdt",
+        "normalizedSymbol": "chrp",
+        "nativePair": "CHRPUSDT",
+        "exchange": "mexc",
+        "assetName": "Chirpley",
+        "assetArcId": "AMB:CHR000001013",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "chrp_usdt",
+        "instrumentType": "spot"
+    }
+]

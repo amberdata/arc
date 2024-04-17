@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAL000000043_AMB:USD000000335",
+        "normalizedPair": "bal_usdt",
+        "normalizedSymbol": "bal",
+        "nativePair": "balusdt",
+        "exchange": "huobi",
+        "assetName": "Balancer",
+        "assetArcId": "AMB:BAL000000043",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bal_usdt",
+        "instrumentType": "spot"
+    }
+]

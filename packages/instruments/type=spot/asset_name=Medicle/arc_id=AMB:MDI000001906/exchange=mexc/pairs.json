@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MDI000001906_AMB:USD000000335",
+        "normalizedPair": "mdi_usdt",
+        "normalizedSymbol": "mdi",
+        "nativePair": "MDIUSDT",
+        "exchange": "mexc",
+        "assetName": "Medicle",
+        "assetArcId": "AMB:MDI000001906",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mdi_usdt",
+        "instrumentType": "spot"
+    }
+]

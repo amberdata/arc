@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:NUL000000228_AMB:BTC000000000",
+        "normalizedPair": "nuls_btc",
+        "normalizedSymbol": "nuls",
+        "nativePair": "NULSBTC",
+        "exchange": "binance",
+        "assetName": "NULS",
+        "assetArcId": "AMB:NUL000000228",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "nuls_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NUL000000228_AMB:USD000000335",
+        "normalizedPair": "nuls_usdt",
+        "normalizedSymbol": "nuls",
+        "nativePair": "NULSUSDT",
+        "exchange": "binance",
+        "assetName": "NULS",
+        "assetArcId": "AMB:NUL000000228",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nuls_usdt",
+        "instrumentType": "spot"
+    }
+]

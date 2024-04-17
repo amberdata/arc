@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BCH000002475_AMB:USD000000949",
+        "normalizedPair": "bchhalf_usd",
+        "normalizedSymbol": "bchhalf",
+        "nativePair": "BCHHALF/USD",
+        "exchange": "ftx",
+        "assetName": "0.5X Long Bitcoin Cash Token",
+        "assetArcId": "AMB:BCH000002475",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bchhalf_usd",
+        "instrumentType": "spot"
+    }
+]

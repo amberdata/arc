@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KOI000001836_AMB:USD000000335",
+        "normalizedPair": "koin_usdt",
+        "normalizedSymbol": "koin",
+        "nativePair": "KOINUSDT",
+        "exchange": "mexc",
+        "assetName": "Koinos",
+        "assetArcId": "AMB:KOI000001836",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "koin_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GRE000001726_AMB:USD000000335",
+        "normalizedPair": "greg_usdt",
+        "normalizedSymbol": "greg",
+        "nativePair": "GREGUSDT",
+        "exchange": "mexc",
+        "assetName": "greg",
+        "assetArcId": "AMB:GRE000001726",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "greg_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:BNT000000058_AMB:BTC000000000",
+        "normalizedPair": "bnt_btc",
+        "normalizedSymbol": "bnt",
+        "nativePair": "BNTXBT",
+        "exchange": "kraken",
+        "assetName": "Bancor Network Token",
+        "assetArcId": "AMB:BNT000000058",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "bnt_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BNT000000058_AMB:EUR000000120",
+        "normalizedPair": "bnt_eur",
+        "normalizedSymbol": "bnt",
+        "nativePair": "BNTEUR",
+        "exchange": "kraken",
+        "assetName": "Bancor Network Token",
+        "assetArcId": "AMB:BNT000000058",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "bnt_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BNT000000058_AMB:USD000000949",
+        "normalizedPair": "bnt_usd",
+        "normalizedSymbol": "bnt",
+        "nativePair": "BNTUSD",
+        "exchange": "kraken",
+        "assetName": "Bancor Network Token",
+        "assetArcId": "AMB:BNT000000058",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bnt_usd",
+        "instrumentType": "spot"
+    }
+]

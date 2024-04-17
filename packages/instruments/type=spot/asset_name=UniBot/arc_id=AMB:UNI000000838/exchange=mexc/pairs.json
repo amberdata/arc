@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UNI000000838_AMB:USD000000335",
+        "normalizedPair": "unibot_usdt",
+        "normalizedSymbol": "unibot",
+        "nativePair": "UNIBOTUSDT",
+        "exchange": "mexc",
+        "assetName": "UniBot",
+        "assetArcId": "AMB:UNI000000838",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "unibot_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PEA000002052_AMB:USD000000335",
+        "normalizedPair": "peak_usdt",
+        "normalizedSymbol": "peak",
+        "nativePair": "PEAKUSDT",
+        "exchange": "mexc",
+        "assetName": "PEAKDEFI",
+        "assetArcId": "AMB:PEA000002052",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "peak_usdt",
+        "instrumentType": "spot"
+    }
+]

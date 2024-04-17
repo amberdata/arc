@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ACH000000003_AMB:USD000000949",
+        "normalizedPair": "ach_usd",
+        "normalizedSymbol": "ach",
+        "nativePair": "ACH-USD",
+        "exchange": "gdax",
+        "assetName": "Alchemy Pay",
+        "assetArcId": "AMB:ACH000000003",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ach_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ACH000000003_AMB:USD000000335",
+        "normalizedPair": "ach_usdt",
+        "normalizedSymbol": "ach",
+        "nativePair": "ACH-USDT",
+        "exchange": "gdax",
+        "assetName": "Alchemy Pay",
+        "assetArcId": "AMB:ACH000000003",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ach_usdt",
+        "instrumentType": "spot"
+    }
+]

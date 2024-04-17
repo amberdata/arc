@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GFT000000145_AMB:USD000000335",
+        "normalizedPair": "gft_usdt",
+        "normalizedSymbol": "gft",
+        "nativePair": "GFT-USDT",
+        "exchange": "okex",
+        "assetName": "Gifto",
+        "assetArcId": "AMB:GFT000000145",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gft_usdt",
+        "instrumentType": "spot"
+    }
+]

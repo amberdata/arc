@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WAS000002334_AMB:USD000000335",
+        "normalizedPair": "was_usdt",
+        "normalizedSymbol": "was",
+        "nativePair": "WASUSDT",
+        "exchange": "mexc",
+        "assetName": "Wasder",
+        "assetArcId": "AMB:WAS000002334",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "was_usdt",
+        "instrumentType": "spot"
+    }
+]

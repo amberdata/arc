@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WEF000002337_AMB:USD000000335",
+        "normalizedPair": "wefin_usdt",
+        "normalizedSymbol": "wefin",
+        "nativePair": "WEFINUSDT",
+        "exchange": "mexc",
+        "assetName": "eFin Decentralized",
+        "assetArcId": "AMB:WEF000002337",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wefin_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SMA000002198_AMB:USD000000335",
+        "normalizedPair": "smart_usdt",
+        "normalizedSymbol": "smart",
+        "nativePair": "SMARTUSDT",
+        "exchange": "mexc",
+        "assetName": "Smart Game Finance",
+        "assetArcId": "AMB:SMA000002198",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "smart_usdt",
+        "instrumentType": "spot"
+    }
+]

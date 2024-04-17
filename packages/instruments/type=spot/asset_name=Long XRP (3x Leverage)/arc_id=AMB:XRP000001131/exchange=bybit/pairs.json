@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XRP000001131_AMB:USD000000335",
+        "normalizedPair": "xrp3l_usdt",
+        "normalizedSymbol": "xrp3l",
+        "nativePair": "XRP3LUSDT",
+        "exchange": "bybit",
+        "assetName": "Long XRP (3x Leverage)",
+        "assetArcId": "AMB:XRP000001131",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xrp3l_usdt",
+        "instrumentType": "spot"
+    }
+]

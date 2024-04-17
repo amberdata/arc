@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NXT000002002_AMB:USD000000335",
+        "normalizedPair": "nxtt_usdt",
+        "normalizedSymbol": "nxtt",
+        "nativePair": "NXTTUSDT",
+        "exchange": "mexc",
+        "assetName": "NextEarth",
+        "assetArcId": "AMB:NXT000002002",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nxtt_usdt",
+        "instrumentType": "spot"
+    }
+]

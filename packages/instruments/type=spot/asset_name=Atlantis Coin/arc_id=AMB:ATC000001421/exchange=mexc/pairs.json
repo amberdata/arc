@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ATC000001421_AMB:USD000000335",
+        "normalizedPair": "atc_usdt",
+        "normalizedSymbol": "atc",
+        "nativePair": "ATCUSDT",
+        "exchange": "mexc",
+        "assetName": "Atlantis Coin",
+        "assetArcId": "AMB:ATC000001421",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "atc_usdt",
+        "instrumentType": "spot"
+    }
+]

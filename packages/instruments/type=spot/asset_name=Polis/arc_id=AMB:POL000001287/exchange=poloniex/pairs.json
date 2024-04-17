@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POL000001287_AMB:USD000000335",
+        "normalizedPair": "polis_usdt",
+        "normalizedSymbol": "polis",
+        "nativePair": "POLIS_USDT",
+        "exchange": "poloniex",
+        "assetName": "Polis",
+        "assetArcId": "AMB:POL000001287",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "polis_usdt",
+        "instrumentType": "spot"
+    }
+]

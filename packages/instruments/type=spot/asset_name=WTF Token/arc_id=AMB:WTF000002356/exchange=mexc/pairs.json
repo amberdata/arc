@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WTF000002356_AMB:USD000000335",
+        "normalizedPair": "wtf_usdt",
+        "normalizedSymbol": "wtf",
+        "nativePair": "WTFUSDT",
+        "exchange": "mexc",
+        "assetName": "WTF Token",
+        "assetArcId": "AMB:WTF000002356",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wtf_usdt",
+        "instrumentType": "spot"
+    }
+]

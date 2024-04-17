@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MIN000000216_AMB:USD000000335",
+        "normalizedPair": "mina_usdt",
+        "normalizedSymbol": "mina",
+        "nativePair": "mina_usdt",
+        "exchange": "zb",
+        "assetName": "Mina",
+        "assetArcId": "AMB:MIN000000216",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mina_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOG000002525_AMB:USD000000949",
+        "normalizedPair": "dogebear_usd",
+        "normalizedSymbol": "dogebear",
+        "nativePair": "NONE-VALUE-FROM-API",
+        "exchange": "ftx",
+        "assetName": "3X Short Dogecoin Token",
+        "assetArcId": "AMB:DOG000002525",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dogebear_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:100000000950_AMB:QCA000000000",
+        "normalizedPair": "1000hokk_qc",
+        "normalizedSymbol": "1000hokk",
+        "nativePair": "1000hokk_qc",
+        "exchange": "zb",
+        "assetName": "Hokkaidu Inu",
+        "assetArcId": "AMB:100000000950",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "1000hokk_qc",
+        "instrumentType": "spot"
+    }
+]

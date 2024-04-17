@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:XVS000000366_AMB:BNB000000055",
+        "normalizedPair": "xvs_bnb",
+        "normalizedSymbol": "xvs",
+        "nativePair": "XVSBNB",
+        "exchange": "binance",
+        "assetName": "Venus",
+        "assetArcId": "AMB:XVS000000366",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "xvs_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XVS000000366_AMB:BTC000000000",
+        "normalizedPair": "xvs_btc",
+        "normalizedSymbol": "xvs",
+        "nativePair": "XVSBTC",
+        "exchange": "binance",
+        "assetName": "Venus",
+        "assetArcId": "AMB:XVS000000366",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "xvs_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XVS000000366_AMB:BUS000000067",
+        "normalizedPair": "xvs_busd",
+        "normalizedSymbol": "xvs",
+        "nativePair": "XVSBUSD",
+        "exchange": "binance",
+        "assetName": "Venus",
+        "assetArcId": "AMB:XVS000000366",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "xvs_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XVS000000366_AMB:TRY000000940",
+        "normalizedPair": "xvs_try",
+        "normalizedSymbol": "xvs",
+        "nativePair": "XVSTRY",
+        "exchange": "binance",
+        "assetName": "Venus",
+        "assetArcId": "AMB:XVS000000366",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "xvs_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XVS000000366_AMB:USD000000335",
+        "normalizedPair": "xvs_usdt",
+        "normalizedSymbol": "xvs",
+        "nativePair": "XVSUSDT",
+        "exchange": "binance",
+        "assetName": "Venus",
+        "assetArcId": "AMB:XVS000000366",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xvs_usdt",
+        "instrumentType": "spot"
+    }
+]

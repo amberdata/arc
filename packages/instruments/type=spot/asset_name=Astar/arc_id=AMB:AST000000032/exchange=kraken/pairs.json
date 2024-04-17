@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:AST000000032_AMB:EUR000000120",
+        "normalizedPair": "astr_eur",
+        "normalizedSymbol": "astr",
+        "nativePair": "ASTREUR",
+        "exchange": "kraken",
+        "assetName": "Astar",
+        "assetArcId": "AMB:AST000000032",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "astr_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AST000000032_AMB:USD000000949",
+        "normalizedPair": "astr_usd",
+        "normalizedSymbol": "astr",
+        "nativePair": "ASTRUSD",
+        "exchange": "kraken",
+        "assetName": "Astar",
+        "assetArcId": "AMB:AST000000032",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "astr_usd",
+        "instrumentType": "spot"
+    }
+]

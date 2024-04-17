@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MEV000001921_AMB:USD000000335",
+        "normalizedPair": "mevr_usdt",
+        "normalizedSymbol": "mevr",
+        "nativePair": "MEVRUSDT",
+        "exchange": "mexc",
+        "assetName": "Metaverse VR",
+        "assetArcId": "AMB:MEV000001921",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mevr_usdt",
+        "instrumentType": "spot"
+    }
+]

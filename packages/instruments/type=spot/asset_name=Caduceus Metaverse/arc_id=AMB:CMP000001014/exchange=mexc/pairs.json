@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CMP000001014_AMB:USD000000335",
+        "normalizedPair": "cmp_usdt",
+        "normalizedSymbol": "cmp",
+        "nativePair": "CMPUSDT",
+        "exchange": "mexc",
+        "assetName": "Caduceus Metaverse",
+        "assetArcId": "AMB:CMP000001014",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cmp_usdt",
+        "instrumentType": "spot"
+    }
+]

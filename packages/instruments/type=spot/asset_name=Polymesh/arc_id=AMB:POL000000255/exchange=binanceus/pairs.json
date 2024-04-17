@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POL000000255_AMB:USD000000335",
+        "normalizedPair": "polyx_usdt",
+        "normalizedSymbol": "polyx",
+        "nativePair": "POLYXUSDT",
+        "exchange": "binanceus",
+        "assetName": "Polymesh",
+        "assetArcId": "AMB:POL000000255",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "polyx_usdt",
+        "instrumentType": "spot"
+    }
+]

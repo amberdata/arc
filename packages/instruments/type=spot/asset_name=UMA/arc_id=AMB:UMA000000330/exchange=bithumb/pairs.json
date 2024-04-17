@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UMA000000330_AMB:KRW000000000",
+        "normalizedPair": "uma_krw",
+        "normalizedSymbol": "uma",
+        "nativePair": "UMA/KRW",
+        "exchange": "bithumb",
+        "assetName": "UMA",
+        "assetArcId": "AMB:UMA000000330",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "uma_krw",
+        "instrumentType": "spot"
+    }
+]

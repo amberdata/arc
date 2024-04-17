@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KAR000000904_AMB:USD000000335",
+        "normalizedPair": "karate_usdt",
+        "normalizedSymbol": "karate",
+        "nativePair": "KARATEUSDT",
+        "exchange": "bybit",
+        "assetName": "Karate Combat",
+        "assetArcId": "AMB:KAR000000904",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "karate_usdt",
+        "instrumentType": "spot"
+    }
+]

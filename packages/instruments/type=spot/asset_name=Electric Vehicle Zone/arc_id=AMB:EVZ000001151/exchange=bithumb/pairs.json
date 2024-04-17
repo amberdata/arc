@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EVZ000001151_AMB:KRW000000000",
+        "normalizedPair": "evz_krw",
+        "normalizedSymbol": "evz",
+        "nativePair": "EVZ/KRW",
+        "exchange": "bithumb",
+        "assetName": "Electric Vehicle Zone",
+        "assetArcId": "AMB:EVZ000001151",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "evz_krw",
+        "instrumentType": "spot"
+    }
+]

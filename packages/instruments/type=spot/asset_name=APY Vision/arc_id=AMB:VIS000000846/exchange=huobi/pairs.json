@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VIS000000846_AMB:USD000000335",
+        "normalizedPair": "vision_usdt",
+        "normalizedSymbol": "vision",
+        "nativePair": "visionusdt",
+        "exchange": "huobi",
+        "assetName": "APY Vision",
+        "assetArcId": "AMB:VIS000000846",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vision_usdt",
+        "instrumentType": "spot"
+    }
+]

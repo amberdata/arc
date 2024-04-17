@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CCN000001523_AMB:USD000000335",
+        "normalizedPair": "ccn_usdt",
+        "normalizedSymbol": "ccn",
+        "nativePair": "CCNUSDT",
+        "exchange": "mexc",
+        "assetName": "CustomContractNetwork",
+        "assetArcId": "AMB:CCN000001523",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ccn_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:RSR000000284_AMB:BNB000000055",
+        "normalizedPair": "rsr_bnb",
+        "normalizedSymbol": "rsr",
+        "nativePair": "RSRBNB",
+        "exchange": "binance",
+        "assetName": "Reserve Rights",
+        "assetArcId": "AMB:RSR000000284",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "rsr_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RSR000000284_AMB:USD000000335",
+        "normalizedPair": "rsr_usdt",
+        "normalizedSymbol": "rsr",
+        "nativePair": "RSRUSDT",
+        "exchange": "binance",
+        "assetName": "Reserve Rights",
+        "assetArcId": "AMB:RSR000000284",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rsr_usdt",
+        "instrumentType": "spot"
+    }
+]

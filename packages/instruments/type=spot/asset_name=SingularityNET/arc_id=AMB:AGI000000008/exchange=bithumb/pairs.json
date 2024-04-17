@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AGI000000008_AMB:KRW000000000",
+        "normalizedPair": "agix_krw",
+        "normalizedSymbol": "agix",
+        "nativePair": "AGIX/KRW",
+        "exchange": "bithumb",
+        "assetName": "SingularityNET",
+        "assetArcId": "AMB:AGI000000008",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "agix_krw",
+        "instrumentType": "spot"
+    }
+]

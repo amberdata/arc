@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PER000000247_AMB:USD000000335",
+        "normalizedPair": "perl_usdt",
+        "normalizedSymbol": "perl",
+        "nativePair": "PERL_USDT",
+        "exchange": "poloniex",
+        "assetName": "PERL.eco",
+        "assetArcId": "AMB:PER000000247",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "perl_usdt",
+        "instrumentType": "spot"
+    }
+]

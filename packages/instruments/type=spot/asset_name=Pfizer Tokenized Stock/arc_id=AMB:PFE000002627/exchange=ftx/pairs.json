@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PFE000002627_AMB:USD000000949",
+        "normalizedPair": "pfe_usd",
+        "normalizedSymbol": "pfe",
+        "nativePair": "PFE/USD",
+        "exchange": "ftx",
+        "assetName": "Pfizer Tokenized Stock",
+        "assetArcId": "AMB:PFE000002627",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "pfe_usd",
+        "instrumentType": "spot"
+    }
+]

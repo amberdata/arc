@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STA000002228_AMB:USD000000335",
+        "normalizedPair": "stars_usdt",
+        "normalizedSymbol": "stars",
+        "nativePair": "STARSUSDT",
+        "exchange": "mexc",
+        "assetName": "StarLaunch",
+        "assetArcId": "AMB:STA000002228",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "stars_usdt",
+        "instrumentType": "spot"
+    }
+]

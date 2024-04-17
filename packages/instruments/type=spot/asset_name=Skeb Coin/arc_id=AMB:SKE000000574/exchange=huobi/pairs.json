@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SKE000000574_AMB:USD000000335",
+        "normalizedPair": "skeb_usdt",
+        "normalizedSymbol": "skeb",
+        "nativePair": "skebusdt",
+        "exchange": "huobi",
+        "assetName": "Skeb Coin",
+        "assetArcId": "AMB:SKE000000574",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "skeb_usdt",
+        "instrumentType": "spot"
+    }
+]

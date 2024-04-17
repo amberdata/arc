@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MVL000001086_AMB:USD000000335",
+        "normalizedPair": "mvl_usdt",
+        "normalizedSymbol": "mvl",
+        "nativePair": "MVL_USDT",
+        "exchange": "poloniex",
+        "assetName": "MVL",
+        "assetArcId": "AMB:MVL000001086",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mvl_usdt",
+        "instrumentType": "spot"
+    }
+]

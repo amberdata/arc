@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GRT000000154_AMB:USD000000949",
+        "normalizedPair": "grt_usd",
+        "normalizedSymbol": "grt",
+        "nativePair": "GRT/USD",
+        "exchange": "ftx",
+        "assetName": "The Graph",
+        "assetArcId": "AMB:GRT000000154",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "grt_usd",
+        "instrumentType": "spot"
+    }
+]

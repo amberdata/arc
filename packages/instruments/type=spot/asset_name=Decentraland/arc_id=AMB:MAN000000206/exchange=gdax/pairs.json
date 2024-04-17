@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:MAN000000206_AMB:BTC000000000",
+        "normalizedPair": "mana_btc",
+        "normalizedSymbol": "mana",
+        "nativePair": "MANA-BTC",
+        "exchange": "gdax",
+        "assetName": "Decentraland",
+        "assetArcId": "AMB:MAN000000206",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "mana_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MAN000000206_AMB:ETH000000000",
+        "normalizedPair": "mana_eth",
+        "normalizedSymbol": "mana",
+        "nativePair": "MANA-ETH",
+        "exchange": "gdax",
+        "assetName": "Decentraland",
+        "assetArcId": "AMB:MAN000000206",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "mana_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MAN000000206_AMB:EUR000000120",
+        "normalizedPair": "mana_eur",
+        "normalizedSymbol": "mana",
+        "nativePair": "MANA-EUR",
+        "exchange": "gdax",
+        "assetName": "Decentraland",
+        "assetArcId": "AMB:MAN000000206",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "mana_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MAN000000206_AMB:USD000000949",
+        "normalizedPair": "mana_usd",
+        "normalizedSymbol": "mana",
+        "nativePair": "MANA-USD",
+        "exchange": "gdax",
+        "assetName": "Decentraland",
+        "assetArcId": "AMB:MAN000000206",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mana_usd",
+        "instrumentType": "spot"
+    }
+]

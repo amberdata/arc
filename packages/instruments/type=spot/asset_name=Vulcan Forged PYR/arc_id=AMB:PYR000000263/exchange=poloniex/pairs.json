@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PYR000000263_AMB:USD000000335",
+        "normalizedPair": "pyr_usdt",
+        "normalizedSymbol": "pyr",
+        "nativePair": "PYR_USDT",
+        "exchange": "poloniex",
+        "assetName": "Vulcan Forged PYR",
+        "assetArcId": "AMB:PYR000000263",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pyr_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETH000000500_AMB:USD000000949",
+        "normalizedPair": "ethw_usd",
+        "normalizedSymbol": "ethw",
+        "nativePair": "ETHW/USD",
+        "exchange": "ftxus",
+        "assetName": "EthereumPoW",
+        "assetArcId": "AMB:ETH000000500",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ethw_usd",
+        "instrumentType": "spot"
+    }
+]

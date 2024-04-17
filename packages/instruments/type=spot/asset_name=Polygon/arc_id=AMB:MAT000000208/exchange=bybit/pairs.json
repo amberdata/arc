@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:MAT000000208_AMB:BTC000000000",
+        "normalizedPair": "matic_btc",
+        "normalizedSymbol": "matic",
+        "nativePair": "MATICBTC",
+        "exchange": "bybit",
+        "assetName": "Polygon",
+        "assetArcId": "AMB:MAT000000208",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "matic_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MAT000000208_AMB:USD000000333",
+        "normalizedPair": "matic_usdc",
+        "normalizedSymbol": "matic",
+        "nativePair": "MATICUSDC",
+        "exchange": "bybit",
+        "assetName": "Polygon",
+        "assetArcId": "AMB:MAT000000208",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "matic_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MAT000000208_AMB:USD000000335",
+        "normalizedPair": "matic_usdt",
+        "normalizedSymbol": "matic",
+        "nativePair": "MATICUSDT",
+        "exchange": "bybit",
+        "assetName": "Polygon",
+        "assetArcId": "AMB:MAT000000208",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "matic_usdt",
+        "instrumentType": "spot"
+    }
+]

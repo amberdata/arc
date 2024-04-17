@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NYM000000545_AMB:USD000000335",
+        "normalizedPair": "nym_usdt",
+        "normalizedSymbol": "nym",
+        "nativePair": "NYM_USDT",
+        "exchange": "poloniex",
+        "assetName": "NYM",
+        "assetArcId": "AMB:NYM000000545",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nym_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XAU000000604_AMB:USD000000335",
+        "normalizedPair": "xaut_usdt",
+        "normalizedSymbol": "xaut",
+        "nativePair": "XAUT-USDT",
+        "exchange": "okex",
+        "assetName": "Tether Gold",
+        "assetArcId": "AMB:XAU000000604",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xaut_usdt",
+        "instrumentType": "spot"
+    }
+]

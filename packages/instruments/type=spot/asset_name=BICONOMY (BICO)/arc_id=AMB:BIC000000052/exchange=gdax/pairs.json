@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:BIC000000052_AMB:EUR000000120",
+        "normalizedPair": "bico_eur",
+        "normalizedSymbol": "bico",
+        "nativePair": "BICO-EUR",
+        "exchange": "gdax",
+        "assetName": "BICONOMY (BICO)",
+        "assetArcId": "AMB:BIC000000052",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "bico_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BIC000000052_AMB:USD000000949",
+        "normalizedPair": "bico_usd",
+        "normalizedSymbol": "bico",
+        "nativePair": "BICO-USD",
+        "exchange": "gdax",
+        "assetName": "BICONOMY (BICO)",
+        "assetArcId": "AMB:BIC000000052",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bico_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BIC000000052_AMB:USD000000335",
+        "normalizedPair": "bico_usdt",
+        "normalizedSymbol": "bico",
+        "nativePair": "BICO-USDT",
+        "exchange": "gdax",
+        "assetName": "BICONOMY (BICO)",
+        "assetArcId": "AMB:BIC000000052",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bico_usdt",
+        "instrumentType": "spot"
+    }
+]

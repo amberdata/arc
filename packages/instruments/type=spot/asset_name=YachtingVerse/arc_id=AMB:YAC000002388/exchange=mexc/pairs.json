@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:YAC000002388_AMB:USD000000335",
+        "normalizedPair": "yacht_usdt",
+        "normalizedSymbol": "yacht",
+        "nativePair": "YACHTUSDT",
+        "exchange": "mexc",
+        "assetName": "YachtingVerse",
+        "assetArcId": "AMB:YAC000002388",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "yacht_usdt",
+        "instrumentType": "spot"
+    }
+]

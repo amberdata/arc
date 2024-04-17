@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:PAX000000243_AMB:BNB000000055",
+        "normalizedPair": "paxg_bnb",
+        "normalizedSymbol": "paxg",
+        "nativePair": "PAXGBNB",
+        "exchange": "binance",
+        "assetName": "PAX Gold",
+        "assetArcId": "AMB:PAX000000243",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "paxg_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PAX000000243_AMB:BTC000000000",
+        "normalizedPair": "paxg_btc",
+        "normalizedSymbol": "paxg",
+        "nativePair": "PAXGBTC",
+        "exchange": "binance",
+        "assetName": "PAX Gold",
+        "assetArcId": "AMB:PAX000000243",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "paxg_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PAX000000243_AMB:BUS000000067",
+        "normalizedPair": "paxg_busd",
+        "normalizedSymbol": "paxg",
+        "nativePair": "PAXGBUSD",
+        "exchange": "binance",
+        "assetName": "PAX Gold",
+        "assetArcId": "AMB:PAX000000243",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "paxg_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PAX000000243_AMB:TRY000000940",
+        "normalizedPair": "paxg_try",
+        "normalizedSymbol": "paxg",
+        "nativePair": "PAXGTRY",
+        "exchange": "binance",
+        "assetName": "PAX Gold",
+        "assetArcId": "AMB:PAX000000243",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "paxg_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PAX000000243_AMB:USD000000335",
+        "normalizedPair": "paxg_usdt",
+        "normalizedSymbol": "paxg",
+        "nativePair": "PAXGUSDT",
+        "exchange": "binance",
+        "assetName": "PAX Gold",
+        "assetArcId": "AMB:PAX000000243",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "paxg_usdt",
+        "instrumentType": "spot"
+    }
+]

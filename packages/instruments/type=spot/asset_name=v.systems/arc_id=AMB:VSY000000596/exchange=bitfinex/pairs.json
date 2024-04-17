@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VSY000000596_AMB:USD000000949",
+        "normalizedPair": "vsys_usd",
+        "normalizedSymbol": "vsys",
+        "nativePair": "tVSYUSD",
+        "exchange": "bitfinex",
+        "assetName": "v.systems",
+        "assetArcId": "AMB:VSY000000596",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "vsys_usd",
+        "instrumentType": "spot"
+    }
+]

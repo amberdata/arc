@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:HIF000000159_AMB:ETH000000000",
+        "normalizedPair": "hifi_eth",
+        "normalizedSymbol": "hifi",
+        "nativePair": "HIFIETH",
+        "exchange": "binance",
+        "assetName": "HiFi Gaming Society",
+        "assetArcId": "AMB:HIF000000159",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "hifi_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:HIF000000159_AMB:USD000000335",
+        "normalizedPair": "hifi_usdt",
+        "normalizedSymbol": "hifi",
+        "nativePair": "HIFIUSDT",
+        "exchange": "binance",
+        "assetName": "HiFi Gaming Society",
+        "assetArcId": "AMB:HIF000000159",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hifi_usdt",
+        "instrumentType": "spot"
+    }
+]

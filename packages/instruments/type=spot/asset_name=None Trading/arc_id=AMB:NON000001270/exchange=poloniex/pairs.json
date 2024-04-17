@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NON000001270_AMB:USD000000335",
+        "normalizedPair": "none_usdt",
+        "normalizedSymbol": "none",
+        "nativePair": "NONE_USDT",
+        "exchange": "poloniex",
+        "assetName": "None Trading",
+        "assetArcId": "AMB:NON000001270",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "none_usdt",
+        "instrumentType": "spot"
+    }
+]

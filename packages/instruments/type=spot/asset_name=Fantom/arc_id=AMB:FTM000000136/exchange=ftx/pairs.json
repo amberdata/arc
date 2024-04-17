@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FTM000000136_AMB:USD000000949",
+        "normalizedPair": "ftm_usd",
+        "normalizedSymbol": "ftm",
+        "nativePair": "FTM/USD",
+        "exchange": "ftx",
+        "assetName": "Fantom",
+        "assetArcId": "AMB:FTM000000136",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ftm_usd",
+        "instrumentType": "spot"
+    }
+]

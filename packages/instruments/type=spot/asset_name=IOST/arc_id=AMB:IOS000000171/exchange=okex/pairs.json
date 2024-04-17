@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:IOS000000171_AMB:USD000000333",
+        "normalizedPair": "iost_usdc",
+        "normalizedSymbol": "iost",
+        "nativePair": "IOST-USDC",
+        "exchange": "okex",
+        "assetName": "IOST",
+        "assetArcId": "AMB:IOS000000171",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "iost_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IOS000000171_AMB:USD000000335",
+        "normalizedPair": "iost_usdt",
+        "normalizedSymbol": "iost",
+        "nativePair": "IOST-USDT",
+        "exchange": "okex",
+        "assetName": "IOST",
+        "assetArcId": "AMB:IOS000000171",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "iost_usdt",
+        "instrumentType": "spot"
+    }
+]

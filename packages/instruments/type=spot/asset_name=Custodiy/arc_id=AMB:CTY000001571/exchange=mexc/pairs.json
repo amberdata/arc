@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CTY000001571_AMB:USD000000335",
+        "normalizedPair": "cty_usdt",
+        "normalizedSymbol": "cty",
+        "nativePair": "CTYUSDT",
+        "exchange": "mexc",
+        "assetName": "Custodiy",
+        "assetArcId": "AMB:CTY000001571",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cty_usdt",
+        "instrumentType": "spot"
+    }
+]

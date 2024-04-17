@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TIT000000828_AMB:USD000000335",
+        "normalizedPair": "titan.amb.1_usdt",
+        "normalizedSymbol": "titan.amb.1",
+        "nativePair": "TITANUSDT",
+        "exchange": "mexc",
+        "assetName": "IRON Titanium Token",
+        "assetArcId": "AMB:TIT000000828",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "titan_usdt",
+        "instrumentType": "spot"
+    }
+]

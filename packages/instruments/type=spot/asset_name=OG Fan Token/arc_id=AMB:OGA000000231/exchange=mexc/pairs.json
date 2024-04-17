@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OGA000000231_AMB:USD000000335",
+        "normalizedPair": "og_usdt",
+        "normalizedSymbol": "og",
+        "nativePair": "OGUSDT",
+        "exchange": "mexc",
+        "assetName": "OG Fan Token",
+        "assetArcId": "AMB:OGA000000231",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "og_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LTO000000201_AMB:USD000000335",
+        "normalizedPair": "lto_usdt",
+        "normalizedSymbol": "lto",
+        "nativePair": "LTOUSDT",
+        "exchange": "binanceus",
+        "assetName": "LTO Network",
+        "assetArcId": "AMB:LTO000000201",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lto_usdt",
+        "instrumentType": "spot"
+    }
+]

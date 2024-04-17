@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HOL000002566_AMB:USD000000949",
+        "normalizedPair": "holy_usd",
+        "normalizedSymbol": "holy",
+        "nativePair": "HOLY/USD",
+        "exchange": "ftx",
+        "assetName": "HolyGrails.io",
+        "assetArcId": "AMB:HOL000002566",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "holy_usd",
+        "instrumentType": "spot"
+    }
+]

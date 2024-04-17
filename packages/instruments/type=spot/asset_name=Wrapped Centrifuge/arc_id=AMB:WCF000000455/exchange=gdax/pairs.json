@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WCF000000455_AMB:USD000000949",
+        "normalizedPair": "wcfg_usd",
+        "normalizedSymbol": "wcfg",
+        "nativePair": "WCFG-USD",
+        "exchange": "gdax",
+        "assetName": "Wrapped Centrifuge",
+        "assetArcId": "AMB:WCF000000455",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "wcfg_usd",
+        "instrumentType": "spot"
+    }
+]

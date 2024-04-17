@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CSP000000490_AMB:USD000000335",
+        "normalizedPair": "cspr_usdt",
+        "normalizedSymbol": "cspr",
+        "nativePair": "CSPRUSDT",
+        "exchange": "mexc",
+        "assetName": "Casper",
+        "assetArcId": "AMB:CSP000000490",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cspr_usdt",
+        "instrumentType": "spot"
+    }
+]

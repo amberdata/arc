@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BRN000001493_AMB:USD000000335",
+        "normalizedPair": "brn_usdt",
+        "normalizedSymbol": "brn",
+        "nativePair": "BRNUSDT",
+        "exchange": "mexc",
+        "assetName": "BRN Metaverse",
+        "assetArcId": "AMB:BRN000001493",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "brn_usdt",
+        "instrumentType": "spot"
+    }
+]

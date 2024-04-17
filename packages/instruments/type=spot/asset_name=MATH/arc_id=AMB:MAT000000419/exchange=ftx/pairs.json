@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MAT000000419_AMB:USD000000949",
+        "normalizedPair": "math_usd",
+        "normalizedSymbol": "math",
+        "nativePair": "MATH/USD",
+        "exchange": "ftx",
+        "assetName": "MATH",
+        "assetArcId": "AMB:MAT000000419",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "math_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MAT000000419_AMB:USD000000335",
+        "normalizedPair": "math_usdt",
+        "normalizedSymbol": "math",
+        "nativePair": "MATH/USDT",
+        "exchange": "ftx",
+        "assetName": "MATH",
+        "assetArcId": "AMB:MAT000000419",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "math_usdt",
+        "instrumentType": "spot"
+    }
+]

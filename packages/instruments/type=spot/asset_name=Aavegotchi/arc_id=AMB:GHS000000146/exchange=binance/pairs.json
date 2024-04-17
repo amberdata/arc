@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GHS000000146_AMB:USD000000335",
+        "normalizedPair": "ghst_usdt",
+        "normalizedSymbol": "ghst",
+        "nativePair": "GHSTUSDT",
+        "exchange": "binance",
+        "assetName": "Aavegotchi",
+        "assetArcId": "AMB:GHS000000146",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ghst_usdt",
+        "instrumentType": "spot"
+    }
+]

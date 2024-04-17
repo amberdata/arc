@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RIF000000279_AMB:USD000000335",
+        "normalizedPair": "rif_usdt",
+        "normalizedSymbol": "rif",
+        "nativePair": "RIF_USDT",
+        "exchange": "poloniex",
+        "assetName": "Rootstock Infrastructure Framework",
+        "assetArcId": "AMB:RIF000000279",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rif_usdt",
+        "instrumentType": "spot"
+    }
+]

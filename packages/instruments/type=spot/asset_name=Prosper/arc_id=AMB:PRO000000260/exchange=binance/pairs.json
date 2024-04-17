@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:PRO000000260_AMB:BUS000000067",
+        "normalizedPair": "pros_busd",
+        "normalizedSymbol": "pros",
+        "nativePair": "PROSBUSD",
+        "exchange": "binance",
+        "assetName": "Prosper",
+        "assetArcId": "AMB:PRO000000260",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "pros_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PRO000000260_AMB:USD000000335",
+        "normalizedPair": "pros_usdt",
+        "normalizedSymbol": "pros",
+        "nativePair": "PROSUSDT",
+        "exchange": "binance",
+        "assetName": "Prosper",
+        "assetArcId": "AMB:PRO000000260",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pros_usdt",
+        "instrumentType": "spot"
+    }
+]

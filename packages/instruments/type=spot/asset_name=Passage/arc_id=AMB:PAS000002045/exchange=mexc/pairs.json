@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PAS000002045_AMB:USD000000335",
+        "normalizedPair": "pasg_usdt",
+        "normalizedSymbol": "pasg",
+        "nativePair": "PASGUSDT",
+        "exchange": "mexc",
+        "assetName": "Passage",
+        "assetArcId": "AMB:PAS000002045",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pasg_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BCH000002473_AMB:USD000000949",
+        "normalizedPair": "bchbear_usd",
+        "normalizedSymbol": "bchbear",
+        "nativePair": "BCHBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short Bitcoin Cash Token",
+        "assetArcId": "AMB:BCH000002473",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bchbear_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000002473_AMB:USD000000335",
+        "normalizedPair": "bchbear_usdt",
+        "normalizedSymbol": "bchbear",
+        "nativePair": "BCHBEAR/USDT",
+        "exchange": "ftx",
+        "assetName": "3X Short Bitcoin Cash Token",
+        "assetArcId": "AMB:BCH000002473",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bchbear_usdt",
+        "instrumentType": "spot"
+    }
+]

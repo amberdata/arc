@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ONI000000771_AMB:USD000000335",
+        "normalizedPair": "onit_usdt",
+        "normalizedSymbol": "onit",
+        "nativePair": "onitusdt",
+        "exchange": "huobi",
+        "assetName": "ONBUFF",
+        "assetArcId": "AMB:ONI000000771",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "onit_usdt",
+        "instrumentType": "spot"
+    }
+]

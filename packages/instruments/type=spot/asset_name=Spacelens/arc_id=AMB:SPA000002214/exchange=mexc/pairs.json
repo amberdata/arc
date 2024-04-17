@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SPA000002214_AMB:USD000000335",
+        "normalizedPair": "space_usdt",
+        "normalizedSymbol": "space",
+        "nativePair": "SPACEUSDT",
+        "exchange": "mexc",
+        "assetName": "Spacelens",
+        "assetArcId": "AMB:SPA000002214",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "space_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FOG000001676_AMB:USD000000335",
+        "normalizedPair": "fog_usdt",
+        "normalizedSymbol": "fog",
+        "nativePair": "FOGUSDT",
+        "exchange": "mexc",
+        "assetName": "FOGNET",
+        "assetArcId": "AMB:FOG000001676",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fog_usdt",
+        "instrumentType": "spot"
+    }
+]

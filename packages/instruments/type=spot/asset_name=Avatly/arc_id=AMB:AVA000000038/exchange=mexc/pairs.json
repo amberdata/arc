@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:AVA000000038_AMB:ETH000000000",
+        "normalizedPair": "ava_eth",
+        "normalizedSymbol": "ava",
+        "nativePair": "AVAETH",
+        "exchange": "mexc",
+        "assetName": "Avatly",
+        "assetArcId": "AMB:AVA000000038",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "ava_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AVA000000038_AMB:USD000000335",
+        "normalizedPair": "ava_usdt",
+        "normalizedSymbol": "ava",
+        "nativePair": "AVAUSDT",
+        "exchange": "mexc",
+        "assetName": "Avatly",
+        "assetArcId": "AMB:AVA000000038",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ava_usdt",
+        "instrumentType": "spot"
+    }
+]

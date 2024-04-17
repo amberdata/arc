@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ALP000000015_AMB:BTC000000000",
+        "normalizedPair": "alpha_btc",
+        "normalizedSymbol": "alpha",
+        "nativePair": "ALPHABTC",
+        "exchange": "binance",
+        "assetName": "Aavegotchi ALPHA",
+        "assetArcId": "AMB:ALP000000015",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "alpha_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALP000000015_AMB:USD000000335",
+        "normalizedPair": "alpha_usdt",
+        "normalizedSymbol": "alpha",
+        "nativePair": "ALPHAUSDT",
+        "exchange": "binance",
+        "assetName": "Aavegotchi ALPHA",
+        "assetArcId": "AMB:ALP000000015",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "alpha_usdt",
+        "instrumentType": "spot"
+    }
+]

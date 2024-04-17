@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RIK000002132_AMB:USD000000335",
+        "normalizedPair": "rik_usdt",
+        "normalizedSymbol": "rik",
+        "nativePair": "RIKUSDT",
+        "exchange": "mexc",
+        "assetName": "RIKEZA",
+        "assetArcId": "AMB:RIK000002132",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rik_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WOZ000000863_AMB:USD000000335",
+        "normalizedPair": "wozx_usdt",
+        "normalizedSymbol": "wozx",
+        "nativePair": "wozxusdt",
+        "exchange": "huobi",
+        "assetName": "Efforce",
+        "assetArcId": "AMB:WOZ000000863",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wozx_usdt",
+        "instrumentType": "spot"
+    }
+]

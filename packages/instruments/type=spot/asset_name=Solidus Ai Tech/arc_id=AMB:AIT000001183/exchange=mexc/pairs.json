@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIT000001183_AMB:USD000000335",
+        "normalizedPair": "aitech_usdt",
+        "normalizedSymbol": "aitech",
+        "nativePair": "AITECHUSDT",
+        "exchange": "mexc",
+        "assetName": "Solidus Ai Tech",
+        "assetArcId": "AMB:AIT000001183",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aitech_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CTC000000491_AMB:KRW000000000",
+        "normalizedPair": "ctc_krw",
+        "normalizedSymbol": "ctc",
+        "nativePair": "CTC/KRW",
+        "exchange": "bithumb",
+        "assetName": "Cybertronchain",
+        "assetArcId": "AMB:CTC000000491",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "ctc_krw",
+        "instrumentType": "spot"
+    }
+]

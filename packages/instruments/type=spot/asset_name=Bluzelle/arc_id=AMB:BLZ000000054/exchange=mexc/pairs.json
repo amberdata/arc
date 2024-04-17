@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BLZ000000054_AMB:USD000000335",
+        "normalizedPair": "blz_usdt",
+        "normalizedSymbol": "blz",
+        "nativePair": "BLZUSDT",
+        "exchange": "mexc",
+        "assetName": "Bluzelle",
+        "assetArcId": "AMB:BLZ000000054",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "blz_usdt",
+        "instrumentType": "spot"
+    }
+]

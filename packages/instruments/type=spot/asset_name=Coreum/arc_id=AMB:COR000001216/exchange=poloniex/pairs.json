@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COR000001216_AMB:USD000000335",
+        "normalizedPair": "coreum_usdt",
+        "normalizedSymbol": "coreum",
+        "nativePair": "COREUM_USDT",
+        "exchange": "poloniex",
+        "assetName": "Coreum",
+        "assetArcId": "AMB:COR000001216",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "coreum_usdt",
+        "instrumentType": "spot"
+    }
+]

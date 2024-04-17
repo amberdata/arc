@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AKI000000464_AMB:USD000000335",
+        "normalizedPair": "akita_usdt",
+        "normalizedSymbol": "akita",
+        "nativePair": "AKITA-USDT",
+        "exchange": "okex",
+        "assetName": "Akita Inu",
+        "assetArcId": "AMB:AKI000000464",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "akita_usdt",
+        "instrumentType": "spot"
+    }
+]

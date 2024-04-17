@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:YFI000000367_AMB:BTC000000000",
+        "normalizedPair": "yfi_btc",
+        "normalizedSymbol": "yfi",
+        "nativePair": "YFI/BTC",
+        "exchange": "ftxus",
+        "assetName": "yearn.finance",
+        "assetArcId": "AMB:YFI000000367",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "yfi_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:YFI000000367_AMB:USD000000949",
+        "normalizedPair": "yfi_usd",
+        "normalizedSymbol": "yfi",
+        "nativePair": "YFI/USD",
+        "exchange": "ftxus",
+        "assetName": "yearn.finance",
+        "assetArcId": "AMB:YFI000000367",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "yfi_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:YFI000000367_AMB:USD000000335",
+        "normalizedPair": "yfi_usdt",
+        "normalizedSymbol": "yfi",
+        "nativePair": "YFI/USDT",
+        "exchange": "ftxus",
+        "assetName": "yearn.finance",
+        "assetArcId": "AMB:YFI000000367",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "yfi_usdt",
+        "instrumentType": "spot"
+    }
+]

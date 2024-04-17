@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:GHS000000146_AMB:BTC000000000",
+        "normalizedPair": "ghst_btc",
+        "normalizedSymbol": "ghst",
+        "nativePair": "GHSTXBT",
+        "exchange": "kraken",
+        "assetName": "Aavegotchi",
+        "assetArcId": "AMB:GHS000000146",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ghst_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GHS000000146_AMB:EUR000000120",
+        "normalizedPair": "ghst_eur",
+        "normalizedSymbol": "ghst",
+        "nativePair": "GHSTEUR",
+        "exchange": "kraken",
+        "assetName": "Aavegotchi",
+        "assetArcId": "AMB:GHS000000146",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "ghst_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GHS000000146_AMB:USD000000949",
+        "normalizedPair": "ghst_usd",
+        "normalizedSymbol": "ghst",
+        "nativePair": "GHSTUSD",
+        "exchange": "kraken",
+        "assetName": "Aavegotchi",
+        "assetArcId": "AMB:GHS000000146",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ghst_usd",
+        "instrumentType": "spot"
+    }
+]

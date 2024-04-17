@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OLE000002014_AMB:USD000000335",
+        "normalizedPair": "olea_usdt",
+        "normalizedSymbol": "olea",
+        "nativePair": "OLEAUSDT",
+        "exchange": "mexc",
+        "assetName": "Olea Token",
+        "assetArcId": "AMB:OLE000002014",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "olea_usdt",
+        "instrumentType": "spot"
+    }
+]

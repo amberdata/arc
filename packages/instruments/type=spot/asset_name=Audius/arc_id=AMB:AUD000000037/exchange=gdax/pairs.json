@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AUD000000037_AMB:USD000000949",
+        "normalizedPair": "audio_usd",
+        "normalizedSymbol": "audio",
+        "nativePair": "AUDIO-USD",
+        "exchange": "gdax",
+        "assetName": "Audius",
+        "assetArcId": "AMB:AUD000000037",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "audio_usd",
+        "instrumentType": "spot"
+    }
+]

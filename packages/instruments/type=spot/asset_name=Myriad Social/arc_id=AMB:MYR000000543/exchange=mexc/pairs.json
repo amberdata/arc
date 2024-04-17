@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MYR000000543_AMB:USD000000335",
+        "normalizedPair": "myria_usdt",
+        "normalizedSymbol": "myria",
+        "nativePair": "MYRIAUSDT",
+        "exchange": "mexc",
+        "assetName": "Myriad Social",
+        "assetArcId": "AMB:MYR000000543",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "myria_usdt",
+        "instrumentType": "spot"
+    }
+]

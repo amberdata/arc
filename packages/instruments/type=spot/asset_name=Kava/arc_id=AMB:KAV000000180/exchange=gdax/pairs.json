@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KAV000000180_AMB:USD000000949",
+        "normalizedPair": "kava_usd",
+        "normalizedSymbol": "kava",
+        "nativePair": "KAVA-USD",
+        "exchange": "gdax",
+        "assetName": "Kava",
+        "assetArcId": "AMB:KAV000000180",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "kava_usd",
+        "instrumentType": "spot"
+    }
+]

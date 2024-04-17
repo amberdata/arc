@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TAO000000821_AMB:USD000000335",
+        "normalizedPair": "tao.amb.1_usdt",
+        "normalizedSymbol": "tao.amb.1",
+        "nativePair": "TAOUSDT",
+        "exchange": "mexc",
+        "assetName": "Bittensor",
+        "assetArcId": "AMB:TAO000000821",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tao_usdt",
+        "instrumentType": "spot"
+    }
+]

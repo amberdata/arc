@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FUD000000686_AMB:USD000000335",
+        "normalizedPair": "fud_usdt",
+        "normalizedSymbol": "fud",
+        "nativePair": "fudusdt",
+        "exchange": "huobi",
+        "assetName": "Aavegotchi FUD",
+        "assetArcId": "AMB:FUD000000686",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fud_usdt",
+        "instrumentType": "spot"
+    }
+]

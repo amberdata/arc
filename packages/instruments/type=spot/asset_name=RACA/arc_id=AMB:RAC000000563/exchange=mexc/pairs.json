@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAC000000563_AMB:USD000000335",
+        "normalizedPair": "raca_usdt",
+        "normalizedSymbol": "raca",
+        "nativePair": "RACAUSDT",
+        "exchange": "mexc",
+        "assetName": "RACA",
+        "assetArcId": "AMB:RAC000000563",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "raca_usdt",
+        "instrumentType": "spot"
+    }
+]

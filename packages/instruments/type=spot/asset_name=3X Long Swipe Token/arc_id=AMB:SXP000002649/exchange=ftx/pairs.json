@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SXP000002649_AMB:USD000000949",
+        "normalizedPair": "sxpbull_usd",
+        "normalizedSymbol": "sxpbull",
+        "nativePair": "SXPBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long Swipe Token",
+        "assetArcId": "AMB:SXP000002649",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sxpbull_usd",
+        "instrumentType": "spot"
+    }
+]

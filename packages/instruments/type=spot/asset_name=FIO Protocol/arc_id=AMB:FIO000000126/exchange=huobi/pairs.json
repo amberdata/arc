@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FIO000000126_AMB:USD000000335",
+        "normalizedPair": "fio_usdt",
+        "normalizedSymbol": "fio",
+        "nativePair": "fiousdt",
+        "exchange": "huobi",
+        "assetName": "FIO Protocol",
+        "assetArcId": "AMB:FIO000000126",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fio_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DGB000000100_AMB:USD000000335",
+        "normalizedPair": "dgb_usdt",
+        "normalizedSymbol": "dgb",
+        "nativePair": "DGBUSDT",
+        "exchange": "binanceus",
+        "assetName": "DigiByte",
+        "assetArcId": "AMB:DGB000000100",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dgb_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SHF000000918_AMB:USD000000949",
+        "normalizedPair": "shft_usd",
+        "normalizedSymbol": "shft",
+        "nativePair": "tSHFT:USD",
+        "exchange": "bitfinex",
+        "assetName": "Shyft Network",
+        "assetArcId": "AMB:SHF000000918",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "shft_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SHF000000918_AMB:USD000000335",
+        "normalizedPair": "shft_usdt",
+        "normalizedSymbol": "shft",
+        "nativePair": "tSHFT:UST",
+        "exchange": "bitfinex",
+        "assetName": "Shyft Network",
+        "assetArcId": "AMB:SHF000000918",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shft_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BIC000000052_AMB:EUR000000120",
+        "normalizedPair": "bico_eur",
+        "normalizedSymbol": "bico",
+        "nativePair": "BICOEUR",
+        "exchange": "kraken",
+        "assetName": "BICONOMY (BICO)",
+        "assetArcId": "AMB:BIC000000052",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "bico_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BIC000000052_AMB:USD000000949",
+        "normalizedPair": "bico_usd",
+        "normalizedSymbol": "bico",
+        "nativePair": "BICOUSD",
+        "exchange": "kraken",
+        "assetName": "BICONOMY (BICO)",
+        "assetArcId": "AMB:BIC000000052",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bico_usd",
+        "instrumentType": "spot"
+    }
+]

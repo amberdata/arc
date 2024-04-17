@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ARB000000024_AMB:USD000000335",
+        "normalizedPair": "arb_usdt",
+        "normalizedSymbol": "arb",
+        "nativePair": "ARBUSDT",
+        "exchange": "binanceus",
+        "assetName": "Arbitrum",
+        "assetArcId": "AMB:ARB000000024",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "arb_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CTX000000392_AMB:USD000000335",
+        "normalizedPair": "ctx_usdt",
+        "normalizedSymbol": "ctx",
+        "nativePair": "ctxusdt",
+        "exchange": "huobi",
+        "assetName": "Cryptex Finance",
+        "assetArcId": "AMB:CTX000000392",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ctx_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XYO000000457_AMB:USD000000335",
+        "normalizedPair": "xyo_usdt",
+        "normalizedSymbol": "xyo",
+        "nativePair": "xyo_usdt",
+        "exchange": "zb",
+        "assetName": "XYO",
+        "assetArcId": "AMB:XYO000000457",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xyo_usdt",
+        "instrumentType": "spot"
+    }
+]

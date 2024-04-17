@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHZ000000075_AMB:USD000000949",
+        "normalizedPair": "chz_usd",
+        "normalizedSymbol": "chz",
+        "nativePair": "chzusd",
+        "exchange": "gemini",
+        "assetName": "Chiliz",
+        "assetArcId": "AMB:CHZ000000075",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "chz_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:XWC000000989_AMB:QCA000000000",
+        "normalizedPair": "xwc_qc",
+        "normalizedSymbol": "xwc",
+        "nativePair": "xwc_qc",
+        "exchange": "zb",
+        "assetName": "WhiteCoin",
+        "assetArcId": "AMB:XWC000000989",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "xwc_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XWC000000989_AMB:USD000000335",
+        "normalizedPair": "xwc_usdt",
+        "normalizedSymbol": "xwc",
+        "nativePair": "xwc_usdt",
+        "exchange": "zb",
+        "assetName": "WhiteCoin",
+        "assetArcId": "AMB:XWC000000989",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xwc_usdt",
+        "instrumentType": "spot"
+    }
+]

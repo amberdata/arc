@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VCF000002316_AMB:USD000000335",
+        "normalizedPair": "vcf_usdt",
+        "normalizedSymbol": "vcf",
+        "nativePair": "VCFUSDT",
+        "exchange": "mexc",
+        "assetName": "Valencia CF Fan Token",
+        "assetArcId": "AMB:VCF000002316",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vcf_usdt",
+        "instrumentType": "spot"
+    }
+]

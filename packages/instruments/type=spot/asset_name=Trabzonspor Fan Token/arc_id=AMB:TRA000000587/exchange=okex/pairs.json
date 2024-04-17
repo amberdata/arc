@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRA000000587_AMB:USD000000335",
+        "normalizedPair": "tra_usdt",
+        "normalizedSymbol": "tra",
+        "nativePair": "TRA-USDT",
+        "exchange": "okex",
+        "assetName": "Trabzonspor Fan Token",
+        "assetArcId": "AMB:TRA000000587",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tra_usdt",
+        "instrumentType": "spot"
+    }
+]

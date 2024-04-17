@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:APT000000023_AMB:KRW000000000",
+        "normalizedPair": "apt_krw",
+        "normalizedSymbol": "apt",
+        "nativePair": "APT/KRW",
+        "exchange": "bithumb",
+        "assetName": "Aptos",
+        "assetArcId": "AMB:APT000000023",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "apt_krw",
+        "instrumentType": "spot"
+    }
+]

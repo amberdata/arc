@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PAX000000243_AMB:USD000000335",
+        "normalizedPair": "paxg_usdt",
+        "normalizedSymbol": "paxg",
+        "nativePair": "PAXGUSDT",
+        "exchange": "bybit",
+        "assetName": "PAX Gold",
+        "assetArcId": "AMB:PAX000000243",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "paxg_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:COS000000081_AMB:BNB000000055",
+        "normalizedPair": "cos_bnb",
+        "normalizedSymbol": "cos",
+        "nativePair": "COSBNB",
+        "exchange": "binance",
+        "assetName": "Cradle of Sins",
+        "assetArcId": "AMB:COS000000081",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "cos_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:COS000000081_AMB:BTC000000000",
+        "normalizedPair": "cos_btc",
+        "normalizedSymbol": "cos",
+        "nativePair": "COSBTC",
+        "exchange": "binance",
+        "assetName": "Cradle of Sins",
+        "assetArcId": "AMB:COS000000081",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "cos_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:COS000000081_AMB:TRY000000940",
+        "normalizedPair": "cos_try",
+        "normalizedSymbol": "cos",
+        "nativePair": "COSTRY",
+        "exchange": "binance",
+        "assetName": "Cradle of Sins",
+        "assetArcId": "AMB:COS000000081",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "cos_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:COS000000081_AMB:USD000000335",
+        "normalizedPair": "cos_usdt",
+        "normalizedSymbol": "cos",
+        "nativePair": "COSUSDT",
+        "exchange": "binance",
+        "assetName": "Cradle of Sins",
+        "assetArcId": "AMB:COS000000081",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cos_usdt",
+        "instrumentType": "spot"
+    }
+]

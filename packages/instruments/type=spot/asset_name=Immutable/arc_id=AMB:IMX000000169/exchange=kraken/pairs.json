@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:IMX000000169_AMB:EUR000000120",
+        "normalizedPair": "imx_eur",
+        "normalizedSymbol": "imx",
+        "nativePair": "IMXEUR",
+        "exchange": "kraken",
+        "assetName": "Immutable",
+        "assetArcId": "AMB:IMX000000169",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "imx_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IMX000000169_AMB:USD000000949",
+        "normalizedPair": "imx_usd",
+        "normalizedSymbol": "imx",
+        "nativePair": "IMXUSD",
+        "exchange": "kraken",
+        "assetName": "Immutable",
+        "assetArcId": "AMB:IMX000000169",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "imx_usd",
+        "instrumentType": "spot"
+    }
+]

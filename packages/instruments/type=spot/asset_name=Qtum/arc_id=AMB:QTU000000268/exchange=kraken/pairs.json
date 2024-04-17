@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:QTU000000268_AMB:BTC000000000",
+        "normalizedPair": "qtum_btc",
+        "normalizedSymbol": "qtum",
+        "nativePair": "QTUMXBT",
+        "exchange": "kraken",
+        "assetName": "Qtum",
+        "assetArcId": "AMB:QTU000000268",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "qtum_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:QTU000000268_AMB:ETH000000000",
+        "normalizedPair": "qtum_eth",
+        "normalizedSymbol": "qtum",
+        "nativePair": "QTUMETH",
+        "exchange": "kraken",
+        "assetName": "Qtum",
+        "assetArcId": "AMB:QTU000000268",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "qtum_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:QTU000000268_AMB:EUR000000120",
+        "normalizedPair": "qtum_eur",
+        "normalizedSymbol": "qtum",
+        "nativePair": "QTUMEUR",
+        "exchange": "kraken",
+        "assetName": "Qtum",
+        "assetArcId": "AMB:QTU000000268",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "qtum_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:QTU000000268_AMB:USD000000949",
+        "normalizedPair": "qtum_usd",
+        "normalizedSymbol": "qtum",
+        "nativePair": "QTUMUSD",
+        "exchange": "kraken",
+        "assetName": "Qtum",
+        "assetArcId": "AMB:QTU000000268",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "qtum_usd",
+        "instrumentType": "spot"
+    }
+]

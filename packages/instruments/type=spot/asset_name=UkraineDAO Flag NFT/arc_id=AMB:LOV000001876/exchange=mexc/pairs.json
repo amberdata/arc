@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LOV000001876_AMB:USD000000335",
+        "normalizedPair": "love2_usdt",
+        "normalizedSymbol": "love2",
+        "nativePair": "LOVE2USDT",
+        "exchange": "mexc",
+        "assetName": "UkraineDAO Flag NFT",
+        "assetArcId": "AMB:LOV000001876",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "love2_usdt",
+        "instrumentType": "spot"
+    }
+]

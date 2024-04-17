@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MST000001958_AMB:USD000000949",
+        "normalizedPair": "mstr.amb.1_usd",
+        "normalizedSymbol": "mstr.amb.1",
+        "nativePair": "MSTR/USD",
+        "exchange": "ftx",
+        "assetName": "MicroStrategy",
+        "assetArcId": "AMB:MST000001958",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mstr_usd",
+        "instrumentType": "spot"
+    }
+]

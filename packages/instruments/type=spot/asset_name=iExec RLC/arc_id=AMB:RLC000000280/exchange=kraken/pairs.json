@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:RLC000000280_AMB:EUR000000120",
+        "normalizedPair": "rlc_eur",
+        "normalizedSymbol": "rlc",
+        "nativePair": "RLCEUR",
+        "exchange": "kraken",
+        "assetName": "iExec RLC",
+        "assetArcId": "AMB:RLC000000280",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "rlc_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RLC000000280_AMB:USD000000949",
+        "normalizedPair": "rlc_usd",
+        "normalizedSymbol": "rlc",
+        "nativePair": "RLCUSD",
+        "exchange": "kraken",
+        "assetName": "iExec RLC",
+        "assetArcId": "AMB:RLC000000280",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "rlc_usd",
+        "instrumentType": "spot"
+    }
+]

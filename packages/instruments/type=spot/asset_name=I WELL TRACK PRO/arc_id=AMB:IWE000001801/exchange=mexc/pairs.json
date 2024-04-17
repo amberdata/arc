@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IWE000001801_AMB:USD000000335",
+        "normalizedPair": "iwell_usdt",
+        "normalizedSymbol": "iwell",
+        "nativePair": "IWELLUSDT",
+        "exchange": "mexc",
+        "assetName": "I WELL TRACK PRO",
+        "assetArcId": "AMB:IWE000001801",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "iwell_usdt",
+        "instrumentType": "spot"
+    }
+]

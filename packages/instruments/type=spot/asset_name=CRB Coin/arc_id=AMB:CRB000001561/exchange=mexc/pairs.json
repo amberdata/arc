@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRB000001561_AMB:USD000000335",
+        "normalizedPair": "crb_usdt",
+        "normalizedSymbol": "crb",
+        "nativePair": "CRBUSDT",
+        "exchange": "mexc",
+        "assetName": "CRB Coin",
+        "assetArcId": "AMB:CRB000001561",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "crb_usdt",
+        "instrumentType": "spot"
+    }
+]

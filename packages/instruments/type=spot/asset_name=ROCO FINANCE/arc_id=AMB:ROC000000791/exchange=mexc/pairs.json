@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ROC000000791_AMB:USD000000335",
+        "normalizedPair": "roco_usdt",
+        "normalizedSymbol": "roco",
+        "nativePair": "ROCOUSDT",
+        "exchange": "mexc",
+        "assetName": "ROCO FINANCE",
+        "assetArcId": "AMB:ROC000000791",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "roco_usdt",
+        "instrumentType": "spot"
+    }
+]

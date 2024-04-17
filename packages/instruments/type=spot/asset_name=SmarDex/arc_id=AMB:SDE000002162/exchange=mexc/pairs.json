@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SDE000002162_AMB:USD000000335",
+        "normalizedPair": "sdex_usdt",
+        "normalizedSymbol": "sdex",
+        "nativePair": "SDEXUSDT",
+        "exchange": "mexc",
+        "assetName": "SmarDex",
+        "assetArcId": "AMB:SDE000002162",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sdex_usdt",
+        "instrumentType": "spot"
+    }
+]

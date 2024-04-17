@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FLM000001666_AMB:USD000000335",
+        "normalizedPair": "flmc_usdt",
+        "normalizedSymbol": "flmc",
+        "nativePair": "FLMCUSDT",
+        "exchange": "mexc",
+        "assetName": "FleaMint",
+        "assetArcId": "AMB:FLM000001666",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "flmc_usdt",
+        "instrumentType": "spot"
+    }
+]

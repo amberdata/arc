@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VNN000002323_AMB:USD000000335",
+        "normalizedPair": "vnn_usdt",
+        "normalizedSymbol": "vnn",
+        "nativePair": "VNNUSDT",
+        "exchange": "mexc",
+        "assetName": "VINU Network",
+        "assetArcId": "AMB:VNN000002323",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vnn_usdt",
+        "instrumentType": "spot"
+    }
+]

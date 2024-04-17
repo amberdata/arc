@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JET000001807_AMB:USD000000949",
+        "normalizedPair": "jet_usd",
+        "normalizedSymbol": "jet",
+        "nativePair": "JET/USD",
+        "exchange": "ftx",
+        "assetName": "Jet Protocol",
+        "assetArcId": "AMB:JET000001807",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "jet_usd",
+        "instrumentType": "spot"
+    }
+]

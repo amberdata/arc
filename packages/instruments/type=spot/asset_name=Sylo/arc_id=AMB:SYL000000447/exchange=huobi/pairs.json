@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SYL000000447_AMB:USD000000335",
+        "normalizedPair": "sylo_usdt",
+        "normalizedSymbol": "sylo",
+        "nativePair": "sylousdt",
+        "exchange": "huobi",
+        "assetName": "Sylo",
+        "assetArcId": "AMB:SYL000000447",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sylo_usdt",
+        "instrumentType": "spot"
+    }
+]

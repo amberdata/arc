@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:1IN000000000_AMB:EUR000000120",
+        "normalizedPair": "1inch_eur",
+        "normalizedSymbol": "1inch",
+        "nativePair": "1INCHEUR",
+        "exchange": "kraken",
+        "assetName": "1inch",
+        "assetArcId": "AMB:1IN000000000",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "1inch_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:1IN000000000_AMB:USD000000949",
+        "normalizedPair": "1inch_usd",
+        "normalizedSymbol": "1inch",
+        "nativePair": "1INCHUSD",
+        "exchange": "kraken",
+        "assetName": "1inch",
+        "assetArcId": "AMB:1IN000000000",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "1inch_usd",
+        "instrumentType": "spot"
+    }
+]

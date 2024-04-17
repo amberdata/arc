@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GEN000001238_AMB:USD000000335",
+        "normalizedPair": "genslr_usdt",
+        "normalizedSymbol": "genslr",
+        "nativePair": "GENSLR_USDT",
+        "exchange": "poloniex",
+        "assetName": "Good Gensler",
+        "assetArcId": "AMB:GEN000001238",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "genslr_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:EGL000000110_AMB:EUR000000120",
+        "normalizedPair": "egld_eur",
+        "normalizedSymbol": "egld",
+        "nativePair": "EGLDEUR",
+        "exchange": "kraken",
+        "assetName": "MultiversX",
+        "assetArcId": "AMB:EGL000000110",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "egld_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:EGL000000110_AMB:USD000000949",
+        "normalizedPair": "egld_usd",
+        "normalizedSymbol": "egld",
+        "nativePair": "EGLDUSD",
+        "exchange": "kraken",
+        "assetName": "MultiversX",
+        "assetArcId": "AMB:EGL000000110",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "egld_usd",
+        "instrumentType": "spot"
+    }
+]

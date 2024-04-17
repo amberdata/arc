@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DEX000000396_AMB:USD000000949",
+        "normalizedPair": "dext_usd",
+        "normalizedSymbol": "dext",
+        "nativePair": "DEXT-USD",
+        "exchange": "gdax",
+        "assetName": "DEXTools",
+        "assetArcId": "AMB:DEX000000396",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dext_usd",
+        "instrumentType": "spot"
+    }
+]

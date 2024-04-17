@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CLU000001544_AMB:USD000000335",
+        "normalizedPair": "club_usdt",
+        "normalizedSymbol": "club",
+        "nativePair": "CLUBUSDT",
+        "exchange": "mexc",
+        "assetName": "ClubCoin",
+        "assetArcId": "AMB:CLU000001544",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "club_usdt",
+        "instrumentType": "spot"
+    }
+]

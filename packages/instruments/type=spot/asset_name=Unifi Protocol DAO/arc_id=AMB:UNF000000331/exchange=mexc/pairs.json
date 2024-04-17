@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UNF000000331_AMB:USD000000335",
+        "normalizedPair": "unfi_usdt",
+        "normalizedSymbol": "unfi",
+        "nativePair": "UNFIUSDT",
+        "exchange": "mexc",
+        "assetName": "Unifi Protocol DAO",
+        "assetArcId": "AMB:UNF000000331",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "unfi_usdt",
+        "instrumentType": "spot"
+    }
+]

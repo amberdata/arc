@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALM000001391_AMB:USD000000335",
+        "normalizedPair": "alm_usdt",
+        "normalizedSymbol": "alm",
+        "nativePair": "ALMUSDT",
+        "exchange": "mexc",
+        "assetName": "Alium Finance",
+        "assetArcId": "AMB:ALM000001391",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "alm_usdt",
+        "instrumentType": "spot"
+    }
+]

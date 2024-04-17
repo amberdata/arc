@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BOB000000385_AMB:EUR000000120",
+        "normalizedPair": "boba_eur",
+        "normalizedSymbol": "boba",
+        "nativePair": "BOBAEUR",
+        "exchange": "kraken",
+        "assetName": "Boba Network",
+        "assetArcId": "AMB:BOB000000385",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "boba_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BOB000000385_AMB:USD000000949",
+        "normalizedPair": "boba_usd",
+        "normalizedSymbol": "boba",
+        "nativePair": "BOBAUSD",
+        "exchange": "kraken",
+        "assetName": "Boba Network",
+        "assetArcId": "AMB:BOB000000385",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "boba_usd",
+        "instrumentType": "spot"
+    }
+]

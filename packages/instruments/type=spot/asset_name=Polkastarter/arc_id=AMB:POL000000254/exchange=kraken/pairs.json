@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:POL000000254_AMB:EUR000000120",
+        "normalizedPair": "pols_eur",
+        "normalizedSymbol": "pols",
+        "nativePair": "POLSEUR",
+        "exchange": "kraken",
+        "assetName": "Polkastarter",
+        "assetArcId": "AMB:POL000000254",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "pols_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:POL000000254_AMB:USD000000949",
+        "normalizedPair": "pols_usd",
+        "normalizedSymbol": "pols",
+        "nativePair": "POLSUSD",
+        "exchange": "kraken",
+        "assetName": "Polkastarter",
+        "assetArcId": "AMB:POL000000254",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "pols_usd",
+        "instrumentType": "spot"
+    }
+]

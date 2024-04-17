@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UMB000002305_AMB:USD000000335",
+        "normalizedPair": "umb_usdt",
+        "normalizedSymbol": "umb",
+        "nativePair": "UMBUSDT",
+        "exchange": "mexc",
+        "assetName": "Umbrella Network",
+        "assetArcId": "AMB:UMB000002305",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "umb_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GMT000000149_AMB:KRW000000000",
+        "normalizedPair": "gmt_krw",
+        "normalizedSymbol": "gmt",
+        "nativePair": "GMT/KRW",
+        "exchange": "bithumb",
+        "assetName": "STEPN",
+        "assetArcId": "AMB:GMT000000149",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "gmt_krw",
+        "instrumentType": "spot"
+    }
+]

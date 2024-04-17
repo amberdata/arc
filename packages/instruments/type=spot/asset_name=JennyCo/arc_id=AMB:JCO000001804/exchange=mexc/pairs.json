@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JCO000001804_AMB:USD000000335",
+        "normalizedPair": "jco_usdt",
+        "normalizedSymbol": "jco",
+        "nativePair": "JCOUSDT",
+        "exchange": "mexc",
+        "assetName": "JennyCo",
+        "assetArcId": "AMB:JCO000001804",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jco_usdt",
+        "instrumentType": "spot"
+    }
+]

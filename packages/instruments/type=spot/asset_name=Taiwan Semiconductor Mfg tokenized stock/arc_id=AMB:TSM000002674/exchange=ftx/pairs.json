@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TSM000002674_AMB:USD000000949",
+        "normalizedPair": "tsm_usd",
+        "normalizedSymbol": "tsm",
+        "nativePair": "TSM/USD",
+        "exchange": "ftx",
+        "assetName": "Taiwan Semiconductor Mfg tokenized stock",
+        "assetArcId": "AMB:TSM000002674",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "tsm_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DAG000001578_AMB:USD000000335",
+        "normalizedPair": "dag_usdt",
+        "normalizedSymbol": "dag",
+        "nativePair": "DAGUSDT",
+        "exchange": "mexc",
+        "assetName": "Constellation",
+        "assetArcId": "AMB:DAG000001578",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dag_usdt",
+        "instrumentType": "spot"
+    }
+]

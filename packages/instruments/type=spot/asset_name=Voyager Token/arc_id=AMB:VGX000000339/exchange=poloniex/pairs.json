@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:VGX000000339_AMB:USD000000841",
+        "normalizedPair": "vgx_usdd",
+        "normalizedSymbol": "vgx",
+        "nativePair": "VGX_USDD",
+        "exchange": "poloniex",
+        "assetName": "Voyager Token",
+        "assetArcId": "AMB:VGX000000339",
+        "quoteArcId": "AMB:USD000000841",
+        "collectedPair": "vgx_usdd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:VGX000000339_AMB:USD000000335",
+        "normalizedPair": "vgx_usdt",
+        "normalizedSymbol": "vgx",
+        "nativePair": "VGX_USDT",
+        "exchange": "poloniex",
+        "assetName": "Voyager Token",
+        "assetArcId": "AMB:VGX000000339",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vgx_usdt",
+        "instrumentType": "spot"
+    }
+]

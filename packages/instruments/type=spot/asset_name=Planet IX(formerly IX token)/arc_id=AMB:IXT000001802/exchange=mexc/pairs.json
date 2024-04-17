@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IXT000001802_AMB:USD000000335",
+        "normalizedPair": "ixt_usdt",
+        "normalizedSymbol": "ixt",
+        "nativePair": "IXTUSDT",
+        "exchange": "mexc",
+        "assetName": "Planet IX(formerly IX token)",
+        "assetArcId": "AMB:IXT000001802",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ixt_usdt",
+        "instrumentType": "spot"
+    }
+]

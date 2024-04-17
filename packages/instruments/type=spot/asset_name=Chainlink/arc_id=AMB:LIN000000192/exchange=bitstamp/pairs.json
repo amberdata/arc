@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:LIN000000192_AMB:BTC000000000",
+        "normalizedPair": "link_btc",
+        "normalizedSymbol": "link",
+        "nativePair": "linkbtc",
+        "exchange": "bitstamp",
+        "assetName": "Chainlink",
+        "assetArcId": "AMB:LIN000000192",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "link_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LIN000000192_AMB:EUR000000120",
+        "normalizedPair": "link_eur",
+        "normalizedSymbol": "link",
+        "nativePair": "linkeur",
+        "exchange": "bitstamp",
+        "assetName": "Chainlink",
+        "assetArcId": "AMB:LIN000000192",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "link_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LIN000000192_AMB:GBP000000144",
+        "normalizedPair": "link_gbp",
+        "normalizedSymbol": "link",
+        "nativePair": "linkgbp",
+        "exchange": "bitstamp",
+        "assetName": "Chainlink",
+        "assetArcId": "AMB:LIN000000192",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "link_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LIN000000192_AMB:USD000000949",
+        "normalizedPair": "link_usd",
+        "normalizedSymbol": "link",
+        "nativePair": "linkusd",
+        "exchange": "bitstamp",
+        "assetName": "Chainlink",
+        "assetArcId": "AMB:LIN000000192",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "link_usd",
+        "instrumentType": "spot"
+    }
+]

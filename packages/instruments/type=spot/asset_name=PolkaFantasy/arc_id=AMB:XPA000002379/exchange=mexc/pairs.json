@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XPA000002379_AMB:USD000000335",
+        "normalizedPair": "xp_usdt",
+        "normalizedSymbol": "xp",
+        "nativePair": "XPUSDT",
+        "exchange": "mexc",
+        "assetName": "PolkaFantasy",
+        "assetArcId": "AMB:XPA000002379",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xp_usdt",
+        "instrumentType": "spot"
+    }
+]

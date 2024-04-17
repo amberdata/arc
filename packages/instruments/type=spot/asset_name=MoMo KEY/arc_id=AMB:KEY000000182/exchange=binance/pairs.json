@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:KEY000000182_AMB:BUS000000067",
+        "normalizedPair": "key_busd",
+        "normalizedSymbol": "key",
+        "nativePair": "KEYBUSD",
+        "exchange": "binance",
+        "assetName": "MoMo KEY",
+        "assetArcId": "AMB:KEY000000182",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "key_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KEY000000182_AMB:USD000000335",
+        "normalizedPair": "key_usdt",
+        "normalizedSymbol": "key",
+        "nativePair": "KEYUSDT",
+        "exchange": "binance",
+        "assetName": "MoMo KEY",
+        "assetArcId": "AMB:KEY000000182",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "key_usdt",
+        "instrumentType": "spot"
+    }
+]

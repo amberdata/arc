@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EXF000001648_AMB:USD000000335",
+        "normalizedPair": "exfi_usdt",
+        "normalizedSymbol": "exfi",
+        "nativePair": "EXFIUSDT",
+        "exchange": "mexc",
+        "assetName": "Experimental Finance",
+        "assetArcId": "AMB:EXF000001648",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "exfi_usdt",
+        "instrumentType": "spot"
+    }
+]

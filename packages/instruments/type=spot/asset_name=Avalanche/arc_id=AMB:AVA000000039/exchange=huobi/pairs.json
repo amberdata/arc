@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AVA000000039_AMB:USD000000335",
+        "normalizedPair": "avax_usdt",
+        "normalizedSymbol": "avax",
+        "nativePair": "avaxusdt",
+        "exchange": "huobi",
+        "assetName": "Avalanche",
+        "assetArcId": "AMB:AVA000000039",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "avax_usdt",
+        "instrumentType": "spot"
+    }
+]

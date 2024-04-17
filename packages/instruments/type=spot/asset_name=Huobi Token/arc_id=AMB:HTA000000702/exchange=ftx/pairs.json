@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HTA000000702_AMB:USD000000949",
+        "normalizedPair": "ht_usd",
+        "normalizedSymbol": "ht",
+        "nativePair": "HT/USD",
+        "exchange": "ftx",
+        "assetName": "Huobi Token",
+        "assetArcId": "AMB:HTA000000702",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ht_usd",
+        "instrumentType": "spot"
+    }
+]

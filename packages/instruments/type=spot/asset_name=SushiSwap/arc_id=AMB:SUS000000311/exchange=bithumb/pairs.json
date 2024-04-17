@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SUS000000311_AMB:KRW000000000",
+        "normalizedPair": "sushi_krw",
+        "normalizedSymbol": "sushi",
+        "nativePair": "SUSHI/KRW",
+        "exchange": "bithumb",
+        "assetName": "SushiSwap",
+        "assetArcId": "AMB:SUS000000311",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "sushi_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETP000001643_AMB:USD000000335",
+        "normalizedPair": "etp_usdt",
+        "normalizedSymbol": "etp",
+        "nativePair": "ETPUSDT",
+        "exchange": "mexc",
+        "assetName": "Metaverse ETP",
+        "assetArcId": "AMB:ETP000001643",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "etp_usdt",
+        "instrumentType": "spot"
+    }
+]

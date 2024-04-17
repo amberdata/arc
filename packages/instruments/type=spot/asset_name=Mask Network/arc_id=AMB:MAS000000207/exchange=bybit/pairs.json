@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAS000000207_AMB:USD000000335",
+        "normalizedPair": "mask_usdt",
+        "normalizedSymbol": "mask",
+        "nativePair": "MASKUSDT",
+        "exchange": "bybit",
+        "assetName": "Mask Network",
+        "assetArcId": "AMB:MAS000000207",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mask_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALT000001138_AMB:KRW000000000",
+        "normalizedPair": "alt_krw",
+        "normalizedSymbol": "alt",
+        "nativePair": "ALT/KRW",
+        "exchange": "bithumb",
+        "assetName": "Alphabet",
+        "assetArcId": "AMB:ALT000001138",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "alt_krw",
+        "instrumentType": "spot"
+    }
+]

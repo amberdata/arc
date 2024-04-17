@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:CVX000000090_AMB:BTC000000000",
+        "normalizedPair": "cvx_btc",
+        "normalizedSymbol": "cvx",
+        "nativePair": "CVXBTC",
+        "exchange": "binance",
+        "assetName": "Convex Finance",
+        "assetArcId": "AMB:CVX000000090",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "cvx_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CVX000000090_AMB:USD000000335",
+        "normalizedPair": "cvx_usdt",
+        "normalizedSymbol": "cvx",
+        "nativePair": "CVXUSDT",
+        "exchange": "binance",
+        "assetName": "Convex Finance",
+        "assetArcId": "AMB:CVX000000090",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cvx_usdt",
+        "instrumentType": "spot"
+    }
+]

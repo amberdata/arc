@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GOR000001720_AMB:USD000000335",
+        "normalizedPair": "gora_usdt",
+        "normalizedSymbol": "gora",
+        "nativePair": "GORAUSDT",
+        "exchange": "mexc",
+        "assetName": "GORA",
+        "assetArcId": "AMB:GOR000001720",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gora_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SPE000000299_AMB:USD000000949",
+        "normalizedPair": "spell_usd",
+        "normalizedSymbol": "spell",
+        "nativePair": "SPELL/USD",
+        "exchange": "ftx",
+        "assetName": "Spell Token",
+        "assetArcId": "AMB:SPE000000299",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "spell_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:NYM000000545_AMB:BTC000000000",
+        "normalizedPair": "nym_btc",
+        "normalizedSymbol": "nym",
+        "nativePair": "NYMXBT",
+        "exchange": "kraken",
+        "assetName": "NYM",
+        "assetArcId": "AMB:NYM000000545",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "nym_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NYM000000545_AMB:EUR000000120",
+        "normalizedPair": "nym_eur",
+        "normalizedSymbol": "nym",
+        "nativePair": "NYMEUR",
+        "exchange": "kraken",
+        "assetName": "NYM",
+        "assetArcId": "AMB:NYM000000545",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "nym_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NYM000000545_AMB:USD000000949",
+        "normalizedPair": "nym_usd",
+        "normalizedSymbol": "nym",
+        "nativePair": "NYMUSD",
+        "exchange": "kraken",
+        "assetName": "NYM",
+        "assetArcId": "AMB:NYM000000545",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "nym_usd",
+        "instrumentType": "spot"
+    }
+]

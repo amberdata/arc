@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EWC000001646_AMB:USD000000335",
+        "normalizedPair": "ewc_usdt",
+        "normalizedSymbol": "ewc",
+        "nativePair": "EWCUSDT",
+        "exchange": "mexc",
+        "assetName": "Erugo World Coin",
+        "assetArcId": "AMB:EWC000001646",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ewc_usdt",
+        "instrumentType": "spot"
+    }
+]

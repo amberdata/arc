@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SNX000000297_AMB:KRW000000000",
+        "normalizedPair": "snx_krw",
+        "normalizedSymbol": "snx",
+        "nativePair": "SNX/KRW",
+        "exchange": "bithumb",
+        "assetName": "SincroniX",
+        "assetArcId": "AMB:SNX000000297",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "snx_krw",
+        "instrumentType": "spot"
+    }
+]

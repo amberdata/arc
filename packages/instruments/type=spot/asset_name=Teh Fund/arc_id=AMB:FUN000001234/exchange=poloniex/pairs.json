@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:FUN000001234_AMB:BTC000000000",
+        "normalizedPair": "fund_btc",
+        "normalizedSymbol": "fund",
+        "nativePair": "FUND_BTC",
+        "exchange": "poloniex",
+        "assetName": "Teh Fund",
+        "assetArcId": "AMB:FUN000001234",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "fund_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FUN000001234_AMB:TRX000000325",
+        "normalizedPair": "fund_trx",
+        "normalizedSymbol": "fund",
+        "nativePair": "FUND_TRX",
+        "exchange": "poloniex",
+        "assetName": "Teh Fund",
+        "assetArcId": "AMB:FUN000001234",
+        "quoteArcId": "AMB:TRX000000325",
+        "collectedPair": "fund_trx",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FUN000001234_AMB:USD000000335",
+        "normalizedPair": "fund_usdt",
+        "normalizedSymbol": "fund",
+        "nativePair": "FUND_USDT",
+        "exchange": "poloniex",
+        "assetName": "Teh Fund",
+        "assetArcId": "AMB:FUN000001234",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fund_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:RSR000000284_AMB:ETH000000000",
+        "normalizedPair": "rsr_eth",
+        "normalizedSymbol": "rsr",
+        "nativePair": "RSRETH",
+        "exchange": "mexc",
+        "assetName": "Reserve Rights",
+        "assetArcId": "AMB:RSR000000284",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "rsr_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RSR000000284_AMB:USD000000335",
+        "normalizedPair": "rsr_usdt",
+        "normalizedSymbol": "rsr",
+        "nativePair": "RSRUSDT",
+        "exchange": "mexc",
+        "assetName": "Reserve Rights",
+        "assetArcId": "AMB:RSR000000284",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rsr_usdt",
+        "instrumentType": "spot"
+    }
+]

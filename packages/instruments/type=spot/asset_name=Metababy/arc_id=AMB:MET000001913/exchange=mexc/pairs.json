@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MET000001913_AMB:USD000000335",
+        "normalizedPair": "metababy_usdt",
+        "normalizedSymbol": "metababy",
+        "nativePair": "METABABYUSDT",
+        "exchange": "mexc",
+        "assetName": "Metababy",
+        "assetArcId": "AMB:MET000001913",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "metababy_usdt",
+        "instrumentType": "spot"
+    }
+]

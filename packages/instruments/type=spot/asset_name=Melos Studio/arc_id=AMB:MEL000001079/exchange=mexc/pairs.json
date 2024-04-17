@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MEL000001079_AMB:USD000000335",
+        "normalizedPair": "melos_usdt",
+        "normalizedSymbol": "melos",
+        "nativePair": "MELOSUSDT",
+        "exchange": "mexc",
+        "assetName": "Melos Studio",
+        "assetArcId": "AMB:MEL000001079",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "melos_usdt",
+        "instrumentType": "spot"
+    }
+]

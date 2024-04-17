@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRA000000451_AMB:USD000000335",
+        "normalizedPair": "trac_usdt",
+        "normalizedSymbol": "trac",
+        "nativePair": "tracusdt",
+        "exchange": "huobi",
+        "assetName": "OriginTrail",
+        "assetArcId": "AMB:TRA000000451",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trac_usdt",
+        "instrumentType": "spot"
+    }
+]

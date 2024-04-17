@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOM000002660_AMB:USD000000949",
+        "normalizedPair": "tomobull_usd",
+        "normalizedSymbol": "tomobull",
+        "nativePair": "TOMOBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long TomoChain Token",
+        "assetArcId": "AMB:TOM000002660",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "tomobull_usd",
+        "instrumentType": "spot"
+    }
+]

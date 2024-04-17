@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DAR000000092_AMB:USD000000335",
+        "normalizedPair": "dar_usdt",
+        "normalizedSymbol": "dar",
+        "nativePair": "DARUSDT",
+        "exchange": "mexc",
+        "assetName": "Mines of Dalarnia",
+        "assetArcId": "AMB:DAR000000092",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dar_usdt",
+        "instrumentType": "spot"
+    }
+]

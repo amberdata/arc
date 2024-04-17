@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OBR000002005_AMB:USD000000335",
+        "normalizedPair": "obrok_usdt",
+        "normalizedSymbol": "obrok",
+        "nativePair": "OBROKUSDT",
+        "exchange": "mexc",
+        "assetName": "OBRok Token",
+        "assetArcId": "AMB:OBR000002005",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "obrok_usdt",
+        "instrumentType": "spot"
+    }
+]

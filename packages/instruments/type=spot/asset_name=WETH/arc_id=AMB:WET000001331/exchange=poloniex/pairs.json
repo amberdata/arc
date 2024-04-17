@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WET000001331_AMB:USD000000335",
+        "normalizedPair": "weth_usdt",
+        "normalizedSymbol": "weth",
+        "nativePair": "WETH_USDT",
+        "exchange": "poloniex",
+        "assetName": "WETH",
+        "assetArcId": "AMB:WET000001331",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "weth_usdt",
+        "instrumentType": "spot"
+    }
+]

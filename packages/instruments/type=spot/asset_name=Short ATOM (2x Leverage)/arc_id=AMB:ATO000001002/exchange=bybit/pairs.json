@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ATO000001002_AMB:USD000000335",
+        "normalizedPair": "atom2s_usdt",
+        "normalizedSymbol": "atom2s",
+        "nativePair": "ATOM2SUSDT",
+        "exchange": "bybit",
+        "assetName": "Short ATOM (2x Leverage)",
+        "assetArcId": "AMB:ATO000001002",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "atom2s_usdt",
+        "instrumentType": "spot"
+    }
+]

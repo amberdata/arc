@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PRX000002097_AMB:USD000000335",
+        "normalizedPair": "prx_usdt",
+        "normalizedSymbol": "prx",
+        "nativePair": "PRXUSDT",
+        "exchange": "mexc",
+        "assetName": "Parex",
+        "assetArcId": "AMB:PRX000002097",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "prx_usdt",
+        "instrumentType": "spot"
+    }
+]

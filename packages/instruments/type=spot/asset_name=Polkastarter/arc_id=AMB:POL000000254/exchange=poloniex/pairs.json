@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POL000000254_AMB:USD000000335",
+        "normalizedPair": "pols_usdt",
+        "normalizedSymbol": "pols",
+        "nativePair": "POLS_USDT",
+        "exchange": "poloniex",
+        "assetName": "Polkastarter",
+        "assetArcId": "AMB:POL000000254",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pols_usdt",
+        "instrumentType": "spot"
+    }
+]

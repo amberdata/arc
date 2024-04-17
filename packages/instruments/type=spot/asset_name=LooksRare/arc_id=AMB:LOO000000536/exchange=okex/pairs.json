@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LOO000000536_AMB:USD000000333",
+        "normalizedPair": "looks_usdc",
+        "normalizedSymbol": "looks",
+        "nativePair": "LOOKS-USDC",
+        "exchange": "okex",
+        "assetName": "LooksRare",
+        "assetArcId": "AMB:LOO000000536",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "looks_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LOO000000536_AMB:USD000000335",
+        "normalizedPair": "looks_usdt",
+        "normalizedSymbol": "looks",
+        "nativePair": "LOOKS-USDT",
+        "exchange": "okex",
+        "assetName": "LooksRare",
+        "assetArcId": "AMB:LOO000000536",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "looks_usdt",
+        "instrumentType": "spot"
+    }
+]

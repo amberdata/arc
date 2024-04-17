@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SRT000000813_AMB:USD000000335",
+        "normalizedPair": "srt_usdt",
+        "normalizedSymbol": "srt",
+        "nativePair": "SRTUSDT",
+        "exchange": "mexc",
+        "assetName": "Solidray (new)",
+        "assetArcId": "AMB:SRT000000813",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "srt_usdt",
+        "instrumentType": "spot"
+    }
+]

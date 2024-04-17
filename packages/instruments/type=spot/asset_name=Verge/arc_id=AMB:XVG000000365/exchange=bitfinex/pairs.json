@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XVG000000365_AMB:USD000000949",
+        "normalizedPair": "xvg_usd",
+        "normalizedSymbol": "xvg",
+        "nativePair": "tXVGUSD",
+        "exchange": "bitfinex",
+        "assetName": "Verge",
+        "assetArcId": "AMB:XVG000000365",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xvg_usd",
+        "instrumentType": "spot"
+    }
+]

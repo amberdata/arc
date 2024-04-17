@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ICP000000164_AMB:USD000000335",
+        "normalizedPair": "icp_usdt",
+        "normalizedSymbol": "icp",
+        "nativePair": "ICP_USDT",
+        "exchange": "poloniex",
+        "assetName": "Internet Computer",
+        "assetArcId": "AMB:ICP000000164",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "icp_usdt",
+        "instrumentType": "spot"
+    }
+]

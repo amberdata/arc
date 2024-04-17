@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAN000001191_AMB:USD000000335",
+        "normalizedPair": "banana_usdt",
+        "normalizedSymbol": "banana",
+        "nativePair": "BANANAUSDT",
+        "exchange": "mexc",
+        "assetName": "Banana",
+        "assetArcId": "AMB:BAN000001191",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "banana_usdt",
+        "instrumentType": "spot"
+    }
+]

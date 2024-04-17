@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALP000000016_AMB:USD000000335",
+        "normalizedPair": "alpine_usdt",
+        "normalizedSymbol": "alpine",
+        "nativePair": "ALPINEUSDT",
+        "exchange": "mexc",
+        "assetName": "Alpine F1 Team Fan Token",
+        "assetArcId": "AMB:ALP000000016",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "alpine_usdt",
+        "instrumentType": "spot"
+    }
+]

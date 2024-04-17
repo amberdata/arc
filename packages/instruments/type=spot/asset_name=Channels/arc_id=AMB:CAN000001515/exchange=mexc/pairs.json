@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CAN000001515_AMB:USD000000335",
+        "normalizedPair": "can_usdt",
+        "normalizedSymbol": "can",
+        "nativePair": "CANUSDT",
+        "exchange": "mexc",
+        "assetName": "Channels",
+        "assetArcId": "AMB:CAN000001515",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "can_usdt",
+        "instrumentType": "spot"
+    }
+]

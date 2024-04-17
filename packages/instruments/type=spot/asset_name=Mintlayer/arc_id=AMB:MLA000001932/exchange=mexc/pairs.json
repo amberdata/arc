@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MLA000001932_AMB:USD000000335",
+        "normalizedPair": "ml_usdt",
+        "normalizedSymbol": "ml",
+        "nativePair": "MLUSDT",
+        "exchange": "mexc",
+        "assetName": "Mintlayer",
+        "assetArcId": "AMB:MLA000001932",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ml_usdt",
+        "instrumentType": "spot"
+    }
+]

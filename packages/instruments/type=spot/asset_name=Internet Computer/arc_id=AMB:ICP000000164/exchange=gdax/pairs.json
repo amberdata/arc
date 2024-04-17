@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:ICP000000164_AMB:BTC000000000",
+        "normalizedPair": "icp_btc",
+        "normalizedSymbol": "icp",
+        "nativePair": "ICP-BTC",
+        "exchange": "gdax",
+        "assetName": "Internet Computer",
+        "assetArcId": "AMB:ICP000000164",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "icp_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ICP000000164_AMB:EUR000000120",
+        "normalizedPair": "icp_eur",
+        "normalizedSymbol": "icp",
+        "nativePair": "ICP-EUR",
+        "exchange": "gdax",
+        "assetName": "Internet Computer",
+        "assetArcId": "AMB:ICP000000164",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "icp_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ICP000000164_AMB:GBP000000144",
+        "normalizedPair": "icp_gbp",
+        "normalizedSymbol": "icp",
+        "nativePair": "ICP-GBP",
+        "exchange": "gdax",
+        "assetName": "Internet Computer",
+        "assetArcId": "AMB:ICP000000164",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "icp_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ICP000000164_AMB:USD000000949",
+        "normalizedPair": "icp_usd",
+        "normalizedSymbol": "icp",
+        "nativePair": "ICP-USD",
+        "exchange": "gdax",
+        "assetName": "Internet Computer",
+        "assetArcId": "AMB:ICP000000164",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "icp_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ICP000000164_AMB:USD000000335",
+        "normalizedPair": "icp_usdt",
+        "normalizedSymbol": "icp",
+        "nativePair": "ICP-USDT",
+        "exchange": "gdax",
+        "assetName": "Internet Computer",
+        "assetArcId": "AMB:ICP000000164",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "icp_usdt",
+        "instrumentType": "spot"
+    }
+]

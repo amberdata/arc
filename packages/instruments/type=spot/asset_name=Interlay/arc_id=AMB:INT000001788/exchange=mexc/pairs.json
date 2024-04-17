@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:INT000001788_AMB:USD000000335",
+        "normalizedPair": "intr_usdt",
+        "normalizedSymbol": "intr",
+        "nativePair": "INTRUSDT",
+        "exchange": "mexc",
+        "assetName": "Interlay",
+        "assetArcId": "AMB:INT000001788",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "intr_usdt",
+        "instrumentType": "spot"
+    }
+]

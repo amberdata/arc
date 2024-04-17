@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NTA000000765_AMB:USD000000335",
+        "normalizedPair": "nt_usdt",
+        "normalizedSymbol": "nt",
+        "nativePair": "ntusdt",
+        "exchange": "huobi",
+        "assetName": "NexDAX Chain",
+        "assetArcId": "AMB:NTA000000765",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nt_usdt",
+        "instrumentType": "spot"
+    }
+]

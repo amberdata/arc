@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SFP000000292_AMB:USD000000335",
+        "normalizedPair": "sfp_usdt",
+        "normalizedSymbol": "sfp",
+        "nativePair": "SFPUSDT",
+        "exchange": "mexc",
+        "assetName": "SafePal",
+        "assetArcId": "AMB:SFP000000292",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sfp_usdt",
+        "instrumentType": "spot"
+    }
+]

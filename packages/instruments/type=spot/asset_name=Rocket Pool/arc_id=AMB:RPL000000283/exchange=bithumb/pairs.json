@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RPL000000283_AMB:KRW000000000",
+        "normalizedPair": "rpl_krw",
+        "normalizedSymbol": "rpl",
+        "nativePair": "RPL/KRW",
+        "exchange": "bithumb",
+        "assetName": "Rocket Pool",
+        "assetArcId": "AMB:RPL000000283",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "rpl_krw",
+        "instrumentType": "spot"
+    }
+]

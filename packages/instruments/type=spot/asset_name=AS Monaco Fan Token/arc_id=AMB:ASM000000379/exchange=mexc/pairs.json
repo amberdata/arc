@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ASM000000379_AMB:USD000000335",
+        "normalizedPair": "asm.amb.1_usdt",
+        "normalizedSymbol": "asm.amb.1",
+        "nativePair": "ASMUSDT",
+        "exchange": "mexc",
+        "assetName": "AS Monaco Fan Token",
+        "assetArcId": "AMB:ASM000000379",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "asm_usdt",
+        "instrumentType": "spot"
+    }
+]

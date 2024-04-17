@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EGG000001148_AMB:KRW000000000",
+        "normalizedPair": "egg_krw",
+        "normalizedSymbol": "egg",
+        "nativePair": "EGG/KRW",
+        "exchange": "bithumb",
+        "assetName": "Waves Ducks",
+        "assetArcId": "AMB:EGG000001148",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "egg_krw",
+        "instrumentType": "spot"
+    }
+]

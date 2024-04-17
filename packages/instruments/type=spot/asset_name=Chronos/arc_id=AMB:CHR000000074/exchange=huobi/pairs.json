@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHR000000074_AMB:USD000000335",
+        "normalizedPair": "chr_usdt",
+        "normalizedSymbol": "chr",
+        "nativePair": "chrusdt",
+        "exchange": "huobi",
+        "assetName": "Chronos",
+        "assetArcId": "AMB:CHR000000074",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "chr_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NOV000001991_AMB:USD000000335",
+        "normalizedPair": "novax_usdt",
+        "normalizedSymbol": "novax",
+        "nativePair": "NOVAXUSDT",
+        "exchange": "mexc",
+        "assetName": "NovaX",
+        "assetArcId": "AMB:NOV000001991",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "novax_usdt",
+        "instrumentType": "spot"
+    }
+]

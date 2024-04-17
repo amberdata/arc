@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NES000000757_AMB:USD000000335",
+        "normalizedPair": "nest_usdt",
+        "normalizedSymbol": "nest",
+        "nativePair": "NESTUSDT",
+        "exchange": "mexc",
+        "assetName": "NEST Protocol",
+        "assetArcId": "AMB:NES000000757",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nest_usdt",
+        "instrumentType": "spot"
+    }
+]

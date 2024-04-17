@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:2MO000001343_AMB:USD000000335",
+        "normalizedPair": "2moon_usdt",
+        "normalizedSymbol": "2moon",
+        "nativePair": "2MOONUSDT",
+        "exchange": "mexc",
+        "assetName": "Moon",
+        "assetArcId": "AMB:2MO000001343",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "2moon_usdt",
+        "instrumentType": "spot"
+    }
+]

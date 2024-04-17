@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OAS000000546_AMB:KRW000000000",
+        "normalizedPair": "oas_krw",
+        "normalizedSymbol": "oas",
+        "nativePair": "OAS/KRW",
+        "exchange": "bithumb",
+        "assetName": "Oasys",
+        "assetArcId": "AMB:OAS000000546",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "oas_krw",
+        "instrumentType": "spot"
+    }
+]

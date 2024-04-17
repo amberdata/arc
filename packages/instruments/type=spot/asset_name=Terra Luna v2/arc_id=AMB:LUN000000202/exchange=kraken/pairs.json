@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LUN000000202_AMB:EUR000000120",
+        "normalizedPair": "luna_eur",
+        "normalizedSymbol": "luna",
+        "nativePair": "LUNA2EUR",
+        "exchange": "kraken",
+        "assetName": "Terra Luna v2",
+        "assetArcId": "AMB:LUN000000202",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "luna_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LUN000000202_AMB:USD000000949",
+        "normalizedPair": "luna_usd",
+        "normalizedSymbol": "luna",
+        "nativePair": "LUNA2USD",
+        "exchange": "kraken",
+        "assetName": "Terra Luna v2",
+        "assetArcId": "AMB:LUN000000202",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "luna_usd",
+        "instrumentType": "spot"
+    }
+]

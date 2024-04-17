@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FAC000001227_AMB:USD000000335",
+        "normalizedPair": "factr_usdt",
+        "normalizedSymbol": "factr",
+        "nativePair": "FACTR_USDT",
+        "exchange": "poloniex",
+        "assetName": "Defactor",
+        "assetArcId": "AMB:FAC000001227",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "factr_usdt",
+        "instrumentType": "spot"
+    }
+]

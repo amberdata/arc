@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:BTC000000000",
+        "normalizedPair": "mkr_btc",
+        "normalizedSymbol": "mkr",
+        "nativePair": "MKR_BTC",
+        "exchange": "poloniex",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "mkr_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:USD000000335",
+        "normalizedPair": "mkr_usdt",
+        "normalizedSymbol": "mkr",
+        "nativePair": "MKR_USDT",
+        "exchange": "poloniex",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mkr_usdt",
+        "instrumentType": "spot"
+    }
+]

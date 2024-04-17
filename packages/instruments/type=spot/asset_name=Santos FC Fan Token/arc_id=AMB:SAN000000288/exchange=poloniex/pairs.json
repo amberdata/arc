@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SAN000000288_AMB:USD000000841",
+        "normalizedPair": "santos_usdd",
+        "normalizedSymbol": "santos",
+        "nativePair": "SANTOS_USDD",
+        "exchange": "poloniex",
+        "assetName": "Santos FC Fan Token",
+        "assetArcId": "AMB:SAN000000288",
+        "quoteArcId": "AMB:USD000000841",
+        "collectedPair": "santos_usdd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SAN000000288_AMB:USD000000335",
+        "normalizedPair": "santos_usdt",
+        "normalizedSymbol": "santos",
+        "nativePair": "SANTOS_USDT",
+        "exchange": "poloniex",
+        "assetName": "Santos FC Fan Token",
+        "assetArcId": "AMB:SAN000000288",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "santos_usdt",
+        "instrumentType": "spot"
+    }
+]

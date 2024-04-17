@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BEL000000049_AMB:KRW000000000",
+        "normalizedPair": "bel_krw",
+        "normalizedSymbol": "bel",
+        "nativePair": "BEL/KRW",
+        "exchange": "bithumb",
+        "assetName": "Bella Protocol",
+        "assetArcId": "AMB:BEL000000049",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "bel_krw",
+        "instrumentType": "spot"
+    }
+]

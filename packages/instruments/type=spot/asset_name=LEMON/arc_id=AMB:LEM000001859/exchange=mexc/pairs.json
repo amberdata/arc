@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LEM000001859_AMB:USD000000335",
+        "normalizedPair": "lemn_usdt",
+        "normalizedSymbol": "lemn",
+        "nativePair": "LEMNUSDT",
+        "exchange": "mexc",
+        "assetName": "LEMON",
+        "assetArcId": "AMB:LEM000001859",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lemn_usdt",
+        "instrumentType": "spot"
+    }
+]

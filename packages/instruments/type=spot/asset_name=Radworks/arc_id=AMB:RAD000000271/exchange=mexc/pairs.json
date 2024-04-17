@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAD000000271_AMB:USD000000335",
+        "normalizedPair": "rad_usdt",
+        "normalizedSymbol": "rad",
+        "nativePair": "RADUSDT",
+        "exchange": "mexc",
+        "assetName": "Radworks",
+        "assetArcId": "AMB:RAD000000271",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rad_usdt",
+        "instrumentType": "spot"
+    }
+]

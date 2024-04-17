@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CQT000000489_AMB:USD000000949",
+        "normalizedPair": "cqt_usd",
+        "normalizedSymbol": "cqt",
+        "nativePair": "CQT/USD",
+        "exchange": "ftx",
+        "assetName": "Covalent",
+        "assetArcId": "AMB:CQT000000489",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "cqt_usd",
+        "instrumentType": "spot"
+    }
+]

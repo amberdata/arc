@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAI000000786_AMB:USD000000335",
+        "normalizedPair": "rain_usdt",
+        "normalizedSymbol": "rain",
+        "nativePair": "RAINUSDT",
+        "exchange": "bybit",
+        "assetName": "Precipitate.AI",
+        "assetArcId": "AMB:RAI000000786",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rain_usdt",
+        "instrumentType": "spot"
+    }
+]

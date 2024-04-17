@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:TOM000000320_AMB:BTC000000000",
+        "normalizedPair": "tomo_btc",
+        "normalizedSymbol": "tomo",
+        "nativePair": "TOMOBTC",
+        "exchange": "binance",
+        "assetName": "TomoChain",
+        "assetArcId": "AMB:TOM000000320",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "tomo_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TOM000000320_AMB:BUS000000067",
+        "normalizedPair": "tomo_busd",
+        "normalizedSymbol": "tomo",
+        "nativePair": "TOMOBUSD",
+        "exchange": "binance",
+        "assetName": "TomoChain",
+        "assetArcId": "AMB:TOM000000320",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "tomo_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TOM000000320_AMB:TRY000000940",
+        "normalizedPair": "tomo_try",
+        "normalizedSymbol": "tomo",
+        "nativePair": "TOMOTRY",
+        "exchange": "binance",
+        "assetName": "TomoChain",
+        "assetArcId": "AMB:TOM000000320",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "tomo_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TOM000000320_AMB:USD000000335",
+        "normalizedPair": "tomo_usdt",
+        "normalizedSymbol": "tomo",
+        "nativePair": "TOMOUSDT",
+        "exchange": "binance",
+        "assetName": "TomoChain",
+        "assetArcId": "AMB:TOM000000320",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tomo_usdt",
+        "instrumentType": "spot"
+    }
+]

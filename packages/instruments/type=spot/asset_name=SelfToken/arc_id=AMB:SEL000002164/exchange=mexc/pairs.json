@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SEL000002164_AMB:USD000000335",
+        "normalizedPair": "self_usdt",
+        "normalizedSymbol": "self",
+        "nativePair": "SELFUSDT",
+        "exchange": "mexc",
+        "assetName": "SelfToken",
+        "assetArcId": "AMB:SEL000002164",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "self_usdt",
+        "instrumentType": "spot"
+    }
+]

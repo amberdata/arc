@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:KNC000002577_AMB:USD000000949",
+        "normalizedPair": "kncbear_usd",
+        "normalizedSymbol": "kncbear",
+        "nativePair": "KNCBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short Kyber Network Token",
+        "assetArcId": "AMB:KNC000002577",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "kncbear_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KNC000002577_AMB:USD000000335",
+        "normalizedPair": "kncbear_usdt",
+        "normalizedSymbol": "kncbear",
+        "nativePair": "KNCBEAR/USDT",
+        "exchange": "ftx",
+        "assetName": "3X Short Kyber Network Token",
+        "assetArcId": "AMB:KNC000002577",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kncbear_usdt",
+        "instrumentType": "spot"
+    }
+]

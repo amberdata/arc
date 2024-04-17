@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOM000000831_AMB:USD000000335",
+        "normalizedPair": "toms_usdt",
+        "normalizedSymbol": "toms",
+        "nativePair": "tomsusdt",
+        "exchange": "huobi",
+        "assetName": "TomTomCoin",
+        "assetArcId": "AMB:TOM000000831",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "toms_usdt",
+        "instrumentType": "spot"
+    }
+]

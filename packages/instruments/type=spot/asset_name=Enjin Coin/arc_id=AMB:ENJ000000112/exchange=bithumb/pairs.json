@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ENJ000000112_AMB:KRW000000000",
+        "normalizedPair": "enj_krw",
+        "normalizedSymbol": "enj",
+        "nativePair": "ENJ/KRW",
+        "exchange": "bithumb",
+        "assetName": "Enjin Coin",
+        "assetArcId": "AMB:ENJ000000112",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "enj_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XEP000002371_AMB:USD000000335",
+        "normalizedPair": "xep_usdt",
+        "normalizedSymbol": "xep",
+        "nativePair": "XEPUSDT",
+        "exchange": "mexc",
+        "assetName": "Electra Protocol",
+        "assetArcId": "AMB:XEP000002371",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xep_usdt",
+        "instrumentType": "spot"
+    }
+]

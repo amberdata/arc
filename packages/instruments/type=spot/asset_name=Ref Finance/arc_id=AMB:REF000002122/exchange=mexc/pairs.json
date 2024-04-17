@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:REF000002122_AMB:USD000000335",
+        "normalizedPair": "ref_usdt",
+        "normalizedSymbol": "ref",
+        "nativePair": "REFUSDT",
+        "exchange": "mexc",
+        "assetName": "Ref Finance",
+        "assetArcId": "AMB:REF000002122",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ref_usdt",
+        "instrumentType": "spot"
+    }
+]

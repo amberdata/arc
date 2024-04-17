@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LPT000000196_AMB:USD000000335",
+        "normalizedPair": "lpt_usdt",
+        "normalizedSymbol": "lpt",
+        "nativePair": "lptusdt",
+        "exchange": "huobi",
+        "assetName": "Livepeer",
+        "assetArcId": "AMB:LPT000000196",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lpt_usdt",
+        "instrumentType": "spot"
+    }
+]

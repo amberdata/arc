@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NAK000001975_AMB:USD000000335",
+        "normalizedPair": "naka_usdt",
+        "normalizedSymbol": "naka",
+        "nativePair": "NAKAUSDT",
+        "exchange": "mexc",
+        "assetName": "Nakamoto Games",
+        "assetArcId": "AMB:NAK000001975",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "naka_usdt",
+        "instrumentType": "spot"
+    }
+]

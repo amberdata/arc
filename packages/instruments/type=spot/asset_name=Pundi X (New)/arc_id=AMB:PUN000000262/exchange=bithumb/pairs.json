@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PUN000000262_AMB:KRW000000000",
+        "normalizedPair": "pundix_krw",
+        "normalizedSymbol": "pundix",
+        "nativePair": "PUNDIX/KRW",
+        "exchange": "bithumb",
+        "assetName": "Pundi X (New)",
+        "assetArcId": "AMB:PUN000000262",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "pundix_krw",
+        "instrumentType": "spot"
+    }
+]

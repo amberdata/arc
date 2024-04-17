@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SPE000000299_AMB:USD000000335",
+        "normalizedPair": "spell_usdt",
+        "normalizedSymbol": "spell",
+        "nativePair": "SPELLUSDT",
+        "exchange": "bybit",
+        "assetName": "Spell Token",
+        "assetArcId": "AMB:SPE000000299",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "spell_usdt",
+        "instrumentType": "spot"
+    }
+]

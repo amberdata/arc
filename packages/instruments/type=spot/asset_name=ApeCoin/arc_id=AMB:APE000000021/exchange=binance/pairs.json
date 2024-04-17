@@ -1,0 +1,86 @@
+[
+    {
+        "arcPairId": "AMB:APE000000021_AMB:BNB000000055",
+        "normalizedPair": "ape_bnb",
+        "normalizedSymbol": "ape",
+        "nativePair": "APEBNB",
+        "exchange": "binance",
+        "assetName": "ApeCoin",
+        "assetArcId": "AMB:APE000000021",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "ape_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APE000000021_AMB:BTC000000000",
+        "normalizedPair": "ape_btc",
+        "normalizedSymbol": "ape",
+        "nativePair": "APEBTC",
+        "exchange": "binance",
+        "assetName": "ApeCoin",
+        "assetArcId": "AMB:APE000000021",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ape_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APE000000021_AMB:BUS000000067",
+        "normalizedPair": "ape_busd",
+        "normalizedSymbol": "ape",
+        "nativePair": "APEBUSD",
+        "exchange": "binance",
+        "assetName": "ApeCoin",
+        "assetArcId": "AMB:APE000000021",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "ape_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APE000000021_AMB:ETH000000000",
+        "normalizedPair": "ape_eth",
+        "normalizedSymbol": "ape",
+        "nativePair": "APEETH",
+        "exchange": "binance",
+        "assetName": "ApeCoin",
+        "assetArcId": "AMB:APE000000021",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "ape_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APE000000021_AMB:EUR000000120",
+        "normalizedPair": "ape_eur",
+        "normalizedSymbol": "ape",
+        "nativePair": "APEEUR",
+        "exchange": "binance",
+        "assetName": "ApeCoin",
+        "assetArcId": "AMB:APE000000021",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "ape_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APE000000021_AMB:TRY000000940",
+        "normalizedPair": "ape_try",
+        "normalizedSymbol": "ape",
+        "nativePair": "APETRY",
+        "exchange": "binance",
+        "assetName": "ApeCoin",
+        "assetArcId": "AMB:APE000000021",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "ape_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APE000000021_AMB:USD000000335",
+        "normalizedPair": "ape_usdt",
+        "normalizedSymbol": "ape",
+        "nativePair": "APEUSDT",
+        "exchange": "binance",
+        "assetName": "ApeCoin",
+        "assetArcId": "AMB:APE000000021",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ape_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WAL000000851_AMB:USD000000335",
+        "normalizedPair": "wallet_usdt",
+        "normalizedSymbol": "wallet",
+        "nativePair": "walletusdt",
+        "exchange": "huobi",
+        "assetName": "Ambire Wallet",
+        "assetArcId": "AMB:WAL000000851",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wallet_usdt",
+        "instrumentType": "spot"
+    }
+]

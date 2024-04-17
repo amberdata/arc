@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SIS000000573_AMB:USD000000335",
+        "normalizedPair": "sis_usdt",
+        "normalizedSymbol": "sis",
+        "nativePair": "sisusdt",
+        "exchange": "huobi",
+        "assetName": "Symbiosis",
+        "assetArcId": "AMB:SIS000000573",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sis_usdt",
+        "instrumentType": "spot"
+    }
+]

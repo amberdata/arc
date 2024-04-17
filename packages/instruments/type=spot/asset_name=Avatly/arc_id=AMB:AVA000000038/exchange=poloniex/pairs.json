@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:AVA000000038_AMB:BTC000000000",
+        "normalizedPair": "ava_btc",
+        "normalizedSymbol": "ava",
+        "nativePair": "AVA_BTC",
+        "exchange": "poloniex",
+        "assetName": "Avatly",
+        "assetArcId": "AMB:AVA000000038",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ava_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AVA000000038_AMB:TRX000000325",
+        "normalizedPair": "ava_trx",
+        "normalizedSymbol": "ava",
+        "nativePair": "AVA_TRX",
+        "exchange": "poloniex",
+        "assetName": "Avatly",
+        "assetArcId": "AMB:AVA000000038",
+        "quoteArcId": "AMB:TRX000000325",
+        "collectedPair": "ava_trx",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AVA000000038_AMB:USD000000335",
+        "normalizedPair": "ava_usdt",
+        "normalizedSymbol": "ava",
+        "nativePair": "AVA_USDT",
+        "exchange": "poloniex",
+        "assetName": "Avatly",
+        "assetArcId": "AMB:AVA000000038",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ava_usdt",
+        "instrumentType": "spot"
+    }
+]

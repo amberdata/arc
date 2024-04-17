@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COL000001215_AMB:USD000000335",
+        "normalizedPair": "collab_usdt",
+        "normalizedSymbol": "collab",
+        "nativePair": "COLLAB_USDT",
+        "exchange": "poloniex",
+        "assetName": "Collab.Land",
+        "assetArcId": "AMB:COL000001215",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "collab_usdt",
+        "instrumentType": "spot"
+    }
+]

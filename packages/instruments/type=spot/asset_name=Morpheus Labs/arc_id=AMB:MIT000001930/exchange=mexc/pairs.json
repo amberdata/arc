@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MIT000001930_AMB:USD000000335",
+        "normalizedPair": "mitx_usdt",
+        "normalizedSymbol": "mitx",
+        "nativePair": "MITXUSDT",
+        "exchange": "mexc",
+        "assetName": "Morpheus Labs",
+        "assetArcId": "AMB:MIT000001930",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mitx_usdt",
+        "instrumentType": "spot"
+    }
+]

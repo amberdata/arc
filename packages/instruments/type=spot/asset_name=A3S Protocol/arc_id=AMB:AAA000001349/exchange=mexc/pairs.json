@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AAA000001349_AMB:USD000000335",
+        "normalizedPair": "aa_usdt",
+        "normalizedSymbol": "aa",
+        "nativePair": "AAUSDT",
+        "exchange": "mexc",
+        "assetName": "A3S Protocol",
+        "assetArcId": "AMB:AAA000001349",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aa_usdt",
+        "instrumentType": "spot"
+    }
+]

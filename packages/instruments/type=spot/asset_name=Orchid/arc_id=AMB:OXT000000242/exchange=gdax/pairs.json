@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OXT000000242_AMB:USD000000949",
+        "normalizedPair": "oxt_usd",
+        "normalizedSymbol": "oxt",
+        "nativePair": "OXT-USD",
+        "exchange": "gdax",
+        "assetName": "Orchid",
+        "assetArcId": "AMB:OXT000000242",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "oxt_usd",
+        "instrumentType": "spot"
+    }
+]

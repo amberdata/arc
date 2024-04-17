@@ -1,0 +1,74 @@
+[
+    {
+        "arcPairId": "AMB:DAR000000092_AMB:BNB000000055",
+        "normalizedPair": "dar_bnb",
+        "normalizedSymbol": "dar",
+        "nativePair": "DARBNB",
+        "exchange": "binance",
+        "assetName": "Mines of Dalarnia",
+        "assetArcId": "AMB:DAR000000092",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "dar_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DAR000000092_AMB:BTC000000000",
+        "normalizedPair": "dar_btc",
+        "normalizedSymbol": "dar",
+        "nativePair": "DARBTC",
+        "exchange": "binance",
+        "assetName": "Mines of Dalarnia",
+        "assetArcId": "AMB:DAR000000092",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "dar_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DAR000000092_AMB:BUS000000067",
+        "normalizedPair": "dar_busd",
+        "normalizedSymbol": "dar",
+        "nativePair": "DARBUSD",
+        "exchange": "binance",
+        "assetName": "Mines of Dalarnia",
+        "assetArcId": "AMB:DAR000000092",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "dar_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DAR000000092_AMB:EUR000000120",
+        "normalizedPair": "dar_eur",
+        "normalizedSymbol": "dar",
+        "nativePair": "DAREUR",
+        "exchange": "binance",
+        "assetName": "Mines of Dalarnia",
+        "assetArcId": "AMB:DAR000000092",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "dar_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DAR000000092_AMB:TRY000000940",
+        "normalizedPair": "dar_try",
+        "normalizedSymbol": "dar",
+        "nativePair": "DARTRY",
+        "exchange": "binance",
+        "assetName": "Mines of Dalarnia",
+        "assetArcId": "AMB:DAR000000092",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "dar_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DAR000000092_AMB:USD000000335",
+        "normalizedPair": "dar_usdt",
+        "normalizedSymbol": "dar",
+        "nativePair": "DARUSDT",
+        "exchange": "binance",
+        "assetName": "Mines of Dalarnia",
+        "assetArcId": "AMB:DAR000000092",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dar_usdt",
+        "instrumentType": "spot"
+    }
+]

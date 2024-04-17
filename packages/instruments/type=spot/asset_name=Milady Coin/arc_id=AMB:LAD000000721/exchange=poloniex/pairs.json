@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LAD000000721_AMB:USD000000335",
+        "normalizedPair": "ladys_usdt",
+        "normalizedSymbol": "ladys",
+        "nativePair": "LADYS_USDT",
+        "exchange": "poloniex",
+        "assetName": "Milady Coin",
+        "assetArcId": "AMB:LAD000000721",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ladys_usdt",
+        "instrumentType": "spot"
+    }
+]

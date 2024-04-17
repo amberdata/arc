@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETH000000500_AMB:USD000000335",
+        "normalizedPair": "ethw_usdt",
+        "normalizedSymbol": "ethw",
+        "nativePair": "ethwusdt",
+        "exchange": "huobi",
+        "assetName": "EthereumPoW",
+        "assetArcId": "AMB:ETH000000500",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ethw_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GBC000001698_AMB:USD000000335",
+        "normalizedPair": "gbc_usdt",
+        "normalizedSymbol": "gbc",
+        "nativePair": "GBCUSDT",
+        "exchange": "mexc",
+        "assetName": "Green Blue Coin",
+        "assetArcId": "AMB:GBC000001698",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gbc_usdt",
+        "instrumentType": "spot"
+    }
+]

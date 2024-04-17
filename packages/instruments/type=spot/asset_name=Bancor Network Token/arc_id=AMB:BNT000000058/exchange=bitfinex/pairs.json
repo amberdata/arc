@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BNT000000058_AMB:USD000000949",
+        "normalizedPair": "bnt_usd",
+        "normalizedSymbol": "bnt",
+        "nativePair": "tBNTUSD",
+        "exchange": "bitfinex",
+        "assetName": "Bancor Network Token",
+        "assetArcId": "AMB:BNT000000058",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bnt_usd",
+        "instrumentType": "spot"
+    }
+]

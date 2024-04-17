@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TXA000002296_AMB:USD000000335",
+        "normalizedPair": "txa_usdt",
+        "normalizedSymbol": "txa",
+        "nativePair": "TXAUSDT",
+        "exchange": "mexc",
+        "assetName": "Project TXA",
+        "assetArcId": "AMB:TXA000002296",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "txa_usdt",
+        "instrumentType": "spot"
+    }
+]

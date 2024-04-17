@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:XLM000000359_AMB:BTC000000000",
+        "normalizedPair": "xlm_btc",
+        "normalizedSymbol": "xlm",
+        "nativePair": "XLM-BTC",
+        "exchange": "gdax",
+        "assetName": "Stellar Lumens",
+        "assetArcId": "AMB:XLM000000359",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "xlm_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XLM000000359_AMB:EUR000000120",
+        "normalizedPair": "xlm_eur",
+        "normalizedSymbol": "xlm",
+        "nativePair": "XLM-EUR",
+        "exchange": "gdax",
+        "assetName": "Stellar Lumens",
+        "assetArcId": "AMB:XLM000000359",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "xlm_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XLM000000359_AMB:USD000000949",
+        "normalizedPair": "xlm_usd",
+        "normalizedSymbol": "xlm",
+        "nativePair": "XLM-USD",
+        "exchange": "gdax",
+        "assetName": "Stellar Lumens",
+        "assetArcId": "AMB:XLM000000359",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xlm_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XLM000000359_AMB:USD000000335",
+        "normalizedPair": "xlm_usdt",
+        "normalizedSymbol": "xlm",
+        "nativePair": "XLM-USDT",
+        "exchange": "gdax",
+        "assetName": "Stellar Lumens",
+        "assetArcId": "AMB:XLM000000359",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xlm_usdt",
+        "instrumentType": "spot"
+    }
+]

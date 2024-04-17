@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRV000000084_AMB:KRW000000000",
+        "normalizedPair": "crv_krw",
+        "normalizedSymbol": "crv",
+        "nativePair": "CRV/KRW",
+        "exchange": "bithumb",
+        "assetName": "Curve DAO Token",
+        "assetArcId": "AMB:CRV000000084",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "crv_krw",
+        "instrumentType": "spot"
+    }
+]

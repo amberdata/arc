@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:INJ000000170_AMB:BTC000000000",
+        "normalizedPair": "inj_btc",
+        "normalizedSymbol": "inj",
+        "nativePair": "INJ_BTC",
+        "exchange": "poloniex",
+        "assetName": "Injective",
+        "assetArcId": "AMB:INJ000000170",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "inj_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:INJ000000170_AMB:USD000000335",
+        "normalizedPair": "inj_usdt",
+        "normalizedSymbol": "inj",
+        "nativePair": "INJ_USDT",
+        "exchange": "poloniex",
+        "assetName": "Injective",
+        "assetArcId": "AMB:INJ000000170",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "inj_usdt",
+        "instrumentType": "spot"
+    }
+]

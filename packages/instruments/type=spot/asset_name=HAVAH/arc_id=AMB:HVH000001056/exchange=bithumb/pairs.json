@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HVH000001056_AMB:BTC000000000",
+        "normalizedPair": "hvh_btc",
+        "normalizedSymbol": "hvh",
+        "nativePair": "HVH/BTC",
+        "exchange": "bithumb",
+        "assetName": "HAVAH",
+        "assetArcId": "AMB:HVH000001056",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "hvh_btc",
+        "instrumentType": "spot"
+    }
+]

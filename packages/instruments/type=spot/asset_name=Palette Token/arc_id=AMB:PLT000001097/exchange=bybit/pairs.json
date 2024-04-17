@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PLT000001097_AMB:USD000000335",
+        "normalizedPair": "plt_usdt",
+        "normalizedSymbol": "plt",
+        "nativePair": "PLTUSDT",
+        "exchange": "bybit",
+        "assetName": "Palette Token",
+        "assetArcId": "AMB:PLT000001097",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "plt_usdt",
+        "instrumentType": "spot"
+    }
+]

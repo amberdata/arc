@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BET000000051_AMB:ETH000000000",
+        "normalizedPair": "beth_eth",
+        "normalizedSymbol": "beth",
+        "nativePair": "BETH-ETH",
+        "exchange": "okex",
+        "assetName": "Beacon ETH",
+        "assetArcId": "AMB:BET000000051",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "beth_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BET000000051_AMB:USD000000335",
+        "normalizedPair": "beth_usdt",
+        "normalizedSymbol": "beth",
+        "nativePair": "BETH-USDT",
+        "exchange": "okex",
+        "assetName": "Beacon ETH",
+        "assetArcId": "AMB:BET000000051",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "beth_usdt",
+        "instrumentType": "spot"
+    }
+]

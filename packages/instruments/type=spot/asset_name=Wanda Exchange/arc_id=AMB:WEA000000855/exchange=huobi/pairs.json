@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WEA000000855_AMB:USD000000335",
+        "normalizedPair": "we_usdt",
+        "normalizedSymbol": "we",
+        "nativePair": "weusdt",
+        "exchange": "huobi",
+        "assetName": "Wanda Exchange",
+        "assetArcId": "AMB:WEA000000855",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "we_usdt",
+        "instrumentType": "spot"
+    }
+]

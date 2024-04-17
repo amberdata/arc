@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EKT000001627_AMB:USD000000335",
+        "normalizedPair": "ekta_usdt",
+        "normalizedSymbol": "ekta",
+        "nativePair": "EKTAUSDT",
+        "exchange": "mexc",
+        "assetName": "Ekta",
+        "assetArcId": "AMB:EKT000001627",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ekta_usdt",
+        "instrumentType": "spot"
+    }
+]

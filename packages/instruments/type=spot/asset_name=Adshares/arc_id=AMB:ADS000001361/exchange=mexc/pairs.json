@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ADS000001361_AMB:USD000000335",
+        "normalizedPair": "ads_usdt",
+        "normalizedSymbol": "ads",
+        "nativePair": "ADSUSDT",
+        "exchange": "mexc",
+        "assetName": "Adshares",
+        "assetArcId": "AMB:ADS000001361",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ads_usdt",
+        "instrumentType": "spot"
+    }
+]

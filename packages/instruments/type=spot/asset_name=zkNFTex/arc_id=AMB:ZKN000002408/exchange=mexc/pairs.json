@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZKN000002408_AMB:USD000000335",
+        "normalizedPair": "zkn_usdt",
+        "normalizedSymbol": "zkn",
+        "nativePair": "ZKNUSDT",
+        "exchange": "mexc",
+        "assetName": "zkNFTex",
+        "assetArcId": "AMB:ZKN000002408",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zkn_usdt",
+        "instrumentType": "spot"
+    }
+]

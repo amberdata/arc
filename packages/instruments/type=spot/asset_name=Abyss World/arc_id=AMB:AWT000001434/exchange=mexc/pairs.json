@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AWT000001434_AMB:USD000000335",
+        "normalizedPair": "awt_usdt",
+        "normalizedSymbol": "awt",
+        "nativePair": "AWTUSDT",
+        "exchange": "mexc",
+        "assetName": "Abyss World",
+        "assetArcId": "AMB:AWT000001434",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "awt_usdt",
+        "instrumentType": "spot"
+    }
+]

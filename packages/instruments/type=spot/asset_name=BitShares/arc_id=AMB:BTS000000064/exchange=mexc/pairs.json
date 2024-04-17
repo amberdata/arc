@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BTS000000064_AMB:USD000000335",
+        "normalizedPair": "bts_usdt",
+        "normalizedSymbol": "bts",
+        "nativePair": "BTSUSDT",
+        "exchange": "mexc",
+        "assetName": "BitShares",
+        "assetArcId": "AMB:BTS000000064",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bts_usdt",
+        "instrumentType": "spot"
+    }
+]

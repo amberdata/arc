@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:EUR000000120",
+        "normalizedPair": "xrp_eur",
+        "normalizedSymbol": "xrp",
+        "nativePair": "XRP-EUR",
+        "exchange": "gdax",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "xrp_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:USD000000949",
+        "normalizedPair": "xrp_usd",
+        "normalizedSymbol": "xrp",
+        "nativePair": "XRP-USD",
+        "exchange": "gdax",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xrp_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:USD000000335",
+        "normalizedPair": "xrp_usdt",
+        "normalizedSymbol": "xrp",
+        "nativePair": "XRP-USDT",
+        "exchange": "gdax",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xrp_usdt",
+        "instrumentType": "spot"
+    }
+]

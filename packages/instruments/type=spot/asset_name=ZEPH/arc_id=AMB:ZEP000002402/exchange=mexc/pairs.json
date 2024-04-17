@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZEP000002402_AMB:USD000000335",
+        "normalizedPair": "zeph_usdt",
+        "normalizedSymbol": "zeph",
+        "nativePair": "ZEPHUSDT",
+        "exchange": "mexc",
+        "assetName": "ZEPH",
+        "assetArcId": "AMB:ZEP000002402",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zeph_usdt",
+        "instrumentType": "spot"
+    }
+]

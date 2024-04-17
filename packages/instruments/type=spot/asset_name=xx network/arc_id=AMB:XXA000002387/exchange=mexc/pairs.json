@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XXA000002387_AMB:USD000000335",
+        "normalizedPair": "xx_usdt",
+        "normalizedSymbol": "xx",
+        "nativePair": "XXUSDT",
+        "exchange": "mexc",
+        "assetName": "xx network",
+        "assetArcId": "AMB:XXA000002387",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xx_usdt",
+        "instrumentType": "spot"
+    }
+]

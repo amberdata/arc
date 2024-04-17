@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOG000001024_AMB:USD000000335",
+        "normalizedPair": "doge2l_usdt",
+        "normalizedSymbol": "doge2l",
+        "nativePair": "DOGE2LUSDT",
+        "exchange": "bybit",
+        "assetName": "Long DOGE (2x Leverage)",
+        "assetArcId": "AMB:DOG000001024",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "doge2l_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PAN000002041_AMB:USD000000335",
+        "normalizedPair": "panda_usdt",
+        "normalizedSymbol": "panda",
+        "nativePair": "PANDAUSDT",
+        "exchange": "mexc",
+        "assetName": "Panda Coin",
+        "assetArcId": "AMB:PAN000002041",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "panda_usdt",
+        "instrumentType": "spot"
+    }
+]

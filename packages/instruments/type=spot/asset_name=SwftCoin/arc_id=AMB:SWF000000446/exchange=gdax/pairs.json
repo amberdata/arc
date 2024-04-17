@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SWF000000446_AMB:USD000000949",
+        "normalizedPair": "swftc_usd",
+        "normalizedSymbol": "swftc",
+        "nativePair": "SWFTC-USD",
+        "exchange": "gdax",
+        "assetName": "SwftCoin",
+        "assetArcId": "AMB:SWF000000446",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "swftc_usd",
+        "instrumentType": "spot"
+    }
+]

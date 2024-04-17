@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CTS000000086_AMB:USD000000335",
+        "normalizedPair": "ctsi_usdt",
+        "normalizedSymbol": "ctsi",
+        "nativePair": "CTSIUSDT",
+        "exchange": "binanceus",
+        "assetName": "Cartesi",
+        "assetArcId": "AMB:CTS000000086",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ctsi_usdt",
+        "instrumentType": "spot"
+    }
+]

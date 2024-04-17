@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SPA000000444_AMB:USD000000949",
+        "normalizedPair": "spa_usd",
+        "normalizedSymbol": "spa",
+        "nativePair": "SPA-USD",
+        "exchange": "gdax",
+        "assetName": "Sperax",
+        "assetArcId": "AMB:SPA000000444",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "spa_usd",
+        "instrumentType": "spot"
+    }
+]

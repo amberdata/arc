@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MTV000001964_AMB:USD000000335",
+        "normalizedPair": "mtv_usdt",
+        "normalizedSymbol": "mtv",
+        "nativePair": "MTVUSDT",
+        "exchange": "mexc",
+        "assetName": "MultiVAC",
+        "assetArcId": "AMB:MTV000001964",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mtv_usdt",
+        "instrumentType": "spot"
+    }
+]

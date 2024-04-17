@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MNG000002428_AMB:EUR000000120",
+        "normalizedPair": "mngo_eur",
+        "normalizedSymbol": "mngo",
+        "nativePair": "MNGOEUR",
+        "exchange": "kraken",
+        "assetName": "Mango",
+        "assetArcId": "AMB:MNG000002428",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "mngo_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MNG000002428_AMB:USD000000949",
+        "normalizedPair": "mngo_usd",
+        "normalizedSymbol": "mngo",
+        "nativePair": "MNGOUSD",
+        "exchange": "kraken",
+        "assetName": "Mango",
+        "assetArcId": "AMB:MNG000002428",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mngo_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HAN000001739_AMB:USD000000335",
+        "normalizedPair": "handy_usdt",
+        "normalizedSymbol": "handy",
+        "nativePair": "HANDYUSDT",
+        "exchange": "mexc",
+        "assetName": "Handy",
+        "assetArcId": "AMB:HAN000001739",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "handy_usdt",
+        "instrumentType": "spot"
+    }
+]

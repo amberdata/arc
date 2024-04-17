@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOP000000832_AMB:USD000000335",
+        "normalizedPair": "top_usdt",
+        "normalizedSymbol": "top",
+        "nativePair": "TOPUSDT",
+        "exchange": "mexc",
+        "assetName": "TOP",
+        "assetArcId": "AMB:TOP000000832",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "top_usdt",
+        "instrumentType": "spot"
+    }
+]

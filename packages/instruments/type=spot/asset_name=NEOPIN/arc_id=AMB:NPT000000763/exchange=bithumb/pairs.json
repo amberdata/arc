@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NPT000000763_AMB:KRW000000000",
+        "normalizedPair": "npt_krw",
+        "normalizedSymbol": "npt",
+        "nativePair": "NPT/KRW",
+        "exchange": "bithumb",
+        "assetName": "NEOPIN",
+        "assetArcId": "AMB:NPT000000763",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "npt_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SPA000002215_AMB:USD000000335",
+        "normalizedPair": "spai_usdt",
+        "normalizedSymbol": "spai",
+        "nativePair": "SPAIUSDT",
+        "exchange": "mexc",
+        "assetName": "Starship AI",
+        "assetArcId": "AMB:SPA000002215",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "spai_usdt",
+        "instrumentType": "spot"
+    }
+]

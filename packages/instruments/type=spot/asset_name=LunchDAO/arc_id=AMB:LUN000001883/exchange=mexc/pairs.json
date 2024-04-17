@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LUN000001883_AMB:USD000000335",
+        "normalizedPair": "lunch_usdt",
+        "normalizedSymbol": "lunch",
+        "nativePair": "LUNCHUSDT",
+        "exchange": "mexc",
+        "assetName": "LunchDAO",
+        "assetArcId": "AMB:LUN000001883",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lunch_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:APH000002455_AMB:USD000000949",
+        "normalizedPair": "apha_usd",
+        "normalizedSymbol": "apha",
+        "nativePair": "APHA/USD",
+        "exchange": "ftx",
+        "assetName": "APHA",
+        "assetArcId": "AMB:APH000002455",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "apha_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:1IN000000000_AMB:BTC000000000",
+        "normalizedPair": "1inch_btc",
+        "normalizedSymbol": "1inch",
+        "nativePair": "1INCHBTC",
+        "exchange": "binance",
+        "assetName": "1inch",
+        "assetArcId": "AMB:1IN000000000",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "1inch_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:1IN000000000_AMB:USD000000335",
+        "normalizedPair": "1inch_usdt",
+        "normalizedSymbol": "1inch",
+        "nativePair": "1INCHUSDT",
+        "exchange": "binance",
+        "assetName": "1inch",
+        "assetArcId": "AMB:1IN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "1inch_usdt",
+        "instrumentType": "spot"
+    }
+]

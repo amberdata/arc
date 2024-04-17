@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SER000002166_AMB:USD000000335",
+        "normalizedPair": "sero_usdt",
+        "normalizedSymbol": "sero",
+        "nativePair": "SEROUSDT",
+        "exchange": "mexc",
+        "assetName": "Super Zero Protocol",
+        "assetArcId": "AMB:SER000002166",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sero_usdt",
+        "instrumentType": "spot"
+    }
+]

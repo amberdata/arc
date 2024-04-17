@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHP000000443_AMB:USD000000949",
+        "normalizedPair": "shping_usd",
+        "normalizedSymbol": "shping",
+        "nativePair": "SHPING-USD",
+        "exchange": "gdax",
+        "assetName": "SHPING",
+        "assetArcId": "AMB:SHP000000443",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "shping_usd",
+        "instrumentType": "spot"
+    }
+]

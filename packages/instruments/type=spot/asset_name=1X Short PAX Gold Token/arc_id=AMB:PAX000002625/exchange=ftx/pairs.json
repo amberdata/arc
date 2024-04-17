@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PAX000002625_AMB:USD000000949",
+        "normalizedPair": "paxghedge_usd",
+        "normalizedSymbol": "paxghedge",
+        "nativePair": "PAXGHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short PAX Gold Token",
+        "assetArcId": "AMB:PAX000002625",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "paxghedge_usd",
+        "instrumentType": "spot"
+    }
+]

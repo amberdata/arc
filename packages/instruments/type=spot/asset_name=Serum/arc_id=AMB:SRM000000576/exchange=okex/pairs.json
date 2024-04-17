@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SRM000000576_AMB:USD000000333",
+        "normalizedPair": "srm_usdc",
+        "normalizedSymbol": "srm",
+        "nativePair": "SRM-USDC",
+        "exchange": "okex",
+        "assetName": "Serum",
+        "assetArcId": "AMB:SRM000000576",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "srm_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SRM000000576_AMB:USD000000335",
+        "normalizedPair": "srm_usdt",
+        "normalizedSymbol": "srm",
+        "nativePair": "SRM-USDT",
+        "exchange": "okex",
+        "assetName": "Serum",
+        "assetArcId": "AMB:SRM000000576",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "srm_usdt",
+        "instrumentType": "spot"
+    }
+]

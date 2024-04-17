@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FCK000001654_AMB:USD000000335",
+        "normalizedPair": "fckit_usdt",
+        "normalizedSymbol": "fckit",
+        "nativePair": "FCKITUSDT",
+        "exchange": "mexc",
+        "assetName": "FCKIT",
+        "assetArcId": "AMB:FCK000001654",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fckit_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COT000000082_AMB:USD000000949",
+        "normalizedPair": "coti_usd",
+        "normalizedSymbol": "coti",
+        "nativePair": "COTI-USD",
+        "exchange": "gdax",
+        "assetName": "COTI",
+        "assetArcId": "AMB:COT000000082",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "coti_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RLT000001107_AMB:USD000000335",
+        "normalizedPair": "rltm_usdt",
+        "normalizedSymbol": "rltm",
+        "nativePair": "RLTMUSDT",
+        "exchange": "mexc",
+        "assetName": "Reality Metaverse",
+        "assetArcId": "AMB:RLT000001107",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rltm_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:TRU000000324_AMB:BTC000000000",
+        "normalizedPair": "tru_btc",
+        "normalizedSymbol": "tru",
+        "nativePair": "TRUBTC",
+        "exchange": "binance",
+        "assetName": "TrueFi",
+        "assetArcId": "AMB:TRU000000324",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "tru_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TRU000000324_AMB:USD000000335",
+        "normalizedPair": "tru_usdt",
+        "normalizedSymbol": "tru",
+        "nativePair": "TRUUSDT",
+        "exchange": "binance",
+        "assetName": "TrueFi",
+        "assetArcId": "AMB:TRU000000324",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tru_usdt",
+        "instrumentType": "spot"
+    }
+]

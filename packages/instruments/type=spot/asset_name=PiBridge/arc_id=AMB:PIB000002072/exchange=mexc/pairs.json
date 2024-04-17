@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PIB000002072_AMB:USD000000335",
+        "normalizedPair": "pib_usdt",
+        "normalizedSymbol": "pib",
+        "nativePair": "PIBUSDT",
+        "exchange": "mexc",
+        "assetName": "PiBridge",
+        "assetArcId": "AMB:PIB000002072",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pib_usdt",
+        "instrumentType": "spot"
+    }
+]

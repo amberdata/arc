@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BER000001195_AMB:USD000000335",
+        "normalizedPair": "berc_usdt",
+        "normalizedSymbol": "berc",
+        "nativePair": "BERC_USDT",
+        "exchange": "poloniex",
+        "assetName": "Fair BERC20",
+        "assetArcId": "AMB:BER000001195",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "berc_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRO000002509_AMB:USD000000949",
+        "normalizedPair": "cron_usd",
+        "normalizedSymbol": "cron",
+        "nativePair": "CRON/USD",
+        "exchange": "ftx",
+        "assetName": "CronosNode",
+        "assetArcId": "AMB:CRO000002509",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "cron_usd",
+        "instrumentType": "spot"
+    }
+]

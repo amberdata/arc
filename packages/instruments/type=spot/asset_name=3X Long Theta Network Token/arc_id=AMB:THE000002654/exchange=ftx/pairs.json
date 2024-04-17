@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:THE000002654_AMB:USD000000949",
+        "normalizedPair": "thetabull_usd",
+        "normalizedSymbol": "thetabull",
+        "nativePair": "THETABULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long Theta Network Token",
+        "assetArcId": "AMB:THE000002654",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "thetabull_usd",
+        "instrumentType": "spot"
+    }
+]

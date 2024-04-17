@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:BAT000000046_AMB:BTC000000000",
+        "normalizedPair": "bat_btc",
+        "normalizedSymbol": "bat",
+        "nativePair": "BAT-BTC",
+        "exchange": "gdax",
+        "assetName": "Basic Attention Token",
+        "assetArcId": "AMB:BAT000000046",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "bat_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAT000000046_AMB:ETH000000000",
+        "normalizedPair": "bat_eth",
+        "normalizedSymbol": "bat",
+        "nativePair": "BAT-ETH",
+        "exchange": "gdax",
+        "assetName": "Basic Attention Token",
+        "assetArcId": "AMB:BAT000000046",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "bat_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAT000000046_AMB:EUR000000120",
+        "normalizedPair": "bat_eur",
+        "normalizedSymbol": "bat",
+        "nativePair": "BAT-EUR",
+        "exchange": "gdax",
+        "assetName": "Basic Attention Token",
+        "assetArcId": "AMB:BAT000000046",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "bat_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAT000000046_AMB:USD000000949",
+        "normalizedPair": "bat_usd",
+        "normalizedSymbol": "bat",
+        "nativePair": "BAT-USD",
+        "exchange": "gdax",
+        "assetName": "Basic Attention Token",
+        "assetArcId": "AMB:BAT000000046",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bat_usd",
+        "instrumentType": "spot"
+    }
+]

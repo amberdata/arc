@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:BNB000000055_AMB:BTC000000000",
+        "normalizedPair": "bnb_btc",
+        "normalizedSymbol": "bnb",
+        "nativePair": "BNB/BTC",
+        "exchange": "ftx",
+        "assetName": "BNB",
+        "assetArcId": "AMB:BNB000000055",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "bnb_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BNB000000055_AMB:USD000000949",
+        "normalizedPair": "bnb_usd",
+        "normalizedSymbol": "bnb",
+        "nativePair": "BNB/USD",
+        "exchange": "ftx",
+        "assetName": "BNB",
+        "assetArcId": "AMB:BNB000000055",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bnb_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BNB000000055_AMB:USD000000335",
+        "normalizedPair": "bnb_usdt",
+        "normalizedSymbol": "bnb",
+        "nativePair": "BNB/USDT",
+        "exchange": "ftx",
+        "assetName": "BNB",
+        "assetArcId": "AMB:BNB000000055",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bnb_usdt",
+        "instrumentType": "spot"
+    }
+]

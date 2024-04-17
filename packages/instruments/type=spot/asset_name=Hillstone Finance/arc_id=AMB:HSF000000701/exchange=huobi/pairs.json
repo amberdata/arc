@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HSF000000701_AMB:USD000000335",
+        "normalizedPair": "hsf_usdt",
+        "normalizedSymbol": "hsf",
+        "nativePair": "hsfusdt",
+        "exchange": "huobi",
+        "assetName": "Hillstone Finance",
+        "assetArcId": "AMB:HSF000000701",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hsf_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BHD000001460_AMB:USD000000335",
+        "normalizedPair": "bhd1_usdt",
+        "normalizedSymbol": "bhd1",
+        "nativePair": "BHD1USDT",
+        "exchange": "mexc",
+        "assetName": "BitcoinHD1",
+        "assetArcId": "AMB:BHD000001460",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bhd1_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ILV000000168_AMB:USD000000335",
+        "normalizedPair": "ilv_usdt",
+        "normalizedSymbol": "ilv",
+        "nativePair": "ILV_USDT",
+        "exchange": "poloniex",
+        "assetName": "Illuvium",
+        "assetArcId": "AMB:ILV000000168",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ilv_usdt",
+        "instrumentType": "spot"
+    }
+]

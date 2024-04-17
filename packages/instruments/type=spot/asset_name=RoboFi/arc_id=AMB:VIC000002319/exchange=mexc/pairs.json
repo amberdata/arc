@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VIC000002319_AMB:USD000000335",
+        "normalizedPair": "vics_usdt",
+        "normalizedSymbol": "vics",
+        "nativePair": "VICSUSDT",
+        "exchange": "mexc",
+        "assetName": "RoboFi",
+        "assetArcId": "AMB:VIC000002319",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vics_usdt",
+        "instrumentType": "spot"
+    }
+]

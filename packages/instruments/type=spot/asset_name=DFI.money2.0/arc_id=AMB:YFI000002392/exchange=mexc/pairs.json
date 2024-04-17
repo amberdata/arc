@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:YFI000002392_AMB:USD000000335",
+        "normalizedPair": "yfii2_usdt",
+        "normalizedSymbol": "yfii2",
+        "nativePair": "YFII2USDT",
+        "exchange": "mexc",
+        "assetName": "DFI.money2.0",
+        "assetArcId": "AMB:YFI000002392",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "yfii2_usdt",
+        "instrumentType": "spot"
+    }
+]

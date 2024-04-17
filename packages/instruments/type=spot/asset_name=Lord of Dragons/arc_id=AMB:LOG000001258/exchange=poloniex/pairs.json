@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LOG000001258_AMB:USD000000335",
+        "normalizedPair": "logt_usdt",
+        "normalizedSymbol": "logt",
+        "nativePair": "LOGT_USDT",
+        "exchange": "poloniex",
+        "assetName": "Lord of Dragons",
+        "assetArcId": "AMB:LOG000001258",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "logt_usdt",
+        "instrumentType": "spot"
+    }
+]

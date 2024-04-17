@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SGB000000917_AMB:USD000000949",
+        "normalizedPair": "sgb_usd",
+        "normalizedSymbol": "sgb",
+        "nativePair": "tSGBUSD",
+        "exchange": "bitfinex",
+        "assetName": "Songbird",
+        "assetArcId": "AMB:SGB000000917",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sgb_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SGB000000917_AMB:USD000000335",
+        "normalizedPair": "sgb_usdt",
+        "normalizedSymbol": "sgb",
+        "nativePair": "tSGBUST",
+        "exchange": "bitfinex",
+        "assetName": "Songbird",
+        "assetArcId": "AMB:SGB000000917",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sgb_usdt",
+        "instrumentType": "spot"
+    }
+]

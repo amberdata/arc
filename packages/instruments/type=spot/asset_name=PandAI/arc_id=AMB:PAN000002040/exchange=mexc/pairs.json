@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PAN000002040_AMB:USD000000335",
+        "normalizedPair": "pandai_usdt",
+        "normalizedSymbol": "pandai",
+        "nativePair": "PANDAIUSDT",
+        "exchange": "mexc",
+        "assetName": "PandAI",
+        "assetArcId": "AMB:PAN000002040",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pandai_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GST000001729_AMB:USD000000335",
+        "normalizedPair": "gstbsc_usdt",
+        "normalizedSymbol": "gstbsc",
+        "nativePair": "GSTBSCUSDT",
+        "exchange": "mexc",
+        "assetName": "GreenSatoshiToken",
+        "assetArcId": "AMB:GST000001729",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gstbsc_usdt",
+        "instrumentType": "spot"
+    }
+]

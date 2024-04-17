@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ARK000000028_AMB:USD000000335",
+        "normalizedPair": "ark_usdt",
+        "normalizedSymbol": "ark",
+        "nativePair": "ARKUSDT",
+        "exchange": "binance",
+        "assetName": "Ark",
+        "assetArcId": "AMB:ARK000000028",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ark_usdt",
+        "instrumentType": "spot"
+    }
+]

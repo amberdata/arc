@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:XCH000000605_AMB:BTC000000000",
+        "normalizedPair": "xch_btc",
+        "normalizedSymbol": "xch",
+        "nativePair": "XCH-BTC",
+        "exchange": "okex",
+        "assetName": "Chia",
+        "assetArcId": "AMB:XCH000000605",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "xch_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XCH000000605_AMB:USD000000335",
+        "normalizedPair": "xch_usdt",
+        "normalizedSymbol": "xch",
+        "nativePair": "XCH-USDT",
+        "exchange": "okex",
+        "assetName": "Chia",
+        "assetArcId": "AMB:XCH000000605",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xch_usdt",
+        "instrumentType": "spot"
+    }
+]

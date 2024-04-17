@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GAR000000507_AMB:USD000000949",
+        "normalizedPair": "gari_usd",
+        "normalizedSymbol": "gari",
+        "nativePair": "GARI/USD",
+        "exchange": "ftx",
+        "assetName": "Gari Network",
+        "assetArcId": "AMB:GAR000000507",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "gari_usd",
+        "instrumentType": "spot"
+    }
+]

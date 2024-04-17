@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KBD000001824_AMB:USD000000335",
+        "normalizedPair": "kbd_usdt",
+        "normalizedSymbol": "kbd",
+        "nativePair": "KBDUSDT",
+        "exchange": "mexc",
+        "assetName": "Kyberdyne",
+        "assetArcId": "AMB:KBD000001824",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kbd_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DIE000001597_AMB:USD000000335",
+        "normalizedPair": "die_usdt",
+        "normalizedSymbol": "die",
+        "nativePair": "DIEUSDT",
+        "exchange": "mexc",
+        "assetName": "Die Protocol",
+        "assetArcId": "AMB:DIE000001597",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "die_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GME000002556_AMB:USD000000949",
+        "normalizedPair": "gmepre_usd",
+        "normalizedSymbol": "gmepre",
+        "nativePair": "GMEPRE/USD",
+        "exchange": "ftx",
+        "assetName": "GMEPRE",
+        "assetArcId": "AMB:GME000002556",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "gmepre_usd",
+        "instrumentType": "spot"
+    }
+]

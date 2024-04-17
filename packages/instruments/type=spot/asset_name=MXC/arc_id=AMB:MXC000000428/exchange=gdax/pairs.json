@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MXC000000428_AMB:USD000000949",
+        "normalizedPair": "mxc_usd",
+        "normalizedSymbol": "mxc",
+        "nativePair": "MXC-USD",
+        "exchange": "gdax",
+        "assetName": "MXC",
+        "assetArcId": "AMB:MXC000000428",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mxc_usd",
+        "instrumentType": "spot"
+    }
+]

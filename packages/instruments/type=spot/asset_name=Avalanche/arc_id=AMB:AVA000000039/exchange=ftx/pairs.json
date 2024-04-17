@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:AVA000000039_AMB:BTC000000000",
+        "normalizedPair": "avax_btc",
+        "normalizedSymbol": "avax",
+        "nativePair": "AVAX/BTC",
+        "exchange": "ftx",
+        "assetName": "Avalanche",
+        "assetArcId": "AMB:AVA000000039",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "avax_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AVA000000039_AMB:JPY000000903",
+        "normalizedPair": "avax_jpy",
+        "normalizedSymbol": "avax",
+        "nativePair": "AVAX/JPY",
+        "exchange": "ftx",
+        "assetName": "Avalanche",
+        "assetArcId": "AMB:AVA000000039",
+        "quoteArcId": "AMB:JPY000000903",
+        "collectedPair": "avax_jpy",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AVA000000039_AMB:TRY000000940",
+        "normalizedPair": "avax_try",
+        "normalizedSymbol": "avax",
+        "nativePair": "AVAX/TRY",
+        "exchange": "ftx",
+        "assetName": "Avalanche",
+        "assetArcId": "AMB:AVA000000039",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "avax_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AVA000000039_AMB:USD000000949",
+        "normalizedPair": "avax_usd",
+        "normalizedSymbol": "avax",
+        "nativePair": "AVAX/USD",
+        "exchange": "ftx",
+        "assetName": "Avalanche",
+        "assetArcId": "AMB:AVA000000039",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "avax_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AVA000000039_AMB:USD000000335",
+        "normalizedPair": "avax_usdt",
+        "normalizedSymbol": "avax",
+        "nativePair": "AVAX/USDT",
+        "exchange": "ftx",
+        "assetName": "Avalanche",
+        "assetArcId": "AMB:AVA000000039",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "avax_usdt",
+        "instrumentType": "spot"
+    }
+]

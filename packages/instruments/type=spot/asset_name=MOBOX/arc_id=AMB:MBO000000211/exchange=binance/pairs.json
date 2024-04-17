@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:MBO000000211_AMB:BNB000000055",
+        "normalizedPair": "mbox_bnb",
+        "normalizedSymbol": "mbox",
+        "nativePair": "MBOXBNB",
+        "exchange": "binance",
+        "assetName": "MOBOX",
+        "assetArcId": "AMB:MBO000000211",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "mbox_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MBO000000211_AMB:BTC000000000",
+        "normalizedPair": "mbox_btc",
+        "normalizedSymbol": "mbox",
+        "nativePair": "MBOXBTC",
+        "exchange": "binance",
+        "assetName": "MOBOX",
+        "assetArcId": "AMB:MBO000000211",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "mbox_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MBO000000211_AMB:BUS000000067",
+        "normalizedPair": "mbox_busd",
+        "normalizedSymbol": "mbox",
+        "nativePair": "MBOXBUSD",
+        "exchange": "binance",
+        "assetName": "MOBOX",
+        "assetArcId": "AMB:MBO000000211",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "mbox_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MBO000000211_AMB:TRY000000940",
+        "normalizedPair": "mbox_try",
+        "normalizedSymbol": "mbox",
+        "nativePair": "MBOXTRY",
+        "exchange": "binance",
+        "assetName": "MOBOX",
+        "assetArcId": "AMB:MBO000000211",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "mbox_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MBO000000211_AMB:USD000000335",
+        "normalizedPair": "mbox_usdt",
+        "normalizedSymbol": "mbox",
+        "nativePair": "MBOXUSDT",
+        "exchange": "binance",
+        "assetName": "MOBOX",
+        "assetArcId": "AMB:MBO000000211",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mbox_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MEF000001908_AMB:USD000000335",
+        "normalizedPair": "mefa_usdt",
+        "normalizedSymbol": "mefa",
+        "nativePair": "MEFAUSDT",
+        "exchange": "mexc",
+        "assetName": "Metaverse Face",
+        "assetArcId": "AMB:MEF000001908",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mefa_usdt",
+        "instrumentType": "spot"
+    }
+]

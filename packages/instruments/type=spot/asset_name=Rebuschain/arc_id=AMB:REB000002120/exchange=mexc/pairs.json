@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:REB000002120_AMB:USD000000335",
+        "normalizedPair": "rebus_usdt",
+        "normalizedSymbol": "rebus",
+        "nativePair": "REBUSUSDT",
+        "exchange": "mexc",
+        "assetName": "Rebuschain",
+        "assetArcId": "AMB:REB000002120",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rebus_usdt",
+        "instrumentType": "spot"
+    }
+]

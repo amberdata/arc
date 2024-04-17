@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WLD000000352_AMB:USD000000335",
+        "normalizedPair": "wld_usdt",
+        "normalizedSymbol": "wld",
+        "nativePair": "WLD-USDT",
+        "exchange": "okex",
+        "assetName": "Worldcoin",
+        "assetArcId": "AMB:WLD000000352",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wld_usdt",
+        "instrumentType": "spot"
+    }
+]

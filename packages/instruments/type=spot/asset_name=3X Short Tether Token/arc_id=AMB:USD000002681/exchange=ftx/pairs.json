@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:USD000002681_AMB:USD000000949",
+        "normalizedPair": "usdtbear_usd",
+        "normalizedSymbol": "usdtbear",
+        "nativePair": "USDTBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short Tether Token",
+        "assetArcId": "AMB:USD000002681",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "usdtbear_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:TEN000000825_AMB:USD000000949",
+        "normalizedPair": "tenet_usd",
+        "normalizedSymbol": "tenet",
+        "nativePair": "tTENET:USD",
+        "exchange": "bitfinex",
+        "assetName": "TENET",
+        "assetArcId": "AMB:TEN000000825",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "tenet_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TEN000000825_AMB:USD000000335",
+        "normalizedPair": "tenet_usdt",
+        "normalizedSymbol": "tenet",
+        "nativePair": "tTENET:UST",
+        "exchange": "bitfinex",
+        "assetName": "TENET",
+        "assetArcId": "AMB:TEN000000825",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tenet_usdt",
+        "instrumentType": "spot"
+    }
+]

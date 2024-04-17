@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BBA000002472_AMB:USD000000949",
+        "normalizedPair": "bb_usd",
+        "normalizedSymbol": "bb",
+        "nativePair": "BB/USD",
+        "exchange": "ftx",
+        "assetName": "Baby Bali",
+        "assetArcId": "AMB:BBA000002472",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bb_usd",
+        "instrumentType": "spot"
+    }
+]

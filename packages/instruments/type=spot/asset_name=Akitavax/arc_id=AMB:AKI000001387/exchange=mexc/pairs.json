@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AKI000001387_AMB:USD000000335",
+        "normalizedPair": "akitax_usdt",
+        "normalizedSymbol": "akitax",
+        "nativePair": "AKITAXUSDT",
+        "exchange": "mexc",
+        "assetName": "Akitavax",
+        "assetArcId": "AMB:AKI000001387",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "akitax_usdt",
+        "instrumentType": "spot"
+    }
+]

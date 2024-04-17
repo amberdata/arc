@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:KAV000000180_AMB:USD000000949",
+        "normalizedPair": "kava_usd",
+        "normalizedSymbol": "kava",
+        "nativePair": "tKAVA:USD",
+        "exchange": "bitfinex",
+        "assetName": "Kava",
+        "assetArcId": "AMB:KAV000000180",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "kava_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KAV000000180_AMB:USD000000335",
+        "normalizedPair": "kava_usdt",
+        "normalizedSymbol": "kava",
+        "nativePair": "tKAVA:UST",
+        "exchange": "bitfinex",
+        "assetName": "Kava",
+        "assetArcId": "AMB:KAV000000180",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kava_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:NWC000001999_AMB:BTC000000000",
+        "normalizedPair": "nwc_btc",
+        "normalizedSymbol": "nwc",
+        "nativePair": "NWCBTC",
+        "exchange": "mexc",
+        "assetName": "Newscrypto",
+        "assetArcId": "AMB:NWC000001999",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "nwc_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NWC000001999_AMB:USD000000335",
+        "normalizedPair": "nwc_usdt",
+        "normalizedSymbol": "nwc",
+        "nativePair": "NWCUSDT",
+        "exchange": "mexc",
+        "assetName": "Newscrypto",
+        "assetArcId": "AMB:NWC000001999",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nwc_usdt",
+        "instrumentType": "spot"
+    }
+]

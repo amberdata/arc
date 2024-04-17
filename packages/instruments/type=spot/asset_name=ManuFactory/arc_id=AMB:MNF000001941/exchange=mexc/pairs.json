@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MNF000001941_AMB:USD000000335",
+        "normalizedPair": "mnft_usdt",
+        "normalizedSymbol": "mnft",
+        "nativePair": "MNFTUSDT",
+        "exchange": "mexc",
+        "assetName": "ManuFactory",
+        "assetArcId": "AMB:MNF000001941",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mnft_usdt",
+        "instrumentType": "spot"
+    }
+]

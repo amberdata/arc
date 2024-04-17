@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CAR000000957_AMB:USD000000335",
+        "normalizedPair": "cart_usdt",
+        "normalizedSymbol": "cart",
+        "nativePair": "cart_usdt",
+        "exchange": "zb",
+        "assetName": "CryptoArt.Ai",
+        "assetArcId": "AMB:CAR000000957",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cart_usdt",
+        "instrumentType": "spot"
+    }
+]

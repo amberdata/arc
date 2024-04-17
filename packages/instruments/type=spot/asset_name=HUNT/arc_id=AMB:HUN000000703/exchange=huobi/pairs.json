@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HUN000000703_AMB:USD000000335",
+        "normalizedPair": "hunt_usdt",
+        "normalizedSymbol": "hunt",
+        "nativePair": "huntusdt",
+        "exchange": "huobi",
+        "assetName": "HUNT",
+        "assetArcId": "AMB:HUN000000703",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hunt_usdt",
+        "instrumentType": "spot"
+    }
+]

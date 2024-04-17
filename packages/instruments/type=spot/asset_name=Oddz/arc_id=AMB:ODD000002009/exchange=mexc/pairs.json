@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ODD000002009_AMB:USD000000335",
+        "normalizedPair": "oddz_usdt",
+        "normalizedSymbol": "oddz",
+        "nativePair": "ODDZUSDT",
+        "exchange": "mexc",
+        "assetName": "Oddz",
+        "assetArcId": "AMB:ODD000002009",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "oddz_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:WAX000000347_AMB:BTC000000000",
+        "normalizedPair": "waxp_btc",
+        "normalizedSymbol": "waxp",
+        "nativePair": "WAXPBTC",
+        "exchange": "binance",
+        "assetName": "WAX",
+        "assetArcId": "AMB:WAX000000347",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "waxp_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WAX000000347_AMB:USD000000335",
+        "normalizedPair": "waxp_usdt",
+        "normalizedSymbol": "waxp",
+        "nativePair": "WAXPUSDT",
+        "exchange": "binance",
+        "assetName": "WAX",
+        "assetArcId": "AMB:WAX000000347",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "waxp_usdt",
+        "instrumentType": "spot"
+    }
+]

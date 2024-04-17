@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:JAS000000176_AMB:USD000000949",
+        "normalizedPair": "jasmy_usd",
+        "normalizedSymbol": "jasmy",
+        "nativePair": "JASMY-USD",
+        "exchange": "gdax",
+        "assetName": "Jasmy",
+        "assetArcId": "AMB:JAS000000176",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "jasmy_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:JAS000000176_AMB:USD000000335",
+        "normalizedPair": "jasmy_usdt",
+        "normalizedSymbol": "jasmy",
+        "nativePair": "JASMY-USDT",
+        "exchange": "gdax",
+        "assetName": "Jasmy",
+        "assetArcId": "AMB:JAS000000176",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jasmy_usdt",
+        "instrumentType": "spot"
+    }
+]

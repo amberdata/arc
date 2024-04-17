@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FMX000001670_AMB:USD000000335",
+        "normalizedPair": "fmxen_usdt",
+        "normalizedSymbol": "fmxen",
+        "nativePair": "FMXENUSDT",
+        "exchange": "mexc",
+        "assetName": "XEN Crypto",
+        "assetArcId": "AMB:FMX000001670",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fmxen_usdt",
+        "instrumentType": "spot"
+    }
+]

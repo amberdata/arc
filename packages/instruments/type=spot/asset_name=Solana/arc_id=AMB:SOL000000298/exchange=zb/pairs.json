@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:SOL000000298_AMB:QCA000000000",
+        "normalizedPair": "sol_qc",
+        "normalizedSymbol": "sol",
+        "nativePair": "sol_qc",
+        "exchange": "zb",
+        "assetName": "Solana",
+        "assetArcId": "AMB:SOL000000298",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "sol_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SOL000000298_AMB:USD000000333",
+        "normalizedPair": "sol_usdc",
+        "normalizedSymbol": "sol",
+        "nativePair": "sol_usdc",
+        "exchange": "zb",
+        "assetName": "Solana",
+        "assetArcId": "AMB:SOL000000298",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "sol_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SOL000000298_AMB:USD000000335",
+        "normalizedPair": "sol_usdt",
+        "normalizedSymbol": "sol",
+        "nativePair": "sol_usdt",
+        "exchange": "zb",
+        "assetName": "Solana",
+        "assetArcId": "AMB:SOL000000298",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sol_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:BTC000000000",
+        "normalizedPair": "bch_btc",
+        "normalizedSymbol": "bch",
+        "nativePair": "bchbtc",
+        "exchange": "huobi",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "bch_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:HTA000000702",
+        "normalizedPair": "bch_ht",
+        "normalizedSymbol": "bch",
+        "nativePair": "bchht",
+        "exchange": "huobi",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:HTA000000702",
+        "collectedPair": "bch_ht",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:USD000000335",
+        "normalizedPair": "bch_usdt",
+        "normalizedSymbol": "bch",
+        "nativePair": "bchusdt",
+        "exchange": "huobi",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bch_usdt",
+        "instrumentType": "spot"
+    }
+]

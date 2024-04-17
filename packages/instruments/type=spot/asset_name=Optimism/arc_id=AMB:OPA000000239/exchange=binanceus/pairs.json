@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OPA000000239_AMB:USD000000335",
+        "normalizedPair": "op_usdt",
+        "normalizedSymbol": "op",
+        "nativePair": "OPUSDT",
+        "exchange": "binanceus",
+        "assetName": "Optimism",
+        "assetArcId": "AMB:OPA000000239",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "op_usdt",
+        "instrumentType": "spot"
+    }
+]

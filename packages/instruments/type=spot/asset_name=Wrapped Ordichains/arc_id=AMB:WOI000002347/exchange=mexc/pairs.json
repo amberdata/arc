@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WOI000002347_AMB:USD000000335",
+        "normalizedPair": "woich_usdt",
+        "normalizedSymbol": "woich",
+        "nativePair": "WOICHUSDT",
+        "exchange": "mexc",
+        "assetName": "Wrapped Ordichains",
+        "assetArcId": "AMB:WOI000002347",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "woich_usdt",
+        "instrumentType": "spot"
+    }
+]

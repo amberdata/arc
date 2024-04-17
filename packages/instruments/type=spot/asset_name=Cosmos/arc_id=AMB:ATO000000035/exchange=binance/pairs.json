@@ -1,0 +1,86 @@
+[
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:BNB000000055",
+        "normalizedPair": "atom_bnb",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOMBNB",
+        "exchange": "binance",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "atom_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:BTC000000000",
+        "normalizedPair": "atom_btc",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOMBTC",
+        "exchange": "binance",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "atom_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:BUS000000067",
+        "normalizedPair": "atom_busd",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOMBUSD",
+        "exchange": "binance",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "atom_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:ETH000000000",
+        "normalizedPair": "atom_eth",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOMETH",
+        "exchange": "binance",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "atom_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:EUR000000120",
+        "normalizedPair": "atom_eur",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOMEUR",
+        "exchange": "binance",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "atom_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:TRY000000940",
+        "normalizedPair": "atom_try",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOMTRY",
+        "exchange": "binance",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "atom_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:USD000000335",
+        "normalizedPair": "atom_usdt",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOMUSDT",
+        "exchange": "binance",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "atom_usdt",
+        "instrumentType": "spot"
+    }
+]

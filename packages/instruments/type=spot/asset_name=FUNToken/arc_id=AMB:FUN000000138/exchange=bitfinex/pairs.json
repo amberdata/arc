@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FUN000000138_AMB:USD000000949",
+        "normalizedPair": "fun_usd",
+        "normalizedSymbol": "fun",
+        "nativePair": "tFUNUSD",
+        "exchange": "bitfinex",
+        "assetName": "FUNToken",
+        "assetArcId": "AMB:FUN000000138",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "fun_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BKN000001472_AMB:USD000000335",
+        "normalizedPair": "bkn_usdt",
+        "normalizedSymbol": "bkn",
+        "nativePair": "BKNUSDT",
+        "exchange": "mexc",
+        "assetName": "Baskonia Fan Token",
+        "assetArcId": "AMB:BKN000001472",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bkn_usdt",
+        "instrumentType": "spot"
+    }
+]

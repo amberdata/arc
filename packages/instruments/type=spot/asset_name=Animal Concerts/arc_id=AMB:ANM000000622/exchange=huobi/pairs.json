@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ANM000000622_AMB:USD000000335",
+        "normalizedPair": "anml_usdt",
+        "normalizedSymbol": "anml",
+        "nativePair": "anmlusdt",
+        "exchange": "huobi",
+        "assetName": "Animal Concerts",
+        "assetArcId": "AMB:ANM000000622",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "anml_usdt",
+        "instrumentType": "spot"
+    }
+]

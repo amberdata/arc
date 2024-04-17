@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BTR000000386_AMB:USD000000335",
+        "normalizedPair": "btrst_usdt",
+        "normalizedSymbol": "btrst",
+        "nativePair": "BTRST_USDT",
+        "exchange": "poloniex",
+        "assetName": "Braintrust",
+        "assetArcId": "AMB:BTR000000386",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "btrst_usdt",
+        "instrumentType": "spot"
+    }
+]

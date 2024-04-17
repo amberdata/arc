@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DAO000000492_AMB:KRW000000000",
+        "normalizedPair": "dao_krw",
+        "normalizedSymbol": "dao",
+        "nativePair": "DAO/KRW",
+        "exchange": "bithumb",
+        "assetName": "Distributed Autonomous Organization",
+        "assetArcId": "AMB:DAO000000492",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "dao_krw",
+        "instrumentType": "spot"
+    }
+]

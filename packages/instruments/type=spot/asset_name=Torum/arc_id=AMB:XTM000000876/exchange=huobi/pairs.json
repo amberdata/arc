@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XTM000000876_AMB:USD000000335",
+        "normalizedPair": "xtm_usdt",
+        "normalizedSymbol": "xtm",
+        "nativePair": "xtmusdt",
+        "exchange": "huobi",
+        "assetName": "Torum",
+        "assetArcId": "AMB:XTM000000876",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xtm_usdt",
+        "instrumentType": "spot"
+    }
+]

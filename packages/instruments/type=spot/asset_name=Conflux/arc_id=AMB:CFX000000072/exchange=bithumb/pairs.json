@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CFX000000072_AMB:KRW000000000",
+        "normalizedPair": "cfx_krw",
+        "normalizedSymbol": "cfx",
+        "nativePair": "CFX/KRW",
+        "exchange": "bithumb",
+        "assetName": "Conflux",
+        "assetArcId": "AMB:CFX000000072",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "cfx_krw",
+        "instrumentType": "spot"
+    }
+]

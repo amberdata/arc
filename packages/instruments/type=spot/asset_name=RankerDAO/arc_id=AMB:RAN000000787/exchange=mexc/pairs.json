@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAN000000787_AMB:USD000000335",
+        "normalizedPair": "ranker_usdt",
+        "normalizedSymbol": "ranker",
+        "nativePair": "RANKERUSDT",
+        "exchange": "mexc",
+        "assetName": "RankerDAO",
+        "assetArcId": "AMB:RAN000000787",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ranker_usdt",
+        "instrumentType": "spot"
+    }
+]

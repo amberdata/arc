@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:OKT000000550_AMB:BTC000000000",
+        "normalizedPair": "okt_btc",
+        "normalizedSymbol": "okt",
+        "nativePair": "OKT-BTC",
+        "exchange": "okex",
+        "assetName": "OKT Chain",
+        "assetArcId": "AMB:OKT000000550",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "okt_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OKT000000550_AMB:ETH000000000",
+        "normalizedPair": "okt_eth",
+        "normalizedSymbol": "okt",
+        "nativePair": "OKT-ETH",
+        "exchange": "okex",
+        "assetName": "OKT Chain",
+        "assetArcId": "AMB:OKT000000550",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "okt_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OKT000000550_AMB:USD000000333",
+        "normalizedPair": "okt_usdc",
+        "normalizedSymbol": "okt",
+        "nativePair": "OKT-USDC",
+        "exchange": "okex",
+        "assetName": "OKT Chain",
+        "assetArcId": "AMB:OKT000000550",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "okt_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OKT000000550_AMB:USD000000335",
+        "normalizedPair": "okt_usdt",
+        "normalizedSymbol": "okt",
+        "nativePair": "OKT-USDT",
+        "exchange": "okex",
+        "assetName": "OKT Chain",
+        "assetArcId": "AMB:OKT000000550",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "okt_usdt",
+        "instrumentType": "spot"
+    }
+]

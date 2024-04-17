@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:TEE000002434_AMB:EUR000000120",
+        "normalizedPair": "teer_eur",
+        "normalizedSymbol": "teer",
+        "nativePair": "TEEREUR",
+        "exchange": "kraken",
+        "assetName": "Integritee Network",
+        "assetArcId": "AMB:TEE000002434",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "teer_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TEE000002434_AMB:USD000000949",
+        "normalizedPair": "teer_usd",
+        "normalizedSymbol": "teer",
+        "nativePair": "TEERUSD",
+        "exchange": "kraken",
+        "assetName": "Integritee Network",
+        "assetArcId": "AMB:TEE000002434",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "teer_usd",
+        "instrumentType": "spot"
+    }
+]

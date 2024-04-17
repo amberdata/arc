@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ROO000001300_AMB:USD000000335",
+        "normalizedPair": "rook_usdt",
+        "normalizedSymbol": "rook",
+        "nativePair": "ROOK_USDT",
+        "exchange": "poloniex",
+        "assetName": "Rook",
+        "assetArcId": "AMB:ROO000001300",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rook_usdt",
+        "instrumentType": "spot"
+    }
+]

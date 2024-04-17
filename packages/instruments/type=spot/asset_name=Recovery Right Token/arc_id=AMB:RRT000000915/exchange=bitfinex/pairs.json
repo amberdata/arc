@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RRT000000915_AMB:USD000000949",
+        "normalizedPair": "rrt_usd",
+        "normalizedSymbol": "rrt",
+        "nativePair": "tRRTUSD",
+        "exchange": "bitfinex",
+        "assetName": "Recovery Right Token",
+        "assetArcId": "AMB:RRT000000915",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "rrt_usd",
+        "instrumentType": "spot"
+    }
+]

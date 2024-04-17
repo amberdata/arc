@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETC000002540_AMB:USD000000949",
+        "normalizedPair": "etchalf_usd",
+        "normalizedSymbol": "etchalf",
+        "nativePair": "ETCHALF/USD",
+        "exchange": "ftx",
+        "assetName": "0.5X Long Ethereum Classic Token",
+        "assetArcId": "AMB:ETC000002540",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "etchalf_usd",
+        "instrumentType": "spot"
+    }
+]

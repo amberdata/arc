@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PLA000001095_AMB:USD000000335",
+        "normalizedPair": "planet_usdt",
+        "normalizedSymbol": "planet",
+        "nativePair": "PLANETUSDT",
+        "exchange": "bybit",
+        "assetName": "PLANET",
+        "assetArcId": "AMB:PLA000001095",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "planet_usdt",
+        "instrumentType": "spot"
+    }
+]

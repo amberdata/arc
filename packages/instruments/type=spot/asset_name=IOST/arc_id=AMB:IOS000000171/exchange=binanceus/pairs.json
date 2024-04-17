@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IOS000000171_AMB:USD000000335",
+        "normalizedPair": "iost_usdt",
+        "normalizedSymbol": "iost",
+        "nativePair": "IOSTUSDT",
+        "exchange": "binanceus",
+        "assetName": "IOST",
+        "assetArcId": "AMB:IOS000000171",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "iost_usdt",
+        "instrumentType": "spot"
+    }
+]

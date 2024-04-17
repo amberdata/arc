@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BNB000001201_AMB:USD000000335",
+        "normalizedPair": "bnbdaddy_usdt",
+        "normalizedSymbol": "bnbdaddy",
+        "nativePair": "BNBDADDY_USDT",
+        "exchange": "poloniex",
+        "assetName": "BNB DADDY",
+        "assetArcId": "AMB:BNB000001201",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bnbdaddy_usdt",
+        "instrumentType": "spot"
+    }
+]

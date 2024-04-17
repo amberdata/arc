@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PNB000002085_AMB:USD000000335",
+        "normalizedPair": "pnb_usdt",
+        "normalizedSymbol": "pnb",
+        "nativePair": "PNBUSDT",
+        "exchange": "mexc",
+        "assetName": "Pink BNB",
+        "assetArcId": "AMB:PNB000002085",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pnb_usdt",
+        "instrumentType": "spot"
+    }
+]

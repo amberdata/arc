@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RIL000002133_AMB:USD000000335",
+        "normalizedPair": "rilla_usdt",
+        "normalizedSymbol": "rilla",
+        "nativePair": "RILLAUSDT",
+        "exchange": "mexc",
+        "assetName": "RillaFi",
+        "assetArcId": "AMB:RIL000002133",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rilla_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SUI000000308_AMB:KRW000000000",
+        "normalizedPair": "sui_krw",
+        "normalizedSymbol": "sui",
+        "nativePair": "SUI/KRW",
+        "exchange": "bithumb",
+        "assetName": "SUI",
+        "assetArcId": "AMB:SUI000000308",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "sui_krw",
+        "instrumentType": "spot"
+    }
+]

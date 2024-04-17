@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:REE000000275_AMB:USD000000949",
+        "normalizedPair": "reef_usd",
+        "normalizedSymbol": "reef",
+        "nativePair": "REEF/USD",
+        "exchange": "ftx",
+        "assetName": "Reef",
+        "assetArcId": "AMB:REE000000275",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "reef_usd",
+        "instrumentType": "spot"
+    }
+]

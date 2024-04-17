@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MLK000000744_AMB:KRW000000000",
+        "normalizedPair": "mlk_krw",
+        "normalizedSymbol": "mlk",
+        "nativePair": "MLK/KRW",
+        "exchange": "bithumb",
+        "assetName": "MiL.k",
+        "assetArcId": "AMB:MLK000000744",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "mlk_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PYU000000438_AMB:USD000000335",
+        "normalizedPair": "pyusd_usdt",
+        "normalizedSymbol": "pyusd",
+        "nativePair": "PYUSDUSDT",
+        "exchange": "bybit",
+        "assetName": "PayPal USD",
+        "assetArcId": "AMB:PYU000000438",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pyusd_usdt",
+        "instrumentType": "spot"
+    }
+]

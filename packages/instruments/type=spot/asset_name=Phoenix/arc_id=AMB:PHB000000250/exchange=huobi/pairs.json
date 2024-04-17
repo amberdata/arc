@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PHB000000250_AMB:USD000000335",
+        "normalizedPair": "phb_usdt",
+        "normalizedSymbol": "phb",
+        "nativePair": "phbusdt",
+        "exchange": "huobi",
+        "assetName": "Phoenix",
+        "assetArcId": "AMB:PHB000000250",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "phb_usdt",
+        "instrumentType": "spot"
+    }
+]

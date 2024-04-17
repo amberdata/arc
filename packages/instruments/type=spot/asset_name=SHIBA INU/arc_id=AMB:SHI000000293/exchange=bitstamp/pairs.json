@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SHI000000293_AMB:EUR000000120",
+        "normalizedPair": "shib_eur",
+        "normalizedSymbol": "shib",
+        "nativePair": "shibeur",
+        "exchange": "bitstamp",
+        "assetName": "SHIBA INU",
+        "assetArcId": "AMB:SHI000000293",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "shib_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SHI000000293_AMB:USD000000949",
+        "normalizedPair": "shib_usd",
+        "normalizedSymbol": "shib",
+        "nativePair": "shibusd",
+        "exchange": "bitstamp",
+        "assetName": "SHIBA INU",
+        "assetArcId": "AMB:SHI000000293",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "shib_usd",
+        "instrumentType": "spot"
+    }
+]

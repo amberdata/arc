@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHP000000443_AMB:USD000000335",
+        "normalizedPair": "shping_usdt",
+        "normalizedSymbol": "shping",
+        "nativePair": "SHPING_USDT",
+        "exchange": "poloniex",
+        "assetName": "SHPING",
+        "assetArcId": "AMB:SHP000000443",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shping_usdt",
+        "instrumentType": "spot"
+    }
+]

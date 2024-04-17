@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SLV000002641_AMB:USD000000949",
+        "normalizedPair": "slv_usd",
+        "normalizedSymbol": "slv",
+        "nativePair": "SLV/USD",
+        "exchange": "ftx",
+        "assetName": "Slavi Coin",
+        "assetArcId": "AMB:SLV000002641",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "slv_usd",
+        "instrumentType": "spot"
+    }
+]

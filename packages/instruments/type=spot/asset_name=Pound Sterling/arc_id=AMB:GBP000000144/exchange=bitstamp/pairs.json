@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GBP000000144_AMB:USD000000949",
+        "normalizedPair": "gbp_usd",
+        "normalizedSymbol": "gbp",
+        "nativePair": "gbpusd",
+        "exchange": "bitstamp",
+        "assetName": "Pound Sterling",
+        "assetArcId": "AMB:GBP000000144",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "gbp_usd",
+        "instrumentType": "spot"
+    }
+]

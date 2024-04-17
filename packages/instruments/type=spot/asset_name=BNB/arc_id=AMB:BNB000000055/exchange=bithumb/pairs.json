@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BNB000000055_AMB:BTC000000000",
+        "normalizedPair": "bnb_btc",
+        "normalizedSymbol": "bnb",
+        "nativePair": "BNB/BTC",
+        "exchange": "bithumb",
+        "assetName": "BNB",
+        "assetArcId": "AMB:BNB000000055",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "bnb_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BNB000000055_AMB:KRW000000000",
+        "normalizedPair": "bnb_krw",
+        "normalizedSymbol": "bnb",
+        "nativePair": "BNB/KRW",
+        "exchange": "bithumb",
+        "assetName": "BNB",
+        "assetArcId": "AMB:BNB000000055",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "bnb_krw",
+        "instrumentType": "spot"
+    }
+]

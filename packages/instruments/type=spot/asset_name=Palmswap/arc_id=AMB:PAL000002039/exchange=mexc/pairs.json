@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PAL000002039_AMB:USD000000335",
+        "normalizedPair": "palm_usdt",
+        "normalizedSymbol": "palm",
+        "nativePair": "PALMUSDT",
+        "exchange": "mexc",
+        "assetName": "Palmswap",
+        "assetArcId": "AMB:PAL000002039",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "palm_usdt",
+        "instrumentType": "spot"
+    }
+]

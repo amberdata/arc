@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GYE000000411_AMB:USD000000949",
+        "normalizedPair": "gyen_usd",
+        "normalizedSymbol": "gyen",
+        "nativePair": "GYEN-USD",
+        "exchange": "gdax",
+        "assetName": "GYEN",
+        "assetArcId": "AMB:GYE000000411",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "gyen_usd",
+        "instrumentType": "spot"
+    }
+]

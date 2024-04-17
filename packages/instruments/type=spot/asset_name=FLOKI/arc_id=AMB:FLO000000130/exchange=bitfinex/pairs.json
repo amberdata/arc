@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:FLO000000130_AMB:USD000000949",
+        "normalizedPair": "floki_usd",
+        "normalizedSymbol": "floki",
+        "nativePair": "tFLOKI:USD",
+        "exchange": "bitfinex",
+        "assetName": "FLOKI",
+        "assetArcId": "AMB:FLO000000130",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "floki_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FLO000000130_AMB:USD000000335",
+        "normalizedPair": "floki_usdt",
+        "normalizedSymbol": "floki",
+        "nativePair": "tFLOKI:UST",
+        "exchange": "bitfinex",
+        "assetName": "FLOKI",
+        "assetArcId": "AMB:FLO000000130",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "floki_usdt",
+        "instrumentType": "spot"
+    }
+]

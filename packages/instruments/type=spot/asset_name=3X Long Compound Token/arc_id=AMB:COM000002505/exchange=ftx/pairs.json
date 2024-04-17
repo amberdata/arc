@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:COM000002505_AMB:USD000000949",
+        "normalizedPair": "compbull_usd",
+        "normalizedSymbol": "compbull",
+        "nativePair": "COMPBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long Compound Token",
+        "assetArcId": "AMB:COM000002505",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "compbull_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:COM000002505_AMB:USD000000335",
+        "normalizedPair": "compbull_usdt",
+        "normalizedSymbol": "compbull",
+        "nativePair": "COMPBULL/USDT",
+        "exchange": "ftx",
+        "assetName": "3X Long Compound Token",
+        "assetArcId": "AMB:COM000002505",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "compbull_usdt",
+        "instrumentType": "spot"
+    }
+]

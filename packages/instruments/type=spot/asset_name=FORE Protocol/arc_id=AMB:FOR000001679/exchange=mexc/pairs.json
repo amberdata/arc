@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FOR000001679_AMB:USD000000335",
+        "normalizedPair": "fore_usdt",
+        "normalizedSymbol": "fore",
+        "nativePair": "FOREUSDT",
+        "exchange": "mexc",
+        "assetName": "FORE Protocol",
+        "assetArcId": "AMB:FOR000001679",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fore_usdt",
+        "instrumentType": "spot"
+    }
+]

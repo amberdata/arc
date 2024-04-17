@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALP000000014_AMB:USD000000335",
+        "normalizedPair": "alpaca_usdt",
+        "normalizedSymbol": "alpaca",
+        "nativePair": "ALPACAUSDT",
+        "exchange": "mexc",
+        "assetName": "Alpaca Finance",
+        "assetArcId": "AMB:ALP000000014",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "alpaca_usdt",
+        "instrumentType": "spot"
+    }
+]

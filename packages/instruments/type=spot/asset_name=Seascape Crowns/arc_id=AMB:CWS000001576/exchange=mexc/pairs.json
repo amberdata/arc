@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CWS000001576_AMB:USD000000335",
+        "normalizedPair": "cws_usdt",
+        "normalizedSymbol": "cws",
+        "nativePair": "CWSUSDT",
+        "exchange": "mexc",
+        "assetName": "Seascape Crowns",
+        "assetArcId": "AMB:CWS000001576",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cws_usdt",
+        "instrumentType": "spot"
+    }
+]

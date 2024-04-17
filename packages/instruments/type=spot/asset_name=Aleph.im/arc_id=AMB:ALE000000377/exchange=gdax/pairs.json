@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALE000000377_AMB:USD000000949",
+        "normalizedPair": "aleph_usd",
+        "normalizedSymbol": "aleph",
+        "nativePair": "ALEPH-USD",
+        "exchange": "gdax",
+        "assetName": "Aleph.im",
+        "assetArcId": "AMB:ALE000000377",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "aleph_usd",
+        "instrumentType": "spot"
+    }
+]

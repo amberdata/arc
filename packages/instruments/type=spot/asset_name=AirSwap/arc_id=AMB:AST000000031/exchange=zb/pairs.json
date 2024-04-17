@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AST000000031_AMB:USD000000335",
+        "normalizedPair": "ast_usdt",
+        "normalizedSymbol": "ast",
+        "nativePair": "ast_usdt",
+        "exchange": "zb",
+        "assetName": "AirSwap",
+        "assetArcId": "AMB:AST000000031",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ast_usdt",
+        "instrumentType": "spot"
+    }
+]

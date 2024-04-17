@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TAM000000584_AMB:USD000000335",
+        "normalizedPair": "tama_usdt",
+        "normalizedSymbol": "tama",
+        "nativePair": "TAMAUSDT",
+        "exchange": "mexc",
+        "assetName": "Tamadoge",
+        "assetArcId": "AMB:TAM000000584",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tama_usdt",
+        "instrumentType": "spot"
+    }
+]

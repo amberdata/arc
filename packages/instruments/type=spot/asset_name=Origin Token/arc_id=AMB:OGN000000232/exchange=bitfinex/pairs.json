@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:OGN000000232_AMB:USD000000949",
+        "normalizedPair": "ogn_usd",
+        "normalizedSymbol": "ogn",
+        "nativePair": "tOGNUSD",
+        "exchange": "bitfinex",
+        "assetName": "Origin Token",
+        "assetArcId": "AMB:OGN000000232",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ogn_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OGN000000232_AMB:USD000000335",
+        "normalizedPair": "ogn_usdt",
+        "normalizedSymbol": "ogn",
+        "nativePair": "tOGNUST",
+        "exchange": "bitfinex",
+        "assetName": "Origin Token",
+        "assetArcId": "AMB:OGN000000232",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ogn_usdt",
+        "instrumentType": "spot"
+    }
+]

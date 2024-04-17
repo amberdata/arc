@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAM000002114_AMB:USD000000335",
+        "normalizedPair": "ram_usdt",
+        "normalizedSymbol": "ram",
+        "nativePair": "RAMUSDT",
+        "exchange": "mexc",
+        "assetName": "Ramses Exchange",
+        "assetArcId": "AMB:RAM000002114",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ram_usdt",
+        "instrumentType": "spot"
+    }
+]

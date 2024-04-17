@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ABN000002439_AMB:USD000000949",
+        "normalizedPair": "abnb_usd",
+        "normalizedSymbol": "abnb",
+        "nativePair": "ABNB/USD",
+        "exchange": "ftx",
+        "assetName": "Airbnb tokenized stock",
+        "assetArcId": "AMB:ABN000002439",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "abnb_usd",
+        "instrumentType": "spot"
+    }
+]

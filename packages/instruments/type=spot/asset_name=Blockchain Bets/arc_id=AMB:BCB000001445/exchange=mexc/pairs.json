@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BCB000001445_AMB:USD000000335",
+        "normalizedPair": "bcb_usdt",
+        "normalizedSymbol": "bcb",
+        "nativePair": "BCBUSDT",
+        "exchange": "mexc",
+        "assetName": "Blockchain Bets",
+        "assetArcId": "AMB:BCB000001445",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bcb_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHA000001308_AMB:USD000000335",
+        "normalizedPair": "shares_usdt",
+        "normalizedSymbol": "shares",
+        "nativePair": "SHARES_USDT",
+        "exchange": "poloniex",
+        "assetName": "shares.finance",
+        "assetArcId": "AMB:SHA000001308",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shares_usdt",
+        "instrumentType": "spot"
+    }
+]

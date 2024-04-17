@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SWA000000819_AMB:USD000000335",
+        "normalizedPair": "swap_usdt",
+        "normalizedSymbol": "swap",
+        "nativePair": "swapusdt",
+        "exchange": "huobi",
+        "assetName": "SatoshiSwap",
+        "assetArcId": "AMB:SWA000000819",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "swap_usdt",
+        "instrumentType": "spot"
+    }
+]

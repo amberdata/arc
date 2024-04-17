@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:QTU000000268_AMB:KRW000000000",
+        "normalizedPair": "qtum_krw",
+        "normalizedSymbol": "qtum",
+        "nativePair": "QTUM/KRW",
+        "exchange": "bithumb",
+        "assetName": "Qtum",
+        "assetArcId": "AMB:QTU000000268",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "qtum_krw",
+        "instrumentType": "spot"
+    }
+]

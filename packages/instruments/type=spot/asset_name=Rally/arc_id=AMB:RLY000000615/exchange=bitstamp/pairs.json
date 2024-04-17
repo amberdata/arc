@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:RLY000000615_AMB:EUR000000120",
+        "normalizedPair": "rly_eur",
+        "normalizedSymbol": "rly",
+        "nativePair": "rlyeur",
+        "exchange": "bitstamp",
+        "assetName": "Rally",
+        "assetArcId": "AMB:RLY000000615",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "rly_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RLY000000615_AMB:USD000000949",
+        "normalizedPair": "rly_usd",
+        "normalizedSymbol": "rly",
+        "nativePair": "rlyusd",
+        "exchange": "bitstamp",
+        "assetName": "Rally",
+        "assetArcId": "AMB:RLY000000615",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "rly_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OPA000000239_AMB:KRW000000000",
+        "normalizedPair": "op_krw",
+        "normalizedSymbol": "op",
+        "nativePair": "OP/KRW",
+        "exchange": "bithumb",
+        "assetName": "Optimism",
+        "assetArcId": "AMB:OPA000000239",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "op_krw",
+        "instrumentType": "spot"
+    }
+]

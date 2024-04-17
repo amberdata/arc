@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:REP000001295_AMB:BTC000000000",
+        "normalizedPair": "repv2_btc",
+        "normalizedSymbol": "repv2",
+        "nativePair": "REPV2_BTC",
+        "exchange": "poloniex",
+        "assetName": "Augur",
+        "assetArcId": "AMB:REP000001295",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "repv2_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:REP000001295_AMB:USD000000335",
+        "normalizedPair": "repv2_usdt",
+        "normalizedSymbol": "repv2",
+        "nativePair": "REPV2_USDT",
+        "exchange": "poloniex",
+        "assetName": "Augur",
+        "assetArcId": "AMB:REP000001295",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "repv2_usdt",
+        "instrumentType": "spot"
+    }
+]

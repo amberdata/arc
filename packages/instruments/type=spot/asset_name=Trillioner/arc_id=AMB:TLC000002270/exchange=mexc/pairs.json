@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TLC000002270_AMB:USD000000335",
+        "normalizedPair": "tlc_usdt",
+        "normalizedSymbol": "tlc",
+        "nativePair": "TLCUSDT",
+        "exchange": "mexc",
+        "assetName": "Trillioner",
+        "assetArcId": "AMB:TLC000002270",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tlc_usdt",
+        "instrumentType": "spot"
+    }
+]

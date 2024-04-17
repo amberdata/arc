@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:COM000000079_AMB:BNB000000055",
+        "normalizedPair": "combo_bnb",
+        "normalizedSymbol": "combo",
+        "nativePair": "COMBOBNB",
+        "exchange": "binance",
+        "assetName": "Furucombo",
+        "assetArcId": "AMB:COM000000079",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "combo_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:COM000000079_AMB:TRY000000940",
+        "normalizedPair": "combo_try",
+        "normalizedSymbol": "combo",
+        "nativePair": "COMBOTRY",
+        "exchange": "binance",
+        "assetName": "Furucombo",
+        "assetArcId": "AMB:COM000000079",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "combo_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:COM000000079_AMB:USD000000335",
+        "normalizedPair": "combo_usdt",
+        "normalizedSymbol": "combo",
+        "nativePair": "COMBOUSDT",
+        "exchange": "binance",
+        "assetName": "Furucombo",
+        "assetArcId": "AMB:COM000000079",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "combo_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OBT000002006_AMB:USD000000335",
+        "normalizedPair": "obt_usdt",
+        "normalizedSymbol": "obt",
+        "nativePair": "OBTUSDT",
+        "exchange": "mexc",
+        "assetName": "Oobit",
+        "assetArcId": "AMB:OBT000002006",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "obt_usdt",
+        "instrumentType": "spot"
+    }
+]

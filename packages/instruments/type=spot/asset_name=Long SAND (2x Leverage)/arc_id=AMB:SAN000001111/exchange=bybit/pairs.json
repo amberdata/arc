@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAN000001111_AMB:USD000000335",
+        "normalizedPair": "sand2l_usdt",
+        "normalizedSymbol": "sand2l",
+        "nativePair": "SAND2LUSDT",
+        "exchange": "bybit",
+        "assetName": "Long SAND (2x Leverage)",
+        "assetArcId": "AMB:SAN000001111",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sand2l_usdt",
+        "instrumentType": "spot"
+    }
+]

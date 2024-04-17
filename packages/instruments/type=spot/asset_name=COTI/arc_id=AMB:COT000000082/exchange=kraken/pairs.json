@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:COT000000082_AMB:EUR000000120",
+        "normalizedPair": "coti_eur",
+        "normalizedSymbol": "coti",
+        "nativePair": "COTIEUR",
+        "exchange": "kraken",
+        "assetName": "COTI",
+        "assetArcId": "AMB:COT000000082",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "coti_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:COT000000082_AMB:USD000000949",
+        "normalizedPair": "coti_usd",
+        "normalizedSymbol": "coti",
+        "nativePair": "COTIUSD",
+        "exchange": "kraken",
+        "assetName": "COTI",
+        "assetArcId": "AMB:COT000000082",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "coti_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:WRX000000355_AMB:BUS000000067",
+        "normalizedPair": "wrx_busd",
+        "normalizedSymbol": "wrx",
+        "nativePair": "WRXBUSD",
+        "exchange": "binance",
+        "assetName": "WazirX",
+        "assetArcId": "AMB:WRX000000355",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "wrx_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WRX000000355_AMB:USD000000335",
+        "normalizedPair": "wrx_usdt",
+        "normalizedSymbol": "wrx",
+        "nativePair": "WRXUSDT",
+        "exchange": "binance",
+        "assetName": "WazirX",
+        "assetArcId": "AMB:WRX000000355",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wrx_usdt",
+        "instrumentType": "spot"
+    }
+]

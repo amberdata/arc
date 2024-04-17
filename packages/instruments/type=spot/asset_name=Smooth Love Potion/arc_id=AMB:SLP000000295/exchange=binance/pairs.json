@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:SLP000000295_AMB:ETH000000000",
+        "normalizedPair": "slp_eth",
+        "normalizedSymbol": "slp",
+        "nativePair": "SLPETH",
+        "exchange": "binance",
+        "assetName": "Smooth Love Potion",
+        "assetArcId": "AMB:SLP000000295",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "slp_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SLP000000295_AMB:TRY000000940",
+        "normalizedPair": "slp_try",
+        "normalizedSymbol": "slp",
+        "nativePair": "SLPTRY",
+        "exchange": "binance",
+        "assetName": "Smooth Love Potion",
+        "assetArcId": "AMB:SLP000000295",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "slp_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SLP000000295_AMB:USD000000335",
+        "normalizedPair": "slp_usdt",
+        "normalizedSymbol": "slp",
+        "nativePair": "SLPUSDT",
+        "exchange": "binance",
+        "assetName": "Smooth Love Potion",
+        "assetArcId": "AMB:SLP000000295",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "slp_usdt",
+        "instrumentType": "spot"
+    }
+]

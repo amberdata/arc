@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SWE000000582_AMB:USD000000335",
+        "normalizedPair": "sweat_usdt",
+        "normalizedSymbol": "sweat",
+        "nativePair": "SWEATUSDT",
+        "exchange": "mexc",
+        "assetName": "Sweat Economy",
+        "assetArcId": "AMB:SWE000000582",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sweat_usdt",
+        "instrumentType": "spot"
+    }
+]

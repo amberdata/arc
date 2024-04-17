@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:CHZ000000075_AMB:USD000000333",
+        "normalizedPair": "chz_usdc",
+        "normalizedSymbol": "chz",
+        "nativePair": "CHZUSDC",
+        "exchange": "bybit",
+        "assetName": "Chiliz",
+        "assetArcId": "AMB:CHZ000000075",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "chz_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CHZ000000075_AMB:USD000000335",
+        "normalizedPair": "chz_usdt",
+        "normalizedSymbol": "chz",
+        "nativePair": "CHZUSDT",
+        "exchange": "bybit",
+        "assetName": "Chiliz",
+        "assetArcId": "AMB:CHZ000000075",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "chz_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:STE000000301_AMB:BTC000000000",
+        "normalizedPair": "steem_btc",
+        "normalizedSymbol": "steem",
+        "nativePair": "STEEM_BTC",
+        "exchange": "poloniex",
+        "assetName": "Steem",
+        "assetArcId": "AMB:STE000000301",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "steem_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:STE000000301_AMB:TRX000000325",
+        "normalizedPair": "steem_trx",
+        "normalizedSymbol": "steem",
+        "nativePair": "STEEM_TRX",
+        "exchange": "poloniex",
+        "assetName": "Steem",
+        "assetArcId": "AMB:STE000000301",
+        "quoteArcId": "AMB:TRX000000325",
+        "collectedPair": "steem_trx",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:STE000000301_AMB:USD000000335",
+        "normalizedPair": "steem_usdt",
+        "normalizedSymbol": "steem",
+        "nativePair": "STEEM_USDT",
+        "exchange": "poloniex",
+        "assetName": "Steem",
+        "assetArcId": "AMB:STE000000301",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "steem_usdt",
+        "instrumentType": "spot"
+    }
+]

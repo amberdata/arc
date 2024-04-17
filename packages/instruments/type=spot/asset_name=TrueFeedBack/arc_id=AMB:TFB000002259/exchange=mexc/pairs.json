@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TFB000002259_AMB:USD000000335",
+        "normalizedPair": "tfbx_usdt",
+        "normalizedSymbol": "tfbx",
+        "nativePair": "TFBXUSDT",
+        "exchange": "mexc",
+        "assetName": "TrueFeedBack",
+        "assetArcId": "AMB:TFB000002259",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tfbx_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:USD000000335",
+        "normalizedPair": "mkr_usdt",
+        "normalizedSymbol": "mkr",
+        "nativePair": "MKRUSDT",
+        "exchange": "bybit",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mkr_usdt",
+        "instrumentType": "spot"
+    }
+]

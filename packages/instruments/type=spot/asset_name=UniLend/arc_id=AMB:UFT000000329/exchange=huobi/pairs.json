@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UFT000000329_AMB:USD000000335",
+        "normalizedPair": "uft_usdt",
+        "normalizedSymbol": "uft",
+        "nativePair": "uftusdt",
+        "exchange": "huobi",
+        "assetName": "UniLend",
+        "assetArcId": "AMB:UFT000000329",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "uft_usdt",
+        "instrumentType": "spot"
+    }
+]

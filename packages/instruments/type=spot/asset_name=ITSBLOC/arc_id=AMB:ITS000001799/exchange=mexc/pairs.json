@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ITS000001799_AMB:USD000000335",
+        "normalizedPair": "itsb_usdt",
+        "normalizedSymbol": "itsb",
+        "nativePair": "ITSBUSDT",
+        "exchange": "mexc",
+        "assetName": "ITSBLOC",
+        "assetArcId": "AMB:ITS000001799",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "itsb_usdt",
+        "instrumentType": "spot"
+    }
+]

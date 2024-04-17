@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WAL000002333_AMB:USD000000335",
+        "normalizedPair": "walv_usdt",
+        "normalizedSymbol": "walv",
+        "nativePair": "WALVUSDT",
+        "exchange": "mexc",
+        "assetName": "Wrapped Alvey Chain",
+        "assetArcId": "AMB:WAL000002333",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "walv_usdt",
+        "instrumentType": "spot"
+    }
+]

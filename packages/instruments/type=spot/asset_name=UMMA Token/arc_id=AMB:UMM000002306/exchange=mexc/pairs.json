@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UMM000002306_AMB:USD000000335",
+        "normalizedPair": "umma_usdt",
+        "normalizedSymbol": "umma",
+        "nativePair": "UMMAUSDT",
+        "exchange": "mexc",
+        "assetName": "UMMA Token",
+        "assetArcId": "AMB:UMM000002306",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "umma_usdt",
+        "instrumentType": "spot"
+    }
+]

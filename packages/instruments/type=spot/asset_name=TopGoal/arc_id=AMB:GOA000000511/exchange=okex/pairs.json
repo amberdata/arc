@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GOA000000511_AMB:USD000000335",
+        "normalizedPair": "goal_usdt",
+        "normalizedSymbol": "goal",
+        "nativePair": "GOAL-USDT",
+        "exchange": "okex",
+        "assetName": "TopGoal",
+        "assetArcId": "AMB:GOA000000511",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "goal_usdt",
+        "instrumentType": "spot"
+    }
+]

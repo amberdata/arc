@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ASR000000030_AMB:TRY000000940",
+        "normalizedPair": "asr_try",
+        "normalizedSymbol": "asr",
+        "nativePair": "ASRTRY",
+        "exchange": "binance",
+        "assetName": "AS Roma Fan Token",
+        "assetArcId": "AMB:ASR000000030",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "asr_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ASR000000030_AMB:USD000000335",
+        "normalizedPair": "asr_usdt",
+        "normalizedSymbol": "asr",
+        "nativePair": "ASRUSDT",
+        "exchange": "binance",
+        "assetName": "AS Roma Fan Token",
+        "assetArcId": "AMB:ASR000000030",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "asr_usdt",
+        "instrumentType": "spot"
+    }
+]

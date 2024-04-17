@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UME000000590_AMB:USD000000949",
+        "normalizedPair": "umee_usd",
+        "normalizedSymbol": "umee",
+        "nativePair": "UMEE/USD",
+        "exchange": "ftx",
+        "assetName": "Umee",
+        "assetArcId": "AMB:UME000000590",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "umee_usd",
+        "instrumentType": "spot"
+    }
+]

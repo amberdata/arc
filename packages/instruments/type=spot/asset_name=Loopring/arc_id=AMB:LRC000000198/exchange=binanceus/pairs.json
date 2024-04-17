@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LRC000000198_AMB:USD000000335",
+        "normalizedPair": "lrc_usdt",
+        "normalizedSymbol": "lrc",
+        "nativePair": "LRCUSDT",
+        "exchange": "binanceus",
+        "assetName": "Loopring",
+        "assetArcId": "AMB:LRC000000198",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lrc_usdt",
+        "instrumentType": "spot"
+    }
+]
