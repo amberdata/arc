@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RPL000000000_AMB:USD000000335",
+        "normalizedPair": "rplay_usdt",
+        "normalizedSymbol": "rplay",
+        "nativePair": "RPLAYUSDT",
+        "exchange": "mexc",
+        "assetName": "RPLAY",
+        "assetArcId": "AMB:RPL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rplay_usdt",
+        "instrumentType": "spot"
+    }
+]

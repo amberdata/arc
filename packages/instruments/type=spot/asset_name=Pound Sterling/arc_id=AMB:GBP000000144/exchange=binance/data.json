@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:GBP000000144_AMB:BUS000000067",
+        "normalizedPair": "gbp_busd",
+        "normalizedSymbol": "gbp",
+        "nativePair": "GBPBUSD",
+        "exchange": "binance",
+        "assetName": "Pound Sterling",
+        "assetArcId": "AMB:GBP000000144",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "gbp_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GBP000000144_AMB:USD000000335",
+        "normalizedPair": "gbp_usdt",
+        "normalizedSymbol": "gbp",
+        "nativePair": "GBPUSDT",
+        "exchange": "binance",
+        "assetName": "Pound Sterling",
+        "assetArcId": "AMB:GBP000000144",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gbp_usdt",
+        "instrumentType": "spot"
+    }
+]

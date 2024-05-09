@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:DEN000000097_AMB:ETH000000000",
+        "normalizedPair": "dent_eth",
+        "normalizedSymbol": "dent",
+        "nativePair": "DENTETH",
+        "exchange": "binance",
+        "assetName": "Dent",
+        "assetArcId": "AMB:DEN000000097",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "dent_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DEN000000097_AMB:TRY000000940",
+        "normalizedPair": "dent_try",
+        "normalizedSymbol": "dent",
+        "nativePair": "DENTTRY",
+        "exchange": "binance",
+        "assetName": "Dent",
+        "assetArcId": "AMB:DEN000000097",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "dent_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DEN000000097_AMB:USD000000335",
+        "normalizedPair": "dent_usdt",
+        "normalizedSymbol": "dent",
+        "nativePair": "DENTUSDT",
+        "exchange": "binance",
+        "assetName": "Dent",
+        "assetArcId": "AMB:DEN000000097",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dent_usdt",
+        "instrumentType": "spot"
+    }
+]

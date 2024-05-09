@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIR000002725_AMB:USD000000335",
+        "normalizedPair": "airi_usdt",
+        "normalizedSymbol": "airi",
+        "nativePair": "AIRIUSDT",
+        "exchange": "mexc",
+        "assetName": "aiRight",
+        "assetArcId": "AMB:AIR000002725",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "airi_usdt",
+        "instrumentType": "spot"
+    }
+]

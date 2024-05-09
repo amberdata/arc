@@ -1,0 +1,28 @@
+{
+    "assetSymbol": "fxs",
+    "assetName": "Frax Share",
+    "assetArcId": "AMB:FXS000000139",
+    "website": "https://frax.finance/",
+    "whitePaperUrl": "https://docs.frax.finance/",
+    "classificationTags": [
+        "Governance",
+        "Oracles",
+        "Smart Contract",
+        "Stablecoin",
+        "Staking",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Frax Share/arc_id=AMB:FXS000000139/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Frax Share/arc_id=AMB:FXS000000139/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Frax Share/arc_id=AMB:FXS000000139/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Frax Share/arc_id=AMB:FXS000000139/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Frax Share/arc_id=AMB:FXS000000139/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Frax Share/arc_id=AMB:FXS000000139/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Frax Share/arc_id=AMB:FXS000000139/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Frax Share/arc_id=AMB:FXS000000139/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Frax Share/arc_id=AMB:FXS000000139/exchange=mexc/data.json"
+        ]
+    }
+}

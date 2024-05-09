@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FOM000001677_AMB:USD000000335",
+        "normalizedPair": "fomo_usdt",
+        "normalizedSymbol": "fomo",
+        "nativePair": "FOMOUSDT",
+        "exchange": "mexc",
+        "assetName": "FOMO",
+        "assetArcId": "AMB:FOM000001677",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fomo_usdt",
+        "instrumentType": "spot"
+    }
+]

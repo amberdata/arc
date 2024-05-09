@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VRH000002326_AMB:USD000000335",
+        "normalizedPair": "vrh_usdt",
+        "normalizedSymbol": "vrh",
+        "nativePair": "VRHUSDT",
+        "exchange": "mexc",
+        "assetName": "Versailles Heroes",
+        "assetArcId": "AMB:VRH000002326",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vrh_usdt",
+        "instrumentType": "spot"
+    }
+]

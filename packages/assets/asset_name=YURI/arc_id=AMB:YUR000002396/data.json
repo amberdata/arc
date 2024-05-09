@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "yuri",
+    "assetName": "YURI",
+    "assetArcId": "AMB:YUR000002396",
+    "website": "http://yuri-ai.com/",
+    "whitePaperUrl": "https://yuriai.gitbook.io/yuriai-guidebook/get-started/about-yuri-ai",
+    "classificationTags": [
+        "Gaming",
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=YURI/arc_id=AMB:YUR000002396/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MIN000000216_AMB:KRW000000000",
+        "normalizedPair": "mina_krw",
+        "normalizedSymbol": "mina",
+        "nativePair": "MINA/KRW",
+        "exchange": "bithumb",
+        "assetName": "Mina",
+        "assetArcId": "AMB:MIN000000216",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "mina_krw",
+        "instrumentType": "spot"
+    }
+]

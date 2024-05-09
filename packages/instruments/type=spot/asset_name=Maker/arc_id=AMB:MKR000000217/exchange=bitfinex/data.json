@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:USD000000949",
+        "normalizedPair": "mkr_usd",
+        "normalizedSymbol": "mkr",
+        "nativePair": "tMKRUSD",
+        "exchange": "bitfinex",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mkr_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:USD000000335",
+        "normalizedPair": "mkr_usdt",
+        "normalizedSymbol": "mkr",
+        "nativePair": "tMKRUST",
+        "exchange": "bitfinex",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mkr_usdt",
+        "instrumentType": "spot"
+    }
+]

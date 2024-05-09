@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VSX000000000_AMB:USD000000335",
+        "normalizedPair": "vsx_usdt",
+        "normalizedSymbol": "vsx",
+        "nativePair": "VSXUSDT",
+        "exchange": "mexc",
+        "assetName": "VERSUS-X",
+        "assetArcId": "AMB:VSX000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vsx_usdt",
+        "instrumentType": "spot"
+    }
+]

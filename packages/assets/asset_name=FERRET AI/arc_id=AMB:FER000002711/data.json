@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "ferret",
+    "assetName": "FERRET AI",
+    "assetArcId": "AMB:FER000002711",
+    "website": "https://www.ferretai.org/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0xBcBDA13Bd60bC0e91745186E274D1445078D6b33"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

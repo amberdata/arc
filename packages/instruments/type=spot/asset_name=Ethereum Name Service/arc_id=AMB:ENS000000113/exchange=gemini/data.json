@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ENS000000113_AMB:USD000000949",
+        "normalizedPair": "ens_usd",
+        "normalizedSymbol": "ens",
+        "nativePair": "ensusd",
+        "exchange": "gemini",
+        "assetName": "Ethereum Name Service",
+        "assetArcId": "AMB:ENS000000113",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ens_usd",
+        "instrumentType": "spot"
+    }
+]

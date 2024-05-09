@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MIR000001928_AMB:EUR000000120",
+        "normalizedPair": "mir_eur",
+        "normalizedSymbol": "mir",
+        "nativePair": "MIREUR",
+        "exchange": "kraken",
+        "assetName": "MIR Token",
+        "assetArcId": "AMB:MIR000001928",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "mir_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MIR000001928_AMB:USD000000949",
+        "normalizedPair": "mir_usd",
+        "normalizedSymbol": "mir",
+        "nativePair": "MIRUSD",
+        "exchange": "kraken",
+        "assetName": "MIR Token",
+        "assetArcId": "AMB:MIR000001928",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mir_usd",
+        "instrumentType": "spot"
+    }
+]

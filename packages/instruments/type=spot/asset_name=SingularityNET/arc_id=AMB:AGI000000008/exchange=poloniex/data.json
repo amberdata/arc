@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AGI000000008_AMB:USD000000335",
+        "normalizedPair": "agix_usdt",
+        "normalizedSymbol": "agix",
+        "nativePair": "AGIX_USDT",
+        "exchange": "poloniex",
+        "assetName": "SingularityNET",
+        "assetArcId": "AMB:AGI000000008",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "agix_usdt",
+        "instrumentType": "spot"
+    }
+]

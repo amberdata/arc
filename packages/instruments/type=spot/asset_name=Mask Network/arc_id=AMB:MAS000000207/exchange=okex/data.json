@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MAS000000207_AMB:USD000000333",
+        "normalizedPair": "mask_usdc",
+        "normalizedSymbol": "mask",
+        "nativePair": "MASK-USDC",
+        "exchange": "okex",
+        "assetName": "Mask Network",
+        "assetArcId": "AMB:MAS000000207",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "mask_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MAS000000207_AMB:USD000000335",
+        "normalizedPair": "mask_usdt",
+        "normalizedSymbol": "mask",
+        "nativePair": "MASK-USDT",
+        "exchange": "okex",
+        "assetName": "Mask Network",
+        "assetArcId": "AMB:MAS000000207",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mask_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XMP000003101_AMB:USD000000335",
+        "normalizedPair": "xmp_usdt",
+        "normalizedSymbol": "xmp",
+        "nativePair": "XMPUSDT",
+        "exchange": "mexc",
+        "assetName": "X-MetaPol",
+        "assetArcId": "AMB:XMP000003101",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xmp_usdt",
+        "instrumentType": "spot"
+    }
+]

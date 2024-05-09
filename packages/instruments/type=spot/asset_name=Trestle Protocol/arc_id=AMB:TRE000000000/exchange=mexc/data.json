@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:TRE000000000_AMB:USD000000335",
+        "normalizedPair": "trestle_usdt",
+        "normalizedSymbol": "trestle",
+        "nativePair": "TRESTLEUSDT",
+        "exchange": "mexc",
+        "assetName": "Trestle Protocol",
+        "assetArcId": "AMB:TRE000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trestle_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TRE000000000_AMB:USD000000335",
+        "normalizedPair": "tremp1_usdt",
+        "normalizedSymbol": "tremp1",
+        "nativePair": "TREMP1USDT",
+        "exchange": "mexc",
+        "assetName": "MEGE",
+        "assetArcId": "AMB:TRE000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tremp1_usdt",
+        "instrumentType": "spot"
+    }
+]

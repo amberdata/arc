@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KFI000003245_AMB:USD000000335",
+        "normalizedPair": "kfi_usdt",
+        "normalizedSymbol": "kfi",
+        "nativePair": "KFIUSDT",
+        "exchange": "mexc",
+        "assetName": "Klever Finance",
+        "assetArcId": "AMB:KFI000003245",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kfi_usdt",
+        "instrumentType": "spot"
+    }
+]

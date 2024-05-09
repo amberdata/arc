@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "enix",
+    "assetName": "ASENIX",
+    "assetArcId": "AMB:ENI000001634",
+    "website": "https://asenix.org/",
+    "whitePaperUrl": "https://docs.asenix.org/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ASENIX/arc_id=AMB:ENI000001634/exchange=mexc/data.json"
+        ]
+    }
+}

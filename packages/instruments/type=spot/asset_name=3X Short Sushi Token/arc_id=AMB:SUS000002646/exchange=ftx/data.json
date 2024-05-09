@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SUS000002646_AMB:USD000000949",
+        "normalizedPair": "sushibear_usd",
+        "normalizedSymbol": "sushibear",
+        "nativePair": "SUSHIBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short Sushi Token",
+        "assetArcId": "AMB:SUS000002646",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sushibear_usd",
+        "instrumentType": "spot"
+    }
+]

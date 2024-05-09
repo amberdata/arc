@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:BAL000000043_AMB:BTC000000000",
+        "normalizedPair": "bal_btc",
+        "normalizedSymbol": "bal",
+        "nativePair": "BALXBT",
+        "exchange": "kraken",
+        "assetName": "Balancer",
+        "assetArcId": "AMB:BAL000000043",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "bal_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAL000000043_AMB:EUR000000120",
+        "normalizedPair": "bal_eur",
+        "normalizedSymbol": "bal",
+        "nativePair": "BALEUR",
+        "exchange": "kraken",
+        "assetName": "Balancer",
+        "assetArcId": "AMB:BAL000000043",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "bal_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAL000000043_AMB:USD000000949",
+        "normalizedPair": "bal_usd",
+        "normalizedSymbol": "bal",
+        "nativePair": "BALUSD",
+        "exchange": "kraken",
+        "assetName": "Balancer",
+        "assetArcId": "AMB:BAL000000043",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bal_usd",
+        "instrumentType": "spot"
+    }
+]

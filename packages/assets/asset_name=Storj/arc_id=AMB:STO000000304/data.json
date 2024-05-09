@@ -1,0 +1,31 @@
+{
+    "assetSymbol": "storj",
+    "assetName": "Storj",
+    "assetArcId": "AMB:STO000000304",
+    "website": "https://www.storj.io/",
+    "whitePaperUrl": "https://www.storj.io/whitepaper",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Storj/arc_id=AMB:STO000000304/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Storj/arc_id=AMB:STO000000304/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Storj/arc_id=AMB:STO000000304/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Storj/arc_id=AMB:STO000000304/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Storj/arc_id=AMB:STO000000304/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Storj/arc_id=AMB:STO000000304/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Storj/arc_id=AMB:STO000000304/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Storj/arc_id=AMB:STO000000304/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Storj/arc_id=AMB:STO000000304/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Storj/arc_id=AMB:STO000000304/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Storj/arc_id=AMB:STO000000304/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Storj/arc_id=AMB:STO000000304/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Storj/arc_id=AMB:STO000000304/exchange=mexc/data.json"
+        ]
+    }
+}

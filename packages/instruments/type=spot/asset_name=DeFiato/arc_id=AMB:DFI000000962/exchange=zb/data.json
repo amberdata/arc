@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DFI000000962_AMB:USD000000335",
+        "normalizedPair": "dfiat_usdt",
+        "normalizedSymbol": "dfiat",
+        "nativePair": "dfiat_usdt",
+        "exchange": "zb",
+        "assetName": "DeFiato",
+        "assetArcId": "AMB:DFI000000962",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dfiat_usdt",
+        "instrumentType": "spot"
+    }
+]

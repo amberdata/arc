@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BNT000000058_AMB:KRW000000000",
+        "normalizedPair": "bnt_krw",
+        "normalizedSymbol": "bnt",
+        "nativePair": "BNT/KRW",
+        "exchange": "bithumb",
+        "assetName": "Bancor Network Token",
+        "assetArcId": "AMB:BNT000000058",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "bnt_krw",
+        "instrumentType": "spot"
+    }
+]

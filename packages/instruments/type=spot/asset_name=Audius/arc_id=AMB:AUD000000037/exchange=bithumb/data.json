@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AUD000000037_AMB:KRW000000000",
+        "normalizedPair": "audio_krw",
+        "normalizedSymbol": "audio",
+        "nativePair": "AUDIO/KRW",
+        "exchange": "bithumb",
+        "assetName": "Audius",
+        "assetArcId": "AMB:AUD000000037",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "audio_krw",
+        "instrumentType": "spot"
+    }
+]

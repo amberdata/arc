@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PEP000001093_AMB:USD000000335",
+        "normalizedPair": "pepe2_usdt",
+        "normalizedSymbol": "pepe2",
+        "nativePair": "PEPE2_USDT",
+        "exchange": "poloniex",
+        "assetName": "Pepe 2.0",
+        "assetArcId": "AMB:PEP000001093",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pepe2_usdt",
+        "instrumentType": "spot"
+    }
+]

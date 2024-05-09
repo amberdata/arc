@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FRG000000000_AMB:USD000000335",
+        "normalizedPair": "frgx_usdt",
+        "normalizedSymbol": "frgx",
+        "nativePair": "FRGXUSDT",
+        "exchange": "mexc",
+        "assetName": "FRGX Finance",
+        "assetArcId": "AMB:FRG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "frgx_usdt",
+        "instrumentType": "spot"
+    }
+]

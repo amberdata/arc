@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "yaoyao",
+    "assetName": "Yaoyaos Cat",
+    "assetArcId": "AMB:YAO000000000",
+    "website": "https://yaoyaoscat.xyz/",
+    "whitePaperUrl": "https://yaoyaoscat.xyz/Yaoyao-WHITEPAPER.pdf",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Yaoyaos Cat/arc_id=AMB:YAO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

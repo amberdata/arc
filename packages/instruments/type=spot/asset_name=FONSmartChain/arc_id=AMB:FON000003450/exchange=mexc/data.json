@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FON000003450_AMB:USD000000335",
+        "normalizedPair": "foncoin_usdt",
+        "normalizedSymbol": "foncoin",
+        "nativePair": "FONCOINUSDT",
+        "exchange": "mexc",
+        "assetName": "FONSmartChain",
+        "assetArcId": "AMB:FON000003450",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "foncoin_usdt",
+        "instrumentType": "spot"
+    }
+]

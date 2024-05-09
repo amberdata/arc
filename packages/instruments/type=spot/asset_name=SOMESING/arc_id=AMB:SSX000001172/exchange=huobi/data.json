@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SSX000001172_AMB:USD000000335",
+        "normalizedPair": "ssx_usdt",
+        "normalizedSymbol": "ssx",
+        "nativePair": "ssxusdt",
+        "exchange": "huobi",
+        "assetName": "SOMESING",
+        "assetArcId": "AMB:SSX000001172",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ssx_usdt",
+        "instrumentType": "spot"
+    }
+]

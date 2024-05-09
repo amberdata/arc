@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SNX000000297_AMB:USD000000335",
+        "normalizedPair": "snx_usdt",
+        "normalizedSymbol": "snx",
+        "nativePair": "snxusdt",
+        "exchange": "huobi",
+        "assetName": "SincroniX",
+        "assetArcId": "AMB:SNX000000297",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "snx_usdt",
+        "instrumentType": "spot"
+    }
+]

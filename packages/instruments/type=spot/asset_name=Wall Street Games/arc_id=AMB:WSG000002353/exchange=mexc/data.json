@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WSG000002353_AMB:USD000000335",
+        "normalizedPair": "wsg_usdt",
+        "normalizedSymbol": "wsg",
+        "nativePair": "WSGUSDT",
+        "exchange": "mexc",
+        "assetName": "Wall Street Games",
+        "assetArcId": "AMB:WSG000002353",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wsg_usdt",
+        "instrumentType": "spot"
+    }
+]

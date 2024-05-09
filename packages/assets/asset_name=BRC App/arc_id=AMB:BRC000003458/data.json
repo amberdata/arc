@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "brct",
+    "assetName": "BRC App",
+    "assetArcId": "AMB:BRC000003458",
+    "website": "http://brcapp.com/",
+    "whitePaperUrl": "https://www.brcapp.com/litepaper",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BRC App/arc_id=AMB:BRC000003458/exchange=mexc/data.json"
+        ]
+    }
+}

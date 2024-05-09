@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ORD000003227_AMB:USD000000335",
+        "normalizedPair": "ordii_usdt",
+        "normalizedSymbol": "ordii",
+        "nativePair": "ORDIIUSDT",
+        "exchange": "mexc",
+        "assetName": "Ordinals Inscribe",
+        "assetArcId": "AMB:ORD000003227",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ordii_usdt",
+        "instrumentType": "spot"
+    }
+]

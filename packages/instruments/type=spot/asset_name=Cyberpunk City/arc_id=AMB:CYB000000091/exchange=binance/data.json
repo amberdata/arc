@@ -1,0 +1,86 @@
+[
+    {
+        "arcPairId": "AMB:CYB000000091_AMB:BNB000000055",
+        "normalizedPair": "cyber_bnb",
+        "normalizedSymbol": "cyber",
+        "nativePair": "CYBERBNB",
+        "exchange": "binance",
+        "assetName": "Cyberpunk City",
+        "assetArcId": "AMB:CYB000000091",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "cyber_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CYB000000091_AMB:BTC000000000",
+        "normalizedPair": "cyber_btc",
+        "normalizedSymbol": "cyber",
+        "nativePair": "CYBERBTC",
+        "exchange": "binance",
+        "assetName": "Cyberpunk City",
+        "assetArcId": "AMB:CYB000000091",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "cyber_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CYB000000091_AMB:ETH000000000",
+        "normalizedPair": "cyber_eth",
+        "normalizedSymbol": "cyber",
+        "nativePair": "CYBERETH",
+        "exchange": "binance",
+        "assetName": "Cyberpunk City",
+        "assetArcId": "AMB:CYB000000091",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "cyber_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CYB000000091_AMB:FDU000000122",
+        "normalizedPair": "cyber_fdusd",
+        "normalizedSymbol": "cyber",
+        "nativePair": "CYBERFDUSD",
+        "exchange": "binance",
+        "assetName": "Cyberpunk City",
+        "assetArcId": "AMB:CYB000000091",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "cyber_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CYB000000091_AMB:TRY000000940",
+        "normalizedPair": "cyber_try",
+        "normalizedSymbol": "cyber",
+        "nativePair": "CYBERTRY",
+        "exchange": "binance",
+        "assetName": "Cyberpunk City",
+        "assetArcId": "AMB:CYB000000091",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "cyber_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CYB000000091_AMB:TUS000000326",
+        "normalizedPair": "cyber_tusd",
+        "normalizedSymbol": "cyber",
+        "nativePair": "CYBERTUSD",
+        "exchange": "binance",
+        "assetName": "Cyberpunk City",
+        "assetArcId": "AMB:CYB000000091",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "cyber_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CYB000000091_AMB:USD000000335",
+        "normalizedPair": "cyber_usdt",
+        "normalizedSymbol": "cyber",
+        "nativePair": "CYBERUSDT",
+        "exchange": "binance",
+        "assetName": "Cyberpunk City",
+        "assetArcId": "AMB:CYB000000091",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cyber_usdt",
+        "instrumentType": "spot"
+    }
+]

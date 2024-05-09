@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WOO000000862_AMB:USD000000335",
+        "normalizedPair": "woof_usdt",
+        "normalizedSymbol": "woof",
+        "nativePair": "woofusdt",
+        "exchange": "huobi",
+        "assetName": "WoofWork.io",
+        "assetArcId": "AMB:WOO000000862",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "woof_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,27 @@
+{
+    "assetSymbol": "farm",
+    "assetName": "Harvest Finance",
+    "assetArcId": "AMB:FAR000000121",
+    "website": "https://harvest.finance/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance",
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xa0246c9032bC3A600820415aE600c6388619A14D"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Harvest Finance/arc_id=AMB:FAR000000121/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Harvest Finance/arc_id=AMB:FAR000000121/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Harvest Finance/arc_id=AMB:FAR000000121/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Harvest Finance/arc_id=AMB:FAR000000121/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Harvest Finance/arc_id=AMB:FAR000000121/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Harvest Finance/arc_id=AMB:FAR000000121/exchange=mexc/data.json"
+        ]
+    }
+}

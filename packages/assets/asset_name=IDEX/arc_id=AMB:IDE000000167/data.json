@@ -1,0 +1,23 @@
+{
+    "assetSymbol": "idex",
+    "assetName": "IDEX",
+    "assetArcId": "AMB:IDE000000167",
+    "website": "https://idex.io/",
+    "whitePaperUrl": "https://docs.idex.io/overview/idex-staking",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=IDEX/arc_id=AMB:IDE000000167/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=IDEX/arc_id=AMB:IDE000000167/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=IDEX/arc_id=AMB:IDE000000167/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=IDEX/arc_id=AMB:IDE000000167/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=IDEX/arc_id=AMB:IDE000000167/exchange=mexc/data.json"
+        ]
+    }
+}

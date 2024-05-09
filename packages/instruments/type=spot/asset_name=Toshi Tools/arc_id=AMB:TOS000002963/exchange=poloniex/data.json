@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOS000002963_AMB:USD000000335",
+        "normalizedPair": "toshi_usdt",
+        "normalizedSymbol": "toshi",
+        "nativePair": "TOSHI_USDT",
+        "exchange": "poloniex",
+        "assetName": "Toshi Tools",
+        "assetArcId": "AMB:TOS000002963",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "toshi_usdt",
+        "instrumentType": "spot"
+    }
+]

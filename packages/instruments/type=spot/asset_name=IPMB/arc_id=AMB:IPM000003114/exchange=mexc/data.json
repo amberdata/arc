@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IPM000003114_AMB:USD000000335",
+        "normalizedPair": "ipmb_usdt",
+        "normalizedSymbol": "ipmb",
+        "nativePair": "IPMBUSDT",
+        "exchange": "mexc",
+        "assetName": "IPMB",
+        "assetArcId": "AMB:IPM000003114",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ipmb_usdt",
+        "instrumentType": "spot"
+    }
+]

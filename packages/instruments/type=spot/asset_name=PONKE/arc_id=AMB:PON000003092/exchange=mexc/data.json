@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PON000003092_AMB:USD000000335",
+        "normalizedPair": "ponke_usdt",
+        "normalizedSymbol": "ponke",
+        "nativePair": "PONKEUSDT",
+        "exchange": "mexc",
+        "assetName": "PONKE",
+        "assetArcId": "AMB:PON000003092",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ponke_usdt",
+        "instrumentType": "spot"
+    }
+]

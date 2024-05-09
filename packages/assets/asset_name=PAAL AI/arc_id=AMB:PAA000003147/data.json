@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "paal",
+    "assetName": "PAAL AI",
+    "assetArcId": "AMB:PAA000003147",
+    "website": "https://paalai.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x14fee680690900ba0cccfc76ad70fd1b95d10e16"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PAAL AI/arc_id=AMB:PAA000003147/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PAAL AI/arc_id=AMB:PAA000003147/exchange=huobi/data.json"
+        ]
+    }
+}

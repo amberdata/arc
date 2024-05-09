@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ELO000003334_AMB:USD000000335",
+        "normalizedPair": "elonx_usdt",
+        "normalizedSymbol": "elonx",
+        "nativePair": "ELONXUSDT",
+        "exchange": "mexc",
+        "assetName": "ELONX",
+        "assetArcId": "AMB:ELO000003334",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "elonx_usdt",
+        "instrumentType": "spot"
+    }
+]

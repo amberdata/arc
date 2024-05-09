@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:KIL000000972_AMB:EUR000000120",
+        "normalizedPair": "kilt_eur",
+        "normalizedSymbol": "kilt",
+        "nativePair": "KILTEUR",
+        "exchange": "kraken",
+        "assetName": "KILT Protocol",
+        "assetArcId": "AMB:KIL000000972",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "kilt_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KIL000000972_AMB:USD000000949",
+        "normalizedPair": "kilt_usd",
+        "normalizedSymbol": "kilt",
+        "nativePair": "KILTUSD",
+        "exchange": "kraken",
+        "assetName": "KILT Protocol",
+        "assetArcId": "AMB:KIL000000972",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "kilt_usd",
+        "instrumentType": "spot"
+    }
+]

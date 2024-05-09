@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BOZ000003192_AMB:USD000000335",
+        "normalizedPair": "bozo_usdt",
+        "normalizedSymbol": "bozo",
+        "nativePair": "BOZO_USDT",
+        "exchange": "poloniex",
+        "assetName": "BOZO Collective",
+        "assetArcId": "AMB:BOZ000003192",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bozo_usdt",
+        "instrumentType": "spot"
+    }
+]

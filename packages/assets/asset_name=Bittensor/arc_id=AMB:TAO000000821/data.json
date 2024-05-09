@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "tao.amb.1",
+    "assetName": "Bittensor",
+    "assetArcId": "AMB:TAO000000821",
+    "website": "https://bittensor.org/",
+    "whitePaperUrl": "https://bittensor.com/whitepaper",
+    "classificationTags": [
+        "Machine Learning & AI"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bittensor/arc_id=AMB:TAO000000821/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bittensor/arc_id=AMB:TAO000000821/exchange=mexc/data.json"
+        ]
+    }
+}

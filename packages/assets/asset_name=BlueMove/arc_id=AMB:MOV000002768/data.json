@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "move",
+    "assetName": "BlueMove",
+    "assetArcId": "AMB:MOV000002768",
+    "website": "https://bluemove.net/",
+    "whitePaperUrl": "https://docs.bluemove.net/docs/welcome-to-bluemove",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

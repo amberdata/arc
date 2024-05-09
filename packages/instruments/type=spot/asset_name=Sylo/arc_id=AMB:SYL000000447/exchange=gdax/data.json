@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SYL000000447_AMB:USD000000949",
+        "normalizedPair": "sylo_usd",
+        "normalizedSymbol": "sylo",
+        "nativePair": "SYLO-USD",
+        "exchange": "gdax",
+        "assetName": "Sylo",
+        "assetArcId": "AMB:SYL000000447",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sylo_usd",
+        "instrumentType": "spot"
+    }
+]

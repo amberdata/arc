@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "hipp",
+    "assetName": "El Hippo",
+    "assetArcId": "AMB:HIP000001750",
+    "website": "https://hipptoken.com/",
+    "whitePaperUrl": "/how-to-buy/HIPP?utm_source=mexc&utm_medium=tokenifoHIPP&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=El Hippo/arc_id=AMB:HIP000001750/exchange=mexc/data.json"
+        ]
+    }
+}

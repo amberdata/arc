@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:FLR000000403_AMB:USD000000333",
+        "normalizedPair": "flr_usdc",
+        "normalizedSymbol": "flr",
+        "nativePair": "FLR-USDC",
+        "exchange": "okex",
+        "assetName": "FLARE",
+        "assetArcId": "AMB:FLR000000403",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "flr_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FLR000000403_AMB:USD000000335",
+        "normalizedPair": "flr_usdt",
+        "normalizedSymbol": "flr",
+        "nativePair": "FLR-USDT",
+        "exchange": "okex",
+        "assetName": "FLARE",
+        "assetArcId": "AMB:FLR000000403",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "flr_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FLR000000403_AMB:EUR000000120",
+        "normalizedPair": "flr_eur",
+        "normalizedSymbol": "flr",
+        "nativePair": "FLR-EUR",
+        "exchange": "okex",
+        "assetName": "FLARE",
+        "assetArcId": "AMB:FLR000000403",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "flr_eur",
+        "instrumentType": "spot"
+    }
+]

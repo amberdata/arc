@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "yay",
+    "assetName": "YAY",
+    "assetArcId": "AMB:YAY000002390",
+    "website": "https://www.yay.games/",
+    "whitePaperUrl": "https://www.yay.games/docs/YAY_deck.pdf",
+    "classificationTags": [
+        "Lending",
+        "Privacy",
+        "Staking",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

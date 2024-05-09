@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LIN000002590_AMB:USD000000949",
+        "normalizedPair": "linkhedge_usd",
+        "normalizedSymbol": "linkhedge",
+        "nativePair": "LINKHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1x Short Chainlink Token",
+        "assetArcId": "AMB:LIN000002590",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "linkhedge_usd",
+        "instrumentType": "spot"
+    }
+]

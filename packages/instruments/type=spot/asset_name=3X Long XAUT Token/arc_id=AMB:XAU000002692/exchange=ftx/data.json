@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XAU000002692_AMB:USD000000949",
+        "normalizedPair": "xautbull_usd",
+        "normalizedSymbol": "xautbull",
+        "nativePair": "XAUTBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long XAUT Token",
+        "assetArcId": "AMB:XAU000002692",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xautbull_usd",
+        "instrumentType": "spot"
+    }
+]

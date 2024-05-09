@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BNT000000058_AMB:USD000000335",
+        "normalizedPair": "bnt_usdt",
+        "normalizedSymbol": "bnt",
+        "nativePair": "BNT-USDT",
+        "exchange": "okex",
+        "assetName": "Bancor Network Token",
+        "assetArcId": "AMB:BNT000000058",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bnt_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POL000000780_AMB:USD000000335",
+        "normalizedPair": "polc_usdt",
+        "normalizedSymbol": "polc",
+        "nativePair": "POLCUSDT",
+        "exchange": "mexc",
+        "assetName": "Polkacity",
+        "assetArcId": "AMB:POL000000780",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "polc_usdt",
+        "instrumentType": "spot"
+    }
+]

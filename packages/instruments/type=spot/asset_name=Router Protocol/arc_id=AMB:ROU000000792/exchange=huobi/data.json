@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ROU000000792_AMB:USD000000335",
+        "normalizedPair": "route_usdt",
+        "normalizedSymbol": "route",
+        "nativePair": "routeusdt",
+        "exchange": "huobi",
+        "assetName": "Router Protocol",
+        "assetArcId": "AMB:ROU000000792",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "route_usdt",
+        "instrumentType": "spot"
+    }
+]

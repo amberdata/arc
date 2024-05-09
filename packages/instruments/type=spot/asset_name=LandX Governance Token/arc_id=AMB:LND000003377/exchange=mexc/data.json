@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LND000003377_AMB:USD000000335",
+        "normalizedPair": "lndx_usdt",
+        "normalizedSymbol": "lndx",
+        "nativePair": "LNDXUSDT",
+        "exchange": "mexc",
+        "assetName": "LandX Governance Token",
+        "assetArcId": "AMB:LND000003377",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lndx_usdt",
+        "instrumentType": "spot"
+    }
+]

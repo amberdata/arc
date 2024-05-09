@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BTG000001007_AMB:USD000000335",
+        "normalizedPair": "btg_usdt",
+        "normalizedSymbol": "btg",
+        "nativePair": "BTGUSDT",
+        "exchange": "bybit",
+        "assetName": "Bitcoin Gold",
+        "assetArcId": "AMB:BTG000001007",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "btg_usdt",
+        "instrumentType": "spot"
+    }
+]

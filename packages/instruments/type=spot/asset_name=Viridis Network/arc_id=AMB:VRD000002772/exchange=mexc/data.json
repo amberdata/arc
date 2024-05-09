@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VRD000002772_AMB:USD000000335",
+        "normalizedPair": "vrd_usdt",
+        "normalizedSymbol": "vrd",
+        "nativePair": "VRDUSDT",
+        "exchange": "mexc",
+        "assetName": "Viridis Network",
+        "assetArcId": "AMB:VRD000002772",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vrd_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALI000000611_AMB:USD000000949",
+        "normalizedPair": "ali_usd",
+        "normalizedSymbol": "ali",
+        "nativePair": "aliusd",
+        "exchange": "gemini",
+        "assetName": "Alita Finance",
+        "assetArcId": "AMB:ALI000000611",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ali_usd",
+        "instrumentType": "spot"
+    }
+]

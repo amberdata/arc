@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LYN000000000_AMB:USD000000335",
+        "normalizedPair": "lynx_usdt",
+        "normalizedSymbol": "lynx",
+        "nativePair": "LYNXUSDT",
+        "exchange": "mexc",
+        "assetName": "Lynex",
+        "assetArcId": "AMB:LYN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lynx_usdt",
+        "instrumentType": "spot"
+    }
+]

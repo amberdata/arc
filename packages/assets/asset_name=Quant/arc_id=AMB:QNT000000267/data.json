@@ -1,0 +1,28 @@
+{
+    "assetSymbol": "qnt",
+    "assetName": "Quant",
+    "assetArcId": "AMB:QNT000000267",
+    "website": "https://www.quant.network/",
+    "whitePaperUrl": "https://uploads-ssl.webflow.com/6006946fee85fda61f666256/60211c93f1cc59419c779c42_Quant_Overledger_Whitepaper_Sep_2019.pdf",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x4a220e6096b25eadb88358cb44068a3248254675"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Quant/arc_id=AMB:QNT000000267/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Quant/arc_id=AMB:QNT000000267/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Quant/arc_id=AMB:QNT000000267/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Quant/arc_id=AMB:QNT000000267/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Quant/arc_id=AMB:QNT000000267/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Quant/arc_id=AMB:QNT000000267/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Quant/arc_id=AMB:QNT000000267/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Quant/arc_id=AMB:QNT000000267/exchange=mexc/data.json"
+        ]
+    }
+}

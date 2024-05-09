@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:BEL000000049_AMB:BNB000000055",
+        "normalizedPair": "bel_bnb",
+        "normalizedSymbol": "bel",
+        "nativePair": "BELBNB",
+        "exchange": "binance",
+        "assetName": "Bella Protocol",
+        "assetArcId": "AMB:BEL000000049",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "bel_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BEL000000049_AMB:BTC000000000",
+        "normalizedPair": "bel_btc",
+        "normalizedSymbol": "bel",
+        "nativePair": "BELBTC",
+        "exchange": "binance",
+        "assetName": "Bella Protocol",
+        "assetArcId": "AMB:BEL000000049",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "bel_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BEL000000049_AMB:BUS000000067",
+        "normalizedPair": "bel_busd",
+        "normalizedSymbol": "bel",
+        "nativePair": "BELBUSD",
+        "exchange": "binance",
+        "assetName": "Bella Protocol",
+        "assetArcId": "AMB:BEL000000049",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "bel_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BEL000000049_AMB:TRY000000940",
+        "normalizedPair": "bel_try",
+        "normalizedSymbol": "bel",
+        "nativePair": "BELTRY",
+        "exchange": "binance",
+        "assetName": "Bella Protocol",
+        "assetArcId": "AMB:BEL000000049",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "bel_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BEL000000049_AMB:USD000000335",
+        "normalizedPair": "bel_usdt",
+        "normalizedSymbol": "bel",
+        "nativePair": "BELUSDT",
+        "exchange": "binance",
+        "assetName": "Bella Protocol",
+        "assetArcId": "AMB:BEL000000049",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bel_usdt",
+        "instrumentType": "spot"
+    }
+]

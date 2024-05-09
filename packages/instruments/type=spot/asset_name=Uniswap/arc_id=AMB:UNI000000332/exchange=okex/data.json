@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:UNI000000332_AMB:BTC000000000",
+        "normalizedPair": "uni_btc",
+        "normalizedSymbol": "uni",
+        "nativePair": "UNI-BTC",
+        "exchange": "okex",
+        "assetName": "Uniswap",
+        "assetArcId": "AMB:UNI000000332",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "uni_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:UNI000000332_AMB:ETH000000000",
+        "normalizedPair": "uni_eth",
+        "normalizedSymbol": "uni",
+        "nativePair": "UNI-ETH",
+        "exchange": "okex",
+        "assetName": "Uniswap",
+        "assetArcId": "AMB:UNI000000332",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "uni_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:UNI000000332_AMB:USD000000333",
+        "normalizedPair": "uni_usdc",
+        "normalizedSymbol": "uni",
+        "nativePair": "UNI-USDC",
+        "exchange": "okex",
+        "assetName": "Uniswap",
+        "assetArcId": "AMB:UNI000000332",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "uni_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:UNI000000332_AMB:USD000000335",
+        "normalizedPair": "uni_usdt",
+        "normalizedSymbol": "uni",
+        "nativePair": "UNI-USDT",
+        "exchange": "okex",
+        "assetName": "Uniswap",
+        "assetArcId": "AMB:UNI000000332",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "uni_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:UNI000000332_AMB:EUR000000120",
+        "normalizedPair": "uni_eur",
+        "normalizedSymbol": "uni",
+        "nativePair": "UNI-EUR",
+        "exchange": "okex",
+        "assetName": "Uniswap",
+        "assetArcId": "AMB:UNI000000332",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "uni_eur",
+        "instrumentType": "spot"
+    }
+]

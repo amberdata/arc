@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "etp",
+    "assetName": "Metaverse ETP",
+    "assetArcId": "AMB:ETP000001643",
+    "website": "https://mvs.org/",
+    "whitePaperUrl": "http://newmetaverse.org/white-paper/Metaverse-white-paper-v2.1-CN.pdf",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Metaverse ETP/arc_id=AMB:ETP000001643/exchange=mexc/data.json"
+        ]
+    }
+}

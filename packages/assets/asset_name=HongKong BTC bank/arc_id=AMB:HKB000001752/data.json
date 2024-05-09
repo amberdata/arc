@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "hkb",
+    "assetName": "HongKong BTC bank",
+    "assetArcId": "AMB:HKB000001752",
+    "website": "https://hkbtcbank.com/",
+    "whitePaperUrl": "https://hkbtcbank.com/HKB.whitepaper.pdf",
+    "classificationTags": [
+        "Proof-of-Stake"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=HongKong BTC bank/arc_id=AMB:HKB000001752/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "mbr",
+    "assetName": "Mirror Breaker",
+    "assetArcId": "AMB:MBR000000000",
+    "website": "https://www.mirrorbreaker.xyz/",
+    "whitePaperUrl": "https://mirror-breaker.gitbook.io/wp/about-mirror-breaker/mirror-breaker",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mirror Breaker/arc_id=AMB:MBR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BOM000000001_AMB:USD000000335",
+        "normalizedPair": "bomeai_usdt",
+        "normalizedSymbol": "bomeai",
+        "nativePair": "BOMEAIUSDT",
+        "exchange": "mexc",
+        "assetName": "BOMEAI",
+        "assetArcId": "AMB:BOM000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bomeai_usdt",
+        "instrumentType": "spot"
+    }
+]

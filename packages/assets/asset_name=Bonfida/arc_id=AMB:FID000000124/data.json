@@ -1,0 +1,27 @@
+{
+    "assetSymbol": "fida",
+    "assetName": "Bonfida",
+    "assetArcId": "AMB:FID000000124",
+    "website": "https://bonfida.org/",
+    "whitePaperUrl": "https://bonfida.org/static/media/bonfida-white-paper.360be8c4.pdf",
+    "classificationTags": [
+        "Derivatives"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "echesyfxepkdltoizsl8pbe8myagyy8zrqsacncfgnvp"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=mexc/data.json"
+        ]
+    }
+}

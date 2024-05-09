@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TEM000001175_AMB:KRW000000000",
+        "normalizedPair": "temco_krw",
+        "normalizedSymbol": "temco",
+        "nativePair": "TEMCO/KRW",
+        "exchange": "bithumb",
+        "assetName": "TEMCO",
+        "assetArcId": "AMB:TEM000001175",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "temco_krw",
+        "instrumentType": "spot"
+    }
+]

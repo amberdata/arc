@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BEA000002957_AMB:USD000000335",
+        "normalizedPair": "beamx_usdt",
+        "normalizedSymbol": "beamx",
+        "nativePair": "BEAMXUSDT",
+        "exchange": "binance",
+        "assetName": "Beam",
+        "assetArcId": "AMB:BEA000002957",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "beamx_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BEA000002957_AMB:TRY000000940",
+        "normalizedPair": "beamx_try",
+        "normalizedSymbol": "beamx",
+        "nativePair": "BEAMXTRY",
+        "exchange": "binance",
+        "assetName": "Beam",
+        "assetArcId": "AMB:BEA000002957",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "beamx_try",
+        "instrumentType": "spot"
+    }
+]

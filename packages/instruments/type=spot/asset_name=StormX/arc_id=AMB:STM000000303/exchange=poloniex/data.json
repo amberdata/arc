@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STM000000303_AMB:USD000000335",
+        "normalizedPair": "stmx_usdt",
+        "normalizedSymbol": "stmx",
+        "nativePair": "STMX_USDT",
+        "exchange": "poloniex",
+        "assetName": "StormX",
+        "assetArcId": "AMB:STM000000303",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "stmx_usdt",
+        "instrumentType": "spot"
+    }
+]

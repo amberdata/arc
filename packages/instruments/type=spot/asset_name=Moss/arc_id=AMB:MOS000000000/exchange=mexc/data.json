@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MOS000000000_AMB:USD000000335",
+        "normalizedPair": "moss_usdt",
+        "normalizedSymbol": "moss",
+        "nativePair": "MOSSUSDT",
+        "exchange": "mexc",
+        "assetName": "Moss",
+        "assetArcId": "AMB:MOS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "moss_usdt",
+        "instrumentType": "spot"
+    }
+]

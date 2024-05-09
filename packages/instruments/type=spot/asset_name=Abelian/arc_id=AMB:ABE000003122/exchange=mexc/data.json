@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ABE000003122_AMB:USD000000335",
+        "normalizedPair": "abel_usdt",
+        "normalizedSymbol": "abel",
+        "nativePair": "ABELUSDT",
+        "exchange": "mexc",
+        "assetName": "Abelian",
+        "assetArcId": "AMB:ABE000003122",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "abel_usdt",
+        "instrumentType": "spot"
+    }
+]

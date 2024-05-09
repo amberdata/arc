@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "pika.amb.1",
+    "assetName": "pika",
+    "assetArcId": "AMB:PIK000000001",
+    "website": "https://thepikacoin.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "42o42KH1dzEDjqijWpWHcNtpmW42Hxzg7YbMs1h6A5r1"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=pika/arc_id=AMB:PIK000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

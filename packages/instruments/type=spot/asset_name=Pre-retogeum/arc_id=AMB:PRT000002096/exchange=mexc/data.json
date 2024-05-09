@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PRT000002096_AMB:USD000000335",
+        "normalizedPair": "prtg_usdt",
+        "normalizedSymbol": "prtg",
+        "nativePair": "PRTGUSDT",
+        "exchange": "mexc",
+        "assetName": "Pre-retogeum",
+        "assetArcId": "AMB:PRT000002096",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "prtg_usdt",
+        "instrumentType": "spot"
+    }
+]

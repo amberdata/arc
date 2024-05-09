@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TIA000000000_AMB:USD000000335",
+        "normalizedPair": "ti_usdt",
+        "normalizedSymbol": "ti",
+        "nativePair": "TIUSDT",
+        "exchange": "mexc",
+        "assetName": "Titanium22",
+        "assetArcId": "AMB:TIA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ti_usdt",
+        "instrumentType": "spot"
+    }
+]

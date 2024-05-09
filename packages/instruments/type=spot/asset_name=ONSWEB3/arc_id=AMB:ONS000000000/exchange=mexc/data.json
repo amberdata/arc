@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ONS000000000_AMB:USD000000335",
+        "normalizedPair": "ons_usdt",
+        "normalizedSymbol": "ons",
+        "nativePair": "ONSUSDT",
+        "exchange": "mexc",
+        "assetName": "ONSWEB3",
+        "assetArcId": "AMB:ONS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ons_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LAN000000000_AMB:USD000000335",
+        "normalizedPair": "landshare_usdt",
+        "normalizedSymbol": "landshare",
+        "nativePair": "LANDSHAREUSDT",
+        "exchange": "mexc",
+        "assetName": "Landshare",
+        "assetArcId": "AMB:LAN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "landshare_usdt",
+        "instrumentType": "spot"
+    }
+]

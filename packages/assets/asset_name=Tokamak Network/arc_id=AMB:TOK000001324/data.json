@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "tokamak",
+    "assetName": "Tokamak Network",
+    "assetArcId": "AMB:TOK000001324",
+    "website": "https://tokamak.network/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x2be5e8c109e2197D077D13A82dAead6a9b3433C5"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tokamak Network/arc_id=AMB:TOK000001324/exchange=poloniex/data.json"
+        ]
+    }
+}

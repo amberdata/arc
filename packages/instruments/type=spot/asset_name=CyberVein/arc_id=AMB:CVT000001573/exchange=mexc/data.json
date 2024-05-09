@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CVT000001573_AMB:USD000000335",
+        "normalizedPair": "cvt_usdt",
+        "normalizedSymbol": "cvt",
+        "nativePair": "CVTUSDT",
+        "exchange": "mexc",
+        "assetName": "CyberVein",
+        "assetArcId": "AMB:CVT000001573",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cvt_usdt",
+        "instrumentType": "spot"
+    }
+]

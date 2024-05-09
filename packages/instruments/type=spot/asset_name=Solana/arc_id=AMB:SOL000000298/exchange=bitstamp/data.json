@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SOL000000298_AMB:EUR000000120",
+        "normalizedPair": "sol_eur",
+        "normalizedSymbol": "sol",
+        "nativePair": "soleur",
+        "exchange": "bitstamp",
+        "assetName": "Solana",
+        "assetArcId": "AMB:SOL000000298",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "sol_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SOL000000298_AMB:USD000000949",
+        "normalizedPair": "sol_usd",
+        "normalizedSymbol": "sol",
+        "nativePair": "solusd",
+        "exchange": "bitstamp",
+        "assetName": "Solana",
+        "assetArcId": "AMB:SOL000000298",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sol_usd",
+        "instrumentType": "spot"
+    }
+]

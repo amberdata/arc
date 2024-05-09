@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "mko",
+    "assetName": "Mikoko",
+    "assetArcId": "AMB:MKO000000000",
+    "website": "https://www.mikoko.xyz/",
+    "whitePaperUrl": "/how-to-buy/MKO?utm_source=mexc&utm_medium=tokenifoMKO&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mikoko/arc_id=AMB:MKO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

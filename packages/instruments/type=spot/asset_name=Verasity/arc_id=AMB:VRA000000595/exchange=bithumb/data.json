@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VRA000000595_AMB:KRW000000000",
+        "normalizedPair": "vra_krw",
+        "normalizedSymbol": "vra",
+        "nativePair": "VRA/KRW",
+        "exchange": "bithumb",
+        "assetName": "Verasity",
+        "assetArcId": "AMB:VRA000000595",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "vra_krw",
+        "instrumentType": "spot"
+    }
+]

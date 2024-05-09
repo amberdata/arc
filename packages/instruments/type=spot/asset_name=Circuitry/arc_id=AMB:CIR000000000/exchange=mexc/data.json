@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CIR000000000_AMB:USD000000335",
+        "normalizedPair": "circuitry_usdt",
+        "normalizedSymbol": "circuitry",
+        "nativePair": "CIRCUITRYUSDT",
+        "exchange": "mexc",
+        "assetName": "Circuitry",
+        "assetArcId": "AMB:CIR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "circuitry_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:CTS000000086_AMB:BTC000000000",
+        "normalizedPair": "ctsi_btc",
+        "normalizedSymbol": "ctsi",
+        "nativePair": "CTSI-BTC",
+        "exchange": "gdax",
+        "assetName": "Cartesi",
+        "assetArcId": "AMB:CTS000000086",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ctsi_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CTS000000086_AMB:USD000000949",
+        "normalizedPair": "ctsi_usd",
+        "normalizedSymbol": "ctsi",
+        "nativePair": "CTSI-USD",
+        "exchange": "gdax",
+        "assetName": "Cartesi",
+        "assetArcId": "AMB:CTS000000086",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ctsi_usd",
+        "instrumentType": "spot"
+    }
+]

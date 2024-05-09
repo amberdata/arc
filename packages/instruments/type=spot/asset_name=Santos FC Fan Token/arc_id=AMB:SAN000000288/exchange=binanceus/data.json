@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAN000000288_AMB:USD000000335",
+        "normalizedPair": "santos_usdt",
+        "normalizedSymbol": "santos",
+        "nativePair": "SANTOSUSDT",
+        "exchange": "binanceus",
+        "assetName": "Santos FC Fan Token",
+        "assetArcId": "AMB:SAN000000288",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "santos_usdt",
+        "instrumentType": "spot"
+    }
+]

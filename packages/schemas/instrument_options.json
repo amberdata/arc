@@ -1,0 +1,108 @@
+{
+    "type": "object",
+    "required": [
+        "exchange",
+        "nativeInstrument",
+        "nativeBaseSymbol",
+        "nativeQuoteSymbol",
+        "underlying",
+        "expiration",
+        "active",
+        "contractSize",
+        "contractType",
+        "marginType",
+        "limitsPriceMin",
+        "limitsAmountMin",
+        "precisionPrice",
+        "precisionAmount",
+        "limitsLeverageMax",
+        "limitsLeverageMin",
+        "settleAsset",
+        "optionType",
+        "strikePrice",
+        "arcAssetId"
+    ],
+    "properties": {
+        "exchange": {
+            "type": "string",
+            "description": "The human readable name of the exchange"
+        },
+        "nativeInstrument": {
+            "type": "string",
+            "description": "The identifying symbol of the instrument on the exchange"
+        },
+        "nativeBaseSymbol": {
+            "type": "string",
+            "description": "The exchange specific symbol for the base asset of the instrument"
+        },
+        "nativeQuoteSymbol": {
+            "type": "string",
+            "description": "The exchange specific symbol for the quote asset of the instrument"
+        },
+        "underlying": {
+            "type": "string",
+            "description": "The symbol of the underlying asset for the instrument"
+        },
+        "expiration": {
+            "type": "string",
+            "format": "date-time",
+            "description": "The date when the option expires"
+        },
+        "active": {
+            "type": "boolean",
+            "description": "Indicates if the instrument is actively trading or not"
+        },
+        "contractSize": {
+            "type": "number",
+            "description": "Specifies the quantity of the underlying asset covered by each contract."
+        },
+        "contractType": {
+            "type": "string",
+            "description": "Describes the time period or duration of the contract, such as weekly, monthly, quarterly or perpetual, indicating when the contract will expire."
+        },
+        "marginType": {
+            "type": "string",
+            "description": "Specifies the the margin calculation style relative to how the contract's value relates to the base and quote currencies in the contract"
+        },
+        "limitsPriceMin": {
+            "type": "number",
+            "description": "The minimum price at which an option can be traded."
+        },
+        "limitsAmountMin": {
+            "type": "number",
+            "description": "The minimum number of contracts required to place an order."
+        },
+        "precisionPrice": {
+            "type": "number",
+            "description": "The smallest increment by which the price can vary."
+        },
+        "precisionAmount": {
+            "type": "number",
+            "description": "The smallest increment by which the amount of contracts can vary."
+        },
+        "limitsLeverageMax": {
+            "type": "number",
+            "description": "The maximum leverage available for trading this option."
+        },
+        "limitsLeverageMin": {
+            "type": "number",
+            "description": "The minimum leverage available for trading this option."
+        },
+        "settleAsset": {
+            "type": "string",
+            "description": "The asset in which settlements are made upon the exercise or expiration of the option."
+        },
+        "optionType": {
+            "type": "string",
+            "description": "Indicates if the option is a call or put"
+        },
+        "strikePrice": {
+            "type": "number",
+            "description": "Indicates the price at which the option would be at the money"
+        },
+        "arcAssetId": {
+            "type": "string",
+            "description": "The permanent, unique identifier of the asset in ARC, that remains the same even if assetSymbol must change"
+        }
+    }
+}

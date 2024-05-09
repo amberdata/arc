@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHI000000293_AMB:USD000000335",
+        "normalizedPair": "shib_usdt",
+        "normalizedSymbol": "shib",
+        "nativePair": "shibusdt",
+        "exchange": "huobi",
+        "assetName": "SHIBA INU",
+        "assetArcId": "AMB:SHI000000293",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shib_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SPE000000299_AMB:EUR000000120",
+        "normalizedPair": "spell_eur",
+        "normalizedSymbol": "spell",
+        "nativePair": "SPELLEUR",
+        "exchange": "kraken",
+        "assetName": "Spell Token",
+        "assetArcId": "AMB:SPE000000299",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "spell_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SPE000000299_AMB:USD000000949",
+        "normalizedPair": "spell_usd",
+        "normalizedSymbol": "spell",
+        "nativePair": "SPELLUSD",
+        "exchange": "kraken",
+        "assetName": "Spell Token",
+        "assetArcId": "AMB:SPE000000299",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "spell_usd",
+        "instrumentType": "spot"
+    }
+]

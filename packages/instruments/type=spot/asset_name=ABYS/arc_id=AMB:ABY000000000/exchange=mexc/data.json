@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ABY000000000_AMB:USD000000335",
+        "normalizedPair": "abys_usdt",
+        "normalizedSymbol": "abys",
+        "nativePair": "ABYSUSDT",
+        "exchange": "mexc",
+        "assetName": "ABYS",
+        "assetArcId": "AMB:ABY000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "abys_usdt",
+        "instrumentType": "spot"
+    }
+]

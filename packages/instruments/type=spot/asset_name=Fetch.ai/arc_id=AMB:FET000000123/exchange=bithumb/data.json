@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FET000000123_AMB:KRW000000000",
+        "normalizedPair": "fet_krw",
+        "normalizedSymbol": "fet",
+        "nativePair": "FET/KRW",
+        "exchange": "bithumb",
+        "assetName": "Fetch.ai",
+        "assetArcId": "AMB:FET000000123",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "fet_krw",
+        "instrumentType": "spot"
+    }
+]

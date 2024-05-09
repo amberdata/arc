@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bump",
+    "assetName": "Bumper",
+    "assetArcId": "AMB:BUM000000000",
+    "website": "http://www.bumper.fi/",
+    "whitePaperUrl": "https://docs.bumper.org/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bumper/arc_id=AMB:BUM000000000/exchange=mexc/data.json"
+        ]
+    }
+}

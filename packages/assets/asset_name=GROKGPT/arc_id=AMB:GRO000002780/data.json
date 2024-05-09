@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "grokgpt",
+    "assetName": "GROKGPT",
+    "assetArcId": "AMB:GRO000002780",
+    "website": "https://grok-gpt.ai/",
+    "whitePaperUrl": "/how-to-buy/GROKGPT?utm_source=mexc&utm_medium=tokenifoGROKGPT&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GROKGPT/arc_id=AMB:GRO000002780/exchange=mexc/data.json"
+        ]
+    }
+}

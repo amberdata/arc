@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "upfi",
+    "assetName": "Uplink Finance",
+    "assetArcId": "AMB:UPF000000000",
+    "website": "https://www.uplinkfi.com/",
+    "whitePaperUrl": "https://docs.uplinkfi.com/",
+    "classificationTags": [
+        "Stablecoin"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Uplink Finance/arc_id=AMB:UPF000000000/exchange=mexc/data.json"
+        ]
+    }
+}

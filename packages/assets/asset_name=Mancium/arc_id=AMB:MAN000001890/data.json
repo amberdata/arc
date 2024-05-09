@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "manc",
+    "assetName": "Mancium",
+    "assetArcId": "AMB:MAN000001890",
+    "website": "https://www.mancium.io/",
+    "whitePaperUrl": "https://www.mancium.io/litepaper",
+    "classificationTags": [
+        "Gaming",
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mancium/arc_id=AMB:MAN000001890/exchange=mexc/data.json"
+        ]
+    }
+}

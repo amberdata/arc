@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BTC000000000_AMB:KRW000000000",
+        "normalizedPair": "btc_krw",
+        "normalizedSymbol": "btc",
+        "nativePair": "BTC/KRW",
+        "exchange": "bithumb",
+        "assetName": "Bitcoin",
+        "assetArcId": "AMB:BTC000000000",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "btc_krw",
+        "instrumentType": "spot"
+    }
+]

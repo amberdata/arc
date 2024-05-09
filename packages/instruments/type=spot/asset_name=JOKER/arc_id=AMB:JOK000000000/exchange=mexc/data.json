@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JOK000000000_AMB:USD000000335",
+        "normalizedPair": "joker_usdt",
+        "normalizedSymbol": "joker",
+        "nativePair": "JOKERUSDT",
+        "exchange": "mexc",
+        "assetName": "JOKER",
+        "assetArcId": "AMB:JOK000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "joker_usdt",
+        "instrumentType": "spot"
+    }
+]

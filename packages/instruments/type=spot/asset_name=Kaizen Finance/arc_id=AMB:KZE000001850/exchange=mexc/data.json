@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KZE000001850_AMB:USD000000335",
+        "normalizedPair": "kzen_usdt",
+        "normalizedSymbol": "kzen",
+        "nativePair": "KZENUSDT",
+        "exchange": "mexc",
+        "assetName": "Kaizen Finance",
+        "assetArcId": "AMB:KZE000001850",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kzen_usdt",
+        "instrumentType": "spot"
+    }
+]

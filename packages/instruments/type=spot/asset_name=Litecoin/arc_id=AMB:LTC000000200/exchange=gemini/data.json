@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:LTC000000200_AMB:BCH000000047",
+        "normalizedPair": "ltc_bch",
+        "normalizedSymbol": "ltc",
+        "nativePair": "ltcbch",
+        "exchange": "gemini",
+        "assetName": "Litecoin",
+        "assetArcId": "AMB:LTC000000200",
+        "quoteArcId": "AMB:BCH000000047",
+        "collectedPair": "ltc_bch",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LTC000000200_AMB:BTC000000000",
+        "normalizedPair": "ltc_btc",
+        "normalizedSymbol": "ltc",
+        "nativePair": "ltcbtc",
+        "exchange": "gemini",
+        "assetName": "Litecoin",
+        "assetArcId": "AMB:LTC000000200",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ltc_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LTC000000200_AMB:ETH000000000",
+        "normalizedPair": "ltc_eth",
+        "normalizedSymbol": "ltc",
+        "nativePair": "ltceth",
+        "exchange": "gemini",
+        "assetName": "Litecoin",
+        "assetArcId": "AMB:LTC000000200",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "ltc_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LTC000000200_AMB:USD000000949",
+        "normalizedPair": "ltc_usd",
+        "normalizedSymbol": "ltc",
+        "nativePair": "ltcusd",
+        "exchange": "gemini",
+        "assetName": "Litecoin",
+        "assetArcId": "AMB:LTC000000200",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ltc_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LTC000000200_AMB:GUS000000410",
+        "normalizedPair": "ltc_gusd",
+        "normalizedSymbol": "ltc",
+        "nativePair": "ltcgusdperp",
+        "exchange": "gemini",
+        "assetName": "Litecoin",
+        "assetArcId": "AMB:LTC000000200",
+        "quoteArcId": "AMB:GUS000000410",
+        "collectedPair": "ltc_gusd",
+        "instrumentType": "spot"
+    }
+]

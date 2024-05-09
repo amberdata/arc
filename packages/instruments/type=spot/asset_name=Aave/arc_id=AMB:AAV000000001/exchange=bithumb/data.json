@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AAV000000001_AMB:KRW000000000",
+        "normalizedPair": "aave_krw",
+        "normalizedSymbol": "aave",
+        "nativePair": "AAVE/KRW",
+        "exchange": "bithumb",
+        "assetName": "Aave",
+        "assetArcId": "AMB:AAV000000001",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "aave_krw",
+        "instrumentType": "spot"
+    }
+]

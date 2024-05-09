@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WAX000000347_AMB:USD000000335",
+        "normalizedPair": "waxp_usdt",
+        "normalizedSymbol": "waxp",
+        "nativePair": "WAXPUSDT",
+        "exchange": "binanceus",
+        "assetName": "WAX",
+        "assetArcId": "AMB:WAX000000347",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "waxp_usdt",
+        "instrumentType": "spot"
+    }
+]

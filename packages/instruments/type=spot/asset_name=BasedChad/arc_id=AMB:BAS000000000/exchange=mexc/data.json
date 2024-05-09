@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAS000000000_AMB:USD000000335",
+        "normalizedPair": "based_usdt",
+        "normalizedSymbol": "based",
+        "nativePair": "BASEDUSDT",
+        "exchange": "mexc",
+        "assetName": "BasedChad",
+        "assetArcId": "AMB:BAS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "based_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "hte",
+    "assetName": "Hepton",
+    "assetArcId": "AMB:HTE000001762",
+    "website": "https://www.hepton.io/",
+    "whitePaperUrl": "https://docs.hepton.io/hepton-network/",
+    "classificationTags": [
+        "Proof-of-Stake"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hepton/arc_id=AMB:HTE000001762/exchange=mexc/data.json"
+        ]
+    }
+}

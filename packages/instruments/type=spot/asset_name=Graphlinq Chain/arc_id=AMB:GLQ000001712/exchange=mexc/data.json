@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GLQ000001712_AMB:USD000000335",
+        "normalizedPair": "glq_usdt",
+        "normalizedSymbol": "glq",
+        "nativePair": "GLQUSDT",
+        "exchange": "mexc",
+        "assetName": "Graphlinq Chain",
+        "assetArcId": "AMB:GLQ000001712",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "glq_usdt",
+        "instrumentType": "spot"
+    }
+]

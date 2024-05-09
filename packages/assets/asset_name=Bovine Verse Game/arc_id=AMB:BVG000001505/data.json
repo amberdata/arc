@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "bvg",
+    "assetName": "Bovine Verse Game",
+    "assetArcId": "AMB:BVG000001505",
+    "website": "https://www.bovine-verse.games/",
+    "whitePaperUrl": "https://doc-en.bovine-verse.games/part-01-welcome/about-the-project",
+    "classificationTags": [
+        "Gaming",
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bovine Verse Game/arc_id=AMB:BVG000001505/exchange=mexc/data.json"
+        ]
+    }
+}

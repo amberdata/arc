@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "honor",
+    "assetName": "Honorswap",
+    "assetArcId": "AMB:HON000003359",
+    "website": "https://honorswap.com/",
+    "whitePaperUrl": "https://docs.honorswap.com/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Honorswap/arc_id=AMB:HON000003359/exchange=mexc/data.json"
+        ]
+    }
+}

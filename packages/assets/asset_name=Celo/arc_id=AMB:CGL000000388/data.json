@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "cgld",
+    "assetName": "Celo",
+    "assetArcId": "AMB:CGL000000388",
+    "website": "https://celo.org/",
+    "whitePaperUrl": "https://celo.org/papers",
+    "classificationTags": [
+        "Governance",
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Celo",
+            "address": "0x471ece3750da237f93b8e339c536989b8978a438"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Celo/arc_id=AMB:CGL000000388/exchange=gdax/data.json"
+        ]
+    }
+}

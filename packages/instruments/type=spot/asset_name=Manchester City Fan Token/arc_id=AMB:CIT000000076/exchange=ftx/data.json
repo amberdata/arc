@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CIT000000076_AMB:USD000000949",
+        "normalizedPair": "city_usd",
+        "normalizedSymbol": "city",
+        "nativePair": "CITY/USD",
+        "exchange": "ftx",
+        "assetName": "Manchester City Fan Token",
+        "assetArcId": "AMB:CIT000000076",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "city_usd",
+        "instrumentType": "spot"
+    }
+]

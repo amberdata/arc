@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "ocisly",
+    "assetName": "Of Course I Still Love You",
+    "assetArcId": "AMB:OCI000001272",
+    "website": "https://ocisly.pro/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x356e17967206efb413b60ab0ba44e269063a26c9"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Of Course I Still Love You/arc_id=AMB:OCI000001272/exchange=poloniex/data.json"
+        ]
+    }
+}

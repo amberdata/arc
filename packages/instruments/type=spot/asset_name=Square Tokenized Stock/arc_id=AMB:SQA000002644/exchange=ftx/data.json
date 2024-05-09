@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SQA000002644_AMB:USD000000949",
+        "normalizedPair": "sq_usd",
+        "normalizedSymbol": "sq",
+        "nativePair": "SQ/USD",
+        "exchange": "ftx",
+        "assetName": "Square Tokenized Stock",
+        "assetArcId": "AMB:SQA000002644",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sq_usd",
+        "instrumentType": "spot"
+    }
+]

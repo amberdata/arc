@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DUC000003493_AMB:USD000000335",
+        "normalizedPair": "duck_usdt",
+        "normalizedSymbol": "duck",
+        "nativePair": "DUCKUSDT",
+        "exchange": "mexc",
+        "assetName": "Unit Protocol",
+        "assetArcId": "AMB:DUC000003493",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "duck_usdt",
+        "instrumentType": "spot"
+    }
+]

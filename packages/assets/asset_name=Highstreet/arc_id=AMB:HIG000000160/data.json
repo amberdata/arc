@@ -1,0 +1,27 @@
+{
+    "assetSymbol": "high",
+    "assetName": "Highstreet",
+    "assetArcId": "AMB:HIG000000160",
+    "website": "https://www.highstreet.market/",
+    "whitePaperUrl": "https://highstreet.gitbook.io/highstreet-whitepaper/",
+    "classificationTags": [
+        "Gaming",
+        "Governance",
+        "Metaverse"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x71Ab77b7dbB4fa7e017BC15090b2163221420282"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Highstreet/arc_id=AMB:HIG000000160/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Highstreet/arc_id=AMB:HIG000000160/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Highstreet/arc_id=AMB:HIG000000160/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Highstreet/arc_id=AMB:HIG000000160/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Highstreet/arc_id=AMB:HIG000000160/exchange=mexc/data.json"
+        ]
+    }
+}

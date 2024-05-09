@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CMA000000000_AMB:USD000000335",
+        "normalizedPair": "cmai_usdt",
+        "normalizedSymbol": "cmai",
+        "nativePair": "CMAIUSDT",
+        "exchange": "mexc",
+        "assetName": "CampusAI",
+        "assetArcId": "AMB:CMA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cmai_usdt",
+        "instrumentType": "spot"
+    }
+]

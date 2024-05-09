@@ -1,0 +1,34 @@
+{
+    "assetSymbol": "atom",
+    "assetName": "Cosmos",
+    "assetArcId": "AMB:ATO000000035",
+    "website": "https://cosmos.network/",
+    "whitePaperUrl": "https://v1.cosmos.network/resources/whitepaper",
+    "classificationTags": [
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Cosmos",
+            "address": null
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cosmos/arc_id=AMB:ATO000000035/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cosmos/arc_id=AMB:ATO000000035/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cosmos/arc_id=AMB:ATO000000035/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cosmos/arc_id=AMB:ATO000000035/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cosmos/arc_id=AMB:ATO000000035/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cosmos/arc_id=AMB:ATO000000035/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cosmos/arc_id=AMB:ATO000000035/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cosmos/arc_id=AMB:ATO000000035/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cosmos/arc_id=AMB:ATO000000035/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cosmos/arc_id=AMB:ATO000000035/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cosmos/arc_id=AMB:ATO000000035/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cosmos/arc_id=AMB:ATO000000035/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cosmos/arc_id=AMB:ATO000000035/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cosmos/arc_id=AMB:ATO000000035/exchange=mexc/data.json"
+        ]
+    }
+}

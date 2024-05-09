@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIT000002731_AMB:USD000000335",
+        "normalizedPair": "ait_usdt",
+        "normalizedSymbol": "ait",
+        "nativePair": "AITUSDT",
+        "exchange": "mexc",
+        "assetName": "AI Trader",
+        "assetArcId": "AMB:AIT000002731",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ait_usdt",
+        "instrumentType": "spot"
+    }
+]

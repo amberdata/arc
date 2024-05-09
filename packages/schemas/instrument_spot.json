@@ -1,0 +1,117 @@
+{
+    "type": "object",
+    "required": [
+        "exchange",
+        "nativeInstrument",
+        "nativeBaseSymbol",
+        "nativeQuoteSymbol",
+        "underlying",
+        "active",
+        "limitsAmountMax",
+        "limitsAmountMin",
+        "limitsCostMax",
+        "limitsCostMin",
+        "limitsLeverageMax",
+        "limitsLeverageMin",
+        "limitsMarketMax",
+        "limitsMarketMin",
+        "limitsPriceMax",
+        "limitsPriceMin",
+        "precisionAmount",
+        "precisionBase",
+        "precisionCost",
+        "precisionPrice",
+        "precisionQuote",
+        "arcAssetId"
+    ],
+    "properties": {
+        "exchange": {
+            "type": "string",
+            "description": "The human readable name of the exchange"
+        },
+        "nativeInstrument": {
+            "type": "string",
+            "description": "The identifying symbol of the instrument on the exchange"
+        },
+        "nativeBaseSymbol": {
+            "type": "string",
+            "description": "The exchange specific symbol for the base asset of the instrument"
+        },
+        "nativeQuoteSymbol": {
+            "type": "string",
+            "description": "The exchange specific symbol for the quote asset of the instrument"
+        },
+        "underlying": {
+            "type": "string",
+            "description": "The symbol of the underlying asset for the instrument, for spot instruments this is generally the base asset"
+        },
+        "active": {
+            "type": "boolean",
+            "description": "Indicates if the instrument is actively trading or not"
+        },
+        "limitsAmountMax": {
+            "type": "number",
+            "description": "The maximum allowable trade amount for a single transaction in the native base asset units."
+        },
+        "limitsAmountMin": {
+            "type": "number",
+            "description": "The minimum allowable trade amount for a single transaction in the native base asset units."
+        },
+        "limitsCostMax": {
+            "type": "number",
+            "description": "The maximum allowable cost of a single trade in the native quote asset units."
+        },
+        "limitsCostMin": {
+            "type": "number",
+            "description": "The minimum allowable cost of a single trade in the native quote asset units."
+        },
+        "limitsLeverageMax": {
+            "type": "number",
+            "description": "The maximum leverage allowed for trading this instrument."
+        },
+        "limitsLeverageMin": {
+            "type": "number",
+            "description": "The minimum leverage allowed for trading this instrument."
+        },
+        "limitsMarketMax": {
+            "type": "number",
+            "description": "The maximum market exposure allowed per transaction for this instrument."
+        },
+        "limitsMarketMin": {
+            "type": "number",
+            "description": "The minimum market exposure required per transaction for this instrument."
+        },
+        "limitsPriceMax": {
+            "type": "number",
+            "description": "The maximum price limit for a transaction in the native quote asset units."
+        },
+        "limitsPriceMin": {
+            "type": "number",
+            "description": "The minimum price limit for a transaction in the native quote asset units."
+        },
+        "precisionAmount": {
+            "type": "number",
+            "description": "The number of decimal places that can be used for specifying the amount in a trade of this instrument."
+        },
+        "precisionBase": {
+            "type": "number",
+            "description": "The number of decimal places that can be used for the base asset amount in transactions."
+        },
+        "precisionCost": {
+            "type": "number",
+            "description": "The number of decimal places that can be used for the cost values in transactions of this instrument."
+        },
+        "precisionPrice": {
+            "type": "number",
+            "description": "The number of decimal places that can be used for pricing this instrument."
+        },
+        "precisionQuote": {
+            "type": "number",
+            "description": "The number of decimal places that can be used for the quote asset amount in transactions."
+        },
+        "arcAssetId": {
+            "type": "string",
+            "description": "The permanent, unique identifier of the asset in ARC, that remains the same even if assetSymbol must change"
+        }
+    }
+}

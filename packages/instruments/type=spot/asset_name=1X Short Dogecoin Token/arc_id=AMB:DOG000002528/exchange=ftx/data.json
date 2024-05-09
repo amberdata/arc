@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOG000002528_AMB:USD000000949",
+        "normalizedPair": "dogehedge_usd",
+        "normalizedSymbol": "dogehedge",
+        "nativePair": "DOGEHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short Dogecoin Token",
+        "assetArcId": "AMB:DOG000002528",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dogehedge_usd",
+        "instrumentType": "spot"
+    }
+]

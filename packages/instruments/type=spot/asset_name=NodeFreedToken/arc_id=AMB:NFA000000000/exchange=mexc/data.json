@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NFA000000000_AMB:USD000000335",
+        "normalizedPair": "nf_usdt",
+        "normalizedSymbol": "nf",
+        "nativePair": "NFUSDT",
+        "exchange": "mexc",
+        "assetName": "NodeFreedToken",
+        "assetArcId": "AMB:NFA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nf_usdt",
+        "instrumentType": "spot"
+    }
+]

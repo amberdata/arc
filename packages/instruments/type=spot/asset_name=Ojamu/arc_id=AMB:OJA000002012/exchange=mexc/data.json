@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OJA000002012_AMB:USD000000335",
+        "normalizedPair": "oja_usdt",
+        "normalizedSymbol": "oja",
+        "nativePair": "OJAUSDT",
+        "exchange": "mexc",
+        "assetName": "Ojamu",
+        "assetArcId": "AMB:OJA000002012",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "oja_usdt",
+        "instrumentType": "spot"
+    }
+]

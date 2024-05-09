@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EPX000000115_AMB:USD000000335",
+        "normalizedPair": "epx_usdt",
+        "normalizedSymbol": "epx",
+        "nativePair": "EPXUSDT",
+        "exchange": "mexc",
+        "assetName": "Ellipsis",
+        "assetArcId": "AMB:EPX000000115",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "epx_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:CRO000000390_AMB:BTC000000000",
+        "normalizedPair": "cro_btc",
+        "normalizedSymbol": "cro",
+        "nativePair": "CRO-BTC",
+        "exchange": "okex",
+        "assetName": "Crypto.com Coin",
+        "assetArcId": "AMB:CRO000000390",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "cro_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CRO000000390_AMB:USD000000333",
+        "normalizedPair": "cro_usdc",
+        "normalizedSymbol": "cro",
+        "nativePair": "CRO-USDC",
+        "exchange": "okex",
+        "assetName": "Crypto.com Coin",
+        "assetArcId": "AMB:CRO000000390",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "cro_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CRO000000390_AMB:USD000000335",
+        "normalizedPair": "cro_usdt",
+        "normalizedSymbol": "cro",
+        "nativePair": "CRO-USDT",
+        "exchange": "okex",
+        "assetName": "Crypto.com Coin",
+        "assetArcId": "AMB:CRO000000390",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cro_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CRO000000390_AMB:EUR000000120",
+        "normalizedPair": "cro_eur",
+        "normalizedSymbol": "cro",
+        "nativePair": "CRO-EUR",
+        "exchange": "okex",
+        "assetName": "Crypto.com Coin",
+        "assetArcId": "AMB:CRO000000390",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "cro_eur",
+        "instrumentType": "spot"
+    }
+]

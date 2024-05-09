@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WIT000001179_AMB:BTC000000000",
+        "normalizedPair": "witch_btc",
+        "normalizedSymbol": "witch",
+        "nativePair": "WITCH/BTC",
+        "exchange": "bithumb",
+        "assetName": "Witch Token",
+        "assetArcId": "AMB:WIT000001179",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "witch_btc",
+        "instrumentType": "spot"
+    }
+]

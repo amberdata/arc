@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "hgt",
+    "assetName": "Project Hive",
+    "assetArcId": "AMB:HGT000000000",
+    "website": "https://project-hive.io/blockchain",
+    "whitePaperUrl": "https://project-hive.io/docs/LitePaper.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Project Hive/arc_id=AMB:HGT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

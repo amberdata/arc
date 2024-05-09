@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZRX000000372_AMB:USD000000949",
+        "normalizedPair": "zrx_usd",
+        "normalizedSymbol": "zrx",
+        "nativePair": "ZRX/USD",
+        "exchange": "ftx",
+        "assetName": "0x Protocol",
+        "assetArcId": "AMB:ZRX000000372",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "zrx_usd",
+        "instrumentType": "spot"
+    }
+]

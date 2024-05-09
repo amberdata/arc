@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SPA000001119_AMB:USD000000335",
+        "normalizedPair": "sparta.amb.1_usdt",
+        "normalizedSymbol": "sparta.amb.1",
+        "nativePair": "SPARTAUSDT",
+        "exchange": "mexc",
+        "assetName": "Spartan Protocol",
+        "assetArcId": "AMB:SPA000001119",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sparta_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DMT000000000_AMB:USD000000335",
+        "normalizedPair": "dmtr_usdt",
+        "normalizedSymbol": "dmtr",
+        "nativePair": "DMTRUSDT",
+        "exchange": "mexc",
+        "assetName": "Dimitra Token",
+        "assetArcId": "AMB:DMT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dmtr_usdt",
+        "instrumentType": "spot"
+    }
+]

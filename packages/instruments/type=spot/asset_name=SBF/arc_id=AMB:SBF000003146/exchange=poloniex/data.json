@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SBF000003146_AMB:USD000000335",
+        "normalizedPair": "sbf_usdt",
+        "normalizedSymbol": "sbf",
+        "nativePair": "SBF_USDT",
+        "exchange": "poloniex",
+        "assetName": "SBF",
+        "assetArcId": "AMB:SBF000003146",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sbf_usdt",
+        "instrumentType": "spot"
+    }
+]

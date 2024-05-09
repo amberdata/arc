@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:LIT000000193_AMB:BTC000000000",
+        "normalizedPair": "lit_btc",
+        "normalizedSymbol": "lit",
+        "nativePair": "LITBTC",
+        "exchange": "binance",
+        "assetName": "Litentry",
+        "assetArcId": "AMB:LIT000000193",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "lit_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LIT000000193_AMB:BUS000000067",
+        "normalizedPair": "lit_busd",
+        "normalizedSymbol": "lit",
+        "nativePair": "LITBUSD",
+        "exchange": "binance",
+        "assetName": "Litentry",
+        "assetArcId": "AMB:LIT000000193",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "lit_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LIT000000193_AMB:USD000000335",
+        "normalizedPair": "lit_usdt",
+        "normalizedSymbol": "lit",
+        "nativePair": "LITUSDT",
+        "exchange": "binance",
+        "assetName": "Litentry",
+        "assetArcId": "AMB:LIT000000193",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lit_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "arcPairId": "AMB:GRT000000154_AMB:BTC000000000",
+        "normalizedPair": "grt_btc",
+        "normalizedSymbol": "grt",
+        "nativePair": "GRTBTC",
+        "exchange": "binance",
+        "assetName": "The Graph",
+        "assetArcId": "AMB:GRT000000154",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "grt_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GRT000000154_AMB:BUS000000067",
+        "normalizedPair": "grt_busd",
+        "normalizedSymbol": "grt",
+        "nativePair": "GRTBUSD",
+        "exchange": "binance",
+        "assetName": "The Graph",
+        "assetArcId": "AMB:GRT000000154",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "grt_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GRT000000154_AMB:ETH000000000",
+        "normalizedPair": "grt_eth",
+        "normalizedSymbol": "grt",
+        "nativePair": "GRTETH",
+        "exchange": "binance",
+        "assetName": "The Graph",
+        "assetArcId": "AMB:GRT000000154",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "grt_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GRT000000154_AMB:EUR000000120",
+        "normalizedPair": "grt_eur",
+        "normalizedSymbol": "grt",
+        "nativePair": "GRTEUR",
+        "exchange": "binance",
+        "assetName": "The Graph",
+        "assetArcId": "AMB:GRT000000154",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "grt_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GRT000000154_AMB:TRY000000940",
+        "normalizedPair": "grt_try",
+        "normalizedSymbol": "grt",
+        "nativePair": "GRTTRY",
+        "exchange": "binance",
+        "assetName": "The Graph",
+        "assetArcId": "AMB:GRT000000154",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "grt_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GRT000000154_AMB:USD000000335",
+        "normalizedPair": "grt_usdt",
+        "normalizedSymbol": "grt",
+        "nativePair": "GRTUSDT",
+        "exchange": "binance",
+        "assetName": "The Graph",
+        "assetArcId": "AMB:GRT000000154",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "grt_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GRT000000154_AMB:FDU000000122",
+        "normalizedPair": "grt_fdusd",
+        "normalizedSymbol": "grt",
+        "nativePair": "GRTFDUSD",
+        "exchange": "binance",
+        "assetName": "The Graph",
+        "assetArcId": "AMB:GRT000000154",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "grt_fdusd",
+        "instrumentType": "spot"
+    }
+]

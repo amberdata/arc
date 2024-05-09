@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:FLO000000130_AMB:TRY000000940",
+        "normalizedPair": "floki_try",
+        "normalizedSymbol": "floki",
+        "nativePair": "FLOKITRY",
+        "exchange": "binance",
+        "assetName": "FLOKI",
+        "assetArcId": "AMB:FLO000000130",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "floki_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FLO000000130_AMB:TUS000000326",
+        "normalizedPair": "floki_tusd",
+        "normalizedSymbol": "floki",
+        "nativePair": "FLOKITUSD",
+        "exchange": "binance",
+        "assetName": "FLOKI",
+        "assetArcId": "AMB:FLO000000130",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "floki_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FLO000000130_AMB:USD000000335",
+        "normalizedPair": "floki_usdt",
+        "normalizedSymbol": "floki",
+        "nativePair": "FLOKIUSDT",
+        "exchange": "binance",
+        "assetName": "FLOKI",
+        "assetArcId": "AMB:FLO000000130",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "floki_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FLO000000130_AMB:FDU000000122",
+        "normalizedPair": "floki_fdusd",
+        "normalizedSymbol": "floki",
+        "nativePair": "FLOKIFDUSD",
+        "exchange": "binance",
+        "assetName": "FLOKI",
+        "assetArcId": "AMB:FLO000000130",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "floki_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FLO000000130_AMB:USD000000333",
+        "normalizedPair": "floki_usdc",
+        "normalizedSymbol": "floki",
+        "nativePair": "FLOKIUSDC",
+        "exchange": "binance",
+        "assetName": "FLOKI",
+        "assetArcId": "AMB:FLO000000130",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "floki_usdc",
+        "instrumentType": "spot"
+    }
+]

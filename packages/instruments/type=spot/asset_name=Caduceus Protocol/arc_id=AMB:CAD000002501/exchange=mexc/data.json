@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CAD000002501_AMB:USD000000335",
+        "normalizedPair": "cad.amb.1_usdt",
+        "normalizedSymbol": "cad.amb.1",
+        "nativePair": "CADUSDT",
+        "exchange": "mexc",
+        "assetName": "Caduceus Protocol",
+        "assetArcId": "AMB:CAD000002501",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cad_usdt",
+        "instrumentType": "spot"
+    }
+]

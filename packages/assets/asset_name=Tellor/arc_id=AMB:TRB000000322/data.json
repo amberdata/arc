@@ -1,0 +1,27 @@
+{
+    "assetSymbol": "trb",
+    "assetName": "Tellor",
+    "assetArcId": "AMB:TRB000000322",
+    "website": "https://www.tellor.io/",
+    "whitePaperUrl": "https://tellor.io/whitepaper/",
+    "classificationTags": [
+        "Governance",
+        "Oracles",
+        "Smart Contract"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tellor/arc_id=AMB:TRB000000322/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tellor/arc_id=AMB:TRB000000322/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tellor/arc_id=AMB:TRB000000322/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tellor/arc_id=AMB:TRB000000322/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tellor/arc_id=AMB:TRB000000322/exchange=huobi/data.json"
+        ]
+    }
+}

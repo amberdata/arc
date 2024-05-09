@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NGC000001987_AMB:USD000000335",
+        "normalizedPair": "ngc_usdt",
+        "normalizedSymbol": "ngc",
+        "nativePair": "NGCUSDT",
+        "exchange": "mexc",
+        "assetName": "NAGA",
+        "assetArcId": "AMB:NGC000001987",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ngc_usdt",
+        "instrumentType": "spot"
+    }
+]

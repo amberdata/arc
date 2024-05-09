@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "port3",
+    "assetName": "Port3 Network",
+    "assetArcId": "AMB:POR000003320",
+    "website": "https://port3.io/",
+    "whitePaperUrl": "https://port3.notion.site/What-is-Port3-Network-c24968b117c54dcebb246c7ef6d9dcb5#5c88e33cb3064bf2b9c5e8f232de7281",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Port3 Network/arc_id=AMB:POR000003320/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Port3 Network/arc_id=AMB:POR000003320/exchange=bybit/data.json"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "aeur",
+    "assetName": "Anchored Coins AEUR",
+    "assetArcId": "AMB:AEU000003329",
+    "website": "https://www.anchoredcoins.com/en/landing",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Stablecoin",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Anchored Coins AEUR/arc_id=AMB:AEU000003329/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Anchored Coins AEUR/arc_id=AMB:AEU000003329/exchange=mexc/data.json"
+        ]
+    }
+}

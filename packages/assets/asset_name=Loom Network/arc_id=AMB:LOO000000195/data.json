@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "loom",
+    "assetName": "Loom Network",
+    "assetArcId": "AMB:LOO000000195",
+    "website": "https://loomx.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Layer-1",
+        "Layer-2",
+        "Proof-of-Stake"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Loom Network/arc_id=AMB:LOO000000195/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Loom Network/arc_id=AMB:LOO000000195/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Loom Network/arc_id=AMB:LOO000000195/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Loom Network/arc_id=AMB:LOO000000195/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Loom Network/arc_id=AMB:LOO000000195/exchange=mexc/data.json"
+        ]
+    }
+}

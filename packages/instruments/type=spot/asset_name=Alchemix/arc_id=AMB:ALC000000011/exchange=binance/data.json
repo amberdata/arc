@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ALC000000011_AMB:BTC000000000",
+        "normalizedPair": "alcx_btc",
+        "normalizedSymbol": "alcx",
+        "nativePair": "ALCXBTC",
+        "exchange": "binance",
+        "assetName": "Alchemix",
+        "assetArcId": "AMB:ALC000000011",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "alcx_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALC000000011_AMB:USD000000335",
+        "normalizedPair": "alcx_usdt",
+        "normalizedSymbol": "alcx",
+        "nativePair": "ALCXUSDT",
+        "exchange": "binance",
+        "assetName": "Alchemix",
+        "assetArcId": "AMB:ALC000000011",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "alcx_usdt",
+        "instrumentType": "spot"
+    }
+]

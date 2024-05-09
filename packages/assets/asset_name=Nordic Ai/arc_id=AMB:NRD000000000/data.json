@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "nrdc",
+    "assetName": "Nordic Ai",
+    "assetArcId": "AMB:NRD000000000",
+    "website": "https://nordicx.ai/",
+    "whitePaperUrl": "https://docs.google.com/document/d/1FLsAf6DqC-x59m942Wj1FN44u98V8sKy/edit",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Nordic Ai/arc_id=AMB:NRD000000000/exchange=mexc/data.json"
+        ]
+    }
+}

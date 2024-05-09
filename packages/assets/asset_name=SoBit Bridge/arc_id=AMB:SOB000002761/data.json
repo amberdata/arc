@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "sobb",
+    "assetName": "SoBit Bridge",
+    "assetArcId": "AMB:SOB000002761",
+    "website": "https://sobitbridge.io/",
+    "whitePaperUrl": "/how-to-buy/SOBB?utm_source=mexc&utm_medium=tokenifoSOBB&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SoBit Bridge/arc_id=AMB:SOB000002761/exchange=mexc/data.json"
+        ]
+    }
+}

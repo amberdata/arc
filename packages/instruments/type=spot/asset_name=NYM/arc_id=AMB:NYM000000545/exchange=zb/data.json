@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:NYM000000545_AMB:QCA000000000",
+        "normalizedPair": "nym_qc",
+        "normalizedSymbol": "nym",
+        "nativePair": "nym_qc",
+        "exchange": "zb",
+        "assetName": "NYM",
+        "assetArcId": "AMB:NYM000000545",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "nym_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NYM000000545_AMB:USD000000335",
+        "normalizedPair": "nym_usdt",
+        "normalizedSymbol": "nym",
+        "nativePair": "nym_usdt",
+        "exchange": "zb",
+        "assetName": "NYM",
+        "assetArcId": "AMB:NYM000000545",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nym_usdt",
+        "instrumentType": "spot"
+    }
+]

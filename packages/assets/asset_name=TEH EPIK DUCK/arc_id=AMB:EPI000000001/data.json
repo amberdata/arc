@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "epik.amb.1",
+    "assetName": "TEH EPIK DUCK",
+    "assetArcId": "AMB:EPI000000001",
+    "website": "https://epikduckcoin.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "3BgwJ8b7b9hHX4sgfZ2KJhv9496CoVfsMK2YePevsBRw"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TEH EPIK DUCK/arc_id=AMB:EPI000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

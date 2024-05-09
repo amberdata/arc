@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SOL000000001_AMB:USD000000335",
+        "normalizedPair": "solgoat_usdt",
+        "normalizedSymbol": "solgoat",
+        "nativePair": "SOLGOATUSDT",
+        "exchange": "mexc",
+        "assetName": "SOLGOAT",
+        "assetArcId": "AMB:SOL000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "solgoat_usdt",
+        "instrumentType": "spot"
+    }
+]

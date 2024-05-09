@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DAW000000961_AMB:USD000000335",
+        "normalizedPair": "dawn_usdt",
+        "normalizedSymbol": "dawn",
+        "nativePair": "DAWN_USDT",
+        "exchange": "poloniex",
+        "assetName": "Dawn Protocol",
+        "assetArcId": "AMB:DAW000000961",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dawn_usdt",
+        "instrumentType": "spot"
+    }
+]

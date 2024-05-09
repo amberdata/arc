@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LYM000000734_AMB:USD000000949",
+        "normalizedPair": "lym_usd",
+        "normalizedSymbol": "lym",
+        "nativePair": "tLYMUSD",
+        "exchange": "bitfinex",
+        "assetName": "Lympo",
+        "assetArcId": "AMB:LYM000000734",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "lym_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LYM000000734_AMB:USD000000335",
+        "normalizedPair": "lym_usdt",
+        "normalizedSymbol": "lym",
+        "nativePair": "tLYMUST",
+        "exchange": "bitfinex",
+        "assetName": "Lympo",
+        "assetArcId": "AMB:LYM000000734",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lym_usdt",
+        "instrumentType": "spot"
+    }
+]

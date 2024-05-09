@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STP000000305_AMB:USD000000335",
+        "normalizedPair": "stpt_usdt",
+        "normalizedSymbol": "stpt",
+        "nativePair": "STPTUSDT",
+        "exchange": "mexc",
+        "assetName": "Standard Tokenization Protocol",
+        "assetArcId": "AMB:STP000000305",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "stpt_usdt",
+        "instrumentType": "spot"
+    }
+]

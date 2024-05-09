@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "lvl",
+    "assetName": "Level Finance",
+    "assetArcId": "AMB:LVL000001261",
+    "website": "https://level.finance/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Derivatives"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "BNB",
+            "address": "0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Level Finance/arc_id=AMB:LVL000001261/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Level Finance/arc_id=AMB:LVL000001261/exchange=mexc/data.json"
+        ]
+    }
+}

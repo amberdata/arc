@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:AXS000000040_AMB:EUR000000120",
+        "normalizedPair": "axs_eur",
+        "normalizedSymbol": "axs",
+        "nativePair": "axseur",
+        "exchange": "bitstamp",
+        "assetName": "Axie Infinity",
+        "assetArcId": "AMB:AXS000000040",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "axs_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AXS000000040_AMB:USD000000949",
+        "normalizedPair": "axs_usd",
+        "normalizedSymbol": "axs",
+        "nativePair": "axsusd",
+        "exchange": "bitstamp",
+        "assetName": "Axie Infinity",
+        "assetArcId": "AMB:AXS000000040",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "axs_usd",
+        "instrumentType": "spot"
+    }
+]

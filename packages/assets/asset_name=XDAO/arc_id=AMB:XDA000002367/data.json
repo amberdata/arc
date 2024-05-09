@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "xdao",
+    "assetName": "XDAO",
+    "assetArcId": "AMB:XDA000002367",
+    "website": "https://www.xdao.app/",
+    "whitePaperUrl": "https://docs.xdao.app/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=XDAO/arc_id=AMB:XDA000002367/exchange=mexc/data.json"
+        ]
+    }
+}

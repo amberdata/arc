@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "nept",
+    "assetName": "Metanept",
+    "assetArcId": "AMB:NEP000001983",
+    "website": "https://www.metanept.io/",
+    "whitePaperUrl": "https://www.metanept.io/documents/nept_whitepaper.pdf",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Metanept/arc_id=AMB:NEP000001983/exchange=mexc/data.json"
+        ]
+    }
+}

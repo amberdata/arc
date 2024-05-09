@@ -1,0 +1,133 @@
+{
+    "type": "object",
+    "required": [
+        "exchange",
+        "nativeInstrument",
+        "nativeBaseSymbol",
+        "nativeQuoteSymbol",
+        "underlying",
+        "expiration",
+        "active",
+        "contractSize",
+        "contractType",
+        "marginType",
+        "limitsAmountMax",
+        "limitsAmountMin",
+        "limitsCostMax",
+        "limitsLeverageMax",
+        "limitsLeverageMin",
+        "limitsMarketMax",
+        "limitsMarketMin",
+        "limitsPriceMax",
+        "limitsPriceMin",
+        "precisionAmount",
+        "precisionBase",
+        "precisionPrice",
+        "precisionQuote",
+        "settleAsset",
+        "assetArcId"
+    ],
+    "properties": {
+        "exchange": {
+            "type": "string",
+            "description": "The human readable name of the exchange"
+        },
+        "nativeInstrument": {
+            "type": "string",
+            "description": "The identifying symbol of the instrument on the exchange"
+        },
+        "nativeBaseSymbol": {
+            "type": "string",
+            "description": "The exchange specific symbol for the base asset of the instrument"
+        },
+        "nativeQuoteSymbol": {
+            "type": "string",
+            "description": "The exchange specific symbol for the quote asset of the instrument"
+        },
+        "underlying": {
+            "type": "string",
+            "description": "The symbol of the underlying asset for the instrument"
+        },
+        "expiration": {
+            "type": "string",
+            "format": "date-time",
+            "description": "The date when the futures contract expires"
+        },
+        "active": {
+            "type": "boolean",
+            "description": "Indicates if the instrument is actively trading or not"
+        },
+        "contractSize": {
+            "type": "number",
+            "description": "The size of a single contract in terms of the number of units of the underlying asset."
+        },
+        "contractType": {
+            "type": "string",
+            "description": "Describes the time period or duration of the contract, such as weekly, monthly, quarterly or perpetual, indicating when the contract will expire."
+        },
+        "marginType": {
+            "type": "string",
+            "description": "Specifies the the margin calculation style relative to how the contract's value relates to the base and quote currencies in the contract"
+        },
+        "limitsAmountMax": {
+            "type": "number",
+            "description": "The maximum number of contracts or units that can be traded in a single order for this instrument."
+        },
+        "limitsAmountMin": {
+            "type": "number",
+            "description": "The minimum number of contracts or units required to place an order for this instrument."
+        },
+        "limitsCostMax": {
+            "type": "number",
+            "description": "The maximum monetary value allowed for a single order, based on the contract size and current market price."
+        },
+        "limitsLeverageMax": {
+            "type": "number",
+            "description": "The maximum leverage ratio available for trading this futures instrument."
+        },
+        "limitsLeverageMin": {
+            "type": "number",
+            "description": "The minimum leverage ratio available for trading this futures instrument."
+        },
+        "limitsMarketMax": {
+            "type": "number",
+            "description": "The maximum market exposure permitted in terms of total contract value for this instrument."
+        },
+        "limitsMarketMin": {
+            "type": "number",
+            "description": "The minimum market exposure required to open a position in this futures instrument."
+        },
+        "limitsPriceMax": {
+            "type": "number",
+            "description": "The upper price limit beyond which orders cannot be placed for this instrument."
+        },
+        "limitsPriceMin": {
+            "type": "number",
+            "description": "The lower price limit below which orders cannot be placed for this instrument."
+        },
+        "precisionAmount": {
+            "type": "number",
+            "description": "The number of decimal places that can be specified for the contract amount in a trade."
+        },
+        "precisionBase": {
+            "type": "number",
+            "description": "The number of decimal places that can be specified for the base asset in a trade."
+        },
+        "precisionPrice": {
+            "type": "number",
+            "description": "The number of decimal places that can be used to specify the price of this futures instrument."
+        },
+        "precisionQuote": {
+            "type": "number",
+            "description": "The number of decimal places that can be specified for the quote asset in a trade."
+        },
+        "settleAsset": {
+            "type": "string",
+            "description": "The asset in which the futures contract is settled."
+        },
+        "arcAssetId": {
+            "type": "string",
+            "description": "The permanent, unique identifier of the asset in ARC, that remains the same even if assetSymbol must change"
+        }
+    }
+}

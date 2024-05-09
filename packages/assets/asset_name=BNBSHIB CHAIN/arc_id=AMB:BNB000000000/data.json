@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bnbshib",
+    "assetName": "BNBSHIB CHAIN",
+    "assetArcId": "AMB:BNB000000000",
+    "website": "http://bnbshib.com/",
+    "whitePaperUrl": "https://docs.bnbshib.com/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BNBSHIB CHAIN/arc_id=AMB:BNB000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ERS000001225_AMB:USD000000335",
+        "normalizedPair": "ersdl_usdt",
+        "normalizedSymbol": "ersdl",
+        "nativePair": "ERSDL_USDT",
+        "exchange": "poloniex",
+        "assetName": "unFederalReserve",
+        "assetArcId": "AMB:ERS000001225",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ersdl_usdt",
+        "instrumentType": "spot"
+    }
+]

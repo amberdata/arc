@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:ELF000000111_AMB:BTC000000000",
+        "normalizedPair": "elf_btc",
+        "normalizedSymbol": "elf",
+        "nativePair": "ELFBTC",
+        "exchange": "mexc",
+        "assetName": "ELF Wallet",
+        "assetArcId": "AMB:ELF000000111",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "elf_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ELF000000111_AMB:ETH000000000",
+        "normalizedPair": "elf_eth",
+        "normalizedSymbol": "elf",
+        "nativePair": "ELFETH",
+        "exchange": "mexc",
+        "assetName": "ELF Wallet",
+        "assetArcId": "AMB:ELF000000111",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "elf_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ELF000000111_AMB:USD000000335",
+        "normalizedPair": "elf_usdt",
+        "normalizedSymbol": "elf",
+        "nativePair": "ELFUSDT",
+        "exchange": "mexc",
+        "assetName": "ELF Wallet",
+        "assetArcId": "AMB:ELF000000111",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "elf_usdt",
+        "instrumentType": "spot"
+    }
+]

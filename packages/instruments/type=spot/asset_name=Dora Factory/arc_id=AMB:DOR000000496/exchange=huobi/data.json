@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOR000000496_AMB:USD000000335",
+        "normalizedPair": "dora_usdt",
+        "normalizedSymbol": "dora",
+        "nativePair": "dorausdt",
+        "exchange": "huobi",
+        "assetName": "Dora Factory",
+        "assetArcId": "AMB:DOR000000496",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dora_usdt",
+        "instrumentType": "spot"
+    }
+]

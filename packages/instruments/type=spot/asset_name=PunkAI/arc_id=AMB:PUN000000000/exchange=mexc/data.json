@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PUN000000000_AMB:USD000000335",
+        "normalizedPair": "punkai_usdt",
+        "normalizedSymbol": "punkai",
+        "nativePair": "PUNKAIUSDT",
+        "exchange": "mexc",
+        "assetName": "PunkAI",
+        "assetArcId": "AMB:PUN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "punkai_usdt",
+        "instrumentType": "spot"
+    }
+]

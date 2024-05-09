@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MIL000002722_AMB:USD000000335",
+        "normalizedPair": "milk_usdt",
+        "normalizedSymbol": "milk",
+        "nativePair": "MILKUSDT",
+        "exchange": "mexc",
+        "assetName": "MILK",
+        "assetArcId": "AMB:MIL000002722",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "milk_usdt",
+        "instrumentType": "spot"
+    }
+]

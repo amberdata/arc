@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MTR000001963_AMB:USD000000335",
+        "normalizedPair": "mtrx_usdt",
+        "normalizedSymbol": "mtrx",
+        "nativePair": "MTRXUSDT",
+        "exchange": "mexc",
+        "assetName": "Metarix",
+        "assetArcId": "AMB:MTR000001963",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mtrx_usdt",
+        "instrumentType": "spot"
+    }
+]

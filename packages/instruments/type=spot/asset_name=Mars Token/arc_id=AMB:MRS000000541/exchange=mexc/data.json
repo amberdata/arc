@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MRS000000541_AMB:USD000000335",
+        "normalizedPair": "mrst_usdt",
+        "normalizedSymbol": "mrst",
+        "nativePair": "MRSTUSDT",
+        "exchange": "mexc",
+        "assetName": "Mars Token",
+        "assetArcId": "AMB:MRS000000541",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mrst_usdt",
+        "instrumentType": "spot"
+    }
+]

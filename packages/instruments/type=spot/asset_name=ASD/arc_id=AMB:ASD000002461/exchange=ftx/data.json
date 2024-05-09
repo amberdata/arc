@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ASD000002461_AMB:USD000000949",
+        "normalizedPair": "asd_usd",
+        "normalizedSymbol": "asd",
+        "nativePair": "ASD/USD",
+        "exchange": "ftx",
+        "assetName": "ASD",
+        "assetArcId": "AMB:ASD000002461",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "asd_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SIX000001171_AMB:USD000000335",
+        "normalizedPair": "six_usdt",
+        "normalizedSymbol": "six",
+        "nativePair": "SIX_USDT",
+        "exchange": "poloniex",
+        "assetName": "SIX",
+        "assetArcId": "AMB:SIX000001171",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "six_usdt",
+        "instrumentType": "spot"
+    }
+]

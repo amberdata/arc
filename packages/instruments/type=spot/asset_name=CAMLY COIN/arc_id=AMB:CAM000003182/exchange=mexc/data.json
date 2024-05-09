@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CAM000003182_AMB:USD000000335",
+        "normalizedPair": "camly_usdt",
+        "normalizedSymbol": "camly",
+        "nativePair": "CAMLYUSDT",
+        "exchange": "mexc",
+        "assetName": "CAMLY COIN",
+        "assetArcId": "AMB:CAM000003182",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "camly_usdt",
+        "instrumentType": "spot"
+    }
+]

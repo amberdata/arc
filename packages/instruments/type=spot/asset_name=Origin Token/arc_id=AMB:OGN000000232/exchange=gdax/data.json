@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:OGN000000232_AMB:BTC000000000",
+        "normalizedPair": "ogn_btc",
+        "normalizedSymbol": "ogn",
+        "nativePair": "OGN-BTC",
+        "exchange": "gdax",
+        "assetName": "Origin Token",
+        "assetArcId": "AMB:OGN000000232",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ogn_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OGN000000232_AMB:USD000000949",
+        "normalizedPair": "ogn_usd",
+        "normalizedSymbol": "ogn",
+        "nativePair": "OGN-USD",
+        "exchange": "gdax",
+        "assetName": "Origin Token",
+        "assetArcId": "AMB:OGN000000232",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ogn_usd",
+        "instrumentType": "spot"
+    }
+]

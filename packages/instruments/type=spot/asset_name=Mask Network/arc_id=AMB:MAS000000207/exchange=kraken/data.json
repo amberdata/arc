@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MAS000000207_AMB:EUR000000120",
+        "normalizedPair": "mask_eur",
+        "normalizedSymbol": "mask",
+        "nativePair": "MASKEUR",
+        "exchange": "kraken",
+        "assetName": "Mask Network",
+        "assetArcId": "AMB:MAS000000207",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "mask_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MAS000000207_AMB:USD000000949",
+        "normalizedPair": "mask_usd",
+        "normalizedSymbol": "mask",
+        "nativePair": "MASKUSD",
+        "exchange": "kraken",
+        "assetName": "Mask Network",
+        "assetArcId": "AMB:MAS000000207",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mask_usd",
+        "instrumentType": "spot"
+    }
+]

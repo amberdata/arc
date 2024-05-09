@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ROO000002992_AMB:USD000000335",
+        "normalizedPair": "roos_usdt",
+        "normalizedSymbol": "roos",
+        "nativePair": "ROOSUSDT",
+        "exchange": "mexc",
+        "assetName": "ROOS",
+        "assetArcId": "AMB:ROO000002992",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "roos_usdt",
+        "instrumentType": "spot"
+    }
+]

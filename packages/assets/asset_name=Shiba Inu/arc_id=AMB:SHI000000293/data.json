@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "shib",
+    "assetName": "Shiba Inu",
+    "assetArcId": "AMB:SHI000000293",
+    "website": "https://shibatoken.com/",
+    "whitePaperUrl": "https://github.com/shytoshikusama/woofwoofpaper/raw/main/SHIBA_INU_WOOF_WOOF.pdf",
+    "classificationTags": [
+        "Meme",
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

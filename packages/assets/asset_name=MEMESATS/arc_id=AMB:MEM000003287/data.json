@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "memrsats",
+    "assetName": "MEMESATS",
+    "assetArcId": "AMB:MEM000003287",
+    "website": "https://memesats.space/",
+    "whitePaperUrl": "https://memesats.space/MemeSats.whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MEMESATS/arc_id=AMB:MEM000003287/exchange=mexc/data.json"
+        ]
+    }
+}

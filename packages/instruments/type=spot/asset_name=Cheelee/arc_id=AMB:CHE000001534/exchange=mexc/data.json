@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHE000001534_AMB:USD000000335",
+        "normalizedPair": "cheel_usdt",
+        "normalizedSymbol": "cheel",
+        "nativePair": "CHEELUSDT",
+        "exchange": "mexc",
+        "assetName": "Cheelee",
+        "assetArcId": "AMB:CHE000001534",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cheel_usdt",
+        "instrumentType": "spot"
+    }
+]

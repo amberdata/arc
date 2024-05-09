@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COV000000389_AMB:USD000000949",
+        "normalizedPair": "coval_usd",
+        "normalizedSymbol": "coval",
+        "nativePair": "COVAL-USD",
+        "exchange": "gdax",
+        "assetName": "Circuits of Value",
+        "assetArcId": "AMB:COV000000389",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "coval_usd",
+        "instrumentType": "spot"
+    }
+]

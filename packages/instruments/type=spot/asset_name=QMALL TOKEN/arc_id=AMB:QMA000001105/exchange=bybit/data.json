@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:QMA000001105_AMB:USD000000335",
+        "normalizedPair": "qmall_usdt",
+        "normalizedSymbol": "qmall",
+        "nativePair": "QMALLUSDT",
+        "exchange": "bybit",
+        "assetName": "QMALL TOKEN",
+        "assetArcId": "AMB:QMA000001105",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "qmall_usdt",
+        "instrumentType": "spot"
+    }
+]

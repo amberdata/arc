@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SCM000000000_AMB:USD000000335",
+        "normalizedPair": "scm_usdt",
+        "normalizedSymbol": "scm",
+        "nativePair": "SCMUSDT",
+        "exchange": "mexc",
+        "assetName": "Scamfari",
+        "assetArcId": "AMB:SCM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "scm_usdt",
+        "instrumentType": "spot"
+    }
+]

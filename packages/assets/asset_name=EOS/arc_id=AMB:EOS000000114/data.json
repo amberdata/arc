@@ -1,0 +1,32 @@
+{
+    "assetSymbol": "eos",
+    "assetName": "EOS",
+    "assetArcId": "AMB:EOS000000114",
+    "website": "https://eos.io/",
+    "whitePaperUrl": "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md",
+    "classificationTags": [
+        "Proof-of-Stake"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Eosio",
+            "address": ""
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EOS/arc_id=AMB:EOS000000114/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EOS/arc_id=AMB:EOS000000114/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EOS/arc_id=AMB:EOS000000114/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EOS/arc_id=AMB:EOS000000114/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EOS/arc_id=AMB:EOS000000114/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EOS/arc_id=AMB:EOS000000114/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EOS/arc_id=AMB:EOS000000114/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EOS/arc_id=AMB:EOS000000114/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EOS/arc_id=AMB:EOS000000114/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EOS/arc_id=AMB:EOS000000114/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EOS/arc_id=AMB:EOS000000114/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EOS/arc_id=AMB:EOS000000114/exchange=mexc/data.json"
+        ]
+    }
+}

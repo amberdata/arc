@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WOF000002860_AMB:USD000000335",
+        "normalizedPair": "wofo1_usdt",
+        "normalizedSymbol": "wofo1",
+        "nativePair": "WOFO1USDT",
+        "exchange": "mexc",
+        "assetName": "WORLD FOOTBALL1",
+        "assetArcId": "AMB:WOF000002860",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wofo1_usdt",
+        "instrumentType": "spot"
+    }
+]

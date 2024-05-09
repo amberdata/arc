@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "pnb",
+    "assetName": "Pink BNB",
+    "assetArcId": "AMB:PNB000002085",
+    "website": "https://pnb.world/",
+    "whitePaperUrl": "https://pnb.world/whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pink BNB/arc_id=AMB:PNB000002085/exchange=mexc/data.json"
+        ]
+    }
+}

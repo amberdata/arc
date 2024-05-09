@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "catch",
+    "assetName": "SpaceCatch",
+    "assetArcId": "AMB:CAT000000000",
+    "website": "https://spacecatch.io/",
+    "whitePaperUrl": "https://whitepaper.spacecatch.io/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SpaceCatch/arc_id=AMB:CAT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

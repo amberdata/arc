@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LSD000000731_AMB:USD000000335",
+        "normalizedPair": "lsd_usdt",
+        "normalizedSymbol": "lsd",
+        "nativePair": "LSD7USDT",
+        "exchange": "mexc",
+        "assetName": "L7 DEX",
+        "assetArcId": "AMB:LSD000000731",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lsd7_usdt",
+        "instrumentType": "spot"
+    }
+]

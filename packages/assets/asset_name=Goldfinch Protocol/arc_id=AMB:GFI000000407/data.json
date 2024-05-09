@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "gfi",
+    "assetName": "Goldfinch Protocol",
+    "assetArcId": "AMB:GFI000000407",
+    "website": "https://goldfinch.finance/",
+    "whitePaperUrl": "/how-to-buy/GFI?utm_source=mexc&utm_medium=tokenifoGFI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Goldfinch Protocol/arc_id=AMB:GFI000000407/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Goldfinch Protocol/arc_id=AMB:GFI000000407/exchange=mexc/data.json"
+        ]
+    }
+}

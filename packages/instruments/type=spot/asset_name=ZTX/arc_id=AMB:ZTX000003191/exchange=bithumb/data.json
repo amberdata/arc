@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZTX000003191_AMB:KRW000000000",
+        "normalizedPair": "ztx_krw",
+        "normalizedSymbol": "ztx",
+        "nativePair": "ZTX/KRW",
+        "exchange": "bithumb",
+        "assetName": "ZTX",
+        "assetArcId": "AMB:ZTX000003191",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "ztx_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "cdoge",
+    "assetName": "CYBERDOGE",
+    "assetArcId": "AMB:CDO000000000",
+    "website": "https://cyberdogecoin.com/",
+    "whitePaperUrl": "https://cyberdogecoin.com/CYBERDOGE%20LITEPAPER.pdf",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=CYBERDOGE/arc_id=AMB:CDO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

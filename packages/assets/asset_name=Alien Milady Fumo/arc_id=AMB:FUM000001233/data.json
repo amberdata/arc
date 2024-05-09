@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "fumo",
+    "assetName": "Alien Milady Fumo",
+    "assetArcId": "AMB:FUM000001233",
+    "website": "https://miladymaker.net/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x2890df158d76e584877a1d17a85fea3aeeb85aa6"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Alien Milady Fumo/arc_id=AMB:FUM000001233/exchange=poloniex/data.json"
+        ]
+    }
+}

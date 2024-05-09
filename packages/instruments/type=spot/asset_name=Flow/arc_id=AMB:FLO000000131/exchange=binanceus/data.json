@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FLO000000131_AMB:USD000000335",
+        "normalizedPair": "flow_usdt",
+        "normalizedSymbol": "flow",
+        "nativePair": "FLOWUSDT",
+        "exchange": "binanceus",
+        "assetName": "Flow",
+        "assetArcId": "AMB:FLO000000131",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "flow_usdt",
+        "instrumentType": "spot"
+    }
+]

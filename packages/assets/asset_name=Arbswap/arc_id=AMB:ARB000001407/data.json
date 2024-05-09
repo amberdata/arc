@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "arbs",
+    "assetName": "Arbswap",
+    "assetArcId": "AMB:ARB000001407",
+    "website": "https://arbswap.io/",
+    "whitePaperUrl": "/how-to-buy/ARBS?utm_source=mexc&utm_medium=tokenifoARBS&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Arbswap/arc_id=AMB:ARB000001407/exchange=mexc/data.json"
+        ]
+    }
+}

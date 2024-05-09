@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LOK000000194_AMB:USD000000335",
+        "normalizedPair": "loka_usdt",
+        "normalizedSymbol": "loka",
+        "nativePair": "LOKAUSDT",
+        "exchange": "binanceus",
+        "assetName": "League of Kingdoms Arena",
+        "assetArcId": "AMB:LOK000000194",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "loka_usdt",
+        "instrumentType": "spot"
+    }
+]

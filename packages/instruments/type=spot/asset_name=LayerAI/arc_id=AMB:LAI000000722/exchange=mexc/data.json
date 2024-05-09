@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LAI000000722_AMB:USD000000335",
+        "normalizedPair": "lai_usdt",
+        "normalizedSymbol": "lai",
+        "nativePair": "LAIUSDT",
+        "exchange": "mexc",
+        "assetName": "LayerAI",
+        "assetArcId": "AMB:LAI000000722",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lai_usdt",
+        "instrumentType": "spot"
+    }
+]

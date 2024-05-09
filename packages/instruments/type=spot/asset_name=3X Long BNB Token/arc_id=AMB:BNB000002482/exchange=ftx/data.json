@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BNB000002482_AMB:USD000000949",
+        "normalizedPair": "bnbbull_usd",
+        "normalizedSymbol": "bnbbull",
+        "nativePair": "BNBBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long BNB Token",
+        "assetArcId": "AMB:BNB000002482",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bnbbull_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BNB000002482_AMB:USD000000335",
+        "normalizedPair": "bnbbull_usdt",
+        "normalizedSymbol": "bnbbull",
+        "nativePair": "BNBBULL/USDT",
+        "exchange": "ftx",
+        "assetName": "3X Long BNB Token",
+        "assetArcId": "AMB:BNB000002482",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bnbbull_usdt",
+        "instrumentType": "spot"
+    }
+]

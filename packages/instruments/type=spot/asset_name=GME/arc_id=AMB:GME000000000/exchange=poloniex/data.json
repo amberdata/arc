@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GME000000000_AMB:USD000000335",
+        "normalizedPair": "gmeoneth_usdt",
+        "normalizedSymbol": "gmeoneth",
+        "nativePair": "GMEONETH_USDT",
+        "exchange": "poloniex",
+        "assetName": "GME",
+        "assetArcId": "AMB:GME000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gmeoneth_usdt",
+        "instrumentType": "spot"
+    }
+]

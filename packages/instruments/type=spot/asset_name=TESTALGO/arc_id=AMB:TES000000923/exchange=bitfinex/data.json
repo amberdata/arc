@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TES000000923_AMB:TES000000000",
+        "normalizedPair": "testalgo_testusd",
+        "normalizedSymbol": "testalgo",
+        "nativePair": "tTESTALGO:TESTUSD",
+        "exchange": "bitfinex",
+        "assetName": "TESTALGO",
+        "assetArcId": "AMB:TES000000923",
+        "quoteArcId": "AMB:TES000000000",
+        "collectedPair": "testalgo_testusd",
+        "instrumentType": "spot"
+    }
+]

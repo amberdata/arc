@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAR000003038_AMB:USD000000335",
+        "normalizedPair": "mar3_usdt",
+        "normalizedSymbol": "mar3",
+        "nativePair": "MAR3USDT",
+        "exchange": "mexc",
+        "assetName": "MAR3 AI",
+        "assetArcId": "AMB:MAR000003038",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mar3_usdt",
+        "instrumentType": "spot"
+    }
+]

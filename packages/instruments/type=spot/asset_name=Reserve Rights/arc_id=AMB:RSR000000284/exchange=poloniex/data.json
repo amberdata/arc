@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RSR000000284_AMB:USD000000335",
+        "normalizedPair": "rsr_usdt",
+        "normalizedSymbol": "rsr",
+        "nativePair": "RSR_USDT",
+        "exchange": "poloniex",
+        "assetName": "Reserve Rights",
+        "assetArcId": "AMB:RSR000000284",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rsr_usdt",
+        "instrumentType": "spot"
+    }
+]

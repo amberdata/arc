@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RBN000000442_AMB:USD000000949",
+        "normalizedPair": "rbn_usd",
+        "normalizedSymbol": "rbn",
+        "nativePair": "RBN-USD",
+        "exchange": "gdax",
+        "assetName": "Ribbon Finance",
+        "assetArcId": "AMB:RBN000000442",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "rbn_usd",
+        "instrumentType": "spot"
+    }
+]

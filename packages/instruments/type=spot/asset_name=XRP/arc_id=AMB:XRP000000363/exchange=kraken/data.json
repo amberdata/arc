@@ -1,0 +1,110 @@
+[
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:AUD000002420",
+        "normalizedPair": "xrp_aud",
+        "normalizedSymbol": "xrp",
+        "nativePair": "XRPAUD",
+        "exchange": "kraken",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:AUD000002420",
+        "collectedPair": "xrp_aud",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:BTC000000000",
+        "normalizedPair": "xrp_btc",
+        "normalizedSymbol": "xrp",
+        "nativePair": "XXRPXXBT",
+        "exchange": "kraken",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "xrp_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:CAD000002500",
+        "normalizedPair": "xrp_cad",
+        "normalizedSymbol": "xrp",
+        "nativePair": "XXRPZCAD",
+        "exchange": "kraken",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:CAD000002500",
+        "collectedPair": "xrp_cad",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:ETH000000000",
+        "normalizedPair": "xrp_eth",
+        "normalizedSymbol": "xrp",
+        "nativePair": "XRPETH",
+        "exchange": "kraken",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "xrp_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:EUR000000120",
+        "normalizedPair": "xrp_eur",
+        "normalizedSymbol": "xrp",
+        "nativePair": "XXRPZEUR",
+        "exchange": "kraken",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "xrp_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:GBP000000144",
+        "normalizedPair": "xrp_gbp",
+        "normalizedSymbol": "xrp",
+        "nativePair": "XRPGBP",
+        "exchange": "kraken",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "xrp_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:JPY000000903",
+        "normalizedPair": "xrp_jpy",
+        "normalizedSymbol": "xrp",
+        "nativePair": "XXRPZJPY",
+        "exchange": "kraken",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:JPY000000903",
+        "collectedPair": "xrp_jpy",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:USD000000949",
+        "normalizedPair": "xrp_usd",
+        "normalizedSymbol": "xrp",
+        "nativePair": "XXRPZUSD",
+        "exchange": "kraken",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xrp_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:USD000000335",
+        "normalizedPair": "xrp_usdt",
+        "normalizedSymbol": "xrp",
+        "nativePair": "XRPUSDT",
+        "exchange": "kraken",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xrp_usdt",
+        "instrumentType": "spot"
+    }
+]

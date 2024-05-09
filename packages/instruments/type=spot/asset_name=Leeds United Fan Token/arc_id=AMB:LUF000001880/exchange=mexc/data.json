@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LUF000001880_AMB:USD000000335",
+        "normalizedPair": "lufc_usdt",
+        "normalizedSymbol": "lufc",
+        "nativePair": "LUFCUSDT",
+        "exchange": "mexc",
+        "assetName": "Leeds United Fan Token",
+        "assetArcId": "AMB:LUF000001880",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lufc_usdt",
+        "instrumentType": "spot"
+    }
+]

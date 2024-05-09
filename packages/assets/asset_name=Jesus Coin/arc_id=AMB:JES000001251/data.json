@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "jesus",
+    "assetName": "Jesus Coin",
+    "assetArcId": "AMB:JES000001251",
+    "website": "https://www.jesus.toys/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xba386A4Ca26B85FD057ab1Ef86e3DC7BdeB5ce70"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PER000000248_AMB:USD000000335",
+        "normalizedPair": "perp_usdt",
+        "normalizedSymbol": "perp",
+        "nativePair": "PERPUSDT",
+        "exchange": "bybit",
+        "assetName": "Perpetual Protocol",
+        "assetArcId": "AMB:PER000000248",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "perp_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "bobo",
+    "assetName": "Bobo",
+    "assetArcId": "AMB:BOB000001202",
+    "website": "https://www.bobo-eth.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Content & Streaming",
+        "Meme",
+        "Smart Contract"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x5888641e3e6cBeA6D84Ba81EDb217bD691d3bE38"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

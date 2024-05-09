@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SYN000000313_AMB:USD000000335",
+        "normalizedPair": "syn_usdt",
+        "normalizedSymbol": "syn",
+        "nativePair": "SYNUSDT",
+        "exchange": "mexc",
+        "assetName": "Synapse",
+        "assetArcId": "AMB:SYN000000313",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "syn_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EGA000000667_AMB:USD000000335",
+        "normalizedPair": "egame_usdt",
+        "normalizedSymbol": "egame",
+        "nativePair": "egameusdt",
+        "exchange": "huobi",
+        "assetName": "EVERY GAME",
+        "assetArcId": "AMB:EGA000000667",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "egame_usdt",
+        "instrumentType": "spot"
+    }
+]

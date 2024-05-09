@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MKO000000000_AMB:USD000000335",
+        "normalizedPair": "mko_usdt",
+        "normalizedSymbol": "mko",
+        "nativePair": "MKOUSDT",
+        "exchange": "mexc",
+        "assetName": "Mikoko",
+        "assetArcId": "AMB:MKO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mko_usdt",
+        "instrumentType": "spot"
+    }
+]

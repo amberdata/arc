@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WPC000000864_AMB:USD000000335",
+        "normalizedPair": "wpci_usdt",
+        "normalizedSymbol": "wpci",
+        "nativePair": "wpciusdt",
+        "exchange": "huobi",
+        "assetName": "Paycoin",
+        "assetArcId": "AMB:WPC000000864",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wpci_usdt",
+        "instrumentType": "spot"
+    }
+]

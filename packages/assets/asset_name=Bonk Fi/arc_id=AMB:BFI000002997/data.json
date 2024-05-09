@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "bfi",
+    "assetName": "Bonk Fi",
+    "assetArcId": "AMB:BFI000002997",
+    "website": "https://www.bonkfi.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "u6EzDxvJEzMGDqmiXGng757TcXjQ8fxKQN8uHRRCrqC"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

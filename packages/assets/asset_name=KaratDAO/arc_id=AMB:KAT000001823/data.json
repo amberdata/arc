@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "kat",
+    "assetName": "KaratDAO",
+    "assetArcId": "AMB:KAT000001823",
+    "website": "https://karatdao.com/",
+    "whitePaperUrl": "https://docs.karatdao.com/",
+    "classificationTags": [
+        "DEX",
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

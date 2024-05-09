@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BON000000640_AMB:USD000000841",
+        "normalizedPair": "bonk_usdd",
+        "normalizedSymbol": "bonk",
+        "nativePair": "BONK_USDD",
+        "exchange": "poloniex",
+        "assetName": "Bonk",
+        "assetArcId": "AMB:BON000000640",
+        "quoteArcId": "AMB:USD000000841",
+        "collectedPair": "bonk_usdd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BON000000640_AMB:USD000000335",
+        "normalizedPair": "bonk_usdt",
+        "normalizedSymbol": "bonk",
+        "nativePair": "BONK_USDT",
+        "exchange": "poloniex",
+        "assetName": "Bonk",
+        "assetArcId": "AMB:BON000000640",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bonk_usdt",
+        "instrumentType": "spot"
+    }
+]

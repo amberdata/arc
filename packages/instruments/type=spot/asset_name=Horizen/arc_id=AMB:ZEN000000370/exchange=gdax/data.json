@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:ZEN000000370_AMB:BTC000000000",
+        "normalizedPair": "zen_btc",
+        "normalizedSymbol": "zen",
+        "nativePair": "ZEN-BTC",
+        "exchange": "gdax",
+        "assetName": "Horizen",
+        "assetArcId": "AMB:ZEN000000370",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "zen_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ZEN000000370_AMB:USD000000949",
+        "normalizedPair": "zen_usd",
+        "normalizedSymbol": "zen",
+        "nativePair": "ZEN-USD",
+        "exchange": "gdax",
+        "assetName": "Horizen",
+        "assetArcId": "AMB:ZEN000000370",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "zen_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ZEN000000370_AMB:USD000000335",
+        "normalizedPair": "zen_usdt",
+        "normalizedSymbol": "zen",
+        "nativePair": "ZEN-USDT",
+        "exchange": "gdax",
+        "assetName": "Horizen",
+        "assetArcId": "AMB:ZEN000000370",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zen_usdt",
+        "instrumentType": "spot"
+    }
+]

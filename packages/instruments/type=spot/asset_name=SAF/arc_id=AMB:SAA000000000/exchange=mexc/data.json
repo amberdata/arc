@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAA000000000_AMB:USD000000335",
+        "normalizedPair": "sa_usdt",
+        "normalizedSymbol": "sa",
+        "nativePair": "SAUSDT",
+        "exchange": "mexc",
+        "assetName": "SAF",
+        "assetArcId": "AMB:SAA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sa_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "exgo",
+    "assetName": "EXGOLAND",
+    "assetArcId": "AMB:EXG000000000",
+    "website": "https://www.exgoland.io/",
+    "whitePaperUrl": "https://www.exgoland.io/whitepaper",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EXGOLAND/arc_id=AMB:EXG000000000/exchange=mexc/data.json"
+        ]
+    }
+}

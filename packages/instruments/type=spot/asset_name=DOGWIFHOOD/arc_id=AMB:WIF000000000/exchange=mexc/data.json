@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:WIF000000000_AMB:USD000000335",
+        "normalizedPair": "wifhat_usdt",
+        "normalizedSymbol": "wifhat",
+        "nativePair": "WIFHATUSDT",
+        "exchange": "mexc",
+        "assetName": "WIFHAT",
+        "assetArcId": "AMB:WIF000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wifhat_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WIF000000000_AMB:USD000000335",
+        "normalizedPair": "wift_usdt",
+        "normalizedSymbol": "wift",
+        "nativePair": "WIFTUSDT",
+        "exchange": "mexc",
+        "assetName": "DOGWIFHOOD",
+        "assetArcId": "AMB:WIF000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wift_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WIF000000000_AMB:USD000000335",
+        "normalizedPair": "wifsa_usdt",
+        "normalizedSymbol": "wifsa",
+        "nativePair": "WIFSAUSDT",
+        "exchange": "mexc",
+        "assetName": "Dogwifsaudihat",
+        "assetArcId": "AMB:WIF000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wifsa_usdt",
+        "instrumentType": "spot"
+    }
+]

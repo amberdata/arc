@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAK000002813_AMB:USD000000335",
+        "normalizedPair": "maka_usdt",
+        "normalizedSymbol": "maka",
+        "nativePair": "MAKAUSDT",
+        "exchange": "mexc",
+        "assetName": "Makalink",
+        "assetArcId": "AMB:MAK000002813",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "maka_usdt",
+        "instrumentType": "spot"
+    }
+]

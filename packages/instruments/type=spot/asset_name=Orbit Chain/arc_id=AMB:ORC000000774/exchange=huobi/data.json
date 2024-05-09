@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ORC000000774_AMB:USD000000335",
+        "normalizedPair": "orc_usdt",
+        "normalizedSymbol": "orc",
+        "nativePair": "orcusdt",
+        "exchange": "huobi",
+        "assetName": "Orbit Chain",
+        "assetArcId": "AMB:ORC000000774",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "orc_usdt",
+        "instrumentType": "spot"
+    }
+]

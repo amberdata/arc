@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SLR000002640_AMB:USD000000949",
+        "normalizedPair": "slrs_usd",
+        "normalizedSymbol": "slrs",
+        "nativePair": "SLRS/USD",
+        "exchange": "ftx",
+        "assetName": "Solrise Finance",
+        "assetArcId": "AMB:SLR000002640",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "slrs_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "tw",
+    "assetName": "Winners Coin",
+    "assetArcId": "AMB:TWA000000000",
+    "website": "https://winnerscoin.io/",
+    "whitePaperUrl": "https://docs.winnerscoin.io/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Winners Coin/arc_id=AMB:TWA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

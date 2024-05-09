@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AGD000003050_AMB:USD000000335",
+        "normalizedPair": "agd_usdt",
+        "normalizedSymbol": "agd",
+        "nativePair": "AGDUSDT",
+        "exchange": "mexc",
+        "assetName": "AlphaGuard",
+        "assetArcId": "AMB:AGD000003050",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "agd_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHE000001309_AMB:USD000000335",
+        "normalizedPair": "shepe_usdt",
+        "normalizedSymbol": "shepe",
+        "nativePair": "SHEPE_USDT",
+        "exchange": "poloniex",
+        "assetName": "Shiba V Pepe",
+        "assetArcId": "AMB:SHE000001309",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shepe_usdt",
+        "instrumentType": "spot"
+    }
+]

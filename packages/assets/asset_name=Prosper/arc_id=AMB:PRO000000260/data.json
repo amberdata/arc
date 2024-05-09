@@ -1,0 +1,18 @@
+{
+    "assetSymbol": "pros",
+    "assetName": "Prosper",
+    "assetArcId": "AMB:PRO000000260",
+    "website": "https://prosper.so/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance",
+        "Oracles",
+        "Proof-of-Stake"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Prosper/arc_id=AMB:PRO000000260/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Prosper/arc_id=AMB:PRO000000260/exchange=mexc/data.json"
+        ]
+    }
+}

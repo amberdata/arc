@@ -1,0 +1,25 @@
+{
+    "assetSymbol": "waxp",
+    "assetName": "WAX",
+    "assetArcId": "AMB:WAX000000347",
+    "website": " https://wax.io/",
+    "whitePaperUrl": "https://github.com/worldwide-asset-exchange/whitepaper",
+    "classificationTags": [
+        "Gaming",
+        "Proof-of-Stake",
+        "Proof-of-Work",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=mexc/data.json"
+        ]
+    }
+}

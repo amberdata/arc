@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KPC000001840_AMB:USD000000335",
+        "normalizedPair": "kpc_usdt",
+        "normalizedSymbol": "kpc",
+        "nativePair": "KPCUSDT",
+        "exchange": "mexc",
+        "assetName": "K-POP Click",
+        "assetArcId": "AMB:KPC000001840",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kpc_usdt",
+        "instrumentType": "spot"
+    }
+]

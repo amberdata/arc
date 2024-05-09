@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GAT000000001_AMB:USD000000335",
+        "normalizedPair": "gat_usdt",
+        "normalizedSymbol": "gat",
+        "nativePair": "GATUSDT",
+        "exchange": "mexc",
+        "assetName": "GAT",
+        "assetArcId": "AMB:GAT000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gat_usdt",
+        "instrumentType": "spot"
+    }
+]

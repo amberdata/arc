@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MXN000000908_AMB:USD000000949",
+        "normalizedPair": "mxnt_usd",
+        "normalizedSymbol": "mxnt",
+        "nativePair": "tMXNT:USD",
+        "exchange": "bitfinex",
+        "assetName": "Tether MXNt",
+        "assetArcId": "AMB:MXN000000908",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mxnt_usd",
+        "instrumentType": "spot"
+    }
+]

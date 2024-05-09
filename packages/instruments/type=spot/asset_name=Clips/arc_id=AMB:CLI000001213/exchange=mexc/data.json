@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CLI000001213_AMB:USD000000335",
+        "normalizedPair": "clips_usdt",
+        "normalizedSymbol": "clips",
+        "nativePair": "CLIPSUSDT",
+        "exchange": "mexc",
+        "assetName": "Clips",
+        "assetArcId": "AMB:CLI000001213",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "clips_usdt",
+        "instrumentType": "spot"
+    }
+]

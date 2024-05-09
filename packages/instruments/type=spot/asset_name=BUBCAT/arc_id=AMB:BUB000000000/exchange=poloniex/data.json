@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BUB000000000_AMB:USD000000335",
+        "normalizedPair": "bub_usdt",
+        "normalizedSymbol": "bub",
+        "nativePair": "BUB_USDT",
+        "exchange": "poloniex",
+        "assetName": "BUBCAT",
+        "assetArcId": "AMB:BUB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bub_usdt",
+        "instrumentType": "spot"
+    }
+]

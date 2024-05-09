@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BSS000003277_AMB:USD000000335",
+        "normalizedPair": "bssb_usdt",
+        "normalizedSymbol": "bssb",
+        "nativePair": "bssbusdt",
+        "exchange": "huobi",
+        "assetName": "BitStable",
+        "assetArcId": "AMB:BSS000003277",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bssb_usdt",
+        "instrumentType": "spot"
+    }
+]

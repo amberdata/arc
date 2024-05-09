@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GOB000000000_AMB:USD000000335",
+        "normalizedPair": "gobli_usdt",
+        "normalizedSymbol": "gobli",
+        "nativePair": "GOBLIUSDT",
+        "exchange": "mexc",
+        "assetName": "Gobli",
+        "assetArcId": "AMB:GOB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gobli_usdt",
+        "instrumentType": "spot"
+    }
+]

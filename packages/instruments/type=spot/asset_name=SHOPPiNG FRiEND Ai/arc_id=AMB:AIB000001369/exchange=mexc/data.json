@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIB000001369_AMB:USD000000335",
+        "normalizedPair": "aibuddy_usdt",
+        "normalizedSymbol": "aibuddy",
+        "nativePair": "AIBUDDYUSDT",
+        "exchange": "mexc",
+        "assetName": "SHOPPiNG FRiEND Ai",
+        "assetArcId": "AMB:AIB000001369",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aibuddy_usdt",
+        "instrumentType": "spot"
+    }
+]

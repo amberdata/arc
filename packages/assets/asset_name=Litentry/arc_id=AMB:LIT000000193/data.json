@@ -1,0 +1,23 @@
+{
+    "assetSymbol": "lit",
+    "assetName": "Litentry",
+    "assetArcId": "AMB:LIT000000193",
+    "website": "https://litentry.com/",
+    "whitePaperUrl": "https://docs.litentry.com/",
+    "classificationTags": [
+        "Oracles"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Litentry/arc_id=AMB:LIT000000193/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Litentry/arc_id=AMB:LIT000000193/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Litentry/arc_id=AMB:LIT000000193/exchange=mexc/data.json"
+        ]
+    }
+}

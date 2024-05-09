@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NPT000000763_AMB:USD000000335",
+        "normalizedPair": "npt_usdt",
+        "normalizedSymbol": "npt",
+        "nativePair": "NPTUSDT",
+        "exchange": "mexc",
+        "assetName": "NEOPIN",
+        "assetArcId": "AMB:NPT000000763",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "npt_usdt",
+        "instrumentType": "spot"
+    }
+]

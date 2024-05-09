@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ARV000000628_AMB:USD000000335",
+        "normalizedPair": "arv_usdt",
+        "normalizedSymbol": "arv",
+        "nativePair": "arvusdt",
+        "exchange": "huobi",
+        "assetName": "Artemis Vision",
+        "assetArcId": "AMB:ARV000000628",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "arv_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:INS000000000_AMB:USD000000335",
+        "normalizedPair": "inscribe_usdt",
+        "normalizedSymbol": "inscribe",
+        "nativePair": "INSCRIBEUSDT",
+        "exchange": "mexc",
+        "assetName": "Inscribe",
+        "assetArcId": "AMB:INS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "inscribe_usdt",
+        "instrumentType": "spot"
+    }
+]

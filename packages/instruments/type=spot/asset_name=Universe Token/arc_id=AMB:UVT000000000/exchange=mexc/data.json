@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UVT000000000_AMB:USD000000335",
+        "normalizedPair": "uvt_usdt",
+        "normalizedSymbol": "uvt",
+        "nativePair": "UVTUSDT",
+        "exchange": "mexc",
+        "assetName": "Universe Token",
+        "assetArcId": "AMB:UVT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "uvt_usdt",
+        "instrumentType": "spot"
+    }
+]

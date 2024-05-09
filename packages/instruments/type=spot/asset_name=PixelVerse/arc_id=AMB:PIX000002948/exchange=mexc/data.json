@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PIX000002948_AMB:USD000000335",
+        "normalizedPair": "pixel_usdt",
+        "normalizedSymbol": "pixel",
+        "nativePair": "PIXELUSDT",
+        "exchange": "mexc",
+        "assetName": "PixelVerse",
+        "assetArcId": "AMB:PIX000002948",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pixel_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DGI000002891_AMB:USD000000335",
+        "normalizedPair": "dgi_usdt",
+        "normalizedSymbol": "dgi",
+        "nativePair": "DGIUSDT",
+        "exchange": "mexc",
+        "assetName": "DGI Game",
+        "assetArcId": "AMB:DGI000002891",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dgi_usdt",
+        "instrumentType": "spot"
+    }
+]

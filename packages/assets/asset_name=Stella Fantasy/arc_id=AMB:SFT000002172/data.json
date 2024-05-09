@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "sfty",
+    "assetName": "Stella Fantasy",
+    "assetArcId": "AMB:SFT000002172",
+    "website": "https://www.stellafantasy.io/",
+    "whitePaperUrl": "https://ring-games.gitbook.io/stella-fantasy/introduction/stella-fantasy",
+    "classificationTags": [
+        "Gaming",
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Stella Fantasy/arc_id=AMB:SFT000002172/exchange=mexc/data.json"
+        ]
+    }
+}

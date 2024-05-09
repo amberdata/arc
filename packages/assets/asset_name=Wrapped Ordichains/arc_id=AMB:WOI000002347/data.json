@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "woich",
+    "assetName": "Wrapped Ordichains",
+    "assetArcId": "AMB:WOI000002347",
+    "website": "https://ordichains.com/home",
+    "whitePaperUrl": "https://docs.ordichains.com/getting-start/introduction",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Wrapped Ordichains/arc_id=AMB:WOI000002347/exchange=mexc/data.json"
+        ]
+    }
+}

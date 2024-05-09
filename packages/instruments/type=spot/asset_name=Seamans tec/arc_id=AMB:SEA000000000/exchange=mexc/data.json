@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SEA000000000_AMB:USD000000335",
+        "normalizedPair": "seat_usdt",
+        "normalizedSymbol": "seat",
+        "nativePair": "SEATUSDT",
+        "exchange": "mexc",
+        "assetName": "Seamans tec",
+        "assetArcId": "AMB:SEA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "seat_usdt",
+        "instrumentType": "spot"
+    }
+]

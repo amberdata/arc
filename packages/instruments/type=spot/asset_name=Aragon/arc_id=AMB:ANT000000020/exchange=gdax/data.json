@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ANT000000020_AMB:USD000000949",
+        "normalizedPair": "ant_usd",
+        "normalizedSymbol": "ant",
+        "nativePair": "ANT-USD",
+        "exchange": "gdax",
+        "assetName": "Aragon",
+        "assetArcId": "AMB:ANT000000020",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ant_usd",
+        "instrumentType": "spot"
+    }
+]

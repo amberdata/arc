@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:CTS000000086_AMB:BNB000000055",
+        "normalizedPair": "ctsi_bnb",
+        "normalizedSymbol": "ctsi",
+        "nativePair": "CTSIBNB",
+        "exchange": "binance",
+        "assetName": "Cartesi",
+        "assetArcId": "AMB:CTS000000086",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "ctsi_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CTS000000086_AMB:BTC000000000",
+        "normalizedPair": "ctsi_btc",
+        "normalizedSymbol": "ctsi",
+        "nativePair": "CTSIBTC",
+        "exchange": "binance",
+        "assetName": "Cartesi",
+        "assetArcId": "AMB:CTS000000086",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ctsi_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CTS000000086_AMB:BUS000000067",
+        "normalizedPair": "ctsi_busd",
+        "normalizedSymbol": "ctsi",
+        "nativePair": "CTSIBUSD",
+        "exchange": "binance",
+        "assetName": "Cartesi",
+        "assetArcId": "AMB:CTS000000086",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "ctsi_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CTS000000086_AMB:USD000000335",
+        "normalizedPair": "ctsi_usdt",
+        "normalizedSymbol": "ctsi",
+        "nativePair": "CTSIUSDT",
+        "exchange": "binance",
+        "assetName": "Cartesi",
+        "assetArcId": "AMB:CTS000000086",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ctsi_usdt",
+        "instrumentType": "spot"
+    }
+]

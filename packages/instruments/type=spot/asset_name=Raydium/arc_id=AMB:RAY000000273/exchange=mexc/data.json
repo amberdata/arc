@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:RAY000000273_AMB:USD000000333",
+        "normalizedPair": "ray_usdc",
+        "normalizedSymbol": "ray",
+        "nativePair": "RAYUSDC",
+        "exchange": "mexc",
+        "assetName": "Raydium",
+        "assetArcId": "AMB:RAY000000273",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "ray_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RAY000000273_AMB:USD000000335",
+        "normalizedPair": "ray_usdt",
+        "normalizedSymbol": "ray",
+        "nativePair": "RAYUSDT",
+        "exchange": "mexc",
+        "assetName": "Raydium",
+        "assetArcId": "AMB:RAY000000273",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ray_usdt",
+        "instrumentType": "spot"
+    }
+]

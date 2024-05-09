@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SNO000000001_AMB:USD000000335",
+        "normalizedPair": "snow_usdt",
+        "normalizedSymbol": "snow",
+        "nativePair": "SNOW_USDT",
+        "exchange": "poloniex",
+        "assetName": "SNOW",
+        "assetArcId": "AMB:SNO000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "snow_usdt",
+        "instrumentType": "spot"
+    }
+]

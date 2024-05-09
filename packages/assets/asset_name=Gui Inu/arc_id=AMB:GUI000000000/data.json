@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "gui",
+    "assetName": "Gui Inu",
+    "assetArcId": "AMB:GUI000000000",
+    "website": "https://www.guiinu.com/",
+    "whitePaperUrl": "https://guiinu.medium.com/gui-the-story-mission-future-d8a6bcb9c32d",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gui Inu/arc_id=AMB:GUI000000000/exchange=mexc/data.json"
+        ]
+    }
+}

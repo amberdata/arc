@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "hook",
+    "assetName": "Hooked Protocol",
+    "assetArcId": "AMB:HOO000000162",
+    "website": "https://hooked.io/",
+    "whitePaperUrl": "https://hooked-protocol.gitbook.io/hooked-protocol-whitepaper",
+    "classificationTags": [
+        "Gaming",
+        "Governance",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hooked Protocol/arc_id=AMB:HOO000000162/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hooked Protocol/arc_id=AMB:HOO000000162/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hooked Protocol/arc_id=AMB:HOO000000162/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hooked Protocol/arc_id=AMB:HOO000000162/exchange=bybit/data.json"
+        ]
+    }
+}

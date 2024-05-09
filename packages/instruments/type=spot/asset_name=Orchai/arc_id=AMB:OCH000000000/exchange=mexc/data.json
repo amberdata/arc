@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:OCH000000000_AMB:USD000000335",
+        "normalizedPair": "ocher_usdt",
+        "normalizedSymbol": "ocher",
+        "nativePair": "OCHERUSDT",
+        "exchange": "mexc",
+        "assetName": "Ocher",
+        "assetArcId": "AMB:OCH000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ocher_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OCH000000000_AMB:USD000000335",
+        "normalizedPair": "och_usdt",
+        "normalizedSymbol": "och",
+        "nativePair": "OCHUSDT",
+        "exchange": "mexc",
+        "assetName": "Orchai",
+        "assetArcId": "AMB:OCH000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "och_usdt",
+        "instrumentType": "spot"
+    }
+]

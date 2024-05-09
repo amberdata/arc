@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BTM000002495_AMB:USD000000949",
+        "normalizedPair": "btmxhedge_usd",
+        "normalizedSymbol": "btmxhedge",
+        "nativePair": "BTMXHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short BitMax Token",
+        "assetArcId": "AMB:BTM000002495",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "btmxhedge_usd",
+        "instrumentType": "spot"
+    }
+]

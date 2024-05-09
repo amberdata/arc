@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XTZ000000364_AMB:USD000000335",
+        "normalizedPair": "xtz_usdt",
+        "normalizedSymbol": "xtz",
+        "nativePair": "XTZUSDT",
+        "exchange": "binanceus",
+        "assetName": "Tezos",
+        "assetArcId": "AMB:XTZ000000364",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xtz_usdt",
+        "instrumentType": "spot"
+    }
+]

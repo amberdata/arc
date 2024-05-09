@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WGT000002859_AMB:USD000000335",
+        "normalizedPair": "wgt_usdt",
+        "normalizedSymbol": "wgt",
+        "nativePair": "WGTUSDT",
+        "exchange": "mexc",
+        "assetName": "Web3Games.com Token",
+        "assetArcId": "AMB:WGT000002859",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wgt_usdt",
+        "instrumentType": "spot"
+    }
+]

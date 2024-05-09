@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZER000002815_AMB:USD000000335",
+        "normalizedPair": "zero_usdt",
+        "normalizedSymbol": "zero",
+        "nativePair": "ZERO_USDT",
+        "exchange": "poloniex",
+        "assetName": "ZeroSwapNFT",
+        "assetArcId": "AMB:ZER000002815",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zero_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BOG000000000_AMB:USD000000335",
+        "normalizedPair": "boge_usdt",
+        "normalizedSymbol": "boge",
+        "nativePair": "BOGEUSDT",
+        "exchange": "mexc",
+        "assetName": "BOGE",
+        "assetArcId": "AMB:BOG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "boge_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BOG000000000_AMB:USD000000335",
+        "normalizedPair": "bog_usdt",
+        "normalizedSymbol": "bog",
+        "nativePair": "BOGUSDT",
+        "exchange": "mexc",
+        "assetName": "Bella doge",
+        "assetArcId": "AMB:BOG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bog_usdt",
+        "instrumentType": "spot"
+    }
+]

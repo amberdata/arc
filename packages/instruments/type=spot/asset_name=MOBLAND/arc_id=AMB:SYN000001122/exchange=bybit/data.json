@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SYN000001122_AMB:USD000000335",
+        "normalizedPair": "synr_usdt",
+        "normalizedSymbol": "synr",
+        "nativePair": "SYNRUSDT",
+        "exchange": "bybit",
+        "assetName": "MOBLAND",
+        "assetArcId": "AMB:SYN000001122",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "synr_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SUN000000309_AMB:USD000000335",
+        "normalizedPair": "sun_usdt",
+        "normalizedSymbol": "sun",
+        "nativePair": "SUNUSDT",
+        "exchange": "bybit",
+        "assetName": "Rising Sun",
+        "assetArcId": "AMB:SUN000000309",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sun_usdt",
+        "instrumentType": "spot"
+    }
+]

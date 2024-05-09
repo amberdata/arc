@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "neuro",
+    "assetName": "NeuroWeb AI",
+    "assetArcId": "AMB:NEU000000000",
+    "website": "https://neuroweb.ai/",
+    "whitePaperUrl": "https://docs.neuroweb.ai/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NeuroWeb AI/arc_id=AMB:NEU000000000/exchange=mexc/data.json"
+        ]
+    }
+}

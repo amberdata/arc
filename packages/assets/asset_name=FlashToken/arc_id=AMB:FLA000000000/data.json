@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "flash",
+    "assetName": "FlashToken",
+    "assetArcId": "AMB:FLA000000000",
+    "website": "https://flashprotocol.xyz/",
+    "whitePaperUrl": "https://flashprotocol.gitbook.io/flash-protocol-lite-paper/",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=FlashToken/arc_id=AMB:FLA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

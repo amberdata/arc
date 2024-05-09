@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BIB000001198_AMB:USD000000335",
+        "normalizedPair": "bibi_usdt",
+        "normalizedSymbol": "bibi",
+        "nativePair": "BIBIUSDT",
+        "exchange": "mexc",
+        "assetName": "BIBI",
+        "assetArcId": "AMB:BIB000001198",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bibi_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ASD000002457_AMB:USD000000949",
+        "normalizedPair": "asdbear_usd",
+        "normalizedSymbol": "asdbear",
+        "nativePair": "ASDBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "ASDBEAR",
+        "assetArcId": "AMB:ASD000002457",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "asdbear_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ASD000002457_AMB:USD000000335",
+        "normalizedPair": "asdbear_usdt",
+        "normalizedSymbol": "asdbear",
+        "nativePair": "ASDBEAR/USDT",
+        "exchange": "ftx",
+        "assetName": "ASDBEAR",
+        "assetArcId": "AMB:ASD000002457",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "asdbear_usdt",
+        "instrumentType": "spot"
+    }
+]

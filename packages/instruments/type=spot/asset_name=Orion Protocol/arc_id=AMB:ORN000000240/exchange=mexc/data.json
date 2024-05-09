@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ORN000000240_AMB:USD000000335",
+        "normalizedPair": "orn_usdt",
+        "normalizedSymbol": "orn",
+        "nativePair": "ORNUSDT",
+        "exchange": "mexc",
+        "assetName": "Orion Protocol",
+        "assetArcId": "AMB:ORN000000240",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "orn_usdt",
+        "instrumentType": "spot"
+    }
+]

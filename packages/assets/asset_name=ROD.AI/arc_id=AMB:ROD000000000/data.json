@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "rodai",
+    "assetName": "ROD.AI",
+    "assetArcId": "AMB:ROD000000000",
+    "website": "https://www.rodai.meme",
+    "whitePaperUrl": "https://www.rodai.meme/whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ROD.AI/arc_id=AMB:ROD000000000/exchange=mexc/data.json"
+        ]
+    }
+}

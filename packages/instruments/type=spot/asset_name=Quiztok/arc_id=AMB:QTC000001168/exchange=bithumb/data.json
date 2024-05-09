@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:QTC000001168_AMB:KRW000000000",
+        "normalizedPair": "qtcon_krw",
+        "normalizedSymbol": "qtcon",
+        "nativePair": "QTCON/KRW",
+        "exchange": "bithumb",
+        "assetName": "Quiztok",
+        "assetArcId": "AMB:QTC000001168",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "qtcon_krw",
+        "instrumentType": "spot"
+    }
+]

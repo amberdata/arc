@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ORN000000000_AMB:USD000000335",
+        "normalizedPair": "ornj_usdt",
+        "normalizedSymbol": "ornj",
+        "nativePair": "ORNJUSDT",
+        "exchange": "mexc",
+        "assetName": "Orange",
+        "assetArcId": "AMB:ORN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ornj_usdt",
+        "instrumentType": "spot"
+    }
+]

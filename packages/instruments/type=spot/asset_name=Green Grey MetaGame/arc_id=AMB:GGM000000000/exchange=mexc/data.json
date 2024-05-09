@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GGM000000000_AMB:USD000000335",
+        "normalizedPair": "ggmt_usdt",
+        "normalizedSymbol": "ggmt",
+        "nativePair": "GGMTUSDT",
+        "exchange": "mexc",
+        "assetName": "Green Grey MetaGame",
+        "assetArcId": "AMB:GGM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ggmt_usdt",
+        "instrumentType": "spot"
+    }
+]

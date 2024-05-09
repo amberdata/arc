@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:BUL000000000_AMB:USD000000335",
+        "normalizedPair": "bullshi_usdt",
+        "normalizedSymbol": "bullshi",
+        "nativePair": "BULLSHIUSDT",
+        "exchange": "mexc",
+        "assetName": "BULLSHI",
+        "assetArcId": "AMB:BUL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bullshi_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BUL000000000_AMB:USD000000335",
+        "normalizedPair": "bullrun_usdt",
+        "normalizedSymbol": "bullrun",
+        "nativePair": "BULLRUNUSDT",
+        "exchange": "mexc",
+        "assetName": "BULLRUN",
+        "assetArcId": "AMB:BUL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bullrun_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BUL000000000_AMB:USD000000335",
+        "normalizedPair": "bullish_usdt",
+        "normalizedSymbol": "bullish",
+        "nativePair": "BULLISHUSDT",
+        "exchange": "mexc",
+        "assetName": "Bullish",
+        "assetArcId": "AMB:BUL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bullish_usdt",
+        "instrumentType": "spot"
+    }
+]

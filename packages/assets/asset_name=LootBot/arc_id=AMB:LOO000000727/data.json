@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "loot",
+    "assetName": "LootBot",
+    "assetArcId": "AMB:LOO000000727",
+    "website": "https://lootbot.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xb478c6245e3d85d6ec3486b62ea872128d562541"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

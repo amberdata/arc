@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OCI000001272_AMB:USD000000335",
+        "normalizedPair": "ocisly_usdt",
+        "normalizedSymbol": "ocisly",
+        "nativePair": "OCISLY_USDT",
+        "exchange": "poloniex",
+        "assetName": "Of Course I Still Love You",
+        "assetArcId": "AMB:OCI000001272",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ocisly_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "seeu",
+    "assetName": "Seeu",
+    "assetArcId": "AMB:SEE000002718",
+    "website": "https://seeu.meme/mint",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "BRC",
+            "address": "6e10a5a53028bc945539a5f9a9f18f08141b05ccb6f721bd63386f056b9a5a8fi0"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

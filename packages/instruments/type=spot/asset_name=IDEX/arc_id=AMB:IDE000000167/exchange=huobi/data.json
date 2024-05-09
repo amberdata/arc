@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IDE000000167_AMB:USD000000335",
+        "normalizedPair": "idex_usdt",
+        "normalizedSymbol": "idex",
+        "nativePair": "idexusdt",
+        "exchange": "huobi",
+        "assetName": "IDEX",
+        "assetArcId": "AMB:IDE000000167",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "idex_usdt",
+        "instrumentType": "spot"
+    }
+]

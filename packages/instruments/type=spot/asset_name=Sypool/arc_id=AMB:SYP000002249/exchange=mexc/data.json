@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SYP000002249_AMB:USD000000335",
+        "normalizedPair": "syp_usdt",
+        "normalizedSymbol": "syp",
+        "nativePair": "SYPUSDT",
+        "exchange": "mexc",
+        "assetName": "Sypool",
+        "assetArcId": "AMB:SYP000002249",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "syp_usdt",
+        "instrumentType": "spot"
+    }
+]

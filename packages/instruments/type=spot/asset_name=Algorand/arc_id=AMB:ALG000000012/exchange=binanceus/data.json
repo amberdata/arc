@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:USD000000335",
+        "normalizedPair": "algo_usdt",
+        "normalizedSymbol": "algo",
+        "nativePair": "ALGOUSDT",
+        "exchange": "binanceus",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "algo_usdt",
+        "instrumentType": "spot"
+    }
+]

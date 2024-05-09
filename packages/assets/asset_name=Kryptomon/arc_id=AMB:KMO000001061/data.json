@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "kmon",
+    "assetName": "Kryptomon",
+    "assetArcId": "AMB:KMO000001061",
+    "website": "https://www.kryptomon.co/",
+    "whitePaperUrl": "https://www.kryptomon.co/white-paper",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kryptomon/arc_id=AMB:KMO000001061/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kryptomon/arc_id=AMB:KMO000001061/exchange=bybit/data.json"
+        ]
+    }
+}

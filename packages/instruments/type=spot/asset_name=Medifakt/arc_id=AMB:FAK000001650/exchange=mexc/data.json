@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FAK000001650_AMB:USD000000335",
+        "normalizedPair": "fakt_usdt",
+        "normalizedSymbol": "fakt",
+        "nativePair": "FAKTUSDT",
+        "exchange": "mexc",
+        "assetName": "Medifakt",
+        "assetArcId": "AMB:FAK000001650",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fakt_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BTC000001005_AMB:USD000000335",
+        "normalizedPair": "btc3l_usdt",
+        "normalizedSymbol": "btc3l",
+        "nativePair": "BTC3LUSDT",
+        "exchange": "bybit",
+        "assetName": "Long BTC (3x Leverage)",
+        "assetArcId": "AMB:BTC000001005",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "btc3l_usdt",
+        "instrumentType": "spot"
+    }
+]

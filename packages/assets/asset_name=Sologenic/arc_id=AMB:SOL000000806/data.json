@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "solo",
+    "assetName": "Sologenic",
+    "assetArcId": "AMB:SOL000000806",
+    "website": "https://www.sologenic.com/",
+    "whitePaperUrl": "/how-to-buy/SOLO?utm_source=mexc&utm_medium=tokenifoSOLO&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sologenic/arc_id=AMB:SOL000000806/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sologenic/arc_id=AMB:SOL000000806/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sologenic/arc_id=AMB:SOL000000806/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sologenic/arc_id=AMB:SOL000000806/exchange=mexc/data.json"
+        ]
+    }
+}

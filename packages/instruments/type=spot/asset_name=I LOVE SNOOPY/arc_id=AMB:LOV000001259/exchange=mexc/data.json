@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LOV000001259_AMB:USD000000335",
+        "normalizedPair": "lovesnoopy_usdt",
+        "normalizedSymbol": "lovesnoopy",
+        "nativePair": "LOVESNOOPYUSDT",
+        "exchange": "mexc",
+        "assetName": "I LOVE SNOOPY",
+        "assetArcId": "AMB:LOV000001259",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lovesnoopy_usdt",
+        "instrumentType": "spot"
+    }
+]

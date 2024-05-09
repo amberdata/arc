@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CAG000002875_AMB:USD000000335",
+        "normalizedPair": "caga_usdt",
+        "normalizedSymbol": "caga",
+        "nativePair": "CAGAUSDT",
+        "exchange": "mexc",
+        "assetName": "Crypto Asset Governance Alliance",
+        "assetArcId": "AMB:CAG000002875",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "caga_usdt",
+        "instrumentType": "spot"
+    }
+]

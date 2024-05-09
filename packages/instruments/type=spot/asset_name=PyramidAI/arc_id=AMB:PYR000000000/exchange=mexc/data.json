@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PYR000000000_AMB:USD000000335",
+        "normalizedPair": "pyramidai_usdt",
+        "normalizedSymbol": "pyramidai",
+        "nativePair": "PYRAMIDAIUSDT",
+        "exchange": "mexc",
+        "assetName": "PyramidAI",
+        "assetArcId": "AMB:PYR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pyramidai_usdt",
+        "instrumentType": "spot"
+    }
+]

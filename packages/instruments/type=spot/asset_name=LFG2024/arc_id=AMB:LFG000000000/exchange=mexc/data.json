@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LFG000000000_AMB:USD000000335",
+        "normalizedPair": "lfg2024_usdt",
+        "normalizedSymbol": "lfg2024",
+        "nativePair": "LFG2024USDT",
+        "exchange": "mexc",
+        "assetName": "LFG2024",
+        "assetArcId": "AMB:LFG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lfg2024_usdt",
+        "instrumentType": "spot"
+    }
+]

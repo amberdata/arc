@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RON000003501_AMB:USD000000335",
+        "normalizedPair": "ronald_usdt",
+        "normalizedSymbol": "ronald",
+        "nativePair": "RONALDUSDT",
+        "exchange": "mexc",
+        "assetName": "Ronald McDonald",
+        "assetArcId": "AMB:RON000003501",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ronald_usdt",
+        "instrumentType": "spot"
+    }
+]

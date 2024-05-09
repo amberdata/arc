@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAN000001890_AMB:USD000000335",
+        "normalizedPair": "manc_usdt",
+        "normalizedSymbol": "manc",
+        "nativePair": "MANCUSDT",
+        "exchange": "mexc",
+        "assetName": "Mancium",
+        "assetArcId": "AMB:MAN000001890",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "manc_usdt",
+        "instrumentType": "spot"
+    }
+]

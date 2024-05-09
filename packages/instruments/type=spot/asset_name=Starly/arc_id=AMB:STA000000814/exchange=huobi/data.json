@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STA000000814_AMB:USD000000335",
+        "normalizedPair": "starly_usdt",
+        "normalizedSymbol": "starly",
+        "nativePair": "starlyusdt",
+        "exchange": "huobi",
+        "assetName": "Starly",
+        "assetArcId": "AMB:STA000000814",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "starly_usdt",
+        "instrumentType": "spot"
+    }
+]

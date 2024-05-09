@@ -1,0 +1,29 @@
+{
+    "assetSymbol": "dia",
+    "assetName": "DIA",
+    "assetArcId": "AMB:DIA000000101",
+    "website": "https://www.diadata.org/",
+    "whitePaperUrl": "https://token.diadata.org/",
+    "classificationTags": [
+        "Governance",
+        "Oracles",
+        "Smart Contract"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DIA/arc_id=AMB:DIA000000101/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DIA/arc_id=AMB:DIA000000101/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DIA/arc_id=AMB:DIA000000101/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DIA/arc_id=AMB:DIA000000101/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DIA/arc_id=AMB:DIA000000101/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DIA/arc_id=AMB:DIA000000101/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DIA/arc_id=AMB:DIA000000101/exchange=binanceus/data.json"
+        ]
+    }
+}

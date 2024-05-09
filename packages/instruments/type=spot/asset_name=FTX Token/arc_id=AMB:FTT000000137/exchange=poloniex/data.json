@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FTT000000137_AMB:USD000000335",
+        "normalizedPair": "ftt_usdt",
+        "normalizedSymbol": "ftt",
+        "nativePair": "FTT_USDT",
+        "exchange": "poloniex",
+        "assetName": "FTX Token",
+        "assetArcId": "AMB:FTT000000137",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ftt_usdt",
+        "instrumentType": "spot"
+    }
+]

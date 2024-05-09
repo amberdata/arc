@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FIB000001659_AMB:USD000000335",
+        "normalizedPair": "fibo_usdt",
+        "normalizedSymbol": "fibo",
+        "nativePair": "FIBOUSDT",
+        "exchange": "mexc",
+        "assetName": "FibSWAP DEx",
+        "assetArcId": "AMB:FIB000001659",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fibo_usdt",
+        "instrumentType": "spot"
+    }
+]

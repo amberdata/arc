@@ -1,0 +1,29 @@
+{
+    "assetSymbol": "ghst",
+    "assetName": "Aavegotchi",
+    "assetArcId": "AMB:GHS000000146",
+    "website": "https://www.aavegotchi.com/",
+    "whitePaperUrl": "https://docs.google.com/document/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/edit#",
+    "classificationTags": [
+        "Gaming",
+        "Governance",
+        "Lending"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aavegotchi/arc_id=AMB:GHS000000146/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aavegotchi/arc_id=AMB:GHS000000146/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aavegotchi/arc_id=AMB:GHS000000146/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aavegotchi/arc_id=AMB:GHS000000146/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aavegotchi/arc_id=AMB:GHS000000146/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aavegotchi/arc_id=AMB:GHS000000146/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aavegotchi/arc_id=AMB:GHS000000146/exchange=mexc/data.json"
+        ]
+    }
+}

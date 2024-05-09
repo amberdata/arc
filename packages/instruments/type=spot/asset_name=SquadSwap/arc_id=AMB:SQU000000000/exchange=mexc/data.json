@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SQU000000000_AMB:USD000000335",
+        "normalizedPair": "squad_usdt",
+        "normalizedSymbol": "squad",
+        "nativePair": "SQUADUSDT",
+        "exchange": "mexc",
+        "assetName": "SquadSwap",
+        "assetArcId": "AMB:SQU000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "squad_usdt",
+        "instrumentType": "spot"
+    }
+]

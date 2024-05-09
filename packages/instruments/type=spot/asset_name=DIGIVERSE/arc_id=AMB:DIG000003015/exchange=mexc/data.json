@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DIG000003015_AMB:USD000000335",
+        "normalizedPair": "digi_usdt",
+        "normalizedSymbol": "digi",
+        "nativePair": "DIGIUSDT",
+        "exchange": "mexc",
+        "assetName": "DIGIVERSE",
+        "assetArcId": "AMB:DIG000003015",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "digi_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,31 @@
+{
+    "assetSymbol": "flow",
+    "assetName": "Flow",
+    "assetArcId": "AMB:FLO000000131",
+    "website": "https://flow.com/",
+    "whitePaperUrl": "https://www.onflow.org/",
+    "classificationTags": [
+        "Metaverse",
+        "Smart Contract"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Flow",
+            "address": ""
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Flow/arc_id=AMB:FLO000000131/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Flow/arc_id=AMB:FLO000000131/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Flow/arc_id=AMB:FLO000000131/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Flow/arc_id=AMB:FLO000000131/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Flow/arc_id=AMB:FLO000000131/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Flow/arc_id=AMB:FLO000000131/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Flow/arc_id=AMB:FLO000000131/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Flow/arc_id=AMB:FLO000000131/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Flow/arc_id=AMB:FLO000000131/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Flow/arc_id=AMB:FLO000000131/exchange=mexc/data.json"
+        ]
+    }
+}

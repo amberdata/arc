@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "msol",
+    "assetName": "Marinade staked SOL",
+    "assetArcId": "AMB:MSO000000426",
+    "website": "https://marinade.finance/",
+    "whitePaperUrl": "https://docs.marinade.finance/",
+    "classificationTags": [
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "msolzycxhdygdzu16g5qsh3i5k3z3kzk7ytfqcjm7so"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

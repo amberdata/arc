@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GMR000000000_AMB:USD000000335",
+        "normalizedPair": "gmr_usdt",
+        "normalizedSymbol": "gmr",
+        "nativePair": "GMRUSDT",
+        "exchange": "mexc",
+        "assetName": "GAMER",
+        "assetArcId": "AMB:GMR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gmr_usdt",
+        "instrumentType": "spot"
+    }
+]

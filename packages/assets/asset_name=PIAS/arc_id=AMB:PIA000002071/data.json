@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "pias",
+    "assetName": "PIAS",
+    "assetArcId": "AMB:PIA000002071",
+    "website": "https://www.pias.io/",
+    "whitePaperUrl": "https://wp.pias.io/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PIAS/arc_id=AMB:PIA000002071/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PPR000002093_AMB:USD000000335",
+        "normalizedPair": "pprni_usdt",
+        "normalizedSymbol": "pprni",
+        "nativePair": "PPRNIUSDT",
+        "exchange": "mexc",
+        "assetName": "Peperonni",
+        "assetArcId": "AMB:PPR000002093",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pprni_usdt",
+        "instrumentType": "spot"
+    }
+]

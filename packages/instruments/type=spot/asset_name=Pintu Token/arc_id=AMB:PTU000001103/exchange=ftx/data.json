@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PTU000001103_AMB:USD000000949",
+        "normalizedPair": "ptu_usd",
+        "normalizedSymbol": "ptu",
+        "nativePair": "PTU/USD",
+        "exchange": "ftx",
+        "assetName": "Pintu Token",
+        "assetArcId": "AMB:PTU000001103",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ptu_usd",
+        "instrumentType": "spot"
+    }
+]

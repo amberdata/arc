@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AMC000000952_AMB:USD000000949",
+        "normalizedPair": "amc_usd",
+        "normalizedSymbol": "amc",
+        "nativePair": "AMC/USD",
+        "exchange": "ftx",
+        "assetName": "AI Meta Club",
+        "assetArcId": "AMB:AMC000000952",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "amc_usd",
+        "instrumentType": "spot"
+    }
+]

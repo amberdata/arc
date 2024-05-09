@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "aiet",
+    "assetName": "AI Exclusive",
+    "assetArcId": "AMB:AIE000000000",
+    "website": "https://www.aiecoin.com/",
+    "whitePaperUrl": "/how-to-buy/AIET?utm_source=mexc&utm_medium=tokenifoAIET&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AI Exclusive/arc_id=AMB:AIE000000000/exchange=mexc/data.json"
+        ]
+    }
+}

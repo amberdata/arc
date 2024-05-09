@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BID000003220_AMB:USD000000335",
+        "normalizedPair": "bid_usdt",
+        "normalizedSymbol": "bid",
+        "nativePair": "BIDUSDT",
+        "exchange": "mexc",
+        "assetName": "Bidao",
+        "assetArcId": "AMB:BID000003220",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bid_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GRE000000000_AMB:USD000000335",
+        "normalizedPair": "greenbtc_usdt",
+        "normalizedSymbol": "greenbtc",
+        "nativePair": "GREENBTCUSDT",
+        "exchange": "mexc",
+        "assetName": "Green Bitcoin",
+        "assetArcId": "AMB:GRE000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "greenbtc_usdt",
+        "instrumentType": "spot"
+    }
+]

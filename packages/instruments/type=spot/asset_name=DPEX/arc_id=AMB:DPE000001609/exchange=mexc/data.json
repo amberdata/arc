@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DPE000001609_AMB:USD000000335",
+        "normalizedPair": "dpex_usdt",
+        "normalizedSymbol": "dpex",
+        "nativePair": "DPEXUSDT",
+        "exchange": "mexc",
+        "assetName": "DPEX",
+        "assetArcId": "AMB:DPE000001609",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dpex_usdt",
+        "instrumentType": "spot"
+    }
+]

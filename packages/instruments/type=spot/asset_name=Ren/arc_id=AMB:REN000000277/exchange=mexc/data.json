@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:REN000000277_AMB:ETH000000000",
+        "normalizedPair": "ren_eth",
+        "normalizedSymbol": "ren",
+        "nativePair": "RENETH",
+        "exchange": "mexc",
+        "assetName": "Ren",
+        "assetArcId": "AMB:REN000000277",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "ren_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:REN000000277_AMB:USD000000335",
+        "normalizedPair": "ren_usdt",
+        "normalizedSymbol": "ren",
+        "nativePair": "RENUSDT",
+        "exchange": "mexc",
+        "assetName": "Ren",
+        "assetArcId": "AMB:REN000000277",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ren_usdt",
+        "instrumentType": "spot"
+    }
+]

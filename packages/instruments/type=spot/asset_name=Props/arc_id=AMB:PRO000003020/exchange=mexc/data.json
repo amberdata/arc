@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PRO000003020_AMB:USD000000335",
+        "normalizedPair": "props_usdt",
+        "normalizedSymbol": "props",
+        "nativePair": "PROPSUSDT",
+        "exchange": "mexc",
+        "assetName": "Props",
+        "assetArcId": "AMB:PRO000003020",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "props_usdt",
+        "instrumentType": "spot"
+    }
+]

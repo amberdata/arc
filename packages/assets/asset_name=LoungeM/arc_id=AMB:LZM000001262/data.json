@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "lzm",
+    "assetName": "LoungeM",
+    "assetArcId": "AMB:LZM000001262",
+    "website": "https://www.milkalliance.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Luniverse Chain",
+            "address": "0xcF0004De464c0069313a266CEE75D84c2511CcDF"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=LoungeM/arc_id=AMB:LZM000001262/exchange=poloniex/data.json"
+        ]
+    }
+}

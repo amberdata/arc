@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "long1",
+    "assetName": "Long",
+    "assetArcId": "AMB:LON000002946",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "BRC",
+            "address": "65c664745b470bd8b04bdf01ab73ad2a6302a8fcfa2b7b47c5175f88c0c03effi0"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

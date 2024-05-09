@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CVN000001572_AMB:USD000000335",
+        "normalizedPair": "cvnt_usdt",
+        "normalizedSymbol": "cvnt",
+        "nativePair": "CVNTUSDT",
+        "exchange": "mexc",
+        "assetName": "Conscious Value Network",
+        "assetArcId": "AMB:CVN000001572",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cvnt_usdt",
+        "instrumentType": "spot"
+    }
+]

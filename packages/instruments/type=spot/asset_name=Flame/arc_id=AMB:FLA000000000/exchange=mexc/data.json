@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:FLA000000000_AMB:USD000000335",
+        "normalizedPair": "flame_usdt",
+        "normalizedSymbol": "flame",
+        "nativePair": "FLAMEUSDT",
+        "exchange": "mexc",
+        "assetName": "Flame",
+        "assetArcId": "AMB:FLA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "flame_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FLA000000000_AMB:USD000000335",
+        "normalizedPair": "flash_usdt",
+        "normalizedSymbol": "flash",
+        "nativePair": "FLASHUSDT",
+        "exchange": "mexc",
+        "assetName": "FlashToken",
+        "assetArcId": "AMB:FLA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "flash_usdt",
+        "instrumentType": "spot"
+    }
+]

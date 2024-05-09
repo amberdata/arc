@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAI000000001_AMB:USD000000335",
+        "normalizedPair": "rail_usdt",
+        "normalizedSymbol": "rail",
+        "nativePair": "RAIL_USDT",
+        "exchange": "poloniex",
+        "assetName": "Railgun",
+        "assetArcId": "AMB:RAI000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rail_usdt",
+        "instrumentType": "spot"
+    }
+]

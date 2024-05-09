@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "banana",
+    "assetName": "Banana",
+    "assetArcId": "AMB:BAN000001191",
+    "website": "https://banana.blockapescissors.com/",
+    "whitePaperUrl": "/how-to-buy/BANANA?utm_source=mexc&utm_medium=tokenifoBANANA&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Banana/arc_id=AMB:BAN000001191/exchange=mexc/data.json"
+        ]
+    }
+}

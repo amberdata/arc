@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GLX000002555_AMB:USD000000949",
+        "normalizedPair": "glxy_usd",
+        "normalizedSymbol": "glxy",
+        "nativePair": "GLXY/USD",
+        "exchange": "ftx",
+        "assetName": "Galaxy",
+        "assetArcId": "AMB:GLX000002555",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "glxy_usd",
+        "instrumentType": "spot"
+    }
+]

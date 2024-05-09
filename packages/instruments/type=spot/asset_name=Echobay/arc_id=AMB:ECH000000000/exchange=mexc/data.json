@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ECH000000000_AMB:USD000000335",
+        "normalizedPair": "ech_usdt",
+        "normalizedSymbol": "ech",
+        "nativePair": "ECHUSDT",
+        "exchange": "mexc",
+        "assetName": "Echobay",
+        "assetArcId": "AMB:ECH000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ech_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GMB000002807_AMB:USD000000335",
+        "normalizedPair": "gmbrc_usdt",
+        "normalizedSymbol": "gmbrc",
+        "nativePair": "GMBRCUSDT",
+        "exchange": "mexc",
+        "assetName": "GM",
+        "assetArcId": "AMB:GMB000002807",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gmbrc_usdt",
+        "instrumentType": "spot"
+    }
+]

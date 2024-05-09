@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "bypass",
+    "assetName": "Bypass",
+    "assetArcId": "AMB:BYP000000000",
+    "website": "https://bypass.exchange/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x38cF6Cea814aefD01027A0bBF8a78B7Aa95A698E"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bypass/arc_id=AMB:BYP000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

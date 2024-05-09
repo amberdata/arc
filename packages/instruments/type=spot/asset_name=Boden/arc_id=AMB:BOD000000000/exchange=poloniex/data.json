@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BOD000000000_AMB:USD000000335",
+        "normalizedPair": "boden_usdt",
+        "normalizedSymbol": "boden",
+        "nativePair": "BODEN_USDT",
+        "exchange": "poloniex",
+        "assetName": "Boden",
+        "assetArcId": "AMB:BOD000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "boden_usdt",
+        "instrumentType": "spot"
+    }
+]

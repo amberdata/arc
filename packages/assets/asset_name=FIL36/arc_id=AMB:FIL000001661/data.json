@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "fil36",
+    "assetName": "FIL36",
+    "assetArcId": "AMB:FIL000001661",
+    "website": "https://filecoin.io/zh-cn/",
+    "whitePaperUrl": "https://filecoin.io/filecoin.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=FIL36/arc_id=AMB:FIL000001661/exchange=mexc/data.json"
+        ]
+    }
+}

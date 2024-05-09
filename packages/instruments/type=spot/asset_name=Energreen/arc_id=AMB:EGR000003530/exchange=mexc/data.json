@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EGR000003530_AMB:USD000000335",
+        "normalizedPair": "egrn_usdt",
+        "normalizedSymbol": "egrn",
+        "nativePair": "EGRNUSDT",
+        "exchange": "mexc",
+        "assetName": "Energreen",
+        "assetArcId": "AMB:EGR000003530",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "egrn_usdt",
+        "instrumentType": "spot"
+    }
+]

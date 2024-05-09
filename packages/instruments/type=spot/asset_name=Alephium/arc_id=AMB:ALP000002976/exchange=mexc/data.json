@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALP000002976_AMB:USD000000335",
+        "normalizedPair": "alph_usdt",
+        "normalizedSymbol": "alph",
+        "nativePair": "ALPHUSDT",
+        "exchange": "mexc",
+        "assetName": "Alephium",
+        "assetArcId": "AMB:ALP000002976",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "alph_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NEI000003259_AMB:USD000000335",
+        "normalizedPair": "nei_usdt",
+        "normalizedSymbol": "nei",
+        "nativePair": "NEIUSDT",
+        "exchange": "mexc",
+        "assetName": "Neurashi",
+        "assetArcId": "AMB:NEI000003259",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nei_usdt",
+        "instrumentType": "spot"
+    }
+]

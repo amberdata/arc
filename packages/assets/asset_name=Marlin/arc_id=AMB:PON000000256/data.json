@@ -1,0 +1,26 @@
+{
+    "assetSymbol": "pond",
+    "assetName": "Marlin",
+    "assetArcId": "AMB:PON000000256",
+    "website": "https://www.marlin.org/",
+    "whitePaperUrl": "https://www.marlin.org/whitepaper",
+    "classificationTags": [
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x57b946008913b82e4df85f501cbaed910e58d26c"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Marlin/arc_id=AMB:PON000000256/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Marlin/arc_id=AMB:PON000000256/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Marlin/arc_id=AMB:PON000000256/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Marlin/arc_id=AMB:PON000000256/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Marlin/arc_id=AMB:PON000000256/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Marlin/arc_id=AMB:PON000000256/exchange=mexc/data.json"
+        ]
+    }
+}

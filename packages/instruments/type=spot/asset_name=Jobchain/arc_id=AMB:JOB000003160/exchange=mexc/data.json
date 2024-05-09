@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JOB000003160_AMB:USD000000335",
+        "normalizedPair": "job_usdt",
+        "normalizedSymbol": "job",
+        "nativePair": "JOBUSDT",
+        "exchange": "mexc",
+        "assetName": "Jobchain",
+        "assetArcId": "AMB:JOB000003160",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "job_usdt",
+        "instrumentType": "spot"
+    }
+]

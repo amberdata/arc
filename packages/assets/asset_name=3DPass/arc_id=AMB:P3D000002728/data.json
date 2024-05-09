@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "p3d",
+    "assetName": "3DPass",
+    "assetArcId": "AMB:P3D000002728",
+    "website": "https://3dpass.org/",
+    "whitePaperUrl": "https://3dpass.org/3DPass_white_paper.pdf",
+    "classificationTags": [
+        "Governance",
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=3DPass/arc_id=AMB:P3D000002728/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:ADA000000005_AMB:BTC000000000",
+        "normalizedPair": "ada_btc",
+        "normalizedSymbol": "ada",
+        "nativePair": "ada_btc",
+        "exchange": "zb",
+        "assetName": "Cardano",
+        "assetArcId": "AMB:ADA000000005",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ada_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ADA000000005_AMB:QCA000000000",
+        "normalizedPair": "ada_qc",
+        "normalizedSymbol": "ada",
+        "nativePair": "ada_qc",
+        "exchange": "zb",
+        "assetName": "Cardano",
+        "assetArcId": "AMB:ADA000000005",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "ada_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ADA000000005_AMB:USD000000333",
+        "normalizedPair": "ada_usdc",
+        "normalizedSymbol": "ada",
+        "nativePair": "ada_usdc",
+        "exchange": "zb",
+        "assetName": "Cardano",
+        "assetArcId": "AMB:ADA000000005",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "ada_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ADA000000005_AMB:USD000000335",
+        "normalizedPair": "ada_usdt",
+        "normalizedSymbol": "ada",
+        "nativePair": "ada_usdt",
+        "exchange": "zb",
+        "assetName": "Cardano",
+        "assetArcId": "AMB:ADA000000005",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ada_usdt",
+        "instrumentType": "spot"
+    }
+]

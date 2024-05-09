@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "gme.amb.1",
+    "assetName": "GameStop Coin",
+    "assetArcId": "AMB:GME000000001",
+    "website": "https://wallstsucks.lol/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "8wXtPeU6557ETkp9WHFY1n1EcU6NxDvbAggHGsMYiHsB"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GameStop Coin/arc_id=AMB:GME000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

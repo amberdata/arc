@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOG000003283_AMB:USD000000335",
+        "normalizedPair": "dogsrock_usdt",
+        "normalizedSymbol": "dogsrock",
+        "nativePair": "DOGSROCKUSDT",
+        "exchange": "mexc",
+        "assetName": "Dogs Rock",
+        "assetArcId": "AMB:DOG000003283",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dogsrock_usdt",
+        "instrumentType": "spot"
+    }
+]

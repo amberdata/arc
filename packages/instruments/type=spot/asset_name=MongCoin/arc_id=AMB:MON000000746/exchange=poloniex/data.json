@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MON000000746_AMB:USD000000335",
+        "normalizedPair": "mong_usdt",
+        "normalizedSymbol": "mong",
+        "nativePair": "MONG_USDT",
+        "exchange": "poloniex",
+        "assetName": "MongCoin",
+        "assetArcId": "AMB:MON000000746",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mong_usdt",
+        "instrumentType": "spot"
+    }
+]

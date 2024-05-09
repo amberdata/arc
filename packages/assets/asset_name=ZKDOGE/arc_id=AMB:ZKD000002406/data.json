@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "zkdoge",
+    "assetName": "ZKDOGE",
+    "assetArcId": "AMB:ZKD000002406",
+    "website": "https://zkdoge.club/",
+    "whitePaperUrl": "https://zkdoge.club/zkdoge-whitepaper.pdf",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZKDOGE/arc_id=AMB:ZKD000002406/exchange=mexc/data.json"
+        ]
+    }
+}

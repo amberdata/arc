@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SDA000000796_AMB:USD000000335",
+        "normalizedPair": "sdao_usdt",
+        "normalizedSymbol": "sdao",
+        "nativePair": "sdaousdt",
+        "exchange": "huobi",
+        "assetName": "SDAO",
+        "assetArcId": "AMB:SDA000000796",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sdao_usdt",
+        "instrumentType": "spot"
+    }
+]

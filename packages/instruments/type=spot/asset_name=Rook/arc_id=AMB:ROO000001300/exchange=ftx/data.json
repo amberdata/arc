@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ROO000001300_AMB:USD000000949",
+        "normalizedPair": "rook_usd",
+        "normalizedSymbol": "rook",
+        "nativePair": "ROOK/USD",
+        "exchange": "ftx",
+        "assetName": "Rook",
+        "assetArcId": "AMB:ROO000001300",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "rook_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ROO000001300_AMB:USD000000335",
+        "normalizedPair": "rook_usdt",
+        "normalizedSymbol": "rook",
+        "nativePair": "ROOK/USDT",
+        "exchange": "ftx",
+        "assetName": "Rook",
+        "assetArcId": "AMB:ROO000001300",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rook_usdt",
+        "instrumentType": "spot"
+    }
+]

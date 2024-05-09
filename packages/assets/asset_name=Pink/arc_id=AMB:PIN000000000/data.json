@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "pink",
+    "assetName": "Pink",
+    "assetArcId": "AMB:PIN000000000",
+    "website": "https://pink-elements.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "CfUysiZv5tYdtAKxNcK8VP5vz9uRBLNv6NQfKe2hMfbb"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pink/arc_id=AMB:PIN000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

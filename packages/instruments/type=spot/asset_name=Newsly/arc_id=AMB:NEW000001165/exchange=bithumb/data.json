@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NEW000001165_AMB:BTC000000000",
+        "normalizedPair": "news_btc",
+        "normalizedSymbol": "news",
+        "nativePair": "NEWS/BTC",
+        "exchange": "bithumb",
+        "assetName": "Newsly",
+        "assetArcId": "AMB:NEW000001165",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "news_btc",
+        "instrumentType": "spot"
+    }
+]

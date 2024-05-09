@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TIM000000448_AMB:USD000000949",
+        "normalizedPair": "time_usd",
+        "normalizedSymbol": "time",
+        "nativePair": "TIME-USD",
+        "exchange": "gdax",
+        "assetName": "Chrono.tech",
+        "assetArcId": "AMB:TIM000000448",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "time_usd",
+        "instrumentType": "spot"
+    }
+]

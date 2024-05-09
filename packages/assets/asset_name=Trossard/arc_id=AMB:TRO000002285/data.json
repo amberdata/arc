@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "tross",
+    "assetName": "Trossard",
+    "assetArcId": "AMB:TRO000002285",
+    "website": "https://trossard.io/",
+    "whitePaperUrl": "https://trossard.io/white_paper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Trossard/arc_id=AMB:TRO000002285/exchange=mexc/data.json"
+        ]
+    }
+}

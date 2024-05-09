@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BFT000001196_AMB:USD000000335",
+        "normalizedPair": "bft_usdt",
+        "normalizedSymbol": "bft",
+        "nativePair": "BFTUSDT",
+        "exchange": "mexc",
+        "assetName": "The Big Five Token",
+        "assetArcId": "AMB:BFT000001196",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bft_usdt",
+        "instrumentType": "spot"
+    }
+]

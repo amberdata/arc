@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CGC000002502_AMB:USD000000949",
+        "normalizedPair": "cgc_usd",
+        "normalizedSymbol": "cgc",
+        "nativePair": "CGC/USD",
+        "exchange": "ftx",
+        "assetName": "Canopy Growth Corp Tokenized Stock",
+        "assetArcId": "AMB:CGC000002502",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "cgc_usd",
+        "instrumentType": "spot"
+    }
+]

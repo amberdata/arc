@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "pndc",
+    "assetName": "Pond Coin",
+    "assetArcId": "AMB:PND000001285",
+    "website": "https://www.pond0x.com/",
+    "whitePaperUrl": "/how-to-buy/PNDC?utm_source=mexc&utm_medium=tokenifoPNDC&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pond Coin/arc_id=AMB:PND000001285/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pond Coin/arc_id=AMB:PND000001285/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XEC000000357_AMB:KRW000000000",
+        "normalizedPair": "xec_krw",
+        "normalizedSymbol": "xec",
+        "nativePair": "XEC/KRW",
+        "exchange": "bithumb",
+        "assetName": "eCash",
+        "assetArcId": "AMB:XEC000000357",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "xec_krw",
+        "instrumentType": "spot"
+    }
+]

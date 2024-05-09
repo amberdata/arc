@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "punkai",
+    "assetName": "PunkAI",
+    "assetArcId": "AMB:PUN000000000",
+    "website": "https://punkai.meme/",
+    "whitePaperUrl": "/how-to-buy/PUNKAI?utm_source=mexc&utm_medium=tokenifoPUNKAI&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PunkAI/arc_id=AMB:PUN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UNO000002310_AMB:USD000000335",
+        "normalizedPair": "uno_usdt",
+        "normalizedSymbol": "uno",
+        "nativePair": "UNOUSDT",
+        "exchange": "mexc",
+        "assetName": "Unobtanium",
+        "assetArcId": "AMB:UNO000002310",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "uno_usdt",
+        "instrumentType": "spot"
+    }
+]

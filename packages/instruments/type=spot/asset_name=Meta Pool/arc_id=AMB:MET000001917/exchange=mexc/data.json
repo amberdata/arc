@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MET000001917_AMB:USD000000335",
+        "normalizedPair": "metap_usdt",
+        "normalizedSymbol": "metap",
+        "nativePair": "METAPUSDT",
+        "exchange": "mexc",
+        "assetName": "Meta Pool",
+        "assetArcId": "AMB:MET000001917",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "metap_usdt",
+        "instrumentType": "spot"
+    }
+]

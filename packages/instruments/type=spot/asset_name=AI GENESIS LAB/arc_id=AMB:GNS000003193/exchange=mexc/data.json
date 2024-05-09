@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GNS000003193_AMB:USD000000335",
+        "normalizedPair": "gnsslab_usdt",
+        "normalizedSymbol": "gnsslab",
+        "nativePair": "GNSSLABUSDT",
+        "exchange": "mexc",
+        "assetName": "AI GENESIS LAB",
+        "assetArcId": "AMB:GNS000003193",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gnsslab_usdt",
+        "instrumentType": "spot"
+    }
+]

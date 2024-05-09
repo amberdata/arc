@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "aag",
+    "assetName": "AAG",
+    "assetArcId": "AMB:AAG000001348",
+    "website": "https://aag.ventures/",
+    "whitePaperUrl": "https://litepaper.aag.ventures/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AAG/arc_id=AMB:AAG000001348/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TFU000000316_AMB:USD000000335",
+        "normalizedPair": "tfuel_usdt",
+        "normalizedSymbol": "tfuel",
+        "nativePair": "TFUELUSDT",
+        "exchange": "binanceus",
+        "assetName": "Theta Fuel",
+        "assetArcId": "AMB:TFU000000316",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tfuel_usdt",
+        "instrumentType": "spot"
+    }
+]

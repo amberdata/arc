@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bccoin",
+    "assetName": "BCCOIN",
+    "assetArcId": "AMB:BCC000000000",
+    "website": "https://BlackCardCoin.com",
+    "whitePaperUrl": "https://download.blackcardcoin.com/Whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BCCOIN/arc_id=AMB:BCC000000000/exchange=mexc/data.json"
+        ]
+    }
+}

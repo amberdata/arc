@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ONG000000236_AMB:KRW000000000",
+        "normalizedPair": "ong_krw",
+        "normalizedSymbol": "ong",
+        "nativePair": "ONG/KRW",
+        "exchange": "bithumb",
+        "assetName": "Ontology Gas",
+        "assetArcId": "AMB:ONG000000236",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "ong_krw",
+        "instrumentType": "spot"
+    }
+]

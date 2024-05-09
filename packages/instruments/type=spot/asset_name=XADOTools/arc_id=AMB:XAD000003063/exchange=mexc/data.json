@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XAD000003063_AMB:USD000000335",
+        "normalizedPair": "xado_usdt",
+        "normalizedSymbol": "xado",
+        "nativePair": "XADOUSDT",
+        "exchange": "mexc",
+        "assetName": "XADOTools",
+        "assetArcId": "AMB:XAD000003063",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xado_usdt",
+        "instrumentType": "spot"
+    }
+]

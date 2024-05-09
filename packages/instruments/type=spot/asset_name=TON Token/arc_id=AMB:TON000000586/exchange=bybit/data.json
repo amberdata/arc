@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TON000000586_AMB:USD000000335",
+        "normalizedPair": "ton_usdt",
+        "normalizedSymbol": "ton",
+        "nativePair": "TONUSDT",
+        "exchange": "bybit",
+        "assetName": "TON Token",
+        "assetArcId": "AMB:TON000000586",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ton_usdt",
+        "instrumentType": "spot"
+    }
+]

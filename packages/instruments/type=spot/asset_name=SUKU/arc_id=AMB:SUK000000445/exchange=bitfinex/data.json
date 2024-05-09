@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SUK000000445_AMB:USD000000949",
+        "normalizedPair": "suku_usd",
+        "normalizedSymbol": "suku",
+        "nativePair": "tSUKU:USD",
+        "exchange": "bitfinex",
+        "assetName": "SUKU",
+        "assetArcId": "AMB:SUK000000445",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "suku_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SUK000000445_AMB:USD000000335",
+        "normalizedPair": "suku_usdt",
+        "normalizedSymbol": "suku",
+        "nativePair": "tSUKU:UST",
+        "exchange": "bitfinex",
+        "assetName": "SUKU",
+        "assetArcId": "AMB:SUK000000445",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "suku_usdt",
+        "instrumentType": "spot"
+    }
+]

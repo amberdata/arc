@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:W3G000000000_AMB:USD000000335",
+        "normalizedPair": "w3g_usdt",
+        "normalizedSymbol": "w3g",
+        "nativePair": "W3GUSDT",
+        "exchange": "mexc",
+        "assetName": "W3Gamez Network",
+        "assetArcId": "AMB:W3G000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "w3g_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "gfcat",
+    "assetName": "GFCAT",
+    "assetArcId": "AMB:GFC000000000",
+    "website": "https://garfield-token.com/",
+    "whitePaperUrl": "/how-to-buy/GFCAT?utm_source=mexc&utm_medium=tokenifoGFCAT&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GFCAT/arc_id=AMB:GFC000000000/exchange=mexc/data.json"
+        ]
+    }
+}

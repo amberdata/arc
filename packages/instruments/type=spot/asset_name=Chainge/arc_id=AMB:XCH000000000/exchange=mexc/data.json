@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XCH000000000_AMB:USD000000335",
+        "normalizedPair": "xchng_usdt",
+        "normalizedSymbol": "xchng",
+        "nativePair": "XCHNGUSDT",
+        "exchange": "mexc",
+        "assetName": "Chainge",
+        "assetArcId": "AMB:XCH000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xchng_usdt",
+        "instrumentType": "spot"
+    }
+]

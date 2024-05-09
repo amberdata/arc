@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "hibs",
+    "assetName": "Hiblocks",
+    "assetArcId": "AMB:HIB000001749",
+    "website": "https://www.hiblocks.io/",
+    "whitePaperUrl": "https://www.hiblocks.io/documents/hiblocks_whitepaper_en.pdf",
+    "classificationTags": [
+        "Content & Streaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hiblocks/arc_id=AMB:HIB000001749/exchange=mexc/data.json"
+        ]
+    }
+}

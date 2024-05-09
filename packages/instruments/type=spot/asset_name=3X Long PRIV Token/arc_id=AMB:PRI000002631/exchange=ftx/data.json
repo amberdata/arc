@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PRI000002631_AMB:USD000000949",
+        "normalizedPair": "privbull_usd",
+        "normalizedSymbol": "privbull",
+        "nativePair": "PRIVBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long PRIV Token",
+        "assetArcId": "AMB:PRI000002631",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "privbull_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MLN000000218_AMB:BTC000000000",
+        "normalizedPair": "mln_btc",
+        "normalizedSymbol": "mln",
+        "nativePair": "MLNBTC",
+        "exchange": "binance",
+        "assetName": "Enzyme",
+        "assetArcId": "AMB:MLN000000218",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "mln_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MLN000000218_AMB:USD000000335",
+        "normalizedPair": "mln_usdt",
+        "normalizedSymbol": "mln",
+        "nativePair": "MLNUSDT",
+        "exchange": "binance",
+        "assetName": "Enzyme",
+        "assetArcId": "AMB:MLN000000218",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mln_usdt",
+        "instrumentType": "spot"
+    }
+]

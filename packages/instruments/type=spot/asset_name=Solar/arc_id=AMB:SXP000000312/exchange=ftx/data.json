@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:SXP000000312_AMB:BTC000000000",
+        "normalizedPair": "sxp_btc",
+        "normalizedSymbol": "sxp",
+        "nativePair": "SXP/BTC",
+        "exchange": "ftx",
+        "assetName": "Solar",
+        "assetArcId": "AMB:SXP000000312",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "sxp_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SXP000000312_AMB:USD000000949",
+        "normalizedPair": "sxp_usd",
+        "normalizedSymbol": "sxp",
+        "nativePair": "SXP/USD",
+        "exchange": "ftx",
+        "assetName": "Solar",
+        "assetArcId": "AMB:SXP000000312",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sxp_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SXP000000312_AMB:USD000000335",
+        "normalizedPair": "sxp_usdt",
+        "normalizedSymbol": "sxp",
+        "nativePair": "SXP/USDT",
+        "exchange": "ftx",
+        "assetName": "Solar",
+        "assetArcId": "AMB:SXP000000312",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sxp_usdt",
+        "instrumentType": "spot"
+    }
+]

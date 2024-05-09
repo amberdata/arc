@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:QUI000000269_AMB:BTC000000000",
+        "normalizedPair": "quick_btc",
+        "normalizedSymbol": "quick",
+        "nativePair": "QUICKBTC",
+        "exchange": "binance",
+        "assetName": "QuickSwap New",
+        "assetArcId": "AMB:QUI000000269",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "quick_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:QUI000000269_AMB:TUS000000326",
+        "normalizedPair": "quick_tusd",
+        "normalizedSymbol": "quick",
+        "nativePair": "QUICKTUSD",
+        "exchange": "binance",
+        "assetName": "QuickSwap New",
+        "assetArcId": "AMB:QUI000000269",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "quick_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:QUI000000269_AMB:USD000000335",
+        "normalizedPair": "quick_usdt",
+        "normalizedSymbol": "quick",
+        "nativePair": "QUICKUSDT",
+        "exchange": "binance",
+        "assetName": "QuickSwap New",
+        "assetArcId": "AMB:QUI000000269",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "quick_usdt",
+        "instrumentType": "spot"
+    }
+]

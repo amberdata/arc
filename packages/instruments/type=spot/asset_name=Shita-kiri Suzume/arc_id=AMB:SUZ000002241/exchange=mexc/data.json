@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SUZ000002241_AMB:USD000000335",
+        "normalizedPair": "suzume_usdt",
+        "normalizedSymbol": "suzume",
+        "nativePair": "SUZUMEUSDT",
+        "exchange": "mexc",
+        "assetName": "Shita-kiri Suzume",
+        "assetArcId": "AMB:SUZ000002241",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "suzume_usdt",
+        "instrumentType": "spot"
+    }
+]

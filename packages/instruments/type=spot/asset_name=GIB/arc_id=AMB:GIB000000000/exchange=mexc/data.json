@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GIB000000000_AMB:USD000000335",
+        "normalizedPair": "gib_usdt",
+        "normalizedSymbol": "gib",
+        "nativePair": "GIBUSDT",
+        "exchange": "mexc",
+        "assetName": "GIB",
+        "assetArcId": "AMB:GIB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gib_usdt",
+        "instrumentType": "spot"
+    }
+]

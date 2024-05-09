@@ -1,0 +1,29 @@
+{
+    "assetSymbol": "clv",
+    "assetName": "Clover Finance",
+    "assetArcId": "AMB:CLV000000078",
+    "website": "https://clover.finance/",
+    "whitePaperUrl": "https://clover.finance/litepaper.pdf",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x80C62FE4487E1351b47Ba49809EBD60ED085bf52"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Clover Finance/arc_id=AMB:CLV000000078/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Clover Finance/arc_id=AMB:CLV000000078/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Clover Finance/arc_id=AMB:CLV000000078/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Clover Finance/arc_id=AMB:CLV000000078/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Clover Finance/arc_id=AMB:CLV000000078/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Clover Finance/arc_id=AMB:CLV000000078/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Clover Finance/arc_id=AMB:CLV000000078/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Clover Finance/arc_id=AMB:CLV000000078/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Clover Finance/arc_id=AMB:CLV000000078/exchange=mexc/data.json"
+        ]
+    }
+}

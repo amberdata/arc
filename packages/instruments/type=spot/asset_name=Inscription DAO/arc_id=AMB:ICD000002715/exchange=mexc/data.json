@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ICD000002715_AMB:USD000000335",
+        "normalizedPair": "icda_usdt",
+        "normalizedSymbol": "icda",
+        "nativePair": "ICDAUSDT",
+        "exchange": "mexc",
+        "assetName": "Inscription DAO",
+        "assetArcId": "AMB:ICD000002715",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "icda_usdt",
+        "instrumentType": "spot"
+    }
+]

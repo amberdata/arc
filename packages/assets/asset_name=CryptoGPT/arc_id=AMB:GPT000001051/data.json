@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "gpt",
+    "assetName": "CryptoGPT",
+    "assetArcId": "AMB:GPT000001051",
+    "website": "https://www.cryptogpt.org/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0xd04e772bc0d591fbd288f2e2a86afa3d3cb647f8"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

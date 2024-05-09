@@ -1,0 +1,27 @@
+{
+    "assetSymbol": "suku",
+    "assetName": "SUKU",
+    "assetArcId": "AMB:SUK000000445",
+    "website": "https://www.suku.world/",
+    "whitePaperUrl": "https://resources.suku.world/suku_one_pager.pdf",
+    "classificationTags": [
+        "Governance",
+        "Lending",
+        "Transparent"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SUKU/arc_id=AMB:SUK000000445/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SUKU/arc_id=AMB:SUK000000445/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SUKU/arc_id=AMB:SUK000000445/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SUKU/arc_id=AMB:SUK000000445/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SUKU/arc_id=AMB:SUK000000445/exchange=mexc/data.json"
+        ]
+    }
+}

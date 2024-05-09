@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "lambo",
+    "assetName": "LAMBO",
+    "assetArcId": "AMB:LAM000000000",
+    "website": "https://lambo-cryptotoken.com/",
+    "whitePaperUrl": "/how-to-buy/LAMBO?utm_source=mexc&utm_medium=tokenifoLAMBO&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=LAMBO/arc_id=AMB:LAM000000000/exchange=mexc/data.json"
+        ]
+    }
+}

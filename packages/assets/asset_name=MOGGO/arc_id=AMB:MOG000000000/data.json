@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "moggo",
+    "assetName": "MOGGO",
+    "assetArcId": "AMB:MOG000000000",
+    "website": "https://moggo.club/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "FbtRb4zF2u52FSnjLB79yRg73hbMVgSw9rC897shqzb4"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MOGGO/arc_id=AMB:MOG000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

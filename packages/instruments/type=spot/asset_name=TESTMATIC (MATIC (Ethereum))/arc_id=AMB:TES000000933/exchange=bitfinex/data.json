@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:TES000000933_AMB:TES000000000",
+        "normalizedPair": "testmatic_testusd",
+        "normalizedSymbol": "testmatic",
+        "nativePair": "tTESTMATIC:TESTUSD",
+        "exchange": "bitfinex",
+        "assetName": "TESTMATIC (MATIC (Ethereum))",
+        "assetArcId": "AMB:TES000000933",
+        "quoteArcId": "AMB:TES000000000",
+        "collectedPair": "testmatic_testusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TES000000933_AMB:TES000000001",
+        "normalizedPair": "testmatic_testusdt",
+        "normalizedSymbol": "testmatic",
+        "nativePair": "tTESTMATIC:TESTUSDT",
+        "exchange": "bitfinex",
+        "assetName": "TESTMATIC (MATIC (Ethereum))",
+        "assetArcId": "AMB:TES000000933",
+        "quoteArcId": "AMB:TES000000001",
+        "collectedPair": "testmatic_testusdt",
+        "instrumentType": "spot"
+    }
+]

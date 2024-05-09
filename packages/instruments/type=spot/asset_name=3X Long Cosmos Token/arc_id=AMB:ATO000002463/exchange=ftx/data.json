@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ATO000002463_AMB:USD000000949",
+        "normalizedPair": "atombull_usd",
+        "normalizedSymbol": "atombull",
+        "nativePair": "ATOMBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long Cosmos Token",
+        "assetArcId": "AMB:ATO000002463",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "atombull_usd",
+        "instrumentType": "spot"
+    }
+]

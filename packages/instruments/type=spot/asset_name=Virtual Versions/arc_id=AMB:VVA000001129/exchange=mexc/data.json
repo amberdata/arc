@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VVA000001129_AMB:USD000000335",
+        "normalizedPair": "vv_usdt",
+        "normalizedSymbol": "vv",
+        "nativePair": "VVUSDT",
+        "exchange": "mexc",
+        "assetName": "Virtual Versions",
+        "assetArcId": "AMB:VVA000001129",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vv_usdt",
+        "instrumentType": "spot"
+    }
+]

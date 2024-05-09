@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "fnd",
+    "assetName": "Rare FND",
+    "assetArcId": "AMB:FND000001673",
+    "website": "https://rarefnd.com/",
+    "whitePaperUrl": "https://rarefnd.com/wp-content/uploads/2022/07/Rare-FND-Litepaper-v2-1.pdf",
+    "classificationTags": [
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Rare FND/arc_id=AMB:FND000001673/exchange=mexc/data.json"
+        ]
+    }
+}

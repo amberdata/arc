@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JOE000000177_AMB:USD000000335",
+        "normalizedPair": "joe_usdt",
+        "normalizedSymbol": "joe",
+        "nativePair": "joeusdt",
+        "exchange": "huobi",
+        "assetName": "JOE",
+        "assetArcId": "AMB:JOE000000177",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "joe_usdt",
+        "instrumentType": "spot"
+    }
+]

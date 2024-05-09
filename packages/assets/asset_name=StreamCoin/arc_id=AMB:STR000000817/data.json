@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "strm",
+    "assetName": "StreamCoin",
+    "assetArcId": "AMB:STR000000817",
+    "website": "https://stream-coin.com/",
+    "whitePaperUrl": "https://stream-coin.com/whitepaper-en-v.1.0.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=StreamCoin/arc_id=AMB:STR000000817/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=StreamCoin/arc_id=AMB:STR000000817/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=StreamCoin/arc_id=AMB:STR000000817/exchange=mexc/data.json"
+        ]
+    }
+}

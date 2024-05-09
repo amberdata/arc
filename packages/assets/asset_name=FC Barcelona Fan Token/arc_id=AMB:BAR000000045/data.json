@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "bar",
+    "assetName": "FC Barcelona Fan Token",
+    "assetArcId": "AMB:BAR000000045",
+    "website": "https://www.fantoken.com/bar/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=FC Barcelona Fan Token/arc_id=AMB:BAR000000045/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=FC Barcelona Fan Token/arc_id=AMB:BAR000000045/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=FC Barcelona Fan Token/arc_id=AMB:BAR000000045/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=FC Barcelona Fan Token/arc_id=AMB:BAR000000045/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=FC Barcelona Fan Token/arc_id=AMB:BAR000000045/exchange=mexc/data.json"
+        ]
+    }
+}

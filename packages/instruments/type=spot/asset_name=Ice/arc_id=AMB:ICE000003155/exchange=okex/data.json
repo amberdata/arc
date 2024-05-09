@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ICE000003155_AMB:USD000000335",
+        "normalizedPair": "ice.amb.2_usdt",
+        "normalizedSymbol": "ice.amb.2",
+        "nativePair": "ICE-USDT",
+        "exchange": "okex",
+        "assetName": "Ice",
+        "assetArcId": "AMB:ICE000003155",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ice_usdt",
+        "instrumentType": "spot"
+    }
+]

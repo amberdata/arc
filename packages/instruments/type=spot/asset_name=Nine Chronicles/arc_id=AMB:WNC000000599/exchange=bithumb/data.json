@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WNC000000599_AMB:KRW000000000",
+        "normalizedPair": "wncg_krw",
+        "normalizedSymbol": "wncg",
+        "nativePair": "WNCG/KRW",
+        "exchange": "bithumb",
+        "assetName": "Nine Chronicles",
+        "assetArcId": "AMB:WNC000000599",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "wncg_krw",
+        "instrumentType": "spot"
+    }
+]

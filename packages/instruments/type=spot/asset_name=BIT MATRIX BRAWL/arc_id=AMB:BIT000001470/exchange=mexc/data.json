@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BIT000001470_AMB:USD000000335",
+        "normalizedPair": "bitmat_usdt",
+        "normalizedSymbol": "bitmat",
+        "nativePair": "BITMATUSDT",
+        "exchange": "mexc",
+        "assetName": "BIT MATRIX BRAWL",
+        "assetArcId": "AMB:BIT000001470",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bitmat_usdt",
+        "instrumentType": "spot"
+    }
+]

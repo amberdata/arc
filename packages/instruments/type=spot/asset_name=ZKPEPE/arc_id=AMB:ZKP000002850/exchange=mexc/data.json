@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZKP000002850_AMB:USD000000335",
+        "normalizedPair": "zkpepe_usdt",
+        "normalizedSymbol": "zkpepe",
+        "nativePair": "ZKPEPEUSDT",
+        "exchange": "mexc",
+        "assetName": "ZKPEPE",
+        "assetArcId": "AMB:ZKP000002850",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zkpepe_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:HDX000002425_AMB:EUR000000120",
+        "normalizedPair": "hdx_eur",
+        "normalizedSymbol": "hdx",
+        "nativePair": "HDXEUR",
+        "exchange": "kraken",
+        "assetName": "HydraDX",
+        "assetArcId": "AMB:HDX000002425",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "hdx_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:HDX000002425_AMB:USD000000949",
+        "normalizedPair": "hdx_usd",
+        "normalizedSymbol": "hdx",
+        "nativePair": "HDXUSD",
+        "exchange": "kraken",
+        "assetName": "HydraDX",
+        "assetArcId": "AMB:HDX000002425",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "hdx_usd",
+        "instrumentType": "spot"
+    }
+]

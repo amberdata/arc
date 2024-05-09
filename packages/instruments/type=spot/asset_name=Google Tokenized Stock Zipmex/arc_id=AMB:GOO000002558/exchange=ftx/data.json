@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GOO000002558_AMB:USD000000949",
+        "normalizedPair": "googl_usd",
+        "normalizedSymbol": "googl",
+        "nativePair": "GOOGL/USD",
+        "exchange": "ftx",
+        "assetName": "Google Tokenized Stock Zipmex",
+        "assetArcId": "AMB:GOO000002558",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "googl_usd",
+        "instrumentType": "spot"
+    }
+]

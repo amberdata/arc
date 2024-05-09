@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "binu",
+    "assetName": "Billion Dollar Inu",
+    "assetArcId": "AMB:BIN000000000",
+    "website": "https://billiondollarinu.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "DdWVqFmdQpyjdU3AeUSEhrsnJQBPH7iK9xdCFrBgpAy2"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Billion Dollar Inu/arc_id=AMB:BIN000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

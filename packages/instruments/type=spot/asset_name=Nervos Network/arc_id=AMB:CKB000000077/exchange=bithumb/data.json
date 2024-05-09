@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CKB000000077_AMB:KRW000000000",
+        "normalizedPair": "ckb_krw",
+        "normalizedSymbol": "ckb",
+        "nativePair": "CKB/KRW",
+        "exchange": "bithumb",
+        "assetName": "Nervos Network",
+        "assetArcId": "AMB:CKB000000077",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "ckb_krw",
+        "instrumentType": "spot"
+    }
+]

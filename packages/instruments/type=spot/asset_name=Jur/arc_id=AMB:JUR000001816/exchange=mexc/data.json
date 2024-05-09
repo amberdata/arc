@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JUR000001816_AMB:USD000000335",
+        "normalizedPair": "jur_usdt",
+        "normalizedSymbol": "jur",
+        "nativePair": "JURUSDT",
+        "exchange": "mexc",
+        "assetName": "Jur",
+        "assetArcId": "AMB:JUR000001816",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jur_usdt",
+        "instrumentType": "spot"
+    }
+]

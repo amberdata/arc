@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BBC000000633_AMB:USD000000335",
+        "normalizedPair": "bbc_usdt",
+        "normalizedSymbol": "bbc",
+        "nativePair": "bbcusdt",
+        "exchange": "huobi",
+        "assetName": "ButaneDAO",
+        "assetArcId": "AMB:BBC000000633",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bbc_usdt",
+        "instrumentType": "spot"
+    }
+]

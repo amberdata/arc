@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "item",
+    "assetName": "ITEMVERSE",
+    "assetArcId": "AMB:ITE000001796",
+    "website": "https://itemverse.io/en_index.php?ckattempt=1",
+    "whitePaperUrl": "https://itemverse.io/itemverse_whitepaper_en.pdf",
+    "classificationTags": [
+        "Governance",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ITEMVERSE/arc_id=AMB:ITE000001796/exchange=mexc/data.json"
+        ]
+    }
+}

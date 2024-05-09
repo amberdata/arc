@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dbz",
+    "assetName": "Dragonball Z Tribute",
+    "assetArcId": "AMB:DBZ000000000",
+    "website": "https://dragonballztribute.com/",
+    "whitePaperUrl": "/how-to-buy/DBZ?utm_source=mexc&utm_medium=tokenifoDBZ&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dragonball Z Tribute/arc_id=AMB:DBZ000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "flr",
+    "assetName": "Flare",
+    "assetArcId": "AMB:FLR000000403",
+    "website": "https://flare.network/",
+    "whitePaperUrl": "https://flare.network/wp-content/uploads/Flare-White-Paper-v2.pdf",
+    "classificationTags": [
+        "Governance",
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Flare",
+            "address": null
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

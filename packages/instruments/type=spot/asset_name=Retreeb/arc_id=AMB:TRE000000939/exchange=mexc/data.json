@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRE000000939_AMB:USD000000335",
+        "normalizedPair": "treeb_usdt",
+        "normalizedSymbol": "treeb",
+        "nativePair": "TREEBUSDT",
+        "exchange": "mexc",
+        "assetName": "Retreeb",
+        "assetArcId": "AMB:TRE000000939",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "treeb_usdt",
+        "instrumentType": "spot"
+    }
+]

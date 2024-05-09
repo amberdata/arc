@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EUR000000121_AMB:USD000000949",
+        "normalizedPair": "eurs_usd",
+        "normalizedSymbol": "eurs",
+        "nativePair": "tEUSUSD",
+        "exchange": "bitfinex",
+        "assetName": "Statis Euro",
+        "assetArcId": "AMB:EUR000000121",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "eurs_usd",
+        "instrumentType": "spot"
+    }
+]

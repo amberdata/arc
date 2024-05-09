@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SPI000002220_AMB:USD000000335",
+        "normalizedPair": "spider_usdt",
+        "normalizedSymbol": "spider",
+        "nativePair": "SPIDERUSDT",
+        "exchange": "mexc",
+        "assetName": "Spider Man",
+        "assetArcId": "AMB:SPI000002220",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "spider_usdt",
+        "instrumentType": "spot"
+    }
+]

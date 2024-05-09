@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "psl",
+    "assetName": "Pastel",
+    "assetArcId": "AMB:PSL000002098",
+    "website": "https://pastel.network/",
+    "whitePaperUrl": "https://pastel.network/wp-content/uploads/2021/11/Pastel-Network-Whitepaper.pdf",
+    "classificationTags": [
+        "Governance",
+        "Layer-1"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pastel/arc_id=AMB:PSL000002098/exchange=mexc/data.json"
+        ]
+    }
+}

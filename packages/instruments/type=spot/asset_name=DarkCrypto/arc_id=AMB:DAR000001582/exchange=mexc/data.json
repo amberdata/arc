@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DAR000001582_AMB:USD000000335",
+        "normalizedPair": "dark_usdt",
+        "normalizedSymbol": "dark",
+        "nativePair": "DARKUSDT",
+        "exchange": "mexc",
+        "assetName": "DarkCrypto",
+        "assetArcId": "AMB:DAR000001582",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dark_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAJ000001439_AMB:USD000000335",
+        "normalizedPair": "baju_usdt",
+        "normalizedSymbol": "baju",
+        "nativePair": "BAJUUSDT",
+        "exchange": "mexc",
+        "assetName": "Bajun Network",
+        "assetArcId": "AMB:BAJ000001439",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "baju_usdt",
+        "instrumentType": "spot"
+    }
+]

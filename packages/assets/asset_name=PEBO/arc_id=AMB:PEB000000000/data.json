@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "pebo",
+    "assetName": "PEBO",
+    "assetArcId": "AMB:PEB000000000",
+    "website": "https://peborekt.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "4Yei9KWfxL6WM3gyxUpb1xNdswniPCHcMMv42S2ZLNWX"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PEBO/arc_id=AMB:PEB000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

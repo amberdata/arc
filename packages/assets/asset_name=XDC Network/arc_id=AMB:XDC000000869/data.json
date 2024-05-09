@@ -1,0 +1,18 @@
+{
+    "assetSymbol": "xdc",
+    "assetName": "XDC Network",
+    "assetArcId": "AMB:XDC000000869",
+    "website": "http://xdc.org/",
+    "whitePaperUrl": "https://xdc.org/resources?target=whitepapers",
+    "classificationTags": [
+        "Proof-of-Stake"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=XDC Network/arc_id=AMB:XDC000000869/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=XDC Network/arc_id=AMB:XDC000000869/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=XDC Network/arc_id=AMB:XDC000000869/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=XDC Network/arc_id=AMB:XDC000000869/exchange=bitfinex/data.json"
+        ]
+    }
+}

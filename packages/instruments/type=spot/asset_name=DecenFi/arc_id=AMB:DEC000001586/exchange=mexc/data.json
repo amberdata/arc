@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DEC000001586_AMB:USD000000335",
+        "normalizedPair": "decenfi_usdt",
+        "normalizedSymbol": "decenfi",
+        "nativePair": "DECENFIUSDT",
+        "exchange": "mexc",
+        "assetName": "DecenFi",
+        "assetArcId": "AMB:DEC000001586",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "decenfi_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "lyte",
+    "assetName": "Lyte Finance",
+    "assetArcId": "AMB:LYT000000000",
+    "website": "https://lytefinance.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "3ZW7vx54RC4KVUwa8dGGe3fJuWB9Xb9ppk2cxryWB5T4"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Lyte Finance/arc_id=AMB:LYT000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

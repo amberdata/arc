@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KPN000000000_AMB:USD000000335",
+        "normalizedPair": "kpn_usdt",
+        "normalizedSymbol": "kpn",
+        "nativePair": "KPNUSDT",
+        "exchange": "mexc",
+        "assetName": "KonnektVPN",
+        "assetArcId": "AMB:KPN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kpn_usdt",
+        "instrumentType": "spot"
+    }
+]

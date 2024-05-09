@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PUN000000262_AMB:USD000000949",
+        "normalizedPair": "pundix_usd",
+        "normalizedSymbol": "pundix",
+        "nativePair": "PUNDIX-USD",
+        "exchange": "gdax",
+        "assetName": "Pundi X (New)",
+        "assetArcId": "AMB:PUN000000262",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "pundix_usd",
+        "instrumentType": "spot"
+    }
+]

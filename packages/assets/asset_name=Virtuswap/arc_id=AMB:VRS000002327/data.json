@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "vrsw",
+    "assetName": "Virtuswap",
+    "assetArcId": "AMB:VRS000002327",
+    "website": "https://virtuswap.io/",
+    "whitePaperUrl": "https://virtuswap.io/docs/whitepaper.pdf",
+    "classificationTags": [
+        "DEX",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Virtuswap/arc_id=AMB:VRS000002327/exchange=mexc/data.json"
+        ]
+    }
+}

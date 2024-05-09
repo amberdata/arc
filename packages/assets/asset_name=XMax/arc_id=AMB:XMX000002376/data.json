@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "xmx",
+    "assetName": "XMax",
+    "assetArcId": "AMB:XMX000002376",
+    "website": "www.xmx.com",
+    "whitePaperUrl": "http://xmx.com/file/XMaxWhitePaper.pdf",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=XMax/arc_id=AMB:XMX000002376/exchange=mexc/data.json"
+        ]
+    }
+}

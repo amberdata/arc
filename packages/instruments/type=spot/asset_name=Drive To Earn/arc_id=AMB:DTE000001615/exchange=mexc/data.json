@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DTE000001615_AMB:USD000000335",
+        "normalizedPair": "dte_usdt",
+        "normalizedSymbol": "dte",
+        "nativePair": "DTEUSDT",
+        "exchange": "mexc",
+        "assetName": "Drive To Earn",
+        "assetArcId": "AMB:DTE000001615",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dte_usdt",
+        "instrumentType": "spot"
+    }
+]

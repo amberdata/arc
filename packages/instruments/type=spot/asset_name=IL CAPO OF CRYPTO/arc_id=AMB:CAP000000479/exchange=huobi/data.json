@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CAP000000479_AMB:USD000000335",
+        "normalizedPair": "capo_usdt",
+        "normalizedSymbol": "capo",
+        "nativePair": "capousdt",
+        "exchange": "huobi",
+        "assetName": "IL CAPO OF CRYPTO",
+        "assetArcId": "AMB:CAP000000479",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "capo_usdt",
+        "instrumentType": "spot"
+    }
+]

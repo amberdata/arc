@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:CRO000000390_AMB:EUR000000120",
+        "normalizedPair": "cro_eur",
+        "normalizedSymbol": "cro",
+        "nativePair": "CRO-EUR",
+        "exchange": "gdax",
+        "assetName": "Crypto.com Coin",
+        "assetArcId": "AMB:CRO000000390",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "cro_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CRO000000390_AMB:USD000000949",
+        "normalizedPair": "cro_usd",
+        "normalizedSymbol": "cro",
+        "nativePair": "CRO-USD",
+        "exchange": "gdax",
+        "assetName": "Crypto.com Coin",
+        "assetArcId": "AMB:CRO000000390",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "cro_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CRO000000390_AMB:USD000000335",
+        "normalizedPair": "cro_usdt",
+        "normalizedSymbol": "cro",
+        "nativePair": "CRO-USDT",
+        "exchange": "gdax",
+        "assetName": "Crypto.com Coin",
+        "assetArcId": "AMB:CRO000000390",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cro_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ad",
+    "assetName": "Any Dog",
+    "assetArcId": "AMB:ADA000000000",
+    "website": "https://www.bscanydog.com/",
+    "whitePaperUrl": "/how-to-buy/AD?utm_source=mexc&utm_medium=tokenifoAD&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Any Dog/arc_id=AMB:ADA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TCT000000000_AMB:USD000000335",
+        "normalizedPair": "tct_usdt",
+        "normalizedSymbol": "tct",
+        "nativePair": "TCTUSDT",
+        "exchange": "mexc",
+        "assetName": "Tupan Comunity Token",
+        "assetArcId": "AMB:TCT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tct_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,31 @@
+{
+    "assetSymbol": "celr",
+    "assetName": "Celer Network",
+    "assetArcId": "AMB:CEL000000071",
+    "website": "https://www.celer.network/",
+    "whitePaperUrl": "https://www.celer.network/doc/CelerNetwork-Whitepaper.pdf",
+    "classificationTags": [
+        "Gaming",
+        "Governance",
+        "Layer-2",
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Celer Network/arc_id=AMB:CEL000000071/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Celer Network/arc_id=AMB:CEL000000071/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Celer Network/arc_id=AMB:CEL000000071/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Celer Network/arc_id=AMB:CEL000000071/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Celer Network/arc_id=AMB:CEL000000071/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Celer Network/arc_id=AMB:CEL000000071/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Celer Network/arc_id=AMB:CEL000000071/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Celer Network/arc_id=AMB:CEL000000071/exchange=mexc/data.json"
+        ]
+    }
+}

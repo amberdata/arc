@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:INV000001789_AMB:USD000000335",
+        "normalizedPair": "invi_usdt",
+        "normalizedSymbol": "invi",
+        "nativePair": "INVIUSDT",
+        "exchange": "mexc",
+        "assetName": "Invitoken",
+        "assetArcId": "AMB:INV000001789",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "invi_usdt",
+        "instrumentType": "spot"
+    }
+]

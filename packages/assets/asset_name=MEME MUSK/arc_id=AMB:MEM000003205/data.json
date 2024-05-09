@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "mememusk",
+    "assetName": "MEME MUSK",
+    "assetArcId": "AMB:MEM000003205",
+    "website": "https://mememusk.fun/",
+    "whitePaperUrl": "/how-to-buy/MEMEMUSK?utm_source=mexc&utm_medium=tokenifoMEMEMUSK&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MEME MUSK/arc_id=AMB:MEM000003205/exchange=mexc/data.json"
+        ]
+    }
+}

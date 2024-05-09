@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "srds",
+    "assetName": "Sardis Network",
+    "assetArcId": "AMB:SRD000003336",
+    "website": "https://mysardis.com/",
+    "whitePaperUrl": "https://mysardis.com/sardis/assets/sardis/WhitepaperSardismin.pdf",
+    "classificationTags": [
+        "Gaming",
+        "Proof-of-Stake"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sardis Network/arc_id=AMB:SRD000003336/exchange=mexc/data.json"
+        ]
+    }
+}

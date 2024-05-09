@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GUU000000000_AMB:USD000000335",
+        "normalizedPair": "guufy_usdt",
+        "normalizedSymbol": "guufy",
+        "nativePair": "GUUFYUSDT",
+        "exchange": "mexc",
+        "assetName": "Guufy",
+        "assetArcId": "AMB:GUU000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "guufy_usdt",
+        "instrumentType": "spot"
+    }
+]

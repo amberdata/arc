@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EOS000002537_AMB:USD000000949",
+        "normalizedPair": "eoshedge_usd",
+        "normalizedSymbol": "eoshedge",
+        "nativePair": "EOSHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short EOS Token",
+        "assetArcId": "AMB:EOS000002537",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "eoshedge_usd",
+        "instrumentType": "spot"
+    }
+]

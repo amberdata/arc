@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOG000003497_AMB:USD000000335",
+        "normalizedPair": "dogex_usdt",
+        "normalizedSymbol": "dogex",
+        "nativePair": "DOGEXUSDT",
+        "exchange": "mexc",
+        "assetName": "DOGEX",
+        "assetArcId": "AMB:DOG000003497",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dogex_usdt",
+        "instrumentType": "spot"
+    }
+]

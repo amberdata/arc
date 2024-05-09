@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "crac",
+    "assetName": "Cracle",
+    "assetArcId": "AMB:CRA000003005",
+    "website": "https://cracle.xyz/",
+    "whitePaperUrl": "https://docs.cracle.xyz/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cracle/arc_id=AMB:CRA000003005/exchange=mexc/data.json"
+        ]
+    }
+}

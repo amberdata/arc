@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BFI000000000_AMB:USD000000335",
+        "normalizedPair": "bficgold_usdt",
+        "normalizedSymbol": "bficgold",
+        "nativePair": "BFICGOLD_USDT",
+        "exchange": "poloniex",
+        "assetName": "BFIC Gold",
+        "assetArcId": "AMB:BFI000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bficgold_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "sols1",
+    "assetName": "SOLS",
+    "assetArcId": "AMB:SOL000003170",
+    "website": "https://www.spl20.io/",
+    "whitePaperUrl": "/how-to-buy/SOLS1?utm_source=mexc&utm_medium=tokenifoSOLS1&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SOLS/arc_id=AMB:SOL000003170/exchange=mexc/data.json"
+        ]
+    }
+}

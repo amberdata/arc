@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "apex",
+    "assetName": "ApeX Protocol",
+    "assetArcId": "AMB:APE000001000",
+    "website": "https://www.apex.exchange/",
+    "whitePaperUrl": "https://www.apex.exchange/blog/detail/apex-pro-litepaper",
+    "classificationTags": [
+        "Derivatives"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeX Protocol/arc_id=AMB:APE000001000/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeX Protocol/arc_id=AMB:APE000001000/exchange=bybit/data.json"
+        ]
+    }
+}

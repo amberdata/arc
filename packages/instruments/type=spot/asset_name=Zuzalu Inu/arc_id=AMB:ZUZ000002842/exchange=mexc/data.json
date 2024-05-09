@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZUZ000002842_AMB:USD000000335",
+        "normalizedPair": "zuzalu_usdt",
+        "normalizedSymbol": "zuzalu",
+        "nativePair": "ZUZALUUSDT",
+        "exchange": "mexc",
+        "assetName": "Zuzalu Inu",
+        "assetArcId": "AMB:ZUZ000002842",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zuzalu_usdt",
+        "instrumentType": "spot"
+    }
+]

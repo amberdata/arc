@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "titty",
+    "assetName": "TamaKitty",
+    "assetArcId": "AMB:TIT000001323",
+    "website": "https://www.tamakitty.club/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "TRON",
+            "address": "TUi42N1uZ3mnfXYSngCgLQeZHJg75VY42H"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TamaKitty/arc_id=AMB:TIT000001323/exchange=poloniex/data.json"
+        ]
+    }
+}

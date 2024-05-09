@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:TFU000000316_AMB:BTC000000000",
+        "normalizedPair": "tfuel_btc",
+        "normalizedSymbol": "tfuel",
+        "nativePair": "TFUELBTC",
+        "exchange": "binance",
+        "assetName": "Theta Fuel",
+        "assetArcId": "AMB:TFU000000316",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "tfuel_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TFU000000316_AMB:USD000000335",
+        "normalizedPair": "tfuel_usdt",
+        "normalizedSymbol": "tfuel",
+        "nativePair": "TFUELUSDT",
+        "exchange": "binance",
+        "assetName": "Theta Fuel",
+        "assetArcId": "AMB:TFU000000316",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tfuel_usdt",
+        "instrumentType": "spot"
+    }
+]

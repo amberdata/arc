@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "wagmigames",
+    "assetName": "WAGMI Games",
+    "assetArcId": "AMB:WAG000000000",
+    "website": "https://www.wagmigame.io/",
+    "whitePaperUrl": "https://wagmi-games.gitbook.io/wagmi-games-whitepaper/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAGMI Games/arc_id=AMB:WAG000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BCH000002474_AMB:USD000000949",
+        "normalizedPair": "bchbull_usd",
+        "normalizedSymbol": "bchbull",
+        "nativePair": "BCHBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long Bitcoin Cash Token",
+        "assetArcId": "AMB:BCH000002474",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bchbull_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000002474_AMB:USD000000335",
+        "normalizedPair": "bchbull_usdt",
+        "normalizedSymbol": "bchbull",
+        "nativePair": "BCHBULL/USDT",
+        "exchange": "ftx",
+        "assetName": "3X Long Bitcoin Cash Token",
+        "assetArcId": "AMB:BCH000002474",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bchbull_usdt",
+        "instrumentType": "spot"
+    }
+]

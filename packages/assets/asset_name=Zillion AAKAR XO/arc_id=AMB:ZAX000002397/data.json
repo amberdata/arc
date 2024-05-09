@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "zax",
+    "assetName": "Zillion AAKAR XO",
+    "assetArcId": "AMB:ZAX000002397",
+    "website": "https://www.zillionxo.io/",
+    "whitePaperUrl": "https://zillions-organization.gitbook.io/untitled/",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Zillion AAKAR XO/arc_id=AMB:ZAX000002397/exchange=mexc/data.json"
+        ]
+    }
+}

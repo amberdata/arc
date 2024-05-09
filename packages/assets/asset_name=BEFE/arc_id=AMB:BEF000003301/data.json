@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "befe",
+    "assetName": "BEFE",
+    "assetArcId": "AMB:BEF000003301",
+    "website": "http://befetoken.com/",
+    "whitePaperUrl": "/how-to-buy/BEFE?utm_source=mexc&utm_medium=tokenifoBEFE&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BEFE/arc_id=AMB:BEF000003301/exchange=mexc/data.json"
+        ]
+    }
+}

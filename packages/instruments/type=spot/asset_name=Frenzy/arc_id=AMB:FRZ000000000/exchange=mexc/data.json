@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FRZ000000000_AMB:USD000000335",
+        "normalizedPair": "frz_usdt",
+        "normalizedSymbol": "frz",
+        "nativePair": "FRZUSDT",
+        "exchange": "mexc",
+        "assetName": "Frenzy",
+        "assetArcId": "AMB:FRZ000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "frz_usdt",
+        "instrumentType": "spot"
+    }
+]

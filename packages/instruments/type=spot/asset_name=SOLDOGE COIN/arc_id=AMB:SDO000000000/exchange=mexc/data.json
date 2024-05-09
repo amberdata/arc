@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SDO000000000_AMB:USD000000335",
+        "normalizedPair": "sdoge_usdt",
+        "normalizedSymbol": "sdoge",
+        "nativePair": "SDOGEUSDT",
+        "exchange": "mexc",
+        "assetName": "SOLDOGE COIN",
+        "assetArcId": "AMB:SDO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sdoge_usdt",
+        "instrumentType": "spot"
+    }
+]

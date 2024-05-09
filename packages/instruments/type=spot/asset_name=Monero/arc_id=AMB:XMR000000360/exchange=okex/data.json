@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:XMR000000360_AMB:BTC000000000",
+        "normalizedPair": "xmr_btc",
+        "normalizedSymbol": "xmr",
+        "nativePair": "XMR-BTC",
+        "exchange": "okex",
+        "assetName": "Monero",
+        "assetArcId": "AMB:XMR000000360",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "xmr_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XMR000000360_AMB:ETH000000000",
+        "normalizedPair": "xmr_eth",
+        "normalizedSymbol": "xmr",
+        "nativePair": "XMR-ETH",
+        "exchange": "okex",
+        "assetName": "Monero",
+        "assetArcId": "AMB:XMR000000360",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "xmr_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XMR000000360_AMB:USD000000333",
+        "normalizedPair": "xmr_usdc",
+        "normalizedSymbol": "xmr",
+        "nativePair": "XMR-USDC",
+        "exchange": "okex",
+        "assetName": "Monero",
+        "assetArcId": "AMB:XMR000000360",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "xmr_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XMR000000360_AMB:USD000000335",
+        "normalizedPair": "xmr_usdt",
+        "normalizedSymbol": "xmr",
+        "nativePair": "XMR-USDT",
+        "exchange": "okex",
+        "assetName": "Monero",
+        "assetArcId": "AMB:XMR000000360",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xmr_usdt",
+        "instrumentType": "spot"
+    }
+]

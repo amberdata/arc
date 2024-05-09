@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "jur",
+    "assetName": "JUR",
+    "assetArcId": "AMB:JUR000001816",
+    "website": "https://jur.io/",
+    "whitePaperUrl": "https://gitbook.jur.io/jur-documentation/",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

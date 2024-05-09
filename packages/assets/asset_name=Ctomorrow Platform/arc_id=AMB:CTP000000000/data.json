@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ctp",
+    "assetName": "Ctomorrow Platform",
+    "assetArcId": "AMB:CTP000000000",
+    "website": "https://ctomorrow.io/",
+    "whitePaperUrl": "https://ctomorrow.io/wp-content/uploads/2021/12/CTomorrow-White-Paper-v1.1.0_Web_Version.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ctomorrow Platform/arc_id=AMB:CTP000000000/exchange=mexc/data.json"
+        ]
+    }
+}

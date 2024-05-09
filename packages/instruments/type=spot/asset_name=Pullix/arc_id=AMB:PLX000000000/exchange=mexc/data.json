@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PLX000000000_AMB:USD000000335",
+        "normalizedPair": "plx_usdt",
+        "normalizedSymbol": "plx",
+        "nativePair": "PLXUSDT",
+        "exchange": "mexc",
+        "assetName": "Pullix",
+        "assetArcId": "AMB:PLX000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "plx_usdt",
+        "instrumentType": "spot"
+    }
+]

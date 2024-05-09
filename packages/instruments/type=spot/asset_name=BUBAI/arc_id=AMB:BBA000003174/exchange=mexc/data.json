@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BBA000003174_AMB:USD000000335",
+        "normalizedPair": "bbai_usdt",
+        "normalizedSymbol": "bbai",
+        "nativePair": "BBAIUSDT",
+        "exchange": "mexc",
+        "assetName": "BUBAI",
+        "assetArcId": "AMB:BBA000003174",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bbai_usdt",
+        "instrumentType": "spot"
+    }
+]

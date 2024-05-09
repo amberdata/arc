@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IMX000000169_AMB:USD000000949",
+        "normalizedPair": "imx_usd",
+        "normalizedSymbol": "imx",
+        "nativePair": "IMX/USD",
+        "exchange": "ftx",
+        "assetName": "Immutable",
+        "assetArcId": "AMB:IMX000000169",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "imx_usd",
+        "instrumentType": "spot"
+    }
+]

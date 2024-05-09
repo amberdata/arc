@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SOD000000000_AMB:USD000000335",
+        "normalizedPair": "sodi_usdt",
+        "normalizedSymbol": "sodi",
+        "nativePair": "SODIUSDT",
+        "exchange": "mexc",
+        "assetName": "Sodi Protocol",
+        "assetArcId": "AMB:SOD000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sodi_usdt",
+        "instrumentType": "spot"
+    }
+]

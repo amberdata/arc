@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PHA000003463_AMB:USD000000335",
+        "normalizedPair": "pharos_usdt",
+        "normalizedSymbol": "pharos",
+        "nativePair": "PHAROSUSDT",
+        "exchange": "mexc",
+        "assetName": "Pharos",
+        "assetArcId": "AMB:PHA000003463",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pharos_usdt",
+        "instrumentType": "spot"
+    }
+]

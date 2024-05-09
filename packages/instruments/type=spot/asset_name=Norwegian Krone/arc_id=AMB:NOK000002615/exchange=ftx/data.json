@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NOK000002615_AMB:USD000000949",
+        "normalizedPair": "nok_usd",
+        "normalizedSymbol": "nok",
+        "nativePair": "NOK/USD",
+        "exchange": "ftx",
+        "assetName": "Norwegian Krone",
+        "assetArcId": "AMB:NOK000002615",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "nok_usd",
+        "instrumentType": "spot"
+    }
+]

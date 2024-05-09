@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:1IN000000000_AMB:USD000000333",
+        "normalizedPair": "1inch_usdc",
+        "normalizedSymbol": "1inch",
+        "nativePair": "1INCH-USDC",
+        "exchange": "okex",
+        "assetName": "1inch",
+        "assetArcId": "AMB:1IN000000000",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "1inch_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:1IN000000000_AMB:USD000000335",
+        "normalizedPair": "1inch_usdt",
+        "normalizedSymbol": "1inch",
+        "nativePair": "1INCH-USDT",
+        "exchange": "okex",
+        "assetName": "1inch",
+        "assetArcId": "AMB:1IN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "1inch_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:1IN000000000_AMB:EUR000000120",
+        "normalizedPair": "1inch_eur",
+        "normalizedSymbol": "1inch",
+        "nativePair": "1INCH-EUR",
+        "exchange": "okex",
+        "assetName": "1inch",
+        "assetArcId": "AMB:1IN000000000",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "1inch_eur",
+        "instrumentType": "spot"
+    }
+]

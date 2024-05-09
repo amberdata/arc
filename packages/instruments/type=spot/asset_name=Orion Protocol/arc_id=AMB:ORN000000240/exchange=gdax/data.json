@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ORN000000240_AMB:USD000000949",
+        "normalizedPair": "orn_usd",
+        "normalizedSymbol": "orn",
+        "nativePair": "ORN-USD",
+        "exchange": "gdax",
+        "assetName": "Orion Protocol",
+        "assetArcId": "AMB:ORN000000240",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "orn_usd",
+        "instrumentType": "spot"
+    }
+]

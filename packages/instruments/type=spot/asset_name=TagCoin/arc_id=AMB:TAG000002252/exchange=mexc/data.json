@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TAG000002252_AMB:USD000000335",
+        "normalizedPair": "tag_usdt",
+        "normalizedSymbol": "tag",
+        "nativePair": "TAGUSDT",
+        "exchange": "mexc",
+        "assetName": "TagCoin",
+        "assetArcId": "AMB:TAG000002252",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tag_usdt",
+        "instrumentType": "spot"
+    }
+]

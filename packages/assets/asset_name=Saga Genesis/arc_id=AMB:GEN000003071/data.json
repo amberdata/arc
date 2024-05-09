@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "genesis",
+    "assetName": "Saga Genesis",
+    "assetArcId": "AMB:GEN000003071",
+    "website": "https://www.sagagenesis.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "GVKLBFBPE7UxcRWMNJm7bhptRNq9RqG2jXsJVdg5cPED"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

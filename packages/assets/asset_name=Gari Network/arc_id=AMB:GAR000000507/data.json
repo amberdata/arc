@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "gari",
+    "assetName": "Gari Network",
+    "assetArcId": "AMB:GAR000000507",
+    "website": "https://gari.network/",
+    "whitePaperUrl": "https://gari.network/gari-whitepaper/",
+    "classificationTags": [
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gari Network/arc_id=AMB:GAR000000507/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gari Network/arc_id=AMB:GAR000000507/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gari Network/arc_id=AMB:GAR000000507/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gari Network/arc_id=AMB:GAR000000507/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gari Network/arc_id=AMB:GAR000000507/exchange=mexc/data.json"
+        ]
+    }
+}

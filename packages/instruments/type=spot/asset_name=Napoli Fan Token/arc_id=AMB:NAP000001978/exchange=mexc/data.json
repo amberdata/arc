@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NAP000001978_AMB:USD000000335",
+        "normalizedPair": "nap_usdt",
+        "normalizedSymbol": "nap",
+        "nativePair": "NAPUSDT",
+        "exchange": "mexc",
+        "assetName": "Napoli Fan Token",
+        "assetArcId": "AMB:NAP000001978",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nap_usdt",
+        "instrumentType": "spot"
+    }
+]

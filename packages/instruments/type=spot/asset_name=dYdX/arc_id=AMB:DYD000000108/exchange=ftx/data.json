@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DYD000000108_AMB:USD000000949",
+        "normalizedPair": "dydx_usd",
+        "normalizedSymbol": "dydx",
+        "nativePair": "DYDX/USD",
+        "exchange": "ftx",
+        "assetName": "dYdX",
+        "assetArcId": "AMB:DYD000000108",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dydx_usd",
+        "instrumentType": "spot"
+    }
+]

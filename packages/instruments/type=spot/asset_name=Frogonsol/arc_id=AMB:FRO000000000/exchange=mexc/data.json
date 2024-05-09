@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FRO000000000_AMB:USD000000335",
+        "normalizedPair": "frogonsol_usdt",
+        "normalizedSymbol": "frogonsol",
+        "nativePair": "FROGONSOLUSDT",
+        "exchange": "mexc",
+        "assetName": "Frogonsol",
+        "assetArcId": "AMB:FRO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "frogonsol_usdt",
+        "instrumentType": "spot"
+    }
+]

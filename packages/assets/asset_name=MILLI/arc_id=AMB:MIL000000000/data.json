@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "milli",
+    "assetName": "MILLI",
+    "assetArcId": "AMB:MIL000000000",
+    "website": "https://milli.dog/",
+    "whitePaperUrl": "/how-to-buy/MILLI?utm_source=mexc&utm_medium=tokenifoMILLI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MILLI/arc_id=AMB:MIL000000000/exchange=mexc/data.json"
+        ]
+    }
+}

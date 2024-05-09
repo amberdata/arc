@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RIT000002135_AMB:USD000000335",
+        "normalizedPair": "rite_usdt",
+        "normalizedSymbol": "rite",
+        "nativePair": "RITEUSDT",
+        "exchange": "mexc",
+        "assetName": "ritestream",
+        "assetArcId": "AMB:RIT000002135",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rite_usdt",
+        "instrumentType": "spot"
+    }
+]
