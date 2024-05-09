@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "klady",
+    "assetName": "KLADY",
+    "assetArcId": "AMB:KLA000001832",
+    "website": "https://klady.lol/",
+    "whitePaperUrl": "https://klady.lol/",
+    "classificationTags": [
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=KLADY/arc_id=AMB:KLA000001832/exchange=mexc/data.json"
+        ]
+    }
+}

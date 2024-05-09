@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "aiemoji",
+    "assetName": "AiEmoji",
+    "assetArcId": "AMB:AIE000001375",
+    "website": "https://aiemoji.top/",
+    "whitePaperUrl": "https://aiemoji.gitbook.io/white-paper/",
+    "classificationTags": [
+        "Content & Streaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AiEmoji/arc_id=AMB:AIE000001375/exchange=mexc/data.json"
+        ]
+    }
+}

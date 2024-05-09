@@ -1,0 +1,30 @@
+{
+    "assetSymbol": "mina",
+    "assetName": "Mina",
+    "assetArcId": "AMB:MIN000000216",
+    "website": "https://minaprotocol.com/",
+    "whitePaperUrl": "https://docs.minaprotocol.com/en",
+    "classificationTags": [
+        "Privacy",
+        "Smart Contract"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Mina",
+            "address": null
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mina/arc_id=AMB:MIN000000216/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mina/arc_id=AMB:MIN000000216/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mina/arc_id=AMB:MIN000000216/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mina/arc_id=AMB:MIN000000216/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mina/arc_id=AMB:MIN000000216/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mina/arc_id=AMB:MIN000000216/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mina/arc_id=AMB:MIN000000216/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mina/arc_id=AMB:MIN000000216/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mina/arc_id=AMB:MIN000000216/exchange=zb/data.json"
+        ]
+    }
+}

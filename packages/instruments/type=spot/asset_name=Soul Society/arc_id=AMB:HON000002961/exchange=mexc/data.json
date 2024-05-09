@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HON000002961_AMB:USD000000335",
+        "normalizedPair": "hon_usdt",
+        "normalizedSymbol": "hon",
+        "nativePair": "HONUSDT",
+        "exchange": "mexc",
+        "assetName": "Soul Society",
+        "assetArcId": "AMB:HON000002961",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hon_usdt",
+        "instrumentType": "spot"
+    }
+]

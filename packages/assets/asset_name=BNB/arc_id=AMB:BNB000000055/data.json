@@ -1,0 +1,25 @@
+{
+    "assetSymbol": "bnb",
+    "assetName": "BNB",
+    "assetArcId": "AMB:BNB000000055",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "DEX",
+        "Gaming",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BNB/arc_id=AMB:BNB000000055/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BNB/arc_id=AMB:BNB000000055/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BNB/arc_id=AMB:BNB000000055/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BNB/arc_id=AMB:BNB000000055/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BNB/arc_id=AMB:BNB000000055/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BNB/arc_id=AMB:BNB000000055/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BNB/arc_id=AMB:BNB000000055/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BNB/arc_id=AMB:BNB000000055/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BNB/arc_id=AMB:BNB000000055/exchange=mexc/data.json"
+        ]
+    }
+}

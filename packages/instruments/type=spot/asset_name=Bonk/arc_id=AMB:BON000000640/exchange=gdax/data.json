@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BON000000640_AMB:USD000000949",
+        "normalizedPair": "bonk_usd",
+        "normalizedSymbol": "bonk",
+        "nativePair": "BONK-USD",
+        "exchange": "gdax",
+        "assetName": "Bonk",
+        "assetArcId": "AMB:BON000000640",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bonk_usd",
+        "instrumentType": "spot"
+    }
+]

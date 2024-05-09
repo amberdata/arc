@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "cyf",
+    "assetName": "Cyclefi Protocol",
+    "assetArcId": "AMB:CYF000000000",
+    "website": "https://www.cyclefiprotocol.xyz/",
+    "whitePaperUrl": "https://cyelefi.gitbook.io/cyclefi-protocol/",
+    "classificationTags": [
+        "Derivatives",
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cyclefi Protocol/arc_id=AMB:CYF000000000/exchange=mexc/data.json"
+        ]
+    }
+}

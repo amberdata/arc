@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "w3g",
+    "assetName": "W3Gamez Network",
+    "assetArcId": "AMB:W3G000000000",
+    "website": "https://w3gamez.network",
+    "whitePaperUrl": "/how-to-buy/W3G?utm_source=mexc&utm_medium=tokenifoW3G&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=W3Gamez Network/arc_id=AMB:W3G000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "assetSymbol": "cvc",
+    "assetName": "Civic",
+    "assetArcId": "AMB:CVC000000088",
+    "website": "https://www.civic.com/",
+    "whitePaperUrl": "https://www.civic.com/wp-content/uploads/2018/05/Token-Behavior-Model-May-16-2018.pdf",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x41e5560054824ea6b0732e656e3ad64e20e94e45"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=poloniex/data.json"
+        ]
+    }
+}

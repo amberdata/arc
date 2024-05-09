@@ -1,0 +1,18 @@
+{
+    "assetSymbol": "iris",
+    "assetName": "IRISnet",
+    "assetArcId": "AMB:IRI000000175",
+    "website": "https://www.irisnet.org/en/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Proof-of-Stake",
+        "Smart Contract",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=IRISnet/arc_id=AMB:IRI000000175/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=IRISnet/arc_id=AMB:IRI000000175/exchange=binance/data.json"
+        ]
+    }
+}

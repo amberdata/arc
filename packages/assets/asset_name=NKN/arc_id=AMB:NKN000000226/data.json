@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "nkn",
+    "assetName": "NKN",
+    "assetArcId": "AMB:NKN000000226",
+    "website": "https://nkn.org/",
+    "whitePaperUrl": "https://nkn.org/wp-content/uploads/2020/10/NKN_Whitepaper.pdf",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x5cf04716ba20127f1e2297addcf4b5035000c9eb"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NKN/arc_id=AMB:NKN000000226/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NKN/arc_id=AMB:NKN000000226/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NKN/arc_id=AMB:NKN000000226/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NKN/arc_id=AMB:NKN000000226/exchange=binance/data.json"
+        ]
+    }
+}

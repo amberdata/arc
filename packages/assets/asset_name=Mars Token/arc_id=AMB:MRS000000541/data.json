@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "mrst",
+    "assetName": "Mars Token",
+    "assetArcId": "AMB:MRS000000541",
+    "website": "https://marslabs.co/",
+    "whitePaperUrl": "https://whitepaper.marscompany.co/",
+    "classificationTags": [
+        "Gaming",
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mars Token/arc_id=AMB:MRS000000541/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mars Token/arc_id=AMB:MRS000000541/exchange=mexc/data.json"
+        ]
+    }
+}

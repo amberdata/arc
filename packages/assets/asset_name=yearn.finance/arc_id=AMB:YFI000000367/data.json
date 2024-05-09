@@ -1,0 +1,35 @@
+{
+    "assetSymbol": "yfi",
+    "assetName": "yearn.finance",
+    "assetArcId": "AMB:YFI000000367",
+    "website": "https://yearn.finance/",
+    "whitePaperUrl": "https://docs.yearn.finance/",
+    "classificationTags": [
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=yearn.finance/arc_id=AMB:YFI000000367/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=yearn.finance/arc_id=AMB:YFI000000367/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=yearn.finance/arc_id=AMB:YFI000000367/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=yearn.finance/arc_id=AMB:YFI000000367/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=yearn.finance/arc_id=AMB:YFI000000367/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=yearn.finance/arc_id=AMB:YFI000000367/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=yearn.finance/arc_id=AMB:YFI000000367/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=yearn.finance/arc_id=AMB:YFI000000367/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=yearn.finance/arc_id=AMB:YFI000000367/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=yearn.finance/arc_id=AMB:YFI000000367/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=yearn.finance/arc_id=AMB:YFI000000367/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=yearn.finance/arc_id=AMB:YFI000000367/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=yearn.finance/arc_id=AMB:YFI000000367/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=yearn.finance/arc_id=AMB:YFI000000367/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=yearn.finance/arc_id=AMB:YFI000000367/exchange=ftxus/data.json"
+        ]
+    }
+}

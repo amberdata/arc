@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AST000003261_AMB:USD000000335",
+        "normalizedPair": "astrb_usdt",
+        "normalizedSymbol": "astrb",
+        "nativePair": "ASTRBUSDT",
+        "exchange": "mexc",
+        "assetName": "ASTROBITS",
+        "assetArcId": "AMB:AST000003261",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "astrb_usdt",
+        "instrumentType": "spot"
+    }
+]

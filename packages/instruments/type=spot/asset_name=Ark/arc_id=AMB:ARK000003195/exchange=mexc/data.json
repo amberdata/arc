@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ARK000003195_AMB:USD000000335",
+        "normalizedPair": "arkt_usdt",
+        "normalizedSymbol": "arkt",
+        "nativePair": "ARKTUSDT",
+        "exchange": "mexc",
+        "assetName": "Ark",
+        "assetArcId": "AMB:ARK000003195",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "arkt_usdt",
+        "instrumentType": "spot"
+    }
+]

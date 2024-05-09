@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "zkb",
+    "assetName": "ZKBase",
+    "assetArcId": "AMB:ZKB000002753",
+    "website": "https://zkbase.org/",
+    "whitePaperUrl": "/how-to-buy/ZKB?utm_source=mexc&utm_medium=tokenifoZKB&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZKBase/arc_id=AMB:ZKB000002753/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZKBase/arc_id=AMB:ZKB000002753/exchange=mexc/data.json"
+        ]
+    }
+}

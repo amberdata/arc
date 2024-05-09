@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SCO000000000_AMB:USD000000335",
+        "normalizedPair": "scottyai_usdt",
+        "normalizedSymbol": "scottyai",
+        "nativePair": "SCOTTYAIUSDT",
+        "exchange": "mexc",
+        "assetName": "Scotty AI",
+        "assetArcId": "AMB:SCO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "scottyai_usdt",
+        "instrumentType": "spot"
+    }
+]

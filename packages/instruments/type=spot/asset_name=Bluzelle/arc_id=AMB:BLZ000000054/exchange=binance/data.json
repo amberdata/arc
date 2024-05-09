@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:BLZ000000054_AMB:BTC000000000",
+        "normalizedPair": "blz_btc",
+        "normalizedSymbol": "blz",
+        "nativePair": "BLZBTC",
+        "exchange": "binance",
+        "assetName": "Bluzelle",
+        "assetArcId": "AMB:BLZ000000054",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "blz_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BLZ000000054_AMB:USD000000335",
+        "normalizedPair": "blz_usdt",
+        "normalizedSymbol": "blz",
+        "nativePair": "BLZUSDT",
+        "exchange": "binance",
+        "assetName": "Bluzelle",
+        "assetArcId": "AMB:BLZ000000054",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "blz_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BLZ000000054_AMB:FDU000000122",
+        "normalizedPair": "blz_fdusd",
+        "normalizedSymbol": "blz",
+        "nativePair": "BLZFDUSD",
+        "exchange": "binance",
+        "assetName": "Bluzelle",
+        "assetArcId": "AMB:BLZ000000054",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "blz_fdusd",
+        "instrumentType": "spot"
+    }
+]

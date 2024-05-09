@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "adex",
+    "assetName": "Adadex",
+    "assetArcId": "AMB:ADE000001359",
+    "website": "https://adadex.net/",
+    "whitePaperUrl": "https://doc.adadex.net/",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Adadex/arc_id=AMB:ADE000001359/exchange=mexc/data.json"
+        ]
+    }
+}

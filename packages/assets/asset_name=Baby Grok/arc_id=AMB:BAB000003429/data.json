@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "babygrok1",
+    "assetName": "Baby Grok",
+    "assetArcId": "AMB:BAB000003429",
+    "website": "https://baby-grok.xyz/",
+    "whitePaperUrl": "/how-to-buy/BABYGROK1?utm_source=mexc&utm_medium=tokenifoBABYGROK1&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Baby Grok/arc_id=AMB:BAB000003429/exchange=mexc/data.json"
+        ]
+    }
+}

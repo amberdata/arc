@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PAY000003042_AMB:USD000000335",
+        "normalizedPair": "pays_usdt",
+        "normalizedSymbol": "pays",
+        "nativePair": "PAYSUSDT",
+        "exchange": "mexc",
+        "assetName": "Payslink Token",
+        "assetArcId": "AMB:PAY000003042",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pays_usdt",
+        "instrumentType": "spot"
+    }
+]

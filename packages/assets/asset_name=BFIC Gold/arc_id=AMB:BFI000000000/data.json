@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "bficgold",
+    "assetName": "BFIC Gold",
+    "assetArcId": "AMB:BFI000000000",
+    "website": "https://bficgold.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "BFIC Blockchain",
+            "address": "0xCE2B74E3137722C140772F0a0db55FEe76AC2F2D"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BFIC Gold/arc_id=AMB:BFI000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

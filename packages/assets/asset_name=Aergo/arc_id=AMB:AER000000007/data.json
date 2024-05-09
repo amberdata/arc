@@ -1,0 +1,27 @@
+{
+    "assetSymbol": "aergo",
+    "assetName": "Aergo",
+    "assetArcId": "AMB:AER000000007",
+    "website": "https://www.aergo.io/",
+    "whitePaperUrl": "https://paper.aergo.io/AERGO_Whitepaper_v5.2.pdf",
+    "classificationTags": [
+        "Privacy",
+        "Smart Contract",
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x91af0fbb28aba7e31403cb457106ce79397fd4e6"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aergo/arc_id=AMB:AER000000007/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aergo/arc_id=AMB:AER000000007/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aergo/arc_id=AMB:AER000000007/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aergo/arc_id=AMB:AER000000007/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aergo/arc_id=AMB:AER000000007/exchange=mexc/data.json"
+        ]
+    }
+}

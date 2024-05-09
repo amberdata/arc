@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dnx",
+    "assetName": "Dynex",
+    "assetArcId": "AMB:DNX000001601",
+    "website": "https://dynexcoin.org/",
+    "whitePaperUrl": "/how-to-buy/DNX?utm_source=mexc&utm_medium=tokenifoDNX&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dynex/arc_id=AMB:DNX000001601/exchange=mexc/data.json"
+        ]
+    }
+}

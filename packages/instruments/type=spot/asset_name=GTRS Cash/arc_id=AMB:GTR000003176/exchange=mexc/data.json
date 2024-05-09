@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GTR000003176_AMB:USD000000335",
+        "normalizedPair": "gtrs_usdt",
+        "normalizedSymbol": "gtrs",
+        "nativePair": "GTRSUSDT",
+        "exchange": "mexc",
+        "assetName": "GTRS Cash",
+        "assetArcId": "AMB:GTR000003176",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gtrs_usdt",
+        "instrumentType": "spot"
+    }
+]

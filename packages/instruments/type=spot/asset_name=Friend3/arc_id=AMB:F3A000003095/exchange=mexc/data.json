@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:F3A000003095_AMB:USD000000335",
+        "normalizedPair": "f3_usdt",
+        "normalizedSymbol": "f3",
+        "nativePair": "F3USDT",
+        "exchange": "mexc",
+        "assetName": "Friend3",
+        "assetArcId": "AMB:F3A000003095",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "f3_usdt",
+        "instrumentType": "spot"
+    }
+]

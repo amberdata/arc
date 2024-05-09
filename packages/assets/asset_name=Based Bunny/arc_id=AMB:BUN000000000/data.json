@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "bunny.amb.1",
+    "assetName": "Based Bunny",
+    "assetArcId": "AMB:BUN000000000",
+    "website": "https://www.basedbunny.wtf/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "BASE",
+            "address": "0x75570E1189fFC1d63B3417CdF0889F87cD3E9bD1"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Based Bunny/arc_id=AMB:BUN000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

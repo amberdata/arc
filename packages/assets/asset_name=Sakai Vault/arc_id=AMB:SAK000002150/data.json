@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "sakai",
+    "assetName": "Sakai Vault",
+    "assetArcId": "AMB:SAK000002150",
+    "website": "https://sakaivault.io/",
+    "whitePaperUrl": "https://docs.sakaivault.io/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sakai Vault/arc_id=AMB:SAK000002150/exchange=mexc/data.json"
+        ]
+    }
+}

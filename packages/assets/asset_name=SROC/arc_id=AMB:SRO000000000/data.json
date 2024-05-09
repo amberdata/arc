@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "sroc",
+    "assetName": "SROC",
+    "assetArcId": "AMB:SRO000000000",
+    "website": "https://superraccoon.xyz/",
+    "whitePaperUrl": "/how-to-buy/SROC?utm_source=mexc&utm_medium=tokenifoSROC&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SROC/arc_id=AMB:SRO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

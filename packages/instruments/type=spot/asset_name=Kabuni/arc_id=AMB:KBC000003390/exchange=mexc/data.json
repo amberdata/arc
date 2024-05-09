@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KBC000003390_AMB:USD000000335",
+        "normalizedPair": "kbc_usdt",
+        "normalizedSymbol": "kbc",
+        "nativePair": "KBCUSDT",
+        "exchange": "mexc",
+        "assetName": "Kabuni",
+        "assetArcId": "AMB:KBC000003390",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kbc_usdt",
+        "instrumentType": "spot"
+    }
+]

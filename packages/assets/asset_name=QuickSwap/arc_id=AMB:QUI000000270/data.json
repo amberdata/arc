@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "quick",
+    "assetName": "QuickSwap",
+    "assetArcId": "AMB:QUI000000270",
+    "website": "https://quickswap.exchange/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

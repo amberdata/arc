@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "mctu",
+    "assetName": "Muverse",
+    "assetArcId": "AMB:MCT000001905",
+    "website": "https://www.muverse.info/#",
+    "whitePaperUrl": "https://muverse-nft.gitbook.io/muverse-2.0-whitepaper/#",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Muverse/arc_id=AMB:MCT000001905/exchange=mexc/data.json"
+        ]
+    }
+}

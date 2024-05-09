@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AVA000003305_AMB:USD000000335",
+        "normalizedPair": "avalox_usdt",
+        "normalizedSymbol": "avalox",
+        "nativePair": "AVALOXUSDT",
+        "exchange": "mexc",
+        "assetName": "Avalox",
+        "assetArcId": "AMB:AVA000003305",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "avalox_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:CBA000000000_AMB:USD000000335",
+        "normalizedPair": "cbank_usdt",
+        "normalizedSymbol": "cbank",
+        "nativePair": "CBANKUSDT",
+        "exchange": "mexc",
+        "assetName": "CASH BANK",
+        "assetArcId": "AMB:CBA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cbank_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CBA000000000_AMB:USD000000335",
+        "normalizedPair": "cb_usdt",
+        "normalizedSymbol": "cb",
+        "nativePair": "CBUSDT",
+        "exchange": "mexc",
+        "assetName": "CatBit",
+        "assetArcId": "AMB:CBA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cb_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "cgg",
+    "assetName": "ChainGuardians",
+    "assetArcId": "AMB:CGG000001530",
+    "website": "https://www.chainguardians.io/",
+    "whitePaperUrl": "https://cg.mypinata.cloud/ipfs/QmZg7Tjogoi1u6A438CpzHaw8uBwHzCGBcjaC2ysunTVdP",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ChainGuardians/arc_id=AMB:CGG000001530/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETC000000000_AMB:USD000000335",
+        "normalizedPair": "etcpow_usdt",
+        "normalizedSymbol": "etcpow",
+        "nativePair": "ETCPOWUSDT",
+        "exchange": "mexc",
+        "assetName": "ETCMC",
+        "assetArcId": "AMB:ETC000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "etcpow_usdt",
+        "instrumentType": "spot"
+    }
+]

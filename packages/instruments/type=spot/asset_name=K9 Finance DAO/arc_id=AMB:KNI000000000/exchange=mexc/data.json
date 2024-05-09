@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KNI000000000_AMB:USD000000335",
+        "normalizedPair": "knine_usdt",
+        "normalizedSymbol": "knine",
+        "nativePair": "KNINEUSDT",
+        "exchange": "mexc",
+        "assetName": "K9 Finance DAO",
+        "assetArcId": "AMB:KNI000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "knine_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "islm",
+    "assetName": "Islamic Coin",
+    "assetArcId": "AMB:ISL000000000",
+    "website": "https://islamiccoin.net/",
+    "whitePaperUrl": "https://haqq.network/wp",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Islamic Coin/arc_id=AMB:ISL000000000/exchange=mexc/data.json"
+        ]
+    }
+}

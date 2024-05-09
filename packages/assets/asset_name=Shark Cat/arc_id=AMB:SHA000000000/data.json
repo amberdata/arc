@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "sharkcat",
+    "assetName": "Shark Cat",
+    "assetArcId": "AMB:SHA000000000",
+    "website": "https://sharkcatsol.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "6D7NaB2xsLd7cauWu1wKk6KBsJohJmP2qZH9GEfVi5Ui"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Shark Cat/arc_id=AMB:SHA000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

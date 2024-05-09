@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GDT000000000_AMB:USD000000335",
+        "normalizedPair": "gdt_usdt",
+        "normalizedSymbol": "gdt",
+        "nativePair": "GDTUSDT",
+        "exchange": "mexc",
+        "assetName": "Gradient",
+        "assetArcId": "AMB:GDT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gdt_usdt",
+        "instrumentType": "spot"
+    }
+]

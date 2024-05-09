@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VVS000000000_AMB:USD000000335",
+        "normalizedPair": "vvs_usdt",
+        "normalizedSymbol": "vvs",
+        "nativePair": "VVSUSDT",
+        "exchange": "mexc",
+        "assetName": "VVS Finance",
+        "assetArcId": "AMB:VVS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vvs_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "vrh",
+    "assetName": "Versailles Heroes",
+    "assetArcId": "AMB:VRH000002326",
+    "website": "https://versaillesheroes.com/home",
+    "whitePaperUrl": "https://docs.versaillesheroes.com/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Versailles Heroes/arc_id=AMB:VRH000002326/exchange=mexc/data.json"
+        ]
+    }
+}

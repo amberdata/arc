@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIW000000000_AMB:USD000000335",
+        "normalizedPair": "aiwld_usdt",
+        "normalizedSymbol": "aiwld",
+        "nativePair": "AIWLDUSDT",
+        "exchange": "mexc",
+        "assetName": "AIWORLD",
+        "assetArcId": "AMB:AIW000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aiwld_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "eyt",
+    "assetName": "EasyToken",
+    "assetArcId": "AMB:EYT000003138",
+    "website": "http://easytoken.space/",
+    "whitePaperUrl": "/how-to-buy/EYT?utm_source=mexc&utm_medium=tokenifoEYT&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EasyToken/arc_id=AMB:EYT000003138/exchange=mexc/data.json"
+        ]
+    }
+}

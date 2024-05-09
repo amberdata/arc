@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "gcat",
+    "assetName": "GCAT",
+    "assetArcId": "AMB:GCA000000000",
+    "website": "https://garfieldcat.world/",
+    "whitePaperUrl": "/how-to-buy/GCAT?utm_source=mexc&utm_medium=tokenifoGCAT&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GCAT/arc_id=AMB:GCA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

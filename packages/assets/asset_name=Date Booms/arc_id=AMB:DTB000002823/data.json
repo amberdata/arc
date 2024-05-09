@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "dtbom",
+    "assetName": "Date Booms",
+    "assetArcId": "AMB:DTB000002823",
+    "website": "https://datebooms.com/",
+    "whitePaperUrl": "https://datebooms.com/wp-content/uploads/2023/12/DTBOM-Whitepaper.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Date Booms/arc_id=AMB:DTB000002823/exchange=mexc/data.json"
+        ]
+    }
+}

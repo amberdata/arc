@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "metafi",
+    "assetName": "METAFI",
+    "assetArcId": "AMB:MET000001914",
+    "website": "https://metafinance.com/",
+    "whitePaperUrl": "https://metafinance.gitbook.io/metafinance/",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

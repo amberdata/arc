@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "acs",
+    "assetName": "Access Protocol",
+    "assetArcId": "AMB:ACS000000375",
+    "website": "https://www.accessprotocol.co/",
+    "whitePaperUrl": "https://www.accessprotocol.co/Whitepaper_Access.pdf",
+    "classificationTags": [
+        "Content & Streaming"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "5maydfq5yxtudahtfyumbuhzjgabas9tbeyeqyahds5y"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

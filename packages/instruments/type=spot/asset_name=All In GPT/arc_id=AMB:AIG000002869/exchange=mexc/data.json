@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIG000002869_AMB:USD000000335",
+        "normalizedPair": "aigpt_usdt",
+        "normalizedSymbol": "aigpt",
+        "nativePair": "AIGPTUSDT",
+        "exchange": "mexc",
+        "assetName": "All In GPT",
+        "assetArcId": "AMB:AIG000002869",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aigpt_usdt",
+        "instrumentType": "spot"
+    }
+]

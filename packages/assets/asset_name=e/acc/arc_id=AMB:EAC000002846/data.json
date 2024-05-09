@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "eacc",
+    "assetName": "e/acc",
+    "assetArcId": "AMB:EAC000002846",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC",
+            "address": "0xc03D38F89b175596859C99eaB231d31e1808358c"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=e/acc/arc_id=AMB:EAC000002846/exchange=poloniex/data.json"
+        ]
+    }
+}

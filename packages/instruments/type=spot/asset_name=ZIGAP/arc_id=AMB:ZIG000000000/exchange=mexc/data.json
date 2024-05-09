@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZIG000000000_AMB:USD000000335",
+        "normalizedPair": "zigap_usdt",
+        "normalizedSymbol": "zigap",
+        "nativePair": "ZIGAPUSDT",
+        "exchange": "mexc",
+        "assetName": "ZIGAP",
+        "assetArcId": "AMB:ZIG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zigap_usdt",
+        "instrumentType": "spot"
+    }
+]

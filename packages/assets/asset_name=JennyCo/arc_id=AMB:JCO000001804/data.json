@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "jco",
+    "assetName": "JennyCo",
+    "assetArcId": "AMB:JCO000001804",
+    "website": "https://jennyco.com/",
+    "whitePaperUrl": "/how-to-buy/JCO?utm_source=mexc&utm_medium=tokenifoJCO&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=JennyCo/arc_id=AMB:JCO000001804/exchange=mexc/data.json"
+        ]
+    }
+}

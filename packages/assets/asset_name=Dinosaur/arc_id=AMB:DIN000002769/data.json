@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dinos",
+    "assetName": "Dinosaur",
+    "assetArcId": "AMB:DIN000002769",
+    "website": "https://dinotoken.space/",
+    "whitePaperUrl": "https://whitepaper.dinotoken.space/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dinosaur/arc_id=AMB:DIN000002769/exchange=mexc/data.json"
+        ]
+    }
+}

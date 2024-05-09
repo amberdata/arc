@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "meowif",
+    "assetName": "Meowifhat",
+    "assetArcId": "AMB:MEO000000000",
+    "website": "https://meowifcoin.org/",
+    "whitePaperUrl": "https://meowifcoin.gitbook.io/whitepaper",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Meowifhat/arc_id=AMB:MEO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

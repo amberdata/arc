@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MBG000000000_AMB:USD000000335",
+        "normalizedPair": "mbg_usdt",
+        "normalizedSymbol": "mbg",
+        "nativePair": "MBGUSDT",
+        "exchange": "mexc",
+        "assetName": "MinBig",
+        "assetArcId": "AMB:MBG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mbg_usdt",
+        "instrumentType": "spot"
+    }
+]

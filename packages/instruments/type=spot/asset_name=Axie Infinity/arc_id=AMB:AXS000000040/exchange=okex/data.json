@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:AXS000000040_AMB:USD000000333",
+        "normalizedPair": "axs_usdc",
+        "normalizedSymbol": "axs",
+        "nativePair": "AXS-USDC",
+        "exchange": "okex",
+        "assetName": "Axie Infinity",
+        "assetArcId": "AMB:AXS000000040",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "axs_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AXS000000040_AMB:USD000000335",
+        "normalizedPair": "axs_usdt",
+        "normalizedSymbol": "axs",
+        "nativePair": "AXS-USDT",
+        "exchange": "okex",
+        "assetName": "Axie Infinity",
+        "assetArcId": "AMB:AXS000000040",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "axs_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AXS000000040_AMB:EUR000000120",
+        "normalizedPair": "axs_eur",
+        "normalizedSymbol": "axs",
+        "nativePair": "AXS-EUR",
+        "exchange": "okex",
+        "assetName": "Axie Infinity",
+        "assetArcId": "AMB:AXS000000040",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "axs_eur",
+        "instrumentType": "spot"
+    }
+]

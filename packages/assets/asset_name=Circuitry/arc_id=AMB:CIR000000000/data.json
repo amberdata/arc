@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "circuitry",
+    "assetName": "Circuitry",
+    "assetArcId": "AMB:CIR000000000",
+    "website": "https://circuitrynft.xyz/",
+    "whitePaperUrl": "/how-to-buy/CIRCUITRY?utm_source=mexc&utm_medium=tokenifoCIRCUITRY&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Circuitry/arc_id=AMB:CIR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "safemars1",
+    "assetName": "SAFEMARS",
+    "assetArcId": "AMB:SAF000003181",
+    "website": "https://safemars.xyz/",
+    "whitePaperUrl": "/how-to-buy/SAFEMARS1?utm_source=mexc&utm_medium=tokenifoSAFEMARS1&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SAFEMARS/arc_id=AMB:SAF000003181/exchange=mexc/data.json"
+        ]
+    }
+}

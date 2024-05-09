@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:USD000000013_AMB:USD000000335",
+        "normalizedPair": "usdm_usdt",
+        "normalizedSymbol": "usdm",
+        "nativePair": "USDMUSDT",
+        "exchange": "mexc",
+        "assetName": "USD Mapped Token",
+        "assetArcId": "AMB:USD000000013",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "usdm_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:FID000000124_AMB:BTC000000000",
+        "normalizedPair": "fida_btc",
+        "normalizedSymbol": "fida",
+        "nativePair": "FIDABTC",
+        "exchange": "binance",
+        "assetName": "Bonfida",
+        "assetArcId": "AMB:FID000000124",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "fida_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FID000000124_AMB:BUS000000067",
+        "normalizedPair": "fida_busd",
+        "normalizedSymbol": "fida",
+        "nativePair": "FIDABUSD",
+        "exchange": "binance",
+        "assetName": "Bonfida",
+        "assetArcId": "AMB:FID000000124",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "fida_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FID000000124_AMB:USD000000335",
+        "normalizedPair": "fida_usdt",
+        "normalizedSymbol": "fida",
+        "nativePair": "FIDAUSDT",
+        "exchange": "binance",
+        "assetName": "Bonfida",
+        "assetArcId": "AMB:FID000000124",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fida_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FID000000124_AMB:TRY000000940",
+        "normalizedPair": "fida_try",
+        "normalizedSymbol": "fida",
+        "nativePair": "FIDATRY",
+        "exchange": "binance",
+        "assetName": "Bonfida",
+        "assetArcId": "AMB:FID000000124",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "fida_try",
+        "instrumentType": "spot"
+    }
+]

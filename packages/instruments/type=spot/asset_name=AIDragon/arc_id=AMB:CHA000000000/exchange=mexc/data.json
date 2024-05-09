@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:CHA000000000_AMB:USD000000335",
+        "normalizedPair": "chatai_usdt",
+        "normalizedSymbol": "chatai",
+        "nativePair": "CHATAIUSDT",
+        "exchange": "mexc",
+        "assetName": "ChatAI",
+        "assetArcId": "AMB:CHA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "chatai_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CHA000000000_AMB:USD000000335",
+        "normalizedPair": "chatni_usdt",
+        "normalizedSymbol": "chatni",
+        "nativePair": "CHATNIUSDT",
+        "exchange": "mexc",
+        "assetName": "Chatni",
+        "assetArcId": "AMB:CHA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "chatni_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CHA000000000_AMB:USD000000335",
+        "normalizedPair": "chatgpt_usdt",
+        "normalizedSymbol": "chatgpt",
+        "nativePair": "CHATGPTUSDT",
+        "exchange": "mexc",
+        "assetName": "AIDragon",
+        "assetArcId": "AMB:CHA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "chatgpt_usdt",
+        "instrumentType": "spot"
+    }
+]

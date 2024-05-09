@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "a4m",
+    "assetName": "AlienForm",
+    "assetArcId": "AMB:A4M000000000",
+    "website": "https://alien4m.com/",
+    "whitePaperUrl": "https://alien4m.com/images/Whitepaper.pdf",
+    "classificationTags": [
+        "Governance",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AlienForm/arc_id=AMB:A4M000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bean",
+    "assetName": "AzukiDAO",
+    "assetArcId": "AMB:BEA000001453",
+    "website": "https://www.azukidao.io/",
+    "whitePaperUrl": "/how-to-buy/BEAN?utm_source=mexc&utm_medium=tokenifoBEAN&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AzukiDAO/arc_id=AMB:BEA000001453/exchange=mexc/data.json"
+        ]
+    }
+}

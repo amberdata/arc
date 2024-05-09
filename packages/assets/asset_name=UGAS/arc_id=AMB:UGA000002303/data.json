@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "ugas",
+    "assetName": "UGAS",
+    "assetArcId": "AMB:UGA000002303",
+    "website": "--",
+    "whitePaperUrl": "/how-to-buy/UGAS?utm_source=mexc&utm_medium=tokenifoUGAS&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Privacy",
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=UGAS/arc_id=AMB:UGA000002303/exchange=mexc/data.json"
+        ]
+    }
+}

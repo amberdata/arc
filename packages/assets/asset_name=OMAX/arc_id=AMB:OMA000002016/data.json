@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "omax",
+    "assetName": "OMAX",
+    "assetArcId": "AMB:OMA000002016",
+    "website": "https://omaxcoin.com/",
+    "whitePaperUrl": "https://omaxcoin.com/Whitepaper/OMAX_Whitepaper.pdf",
+    "classificationTags": [
+        "Proof-of-Stake",
+        "Smart Contract",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

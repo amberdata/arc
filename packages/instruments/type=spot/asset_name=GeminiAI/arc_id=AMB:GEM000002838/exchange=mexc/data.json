@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GEM000002838_AMB:USD000000335",
+        "normalizedPair": "geminiai_usdt",
+        "normalizedSymbol": "geminiai",
+        "nativePair": "GEMINIAIUSDT",
+        "exchange": "mexc",
+        "assetName": "GeminiAI",
+        "assetArcId": "AMB:GEM000002838",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "geminiai_usdt",
+        "instrumentType": "spot"
+    }
+]

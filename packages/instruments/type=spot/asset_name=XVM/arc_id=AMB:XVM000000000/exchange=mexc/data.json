@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XVM000000000_AMB:USD000000335",
+        "normalizedPair": "xvm_usdt",
+        "normalizedSymbol": "xvm",
+        "nativePair": "XVMUSDT",
+        "exchange": "mexc",
+        "assetName": "XVM",
+        "assetArcId": "AMB:XVM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xvm_usdt",
+        "instrumentType": "spot"
+    }
+]

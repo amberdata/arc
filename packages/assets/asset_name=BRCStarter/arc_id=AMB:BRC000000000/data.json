@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "brcst",
+    "assetName": "BRCStarter",
+    "assetArcId": "AMB:BRC000000000",
+    "website": "https://www.brcstarter.io/",
+    "whitePaperUrl": "https://brcstarter.gitbook.io/brcstarter-litepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BRCStarter/arc_id=AMB:BRC000000000/exchange=mexc/data.json"
+        ]
+    }
+}

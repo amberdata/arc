@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NLS000003303_AMB:USD000000335",
+        "normalizedPair": "nls_usdt",
+        "normalizedSymbol": "nls",
+        "nativePair": "NLSUSDT",
+        "exchange": "mexc",
+        "assetName": "Nolus",
+        "assetArcId": "AMB:NLS000003303",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nls_usdt",
+        "instrumentType": "spot"
+    }
+]

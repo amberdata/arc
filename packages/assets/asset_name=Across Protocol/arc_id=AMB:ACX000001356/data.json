@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "acx",
+    "assetName": "Across Protocol",
+    "assetArcId": "AMB:ACX000001356",
+    "website": "https://across.to/",
+    "whitePaperUrl": "https://docs.across.to/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Across Protocol/arc_id=AMB:ACX000001356/exchange=mexc/data.json"
+        ]
+    }
+}

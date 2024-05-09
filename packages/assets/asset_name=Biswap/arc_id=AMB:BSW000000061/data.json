@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "bsw",
+    "assetName": "Biswap",
+    "assetArcId": "AMB:BSW000000061",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Biswap/arc_id=AMB:BSW000000061/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Biswap/arc_id=AMB:BSW000000061/exchange=binance/data.json"
+        ]
+    }
+}

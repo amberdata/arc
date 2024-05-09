@@ -1,0 +1,18 @@
+{
+    "assetSymbol": "xem",
+    "assetName": "NEM",
+    "assetArcId": "AMB:XEM000000358",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NEM/arc_id=AMB:XEM000000358/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NEM/arc_id=AMB:XEM000000358/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NEM/arc_id=AMB:XEM000000358/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NEM/arc_id=AMB:XEM000000358/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NEM/arc_id=AMB:XEM000000358/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NEM/arc_id=AMB:XEM000000358/exchange=zb/data.json"
+        ]
+    }
+}

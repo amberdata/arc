@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:LEV000000190_AMB:BUS000000067",
+        "normalizedPair": "lever_busd",
+        "normalizedSymbol": "lever",
+        "nativePair": "LEVERBUSD",
+        "exchange": "binance",
+        "assetName": "LeverFi",
+        "assetArcId": "AMB:LEV000000190",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "lever_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LEV000000190_AMB:USD000000335",
+        "normalizedPair": "lever_usdt",
+        "normalizedSymbol": "lever",
+        "nativePair": "LEVERUSDT",
+        "exchange": "binance",
+        "assetName": "LeverFi",
+        "assetArcId": "AMB:LEV000000190",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lever_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LEV000000190_AMB:TRY000000940",
+        "normalizedPair": "lever_try",
+        "normalizedSymbol": "lever",
+        "nativePair": "LEVERTRY",
+        "exchange": "binance",
+        "assetName": "LeverFi",
+        "assetArcId": "AMB:LEV000000190",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "lever_try",
+        "instrumentType": "spot"
+    }
+]

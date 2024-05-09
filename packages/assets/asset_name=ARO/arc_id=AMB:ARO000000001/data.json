@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "aro",
+    "assetName": "ARO",
+    "assetArcId": "AMB:ARO000000001",
+    "website": "https://www.aroonexchange.xyz/",
+    "whitePaperUrl": "https://aroon-dex.gitbook.io/aroon-dex",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ARO/arc_id=AMB:ARO000000001/exchange=mexc/data.json"
+        ]
+    }
+}

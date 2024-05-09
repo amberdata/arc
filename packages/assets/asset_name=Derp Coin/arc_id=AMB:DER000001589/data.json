@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "derp",
+    "assetName": "Derp Coin",
+    "assetArcId": "AMB:DER000001589",
+    "website": "https://www.derp.gay/",
+    "whitePaperUrl": "/how-to-buy/DERP?utm_source=mexc&utm_medium=tokenifoDERP&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Derp Coin/arc_id=AMB:DER000001589/exchange=mexc/data.json"
+        ]
+    }
+}

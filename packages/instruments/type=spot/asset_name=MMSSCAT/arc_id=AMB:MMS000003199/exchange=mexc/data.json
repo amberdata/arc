@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MMS000003199_AMB:USD000000335",
+        "normalizedPair": "mmsscat_usdt",
+        "normalizedSymbol": "mmsscat",
+        "nativePair": "MMSSCATUSDT",
+        "exchange": "mexc",
+        "assetName": "MMSSCAT",
+        "assetArcId": "AMB:MMS000003199",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mmsscat_usdt",
+        "instrumentType": "spot"
+    }
+]

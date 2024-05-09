@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LOO000000000_AMB:USD000000335",
+        "normalizedPair": "loong_usdt",
+        "normalizedSymbol": "loong",
+        "nativePair": "LOONGUSDT",
+        "exchange": "mexc",
+        "assetName": "LOONG",
+        "assetArcId": "AMB:LOO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "loong_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LOO000000000_AMB:USD000000335",
+        "normalizedPair": "loopy_usdt",
+        "normalizedSymbol": "loopy",
+        "nativePair": "LOOPYUSDT",
+        "exchange": "mexc",
+        "assetName": "LOOPY",
+        "assetArcId": "AMB:LOO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "loopy_usdt",
+        "instrumentType": "spot"
+    }
+]

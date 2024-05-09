@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "ai",
+    "assetName": "Sleepless AI",
+    "assetArcId": "AMB:AIA000002793",
+    "website": "https://www.sleeplessai.net/home",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming",
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sleepless AI/arc_id=AMB:AIA000002793/exchange=binance/data.json"
+        ]
+    }
+}

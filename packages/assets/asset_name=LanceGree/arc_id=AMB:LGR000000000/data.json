@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "lgr",
+    "assetName": "LanceGree",
+    "assetArcId": "AMB:LGR000000000",
+    "website": "https://lancegree.xyz/",
+    "whitePaperUrl": "https://docs.lancegree.xyz/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=LanceGree/arc_id=AMB:LGR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

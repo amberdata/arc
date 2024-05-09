@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "meme3",
+    "assetName": "MEME Coin",
+    "assetArcId": "AMB:MEM000003311",
+    "website": "#",
+    "whitePaperUrl": "https://meme3.gitbook.io/meme3/",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MEME Coin/arc_id=AMB:MEM000003311/exchange=mexc/data.json"
+        ]
+    }
+}

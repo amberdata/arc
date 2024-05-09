@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AER000000000_AMB:USD000000949",
+        "normalizedPair": "aero_usd",
+        "normalizedSymbol": "aero",
+        "nativePair": "AERO-USD",
+        "exchange": "gdax",
+        "assetName": "Aerodrome Finance",
+        "assetArcId": "AMB:AER000000000",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "aero_usd",
+        "instrumentType": "spot"
+    }
+]

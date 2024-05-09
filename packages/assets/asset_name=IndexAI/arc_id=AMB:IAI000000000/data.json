@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "iai",
+    "assetName": "IndexAI",
+    "assetArcId": "AMB:IAI000000000",
+    "website": "https://index.ai/",
+    "whitePaperUrl": "/how-to-buy/IAI?utm_source=mexc&utm_medium=tokenifoIAI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=IndexAI/arc_id=AMB:IAI000000000/exchange=mexc/data.json"
+        ]
+    }
+}

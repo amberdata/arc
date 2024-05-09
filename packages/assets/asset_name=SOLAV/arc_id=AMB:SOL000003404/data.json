@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "solav",
+    "assetName": "SOLAV",
+    "assetArcId": "AMB:SOL000003404",
+    "website": "https://www.solav.io/",
+    "whitePaperUrl": "https://solav.gitbook.io/solav-docs/introduction-and-overview/getting-started",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SOLAV/arc_id=AMB:SOL000003404/exchange=mexc/data.json"
+        ]
+    }
+}

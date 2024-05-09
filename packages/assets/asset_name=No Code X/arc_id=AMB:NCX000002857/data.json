@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "ncx",
+    "assetName": "No Code X",
+    "assetArcId": "AMB:NCX000002857",
+    "website": "https://ncxapp.com/",
+    "whitePaperUrl": "https://ncxapp.com/wp-content/uploads/2023/11/CODE-X-1.pdf",
+    "classificationTags": [
+        "Machine Learning & AI"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=No Code X/arc_id=AMB:NCX000002857/exchange=mexc/data.json"
+        ]
+    }
+}

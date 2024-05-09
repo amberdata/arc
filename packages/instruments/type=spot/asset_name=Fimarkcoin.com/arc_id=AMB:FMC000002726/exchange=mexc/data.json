@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FMC000002726_AMB:USD000000335",
+        "normalizedPair": "fmc_usdt",
+        "normalizedSymbol": "fmc",
+        "nativePair": "FMCUSDT",
+        "exchange": "mexc",
+        "assetName": "Fimarkcoin.com",
+        "assetArcId": "AMB:FMC000002726",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fmc_usdt",
+        "instrumentType": "spot"
+    }
+]

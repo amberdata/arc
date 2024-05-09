@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:YAO000000000_AMB:USD000000335",
+        "normalizedPair": "yaoyao_usdt",
+        "normalizedSymbol": "yaoyao",
+        "nativePair": "YAOYAOUSDT",
+        "exchange": "mexc",
+        "assetName": "Yaoyaos Cat",
+        "assetArcId": "AMB:YAO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "yaoyao_usdt",
+        "instrumentType": "spot"
+    }
+]

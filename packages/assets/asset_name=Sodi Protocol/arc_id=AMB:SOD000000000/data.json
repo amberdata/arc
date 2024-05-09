@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "sodi",
+    "assetName": "Sodi Protocol",
+    "assetArcId": "AMB:SOD000000000",
+    "website": "https://www.sodi.ai",
+    "whitePaperUrl": "https://sodi-ai.gitbook.io/sodi",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sodi Protocol/arc_id=AMB:SOD000000000/exchange=mexc/data.json"
+        ]
+    }
+}

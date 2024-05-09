@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SEE000002991_AMB:USD000000335",
+        "normalizedPair": "seed_usdt",
+        "normalizedSymbol": "seed",
+        "nativePair": "SEEDUSDT",
+        "exchange": "mexc",
+        "assetName": "ToxicGarden.finance SEED",
+        "assetArcId": "AMB:SEE000002991",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "seed_usdt",
+        "instrumentType": "spot"
+    }
+]

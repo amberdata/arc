@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FIB000002870_AMB:USD000000335",
+        "normalizedPair": "fib_usdt",
+        "normalizedSymbol": "fib",
+        "nativePair": "FIBUSDT",
+        "exchange": "mexc",
+        "assetName": "FIBON",
+        "assetArcId": "AMB:FIB000002870",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fib_usdt",
+        "instrumentType": "spot"
+    }
+]

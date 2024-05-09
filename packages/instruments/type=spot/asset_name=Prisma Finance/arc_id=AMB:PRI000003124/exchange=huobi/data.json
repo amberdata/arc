@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PRI000003124_AMB:USD000000335",
+        "normalizedPair": "prisma_usdt",
+        "normalizedSymbol": "prisma",
+        "nativePair": "prismausdt",
+        "exchange": "huobi",
+        "assetName": "Prisma Finance",
+        "assetArcId": "AMB:PRI000003124",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "prisma_usdt",
+        "instrumentType": "spot"
+    }
+]

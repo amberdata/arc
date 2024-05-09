@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "gsf",
+    "assetName": "GenesisForge",
+    "assetArcId": "AMB:GSF000000000",
+    "website": "http://www.genesisforge.biz/",
+    "whitePaperUrl": "https://genesisforge.gitbook.io/genesisforge/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GenesisForge/arc_id=AMB:GSF000000000/exchange=mexc/data.json"
+        ]
+    }
+}

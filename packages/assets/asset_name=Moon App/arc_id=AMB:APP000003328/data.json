@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "app",
+    "assetName": "Moon App",
+    "assetArcId": "AMB:APP000003328",
+    "website": "http://moonapp.io/",
+    "whitePaperUrl": "https://www.moonapp.io/litepaper",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Moon App/arc_id=AMB:APP000003328/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Moon App/arc_id=AMB:APP000003328/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Moon App/arc_id=AMB:APP000003328/exchange=bitfinex/data.json"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "assetSymbol": "aave",
+    "assetName": "Aave",
+    "assetArcId": "AMB:AAV000000001",
+    "website": "https://aave.com/",
+    "whitePaperUrl": "https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf",
+    "classificationTags": [
+        "Governance",
+        "Lending",
+        "DeFi"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+            "decimals": 18
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aave/arc_id=AMB:AAV000000001/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aave/arc_id=AMB:AAV000000001/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aave/arc_id=AMB:AAV000000001/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aave/arc_id=AMB:AAV000000001/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aave/arc_id=AMB:AAV000000001/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aave/arc_id=AMB:AAV000000001/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aave/arc_id=AMB:AAV000000001/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aave/arc_id=AMB:AAV000000001/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aave/arc_id=AMB:AAV000000001/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aave/arc_id=AMB:AAV000000001/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aave/arc_id=AMB:AAV000000001/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aave/arc_id=AMB:AAV000000001/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aave/arc_id=AMB:AAV000000001/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aave/arc_id=AMB:AAV000000001/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aave/arc_id=AMB:AAV000000001/exchange=ftxus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aave/arc_id=AMB:AAV000000001/exchange=zb/data.json"
+        ]
+    }
+}

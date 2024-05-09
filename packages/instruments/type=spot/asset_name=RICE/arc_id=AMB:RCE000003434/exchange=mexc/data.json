@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RCE000003434_AMB:USD000000335",
+        "normalizedPair": "rce_usdt",
+        "normalizedSymbol": "rce",
+        "nativePair": "RCEUSDT",
+        "exchange": "mexc",
+        "assetName": "RICE",
+        "assetArcId": "AMB:RCE000003434",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rce_usdt",
+        "instrumentType": "spot"
+    }
+]

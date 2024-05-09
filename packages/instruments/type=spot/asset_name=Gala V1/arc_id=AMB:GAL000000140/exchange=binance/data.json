@@ -1,0 +1,122 @@
+[
+    {
+        "arcPairId": "AMB:GAL000000140_AMB:BNB000000055",
+        "normalizedPair": "gala_bnb",
+        "normalizedSymbol": "gala",
+        "nativePair": "GALABNB",
+        "exchange": "binance",
+        "assetName": "Gala V1",
+        "assetArcId": "AMB:GAL000000140",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "gala_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GAL000000140_AMB:BRL000002486",
+        "normalizedPair": "gala_brl",
+        "normalizedSymbol": "gala",
+        "nativePair": "GALABRL",
+        "exchange": "binance",
+        "assetName": "Gala V1",
+        "assetArcId": "AMB:GAL000000140",
+        "quoteArcId": "AMB:BRL000002486",
+        "collectedPair": "gala_brl",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GAL000000140_AMB:BTC000000000",
+        "normalizedPair": "gala_btc",
+        "normalizedSymbol": "gala",
+        "nativePair": "GALABTC",
+        "exchange": "binance",
+        "assetName": "Gala V1",
+        "assetArcId": "AMB:GAL000000140",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "gala_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GAL000000140_AMB:BUS000000067",
+        "normalizedPair": "gala_busd",
+        "normalizedSymbol": "gala",
+        "nativePair": "GALABUSD",
+        "exchange": "binance",
+        "assetName": "Gala V1",
+        "assetArcId": "AMB:GAL000000140",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "gala_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GAL000000140_AMB:ETH000000000",
+        "normalizedPair": "gala_eth",
+        "normalizedSymbol": "gala",
+        "nativePair": "GALAETH",
+        "exchange": "binance",
+        "assetName": "Gala V1",
+        "assetArcId": "AMB:GAL000000140",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "gala_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GAL000000140_AMB:EUR000000120",
+        "normalizedPair": "gala_eur",
+        "normalizedSymbol": "gala",
+        "nativePair": "GALAEUR",
+        "exchange": "binance",
+        "assetName": "Gala V1",
+        "assetArcId": "AMB:GAL000000140",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "gala_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GAL000000140_AMB:TRY000000940",
+        "normalizedPair": "gala_try",
+        "normalizedSymbol": "gala",
+        "nativePair": "GALATRY",
+        "exchange": "binance",
+        "assetName": "Gala V1",
+        "assetArcId": "AMB:GAL000000140",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "gala_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GAL000000140_AMB:USD000000335",
+        "normalizedPair": "gala_usdt",
+        "normalizedSymbol": "gala",
+        "nativePair": "GALAUSDT",
+        "exchange": "binance",
+        "assetName": "Gala V1",
+        "assetArcId": "AMB:GAL000000140",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gala_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GAL000000140_AMB:FDU000000122",
+        "normalizedPair": "gala_fdusd",
+        "normalizedSymbol": "gala",
+        "nativePair": "GALAFDUSD",
+        "exchange": "binance",
+        "assetName": "Gala V1",
+        "assetArcId": "AMB:GAL000000140",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "gala_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GAL000000140_AMB:USD000000333",
+        "normalizedPair": "gala_usdc",
+        "normalizedSymbol": "gala",
+        "nativePair": "GALAUSDC",
+        "exchange": "binance",
+        "assetName": "Gala V1",
+        "assetArcId": "AMB:GAL000000140",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "gala_usdc",
+        "instrumentType": "spot"
+    }
+]

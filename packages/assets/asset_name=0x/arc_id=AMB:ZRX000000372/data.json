@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "zrx",
+    "assetName": "0x",
+    "assetArcId": "AMB:ZRX000000372",
+    "website": "https://0x.org/",
+    "whitePaperUrl": "https://0x.org/pdfs/0x_white_paper.pdf",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xe41d2489571d322189246dafa5ebde1f4699f498"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

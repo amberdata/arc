@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MAG000000205_AMB:USD000000335",
+        "normalizedPair": "magic_usdt",
+        "normalizedSymbol": "magic",
+        "nativePair": "MAGIC-USDT",
+        "exchange": "okex",
+        "assetName": "MAGIC",
+        "assetArcId": "AMB:MAG000000205",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "magic_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MAG000000205_AMB:USD000000333",
+        "normalizedPair": "magic_usdc",
+        "normalizedSymbol": "magic",
+        "nativePair": "MAGIC-USDC",
+        "exchange": "okex",
+        "assetName": "MAGIC",
+        "assetArcId": "AMB:MAG000000205",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "magic_usdc",
+        "instrumentType": "spot"
+    }
+]

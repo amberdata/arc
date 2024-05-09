@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "shol",
+    "assetName": "Sholana",
+    "assetArcId": "AMB:SHO000000001",
+    "website": "https://www.sholana.life/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "Tess17AiFXjm6HhnQGvhZLR1DAzUEND56eG1wJ1k2qJ"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sholana/arc_id=AMB:SHO000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

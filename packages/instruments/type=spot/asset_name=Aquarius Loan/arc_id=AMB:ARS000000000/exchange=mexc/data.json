@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ARS000000000_AMB:USD000000335",
+        "normalizedPair": "ars_usdt",
+        "normalizedSymbol": "ars",
+        "nativePair": "ARSUSDT",
+        "exchange": "mexc",
+        "assetName": "Aquarius Loan",
+        "assetArcId": "AMB:ARS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ars_usdt",
+        "instrumentType": "spot"
+    }
+]

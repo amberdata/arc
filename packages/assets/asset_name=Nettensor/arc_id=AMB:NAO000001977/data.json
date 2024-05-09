@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "nao",
+    "assetName": "Nettensor",
+    "assetArcId": "AMB:NAO000001977",
+    "website": "https://nettensor.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETHEREUM",
+            "address": "0x72f713d11480dcf08b37e1898670e736688d218d"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Nettensor/arc_id=AMB:NAO000001977/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Nettensor/arc_id=AMB:NAO000001977/exchange=mexc/data.json"
+        ]
+    }
+}

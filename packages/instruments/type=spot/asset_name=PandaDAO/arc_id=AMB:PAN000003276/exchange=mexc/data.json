@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PAN000003276_AMB:USD000000335",
+        "normalizedPair": "pandadao_usdt",
+        "normalizedSymbol": "pandadao",
+        "nativePair": "PANDADAOUSDT",
+        "exchange": "mexc",
+        "assetName": "PandaDAO",
+        "assetArcId": "AMB:PAN000003276",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pandadao_usdt",
+        "instrumentType": "spot"
+    }
+]

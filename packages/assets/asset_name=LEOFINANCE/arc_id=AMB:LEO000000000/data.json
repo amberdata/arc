@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "leofinance",
+    "assetName": "LEOFINANCE",
+    "assetArcId": "AMB:LEO000000000",
+    "website": "https://leofinance.app",
+    "whitePaperUrl": "/how-to-buy/LEOFINANCE?utm_source=mexc&utm_medium=tokenifoLEOFINANCE&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=LEOFINANCE/arc_id=AMB:LEO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

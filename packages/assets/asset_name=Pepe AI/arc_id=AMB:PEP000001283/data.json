@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "pepeai",
+    "assetName": "Pepe AI",
+    "assetArcId": "AMB:PEP000001283",
+    "website": "https://pepeai.io/",
+    "whitePaperUrl": "https://pepeai.gitbook.io/pepe-ai/what-why-how-pepe-ai/what-is-pepe-ai",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pepe AI/arc_id=AMB:PEP000001283/exchange=mexc/data.json"
+        ]
+    }
+}

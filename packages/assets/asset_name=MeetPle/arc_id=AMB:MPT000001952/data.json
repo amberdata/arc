@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "mpt",
+    "assetName": "MeetPle",
+    "assetArcId": "AMB:MPT000001952",
+    "website": "https://meetple.io/",
+    "whitePaperUrl": "https://meetple.io/paper.html",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MeetPle/arc_id=AMB:MPT000001952/exchange=mexc/data.json"
+        ]
+    }
+}

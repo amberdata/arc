@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "grokgirl",
+    "assetName": "Grok Girl",
+    "assetArcId": "AMB:GRO000002834",
+    "website": "https://grok-girl.net/",
+    "whitePaperUrl": "https://grok-girl.gitbook.io/girl-grok-whitepaper/",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Grok Girl/arc_id=AMB:GRO000002834/exchange=mexc/data.json"
+        ]
+    }
+}

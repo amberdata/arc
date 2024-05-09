@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "locklab",
+    "assetName": "LockLAB",
+    "assetArcId": "AMB:LOC000000000",
+    "website": "https://locklab.io/",
+    "whitePaperUrl": "/how-to-buy/LOCKLAB?utm_source=mexc&utm_medium=tokenifoLOCKLAB&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=LockLAB/arc_id=AMB:LOC000000000/exchange=mexc/data.json"
+        ]
+    }
+}

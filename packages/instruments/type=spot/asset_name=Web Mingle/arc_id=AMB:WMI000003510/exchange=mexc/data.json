@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WMI000003510_AMB:USD000000335",
+        "normalizedPair": "wmi_usdt",
+        "normalizedSymbol": "wmi",
+        "nativePair": "WMIUSDT",
+        "exchange": "mexc",
+        "assetName": "Web Mingle",
+        "assetArcId": "AMB:WMI000003510",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wmi_usdt",
+        "instrumentType": "spot"
+    }
+]

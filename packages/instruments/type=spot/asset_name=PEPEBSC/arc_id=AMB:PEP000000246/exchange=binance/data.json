@@ -1,0 +1,74 @@
+[
+    {
+        "arcPairId": "AMB:PEP000000246_AMB:TRY000000940",
+        "normalizedPair": "pepe_try",
+        "normalizedSymbol": "pepe",
+        "nativePair": "PEPETRY",
+        "exchange": "binance",
+        "assetName": "PEPEBSC",
+        "assetArcId": "AMB:PEP000000246",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "pepe_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PEP000000246_AMB:TUS000000326",
+        "normalizedPair": "pepe_tusd",
+        "normalizedSymbol": "pepe",
+        "nativePair": "PEPETUSD",
+        "exchange": "binance",
+        "assetName": "PEPEBSC",
+        "assetArcId": "AMB:PEP000000246",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "pepe_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PEP000000246_AMB:USD000000335",
+        "normalizedPair": "pepe_usdt",
+        "normalizedSymbol": "pepe",
+        "nativePair": "PEPEUSDT",
+        "exchange": "binance",
+        "assetName": "PEPEBSC",
+        "assetArcId": "AMB:PEP000000246",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pepe_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PEP000000246_AMB:USD000000333",
+        "normalizedPair": "pepe_usdc",
+        "normalizedSymbol": "pepe",
+        "nativePair": "PEPEUSDC",
+        "exchange": "binance",
+        "assetName": "PEPEBSC",
+        "assetArcId": "AMB:PEP000000246",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "pepe_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PEP000000246_AMB:FDU000000122",
+        "normalizedPair": "pepe_fdusd",
+        "normalizedSymbol": "pepe",
+        "nativePair": "PEPEFDUSD",
+        "exchange": "binance",
+        "assetName": "PEPEBSC",
+        "assetArcId": "AMB:PEP000000246",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "pepe_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PEP000000246_AMB:BRL000002486",
+        "normalizedPair": "pepe_brl",
+        "normalizedSymbol": "pepe",
+        "nativePair": "PEPEBRL",
+        "exchange": "binance",
+        "assetName": "PEPEBSC",
+        "assetArcId": "AMB:PEP000000246",
+        "quoteArcId": "AMB:BRL000002486",
+        "collectedPair": "pepe_brl",
+        "instrumentType": "spot"
+    }
+]

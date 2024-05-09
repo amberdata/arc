@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CDX000000000_AMB:USD000000335",
+        "normalizedPair": "cdx_usdt",
+        "normalizedSymbol": "cdx",
+        "nativePair": "CDXUSDT",
+        "exchange": "mexc",
+        "assetName": "CodeX",
+        "assetArcId": "AMB:CDX000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cdx_usdt",
+        "instrumentType": "spot"
+    }
+]

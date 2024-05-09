@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "frogonsol",
+    "assetName": "Frogonsol",
+    "assetArcId": "AMB:FRO000000000",
+    "website": "https://frogonsol.com/",
+    "whitePaperUrl": "/how-to-buy/FROGONSOL?utm_source=mexc&utm_medium=tokenifoFROGONSOL&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Frogonsol/arc_id=AMB:FRO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

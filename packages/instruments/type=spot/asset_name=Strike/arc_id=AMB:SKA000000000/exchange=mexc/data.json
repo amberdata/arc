@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SKA000000000_AMB:USD000000335",
+        "normalizedPair": "sk_usdt",
+        "normalizedSymbol": "sk",
+        "nativePair": "SKUSDT",
+        "exchange": "mexc",
+        "assetName": "Strike",
+        "assetArcId": "AMB:SKA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sk_usdt",
+        "instrumentType": "spot"
+    }
+]

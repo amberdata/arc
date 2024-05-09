@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SUI000000000_AMB:USD000000335",
+        "normalizedPair": "suiai_usdt",
+        "normalizedSymbol": "suiai",
+        "nativePair": "SUIAIUSDT",
+        "exchange": "mexc",
+        "assetName": "SUIAI",
+        "assetArcId": "AMB:SUI000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "suiai_usdt",
+        "instrumentType": "spot"
+    }
+]

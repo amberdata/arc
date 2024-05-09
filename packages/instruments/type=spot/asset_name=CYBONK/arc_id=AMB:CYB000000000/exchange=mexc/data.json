@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CYB000000000_AMB:USD000000335",
+        "normalizedPair": "cybonk_usdt",
+        "normalizedSymbol": "cybonk",
+        "nativePair": "CYBONKUSDT",
+        "exchange": "mexc",
+        "assetName": "CYBONK",
+        "assetArcId": "AMB:CYB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cybonk_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "route",
+    "assetName": "Router Protocol",
+    "assetArcId": "AMB:ROU000000792",
+    "website": "https://www.routerprotocol.com",
+    "whitePaperUrl": "/how-to-buy/ROUTE?utm_source=mexc&utm_medium=tokenifoROUTE&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Router Protocol/arc_id=AMB:ROU000000792/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Router Protocol/arc_id=AMB:ROU000000792/exchange=mexc/data.json"
+        ]
+    }
+}

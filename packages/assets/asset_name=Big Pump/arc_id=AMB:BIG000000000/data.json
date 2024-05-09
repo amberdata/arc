@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "bigpump",
+    "assetName": "Big Pump",
+    "assetArcId": "AMB:BIG000000000",
+    "website": "https://www.bigpump.org/",
+    "whitePaperUrl": "/how-to-buy/BIGPUMP?utm_source=mexc&utm_medium=tokenifoBIGPUMP&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Big Pump/arc_id=AMB:BIG000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DRA000003400_AMB:USD000000335",
+        "normalizedPair": "drago_usdt",
+        "normalizedSymbol": "drago",
+        "nativePair": "DRAGOUSDT",
+        "exchange": "mexc",
+        "assetName": "Drago",
+        "assetArcId": "AMB:DRA000003400",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "drago_usdt",
+        "instrumentType": "spot"
+    }
+]

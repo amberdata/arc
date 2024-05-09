@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PPM000002968_AMB:USD000000335",
+        "normalizedPair": "ppmc_usdt",
+        "normalizedSymbol": "ppmc",
+        "nativePair": "PPMCUSDT",
+        "exchange": "mexc",
+        "assetName": "Pepe Mining Company",
+        "assetArcId": "AMB:PPM000002968",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ppmc_usdt",
+        "instrumentType": "spot"
+    }
+]

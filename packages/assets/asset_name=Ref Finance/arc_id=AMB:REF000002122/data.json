@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ref",
+    "assetName": "Ref Finance",
+    "assetArcId": "AMB:REF000002122",
+    "website": "https://app.ref.finance/",
+    "whitePaperUrl": "https://ref-finance.medium.com/ref-finance-tokenomics-overview-89d5c9bece8b",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ref Finance/arc_id=AMB:REF000002122/exchange=mexc/data.json"
+        ]
+    }
+}

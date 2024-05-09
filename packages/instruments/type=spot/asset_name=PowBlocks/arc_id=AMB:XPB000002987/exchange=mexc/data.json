@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XPB000002987_AMB:USD000000335",
+        "normalizedPair": "xpb_usdt",
+        "normalizedSymbol": "xpb",
+        "nativePair": "XPBUSDT",
+        "exchange": "mexc",
+        "assetName": "PowBlocks",
+        "assetArcId": "AMB:XPB000002987",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xpb_usdt",
+        "instrumentType": "spot"
+    }
+]

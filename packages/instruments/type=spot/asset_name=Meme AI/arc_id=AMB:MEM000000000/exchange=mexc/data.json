@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MEM000000000_AMB:USD000000335",
+        "normalizedPair": "memeai_usdt",
+        "normalizedSymbol": "memeai",
+        "nativePair": "MEMEAIUSDT",
+        "exchange": "mexc",
+        "assetName": "Meme AI",
+        "assetArcId": "AMB:MEM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "memeai_usdt",
+        "instrumentType": "spot"
+    }
+]

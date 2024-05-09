@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FRB000000000_AMB:USD000000335",
+        "normalizedPair": "frbk_usdt",
+        "normalizedSymbol": "frbk",
+        "nativePair": "FRBKUSDT",
+        "exchange": "mexc",
+        "assetName": "FreeBnk",
+        "assetArcId": "AMB:FRB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "frbk_usdt",
+        "instrumentType": "spot"
+    }
+]

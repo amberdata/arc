@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "ava.amb.1",
+    "assetName": "Vulcan forged",
+    "assetArcId": "AMB:LAV000000000",
+    "website": "https://elysiumchain.tech/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Elysium",
+            "address": ""
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Vulcan forged/arc_id=AMB:LAV000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

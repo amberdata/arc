@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "dpr",
+    "assetName": "Deeper Network",
+    "assetArcId": "AMB:DPR000001610",
+    "website": "https://www.deeper.network/",
+    "whitePaperUrl": "https://www.deeper.network/whitepaper_en.pdf?1616235824088",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Deeper Network/arc_id=AMB:DPR000001610/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "paz",
+    "assetName": "Pararium",
+    "assetArcId": "AMB:PAZ000002049",
+    "website": "http://www.pararium.xyz/",
+    "whitePaperUrl": "https://treasurelabs.gitbook.io/usdpaz-whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pararium/arc_id=AMB:PAZ000002049/exchange=mexc/data.json"
+        ]
+    }
+}

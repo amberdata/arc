@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "rocki",
+    "assetName": "ROCKI",
+    "assetArcId": "AMB:ROC000002140",
+    "website": "https://rocki.com/",
+    "whitePaperUrl": "/how-to-buy/ROCKI?utm_source=mexc&utm_medium=tokenifoROCKI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ROCKI/arc_id=AMB:ROC000002140/exchange=mexc/data.json"
+        ]
+    }
+}

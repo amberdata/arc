@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:YOL000002720_AMB:USD000000335",
+        "normalizedPair": "yolo_usdt",
+        "normalizedSymbol": "yolo",
+        "nativePair": "YOLOUSDT",
+        "exchange": "mexc",
+        "assetName": "YoloNolo",
+        "assetArcId": "AMB:YOL000002720",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "yolo_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "byte",
+    "assetName": "Byte",
+    "assetArcId": "AMB:BYT000003374",
+    "website": "https://www.byte-erc.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xde342a3e269056fc3305f9e315f4c40d917ba521"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Byte/arc_id=AMB:BYT000003374/exchange=poloniex/data.json"
+        ]
+    }
+}

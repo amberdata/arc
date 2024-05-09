@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PDT000000000_AMB:USD000000335",
+        "normalizedPair": "pdt_usdt",
+        "normalizedSymbol": "pdt",
+        "nativePair": "PDTUSDT",
+        "exchange": "mexc",
+        "assetName": "Photodynamic Therapy",
+        "assetArcId": "AMB:PDT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pdt_usdt",
+        "instrumentType": "spot"
+    }
+]

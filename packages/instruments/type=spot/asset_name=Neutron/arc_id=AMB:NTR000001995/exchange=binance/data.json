@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:NTR000001995_AMB:BTC000000000",
+        "normalizedPair": "ntrn_btc",
+        "normalizedSymbol": "ntrn",
+        "nativePair": "NTRNBTC",
+        "exchange": "binance",
+        "assetName": "Neutron",
+        "assetArcId": "AMB:NTR000001995",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ntrn_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NTR000001995_AMB:TRY000000940",
+        "normalizedPair": "ntrn_try",
+        "normalizedSymbol": "ntrn",
+        "nativePair": "NTRNTRY",
+        "exchange": "binance",
+        "assetName": "Neutron",
+        "assetArcId": "AMB:NTR000001995",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "ntrn_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NTR000001995_AMB:BNB000000055",
+        "normalizedPair": "ntrn_bnb",
+        "normalizedSymbol": "ntrn",
+        "nativePair": "NTRNBNB",
+        "exchange": "binance",
+        "assetName": "Neutron",
+        "assetArcId": "AMB:NTR000001995",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "ntrn_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NTR000001995_AMB:USD000000335",
+        "normalizedPair": "ntrn_usdt",
+        "normalizedSymbol": "ntrn",
+        "nativePair": "NTRNUSDT",
+        "exchange": "binance",
+        "assetName": "Neutron",
+        "assetArcId": "AMB:NTR000001995",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ntrn_usdt",
+        "instrumentType": "spot"
+    }
+]

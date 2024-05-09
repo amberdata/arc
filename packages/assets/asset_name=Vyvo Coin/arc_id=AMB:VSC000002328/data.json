@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "vsc",
+    "assetName": "Vyvo Coin",
+    "assetArcId": "AMB:VSC000002328",
+    "website": "https://www.vyvo.com/",
+    "whitePaperUrl": "/how-to-buy/VSC?utm_source=mexc&utm_medium=tokenifoVSC&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Vyvo Coin/arc_id=AMB:VSC000002328/exchange=mexc/data.json"
+        ]
+    }
+}

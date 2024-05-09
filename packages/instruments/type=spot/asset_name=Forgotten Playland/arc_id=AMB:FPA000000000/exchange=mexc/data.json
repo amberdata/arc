@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FPA000000000_AMB:USD000000335",
+        "normalizedPair": "fp_usdt",
+        "normalizedSymbol": "fp",
+        "nativePair": "FPUSDT",
+        "exchange": "mexc",
+        "assetName": "Forgotten Playland",
+        "assetArcId": "AMB:FPA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fp_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "funjr",
+    "assetName": "Funsjourney",
+    "assetArcId": "AMB:FUN000003393",
+    "website": "https://funsjourney.com/",
+    "whitePaperUrl": "https://funsjourney.com/wp-content/uploads/2023/12/FUNJR-Whitepaper-1.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Funsjourney/arc_id=AMB:FUN000003393/exchange=mexc/data.json"
+        ]
+    }
+}

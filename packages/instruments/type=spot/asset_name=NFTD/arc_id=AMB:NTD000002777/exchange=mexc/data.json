@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NTD000002777_AMB:USD000000335",
+        "normalizedPair": "ntd_usdt",
+        "normalizedSymbol": "ntd",
+        "nativePair": "NTDUSDT",
+        "exchange": "mexc",
+        "assetName": "NFTD",
+        "assetArcId": "AMB:NTD000002777",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ntd_usdt",
+        "instrumentType": "spot"
+    }
+]

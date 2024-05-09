@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BOB000000000_AMB:USD000000335",
+        "normalizedPair": "boby_usdt",
+        "normalizedSymbol": "boby",
+        "nativePair": "BOBYUSDT",
+        "exchange": "mexc",
+        "assetName": "BonkBaby",
+        "assetArcId": "AMB:BOB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "boby_usdt",
+        "instrumentType": "spot"
+    }
+]

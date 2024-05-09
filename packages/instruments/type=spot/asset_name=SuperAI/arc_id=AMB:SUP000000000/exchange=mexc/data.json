@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SUP000000000_AMB:USD000000335",
+        "normalizedPair": "superai_usdt",
+        "normalizedSymbol": "superai",
+        "nativePair": "SUPERAIUSDT",
+        "exchange": "mexc",
+        "assetName": "SuperAI",
+        "assetArcId": "AMB:SUP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "superai_usdt",
+        "instrumentType": "spot"
+    }
+]

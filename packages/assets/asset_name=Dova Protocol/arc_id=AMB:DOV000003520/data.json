@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "dova",
+    "assetName": "Dova Protocol",
+    "assetArcId": "AMB:DOV000003520",
+    "website": "https://www.bitdove.ai/",
+    "whitePaperUrl": "/how-to-buy/DOVA?utm_source=mexc&utm_medium=tokenifoDOVA&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dova Protocol/arc_id=AMB:DOV000003520/exchange=mexc/data.json"
+        ]
+    }
+}

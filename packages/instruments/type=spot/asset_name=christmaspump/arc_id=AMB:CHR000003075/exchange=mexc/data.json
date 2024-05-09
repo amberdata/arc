@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHR000003075_AMB:USD000000335",
+        "normalizedPair": "chrispump_usdt",
+        "normalizedSymbol": "chrispump",
+        "nativePair": "CHRISPUMPUSDT",
+        "exchange": "mexc",
+        "assetName": "christmaspump",
+        "assetArcId": "AMB:CHR000003075",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "chrispump_usdt",
+        "instrumentType": "spot"
+    }
+]

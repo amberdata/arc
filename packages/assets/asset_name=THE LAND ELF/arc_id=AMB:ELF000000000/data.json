@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "elft",
+    "assetName": "THE LAND ELF",
+    "assetArcId": "AMB:ELF000000000",
+    "website": "https://theland.game/en",
+    "whitePaperUrl": "https://storage.googleapis.com/studio-design-asset-files/projects/Kwa542dlqX/s-1x1_93de4c00-0e7f-4d00-8e59-ffd86140b820.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=THE LAND ELF/arc_id=AMB:ELF000000000/exchange=mexc/data.json"
+        ]
+    }
+}

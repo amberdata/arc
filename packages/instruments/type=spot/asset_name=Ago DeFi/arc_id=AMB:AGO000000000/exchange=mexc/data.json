@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AGO000000000_AMB:USD000000335",
+        "normalizedPair": "ago_usdt",
+        "normalizedSymbol": "ago",
+        "nativePair": "AGOUSDT",
+        "exchange": "mexc",
+        "assetName": "Ago DeFi",
+        "assetArcId": "AMB:AGO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ago_usdt",
+        "instrumentType": "spot"
+    }
+]

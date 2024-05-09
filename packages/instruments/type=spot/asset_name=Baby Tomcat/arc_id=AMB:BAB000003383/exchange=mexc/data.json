@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAB000003383_AMB:USD000000335",
+        "normalizedPair": "babytomcat_usdt",
+        "normalizedSymbol": "babytomcat",
+        "nativePair": "BABYTOMCATUSDT",
+        "exchange": "mexc",
+        "assetName": "Baby Tomcat",
+        "assetArcId": "AMB:BAB000003383",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "babytomcat_usdt",
+        "instrumentType": "spot"
+    }
+]

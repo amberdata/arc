@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "unleash",
+    "assetName": "UnleashClub",
+    "assetArcId": "AMB:UNL000002308",
+    "website": "--",
+    "whitePaperUrl": "/how-to-buy/UNLEASH?utm_source=mexc&utm_medium=tokenifoUNLEASH&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=UnleashClub/arc_id=AMB:UNL000002308/exchange=mexc/data.json"
+        ]
+    }
+}

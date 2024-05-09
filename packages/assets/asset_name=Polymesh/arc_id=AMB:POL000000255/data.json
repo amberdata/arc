@@ -1,0 +1,18 @@
+{
+    "assetSymbol": "polyx",
+    "assetName": "Polymesh",
+    "assetArcId": "AMB:POL000000255",
+    "website": "https://polymesh.network/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance",
+        "Proof-of-Stake"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Polymesh/arc_id=AMB:POL000000255/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Polymesh/arc_id=AMB:POL000000255/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Polymesh/arc_id=AMB:POL000000255/exchange=binance/data.json"
+        ]
+    }
+}

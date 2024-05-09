@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HXD000000000_AMB:USD000000335",
+        "normalizedPair": "hxd_usdt",
+        "normalizedSymbol": "hxd",
+        "nativePair": "HXDUSDT",
+        "exchange": "mexc",
+        "assetName": "Honeyland",
+        "assetArcId": "AMB:HXD000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hxd_usdt",
+        "instrumentType": "spot"
+    }
+]

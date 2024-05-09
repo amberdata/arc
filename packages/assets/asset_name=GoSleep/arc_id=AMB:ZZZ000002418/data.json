@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "zzz",
+    "assetName": "GoSleep",
+    "assetArcId": "AMB:ZZZ000002418",
+    "website": "https://gosleep.pro/",
+    "whitePaperUrl": "https://gosleep.gitbook.io/white-paper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GoSleep/arc_id=AMB:ZZZ000002418/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IXS000000000_AMB:USD000000335",
+        "normalizedPair": "ixs_usdt",
+        "normalizedSymbol": "ixs",
+        "nativePair": "IXS_USDT",
+        "exchange": "poloniex",
+        "assetName": "IX Swap",
+        "assetArcId": "AMB:IXS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ixs_usdt",
+        "instrumentType": "spot"
+    }
+]

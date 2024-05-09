@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LUA000002596_AMB:USD000000335",
+        "normalizedPair": "lua.amb.1_usdt",
+        "normalizedSymbol": "lua.amb.1",
+        "nativePair": "LUAUSDT",
+        "exchange": "mexc",
+        "assetName": "Luma",
+        "assetArcId": "AMB:LUA000002596",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lua_usdt",
+        "instrumentType": "spot"
+    }
+]

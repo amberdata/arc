@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RLO000000000_AMB:USD000000335",
+        "normalizedPair": "rlo_usdt",
+        "normalizedSymbol": "rlo",
+        "nativePair": "RLOUSDT",
+        "exchange": "mexc",
+        "assetName": "Reelon",
+        "assetArcId": "AMB:RLO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rlo_usdt",
+        "instrumentType": "spot"
+    }
+]

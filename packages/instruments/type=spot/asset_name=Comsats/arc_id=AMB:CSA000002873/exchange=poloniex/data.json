@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CSA000002873_AMB:USD000000335",
+        "normalizedPair": "csas_usdt",
+        "normalizedSymbol": "csas",
+        "nativePair": "CSAS_USDT",
+        "exchange": "poloniex",
+        "assetName": "Comsats",
+        "assetArcId": "AMB:CSA000002873",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "csas_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "aitk",
+    "assetName": "AITK",
+    "assetArcId": "AMB:AIT000000000",
+    "website": "http://aitk.tech/",
+    "whitePaperUrl": "/how-to-buy/AITK?utm_source=mexc&utm_medium=tokenifoAITK&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AITK/arc_id=AMB:AIT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

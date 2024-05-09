@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dgs",
+    "assetName": "Dao Glas",
+    "assetArcId": "AMB:DGS000003337",
+    "website": "https://daoglas.com/",
+    "whitePaperUrl": "https://daoglas.com/whitepaper/DAOGlasWhitePaper.pdfo,,",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dao Glas/arc_id=AMB:DGS000003337/exchange=mexc/data.json"
+        ]
+    }
+}

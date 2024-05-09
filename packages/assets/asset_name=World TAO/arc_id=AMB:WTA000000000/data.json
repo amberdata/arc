@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "wtao",
+    "assetName": "World TAO",
+    "assetArcId": "AMB:WTA000000000",
+    "website": "https://app.worldtao.ai/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0x70b02a7d6d86c8ed2193d3c167468ebae28b9538"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=World TAO/arc_id=AMB:WTA000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

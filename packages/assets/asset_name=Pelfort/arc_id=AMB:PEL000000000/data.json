@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "pelf",
+    "assetName": "Pelfort",
+    "assetArcId": "AMB:PEL000000000",
+    "website": "https://www.neverfuckingleaving.com/",
+    "whitePaperUrl": "/how-to-buy/PELF?utm_source=mexc&utm_medium=tokenifoPELF&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pelfort/arc_id=AMB:PEL000000000/exchange=mexc/data.json"
+        ]
+    }
+}

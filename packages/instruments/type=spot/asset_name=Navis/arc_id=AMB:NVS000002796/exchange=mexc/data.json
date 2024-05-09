@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NVS000002796_AMB:USD000000335",
+        "normalizedPair": "nvs_usdt",
+        "normalizedSymbol": "nvs",
+        "nativePair": "NVSUSDT",
+        "exchange": "mexc",
+        "assetName": "Navis",
+        "assetArcId": "AMB:NVS000002796",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nvs_usdt",
+        "instrumentType": "spot"
+    }
+]

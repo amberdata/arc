@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FXD000003371_AMB:USD000000335",
+        "normalizedPair": "fxdx_usdt",
+        "normalizedSymbol": "fxdx",
+        "nativePair": "FXDXUSDT",
+        "exchange": "mexc",
+        "assetName": "FXDX",
+        "assetArcId": "AMB:FXD000003371",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fxdx_usdt",
+        "instrumentType": "spot"
+    }
+]

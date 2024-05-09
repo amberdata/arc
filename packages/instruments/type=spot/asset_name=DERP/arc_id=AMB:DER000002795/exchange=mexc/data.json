@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DER000002795_AMB:USD000000335",
+        "normalizedPair": "derpdex_usdt",
+        "normalizedSymbol": "derpdex",
+        "nativePair": "DERPDEXUSDT",
+        "exchange": "mexc",
+        "assetName": "DERP",
+        "assetArcId": "AMB:DER000002795",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "derpdex_usdt",
+        "instrumentType": "spot"
+    }
+]

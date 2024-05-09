@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRO000000000_AMB:USD000000335",
+        "normalizedPair": "crown2_usdt",
+        "normalizedSymbol": "crown2",
+        "nativePair": "CROWN2USDT",
+        "exchange": "mexc",
+        "assetName": "Crown by Third Time",
+        "assetArcId": "AMB:CRO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "crown2_usdt",
+        "instrumentType": "spot"
+    }
+]

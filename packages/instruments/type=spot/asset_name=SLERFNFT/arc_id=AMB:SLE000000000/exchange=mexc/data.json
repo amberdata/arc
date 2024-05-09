@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SLE000000000_AMB:USD000000335",
+        "normalizedPair": "slerfnft_usdt",
+        "normalizedSymbol": "slerfnft",
+        "nativePair": "SLERFNFTUSDT",
+        "exchange": "mexc",
+        "assetName": "SLERFNFT",
+        "assetArcId": "AMB:SLE000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "slerfnft_usdt",
+        "instrumentType": "spot"
+    }
+]

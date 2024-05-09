@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "tkai",
+    "assetName": "TAIKAI",
+    "assetArcId": "AMB:TKA000003133",
+    "website": "https://taikai.network/",
+    "whitePaperUrl": "https://taikai.network/garden-whitepaper",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TAIKAI/arc_id=AMB:TKA000003133/exchange=mexc/data.json"
+        ]
+    }
+}

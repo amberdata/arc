@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SIM000003414_AMB:USD000000335",
+        "normalizedPair": "sim_usdt",
+        "normalizedSymbol": "sim",
+        "nativePair": "SIMUSDT",
+        "exchange": "mexc",
+        "assetName": "SIMU",
+        "assetArcId": "AMB:SIM000003414",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sim_usdt",
+        "instrumentType": "spot"
+    }
+]

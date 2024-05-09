@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "thb",
+    "assetName": "Thunder Brawl",
+    "assetArcId": "AMB:THB000002262",
+    "website": "https://thunderbrawl.game/",
+    "whitePaperUrl": "https://drive.google.com/file/d/15wyp7xnNpFof7M9snFLK1ukm87PNzT6o/view",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Thunder Brawl/arc_id=AMB:THB000002262/exchange=mexc/data.json"
+        ]
+    }
+}

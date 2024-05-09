@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ok",
+    "assetName": "SOLOK",
+    "assetArcId": "AMB:OKA000000000",
+    "website": "https://solok.world/",
+    "whitePaperUrl": "/how-to-buy/OK?utm_source=mexc&utm_medium=tokenifoOK&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SOLOK/arc_id=AMB:OKA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

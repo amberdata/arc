@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IPT000000000_AMB:USD000000335",
+        "normalizedPair": "iptoken_usdt",
+        "normalizedSymbol": "iptoken",
+        "nativePair": "IPTOKENUSDT",
+        "exchange": "mexc",
+        "assetName": "IPTOKEN",
+        "assetArcId": "AMB:IPT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "iptoken_usdt",
+        "instrumentType": "spot"
+    }
+]

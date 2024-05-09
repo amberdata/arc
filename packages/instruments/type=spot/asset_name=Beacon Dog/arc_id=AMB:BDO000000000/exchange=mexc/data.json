@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BDO000000000_AMB:USD000000335",
+        "normalizedPair": "bdog_usdt",
+        "normalizedSymbol": "bdog",
+        "nativePair": "BDOGUSDT",
+        "exchange": "mexc",
+        "assetName": "Beacon Dog",
+        "assetArcId": "AMB:BDO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bdog_usdt",
+        "instrumentType": "spot"
+    }
+]

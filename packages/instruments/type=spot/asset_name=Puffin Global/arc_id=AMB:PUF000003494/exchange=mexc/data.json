@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PUF000003494_AMB:USD000000335",
+        "normalizedPair": "puffin_usdt",
+        "normalizedSymbol": "puffin",
+        "nativePair": "PUFFINUSDT",
+        "exchange": "mexc",
+        "assetName": "Puffin Global",
+        "assetArcId": "AMB:PUF000003494",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "puffin_usdt",
+        "instrumentType": "spot"
+    }
+]

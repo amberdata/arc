@@ -1,0 +1,74 @@
+[
+    {
+        "arcPairId": "AMB:SNX000000297_AMB:BNB000000055",
+        "normalizedPair": "snx_bnb",
+        "normalizedSymbol": "snx",
+        "nativePair": "SNXBNB",
+        "exchange": "binance",
+        "assetName": "SincroniX",
+        "assetArcId": "AMB:SNX000000297",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "snx_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SNX000000297_AMB:BTC000000000",
+        "normalizedPair": "snx_btc",
+        "normalizedSymbol": "snx",
+        "nativePair": "SNXBTC",
+        "exchange": "binance",
+        "assetName": "SincroniX",
+        "assetArcId": "AMB:SNX000000297",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "snx_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SNX000000297_AMB:BUS000000067",
+        "normalizedPair": "snx_busd",
+        "normalizedSymbol": "snx",
+        "nativePair": "SNXBUSD",
+        "exchange": "binance",
+        "assetName": "SincroniX",
+        "assetArcId": "AMB:SNX000000297",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "snx_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SNX000000297_AMB:ETH000000000",
+        "normalizedPair": "snx_eth",
+        "normalizedSymbol": "snx",
+        "nativePair": "SNXETH",
+        "exchange": "binance",
+        "assetName": "SincroniX",
+        "assetArcId": "AMB:SNX000000297",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "snx_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SNX000000297_AMB:USD000000335",
+        "normalizedPair": "snx_usdt",
+        "normalizedSymbol": "snx",
+        "nativePair": "SNXUSDT",
+        "exchange": "binance",
+        "assetName": "SincroniX",
+        "assetArcId": "AMB:SNX000000297",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "snx_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SNX000000297_AMB:TRY000000940",
+        "normalizedPair": "snx_try",
+        "normalizedSymbol": "snx",
+        "nativePair": "SNXTRY",
+        "exchange": "binance",
+        "assetName": "SincroniX",
+        "assetArcId": "AMB:SNX000000297",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "snx_try",
+        "instrumentType": "spot"
+    }
+]

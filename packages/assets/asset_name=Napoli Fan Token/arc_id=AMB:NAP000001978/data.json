@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "nap",
+    "assetName": "Napoli Fan Token",
+    "assetArcId": "AMB:NAP000001978",
+    "website": "https://www.socios.com/",
+    "whitePaperUrl": "/how-to-buy/NAP?utm_source=mexc&utm_medium=tokenifoNAP&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Napoli Fan Token/arc_id=AMB:NAP000001978/exchange=mexc/data.json"
+        ]
+    }
+}

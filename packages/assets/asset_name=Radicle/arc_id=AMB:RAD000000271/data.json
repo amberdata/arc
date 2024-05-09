@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "rad",
+    "assetName": "Radicle",
+    "assetArcId": "AMB:RAD000000271",
+    "website": "https://radworks.org/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance",
+        "Privacy"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

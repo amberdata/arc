@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:RUN000000285_AMB:USD000000949",
+        "normalizedPair": "rune_usd",
+        "normalizedSymbol": "rune",
+        "nativePair": "RUNE/USD",
+        "exchange": "ftx",
+        "assetName": "THORChain",
+        "assetArcId": "AMB:RUN000000285",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "rune_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RUN000000285_AMB:USD000000335",
+        "normalizedPair": "rune_usdt",
+        "normalizedSymbol": "rune",
+        "nativePair": "RUNE/USDT",
+        "exchange": "ftx",
+        "assetName": "THORChain",
+        "assetArcId": "AMB:RUN000000285",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rune_usdt",
+        "instrumentType": "spot"
+    }
+]

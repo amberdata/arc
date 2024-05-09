@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHE000003528_AMB:USD000000335",
+        "normalizedPair": "cheq_usdt",
+        "normalizedSymbol": "cheq",
+        "nativePair": "CHEQUSDT",
+        "exchange": "mexc",
+        "assetName": "CHEQD Network",
+        "assetArcId": "AMB:CHE000003528",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cheq_usdt",
+        "instrumentType": "spot"
+    }
+]

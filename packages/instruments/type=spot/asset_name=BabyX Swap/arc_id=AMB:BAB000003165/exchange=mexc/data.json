@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAB000003165_AMB:USD000000335",
+        "normalizedPair": "babyx_usdt",
+        "normalizedSymbol": "babyx",
+        "nativePair": "BABYXUSDT",
+        "exchange": "mexc",
+        "assetName": "BabyX Swap",
+        "assetArcId": "AMB:BAB000003165",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "babyx_usdt",
+        "instrumentType": "spot"
+    }
+]

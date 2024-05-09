@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XNK000000000_AMB:USD000000335",
+        "normalizedPair": "xnk_usdt",
+        "normalizedSymbol": "xnk",
+        "nativePair": "XNKUSDT",
+        "exchange": "mexc",
+        "assetName": "Kinka",
+        "assetArcId": "AMB:XNK000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xnk_usdt",
+        "instrumentType": "spot"
+    }
+]

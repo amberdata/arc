@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "ll",
+    "assetName": "Liangle",
+    "assetArcId": "AMB:LLA000001257",
+    "website": "https://www.liangle.life/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "TRON",
+            "address": "TRPrL49cpEEbGvjAji8fjZuese2BBYXtkC"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Liangle/arc_id=AMB:LLA000001257/exchange=poloniex/data.json"
+        ]
+    }
+}

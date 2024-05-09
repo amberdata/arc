@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "sat",
+    "assetName": "Super Athletes Token",
+    "assetArcId": "AMB:SAT000002152",
+    "website": "https://sac-nft.com/",
+    "whitePaperUrl": "https://whitepaper.sac-nft.com/sac/overview",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Super Athletes Token/arc_id=AMB:SAT000002152/exchange=mexc/data.json"
+        ]
+    }
+}

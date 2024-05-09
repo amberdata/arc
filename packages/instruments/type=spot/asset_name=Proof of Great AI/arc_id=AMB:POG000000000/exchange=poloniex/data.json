@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POG000000000_AMB:USD000000335",
+        "normalizedPair": "pogaisol_usdt",
+        "normalizedSymbol": "pogaisol",
+        "nativePair": "POGAISOL_USDT",
+        "exchange": "poloniex",
+        "assetName": "Proof of Great AI",
+        "assetArcId": "AMB:POG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pogaisol_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "mochicat",
+    "assetName": "MochiCat",
+    "assetArcId": "AMB:MOC000002959",
+    "website": "https://www.mochicat.org/",
+    "whitePaperUrl": "/how-to-buy/MOCHICAT?utm_source=mexc&utm_medium=tokenifoMOCHICAT&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MochiCat/arc_id=AMB:MOC000002959/exchange=mexc/data.json"
+        ]
+    }
+}

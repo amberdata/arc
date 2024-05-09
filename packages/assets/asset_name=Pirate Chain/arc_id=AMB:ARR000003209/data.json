@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "arrr",
+    "assetName": "Pirate Chain",
+    "assetArcId": "AMB:ARR000003209",
+    "website": "https://pirate.black/",
+    "whitePaperUrl": "https://pirate.black/wp-content/uploads/2022/03/Pirate_Chain_White_Paper_v3.pdf",
+    "classificationTags": [
+        "Privacy",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pirate Chain/arc_id=AMB:ARR000003209/exchange=mexc/data.json"
+        ]
+    }
+}

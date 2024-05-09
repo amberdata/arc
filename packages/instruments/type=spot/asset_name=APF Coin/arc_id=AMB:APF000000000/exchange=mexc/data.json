@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:APF000000000_AMB:USD000000335",
+        "normalizedPair": "apfc_usdt",
+        "normalizedSymbol": "apfc",
+        "nativePair": "APFCUSDT",
+        "exchange": "mexc",
+        "assetName": "APF Coin",
+        "assetArcId": "AMB:APF000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "apfc_usdt",
+        "instrumentType": "spot"
+    }
+]

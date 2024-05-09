@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KHA000000000_AMB:USD000000335",
+        "normalizedPair": "khai_usdt",
+        "normalizedSymbol": "khai",
+        "nativePair": "KHAIUSDT",
+        "exchange": "mexc",
+        "assetName": "Kitten Haimer",
+        "assetArcId": "AMB:KHA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "khai_usdt",
+        "instrumentType": "spot"
+    }
+]

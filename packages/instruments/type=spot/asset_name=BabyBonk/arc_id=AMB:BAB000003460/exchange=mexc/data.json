@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAB000003460_AMB:USD000000335",
+        "normalizedPair": "babybonk_usdt",
+        "normalizedSymbol": "babybonk",
+        "nativePair": "BABYBONKUSDT",
+        "exchange": "mexc",
+        "assetName": "BabyBonk",
+        "assetArcId": "AMB:BAB000003460",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "babybonk_usdt",
+        "instrumentType": "spot"
+    }
+]

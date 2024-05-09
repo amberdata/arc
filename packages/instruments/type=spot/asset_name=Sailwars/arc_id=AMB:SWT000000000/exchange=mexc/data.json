@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SWT000000000_AMB:USD000000335",
+        "normalizedPair": "swt_usdt",
+        "normalizedSymbol": "swt",
+        "nativePair": "SWTUSDT",
+        "exchange": "mexc",
+        "assetName": "Sailwars",
+        "assetArcId": "AMB:SWT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "swt_usdt",
+        "instrumentType": "spot"
+    }
+]

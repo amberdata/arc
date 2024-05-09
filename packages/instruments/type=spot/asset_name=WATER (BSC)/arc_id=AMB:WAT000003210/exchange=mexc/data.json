@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WAT000003210_AMB:USD000000335",
+        "normalizedPair": "water_usdt",
+        "normalizedSymbol": "water",
+        "nativePair": "WATERUSDT",
+        "exchange": "mexc",
+        "assetName": "WATER (BSC)",
+        "assetArcId": "AMB:WAT000003210",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "water_usdt",
+        "instrumentType": "spot"
+    }
+]

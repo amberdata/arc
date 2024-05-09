@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "ole",
+    "assetName": "OpenLeverage",
+    "assetArcId": "AMB:OLE000002015",
+    "website": "https://openleverage.finance/",
+    "whitePaperUrl": "https://docs.openleverage.finance/main/protocol-overview/how-openleverage-work",
+    "classificationTags": [
+        "DEX",
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=OpenLeverage/arc_id=AMB:OLE000002015/exchange=mexc/data.json"
+        ]
+    }
+}

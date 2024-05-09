@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:INT000000000_AMB:USD000000335",
+        "normalizedPair": "intro_usdt",
+        "normalizedSymbol": "intro",
+        "nativePair": "INTRO_USDT",
+        "exchange": "poloniex",
+        "assetName": "1INTRO",
+        "assetArcId": "AMB:INT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "intro_usdt",
+        "instrumentType": "spot"
+    }
+]

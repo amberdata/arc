@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PUP000000000_AMB:USD000000335",
+        "normalizedPair": "pups_usdt",
+        "normalizedSymbol": "pups",
+        "nativePair": "PUPS_USDT",
+        "exchange": "poloniex",
+        "assetName": "Pups",
+        "assetArcId": "AMB:PUP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pups_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GRO000002971_AMB:USD000000335",
+        "normalizedPair": "grokai_usdt",
+        "normalizedSymbol": "grokai",
+        "nativePair": "GROKAIUSDT",
+        "exchange": "mexc",
+        "assetName": "GROK AI",
+        "assetArcId": "AMB:GRO000002971",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "grokai_usdt",
+        "instrumentType": "spot"
+    }
+]

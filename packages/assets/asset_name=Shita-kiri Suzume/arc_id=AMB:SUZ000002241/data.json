@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "suzume",
+    "assetName": "Shita-kiri Suzume",
+    "assetArcId": "AMB:SUZ000002241",
+    "website": "https://www.shitakirisuzume.com/",
+    "whitePaperUrl": "/how-to-buy/SUZUME?utm_source=mexc&utm_medium=tokenifoSUZUME&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Shita-kiri Suzume/arc_id=AMB:SUZ000002241/exchange=mexc/data.json"
+        ]
+    }
+}

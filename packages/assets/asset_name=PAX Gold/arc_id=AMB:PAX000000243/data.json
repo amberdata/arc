@@ -1,0 +1,23 @@
+{
+    "assetSymbol": "paxg",
+    "assetName": "PAX Gold",
+    "assetArcId": "AMB:PAX000000243",
+    "website": "https://paxos.com/paxgold/",
+    "whitePaperUrl": "https://paxos.com/wp-content/uploads/2019/09/PAX-Gold-Whitepaper.pdf",
+    "classificationTags": [
+        "Proof-of-Stake",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PAX Gold/arc_id=AMB:PAX000000243/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PAX Gold/arc_id=AMB:PAX000000243/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PAX Gold/arc_id=AMB:PAX000000243/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PAX Gold/arc_id=AMB:PAX000000243/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PAX Gold/arc_id=AMB:PAX000000243/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PAX Gold/arc_id=AMB:PAX000000243/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PAX Gold/arc_id=AMB:PAX000000243/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PAX Gold/arc_id=AMB:PAX000000243/exchange=ftxus/data.json"
+        ]
+    }
+}

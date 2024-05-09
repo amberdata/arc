@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOV000003190_AMB:USD000000335",
+        "normalizedPair": "dovi_usdt",
+        "normalizedSymbol": "dovi",
+        "nativePair": "doviusdt",
+        "exchange": "huobi",
+        "assetName": "DOVI",
+        "assetArcId": "AMB:DOV000003190",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dovi_usdt",
+        "instrumentType": "spot"
+    }
+]

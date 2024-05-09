@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "pets",
+    "assetName": "Pets Crush",
+    "assetArcId": "AMB:PET000000000",
+    "website": "https://petscrush.co/",
+    "whitePaperUrl": "https://petscrush.co/whitepaper",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pets Crush/arc_id=AMB:PET000000000/exchange=mexc/data.json"
+        ]
+    }
+}

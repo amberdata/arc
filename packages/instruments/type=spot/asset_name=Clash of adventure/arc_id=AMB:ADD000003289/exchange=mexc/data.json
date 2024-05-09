@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ADD000003289_AMB:USD000000335",
+        "normalizedPair": "addclas_usdt",
+        "normalizedSymbol": "addclas",
+        "nativePair": "ADDCLASUSDT",
+        "exchange": "mexc",
+        "assetName": "Clash of adventure",
+        "assetArcId": "AMB:ADD000003289",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "addclas_usdt",
+        "instrumentType": "spot"
+    }
+]

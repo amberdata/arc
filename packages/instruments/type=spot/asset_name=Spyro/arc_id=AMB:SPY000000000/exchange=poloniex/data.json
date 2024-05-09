@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SPY000000000_AMB:USD000000335",
+        "normalizedPair": "spyro_usdt",
+        "normalizedSymbol": "spyro",
+        "nativePair": "SPYRO_USDT",
+        "exchange": "poloniex",
+        "assetName": "Spyro",
+        "assetArcId": "AMB:SPY000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "spyro_usdt",
+        "instrumentType": "spot"
+    }
+]

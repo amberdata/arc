@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "bullish",
+    "assetName": "Bullish",
+    "assetArcId": "AMB:BUL000000000",
+    "website": "https://www.bullishtoken.shop/",
+    "whitePaperUrl": "/how-to-buy/BULLISH?utm_source=mexc&utm_medium=tokenifoBULLISH&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bullish/arc_id=AMB:BUL000000000/exchange=mexc/data.json"
+        ]
+    }
+}

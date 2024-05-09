@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BSS000000000_AMB:USD000000335",
+        "normalizedPair": "bssb1_usdt",
+        "normalizedSymbol": "bssb1",
+        "nativePair": "BSSB1_USDT",
+        "exchange": "poloniex",
+        "assetName": "BitStable",
+        "assetArcId": "AMB:BSS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bssb1_usdt",
+        "instrumentType": "spot"
+    }
+]

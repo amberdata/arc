@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PSP000000000_AMB:USD000000335",
+        "normalizedPair": "psps_usdt",
+        "normalizedSymbol": "psps",
+        "nativePair": "PSPSUSDT",
+        "exchange": "mexc",
+        "assetName": "BobaCat",
+        "assetArcId": "AMB:PSP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "psps_usdt",
+        "instrumentType": "spot"
+    }
+]

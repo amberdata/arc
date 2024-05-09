@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "momo",
+    "assetName": "MOMO 2.0",
+    "assetArcId": "AMB:MOM000000000",
+    "website": "https://momoerc20.com/",
+    "whitePaperUrl": "/how-to-buy/MOMO?utm_source=mexc&utm_medium=tokenifoMOMO&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MOMO 2.0/arc_id=AMB:MOM000000000/exchange=mexc/data.json"
+        ]
+    }
+}

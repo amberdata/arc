@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "x7c",
+    "assetName": "X7 Coin",
+    "assetArcId": "AMB:X7C000002360",
+    "website": "https://x7exchange.com/",
+    "whitePaperUrl": "https://x7exchange.com/WhitePaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=X7 Coin/arc_id=AMB:X7C000002360/exchange=mexc/data.json"
+        ]
+    }
+}

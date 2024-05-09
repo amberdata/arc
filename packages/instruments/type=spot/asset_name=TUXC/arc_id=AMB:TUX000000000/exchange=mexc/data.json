@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TUX000000000_AMB:USD000000335",
+        "normalizedPair": "tuxc_usdt",
+        "normalizedSymbol": "tuxc",
+        "nativePair": "TUXCUSDT",
+        "exchange": "mexc",
+        "assetName": "TUXC",
+        "assetArcId": "AMB:TUX000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tuxc_usdt",
+        "instrumentType": "spot"
+    }
+]

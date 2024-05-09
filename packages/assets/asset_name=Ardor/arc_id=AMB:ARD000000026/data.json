@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "ardr",
+    "assetName": "Ardor",
+    "assetArcId": "AMB:ARD000000026",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ardor/arc_id=AMB:ARD000000026/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ardor/arc_id=AMB:ARD000000026/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ardor/arc_id=AMB:ARD000000026/exchange=binance/data.json"
+        ]
+    }
+}

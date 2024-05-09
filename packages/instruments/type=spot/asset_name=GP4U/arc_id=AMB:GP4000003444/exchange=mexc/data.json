@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GP4000003444_AMB:USD000000335",
+        "normalizedPair": "gp4u_usdt",
+        "normalizedSymbol": "gp4u",
+        "nativePair": "GP4UUSDT",
+        "exchange": "mexc",
+        "assetName": "GP4U",
+        "assetArcId": "AMB:GP4000003444",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gp4u_usdt",
+        "instrumentType": "spot"
+    }
+]

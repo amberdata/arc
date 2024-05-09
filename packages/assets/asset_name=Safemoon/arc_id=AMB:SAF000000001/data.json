@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "safemoon",
+    "assetName": "Safemoon",
+    "assetArcId": "AMB:SAF000000001",
+    "website": "https://www.safesolana.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOLANA",
+            "address": "8QCdHbCchQJVtUctss7E115oFWBJggRz1L5LfQcvCeyn"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Safemoon/arc_id=AMB:SAF000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

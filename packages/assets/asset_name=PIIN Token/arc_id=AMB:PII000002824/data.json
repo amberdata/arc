@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "piins",
+    "assetName": "PIIN Token",
+    "assetArcId": "AMB:PII000002824",
+    "website": "https://piincoin.space/",
+    "whitePaperUrl": "https://piincoins-organization.gitbook.io/piin-whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PIIN Token/arc_id=AMB:PII000002824/exchange=mexc/data.json"
+        ]
+    }
+}

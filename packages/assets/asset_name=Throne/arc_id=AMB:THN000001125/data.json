@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "thn",
+    "assetName": "Throne",
+    "assetArcId": "AMB:THN000001125",
+    "website": "https://www.thr.one/",
+    "whitePaperUrl": "/how-to-buy/THN?utm_source=mexc&utm_medium=tokenifoTHN&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Throne/arc_id=AMB:THN000001125/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Throne/arc_id=AMB:THN000001125/exchange=mexc/data.json"
+        ]
+    }
+}

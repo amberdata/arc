@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PUM000003447_AMB:USD000000335",
+        "normalizedPair": "pump_usdt",
+        "normalizedSymbol": "pump",
+        "nativePair": "PUMPUSDT",
+        "exchange": "mexc",
+        "assetName": "Pumpkin",
+        "assetArcId": "AMB:PUM000003447",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pump_usdt",
+        "instrumentType": "spot"
+    }
+]

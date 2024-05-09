@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NOC000000000_AMB:USD000000335",
+        "normalizedPair": "nochill_usdt",
+        "normalizedSymbol": "nochill",
+        "nativePair": "NOCHILL_USDT",
+        "exchange": "poloniex",
+        "assetName": "AVAX HAS NO CHILL",
+        "assetArcId": "AMB:NOC000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nochill_usdt",
+        "instrumentType": "spot"
+    }
+]

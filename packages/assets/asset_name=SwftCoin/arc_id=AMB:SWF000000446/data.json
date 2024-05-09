@@ -1,0 +1,23 @@
+{
+    "assetSymbol": "swftc",
+    "assetName": "SwftCoin",
+    "assetArcId": "AMB:SWF000000446",
+    "website": "https://www.swft.pro/",
+    "whitePaperUrl": "https://github.com/SwftCoins/SwftCoin/blob/master/SWFT%20WhitePaper.pdf",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SwftCoin/arc_id=AMB:SWF000000446/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SwftCoin/arc_id=AMB:SWF000000446/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SwftCoin/arc_id=AMB:SWF000000446/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SwftCoin/arc_id=AMB:SWF000000446/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SwftCoin/arc_id=AMB:SWF000000446/exchange=zb/data.json"
+        ]
+    }
+}

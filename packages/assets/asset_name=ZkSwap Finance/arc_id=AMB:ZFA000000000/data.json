@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "zf",
+    "assetName": "ZkSwap Finance",
+    "assetArcId": "AMB:ZFA000000000",
+    "website": "https://zkswap.finance/",
+    "whitePaperUrl": "https://docs.zkswap.finance",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZkSwap Finance/arc_id=AMB:ZFA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

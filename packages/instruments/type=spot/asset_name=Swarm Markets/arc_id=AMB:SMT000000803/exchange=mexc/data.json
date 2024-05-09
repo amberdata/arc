@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SMT000000803_AMB:USD000000335",
+        "normalizedPair": "smt.amb.1_usdt",
+        "normalizedSymbol": "smt.amb.1",
+        "nativePair": "SMTUSDT",
+        "exchange": "mexc",
+        "assetName": "Swarm Markets",
+        "assetArcId": "AMB:SMT000000803",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "smt_usdt",
+        "instrumentType": "spot"
+    }
+]

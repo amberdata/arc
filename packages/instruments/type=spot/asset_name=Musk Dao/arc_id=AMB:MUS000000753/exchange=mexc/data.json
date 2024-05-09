@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MUS000000753_AMB:USD000000335",
+        "normalizedPair": "musk_usdt",
+        "normalizedSymbol": "musk",
+        "nativePair": "MUSKUSDT",
+        "exchange": "mexc",
+        "assetName": "Musk Dao",
+        "assetArcId": "AMB:MUS000000753",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "musk_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FCT000002849_AMB:USD000000335",
+        "normalizedPair": "fct_usdt",
+        "normalizedSymbol": "fct",
+        "nativePair": "FCTUSDT",
+        "exchange": "mexc",
+        "assetName": "Firmachain",
+        "assetArcId": "AMB:FCT000002849",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fct_usdt",
+        "instrumentType": "spot"
+    }
+]

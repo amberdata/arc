@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "pi2",
+    "assetName": "PIPI Coin",
+    "assetArcId": "AMB:PI2000000000",
+    "website": "#",
+    "whitePaperUrl": "/how-to-buy/PI2?utm_source=mexc&utm_medium=tokenifoPI2&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PIPI Coin/arc_id=AMB:PI2000000000/exchange=mexc/data.json"
+        ]
+    }
+}

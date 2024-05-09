@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHO000003364_AMB:USD000000335",
+        "normalizedPair": "chow_usdt",
+        "normalizedSymbol": "chow",
+        "nativePair": "CHOW_USDT",
+        "exchange": "poloniex",
+        "assetName": "CHOW CHOW",
+        "assetArcId": "AMB:CHO000003364",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "chow_usdt",
+        "instrumentType": "spot"
+    }
+]

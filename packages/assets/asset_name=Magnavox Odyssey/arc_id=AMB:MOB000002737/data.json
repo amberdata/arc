@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "mobrc",
+    "assetName": "Magnavox Odyssey",
+    "assetArcId": "AMB:MOB000002737",
+    "website": "https://magnavoxodyssey.xyz/index.html",
+    "whitePaperUrl": "/how-to-buy/MOBRC?utm_source=mexc&utm_medium=tokenifoMOBRC&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Magnavox Odyssey/arc_id=AMB:MOB000002737/exchange=mexc/data.json"
+        ]
+    }
+}

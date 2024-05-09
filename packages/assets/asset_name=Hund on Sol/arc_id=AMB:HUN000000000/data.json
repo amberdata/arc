@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "hund",
+    "assetName": "Hund on Sol",
+    "assetArcId": "AMB:HUN000000000",
+    "website": "https://hundonsol.com/",
+    "whitePaperUrl": "https://hundmemecoin.com/whitepaper/",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hund on Sol/arc_id=AMB:HUN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

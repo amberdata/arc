@@ -1,0 +1,18 @@
+{
+    "assetSymbol": "xai",
+    "assetName": "Xai",
+    "assetArcId": "AMB:XAI000002361",
+    "website": "https://xai.games/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming",
+        "Governance",
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Xai/arc_id=AMB:XAI000002361/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Xai/arc_id=AMB:XAI000002361/exchange=binance/data.json"
+        ]
+    }
+}
