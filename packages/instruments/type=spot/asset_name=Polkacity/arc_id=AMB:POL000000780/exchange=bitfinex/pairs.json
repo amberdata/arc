@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POL000000780_AMB:USD000000949",
+        "normalizedPair": "polc_usd",
+        "normalizedSymbol": "polc",
+        "nativePair": "tPOLC:USD",
+        "exchange": "bitfinex",
+        "assetName": "Polkacity",
+        "assetArcId": "AMB:POL000000780",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "polc_usd",
+        "instrumentType": "spot"
+    }
+]

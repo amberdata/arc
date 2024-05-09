@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BEA000001454_AMB:USD000000335",
+        "normalizedPair": "bear_usdt",
+        "normalizedSymbol": "bear",
+        "nativePair": "BEARUSDT",
+        "exchange": "mexc",
+        "assetName": "Bear Inu",
+        "assetArcId": "AMB:BEA000001454",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bear_usdt",
+        "instrumentType": "spot"
+    }
+]

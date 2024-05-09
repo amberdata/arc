@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "tama",
+    "assetName": "Tamadoge",
+    "assetArcId": "AMB:TAM000000584",
+    "website": "https://tamadoge.io/",
+    "whitePaperUrl": "https://tamadoge.io/vendor/tamadoge/Tamadoge-whitepaper-ENG.pdf",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tamadoge/arc_id=AMB:TAM000000584/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tamadoge/arc_id=AMB:TAM000000584/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tamadoge/arc_id=AMB:TAM000000584/exchange=mexc/data.json"
+        ]
+    }
+}

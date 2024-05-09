@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JIV000000000_AMB:USD000000335",
+        "normalizedPair": "jiva_usdt",
+        "normalizedSymbol": "jiva",
+        "nativePair": "JIVA_USDT",
+        "exchange": "poloniex",
+        "assetName": "Jivara",
+        "assetArcId": "AMB:JIV000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jiva_usdt",
+        "instrumentType": "spot"
+    }
+]

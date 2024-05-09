@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRO000002915_AMB:USD000000335",
+        "normalizedPair": "croccat_usdt",
+        "normalizedSymbol": "croccat",
+        "nativePair": "CROCCAT_USDT",
+        "exchange": "poloniex",
+        "assetName": "croc cat",
+        "assetArcId": "AMB:CRO000002915",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "croccat_usdt",
+        "instrumentType": "spot"
+    }
+]

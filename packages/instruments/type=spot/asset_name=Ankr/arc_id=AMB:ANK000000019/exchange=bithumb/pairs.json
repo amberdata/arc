@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ANK000000019_AMB:KRW000000000",
+        "normalizedPair": "ankr_krw",
+        "normalizedSymbol": "ankr",
+        "nativePair": "ANKR/KRW",
+        "exchange": "bithumb",
+        "assetName": "Ankr",
+        "assetArcId": "AMB:ANK000000019",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "ankr_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:REA000001106_AMB:USD000000335",
+        "normalizedPair": "real_usdt",
+        "normalizedSymbol": "real",
+        "nativePair": "REALUSDT",
+        "exchange": "mexc",
+        "assetName": "RealLink",
+        "assetArcId": "AMB:REA000001106",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "real_usdt",
+        "instrumentType": "spot"
+    }
+]

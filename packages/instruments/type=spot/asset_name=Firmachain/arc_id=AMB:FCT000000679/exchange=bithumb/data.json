@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FCT000000679_AMB:KRW000000000",
+        "normalizedPair": "fct2_krw",
+        "normalizedSymbol": "fct2",
+        "nativePair": "FCT2/KRW",
+        "exchange": "bithumb",
+        "assetName": "Firmachain",
+        "assetArcId": "AMB:FCT000000679",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "fct2_krw",
+        "instrumentType": "spot"
+    }
+]

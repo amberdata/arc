@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "boomer",
+    "assetName": "Boomer",
+    "assetArcId": "AMB:BOO000000002",
+    "website": "https://www.baseboomer.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "BASE",
+            "address": "0xcdE172dc5ffC46D228838446c57C1227e0B82049"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Boomer/arc_id=AMB:BOO000000002/exchange=poloniex/data.json"
+        ]
+    }
+}

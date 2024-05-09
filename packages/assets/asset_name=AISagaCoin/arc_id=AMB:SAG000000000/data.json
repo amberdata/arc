@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "saga1",
+    "assetName": "AISagaCoin",
+    "assetArcId": "AMB:SAG000000000",
+    "website": "#",
+    "whitePaperUrl": "https://sagas-organization-1.gitbook.io/saga",
+    "classificationTags": [
+        "Governance",
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AISagaCoin/arc_id=AMB:SAG000000000/exchange=mexc/data.json"
+        ]
+    }
+}

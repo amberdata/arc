@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZKG000003027_AMB:USD000000335",
+        "normalizedPair": "zkgrok_usdt",
+        "normalizedSymbol": "zkgrok",
+        "nativePair": "ZKGROKUSDT",
+        "exchange": "mexc",
+        "assetName": "ZKGROK",
+        "assetArcId": "AMB:ZKG000003027",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zkgrok_usdt",
+        "instrumentType": "spot"
+    }
+]

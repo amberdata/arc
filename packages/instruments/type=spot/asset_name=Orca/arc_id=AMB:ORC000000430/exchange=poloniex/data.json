@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ORC000000430_AMB:USD000000335",
+        "normalizedPair": "orca_usdt",
+        "normalizedSymbol": "orca",
+        "nativePair": "ORCA_USDT",
+        "exchange": "poloniex",
+        "assetName": "Orca",
+        "assetArcId": "AMB:ORC000000430",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "orca_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BIT000001468_AMB:USD000000335",
+        "normalizedPair": "bitbull_usdt",
+        "normalizedSymbol": "bitbull",
+        "nativePair": "BITBULLUSDT",
+        "exchange": "mexc",
+        "assetName": "Bitbull",
+        "assetArcId": "AMB:BIT000001468",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bitbull_usdt",
+        "instrumentType": "spot"
+    }
+]

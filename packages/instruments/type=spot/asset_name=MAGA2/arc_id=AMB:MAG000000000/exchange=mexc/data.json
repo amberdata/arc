@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:MAG000000000_AMB:USD000000335",
+        "normalizedPair": "maga2_usdt",
+        "normalizedSymbol": "maga2",
+        "nativePair": "MAGA2USDT",
+        "exchange": "mexc",
+        "assetName": "MAGA2",
+        "assetArcId": "AMB:MAG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "maga2_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MAG000000000_AMB:USD000000335",
+        "normalizedPair": "maga_usdt",
+        "normalizedSymbol": "maga",
+        "nativePair": "MAGAUSDT",
+        "exchange": "mexc",
+        "assetName": "MAGA",
+        "assetArcId": "AMB:MAG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "maga_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MAG000000000_AMB:USD000000335",
+        "normalizedPair": "magasol_usdt",
+        "normalizedSymbol": "magasol",
+        "nativePair": "MAGASOLUSDT",
+        "exchange": "mexc",
+        "assetName": "MAGASOL",
+        "assetArcId": "AMB:MAG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "magasol_usdt",
+        "instrumentType": "spot"
+    }
+]

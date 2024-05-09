@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETN000000673_AMB:USD000000335",
+        "normalizedPair": "etn_usdt",
+        "normalizedSymbol": "etn",
+        "nativePair": "etnusdt",
+        "exchange": "huobi",
+        "assetName": "Electroneum",
+        "assetArcId": "AMB:ETN000000673",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "etn_usdt",
+        "instrumentType": "spot"
+    }
+]

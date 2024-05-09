@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:RBC000002116_AMB:EUR000000120",
+        "normalizedPair": "rbc_eur",
+        "normalizedSymbol": "rbc",
+        "nativePair": "RBCEUR",
+        "exchange": "kraken",
+        "assetName": "Real BIG Coin",
+        "assetArcId": "AMB:RBC000002116",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "rbc_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RBC000002116_AMB:USD000000949",
+        "normalizedPair": "rbc_usd",
+        "normalizedSymbol": "rbc",
+        "nativePair": "RBCUSD",
+        "exchange": "kraken",
+        "assetName": "Real BIG Coin",
+        "assetArcId": "AMB:RBC000002116",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "rbc_usd",
+        "instrumentType": "spot"
+    }
+]

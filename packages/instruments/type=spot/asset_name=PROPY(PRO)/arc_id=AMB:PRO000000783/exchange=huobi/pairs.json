@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PRO000000783_AMB:BTC000000000",
+        "normalizedPair": "propy_btc",
+        "normalizedSymbol": "propy",
+        "nativePair": "propybtc",
+        "exchange": "huobi",
+        "assetName": "PROPY(PRO)",
+        "assetArcId": "AMB:PRO000000783",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "propy_btc",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LON000000535_AMB:USD000000335",
+        "normalizedPair": "lon_usdt",
+        "normalizedSymbol": "lon",
+        "nativePair": "LON_USDT",
+        "exchange": "poloniex",
+        "assetName": "Tokenlon Network Token",
+        "assetArcId": "AMB:LON000000535",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lon_usdt",
+        "instrumentType": "spot"
+    }
+]

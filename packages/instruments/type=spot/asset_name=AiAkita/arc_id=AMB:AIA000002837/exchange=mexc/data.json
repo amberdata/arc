@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIA000002837_AMB:USD000000335",
+        "normalizedPair": "aiakita_usdt",
+        "normalizedSymbol": "aiakita",
+        "nativePair": "AIAKITAUSDT",
+        "exchange": "mexc",
+        "assetName": "AiAkita",
+        "assetArcId": "AMB:AIA000002837",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aiakita_usdt",
+        "instrumentType": "spot"
+    }
+]

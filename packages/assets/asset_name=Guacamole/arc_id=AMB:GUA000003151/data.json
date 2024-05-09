@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "guac",
+    "assetName": "Guacamole",
+    "assetArcId": "AMB:GUA000003151",
+    "website": "https://bento.me/guac",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOLANA",
+            "address": "https://solscan.io/token/AZsHEMXd36Bj1EMNXhowJajpUXzrKcK57wW4ZGXVa7yR"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Guacamole/arc_id=AMB:GUA000003151/exchange=poloniex/data.json"
+        ]
+    }
+}

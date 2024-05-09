@@ -1,0 +1,24 @@
+{
+    "assetSymbol": "pyth",
+    "assetName": "Pyth Network",
+    "assetArcId": "AMB:PYT000002828",
+    "website": "Official Project Website",
+    "whitePaperUrl": "https://pyth.network/whitepaper_v2.pdf",
+    "classificationTags": [
+        "Governance",
+        "Oracles",
+        "Smart Contract",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pyth Network/arc_id=AMB:PYT000002828/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pyth Network/arc_id=AMB:PYT000002828/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pyth Network/arc_id=AMB:PYT000002828/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pyth Network/arc_id=AMB:PYT000002828/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pyth Network/arc_id=AMB:PYT000002828/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pyth Network/arc_id=AMB:PYT000002828/exchange=lmax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pyth Network/arc_id=AMB:PYT000002828/exchange=mexc/data.json"
+        ]
+    }
+}

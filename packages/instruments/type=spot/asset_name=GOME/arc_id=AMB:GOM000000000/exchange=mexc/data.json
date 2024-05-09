@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GOM000000000_AMB:USD000000335",
+        "normalizedPair": "gome_usdt",
+        "normalizedSymbol": "gome",
+        "nativePair": "GOMEUSDT",
+        "exchange": "mexc",
+        "assetName": "GOME",
+        "assetArcId": "AMB:GOM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gome_usdt",
+        "instrumentType": "spot"
+    }
+]

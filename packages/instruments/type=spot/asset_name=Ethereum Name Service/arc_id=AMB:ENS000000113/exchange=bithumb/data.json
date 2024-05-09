@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ENS000000113_AMB:BTC000000000",
+        "normalizedPair": "ens_btc",
+        "normalizedSymbol": "ens",
+        "nativePair": "ENS/BTC",
+        "exchange": "bithumb",
+        "assetName": "Ethereum Name Service",
+        "assetArcId": "AMB:ENS000000113",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ens_btc",
+        "instrumentType": "spot"
+    }
+]

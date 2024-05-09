@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MON000001948_AMB:USD000000335",
+        "normalizedPair": "monkeys_usdt",
+        "normalizedSymbol": "monkeys",
+        "nativePair": "MONKEYSUSDT",
+        "exchange": "mexc",
+        "assetName": "Monkeys",
+        "assetArcId": "AMB:MON000001948",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "monkeys_usdt",
+        "instrumentType": "spot"
+    }
+]

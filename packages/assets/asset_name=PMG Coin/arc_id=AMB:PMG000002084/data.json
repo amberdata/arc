@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "pmg",
+    "assetName": "PMG Coin",
+    "assetArcId": "AMB:PMG000002084",
+    "website": "https://pmgcoin.io/v2/",
+    "whitePaperUrl": "https://online.fliphtml5.com/rujpi/gpbm/?1655439698135#p=1",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PMG Coin/arc_id=AMB:PMG000002084/exchange=mexc/data.json"
+        ]
+    }
+}

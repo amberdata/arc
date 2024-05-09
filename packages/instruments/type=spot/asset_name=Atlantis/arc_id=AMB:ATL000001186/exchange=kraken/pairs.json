@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ATL000001186_AMB:EUR000000120",
+        "normalizedPair": "atlas_eur",
+        "normalizedSymbol": "atlas",
+        "nativePair": "ATLASEUR",
+        "exchange": "kraken",
+        "assetName": "Atlantis",
+        "assetArcId": "AMB:ATL000001186",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "atlas_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ATL000001186_AMB:USD000000949",
+        "normalizedPair": "atlas_usd",
+        "normalizedSymbol": "atlas",
+        "nativePair": "ATLASUSD",
+        "exchange": "kraken",
+        "assetName": "Atlantis",
+        "assetArcId": "AMB:ATL000001186",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "atlas_usd",
+        "instrumentType": "spot"
+    }
+]

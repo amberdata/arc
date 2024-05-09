@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "topai",
+    "assetName": "TOPAI",
+    "assetArcId": "AMB:TOP000000000",
+    "website": "https://topai.cyou/",
+    "whitePaperUrl": "https://topais-organization.gitbook.io/topai",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TOPAI/arc_id=AMB:TOP000000000/exchange=mexc/data.json"
+        ]
+    }
+}

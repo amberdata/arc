@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ONE000000235_AMB:QCA000000000",
+        "normalizedPair": "one_qc",
+        "normalizedSymbol": "one",
+        "nativePair": "one_qc",
+        "exchange": "zb",
+        "assetName": "ONE Token",
+        "assetArcId": "AMB:ONE000000235",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "one_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ONE000000235_AMB:USD000000335",
+        "normalizedPair": "one_usdt",
+        "normalizedSymbol": "one",
+        "nativePair": "one_usdt",
+        "exchange": "zb",
+        "assetName": "ONE Token",
+        "assetArcId": "AMB:ONE000000235",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "one_usdt",
+        "instrumentType": "spot"
+    }
+]

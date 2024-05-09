@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAD000000041_AMB:USD000000335",
+        "normalizedPair": "badger_usdt",
+        "normalizedSymbol": "badger",
+        "nativePair": "badgerusdt",
+        "exchange": "huobi",
+        "assetName": "Badger DAO",
+        "assetArcId": "AMB:BAD000000041",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "badger_usdt",
+        "instrumentType": "spot"
+    }
+]

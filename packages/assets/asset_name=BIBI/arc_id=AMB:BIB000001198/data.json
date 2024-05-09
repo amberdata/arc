@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "bibi",
+    "assetName": "BIBI",
+    "assetArcId": "AMB:BIB000001198",
+    "website": "https://solbibi.xyz/",
+    "whitePaperUrl": "/how-to-buy/BIBI?utm_source=mexc&utm_medium=tokenifoBIBI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BIBI/arc_id=AMB:BIB000001198/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BIBI/arc_id=AMB:BIB000001198/exchange=mexc/data.json"
+        ]
+    }
+}

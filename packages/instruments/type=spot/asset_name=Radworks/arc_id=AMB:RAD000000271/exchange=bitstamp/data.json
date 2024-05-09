@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:RAD000000271_AMB:EUR000000120",
+        "normalizedPair": "rad_eur",
+        "normalizedSymbol": "rad",
+        "nativePair": "radeur",
+        "exchange": "bitstamp",
+        "assetName": "Radworks",
+        "assetArcId": "AMB:RAD000000271",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "rad_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RAD000000271_AMB:USD000000949",
+        "normalizedPair": "rad_usd",
+        "normalizedSymbol": "rad",
+        "nativePair": "radusd",
+        "exchange": "bitstamp",
+        "assetName": "Radworks",
+        "assetArcId": "AMB:RAD000000271",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "rad_usd",
+        "instrumentType": "spot"
+    }
+]

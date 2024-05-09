@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cau",
+    "assetName": "Canxium",
+    "assetArcId": "AMB:CAU000003172",
+    "website": "https://canxium.org/",
+    "whitePaperUrl": "https://canxium.org/pdf/whitepaper_v2.1.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Canxium/arc_id=AMB:CAU000003172/exchange=mexc/data.json"
+        ]
+    }
+}

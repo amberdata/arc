@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BVT000001506_AMB:USD000000335",
+        "normalizedPair": "bvt_usdt",
+        "normalizedSymbol": "bvt",
+        "nativePair": "BVTUSDT",
+        "exchange": "mexc",
+        "assetName": "BovineVerse Token",
+        "assetArcId": "AMB:BVT000001506",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bvt_usdt",
+        "instrumentType": "spot"
+    }
+]

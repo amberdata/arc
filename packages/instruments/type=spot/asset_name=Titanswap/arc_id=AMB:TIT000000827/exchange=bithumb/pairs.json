@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TIT000000827_AMB:KRW000000000",
+        "normalizedPair": "titan_krw",
+        "normalizedSymbol": "titan",
+        "nativePair": "TITAN/KRW",
+        "exchange": "bithumb",
+        "assetName": "Titanswap",
+        "assetArcId": "AMB:TIT000000827",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "titan_krw",
+        "instrumentType": "spot"
+    }
+]

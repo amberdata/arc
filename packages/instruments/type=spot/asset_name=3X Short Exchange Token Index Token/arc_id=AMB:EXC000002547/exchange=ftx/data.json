@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EXC000002547_AMB:USD000000949",
+        "normalizedPair": "exchbear_usd",
+        "normalizedSymbol": "exchbear",
+        "nativePair": "EXCHBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short Exchange Token Index Token",
+        "assetArcId": "AMB:EXC000002547",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "exchbear_usd",
+        "instrumentType": "spot"
+    }
+]

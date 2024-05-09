@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GAC000003017_AMB:USD000000335",
+        "normalizedPair": "gac_usdt",
+        "normalizedSymbol": "gac",
+        "nativePair": "GACUSDT",
+        "exchange": "mexc",
+        "assetName": "Greenart Coin",
+        "assetArcId": "AMB:GAC000003017",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gac_usdt",
+        "instrumentType": "spot"
+    }
+]

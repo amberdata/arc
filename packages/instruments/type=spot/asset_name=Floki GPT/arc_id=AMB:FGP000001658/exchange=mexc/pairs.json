@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FGP000001658_AMB:USD000000335",
+        "normalizedPair": "fgpt_usdt",
+        "normalizedSymbol": "fgpt",
+        "nativePair": "FGPTUSDT",
+        "exchange": "mexc",
+        "assetName": "Floki GPT",
+        "assetArcId": "AMB:FGP000001658",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fgpt_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "lsc",
+    "assetName": "LS TRADE",
+    "assetArcId": "AMB:LSC000001877",
+    "website": "https://lstrade.io/",
+    "whitePaperUrl": "https://assets.lstrade.io/%5BEN%5DLSTrade.pdf",
+    "classificationTags": [
+        "Derivatives",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

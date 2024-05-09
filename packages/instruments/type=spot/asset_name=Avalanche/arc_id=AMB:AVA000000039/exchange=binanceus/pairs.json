@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:AVA000000039_AMB:BTC000000000",
+        "normalizedPair": "avax_btc",
+        "normalizedSymbol": "avax",
+        "nativePair": "AVAXBTC",
+        "exchange": "binanceus",
+        "assetName": "Avalanche",
+        "assetArcId": "AMB:AVA000000039",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "avax_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AVA000000039_AMB:USD000000335",
+        "normalizedPair": "avax_usdt",
+        "normalizedSymbol": "avax",
+        "nativePair": "AVAXUSDT",
+        "exchange": "binanceus",
+        "assetName": "Avalanche",
+        "assetArcId": "AMB:AVA000000039",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "avax_usdt",
+        "instrumentType": "spot"
+    }
+]

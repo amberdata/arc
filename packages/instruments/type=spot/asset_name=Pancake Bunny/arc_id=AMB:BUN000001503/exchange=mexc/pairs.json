@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BUN000001503_AMB:USD000000335",
+        "normalizedPair": "bunny_usdt",
+        "normalizedSymbol": "bunny",
+        "nativePair": "BUNNYUSDT",
+        "exchange": "mexc",
+        "assetName": "Pancake Bunny",
+        "assetArcId": "AMB:BUN000001503",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bunny_usdt",
+        "instrumentType": "spot"
+    }
+]

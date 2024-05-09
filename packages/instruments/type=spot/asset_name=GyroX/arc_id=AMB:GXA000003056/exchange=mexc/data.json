@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GXA000003056_AMB:USD000000335",
+        "normalizedPair": "gx_usdt",
+        "normalizedSymbol": "gx",
+        "nativePair": "GXUSDT",
+        "exchange": "mexc",
+        "assetName": "GyroX",
+        "assetArcId": "AMB:GXA000003056",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gx_usdt",
+        "instrumentType": "spot"
+    }
+]

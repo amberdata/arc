@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BXC000001507_AMB:USD000000335",
+        "normalizedPair": "bxc_usdt",
+        "normalizedSymbol": "bxc",
+        "nativePair": "BXCUSDT",
+        "exchange": "mexc",
+        "assetName": "Bloxies Coin",
+        "assetArcId": "AMB:BXC000001507",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bxc_usdt",
+        "instrumentType": "spot"
+    }
+]

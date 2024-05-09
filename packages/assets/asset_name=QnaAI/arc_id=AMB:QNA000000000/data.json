@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "qna",
+    "assetName": "QnaAI",
+    "assetArcId": "AMB:QNA000000000",
+    "website": "https://qna.icu/",
+    "whitePaperUrl": "https://qnaai.gitbook.io/qnaai/qnaai/introduce",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=QnaAI/arc_id=AMB:QNA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

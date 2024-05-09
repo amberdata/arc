@@ -1,0 +1,31 @@
+{
+    "assetSymbol": "lpt",
+    "assetName": "Livepeer",
+    "assetArcId": "AMB:LPT000000196",
+    "website": "https://livepeer.org/",
+    "whitePaperUrl": "https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md",
+    "classificationTags": [
+        "Proof-of-Stake"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x58b6a8a3302369daec383334672404ee733ab239"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=zb/data.json"
+        ]
+    }
+}

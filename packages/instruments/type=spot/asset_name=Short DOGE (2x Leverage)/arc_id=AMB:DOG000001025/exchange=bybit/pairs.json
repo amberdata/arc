@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOG000001025_AMB:USD000000335",
+        "normalizedPair": "doge2s_usdt",
+        "normalizedSymbol": "doge2s",
+        "nativePair": "DOGE2SUSDT",
+        "exchange": "bybit",
+        "assetName": "Short DOGE (2x Leverage)",
+        "assetArcId": "AMB:DOG000001025",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "doge2s_usdt",
+        "instrumentType": "spot"
+    }
+]

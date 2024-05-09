@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PRO000000436_AMB:USD000000335",
+        "normalizedPair": "pro_usdt",
+        "normalizedSymbol": "pro",
+        "nativePair": "PROUSDT",
+        "exchange": "mexc",
+        "assetName": "Propy",
+        "assetArcId": "AMB:PRO000000436",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pro_usdt",
+        "instrumentType": "spot"
+    }
+]

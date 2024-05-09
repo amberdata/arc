@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MEM000002933_AMB:USD000000335",
+        "normalizedPair": "memerats_usdt",
+        "normalizedSymbol": "memerats",
+        "nativePair": "MEMERATSUSDT",
+        "exchange": "mexc",
+        "assetName": "Memerats",
+        "assetArcId": "AMB:MEM000002933",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "memerats_usdt",
+        "instrumentType": "spot"
+    }
+]

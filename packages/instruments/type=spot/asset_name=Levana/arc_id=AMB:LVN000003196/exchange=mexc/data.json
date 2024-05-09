@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LVN000003196_AMB:USD000000335",
+        "normalizedPair": "lvn_usdt",
+        "normalizedSymbol": "lvn",
+        "nativePair": "LVNUSDT",
+        "exchange": "mexc",
+        "assetName": "Levana",
+        "assetArcId": "AMB:LVN000003196",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lvn_usdt",
+        "instrumentType": "spot"
+    }
+]

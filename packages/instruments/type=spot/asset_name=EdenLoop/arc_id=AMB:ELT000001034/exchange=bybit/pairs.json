@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ELT000001034_AMB:USD000000335",
+        "normalizedPair": "elt_usdt",
+        "normalizedSymbol": "elt",
+        "nativePair": "ELTUSDT",
+        "exchange": "bybit",
+        "assetName": "EdenLoop",
+        "assetArcId": "AMB:ELT000001034",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "elt_usdt",
+        "instrumentType": "spot"
+    }
+]

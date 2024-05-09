@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STX000000307_AMB:USD000000335",
+        "normalizedPair": "stx_usdt",
+        "normalizedSymbol": "stx",
+        "nativePair": "STX_USDT",
+        "exchange": "poloniex",
+        "assetName": "Stacks",
+        "assetArcId": "AMB:STX000000307",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "stx_usdt",
+        "instrumentType": "spot"
+    }
+]

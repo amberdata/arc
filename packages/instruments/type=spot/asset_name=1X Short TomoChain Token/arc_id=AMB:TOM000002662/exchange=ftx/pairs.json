@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOM000002662_AMB:USD000000949",
+        "normalizedPair": "tomohedge_usd",
+        "normalizedSymbol": "tomohedge",
+        "nativePair": "TOMOHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short TomoChain Token",
+        "assetArcId": "AMB:TOM000002662",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "tomohedge_usd",
+        "instrumentType": "spot"
+    }
+]

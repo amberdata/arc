@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ELA000001149_AMB:KRW000000000",
+        "normalizedPair": "el_krw",
+        "normalizedSymbol": "el",
+        "nativePair": "EL/KRW",
+        "exchange": "bithumb",
+        "assetName": "ELYSIA",
+        "assetArcId": "AMB:ELA000001149",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "el_krw",
+        "instrumentType": "spot"
+    }
+]

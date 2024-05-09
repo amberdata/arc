@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:SHI000000293_AMB:BTC000000000",
+        "normalizedPair": "shib_btc",
+        "normalizedSymbol": "shib",
+        "nativePair": "SHIB-BTC",
+        "exchange": "okex",
+        "assetName": "SHIBA INU",
+        "assetArcId": "AMB:SHI000000293",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "shib_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SHI000000293_AMB:USD000000333",
+        "normalizedPair": "shib_usdc",
+        "normalizedSymbol": "shib",
+        "nativePair": "SHIB-USDC",
+        "exchange": "okex",
+        "assetName": "SHIBA INU",
+        "assetArcId": "AMB:SHI000000293",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "shib_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SHI000000293_AMB:USD000000335",
+        "normalizedPair": "shib_usdt",
+        "normalizedSymbol": "shib",
+        "nativePair": "SHIB-USDT",
+        "exchange": "okex",
+        "assetName": "SHIBA INU",
+        "assetArcId": "AMB:SHI000000293",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shib_usdt",
+        "instrumentType": "spot"
+    }
+]

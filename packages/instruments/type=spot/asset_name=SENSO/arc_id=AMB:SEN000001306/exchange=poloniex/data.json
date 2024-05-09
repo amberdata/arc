@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SEN000001306_AMB:BTC000000000",
+        "normalizedPair": "senso_btc",
+        "normalizedSymbol": "senso",
+        "nativePair": "SENSO_BTC",
+        "exchange": "poloniex",
+        "assetName": "SENSO",
+        "assetArcId": "AMB:SEN000001306",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "senso_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SEN000001306_AMB:USD000000335",
+        "normalizedPair": "senso_usdt",
+        "normalizedSymbol": "senso",
+        "nativePair": "SENSO_USDT",
+        "exchange": "poloniex",
+        "assetName": "SENSO",
+        "assetArcId": "AMB:SEN000001306",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "senso_usdt",
+        "instrumentType": "spot"
+    }
+]

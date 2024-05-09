@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:OGA000000231_AMB:BTC000000000",
+        "normalizedPair": "og_btc",
+        "normalizedSymbol": "og",
+        "nativePair": "OGBTC",
+        "exchange": "binance",
+        "assetName": "OG Fan Token",
+        "assetArcId": "AMB:OGA000000231",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "og_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OGA000000231_AMB:BUS000000067",
+        "normalizedPair": "og_busd",
+        "normalizedSymbol": "og",
+        "nativePair": "OGBUSD",
+        "exchange": "binance",
+        "assetName": "OG Fan Token",
+        "assetArcId": "AMB:OGA000000231",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "og_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OGA000000231_AMB:TRY000000940",
+        "normalizedPair": "og_try",
+        "normalizedSymbol": "og",
+        "nativePair": "OGTRY",
+        "exchange": "binance",
+        "assetName": "OG Fan Token",
+        "assetArcId": "AMB:OGA000000231",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "og_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OGA000000231_AMB:USD000000335",
+        "normalizedPair": "og_usdt",
+        "normalizedSymbol": "og",
+        "nativePair": "OGUSDT",
+        "exchange": "binance",
+        "assetName": "OG Fan Token",
+        "assetArcId": "AMB:OGA000000231",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "og_usdt",
+        "instrumentType": "spot"
+    }
+]

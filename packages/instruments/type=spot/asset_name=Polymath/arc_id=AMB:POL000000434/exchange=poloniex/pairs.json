@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:POL000000434_AMB:BTC000000000",
+        "normalizedPair": "poly_btc",
+        "normalizedSymbol": "poly",
+        "nativePair": "POLY_BTC",
+        "exchange": "poloniex",
+        "assetName": "Polymath",
+        "assetArcId": "AMB:POL000000434",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "poly_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:POL000000434_AMB:USD000000335",
+        "normalizedPair": "poly_usdt",
+        "normalizedSymbol": "poly",
+        "nativePair": "POLY_USDT",
+        "exchange": "poloniex",
+        "assetName": "Polymath",
+        "assetArcId": "AMB:POL000000434",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "poly_usdt",
+        "instrumentType": "spot"
+    }
+]

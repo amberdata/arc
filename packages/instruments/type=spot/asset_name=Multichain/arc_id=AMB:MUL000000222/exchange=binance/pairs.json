@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:MUL000000222_AMB:BTC000000000",
+        "normalizedPair": "multi_btc",
+        "normalizedSymbol": "multi",
+        "nativePair": "MULTIBTC",
+        "exchange": "binance",
+        "assetName": "Multichain",
+        "assetArcId": "AMB:MUL000000222",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "multi_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MUL000000222_AMB:BUS000000067",
+        "normalizedPair": "multi_busd",
+        "normalizedSymbol": "multi",
+        "nativePair": "MULTIBUSD",
+        "exchange": "binance",
+        "assetName": "Multichain",
+        "assetArcId": "AMB:MUL000000222",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "multi_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MUL000000222_AMB:USD000000335",
+        "normalizedPair": "multi_usdt",
+        "normalizedSymbol": "multi",
+        "nativePair": "MULTIUSDT",
+        "exchange": "binance",
+        "assetName": "Multichain",
+        "assetArcId": "AMB:MUL000000222",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "multi_usdt",
+        "instrumentType": "spot"
+    }
+]

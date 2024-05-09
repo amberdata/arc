@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:REP000002431_AMB:BTC000000000",
+        "normalizedPair": "repv1_btc",
+        "normalizedSymbol": "repv1",
+        "nativePair": "XREPXXBT",
+        "exchange": "kraken",
+        "assetName": "Augur",
+        "assetArcId": "AMB:REP000002431",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "repv1_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:REP000002431_AMB:EUR000000120",
+        "normalizedPair": "repv1_eur",
+        "normalizedSymbol": "repv1",
+        "nativePair": "XREPZEUR",
+        "exchange": "kraken",
+        "assetName": "Augur",
+        "assetArcId": "AMB:REP000002431",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "repv1_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:REP000002431_AMB:USD000000949",
+        "normalizedPair": "repv1_usd",
+        "normalizedSymbol": "repv1",
+        "nativePair": "XREPZUSD",
+        "exchange": "kraken",
+        "assetName": "Augur",
+        "assetArcId": "AMB:REP000002431",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "repv1_usd",
+        "instrumentType": "spot"
+    }
+]

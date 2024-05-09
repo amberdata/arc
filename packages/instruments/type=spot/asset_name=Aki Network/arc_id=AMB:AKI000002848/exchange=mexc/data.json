@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AKI000002848_AMB:USD000000335",
+        "normalizedPair": "aki_usdt",
+        "normalizedSymbol": "aki",
+        "nativePair": "AKIUSDT",
+        "exchange": "mexc",
+        "assetName": "Aki Network",
+        "assetArcId": "AMB:AKI000002848",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aki_usdt",
+        "instrumentType": "spot"
+    }
+]

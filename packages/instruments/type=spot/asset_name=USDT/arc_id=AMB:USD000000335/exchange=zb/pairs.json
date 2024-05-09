@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:USD000000335_AMB:QCA000000000",
+        "normalizedPair": "usdt_qc",
+        "normalizedSymbol": "usdt",
+        "nativePair": "usdt_qc",
+        "exchange": "zb",
+        "assetName": "USDT",
+        "assetArcId": "AMB:USD000000335",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "usdt_qc",
+        "instrumentType": "spot"
+    }
+]

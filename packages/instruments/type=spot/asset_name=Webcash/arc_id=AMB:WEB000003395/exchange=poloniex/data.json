@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WEB000003395_AMB:USD000000335",
+        "normalizedPair": "web_usdt",
+        "normalizedSymbol": "web",
+        "nativePair": "WEB_USDT",
+        "exchange": "poloniex",
+        "assetName": "Webcash",
+        "assetArcId": "AMB:WEB000003395",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "web_usdt",
+        "instrumentType": "spot"
+    }
+]

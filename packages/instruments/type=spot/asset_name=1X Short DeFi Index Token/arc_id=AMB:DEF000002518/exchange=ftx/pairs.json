@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DEF000002518_AMB:USD000000949",
+        "normalizedPair": "defihedge_usd",
+        "normalizedSymbol": "defihedge",
+        "nativePair": "DEFIHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short DeFi Index Token",
+        "assetArcId": "AMB:DEF000002518",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "defihedge_usd",
+        "instrumentType": "spot"
+    }
+]

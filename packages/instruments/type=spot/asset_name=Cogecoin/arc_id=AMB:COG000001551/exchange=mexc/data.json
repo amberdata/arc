@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COG000001551_AMB:USD000000335",
+        "normalizedPair": "coge_usdt",
+        "normalizedSymbol": "coge",
+        "nativePair": "COGEUSDT",
+        "exchange": "mexc",
+        "assetName": "Cogecoin",
+        "assetArcId": "AMB:COG000001551",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "coge_usdt",
+        "instrumentType": "spot"
+    }
+]

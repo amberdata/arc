@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "aie",
+    "assetName": "A.I.Earn",
+    "assetArcId": "AMB:AIE000001378",
+    "website": "https://www.aiearn.org/",
+    "whitePaperUrl": "https://www.aiearn.org/whitepaper",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=A.I.Earn/arc_id=AMB:AIE000001378/exchange=mexc/data.json"
+        ]
+    }
+}

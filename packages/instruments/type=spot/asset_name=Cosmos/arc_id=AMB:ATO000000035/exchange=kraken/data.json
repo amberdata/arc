@@ -1,0 +1,74 @@
+[
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:BTC000000000",
+        "normalizedPair": "atom_btc",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOMXBT",
+        "exchange": "kraken",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "atom_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:ETH000000000",
+        "normalizedPair": "atom_eth",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOMETH",
+        "exchange": "kraken",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "atom_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:EUR000000120",
+        "normalizedPair": "atom_eur",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOMEUR",
+        "exchange": "kraken",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "atom_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:GBP000000144",
+        "normalizedPair": "atom_gbp",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOMGBP",
+        "exchange": "kraken",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "atom_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:USD000000949",
+        "normalizedPair": "atom_usd",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOMUSD",
+        "exchange": "kraken",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "atom_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:USD000000335",
+        "normalizedPair": "atom_usdt",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOMUSDT",
+        "exchange": "kraken",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "atom_usdt",
+        "instrumentType": "spot"
+    }
+]

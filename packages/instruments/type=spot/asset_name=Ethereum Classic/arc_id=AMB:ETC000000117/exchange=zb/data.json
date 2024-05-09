@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ETC000000117_AMB:QCA000000000",
+        "normalizedPair": "etc_qc",
+        "normalizedSymbol": "etc",
+        "nativePair": "etc_qc",
+        "exchange": "zb",
+        "assetName": "Ethereum Classic",
+        "assetArcId": "AMB:ETC000000117",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "etc_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ETC000000117_AMB:USD000000335",
+        "normalizedPair": "etc_usdt",
+        "normalizedSymbol": "etc",
+        "nativePair": "etc_usdt",
+        "exchange": "zb",
+        "assetName": "Ethereum Classic",
+        "assetArcId": "AMB:ETC000000117",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "etc_usdt",
+        "instrumentType": "spot"
+    }
+]

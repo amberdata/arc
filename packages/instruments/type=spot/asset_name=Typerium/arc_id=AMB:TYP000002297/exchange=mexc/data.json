@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TYP000002297_AMB:USD000000335",
+        "normalizedPair": "type_usdt",
+        "normalizedSymbol": "type",
+        "nativePair": "TYPEUSDT",
+        "exchange": "mexc",
+        "assetName": "Typerium",
+        "assetArcId": "AMB:TYP000002297",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "type_usdt",
+        "instrumentType": "spot"
+    }
+]

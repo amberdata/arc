@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dragonera",
+    "assetName": "DragonEra",
+    "assetArcId": "AMB:DRA000002999",
+    "website": "https://www.bscdragonera.com/",
+    "whitePaperUrl": "/how-to-buy/DRAGONERA?utm_source=mexc&utm_medium=tokenifoDRAGONERA&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DragonEra/arc_id=AMB:DRA000002999/exchange=mexc/data.json"
+        ]
+    }
+}

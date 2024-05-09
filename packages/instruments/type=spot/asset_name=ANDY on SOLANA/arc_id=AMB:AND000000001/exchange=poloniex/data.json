@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AND000000001_AMB:USD000000335",
+        "normalizedPair": "andysol_usdt",
+        "normalizedSymbol": "andysol",
+        "nativePair": "ANDYSOL_USDT",
+        "exchange": "poloniex",
+        "assetName": "ANDY on SOLANA",
+        "assetArcId": "AMB:AND000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "andysol_usdt",
+        "instrumentType": "spot"
+    }
+]

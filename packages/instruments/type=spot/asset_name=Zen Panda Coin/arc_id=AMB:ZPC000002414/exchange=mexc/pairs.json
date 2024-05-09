@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZPC000002414_AMB:USD000000335",
+        "normalizedPair": "zpc_usdt",
+        "normalizedSymbol": "zpc",
+        "nativePair": "ZPCUSDT",
+        "exchange": "mexc",
+        "assetName": "Zen Panda Coin",
+        "assetArcId": "AMB:ZPC000002414",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zpc_usdt",
+        "instrumentType": "spot"
+    }
+]

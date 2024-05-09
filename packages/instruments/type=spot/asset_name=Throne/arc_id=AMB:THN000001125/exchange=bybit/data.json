@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:THN000001125_AMB:USD000000335",
+        "normalizedPair": "thn_usdt",
+        "normalizedSymbol": "thn",
+        "nativePair": "THNUSDT",
+        "exchange": "bybit",
+        "assetName": "Throne",
+        "assetArcId": "AMB:THN000001125",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "thn_usdt",
+        "instrumentType": "spot"
+    }
+]

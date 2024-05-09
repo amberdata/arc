@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KAI000000711_AMB:USD000000335",
+        "normalizedPair": "kai_usdt",
+        "normalizedSymbol": "kai",
+        "nativePair": "kaiusdt",
+        "exchange": "huobi",
+        "assetName": "KardiaChain",
+        "assetArcId": "AMB:KAI000000711",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kai_usdt",
+        "instrumentType": "spot"
+    }
+]

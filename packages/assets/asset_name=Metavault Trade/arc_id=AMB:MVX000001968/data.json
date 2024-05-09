@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "mvx",
+    "assetName": "Metavault Trade",
+    "assetArcId": "AMB:MVX000001968",
+    "website": "https://metavault.trade/",
+    "whitePaperUrl": "https://docs.metavault.trade/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Metavault Trade/arc_id=AMB:MVX000001968/exchange=mexc/data.json"
+        ]
+    }
+}

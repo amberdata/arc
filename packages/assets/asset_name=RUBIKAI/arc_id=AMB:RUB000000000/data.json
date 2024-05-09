@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "rubikai",
+    "assetName": "RUBIKAI",
+    "assetArcId": "AMB:RUB000000000",
+    "website": "https://rubikai.tech/",
+    "whitePaperUrl": "/how-to-buy/RUBIKAI?utm_source=mexc&utm_medium=tokenifoRUBIKAI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=RUBIKAI/arc_id=AMB:RUB000000000/exchange=mexc/data.json"
+        ]
+    }
+}

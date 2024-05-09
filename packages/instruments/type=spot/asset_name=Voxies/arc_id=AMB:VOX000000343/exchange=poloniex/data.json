@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VOX000000343_AMB:USD000000335",
+        "normalizedPair": "voxel_usdt",
+        "normalizedSymbol": "voxel",
+        "nativePair": "VOXEL_USDT",
+        "exchange": "poloniex",
+        "assetName": "Voxies",
+        "assetArcId": "AMB:VOX000000343",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "voxel_usdt",
+        "instrumentType": "spot"
+    }
+]

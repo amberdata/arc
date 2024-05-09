@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:QIA000000265_AMB:USD000000335",
+        "normalizedPair": "qi.amb.1_usdt",
+        "normalizedSymbol": "qi.amb.1",
+        "nativePair": "QIUSDT",
+        "exchange": "mexc",
+        "assetName": "QiSwap",
+        "assetArcId": "AMB:QIA000000265",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "qi_usdt",
+        "instrumentType": "spot"
+    }
+]

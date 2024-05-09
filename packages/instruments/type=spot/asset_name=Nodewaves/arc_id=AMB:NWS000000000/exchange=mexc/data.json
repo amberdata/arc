@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NWS000000000_AMB:USD000000335",
+        "normalizedPair": "nws_usdt",
+        "normalizedSymbol": "nws",
+        "nativePair": "NWSUSDT",
+        "exchange": "mexc",
+        "assetName": "Nodewaves",
+        "assetArcId": "AMB:NWS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nws_usdt",
+        "instrumentType": "spot"
+    }
+]

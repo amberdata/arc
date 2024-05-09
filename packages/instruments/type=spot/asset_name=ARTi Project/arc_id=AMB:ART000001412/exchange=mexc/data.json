@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ART000001412_AMB:USD000000335",
+        "normalizedPair": "arti_usdt",
+        "normalizedSymbol": "arti",
+        "nativePair": "ARTIUSDT",
+        "exchange": "mexc",
+        "assetName": "ARTi Project",
+        "assetArcId": "AMB:ART000001412",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "arti_usdt",
+        "instrumentType": "spot"
+    }
+]

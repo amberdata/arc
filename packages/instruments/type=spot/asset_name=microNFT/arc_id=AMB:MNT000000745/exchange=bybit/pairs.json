@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:MNT000000745_AMB:BTC000000000",
+        "normalizedPair": "mnt_btc",
+        "normalizedSymbol": "mnt",
+        "nativePair": "MNTBTC",
+        "exchange": "bybit",
+        "assetName": "microNFT",
+        "assetArcId": "AMB:MNT000000745",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "mnt_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MNT000000745_AMB:USD000000333",
+        "normalizedPair": "mnt_usdc",
+        "normalizedSymbol": "mnt",
+        "nativePair": "MNTUSDC",
+        "exchange": "bybit",
+        "assetName": "microNFT",
+        "assetArcId": "AMB:MNT000000745",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "mnt_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MNT000000745_AMB:USD000000335",
+        "normalizedPair": "mnt_usdt",
+        "normalizedSymbol": "mnt",
+        "nativePair": "MNTUSDT",
+        "exchange": "bybit",
+        "assetName": "microNFT",
+        "assetArcId": "AMB:MNT000000745",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mnt_usdt",
+        "instrumentType": "spot"
+    }
+]

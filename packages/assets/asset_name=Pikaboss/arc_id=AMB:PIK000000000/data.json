@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "pikaboss",
+    "assetName": "Pikaboss",
+    "assetArcId": "AMB:PIK000000000",
+    "website": "https://pikaboss.vip/",
+    "whitePaperUrl": "https://pikaboss.vip/",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pikaboss/arc_id=AMB:PIK000000000/exchange=mexc/data.json"
+        ]
+    }
+}

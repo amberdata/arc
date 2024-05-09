@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:HFT000000158_AMB:BTC000000000",
+        "normalizedPair": "hft_btc",
+        "normalizedSymbol": "hft",
+        "nativePair": "HFTBTC",
+        "exchange": "binance",
+        "assetName": "Hashflow",
+        "assetArcId": "AMB:HFT000000158",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "hft_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:HFT000000158_AMB:BUS000000067",
+        "normalizedPair": "hft_busd",
+        "normalizedSymbol": "hft",
+        "nativePair": "HFTBUSD",
+        "exchange": "binance",
+        "assetName": "Hashflow",
+        "assetArcId": "AMB:HFT000000158",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "hft_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:HFT000000158_AMB:USD000000335",
+        "normalizedPair": "hft_usdt",
+        "normalizedSymbol": "hft",
+        "nativePair": "HFTUSDT",
+        "exchange": "binance",
+        "assetName": "Hashflow",
+        "assetArcId": "AMB:HFT000000158",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hft_usdt",
+        "instrumentType": "spot"
+    }
+]

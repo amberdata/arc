@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "zgt",
+    "assetName": "Zigzach",
+    "assetArcId": "AMB:ZGT000000000",
+    "website": "https://www.zigzach.xyz/",
+    "whitePaperUrl": "https://zigzachteam.gitbook.io/zigzach-whitepaper/introduction/motivation",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Zigzach/arc_id=AMB:ZGT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

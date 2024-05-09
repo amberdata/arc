@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LQD000003300_AMB:USD000000335",
+        "normalizedPair": "lqdx_usdt",
+        "normalizedSymbol": "lqdx",
+        "nativePair": "LQDXUSDT",
+        "exchange": "mexc",
+        "assetName": "Liquid Crypto",
+        "assetArcId": "AMB:LQD000003300",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lqdx_usdt",
+        "instrumentType": "spot"
+    }
+]

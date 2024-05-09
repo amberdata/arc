@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PLB000002079_AMB:USD000000335",
+        "normalizedPair": "plb_usdt",
+        "normalizedSymbol": "plb",
+        "nativePair": "PLBUSDT",
+        "exchange": "mexc",
+        "assetName": "Paladeum",
+        "assetArcId": "AMB:PLB000002079",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "plb_usdt",
+        "instrumentType": "spot"
+    }
+]

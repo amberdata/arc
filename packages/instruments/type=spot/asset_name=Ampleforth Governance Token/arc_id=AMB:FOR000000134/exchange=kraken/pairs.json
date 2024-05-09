@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:FOR000000134_AMB:EUR000000120",
+        "normalizedPair": "forth_eur",
+        "normalizedSymbol": "forth",
+        "nativePair": "FORTHEUR",
+        "exchange": "kraken",
+        "assetName": "Ampleforth Governance Token",
+        "assetArcId": "AMB:FOR000000134",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "forth_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FOR000000134_AMB:USD000000949",
+        "normalizedPair": "forth_usd",
+        "normalizedSymbol": "forth",
+        "nativePair": "FORTHUSD",
+        "exchange": "kraken",
+        "assetName": "Ampleforth Governance Token",
+        "assetArcId": "AMB:FOR000000134",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "forth_usd",
+        "instrumentType": "spot"
+    }
+]

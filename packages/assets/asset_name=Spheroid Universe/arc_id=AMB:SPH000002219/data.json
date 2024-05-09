@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "sph",
+    "assetName": "Spheroid Universe",
+    "assetArcId": "AMB:SPH000002219",
+    "website": "https://spheroiduniverse.io/",
+    "whitePaperUrl": "/how-to-buy/SPH?utm_source=mexc&utm_medium=tokenifoSPH&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Spheroid Universe/arc_id=AMB:SPH000002219/exchange=mexc/data.json"
+        ]
+    }
+}

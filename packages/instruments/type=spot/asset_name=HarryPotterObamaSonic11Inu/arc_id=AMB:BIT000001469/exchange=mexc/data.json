@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BIT000001469_AMB:USD000000335",
+        "normalizedPair": "bitcoin1_usdt",
+        "normalizedSymbol": "bitcoin1",
+        "nativePair": "BITCOIN1USDT",
+        "exchange": "mexc",
+        "assetName": "HarryPotterObamaSonic11Inu",
+        "assetArcId": "AMB:BIT000001469",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bitcoin1_usdt",
+        "instrumentType": "spot"
+    }
+]

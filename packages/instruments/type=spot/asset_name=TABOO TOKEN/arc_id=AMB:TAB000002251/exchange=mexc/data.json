@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TAB000002251_AMB:USD000000335",
+        "normalizedPair": "taboo_usdt",
+        "normalizedSymbol": "taboo",
+        "nativePair": "TABOOUSDT",
+        "exchange": "mexc",
+        "assetName": "TABOO TOKEN",
+        "assetArcId": "AMB:TAB000002251",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "taboo_usdt",
+        "instrumentType": "spot"
+    }
+]

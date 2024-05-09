@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "osis",
+    "assetName": "OSIS",
+    "assetArcId": "AMB:OSI000000000",
+    "website": "https://osisplatform.com",
+    "whitePaperUrl": "https://osisplatform.com/webflow/documents/OSIS-whitepaper_compressed.pdf",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=OSIS/arc_id=AMB:OSI000000000/exchange=mexc/data.json"
+        ]
+    }
+}

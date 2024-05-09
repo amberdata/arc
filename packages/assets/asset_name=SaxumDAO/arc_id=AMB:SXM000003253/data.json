@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "sxm",
+    "assetName": "SaxumDAO",
+    "assetArcId": "AMB:SXM000003253",
+    "website": "https://www.saxumdao.com/",
+    "whitePaperUrl": "https://saxumdao.gitbook.io/project-saxum/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SaxumDAO/arc_id=AMB:SXM000003253/exchange=mexc/data.json"
+        ]
+    }
+}

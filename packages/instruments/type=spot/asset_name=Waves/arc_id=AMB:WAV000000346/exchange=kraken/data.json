@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:WAV000000346_AMB:BTC000000000",
+        "normalizedPair": "waves_btc",
+        "normalizedSymbol": "waves",
+        "nativePair": "WAVESXBT",
+        "exchange": "kraken",
+        "assetName": "Waves",
+        "assetArcId": "AMB:WAV000000346",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "waves_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WAV000000346_AMB:ETH000000000",
+        "normalizedPair": "waves_eth",
+        "normalizedSymbol": "waves",
+        "nativePair": "WAVESETH",
+        "exchange": "kraken",
+        "assetName": "Waves",
+        "assetArcId": "AMB:WAV000000346",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "waves_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WAV000000346_AMB:EUR000000120",
+        "normalizedPair": "waves_eur",
+        "normalizedSymbol": "waves",
+        "nativePair": "WAVESEUR",
+        "exchange": "kraken",
+        "assetName": "Waves",
+        "assetArcId": "AMB:WAV000000346",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "waves_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WAV000000346_AMB:USD000000949",
+        "normalizedPair": "waves_usd",
+        "normalizedSymbol": "waves",
+        "nativePair": "WAVESUSD",
+        "exchange": "kraken",
+        "assetName": "Waves",
+        "assetArcId": "AMB:WAV000000346",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "waves_usd",
+        "instrumentType": "spot"
+    }
+]

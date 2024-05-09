@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WNC000000599_AMB:USD000000335",
+        "normalizedPair": "wncg_usdt",
+        "normalizedSymbol": "wncg",
+        "nativePair": "WNCG-USDT",
+        "exchange": "okex",
+        "assetName": "Nine Chronicles",
+        "assetArcId": "AMB:WNC000000599",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wncg_usdt",
+        "instrumentType": "spot"
+    }
+]

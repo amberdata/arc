@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RUG000001301_AMB:USD000000335",
+        "normalizedPair": "rug_usdt",
+        "normalizedSymbol": "rug",
+        "nativePair": "RUGUSDT",
+        "exchange": "mexc",
+        "assetName": "RUG RADIO",
+        "assetArcId": "AMB:RUG000001301",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rug_usdt",
+        "instrumentType": "spot"
+    }
+]

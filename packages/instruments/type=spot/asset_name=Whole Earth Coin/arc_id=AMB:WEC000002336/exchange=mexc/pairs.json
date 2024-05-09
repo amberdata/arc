@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WEC000002336_AMB:USD000000335",
+        "normalizedPair": "wec_usdt",
+        "normalizedSymbol": "wec",
+        "nativePair": "WECUSDT",
+        "exchange": "mexc",
+        "assetName": "Whole Earth Coin",
+        "assetArcId": "AMB:WEC000002336",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wec_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "magicshoes",
+    "assetName": "Magic Shoes",
+    "assetArcId": "AMB:MAG000001888",
+    "website": "https://www.magicshoes.io/",
+    "whitePaperUrl": "https://adam-gallery-2.gitbook.io/magic-club/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Magic Shoes/arc_id=AMB:MAG000001888/exchange=mexc/data.json"
+        ]
+    }
+}

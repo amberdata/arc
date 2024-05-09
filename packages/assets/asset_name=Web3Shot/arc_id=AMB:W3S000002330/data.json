@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "w3s",
+    "assetName": "Web3Shot",
+    "assetArcId": "AMB:W3S000002330",
+    "website": "https://web3shot.io/",
+    "whitePaperUrl": "https://web3shot.gitbook.io/web3shot/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Web3Shot/arc_id=AMB:W3S000002330/exchange=mexc/data.json"
+        ]
+    }
+}

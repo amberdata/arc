@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KOL000001837_AMB:USD000000335",
+        "normalizedPair": "kolnet_usdt",
+        "normalizedSymbol": "kolnet",
+        "nativePair": "KOLNETUSDT",
+        "exchange": "mexc",
+        "assetName": "KOLnet",
+        "assetArcId": "AMB:KOL000001837",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kolnet_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COV000000488_AMB:USD000000335",
+        "normalizedPair": "cover_usdt",
+        "normalizedSymbol": "cover",
+        "nativePair": "COVER-USDT",
+        "exchange": "okex",
+        "assetName": "COVER Protocol",
+        "assetArcId": "AMB:COV000000488",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cover_usdt",
+        "instrumentType": "spot"
+    }
+]

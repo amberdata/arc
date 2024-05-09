@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NOT000003247_AMB:USD000000335",
+        "normalizedPair": "nothing_usdt",
+        "normalizedSymbol": "nothing",
+        "nativePair": "NOTHINGUSDT",
+        "exchange": "mexc",
+        "assetName": "NOTHING",
+        "assetArcId": "AMB:NOT000003247",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nothing_usdt",
+        "instrumentType": "spot"
+    }
+]

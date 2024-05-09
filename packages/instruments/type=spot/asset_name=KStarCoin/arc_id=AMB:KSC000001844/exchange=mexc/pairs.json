@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KSC000001844_AMB:USD000000335",
+        "normalizedPair": "ksc_usdt",
+        "normalizedSymbol": "ksc",
+        "nativePair": "KSCUSDT",
+        "exchange": "mexc",
+        "assetName": "KStarCoin",
+        "assetArcId": "AMB:KSC000001844",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ksc_usdt",
+        "instrumentType": "spot"
+    }
+]

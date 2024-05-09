@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:REA000001169_AMB:BTC000000000",
+        "normalizedPair": "reap_btc",
+        "normalizedSymbol": "reap",
+        "nativePair": "REAP/BTC",
+        "exchange": "bithumb",
+        "assetName": "ReapChain",
+        "assetArcId": "AMB:REA000001169",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "reap_btc",
+        "instrumentType": "spot"
+    }
+]

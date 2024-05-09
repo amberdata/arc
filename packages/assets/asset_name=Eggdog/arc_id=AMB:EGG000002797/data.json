@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "egg",
+    "assetName": "Eggdog",
+    "assetArcId": "AMB:EGG000002797",
+    "website": "https://eggdogsol.com/",
+    "whitePaperUrl": "/how-to-buy/EGG?utm_source=mexc&utm_medium=tokenifoEGG&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Eggdog/arc_id=AMB:EGG000002797/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Eggdog/arc_id=AMB:EGG000002797/exchange=mexc/data.json"
+        ]
+    }
+}

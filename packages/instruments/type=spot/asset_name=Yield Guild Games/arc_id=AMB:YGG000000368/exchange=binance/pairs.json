@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:YGG000000368_AMB:BTC000000000",
+        "normalizedPair": "ygg_btc",
+        "normalizedSymbol": "ygg",
+        "nativePair": "YGGBTC",
+        "exchange": "binance",
+        "assetName": "Yield Guild Games",
+        "assetArcId": "AMB:YGG000000368",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ygg_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:YGG000000368_AMB:BUS000000067",
+        "normalizedPair": "ygg_busd",
+        "normalizedSymbol": "ygg",
+        "nativePair": "YGGBUSD",
+        "exchange": "binance",
+        "assetName": "Yield Guild Games",
+        "assetArcId": "AMB:YGG000000368",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "ygg_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:YGG000000368_AMB:USD000000335",
+        "normalizedPair": "ygg_usdt",
+        "normalizedSymbol": "ygg",
+        "nativePair": "YGGUSDT",
+        "exchange": "binance",
+        "assetName": "Yield Guild Games",
+        "assetArcId": "AMB:YGG000000368",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ygg_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VES000000000_AMB:USD000000335",
+        "normalizedPair": "ves_usdt",
+        "normalizedSymbol": "ves",
+        "nativePair": "VESUSDT",
+        "exchange": "mexc",
+        "assetName": "Vestate",
+        "assetArcId": "AMB:VES000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ves_usdt",
+        "instrumentType": "spot"
+    }
+]

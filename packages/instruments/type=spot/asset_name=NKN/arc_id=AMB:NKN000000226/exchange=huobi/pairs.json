@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NKN000000226_AMB:USD000000335",
+        "normalizedPair": "nkn_usdt",
+        "normalizedSymbol": "nkn",
+        "nativePair": "nknusdt",
+        "exchange": "huobi",
+        "assetName": "NKN",
+        "assetArcId": "AMB:NKN000000226",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nkn_usdt",
+        "instrumentType": "spot"
+    }
+]

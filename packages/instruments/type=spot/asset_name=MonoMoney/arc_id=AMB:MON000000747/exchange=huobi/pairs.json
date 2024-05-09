@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MON000000747_AMB:USD000000335",
+        "normalizedPair": "mono_usdt",
+        "normalizedSymbol": "mono",
+        "nativePair": "monousdt",
+        "exchange": "huobi",
+        "assetName": "MonoMoney",
+        "assetArcId": "AMB:MON000000747",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mono_usdt",
+        "instrumentType": "spot"
+    }
+]

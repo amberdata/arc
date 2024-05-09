@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "fckit",
+    "assetName": "FCKIT",
+    "assetArcId": "AMB:FCK000001654",
+    "website": "https://fckit.io/",
+    "whitePaperUrl": "/how-to-buy/FCKIT?utm_source=mexc&utm_medium=tokenifoFCKIT&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=FCKIT/arc_id=AMB:FCK000001654/exchange=mexc/data.json"
+        ]
+    }
+}

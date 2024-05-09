@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:POL000000254_AMB:BNB000000055",
+        "normalizedPair": "pols_bnb",
+        "normalizedSymbol": "pols",
+        "nativePair": "POLSBNB",
+        "exchange": "binance",
+        "assetName": "Polkastarter",
+        "assetArcId": "AMB:POL000000254",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "pols_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:POL000000254_AMB:BTC000000000",
+        "normalizedPair": "pols_btc",
+        "normalizedSymbol": "pols",
+        "nativePair": "POLSBTC",
+        "exchange": "binance",
+        "assetName": "Polkastarter",
+        "assetArcId": "AMB:POL000000254",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "pols_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:POL000000254_AMB:USD000000335",
+        "normalizedPair": "pols_usdt",
+        "normalizedSymbol": "pols",
+        "nativePair": "POLSUSDT",
+        "exchange": "binance",
+        "assetName": "Polkastarter",
+        "assetArcId": "AMB:POL000000254",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pols_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GMT000000150_AMB:USD000000335",
+        "normalizedPair": "gmt.amb.1_usdt",
+        "normalizedSymbol": "gmt.amb.1",
+        "nativePair": "GMTUSDT",
+        "exchange": "mexc",
+        "assetName": "Gomining",
+        "assetArcId": "AMB:GMT000000150",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gmt_usdt",
+        "instrumentType": "spot"
+    }
+]

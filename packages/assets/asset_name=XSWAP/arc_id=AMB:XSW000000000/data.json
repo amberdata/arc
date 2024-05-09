@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "xswap",
+    "assetName": "XSWAP",
+    "assetArcId": "AMB:XSW000000000",
+    "website": "https://xswap.link",
+    "whitePaperUrl": "https://docs.xswap.link/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=XSWAP/arc_id=AMB:XSW000000000/exchange=mexc/data.json"
+        ]
+    }
+}

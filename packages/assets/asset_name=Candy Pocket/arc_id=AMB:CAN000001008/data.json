@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "candy",
+    "assetName": "Candy Pocket",
+    "assetArcId": "AMB:CAN000001008",
+    "website": "https://www.candypocket.com/web/index.html",
+    "whitePaperUrl": "https://d2g38dx0j6xqav.cloudfront.net/online/file/candypoket-1.7EN.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Candy Pocket/arc_id=AMB:CAN000001008/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Candy Pocket/arc_id=AMB:CAN000001008/exchange=mexc/data.json"
+        ]
+    }
+}

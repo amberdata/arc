@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DRF000001612_AMB:USD000000335",
+        "normalizedPair": "drf_usdt",
+        "normalizedSymbol": "drf",
+        "nativePair": "DRFUSDT",
+        "exchange": "mexc",
+        "assetName": "Derify Protocol",
+        "assetArcId": "AMB:DRF000001612",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "drf_usdt",
+        "instrumentType": "spot"
+    }
+]

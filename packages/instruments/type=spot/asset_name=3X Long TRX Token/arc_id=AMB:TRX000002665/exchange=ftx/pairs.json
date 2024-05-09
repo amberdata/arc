@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRX000002665_AMB:USD000000949",
+        "normalizedPair": "trxbull_usd",
+        "normalizedSymbol": "trxbull",
+        "nativePair": "TRXBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long TRX Token",
+        "assetArcId": "AMB:TRX000002665",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "trxbull_usd",
+        "instrumentType": "spot"
+    }
+]

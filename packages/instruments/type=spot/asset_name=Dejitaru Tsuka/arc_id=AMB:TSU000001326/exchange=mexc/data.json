@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TSU000001326_AMB:USD000000335",
+        "normalizedPair": "tsuka_usdt",
+        "normalizedSymbol": "tsuka",
+        "nativePair": "TSUKAUSDT",
+        "exchange": "mexc",
+        "assetName": "Dejitaru Tsuka",
+        "assetArcId": "AMB:TSU000001326",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tsuka_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "emgs",
+    "assetName": "EMG SuperApp",
+    "assetArcId": "AMB:EMG000001630",
+    "website": "https://emgroups.io/",
+    "whitePaperUrl": "https://drive.google.com/file/d/1avLpqN9ZTfYQ4OD5EGDmKbJbiDCJpcoQ/view",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EMG SuperApp/arc_id=AMB:EMG000001630/exchange=mexc/data.json"
+        ]
+    }
+}

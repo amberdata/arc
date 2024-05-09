@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IOA000000000_AMB:USD000000335",
+        "normalizedPair": "io_usdt",
+        "normalizedSymbol": "io",
+        "nativePair": "IO_USDT",
+        "exchange": "poloniex",
+        "assetName": "Ideal Opportunity",
+        "assetArcId": "AMB:IOA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "io_usdt",
+        "instrumentType": "spot"
+    }
+]

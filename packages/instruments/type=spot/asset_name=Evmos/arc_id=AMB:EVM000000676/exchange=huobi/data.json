@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EVM000000676_AMB:USD000000335",
+        "normalizedPair": "evmos_usdt",
+        "normalizedSymbol": "evmos",
+        "nativePair": "evmosusdt",
+        "exchange": "huobi",
+        "assetName": "Evmos",
+        "assetArcId": "AMB:EVM000000676",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "evmos_usdt",
+        "instrumentType": "spot"
+    }
+]

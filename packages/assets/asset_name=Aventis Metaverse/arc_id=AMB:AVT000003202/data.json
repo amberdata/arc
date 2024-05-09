@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "avtm",
+    "assetName": "Aventis Metaverse",
+    "assetArcId": "AMB:AVT000003202",
+    "website": "https://www.aventismetaverse.com/",
+    "whitePaperUrl": "https://avtm.gitbook.io/whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aventis Metaverse/arc_id=AMB:AVT000003202/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DFC000003508_AMB:USD000000335",
+        "normalizedPair": "dfc_usdt",
+        "normalizedSymbol": "dfc",
+        "nativePair": "DFCUSDT",
+        "exchange": "mexc",
+        "assetName": "Degen Fighting Championship",
+        "assetArcId": "AMB:DFC000003508",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dfc_usdt",
+        "instrumentType": "spot"
+    }
+]

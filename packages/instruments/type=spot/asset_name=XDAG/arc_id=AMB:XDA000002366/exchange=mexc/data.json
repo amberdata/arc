@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XDA000002366_AMB:USD000000335",
+        "normalizedPair": "xdag_usdt",
+        "normalizedSymbol": "xdag",
+        "nativePair": "XDAGUSDT",
+        "exchange": "mexc",
+        "assetName": "XDAG",
+        "assetArcId": "AMB:XDA000002366",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xdag_usdt",
+        "instrumentType": "spot"
+    }
+]

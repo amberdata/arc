@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TIM000000449_AMB:USD000000335",
+        "normalizedPair": "time.amb.1_usdt",
+        "normalizedSymbol": "time.amb.1",
+        "nativePair": "TIME-USD",
+        "exchange": "mexc",
+        "assetName": "Time Alliance Guild",
+        "assetArcId": "AMB:TIM000000449",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "time_usdt",
+        "instrumentType": "spot"
+    }
+]

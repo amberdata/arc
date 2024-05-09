@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NOT000000000_AMB:USD000000335",
+        "normalizedPair": "notes_usdt",
+        "normalizedSymbol": "notes",
+        "nativePair": "NOTESUSDT",
+        "exchange": "mexc",
+        "assetName": "ANote Music",
+        "assetArcId": "AMB:NOT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "notes_usdt",
+        "instrumentType": "spot"
+    }
+]

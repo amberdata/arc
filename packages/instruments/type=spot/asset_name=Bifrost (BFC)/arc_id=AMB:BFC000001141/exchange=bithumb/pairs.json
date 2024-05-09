@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BFC000001141_AMB:KRW000000000",
+        "normalizedPair": "bfc_krw",
+        "normalizedSymbol": "bfc",
+        "nativePair": "BFC/KRW",
+        "exchange": "bithumb",
+        "assetName": "Bifrost (BFC)",
+        "assetArcId": "AMB:BFC000001141",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "bfc_krw",
+        "instrumentType": "spot"
+    }
+]

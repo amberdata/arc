@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "tcgc",
+    "assetName": "TCG Verse",
+    "assetArcId": "AMB:TCG000002256",
+    "website": "https://tcgverse.xyz/",
+    "whitePaperUrl": "https://tcgverse.gitbook.io/tcgverse-1/",
+    "classificationTags": [
+        "Gaming",
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TCG Verse/arc_id=AMB:TCG000002256/exchange=mexc/data.json"
+        ]
+    }
+}

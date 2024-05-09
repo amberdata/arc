@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RIC000002130_AMB:USD000000335",
+        "normalizedPair": "rice_usdt",
+        "normalizedSymbol": "rice",
+        "nativePair": "RICEUSDT",
+        "exchange": "mexc",
+        "assetName": "CatMouseWorld",
+        "assetArcId": "AMB:RIC000002130",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rice_usdt",
+        "instrumentType": "spot"
+    }
+]

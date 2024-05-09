@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BBI000000000_AMB:USD000000335",
+        "normalizedPair": "bbi_usdt",
+        "normalizedSymbol": "bbi",
+        "nativePair": "BBIUSDT",
+        "exchange": "mexc",
+        "assetName": "BNBIT Token",
+        "assetArcId": "AMB:BBI000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bbi_usdt",
+        "instrumentType": "spot"
+    }
+]

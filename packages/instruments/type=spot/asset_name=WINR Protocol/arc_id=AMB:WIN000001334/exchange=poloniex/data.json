@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WIN000001334_AMB:USD000000335",
+        "normalizedPair": "winr_usdt",
+        "normalizedSymbol": "winr",
+        "nativePair": "WINR_USDT",
+        "exchange": "poloniex",
+        "assetName": "WINR Protocol",
+        "assetArcId": "AMB:WIN000001334",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "winr_usdt",
+        "instrumentType": "spot"
+    }
+]

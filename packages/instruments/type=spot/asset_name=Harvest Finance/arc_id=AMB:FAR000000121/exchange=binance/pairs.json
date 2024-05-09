@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:FAR000000121_AMB:BTC000000000",
+        "normalizedPair": "farm_btc",
+        "normalizedSymbol": "farm",
+        "nativePair": "FARMBTC",
+        "exchange": "binance",
+        "assetName": "Harvest Finance",
+        "assetArcId": "AMB:FAR000000121",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "farm_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FAR000000121_AMB:USD000000335",
+        "normalizedPair": "farm_usdt",
+        "normalizedSymbol": "farm",
+        "nativePair": "FARMUSDT",
+        "exchange": "binance",
+        "assetName": "Harvest Finance",
+        "assetArcId": "AMB:FAR000000121",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "farm_usdt",
+        "instrumentType": "spot"
+    }
+]

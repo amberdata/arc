@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PLY000001099_AMB:USD000000335",
+        "normalizedPair": "ply_usdt",
+        "normalizedSymbol": "ply",
+        "nativePair": "PLYUSDT",
+        "exchange": "bybit",
+        "assetName": "Aurigami",
+        "assetArcId": "AMB:PLY000001099",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ply_usdt",
+        "instrumentType": "spot"
+    }
+]

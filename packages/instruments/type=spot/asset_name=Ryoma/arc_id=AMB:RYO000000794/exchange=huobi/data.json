@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RYO000000794_AMB:USD000000335",
+        "normalizedPair": "ryoma_usdt",
+        "normalizedSymbol": "ryoma",
+        "nativePair": "ryomausdt",
+        "exchange": "huobi",
+        "assetName": "Ryoma",
+        "assetArcId": "AMB:RYO000000794",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ryoma_usdt",
+        "instrumentType": "spot"
+    }
+]

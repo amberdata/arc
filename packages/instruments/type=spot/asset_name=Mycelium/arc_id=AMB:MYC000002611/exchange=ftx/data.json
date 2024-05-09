@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MYC000002611_AMB:USD000000949",
+        "normalizedPair": "myc_usd",
+        "normalizedSymbol": "myc",
+        "nativePair": "MYC/USD",
+        "exchange": "ftx",
+        "assetName": "Mycelium",
+        "assetArcId": "AMB:MYC000002611",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "myc_usd",
+        "instrumentType": "spot"
+    }
+]

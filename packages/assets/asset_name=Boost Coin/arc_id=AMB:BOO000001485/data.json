@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "boost",
+    "assetName": "Boost Coin",
+    "assetArcId": "AMB:BOO000001485",
+    "website": "http://www.boostco.in/#",
+    "whitePaperUrl": "https://www.boostco.in/static/media/BoostWhitePaper.e16bbea427bca074f6b2.pdf",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

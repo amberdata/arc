@@ -1,0 +1,30 @@
+{
+    "assetSymbol": "tru",
+    "assetName": "TrueFi",
+    "assetArcId": "AMB:TRU000000324",
+    "website": "https://truefi.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance",
+        "Lending",
+        "Staking",
+        "Transparent"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TrueFi/arc_id=AMB:TRU000000324/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TrueFi/arc_id=AMB:TRU000000324/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TrueFi/arc_id=AMB:TRU000000324/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TrueFi/arc_id=AMB:TRU000000324/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TrueFi/arc_id=AMB:TRU000000324/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TrueFi/arc_id=AMB:TRU000000324/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TrueFi/arc_id=AMB:TRU000000324/exchange=poloniex/data.json"
+        ]
+    }
+}

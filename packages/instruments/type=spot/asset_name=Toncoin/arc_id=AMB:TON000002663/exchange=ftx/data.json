@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TON000002663_AMB:USD000000949",
+        "normalizedPair": "toncoin_usd",
+        "normalizedSymbol": "toncoin",
+        "nativePair": "TONCOIN/USD",
+        "exchange": "ftx",
+        "assetName": "Toncoin",
+        "assetArcId": "AMB:TON000002663",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "toncoin_usd",
+        "instrumentType": "spot"
+    }
+]

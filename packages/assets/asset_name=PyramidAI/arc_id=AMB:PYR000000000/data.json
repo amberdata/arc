@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "pyramidai",
+    "assetName": "PyramidAI",
+    "assetArcId": "AMB:PYR000000000",
+    "website": "https://pyramidai.online/",
+    "whitePaperUrl": "/how-to-buy/PYRAMIDAI?utm_source=mexc&utm_medium=tokenifoPYRAMIDAI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PyramidAI/arc_id=AMB:PYR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

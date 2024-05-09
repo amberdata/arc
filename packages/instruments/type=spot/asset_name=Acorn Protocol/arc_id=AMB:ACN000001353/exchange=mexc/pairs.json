@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ACN000001353_AMB:USD000000335",
+        "normalizedPair": "acn_usdt",
+        "normalizedSymbol": "acn",
+        "nativePair": "ACNUSDT",
+        "exchange": "mexc",
+        "assetName": "Acorn Protocol",
+        "assetArcId": "AMB:ACN000001353",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "acn_usdt",
+        "instrumentType": "spot"
+    }
+]

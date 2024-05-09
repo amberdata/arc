@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:TVK000000327_AMB:EUR000000120",
+        "normalizedPair": "tvk_eur",
+        "normalizedSymbol": "tvk",
+        "nativePair": "TVKEUR",
+        "exchange": "kraken",
+        "assetName": "Virtua",
+        "assetArcId": "AMB:TVK000000327",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "tvk_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TVK000000327_AMB:USD000000949",
+        "normalizedPair": "tvk_usd",
+        "normalizedSymbol": "tvk",
+        "nativePair": "TVKUSD",
+        "exchange": "kraken",
+        "assetName": "Virtua",
+        "assetArcId": "AMB:TVK000000327",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "tvk_usd",
+        "instrumentType": "spot"
+    }
+]

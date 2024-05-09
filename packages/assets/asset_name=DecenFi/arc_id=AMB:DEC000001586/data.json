@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "decenfi",
+    "assetName": "DecenFi",
+    "assetArcId": "AMB:DEC000001586",
+    "website": "https://decenfitoken.com/",
+    "whitePaperUrl": "https://sg.docworkspace.com/d/sIEWU1Ji_Afz7yagG",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DecenFi/arc_id=AMB:DEC000001586/exchange=mexc/data.json"
+        ]
+    }
+}

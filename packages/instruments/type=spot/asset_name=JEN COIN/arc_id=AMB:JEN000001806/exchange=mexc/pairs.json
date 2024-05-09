@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JEN000001806_AMB:USD000000335",
+        "normalizedPair": "jen_usdt",
+        "normalizedSymbol": "jen",
+        "nativePair": "JENUSDT",
+        "exchange": "mexc",
+        "assetName": "JEN COIN",
+        "assetArcId": "AMB:JEN000001806",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jen_usdt",
+        "instrumentType": "spot"
+    }
+]

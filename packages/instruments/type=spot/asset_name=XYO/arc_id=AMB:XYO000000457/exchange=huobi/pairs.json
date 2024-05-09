@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XYO000000457_AMB:USD000000335",
+        "normalizedPair": "xyo_usdt",
+        "normalizedSymbol": "xyo",
+        "nativePair": "xyousdt",
+        "exchange": "huobi",
+        "assetName": "XYO",
+        "assetArcId": "AMB:XYO000000457",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xyo_usdt",
+        "instrumentType": "spot"
+    }
+]

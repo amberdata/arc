@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RTC000000000_AMB:USD000000335",
+        "normalizedPair": "rtc_usdt",
+        "normalizedSymbol": "rtc",
+        "nativePair": "RTCUSDT",
+        "exchange": "mexc",
+        "assetName": "RTC DAO",
+        "assetArcId": "AMB:RTC000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rtc_usdt",
+        "instrumentType": "spot"
+    }
+]

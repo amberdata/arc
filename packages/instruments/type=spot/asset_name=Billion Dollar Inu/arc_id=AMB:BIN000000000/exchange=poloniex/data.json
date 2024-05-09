@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BIN000000000_AMB:USD000000335",
+        "normalizedPair": "binu_usdt",
+        "normalizedSymbol": "binu",
+        "nativePair": "BINU_USDT",
+        "exchange": "poloniex",
+        "assetName": "Billion Dollar Inu",
+        "assetArcId": "AMB:BIN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "binu_usdt",
+        "instrumentType": "spot"
+    }
+]

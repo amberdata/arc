@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CVC000000088_AMB:USD000000949",
+        "normalizedPair": "cvc_usd",
+        "normalizedSymbol": "cvc",
+        "nativePair": "CVC-USD",
+        "exchange": "gdax",
+        "assetName": "Civic",
+        "assetArcId": "AMB:CVC000000088",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "cvc_usd",
+        "instrumentType": "spot"
+    }
+]

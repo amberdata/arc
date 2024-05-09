@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "inu",
+    "assetName": "Inu",
+    "assetArcId": "AMB:INU000001249",
+    "website": "https://www.ryoshi.guru/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xc76d53f988820fe70e01eccb0248b312c2f1c7ca"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ANT000000000_AMB:USD000000335",
+        "normalizedPair": "antt_usdt",
+        "normalizedSymbol": "antt",
+        "nativePair": "ANTTUSDT",
+        "exchange": "mexc",
+        "assetName": "Antara Token",
+        "assetArcId": "AMB:ANT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "antt_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:QLI000002104_AMB:USD000000335",
+        "normalizedPair": "qlindo_usdt",
+        "normalizedSymbol": "qlindo",
+        "nativePair": "QLINDOUSDT",
+        "exchange": "mexc",
+        "assetName": "Qlindo",
+        "assetArcId": "AMB:QLI000002104",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "qlindo_usdt",
+        "instrumentType": "spot"
+    }
+]

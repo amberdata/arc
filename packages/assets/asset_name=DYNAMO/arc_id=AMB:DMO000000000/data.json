@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dmo",
+    "assetName": "DYNAMO",
+    "assetArcId": "AMB:DMO000000000",
+    "website": "https://www.dynamopro.xyz/",
+    "whitePaperUrl": "https://dynamoteam.gitbook.io/dynamo-whitepaper/introduction/background",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DYNAMO/arc_id=AMB:DMO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

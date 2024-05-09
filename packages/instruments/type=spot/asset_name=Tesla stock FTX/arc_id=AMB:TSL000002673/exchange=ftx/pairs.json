@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:TSL000002673_AMB:BTC000000000",
+        "normalizedPair": "tslapre_btc",
+        "normalizedSymbol": "tslapre",
+        "nativePair": "TSLAPRE/BTC",
+        "exchange": "ftx",
+        "assetName": "Tesla stock FTX",
+        "assetArcId": "AMB:TSL000002673",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "tslapre_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TSL000002673_AMB:DOG000000104",
+        "normalizedPair": "tslapre_doge",
+        "normalizedSymbol": "tslapre",
+        "nativePair": "TSLAPRE/DOGE",
+        "exchange": "ftx",
+        "assetName": "Tesla stock FTX",
+        "assetArcId": "AMB:TSL000002673",
+        "quoteArcId": "AMB:DOG000000104",
+        "collectedPair": "tslapre_doge",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TSL000002673_AMB:USD000000949",
+        "normalizedPair": "tslapre_usd",
+        "normalizedSymbol": "tslapre",
+        "nativePair": "TSLAPRE/USD",
+        "exchange": "ftx",
+        "assetName": "Tesla stock FTX",
+        "assetArcId": "AMB:TSL000002673",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "tslapre_usd",
+        "instrumentType": "spot"
+    }
+]

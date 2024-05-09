@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MFT000001923_AMB:USD000000335",
+        "normalizedPair": "mft_usdt",
+        "normalizedSymbol": "mft",
+        "nativePair": "MFTUSDT",
+        "exchange": "mexc",
+        "assetName": "Hifi Finance",
+        "assetArcId": "AMB:MFT000001923",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mft_usdt",
+        "instrumentType": "spot"
+    }
+]

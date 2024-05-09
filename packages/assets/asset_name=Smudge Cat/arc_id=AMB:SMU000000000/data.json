@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "smudge",
+    "assetName": "Smudge Cat",
+    "assetArcId": "AMB:SMU000000000",
+    "website": "https://smudgecat.app/",
+    "whitePaperUrl": "https://docs.smudgecat.app/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Smudge Cat/arc_id=AMB:SMU000000000/exchange=mexc/data.json"
+        ]
+    }
+}

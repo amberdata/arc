@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "morra",
+    "assetName": "Morra Games",
+    "assetArcId": "AMB:MOR000000000",
+    "website": "https://www.morragames.com/",
+    "whitePaperUrl": "https://docs.morragames.com/introduction/overview-of-morra-games",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Morra Games/arc_id=AMB:MOR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

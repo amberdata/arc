@@ -1,0 +1,24 @@
+{
+    "assetSymbol": "syn",
+    "assetName": "Synapse",
+    "assetArcId": "AMB:SYN000000313",
+    "website": "https://synapseprotocol.com/",
+    "whitePaperUrl": "https://docs.synapseprotocol.com/how-it-works/syn",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Synapse/arc_id=AMB:SYN000000313/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Synapse/arc_id=AMB:SYN000000313/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Synapse/arc_id=AMB:SYN000000313/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Synapse/arc_id=AMB:SYN000000313/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Synapse/arc_id=AMB:SYN000000313/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Synapse/arc_id=AMB:SYN000000313/exchange=mexc/data.json"
+        ]
+    }
+}

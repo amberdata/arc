@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MAT000000208_AMB:BTC000000000",
+        "normalizedPair": "matic_btc",
+        "normalizedSymbol": "matic",
+        "nativePair": "MATIC/BTC",
+        "exchange": "ftxus",
+        "assetName": "Polygon",
+        "assetArcId": "AMB:MAT000000208",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "matic_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MAT000000208_AMB:USD000000949",
+        "normalizedPair": "matic_usd",
+        "normalizedSymbol": "matic",
+        "nativePair": "MATIC/USD",
+        "exchange": "ftxus",
+        "assetName": "Polygon",
+        "assetArcId": "AMB:MAT000000208",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "matic_usd",
+        "instrumentType": "spot"
+    }
+]

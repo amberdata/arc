@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OPO000001275_AMB:USD000000335",
+        "normalizedPair": "opos_usdt",
+        "normalizedSymbol": "opos",
+        "nativePair": "OPOS_USDT",
+        "exchange": "poloniex",
+        "assetName": "Only Possible On Solana",
+        "assetArcId": "AMB:OPO000001275",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "opos_usdt",
+        "instrumentType": "spot"
+    }
+]

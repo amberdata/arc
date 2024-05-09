@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ONE000001274_AMB:USD000000335",
+        "normalizedPair": "oneinch_usdt",
+        "normalizedSymbol": "oneinch",
+        "nativePair": "ONEINCH_USDT",
+        "exchange": "poloniex",
+        "assetName": "1INCH Token",
+        "assetArcId": "AMB:ONE000001274",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "oneinch_usdt",
+        "instrumentType": "spot"
+    }
+]

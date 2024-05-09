@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SSV000000300_AMB:USD000000333",
+        "normalizedPair": "ssv_usdc",
+        "normalizedSymbol": "ssv",
+        "nativePair": "SSV-USDC",
+        "exchange": "okex",
+        "assetName": "ssv.network",
+        "assetArcId": "AMB:SSV000000300",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "ssv_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SSV000000300_AMB:USD000000335",
+        "normalizedPair": "ssv_usdt",
+        "normalizedSymbol": "ssv",
+        "nativePair": "SSV-USDT",
+        "exchange": "okex",
+        "assetName": "ssv.network",
+        "assetArcId": "AMB:SSV000000300",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ssv_usdt",
+        "instrumentType": "spot"
+    }
+]

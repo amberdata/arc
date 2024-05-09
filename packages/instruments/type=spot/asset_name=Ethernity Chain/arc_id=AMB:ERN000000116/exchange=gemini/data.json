@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ERN000000116_AMB:USD000000949",
+        "normalizedPair": "ern_usd",
+        "normalizedSymbol": "ern",
+        "nativePair": "ernusd",
+        "exchange": "gemini",
+        "assetName": "Ethernity Chain",
+        "assetArcId": "AMB:ERN000000116",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ern_usd",
+        "instrumentType": "spot"
+    }
+]

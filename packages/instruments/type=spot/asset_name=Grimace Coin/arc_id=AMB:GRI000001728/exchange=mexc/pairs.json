@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GRI000001728_AMB:USD000000335",
+        "normalizedPair": "grimace_usdt",
+        "normalizedSymbol": "grimace",
+        "nativePair": "GRIMACEUSDT",
+        "exchange": "mexc",
+        "assetName": "Grimace Coin",
+        "assetArcId": "AMB:GRI000001728",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "grimace_usdt",
+        "instrumentType": "spot"
+    }
+]

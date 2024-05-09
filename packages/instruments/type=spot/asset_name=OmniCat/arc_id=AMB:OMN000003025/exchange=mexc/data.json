@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OMN000003025_AMB:USD000000335",
+        "normalizedPair": "omnicat_usdt",
+        "normalizedSymbol": "omnicat",
+        "nativePair": "OMNICATUSDT",
+        "exchange": "mexc",
+        "assetName": "OmniCat",
+        "assetArcId": "AMB:OMN000003025",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "omnicat_usdt",
+        "instrumentType": "spot"
+    }
+]

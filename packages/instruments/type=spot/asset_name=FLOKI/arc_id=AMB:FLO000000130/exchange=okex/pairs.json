@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:FLO000000130_AMB:USD000000333",
+        "normalizedPair": "floki_usdc",
+        "normalizedSymbol": "floki",
+        "nativePair": "FLOKI-USDC",
+        "exchange": "okex",
+        "assetName": "FLOKI",
+        "assetArcId": "AMB:FLO000000130",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "floki_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FLO000000130_AMB:USD000000335",
+        "normalizedPair": "floki_usdt",
+        "normalizedSymbol": "floki",
+        "nativePair": "FLOKI-USDT",
+        "exchange": "okex",
+        "assetName": "FLOKI",
+        "assetArcId": "AMB:FLO000000130",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "floki_usdt",
+        "instrumentType": "spot"
+    }
+]

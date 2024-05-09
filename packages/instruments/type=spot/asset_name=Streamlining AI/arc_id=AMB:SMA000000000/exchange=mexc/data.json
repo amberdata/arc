@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SMA000000000_AMB:USD000000335",
+        "normalizedPair": "smai_usdt",
+        "normalizedSymbol": "smai",
+        "nativePair": "SMAIUSDT",
+        "exchange": "mexc",
+        "assetName": "Streamlining AI",
+        "assetArcId": "AMB:SMA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "smai_usdt",
+        "instrumentType": "spot"
+    }
+]

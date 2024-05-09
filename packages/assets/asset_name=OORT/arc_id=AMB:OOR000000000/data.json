@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "oort",
+    "assetName": "OORT",
+    "assetArcId": "AMB:OOR000000000",
+    "website": "https://www.oortech.com/",
+    "whitePaperUrl": "https://oort-website.standard.us-east-1.oortech.com/OORT_light_paper-122923.pdf",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=OORT/arc_id=AMB:OOR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

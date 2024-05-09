@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LQT000000197_AMB:USD000000335",
+        "normalizedPair": "lqty_usdt",
+        "normalizedSymbol": "lqty",
+        "nativePair": "lqtyusdt",
+        "exchange": "huobi",
+        "assetName": "Liquity",
+        "assetArcId": "AMB:LQT000000197",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lqty_usdt",
+        "instrumentType": "spot"
+    }
+]

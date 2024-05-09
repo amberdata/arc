@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DYP000000399_AMB:USD000000335",
+        "normalizedPair": "dyp_usdt",
+        "normalizedSymbol": "dyp",
+        "nativePair": "DYP_USDT",
+        "exchange": "poloniex",
+        "assetName": "Dypius",
+        "assetArcId": "AMB:DYP000000399",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dyp_usdt",
+        "instrumentType": "spot"
+    }
+]

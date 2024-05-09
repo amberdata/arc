@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LQT000000197_AMB:BTC000000000",
+        "normalizedPair": "lqty_btc",
+        "normalizedSymbol": "lqty",
+        "nativePair": "LQTYBTC",
+        "exchange": "binance",
+        "assetName": "Liquity",
+        "assetArcId": "AMB:LQT000000197",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "lqty_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LQT000000197_AMB:USD000000335",
+        "normalizedPair": "lqty_usdt",
+        "normalizedSymbol": "lqty",
+        "nativePair": "LQTYUSDT",
+        "exchange": "binance",
+        "assetName": "Liquity",
+        "assetArcId": "AMB:LQT000000197",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lqty_usdt",
+        "instrumentType": "spot"
+    }
+]

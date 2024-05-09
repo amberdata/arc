@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:YGG000000368_AMB:USD000000335",
+        "normalizedPair": "ygg_usdt",
+        "normalizedSymbol": "ygg",
+        "nativePair": "yggusdt",
+        "exchange": "huobi",
+        "assetName": "Yield Guild Games",
+        "assetArcId": "AMB:YGG000000368",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ygg_usdt",
+        "instrumentType": "spot"
+    }
+]

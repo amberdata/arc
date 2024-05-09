@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WTR000002357_AMB:USD000000335",
+        "normalizedPair": "wtr_usdt",
+        "normalizedSymbol": "wtr",
+        "nativePair": "WTRUSDT",
+        "exchange": "mexc",
+        "assetName": "Deepwaters",
+        "assetArcId": "AMB:WTR000002357",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wtr_usdt",
+        "instrumentType": "spot"
+    }
+]

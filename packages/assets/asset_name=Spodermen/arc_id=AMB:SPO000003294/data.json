@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "spoody",
+    "assetName": "Spodermen",
+    "assetArcId": "AMB:SPO000003294",
+    "website": "https://spoody.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "8Nd3TZJfxt9yYKiPiPmYp6S5DhLftG3bwSqdW3KJwArb"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Spodermen/arc_id=AMB:SPO000003294/exchange=poloniex/data.json"
+        ]
+    }
+}

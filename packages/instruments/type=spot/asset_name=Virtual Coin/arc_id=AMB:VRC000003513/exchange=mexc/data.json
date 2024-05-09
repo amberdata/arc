@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VRC000003513_AMB:USD000000335",
+        "normalizedPair": "vrc_usdt",
+        "normalizedSymbol": "vrc",
+        "nativePair": "VRCUSDT",
+        "exchange": "mexc",
+        "assetName": "Virtual Coin",
+        "assetArcId": "AMB:VRC000003513",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vrc_usdt",
+        "instrumentType": "spot"
+    }
+]

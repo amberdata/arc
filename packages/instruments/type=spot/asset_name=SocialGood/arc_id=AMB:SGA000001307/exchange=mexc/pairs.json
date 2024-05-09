@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SGA000001307_AMB:USD000000335",
+        "normalizedPair": "sg_usdt",
+        "normalizedSymbol": "sg",
+        "nativePair": "SGUSDT",
+        "exchange": "mexc",
+        "assetName": "SocialGood",
+        "assetArcId": "AMB:SGA000001307",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sg_usdt",
+        "instrumentType": "spot"
+    }
+]

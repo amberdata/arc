@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TLT000003499_AMB:USD000000335",
+        "normalizedPair": "tlt_usdt",
+        "normalizedSymbol": "tlt",
+        "nativePair": "TLTUSDT",
+        "exchange": "mexc",
+        "assetName": "THE LUMINA",
+        "assetArcId": "AMB:TLT000003499",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tlt_usdt",
+        "instrumentType": "spot"
+    }
+]

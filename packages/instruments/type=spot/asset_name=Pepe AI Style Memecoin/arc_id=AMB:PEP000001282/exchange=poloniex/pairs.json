@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PEP000001282_AMB:USD000000335",
+        "normalizedPair": "pepeai_usdt",
+        "normalizedSymbol": "pepeai",
+        "nativePair": "PEPEAI_USDT",
+        "exchange": "poloniex",
+        "assetName": "Pepe AI Style Memecoin",
+        "assetArcId": "AMB:PEP000001282",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pepeai_usdt",
+        "instrumentType": "spot"
+    }
+]

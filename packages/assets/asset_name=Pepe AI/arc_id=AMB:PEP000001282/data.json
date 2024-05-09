@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "pepeai",
+    "assetName": "Pepe AI",
+    "assetArcId": "AMB:PEP000001282",
+    "website": "https://pepe.style/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "BNB",
+            "address": "0xe57f73eb27da9d17f90c994744d842e95700c100"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

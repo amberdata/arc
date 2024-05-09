@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "gmeoneth",
+    "assetName": "GME",
+    "assetArcId": "AMB:GME000000000",
+    "website": "https://www.gamestopeth.lol/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0x28300d1c687b1f982d67f8a74efded5427da6ec1"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GME/arc_id=AMB:GME000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

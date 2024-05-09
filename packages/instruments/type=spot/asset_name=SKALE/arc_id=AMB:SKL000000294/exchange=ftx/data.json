@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SKL000000294_AMB:USD000000949",
+        "normalizedPair": "skl_usd",
+        "normalizedSymbol": "skl",
+        "nativePair": "SKL/USD",
+        "exchange": "ftx",
+        "assetName": "SKALE",
+        "assetArcId": "AMB:SKL000000294",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "skl_usd",
+        "instrumentType": "spot"
+    }
+]

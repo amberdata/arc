@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ACE000001352_AMB:USD000000335",
+        "normalizedPair": "ace_usdt",
+        "normalizedSymbol": "ace",
+        "nativePair": "ACEUSDT",
+        "exchange": "mexc",
+        "assetName": "ACEToken",
+        "assetArcId": "AMB:ACE000001352",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ace_usdt",
+        "instrumentType": "spot"
+    }
+]

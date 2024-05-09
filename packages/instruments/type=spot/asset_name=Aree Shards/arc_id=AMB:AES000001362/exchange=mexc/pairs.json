@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AES000001362_AMB:USD000000335",
+        "normalizedPair": "aes_usdt",
+        "normalizedSymbol": "aes",
+        "nativePair": "AESUSDT",
+        "exchange": "mexc",
+        "assetName": "Aree Shards",
+        "assetArcId": "AMB:AES000001362",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aes_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:K21000001818_AMB:USD000000335",
+        "normalizedPair": "k21_usdt",
+        "normalizedSymbol": "k21",
+        "nativePair": "K21USDT",
+        "exchange": "mexc",
+        "assetName": "K21",
+        "assetArcId": "AMB:K21000001818",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "k21_usdt",
+        "instrumentType": "spot"
+    }
+]

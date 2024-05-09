@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SAF000000980_AMB:QCA000000000",
+        "normalizedPair": "safe_qc",
+        "normalizedSymbol": "safe",
+        "nativePair": "safe_qc",
+        "exchange": "zb",
+        "assetName": "Safe",
+        "assetArcId": "AMB:SAF000000980",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "safe_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SAF000000980_AMB:USD000000335",
+        "normalizedPair": "safe_usdt",
+        "normalizedSymbol": "safe",
+        "nativePair": "safe_usdt",
+        "exchange": "zb",
+        "assetName": "Safe",
+        "assetArcId": "AMB:SAF000000980",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "safe_usdt",
+        "instrumentType": "spot"
+    }
+]

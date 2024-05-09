@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GOS000001722_AMB:USD000000335",
+        "normalizedPair": "gos_usdt",
+        "normalizedSymbol": "gos",
+        "nativePair": "GOSUSDT",
+        "exchange": "mexc",
+        "assetName": "Game of Soles",
+        "assetArcId": "AMB:GOS000001722",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gos_usdt",
+        "instrumentType": "spot"
+    }
+]

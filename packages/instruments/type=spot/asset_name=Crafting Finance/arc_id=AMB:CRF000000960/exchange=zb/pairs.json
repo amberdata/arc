@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:CRF000000960_AMB:QCA000000000",
+        "normalizedPair": "crf_qc",
+        "normalizedSymbol": "crf",
+        "nativePair": "crf_qc",
+        "exchange": "zb",
+        "assetName": "Crafting Finance",
+        "assetArcId": "AMB:CRF000000960",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "crf_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CRF000000960_AMB:USD000000335",
+        "normalizedPair": "crf_usdt",
+        "normalizedSymbol": "crf",
+        "nativePair": "crf_usdt",
+        "exchange": "zb",
+        "assetName": "Crafting Finance",
+        "assetArcId": "AMB:CRF000000960",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "crf_usdt",
+        "instrumentType": "spot"
+    }
+]

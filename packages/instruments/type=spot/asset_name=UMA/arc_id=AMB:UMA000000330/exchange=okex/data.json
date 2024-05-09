@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UMA000000330_AMB:USD000000335",
+        "normalizedPair": "uma_usdt",
+        "normalizedSymbol": "uma",
+        "nativePair": "UMA-USDT",
+        "exchange": "okex",
+        "assetName": "UMA",
+        "assetArcId": "AMB:UMA000000330",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "uma_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "umma",
+    "assetName": "UMMA Token",
+    "assetArcId": "AMB:UMM000002306",
+    "website": "https://ummatoken.io/",
+    "whitePaperUrl": "https://ummatoken.io/whitepapper-ummatoken",
+    "classificationTags": [
+        "Content & Streaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=UMMA Token/arc_id=AMB:UMM000002306/exchange=mexc/data.json"
+        ]
+    }
+}

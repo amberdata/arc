@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "mog",
+    "assetName": "Mog Coin",
+    "assetArcId": "AMB:MOG000001267",
+    "website": "https://www.mogcoin.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DAS000000093_AMB:USD000000335",
+        "normalizedPair": "dash_usdt",
+        "normalizedSymbol": "dash",
+        "nativePair": "DASHUSDT",
+        "exchange": "binanceus",
+        "assetName": "Dash",
+        "assetArcId": "AMB:DAS000000093",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dash_usdt",
+        "instrumentType": "spot"
+    }
+]

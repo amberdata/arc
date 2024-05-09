@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STL000002233_AMB:USD000000335",
+        "normalizedPair": "stl_usdt",
+        "normalizedSymbol": "stl",
+        "nativePair": "STLUSDT",
+        "exchange": "mexc",
+        "assetName": "Cyberstella",
+        "assetArcId": "AMB:STL000002233",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "stl_usdt",
+        "instrumentType": "spot"
+    }
+]

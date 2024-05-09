@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "intro",
+    "assetName": "1INTRO",
+    "assetArcId": "AMB:INT000000000",
+    "website": "https://www.1intro.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "inTCqHJaLAETUxvRZ2kC45G2sThq9BFWVimfaQw7t6w"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=1INTRO/arc_id=AMB:INT000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

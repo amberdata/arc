@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MUS000003418_AMB:USD000000335",
+        "normalizedPair": "muskmeme_usdt",
+        "normalizedSymbol": "muskmeme",
+        "nativePair": "MUSKMEMEUSDT",
+        "exchange": "mexc",
+        "assetName": "MUSK MEME",
+        "assetArcId": "AMB:MUS000003418",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "muskmeme_usdt",
+        "instrumentType": "spot"
+    }
+]

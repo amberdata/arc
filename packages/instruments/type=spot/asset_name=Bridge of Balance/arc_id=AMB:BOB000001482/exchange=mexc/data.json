@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BOB000001482_AMB:USD000000335",
+        "normalizedPair": "bobpuppy_usdt",
+        "normalizedSymbol": "bobpuppy",
+        "nativePair": "BOBPUPPYUSDT",
+        "exchange": "mexc",
+        "assetName": "Bridge of Balance",
+        "assetArcId": "AMB:BOB000001482",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bobpuppy_usdt",
+        "instrumentType": "spot"
+    }
+]

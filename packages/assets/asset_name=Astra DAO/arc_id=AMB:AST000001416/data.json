@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "astradao",
+    "assetName": "Astra DAO",
+    "assetArcId": "AMB:AST000001416",
+    "website": "https://astradao.org/",
+    "whitePaperUrl": "https://docs.astradao.org/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Astra DAO/arc_id=AMB:AST000001416/exchange=mexc/data.json"
+        ]
+    }
+}

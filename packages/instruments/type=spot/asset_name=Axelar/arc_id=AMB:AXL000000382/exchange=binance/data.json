@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:AXL000000382_AMB:FDU000000122",
+        "normalizedPair": "axl_fdusd",
+        "normalizedSymbol": "axl",
+        "nativePair": "AXLFDUSD",
+        "exchange": "binance",
+        "assetName": "Axelar",
+        "assetArcId": "AMB:AXL000000382",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "axl_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AXL000000382_AMB:USD000000335",
+        "normalizedPair": "axl_usdt",
+        "normalizedSymbol": "axl",
+        "nativePair": "AXLUSDT",
+        "exchange": "binance",
+        "assetName": "Axelar",
+        "assetArcId": "AMB:AXL000000382",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "axl_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AXL000000382_AMB:BTC000000000",
+        "normalizedPair": "axl_btc",
+        "normalizedSymbol": "axl",
+        "nativePair": "AXLBTC",
+        "exchange": "binance",
+        "assetName": "Axelar",
+        "assetArcId": "AMB:AXL000000382",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "axl_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AXL000000382_AMB:TRY000000940",
+        "normalizedPair": "axl_try",
+        "normalizedSymbol": "axl",
+        "nativePair": "AXLTRY",
+        "exchange": "binance",
+        "assetName": "Axelar",
+        "assetArcId": "AMB:AXL000000382",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "axl_try",
+        "instrumentType": "spot"
+    }
+]

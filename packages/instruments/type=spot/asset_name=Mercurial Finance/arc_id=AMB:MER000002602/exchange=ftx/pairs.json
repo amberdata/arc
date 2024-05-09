@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MER000002602_AMB:USD000000949",
+        "normalizedPair": "mer_usd",
+        "normalizedSymbol": "mer",
+        "nativePair": "MER/USD",
+        "exchange": "ftx",
+        "assetName": "Mercurial Finance",
+        "assetArcId": "AMB:MER000002602",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mer_usd",
+        "instrumentType": "spot"
+    }
+]

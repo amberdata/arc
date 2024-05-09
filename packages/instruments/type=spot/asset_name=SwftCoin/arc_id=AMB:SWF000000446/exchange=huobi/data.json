@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:SWF000000446_AMB:BTC000000000",
+        "normalizedPair": "swftc_btc",
+        "normalizedSymbol": "swftc",
+        "nativePair": "swftcbtc",
+        "exchange": "huobi",
+        "assetName": "SwftCoin",
+        "assetArcId": "AMB:SWF000000446",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "swftc_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SWF000000446_AMB:ETH000000000",
+        "normalizedPair": "swftc_eth",
+        "normalizedSymbol": "swftc",
+        "nativePair": "swftceth",
+        "exchange": "huobi",
+        "assetName": "SwftCoin",
+        "assetArcId": "AMB:SWF000000446",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "swftc_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SWF000000446_AMB:USD000000335",
+        "normalizedPair": "swftc_usdt",
+        "normalizedSymbol": "swftc",
+        "nativePair": "swftcusdt",
+        "exchange": "huobi",
+        "assetName": "SwftCoin",
+        "assetArcId": "AMB:SWF000000446",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "swftc_usdt",
+        "instrumentType": "spot"
+    }
+]

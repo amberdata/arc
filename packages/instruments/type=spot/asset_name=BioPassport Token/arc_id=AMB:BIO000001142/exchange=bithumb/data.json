@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BIO000001142_AMB:KRW000000000",
+        "normalizedPair": "biot_krw",
+        "normalizedSymbol": "biot",
+        "nativePair": "BIOT/KRW",
+        "exchange": "bithumb",
+        "assetName": "BioPassport Token",
+        "assetArcId": "AMB:BIO000001142",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "biot_krw",
+        "instrumentType": "spot"
+    }
+]

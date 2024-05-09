@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PBX000002050_AMB:USD000000335",
+        "normalizedPair": "pbx_usdt",
+        "normalizedSymbol": "pbx",
+        "nativePair": "PBXUSDT",
+        "exchange": "mexc",
+        "assetName": "Probinex",
+        "assetArcId": "AMB:PBX000002050",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pbx_usdt",
+        "instrumentType": "spot"
+    }
+]

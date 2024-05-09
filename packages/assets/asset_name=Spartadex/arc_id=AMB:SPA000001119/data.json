@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "sparta",
+    "assetName": "Spartadex",
+    "assetArcId": "AMB:SPA000001119",
+    "website": "https://spartadex.io/",
+    "whitePaperUrl": "https://docs.spartadex.io/",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

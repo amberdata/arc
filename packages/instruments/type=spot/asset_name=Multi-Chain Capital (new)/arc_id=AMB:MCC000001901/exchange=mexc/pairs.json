@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MCC000001901_AMB:USD000000335",
+        "normalizedPair": "mcc_usdt",
+        "normalizedSymbol": "mcc",
+        "nativePair": "MCCUSDT",
+        "exchange": "mexc",
+        "assetName": "Multi-Chain Capital (new)",
+        "assetArcId": "AMB:MCC000001901",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mcc_usdt",
+        "instrumentType": "spot"
+    }
+]

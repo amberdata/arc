@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GOT000000000_AMB:USD000000335",
+        "normalizedPair": "got_usdt",
+        "normalizedSymbol": "got",
+        "nativePair": "GOTUSDT",
+        "exchange": "mexc",
+        "assetName": "GoatNFT",
+        "assetArcId": "AMB:GOT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "got_usdt",
+        "instrumentType": "spot"
+    }
+]

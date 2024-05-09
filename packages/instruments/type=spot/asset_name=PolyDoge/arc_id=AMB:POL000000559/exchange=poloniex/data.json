@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POL000000559_AMB:USD000000335",
+        "normalizedPair": "polydoge_usdt",
+        "normalizedSymbol": "polydoge",
+        "nativePair": "POLYDOGE_USDT",
+        "exchange": "poloniex",
+        "assetName": "PolyDoge",
+        "assetArcId": "AMB:POL000000559",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "polydoge_usdt",
+        "instrumentType": "spot"
+    }
+]

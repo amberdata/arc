@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CLY000001545_AMB:USD000000335",
+        "normalizedPair": "cly_usdt",
+        "normalizedSymbol": "cly",
+        "nativePair": "CLYUSDT",
+        "exchange": "mexc",
+        "assetName": "Colony",
+        "assetArcId": "AMB:CLY000001545",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cly_usdt",
+        "instrumentType": "spot"
+    }
+]

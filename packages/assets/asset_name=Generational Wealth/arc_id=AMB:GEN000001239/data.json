@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "gen",
+    "assetName": "Generational Wealth",
+    "assetArcId": "AMB:GEN000001239",
+    "website": "https://www.generationalwealth.vip/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xcae3fAA4B6cF660AEF18474074949BA0948bc025"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

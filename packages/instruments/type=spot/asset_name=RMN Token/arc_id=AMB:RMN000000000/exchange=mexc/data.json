@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RMN000000000_AMB:USD000000335",
+        "normalizedPair": "rmn_usdt",
+        "normalizedSymbol": "rmn",
+        "nativePair": "RMNUSDT",
+        "exchange": "mexc",
+        "assetName": "RMN Token",
+        "assetArcId": "AMB:RMN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rmn_usdt",
+        "instrumentType": "spot"
+    }
+]

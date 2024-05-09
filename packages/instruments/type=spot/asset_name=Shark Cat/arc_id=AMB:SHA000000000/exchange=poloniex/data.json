@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHA000000000_AMB:USD000000335",
+        "normalizedPair": "sharkcat_usdt",
+        "normalizedSymbol": "sharkcat",
+        "nativePair": "SHARKCAT_USDT",
+        "exchange": "poloniex",
+        "assetName": "Shark Cat",
+        "assetArcId": "AMB:SHA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sharkcat_usdt",
+        "instrumentType": "spot"
+    }
+]

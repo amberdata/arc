@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WAL000000852_AMB:USD000000335",
+        "normalizedPair": "wallet.amb.1_usdt",
+        "normalizedSymbol": "wallet.amb.1",
+        "nativePair": "WALLETUSDT",
+        "exchange": "mexc",
+        "assetName": "Wallet",
+        "assetArcId": "AMB:WAL000000852",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wallet_usdt",
+        "instrumentType": "spot"
+    }
+]

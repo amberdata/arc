@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GRL000003223_AMB:USD000000335",
+        "normalizedPair": "grl_usdt",
+        "normalizedSymbol": "grl",
+        "nativePair": "GRLUSDT",
+        "exchange": "mexc",
+        "assetName": "Greelance",
+        "assetArcId": "AMB:GRL000003223",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "grl_usdt",
+        "instrumentType": "spot"
+    }
+]

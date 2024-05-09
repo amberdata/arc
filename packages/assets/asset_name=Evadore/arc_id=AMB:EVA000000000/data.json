@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "evadore",
+    "assetName": "Evadore",
+    "assetArcId": "AMB:EVA000000000",
+    "website": "https://evadore.io/",
+    "whitePaperUrl": "https://docs.evadore.io/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Evadore/arc_id=AMB:EVA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

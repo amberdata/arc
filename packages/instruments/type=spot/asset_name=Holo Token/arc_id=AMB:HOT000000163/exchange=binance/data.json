@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:HOT000000163_AMB:ETH000000000",
+        "normalizedPair": "hot_eth",
+        "normalizedSymbol": "hot",
+        "nativePair": "HOTETH",
+        "exchange": "binance",
+        "assetName": "Holo Token",
+        "assetArcId": "AMB:HOT000000163",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "hot_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:HOT000000163_AMB:TRY000000940",
+        "normalizedPair": "hot_try",
+        "normalizedSymbol": "hot",
+        "nativePair": "HOTTRY",
+        "exchange": "binance",
+        "assetName": "Holo Token",
+        "assetArcId": "AMB:HOT000000163",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "hot_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:HOT000000163_AMB:USD000000335",
+        "normalizedPair": "hot_usdt",
+        "normalizedSymbol": "hot",
+        "nativePair": "HOTUSDT",
+        "exchange": "binance",
+        "assetName": "Holo Token",
+        "assetArcId": "AMB:HOT000000163",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hot_usdt",
+        "instrumentType": "spot"
+    }
+]

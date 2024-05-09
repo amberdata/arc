@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "dcard",
+    "assetName": "Decentracard",
+    "assetArcId": "AMB:DCA000000000",
+    "website": "https://decentracard.com/",
+    "whitePaperUrl": "https://decentracard.com/static/media/Whitepaper.3ffbe6644c0188fde69f.pdf",
+    "classificationTags": [
+        "Gaming",
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Decentracard/arc_id=AMB:DCA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

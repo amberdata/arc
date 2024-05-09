@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LHI000000532_AMB:USD000000335",
+        "normalizedPair": "lhinu_usdt",
+        "normalizedSymbol": "lhinu",
+        "nativePair": "lhinuusdt",
+        "exchange": "huobi",
+        "assetName": "Love Hate Inu",
+        "assetArcId": "AMB:LHI000000532",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lhinu_usdt",
+        "instrumentType": "spot"
+    }
+]

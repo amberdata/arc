@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ATN000001424_AMB:USD000000335",
+        "normalizedPair": "atnt_usdt",
+        "normalizedSymbol": "atnt",
+        "nativePair": "ATNTUSDT",
+        "exchange": "mexc",
+        "assetName": "Artizen",
+        "assetArcId": "AMB:ATN000001424",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "atnt_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PRQ000000437_AMB:USD000000949",
+        "normalizedPair": "prq_usd",
+        "normalizedSymbol": "prq",
+        "nativePair": "PRQ-USD",
+        "exchange": "gdax",
+        "assetName": "PARSIQ",
+        "assetArcId": "AMB:PRQ000000437",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "prq_usd",
+        "instrumentType": "spot"
+    }
+]

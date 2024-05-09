@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "dis",
+    "assetName": "Disney",
+    "assetArcId": "AMB:DIS000001599",
+    "website": "https://dischain.xyz",
+    "whitePaperUrl": "https://whitepaper.dischain.xyz/",
+    "classificationTags": [
+        "Gaming",
+        "Proof-of-Work"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

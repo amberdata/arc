@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "lamb",
+    "assetName": "Lambda",
+    "assetArcId": "AMB:LAM000000526",
+    "website": "https://www.lambdastorage.com/zh/",
+    "whitePaperUrl": "https://www.lambda.im/doc/Lambda-WhitePaper-zh.pdf",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Lambda/arc_id=AMB:LAM000000526/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Lambda/arc_id=AMB:LAM000000526/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Lambda/arc_id=AMB:LAM000000526/exchange=mexc/data.json"
+        ]
+    }
+}

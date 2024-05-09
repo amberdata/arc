@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:API000000022_AMB:USD000000949",
+        "normalizedPair": "api3_usd",
+        "normalizedSymbol": "api3",
+        "nativePair": "API3-USD",
+        "exchange": "gdax",
+        "assetName": "API3",
+        "assetArcId": "AMB:API000000022",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "api3_usd",
+        "instrumentType": "spot"
+    }
+]

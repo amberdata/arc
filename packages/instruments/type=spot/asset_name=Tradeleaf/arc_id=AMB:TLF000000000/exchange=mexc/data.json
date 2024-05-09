@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TLF000000000_AMB:USD000000335",
+        "normalizedPair": "tlf_usdt",
+        "normalizedSymbol": "tlf",
+        "nativePair": "TLFUSDT",
+        "exchange": "mexc",
+        "assetName": "Tradeleaf",
+        "assetArcId": "AMB:TLF000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tlf_usdt",
+        "instrumentType": "spot"
+    }
+]

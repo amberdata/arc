@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:IRI000000175_AMB:BTC000000000",
+        "normalizedPair": "iris_btc",
+        "normalizedSymbol": "iris",
+        "nativePair": "IRISBTC",
+        "exchange": "mexc",
+        "assetName": "IRISnet",
+        "assetArcId": "AMB:IRI000000175",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "iris_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IRI000000175_AMB:USD000000335",
+        "normalizedPair": "iris_usdt",
+        "normalizedSymbol": "iris",
+        "nativePair": "IRISUSDT",
+        "exchange": "mexc",
+        "assetName": "IRISnet",
+        "assetArcId": "AMB:IRI000000175",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "iris_usdt",
+        "instrumentType": "spot"
+    }
+]

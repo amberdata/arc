@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MVA000001087_AMB:EUR000000120",
+        "normalizedPair": "mv_eur",
+        "normalizedSymbol": "mv",
+        "nativePair": "MVEUR",
+        "exchange": "kraken",
+        "assetName": "GensoKishi Metaverse",
+        "assetArcId": "AMB:MVA000001087",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "mv_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MVA000001087_AMB:USD000000949",
+        "normalizedPair": "mv_usd",
+        "normalizedSymbol": "mv",
+        "nativePair": "MVUSD",
+        "exchange": "kraken",
+        "assetName": "GensoKishi Metaverse",
+        "assetArcId": "AMB:MVA000001087",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mv_usd",
+        "instrumentType": "spot"
+    }
+]

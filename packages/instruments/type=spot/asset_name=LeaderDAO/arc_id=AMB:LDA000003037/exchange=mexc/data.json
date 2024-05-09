@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LDA000003037_AMB:USD000000335",
+        "normalizedPair": "ldao_usdt",
+        "normalizedSymbol": "ldao",
+        "nativePair": "LDAOUSDT",
+        "exchange": "mexc",
+        "assetName": "LeaderDAO",
+        "assetArcId": "AMB:LDA000003037",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ldao_usdt",
+        "instrumentType": "spot"
+    }
+]

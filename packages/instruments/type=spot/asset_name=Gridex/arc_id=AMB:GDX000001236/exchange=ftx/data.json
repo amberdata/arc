@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GDX000001236_AMB:USD000000949",
+        "normalizedPair": "gdx_usd",
+        "normalizedSymbol": "gdx",
+        "nativePair": "GDX/USD",
+        "exchange": "ftx",
+        "assetName": "Gridex",
+        "assetArcId": "AMB:GDX000001236",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "gdx_usd",
+        "instrumentType": "spot"
+    }
+]

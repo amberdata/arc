@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POR000003320_AMB:USD000000335",
+        "normalizedPair": "port3_usdt",
+        "normalizedSymbol": "port3",
+        "nativePair": "PORT3USDT",
+        "exchange": "mexc",
+        "assetName": "Port3 Network",
+        "assetArcId": "AMB:POR000003320",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "port3_usdt",
+        "instrumentType": "spot"
+    }
+]

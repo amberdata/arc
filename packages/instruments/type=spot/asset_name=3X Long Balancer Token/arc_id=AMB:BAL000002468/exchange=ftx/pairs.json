@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BAL000002468_AMB:USD000000949",
+        "normalizedPair": "balbull_usd",
+        "normalizedSymbol": "balbull",
+        "nativePair": "BALBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long Balancer Token",
+        "assetArcId": "AMB:BAL000002468",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "balbull_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAL000002468_AMB:USD000000335",
+        "normalizedPair": "balbull_usdt",
+        "normalizedSymbol": "balbull",
+        "nativePair": "BALBULL/USDT",
+        "exchange": "ftx",
+        "assetName": "3X Long Balancer Token",
+        "assetArcId": "AMB:BAL000002468",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "balbull_usdt",
+        "instrumentType": "spot"
+    }
+]

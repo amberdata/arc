@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WEM000000854_AMB:USD000000335",
+        "normalizedPair": "wemix_usdt",
+        "normalizedSymbol": "wemix",
+        "nativePair": "WEMIXUSDT",
+        "exchange": "mexc",
+        "assetName": "WEMIX",
+        "assetArcId": "AMB:WEM000000854",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wemix_usdt",
+        "instrumentType": "spot"
+    }
+]

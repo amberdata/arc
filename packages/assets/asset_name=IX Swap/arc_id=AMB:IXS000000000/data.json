@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "ixs",
+    "assetName": "IX Swap",
+    "assetArcId": "AMB:IXS000000000",
+    "website": "https://www.ixswap.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Real World Asset"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0x73d7c860998CA3c01Ce8c808F5577d94d545d1b4"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=IX Swap/arc_id=AMB:IXS000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

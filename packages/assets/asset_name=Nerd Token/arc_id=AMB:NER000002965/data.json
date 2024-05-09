@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "nerd",
+    "assetName": "Nerd Token",
+    "assetArcId": "AMB:NER000002965",
+    "website": "https://www.thedatanerd.io/",
+    "whitePaperUrl": "https://thedatanerd.gitbook.io/nerdbot-docs/",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

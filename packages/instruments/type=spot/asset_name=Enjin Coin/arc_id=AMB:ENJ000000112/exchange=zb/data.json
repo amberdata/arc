@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:ENJ000000112_AMB:QCA000000000",
+        "normalizedPair": "enj_qc",
+        "normalizedSymbol": "enj",
+        "nativePair": "enj_qc",
+        "exchange": "zb",
+        "assetName": "Enjin Coin",
+        "assetArcId": "AMB:ENJ000000112",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "enj_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ENJ000000112_AMB:USD000000333",
+        "normalizedPair": "enj_usdc",
+        "normalizedSymbol": "enj",
+        "nativePair": "enj_usdc",
+        "exchange": "zb",
+        "assetName": "Enjin Coin",
+        "assetArcId": "AMB:ENJ000000112",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "enj_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ENJ000000112_AMB:USD000000335",
+        "normalizedPair": "enj_usdt",
+        "normalizedSymbol": "enj",
+        "nativePair": "enj_usdt",
+        "exchange": "zb",
+        "assetName": "Enjin Coin",
+        "assetArcId": "AMB:ENJ000000112",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "enj_usdt",
+        "instrumentType": "spot"
+    }
+]

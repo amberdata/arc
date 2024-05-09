@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "gap",
+    "assetName": "GAPNexus",
+    "assetArcId": "AMB:GAP000000000",
+    "website": "https://gapnexus.world/",
+    "whitePaperUrl": "/how-to-buy/GAP?utm_source=mexc&utm_medium=tokenifoGAP&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GAPNexus/arc_id=AMB:GAP000000000/exchange=mexc/data.json"
+        ]
+    }
+}

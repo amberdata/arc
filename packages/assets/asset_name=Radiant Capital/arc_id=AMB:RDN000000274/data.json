@@ -1,0 +1,24 @@
+{
+    "assetSymbol": "rdnt",
+    "assetName": "Radiant Capital",
+    "assetArcId": "AMB:RDN000000274",
+    "website": "https://radiant.capital/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance",
+        "Lending",
+        "Stablecoin",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Radiant Capital/arc_id=AMB:RDN000000274/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Radiant Capital/arc_id=AMB:RDN000000274/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Radiant Capital/arc_id=AMB:RDN000000274/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Radiant Capital/arc_id=AMB:RDN000000274/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Radiant Capital/arc_id=AMB:RDN000000274/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Radiant Capital/arc_id=AMB:RDN000000274/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Radiant Capital/arc_id=AMB:RDN000000274/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:BTC000000000",
+        "normalizedPair": "mkr_btc",
+        "normalizedSymbol": "mkr",
+        "nativePair": "MKR-BTC",
+        "exchange": "okex",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "mkr_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:ETH000000000",
+        "normalizedPair": "mkr_eth",
+        "normalizedSymbol": "mkr",
+        "nativePair": "MKR-ETH",
+        "exchange": "okex",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "mkr_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:USD000000333",
+        "normalizedPair": "mkr_usdc",
+        "normalizedSymbol": "mkr",
+        "nativePair": "MKR-USDC",
+        "exchange": "okex",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "mkr_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:USD000000335",
+        "normalizedPair": "mkr_usdt",
+        "normalizedSymbol": "mkr",
+        "nativePair": "MKR-USDT",
+        "exchange": "okex",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mkr_usdt",
+        "instrumentType": "spot"
+    }
+]

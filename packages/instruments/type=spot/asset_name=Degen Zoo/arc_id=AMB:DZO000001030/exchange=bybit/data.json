@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DZO000001030_AMB:USD000000335",
+        "normalizedPair": "dzoo_usdt",
+        "normalizedSymbol": "dzoo",
+        "nativePair": "DZOOUSDT",
+        "exchange": "bybit",
+        "assetName": "Degen Zoo",
+        "assetArcId": "AMB:DZO000001030",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dzoo_usdt",
+        "instrumentType": "spot"
+    }
+]

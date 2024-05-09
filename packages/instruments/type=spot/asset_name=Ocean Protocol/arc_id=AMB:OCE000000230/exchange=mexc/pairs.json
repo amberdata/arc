@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:OCE000000230_AMB:ETH000000000",
+        "normalizedPair": "ocean_eth",
+        "normalizedSymbol": "ocean",
+        "nativePair": "OCEANETH",
+        "exchange": "mexc",
+        "assetName": "Ocean Protocol",
+        "assetArcId": "AMB:OCE000000230",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "ocean_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OCE000000230_AMB:USD000000335",
+        "normalizedPair": "ocean_usdt",
+        "normalizedSymbol": "ocean",
+        "nativePair": "OCEANUSDT",
+        "exchange": "mexc",
+        "assetName": "Ocean Protocol",
+        "assetArcId": "AMB:OCE000000230",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ocean_usdt",
+        "instrumentType": "spot"
+    }
+]

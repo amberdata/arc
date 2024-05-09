@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRC000002277_AMB:USD000000335",
+        "normalizedPair": "trcl_usdt",
+        "normalizedSymbol": "trcl",
+        "nativePair": "TRCLUSDT",
+        "exchange": "mexc",
+        "assetName": "Treecle",
+        "assetArcId": "AMB:TRC000002277",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trcl_usdt",
+        "instrumentType": "spot"
+    }
+]

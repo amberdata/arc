@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GUS000000410_AMB:USD000000949",
+        "normalizedPair": "gusd_usd",
+        "normalizedSymbol": "gusd",
+        "nativePair": "GUSD-USD",
+        "exchange": "gdax",
+        "assetName": "Gemini Dollar",
+        "assetArcId": "AMB:GUS000000410",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "gusd_usd",
+        "instrumentType": "spot"
+    }
+]

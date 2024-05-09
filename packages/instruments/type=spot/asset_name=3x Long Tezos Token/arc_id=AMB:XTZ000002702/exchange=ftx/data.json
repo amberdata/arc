@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:XTZ000002702_AMB:USD000000949",
+        "normalizedPair": "xtzbull_usd",
+        "normalizedSymbol": "xtzbull",
+        "nativePair": "XTZBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3x Long Tezos Token",
+        "assetArcId": "AMB:XTZ000002702",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xtzbull_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XTZ000002702_AMB:USD000000335",
+        "normalizedPair": "xtzbull_usdt",
+        "normalizedSymbol": "xtzbull",
+        "nativePair": "XTZBULL/USDT",
+        "exchange": "ftx",
+        "assetName": "3x Long Tezos Token",
+        "assetArcId": "AMB:XTZ000002702",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xtzbull_usdt",
+        "instrumentType": "spot"
+    }
+]

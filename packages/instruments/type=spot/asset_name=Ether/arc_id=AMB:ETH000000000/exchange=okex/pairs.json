@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:ETH000000000_AMB:BTC000000000",
+        "normalizedPair": "eth_btc",
+        "normalizedSymbol": "eth",
+        "nativePair": "ETH-BTC",
+        "exchange": "okex",
+        "assetName": "Ether",
+        "assetArcId": "AMB:ETH000000000",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "eth_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ETH000000000_AMB:DAI000000394",
+        "normalizedPair": "eth_dai",
+        "normalizedSymbol": "eth",
+        "nativePair": "ETH-DAI",
+        "exchange": "okex",
+        "assetName": "Ether",
+        "assetArcId": "AMB:ETH000000000",
+        "quoteArcId": "AMB:DAI000000394",
+        "collectedPair": "eth_dai",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ETH000000000_AMB:EUR000000501",
+        "normalizedPair": "eth_eurt",
+        "normalizedSymbol": "eth",
+        "nativePair": "ETH-EURT",
+        "exchange": "okex",
+        "assetName": "Ether",
+        "assetArcId": "AMB:ETH000000000",
+        "quoteArcId": "AMB:EUR000000501",
+        "collectedPair": "eth_eurt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ETH000000000_AMB:USD000000333",
+        "normalizedPair": "eth_usdc",
+        "normalizedSymbol": "eth",
+        "nativePair": "ETH-USDC",
+        "exchange": "okex",
+        "assetName": "Ether",
+        "assetArcId": "AMB:ETH000000000",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "eth_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ETH000000000_AMB:USD000000335",
+        "normalizedPair": "eth_usdt",
+        "normalizedSymbol": "eth",
+        "nativePair": "ETH-USDT",
+        "exchange": "okex",
+        "assetName": "Ether",
+        "assetArcId": "AMB:ETH000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "eth_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "baju",
+    "assetName": "Bajun Network",
+    "assetArcId": "AMB:BAJ000001439",
+    "website": "https://ajuna.io/",
+    "whitePaperUrl": "https://github.com/ajuna-network/techpaper/blob/main/Lightpaper/Ajuna%20Network%20Lightpaper.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bajun Network/arc_id=AMB:BAJ000001439/exchange=mexc/data.json"
+        ]
+    }
+}

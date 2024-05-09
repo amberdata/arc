@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MSH000001955_AMB:USD000000335",
+        "normalizedPair": "msheesha_usdt",
+        "normalizedSymbol": "msheesha",
+        "nativePair": "MSHEESHAUSDT",
+        "exchange": "mexc",
+        "assetName": "Sheesha Finance Polygon",
+        "assetArcId": "AMB:MSH000001955",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "msheesha_usdt",
+        "instrumentType": "spot"
+    }
+]

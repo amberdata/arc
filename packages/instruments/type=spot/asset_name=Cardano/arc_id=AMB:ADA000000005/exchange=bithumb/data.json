@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ADA000000005_AMB:KRW000000000",
+        "normalizedPair": "ada_krw",
+        "normalizedSymbol": "ada",
+        "nativePair": "ADA/KRW",
+        "exchange": "bithumb",
+        "assetName": "Cardano",
+        "assetArcId": "AMB:ADA000000005",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "ada_krw",
+        "instrumentType": "spot"
+    }
+]

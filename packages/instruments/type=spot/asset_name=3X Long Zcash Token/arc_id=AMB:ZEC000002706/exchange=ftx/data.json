@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZEC000002706_AMB:USD000000949",
+        "normalizedPair": "zecbull_usd",
+        "normalizedSymbol": "zecbull",
+        "nativePair": "ZECBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long Zcash Token",
+        "assetArcId": "AMB:ZEC000002706",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "zecbull_usd",
+        "instrumentType": "spot"
+    }
+]

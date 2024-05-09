@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CWA000001019_AMB:USD000000335",
+        "normalizedPair": "cwar_usdt",
+        "normalizedSymbol": "cwar",
+        "nativePair": "CWARUSDT",
+        "exchange": "bybit",
+        "assetName": "Cryowar",
+        "assetArcId": "AMB:CWA000001019",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cwar_usdt",
+        "instrumentType": "spot"
+    }
+]

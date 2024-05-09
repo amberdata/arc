@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:5IR000003068_AMB:USD000000335",
+        "normalizedPair": "5ire_usdt",
+        "normalizedSymbol": "5ire",
+        "nativePair": "5IREUSDT",
+        "exchange": "mexc",
+        "assetName": "5ire",
+        "assetArcId": "AMB:5IR000003068",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "5ire_usdt",
+        "instrumentType": "spot"
+    }
+]

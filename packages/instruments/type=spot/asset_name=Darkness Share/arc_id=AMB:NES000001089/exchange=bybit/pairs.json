@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NES000001089_AMB:USD000000335",
+        "normalizedPair": "ness_usdt",
+        "normalizedSymbol": "ness",
+        "nativePair": "NESSUSDT",
+        "exchange": "bybit",
+        "assetName": "Darkness Share",
+        "assetArcId": "AMB:NES000001089",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ness_usdt",
+        "instrumentType": "spot"
+    }
+]

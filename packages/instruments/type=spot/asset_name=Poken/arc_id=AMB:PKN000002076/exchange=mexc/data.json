@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PKN000002076_AMB:USD000000335",
+        "normalizedPair": "pkn_usdt",
+        "normalizedSymbol": "pkn",
+        "nativePair": "PKNUSDT",
+        "exchange": "mexc",
+        "assetName": "Poken",
+        "assetArcId": "AMB:PKN000002076",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pkn_usdt",
+        "instrumentType": "spot"
+    }
+]

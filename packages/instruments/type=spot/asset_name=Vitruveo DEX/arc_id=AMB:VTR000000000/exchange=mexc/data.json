@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VTR000000000_AMB:USD000000335",
+        "normalizedPair": "vtro_usdt",
+        "normalizedSymbol": "vtro",
+        "nativePair": "VTROUSDT",
+        "exchange": "mexc",
+        "assetName": "Vitruveo DEX",
+        "assetArcId": "AMB:VTR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vtro_usdt",
+        "instrumentType": "spot"
+    }
+]

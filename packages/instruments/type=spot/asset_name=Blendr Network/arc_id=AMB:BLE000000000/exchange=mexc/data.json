@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BLE000000000_AMB:USD000000335",
+        "normalizedPair": "blendr_usdt",
+        "normalizedSymbol": "blendr",
+        "nativePair": "BLENDRUSDT",
+        "exchange": "mexc",
+        "assetName": "Blendr Network",
+        "assetArcId": "AMB:BLE000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "blendr_usdt",
+        "instrumentType": "spot"
+    }
+]

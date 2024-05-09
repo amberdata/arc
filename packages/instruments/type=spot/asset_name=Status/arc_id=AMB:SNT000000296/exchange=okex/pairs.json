@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SNT000000296_AMB:USD000000335",
+        "normalizedPair": "snt_usdt",
+        "normalizedSymbol": "snt",
+        "nativePair": "SNT-USDT",
+        "exchange": "okex",
+        "assetName": "Status",
+        "assetArcId": "AMB:SNT000000296",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "snt_usdt",
+        "instrumentType": "spot"
+    }
+]

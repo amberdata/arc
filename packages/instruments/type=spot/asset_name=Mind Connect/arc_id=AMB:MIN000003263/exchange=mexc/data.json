@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MIN000003263_AMB:USD000000335",
+        "normalizedPair": "mind_usdt",
+        "normalizedSymbol": "mind",
+        "nativePair": "MINDUSDT",
+        "exchange": "mexc",
+        "assetName": "Mind Connect",
+        "assetArcId": "AMB:MIN000003263",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mind_usdt",
+        "instrumentType": "spot"
+    }
+]

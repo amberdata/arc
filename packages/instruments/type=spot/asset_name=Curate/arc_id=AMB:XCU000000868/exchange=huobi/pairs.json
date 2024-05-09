@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XCU000000868_AMB:USD000000335",
+        "normalizedPair": "xcur_usdt",
+        "normalizedSymbol": "xcur",
+        "nativePair": "xcurusdt",
+        "exchange": "huobi",
+        "assetName": "Curate",
+        "assetArcId": "AMB:XCU000000868",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xcur_usdt",
+        "instrumentType": "spot"
+    }
+]

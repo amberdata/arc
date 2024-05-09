@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IGU000001782_AMB:USD000000335",
+        "normalizedPair": "igup_usdt",
+        "normalizedSymbol": "igup",
+        "nativePair": "IGUPUSDT",
+        "exchange": "mexc",
+        "assetName": "IGUP (IguVerse)",
+        "assetArcId": "AMB:IGU000001782",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "igup_usdt",
+        "instrumentType": "spot"
+    }
+]

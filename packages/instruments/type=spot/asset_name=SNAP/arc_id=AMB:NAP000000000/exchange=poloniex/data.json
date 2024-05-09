@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NAP000000000_AMB:USD000000335",
+        "normalizedPair": "nap.amb.1_usdt",
+        "normalizedSymbol": "nap.amb.1",
+        "nativePair": "NAP_USDT",
+        "exchange": "poloniex",
+        "assetName": "SNAP",
+        "assetArcId": "AMB:NAP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nap_usdt",
+        "instrumentType": "spot"
+    }
+]

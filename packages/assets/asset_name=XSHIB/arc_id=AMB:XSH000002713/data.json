@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "xshib",
+    "assetName": "XSHIB",
+    "assetArcId": "AMB:XSH000002713",
+    "website": "https://xshib.fun/",
+    "whitePaperUrl": "/how-to-buy/XSHIB?utm_source=mexc&utm_medium=tokenifoXSHIB&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=XSHIB/arc_id=AMB:XSH000002713/exchange=mexc/data.json"
+        ]
+    }
+}

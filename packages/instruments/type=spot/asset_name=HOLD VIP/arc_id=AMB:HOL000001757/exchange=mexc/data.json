@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HOL000001757_AMB:USD000000335",
+        "normalizedPair": "hold_usdt",
+        "normalizedSymbol": "hold",
+        "nativePair": "HOLDUSDT",
+        "exchange": "mexc",
+        "assetName": "HOLD VIP",
+        "assetArcId": "AMB:HOL000001757",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hold_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NBS000000756_AMB:USD000000335",
+        "normalizedPair": "nbs_usdt",
+        "normalizedSymbol": "nbs",
+        "nativePair": "NBSUSDT",
+        "exchange": "mexc",
+        "assetName": "New BitShares",
+        "assetArcId": "AMB:NBS000000756",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nbs_usdt",
+        "instrumentType": "spot"
+    }
+]

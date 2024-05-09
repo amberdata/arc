@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ASN000000000_AMB:USD000000335",
+        "normalizedPair": "asn_usdt",
+        "normalizedSymbol": "asn",
+        "nativePair": "ASNUSDT",
+        "exchange": "mexc",
+        "assetName": "ASN Ai",
+        "assetArcId": "AMB:ASN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "asn_usdt",
+        "instrumentType": "spot"
+    }
+]

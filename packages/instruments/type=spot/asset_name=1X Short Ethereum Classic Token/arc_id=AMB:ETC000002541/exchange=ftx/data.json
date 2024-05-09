@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETC000002541_AMB:USD000000949",
+        "normalizedPair": "etchedge_usd",
+        "normalizedSymbol": "etchedge",
+        "nativePair": "ETCHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short Ethereum Classic Token",
+        "assetArcId": "AMB:ETC000002541",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "etchedge_usd",
+        "instrumentType": "spot"
+    }
+]

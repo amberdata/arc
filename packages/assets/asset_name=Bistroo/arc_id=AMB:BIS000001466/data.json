@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bist",
+    "assetName": "Bistroo",
+    "assetArcId": "AMB:BIS000001466",
+    "website": "https://www.bistroo.io/",
+    "whitePaperUrl": "https://www.bistroo.io/whitepaper",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bistroo/arc_id=AMB:BIS000001466/exchange=mexc/data.json"
+        ]
+    }
+}

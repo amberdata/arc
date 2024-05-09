@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TWT000000328_AMB:USD000000335",
+        "normalizedPair": "twt_usdt",
+        "normalizedSymbol": "twt",
+        "nativePair": "TWTUSDT",
+        "exchange": "bybit",
+        "assetName": "TwitFi",
+        "assetArcId": "AMB:TWT000000328",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "twt_usdt",
+        "instrumentType": "spot"
+    }
+]

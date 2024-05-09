@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:IOT000000172_AMB:BTC000000000",
+        "normalizedPair": "iota_btc",
+        "normalizedSymbol": "iota",
+        "nativePair": "tIOTBTC",
+        "exchange": "bitfinex",
+        "assetName": "IOTA",
+        "assetArcId": "AMB:IOT000000172",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "iota_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IOT000000172_AMB:USD000000949",
+        "normalizedPair": "iota_usd",
+        "normalizedSymbol": "iota",
+        "nativePair": "tIOTUSD",
+        "exchange": "bitfinex",
+        "assetName": "IOTA",
+        "assetArcId": "AMB:IOT000000172",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "iota_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MET000000422_AMB:USD000000335",
+        "normalizedPair": "metis_usdt",
+        "normalizedSymbol": "metis",
+        "nativePair": "METIS-USDT",
+        "exchange": "okex",
+        "assetName": "MetisDAO",
+        "assetArcId": "AMB:MET000000422",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "metis_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MET000000422_AMB:USD000000333",
+        "normalizedPair": "metis_usdc",
+        "normalizedSymbol": "metis",
+        "nativePair": "METIS-USDC",
+        "exchange": "okex",
+        "assetName": "MetisDAO",
+        "assetArcId": "AMB:MET000000422",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "metis_usdc",
+        "instrumentType": "spot"
+    }
+]

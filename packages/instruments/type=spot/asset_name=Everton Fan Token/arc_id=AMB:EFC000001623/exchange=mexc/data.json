@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EFC000001623_AMB:USD000000335",
+        "normalizedPair": "efc_usdt",
+        "normalizedSymbol": "efc",
+        "nativePair": "EFCUSDT",
+        "exchange": "mexc",
+        "assetName": "Everton Fan Token",
+        "assetArcId": "AMB:EFC000001623",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "efc_usdt",
+        "instrumentType": "spot"
+    }
+]

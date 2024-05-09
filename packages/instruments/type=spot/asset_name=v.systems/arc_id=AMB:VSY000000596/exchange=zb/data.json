@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:VSY000000596_AMB:BTC000000000",
+        "normalizedPair": "vsys_btc",
+        "normalizedSymbol": "vsys",
+        "nativePair": "vsys_btc",
+        "exchange": "zb",
+        "assetName": "v.systems",
+        "assetArcId": "AMB:VSY000000596",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "vsys_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:VSY000000596_AMB:QCA000000000",
+        "normalizedPair": "vsys_qc",
+        "normalizedSymbol": "vsys",
+        "nativePair": "vsys_qc",
+        "exchange": "zb",
+        "assetName": "v.systems",
+        "assetArcId": "AMB:VSY000000596",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "vsys_qc",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:USD000000949",
+        "normalizedPair": "bch_usd",
+        "normalizedSymbol": "bch",
+        "nativePair": "tBCHN:USD",
+        "exchange": "bitfinex",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bch_usd",
+        "instrumentType": "spot"
+    }
+]

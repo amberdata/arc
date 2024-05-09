@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PSY000002634_AMB:USD000000949",
+        "normalizedPair": "psy_usd",
+        "normalizedSymbol": "psy",
+        "nativePair": "PSY/USD",
+        "exchange": "ftx",
+        "assetName": "PSY Coin",
+        "assetArcId": "AMB:PSY000002634",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "psy_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MOC000003237_AMB:USD000000335",
+        "normalizedPair": "mockjup_usdt",
+        "normalizedSymbol": "mockjup",
+        "nativePair": "MOCKJUP_USDT",
+        "exchange": "poloniex",
+        "assetName": "mockJUP",
+        "assetArcId": "AMB:MOC000003237",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mockjup_usdt",
+        "instrumentType": "spot"
+    }
+]

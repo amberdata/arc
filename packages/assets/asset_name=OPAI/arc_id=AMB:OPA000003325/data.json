@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "opai",
+    "assetName": "OPAI",
+    "assetArcId": "AMB:OPA000003325",
+    "website": "https://open-ai.fyi/",
+    "whitePaperUrl": "https://whitepaper.open-ai.fyi/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=OPAI/arc_id=AMB:OPA000003325/exchange=mexc/data.json"
+        ]
+    }
+}

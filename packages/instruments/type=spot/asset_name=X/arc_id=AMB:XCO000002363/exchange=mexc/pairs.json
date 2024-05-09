@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XCO000002363_AMB:USD000000335",
+        "normalizedPair": "xcoin_usdt",
+        "normalizedSymbol": "xcoin",
+        "nativePair": "XCOINUSDT",
+        "exchange": "mexc",
+        "assetName": "X",
+        "assetArcId": "AMB:XCO000002363",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xcoin_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LAT000000527_AMB:USD000000335",
+        "normalizedPair": "lat_usdt",
+        "normalizedSymbol": "lat",
+        "nativePair": "LAT-USDT",
+        "exchange": "okex",
+        "assetName": "PlatON",
+        "assetArcId": "AMB:LAT000000527",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lat_usdt",
+        "instrumentType": "spot"
+    }
+]

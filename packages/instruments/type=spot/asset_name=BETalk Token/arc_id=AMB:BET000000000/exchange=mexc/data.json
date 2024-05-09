@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BET000000000_AMB:USD000000335",
+        "normalizedPair": "bet_usdt",
+        "normalizedSymbol": "bet",
+        "nativePair": "BETUSDT",
+        "exchange": "mexc",
+        "assetName": "BETalk Token",
+        "assetArcId": "AMB:BET000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bet_usdt",
+        "instrumentType": "spot"
+    }
+]

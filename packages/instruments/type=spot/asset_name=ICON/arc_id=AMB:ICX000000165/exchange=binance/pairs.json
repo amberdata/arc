@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:ICX000000165_AMB:BTC000000000",
+        "normalizedPair": "icx_btc",
+        "normalizedSymbol": "icx",
+        "nativePair": "ICXBTC",
+        "exchange": "binance",
+        "assetName": "ICON",
+        "assetArcId": "AMB:ICX000000165",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "icx_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ICX000000165_AMB:BUS000000067",
+        "normalizedPair": "icx_busd",
+        "normalizedSymbol": "icx",
+        "nativePair": "ICXBUSD",
+        "exchange": "binance",
+        "assetName": "ICON",
+        "assetArcId": "AMB:ICX000000165",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "icx_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ICX000000165_AMB:USD000000335",
+        "normalizedPair": "icx_usdt",
+        "normalizedSymbol": "icx",
+        "nativePair": "ICXUSDT",
+        "exchange": "binance",
+        "assetName": "ICON",
+        "assetArcId": "AMB:ICX000000165",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "icx_usdt",
+        "instrumentType": "spot"
+    }
+]

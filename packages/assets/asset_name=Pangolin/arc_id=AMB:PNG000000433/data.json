@@ -1,0 +1,23 @@
+{
+    "assetSymbol": "png",
+    "assetName": "Pangolin",
+    "assetArcId": "AMB:PNG000000433",
+    "website": "https://pangolin.exchange/",
+    "whitePaperUrl": "https://pangolin.exchange/litepaper",
+    "classificationTags": [
+        "DEX",
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Avalanche C-Chain",
+            "address": "0x60781c2586d68229fde47564546784ab3faca982"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pangolin/arc_id=AMB:PNG000000433/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pangolin/arc_id=AMB:PNG000000433/exchange=mexc/data.json"
+        ]
+    }
+}

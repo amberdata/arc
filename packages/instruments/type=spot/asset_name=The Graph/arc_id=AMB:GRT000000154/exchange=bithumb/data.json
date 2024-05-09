@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GRT000000154_AMB:KRW000000000",
+        "normalizedPair": "grt_krw",
+        "normalizedSymbol": "grt",
+        "nativePair": "GRT/KRW",
+        "exchange": "bithumb",
+        "assetName": "The Graph",
+        "assetArcId": "AMB:GRT000000154",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "grt_krw",
+        "instrumentType": "spot"
+    }
+]

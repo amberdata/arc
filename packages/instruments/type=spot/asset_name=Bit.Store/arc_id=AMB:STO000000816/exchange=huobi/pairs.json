@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STO000000816_AMB:USD000000335",
+        "normalizedPair": "store_usdt",
+        "normalizedSymbol": "store",
+        "nativePair": "storeusdt",
+        "exchange": "huobi",
+        "assetName": "Bit.Store",
+        "assetArcId": "AMB:STO000000816",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "store_usdt",
+        "instrumentType": "spot"
+    }
+]

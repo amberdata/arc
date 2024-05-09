@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GOA000002864_AMB:USD000000335",
+        "normalizedPair": "goat_usdt",
+        "normalizedSymbol": "goat",
+        "nativePair": "GOATUSDT",
+        "exchange": "mexc",
+        "assetName": "GOATED",
+        "assetArcId": "AMB:GOA000002864",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "goat_usdt",
+        "instrumentType": "spot"
+    }
+]

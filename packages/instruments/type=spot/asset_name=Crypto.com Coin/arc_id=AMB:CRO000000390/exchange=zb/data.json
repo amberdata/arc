@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRO000000390_AMB:USD000000335",
+        "normalizedPair": "cro_usdt",
+        "normalizedSymbol": "cro",
+        "nativePair": "cro_usdt",
+        "exchange": "zb",
+        "assetName": "Crypto.com Coin",
+        "assetArcId": "AMB:CRO000000390",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cro_usdt",
+        "instrumentType": "spot"
+    }
+]

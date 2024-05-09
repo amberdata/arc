@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LZM000001262_AMB:USD000000335",
+        "normalizedPair": "lzm_usdt",
+        "normalizedSymbol": "lzm",
+        "nativePair": "LZM_USDT",
+        "exchange": "poloniex",
+        "assetName": "LoungeM",
+        "assetArcId": "AMB:LZM000001262",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lzm_usdt",
+        "instrumentType": "spot"
+    }
+]

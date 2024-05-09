@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "shibai",
+    "assetName": "AiShiba",
+    "assetArcId": "AMB:SHI000002176",
+    "website": "https://aishibaog.xyz/",
+    "whitePaperUrl": "https://aishiba.gitbook.io/aishiba-1/overview/our-mission",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AiShiba/arc_id=AMB:SHI000002176/exchange=mexc/data.json"
+        ]
+    }
+}

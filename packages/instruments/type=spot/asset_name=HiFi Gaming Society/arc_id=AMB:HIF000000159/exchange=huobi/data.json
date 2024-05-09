@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HIF000000159_AMB:USD000000335",
+        "normalizedPair": "hifi_usdt",
+        "normalizedSymbol": "hifi",
+        "nativePair": "hifiusdt",
+        "exchange": "huobi",
+        "assetName": "HiFi Gaming Society",
+        "assetArcId": "AMB:HIF000000159",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hifi_usdt",
+        "instrumentType": "spot"
+    }
+]

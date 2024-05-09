@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "1cat",
+    "assetName": "Bitcoin Cats",
+    "assetArcId": "AMB:1CA000002752",
+    "website": "https://www.bitcoincats.world/",
+    "whitePaperUrl": "/how-to-buy/1CAT?utm_source=mexc&utm_medium=tokenifo1CAT&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bitcoin Cats/arc_id=AMB:1CA000002752/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bitcoin Cats/arc_id=AMB:1CA000002752/exchange=mexc/data.json"
+        ]
+    }
+}

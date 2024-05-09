@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALG000001389_AMB:USD000000335",
+        "normalizedPair": "algb_usdt",
+        "normalizedSymbol": "algb",
+        "nativePair": "ALGBUSDT",
+        "exchange": "mexc",
+        "assetName": "Algebra",
+        "assetArcId": "AMB:ALG000001389",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "algb_usdt",
+        "instrumentType": "spot"
+    }
+]

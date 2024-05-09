@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TAR000002254_AMB:USD000000335",
+        "normalizedPair": "taral_usdt",
+        "normalizedSymbol": "taral",
+        "nativePair": "TARALUSDT",
+        "exchange": "mexc",
+        "assetName": "TARALITY",
+        "assetArcId": "AMB:TAR000002254",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "taral_usdt",
+        "instrumentType": "spot"
+    }
+]

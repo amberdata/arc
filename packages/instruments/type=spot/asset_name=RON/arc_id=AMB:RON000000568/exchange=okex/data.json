@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:RON000000568_AMB:USD000000335",
+        "normalizedPair": "ron_usdt",
+        "normalizedSymbol": "ron",
+        "nativePair": "RON-USDT",
+        "exchange": "okex",
+        "assetName": "RON",
+        "assetArcId": "AMB:RON000000568",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ron_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RON000000568_AMB:USD000000333",
+        "normalizedPair": "ron_usdc",
+        "normalizedSymbol": "ron",
+        "nativePair": "RON-USDC",
+        "exchange": "okex",
+        "assetName": "RON",
+        "assetArcId": "AMB:RON000000568",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "ron_usdc",
+        "instrumentType": "spot"
+    }
+]

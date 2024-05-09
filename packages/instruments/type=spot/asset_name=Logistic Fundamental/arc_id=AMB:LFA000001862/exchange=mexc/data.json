@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LFA000001862_AMB:USD000000335",
+        "normalizedPair": "lf_usdt",
+        "normalizedSymbol": "lf",
+        "nativePair": "LFUSDT",
+        "exchange": "mexc",
+        "assetName": "Logistic Fundamental",
+        "assetArcId": "AMB:LFA000001862",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lf_usdt",
+        "instrumentType": "spot"
+    }
+]

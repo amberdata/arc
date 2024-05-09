@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZEE000002399_AMB:USD000000335",
+        "normalizedPair": "zee_usdt",
+        "normalizedSymbol": "zee",
+        "nativePair": "ZEEUSDT",
+        "exchange": "mexc",
+        "assetName": "Zoints",
+        "assetArcId": "AMB:ZEE000002399",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zee_usdt",
+        "instrumentType": "spot"
+    }
+]

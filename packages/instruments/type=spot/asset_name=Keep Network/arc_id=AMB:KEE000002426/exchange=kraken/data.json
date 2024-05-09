@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:KEE000002426_AMB:BTC000000000",
+        "normalizedPair": "keep_btc",
+        "normalizedSymbol": "keep",
+        "nativePair": "KEEPXBT",
+        "exchange": "kraken",
+        "assetName": "Keep Network",
+        "assetArcId": "AMB:KEE000002426",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "keep_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KEE000002426_AMB:EUR000000120",
+        "normalizedPair": "keep_eur",
+        "normalizedSymbol": "keep",
+        "nativePair": "KEEPEUR",
+        "exchange": "kraken",
+        "assetName": "Keep Network",
+        "assetArcId": "AMB:KEE000002426",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "keep_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KEE000002426_AMB:USD000000949",
+        "normalizedPair": "keep_usd",
+        "normalizedSymbol": "keep",
+        "nativePair": "KEEPUSD",
+        "exchange": "kraken",
+        "assetName": "Keep Network",
+        "assetArcId": "AMB:KEE000002426",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "keep_usd",
+        "instrumentType": "spot"
+    }
+]

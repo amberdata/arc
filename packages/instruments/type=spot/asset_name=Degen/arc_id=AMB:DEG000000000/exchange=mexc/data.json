@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DEG000000000_AMB:USD000000335",
+        "normalizedPair": "degenbase_usdt",
+        "normalizedSymbol": "degenbase",
+        "nativePair": "DEGENBASEUSDT",
+        "exchange": "mexc",
+        "assetName": "Degen",
+        "assetArcId": "AMB:DEG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "degenbase_usdt",
+        "instrumentType": "spot"
+    }
+]

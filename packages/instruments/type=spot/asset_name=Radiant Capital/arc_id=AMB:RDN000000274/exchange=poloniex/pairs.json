@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RDN000000274_AMB:USD000000335",
+        "normalizedPair": "rdnt_usdt",
+        "normalizedSymbol": "rdnt",
+        "nativePair": "RDNT_USDT",
+        "exchange": "poloniex",
+        "assetName": "Radiant Capital",
+        "assetArcId": "AMB:RDN000000274",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rdnt_usdt",
+        "instrumentType": "spot"
+    }
+]

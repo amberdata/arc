@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NAO000001976_AMB:USD000000335",
+        "normalizedPair": "naos_usdt",
+        "normalizedSymbol": "naos",
+        "nativePair": "NAOSUSDT",
+        "exchange": "mexc",
+        "assetName": "NAOS Finance",
+        "assetArcId": "AMB:NAO000001976",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "naos_usdt",
+        "instrumentType": "spot"
+    }
+]

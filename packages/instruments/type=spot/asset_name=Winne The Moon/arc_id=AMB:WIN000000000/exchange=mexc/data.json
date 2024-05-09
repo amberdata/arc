@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WIN000000000_AMB:USD000000335",
+        "normalizedPair": "winne_usdt",
+        "normalizedSymbol": "winne",
+        "nativePair": "WINNEUSDT",
+        "exchange": "mexc",
+        "assetName": "Winne The Moon",
+        "assetArcId": "AMB:WIN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "winne_usdt",
+        "instrumentType": "spot"
+    }
+]

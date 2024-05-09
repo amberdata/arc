@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STX000000307_AMB:KRW000000000",
+        "normalizedPair": "stx_krw",
+        "normalizedSymbol": "stx",
+        "nativePair": "STX/KRW",
+        "exchange": "bithumb",
+        "assetName": "Stacks",
+        "assetArcId": "AMB:STX000000307",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "stx_krw",
+        "instrumentType": "spot"
+    }
+]

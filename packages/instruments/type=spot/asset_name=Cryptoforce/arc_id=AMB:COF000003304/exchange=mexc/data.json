@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COF000003304_AMB:USD000000335",
+        "normalizedPair": "cof_usdt",
+        "normalizedSymbol": "cof",
+        "nativePair": "COFUSDT",
+        "exchange": "mexc",
+        "assetName": "Cryptoforce",
+        "assetArcId": "AMB:COF000003304",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cof_usdt",
+        "instrumentType": "spot"
+    }
+]

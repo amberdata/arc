@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAG000000000_AMB:USD000000335",
+        "normalizedPair": "bag_usdt",
+        "normalizedSymbol": "bag",
+        "nativePair": "BAGUSDT",
+        "exchange": "mexc",
+        "assetName": "Catwifbag",
+        "assetArcId": "AMB:BAG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bag_usdt",
+        "instrumentType": "spot"
+    }
+]

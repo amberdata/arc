@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VEL000000592_AMB:USD000000335",
+        "normalizedPair": "vela_usdt",
+        "normalizedSymbol": "vela",
+        "nativePair": "VELAUSDT",
+        "exchange": "bybit",
+        "assetName": "Vela Exchange",
+        "assetArcId": "AMB:VEL000000592",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vela_usdt",
+        "instrumentType": "spot"
+    }
+]

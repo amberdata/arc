@@ -1,0 +1,159 @@
+{
+    "type": "object",
+    "required": [
+        "assetSymbol",
+        "assetName",
+        "arcAssetId",
+        "assetAddresses",
+        "classificationTags",
+        "website",
+        "onChainCreationDate"
+    ],
+    "properties": {
+        "assetSymbol": {
+            "type": "string",
+            "description": "The human readable short name for the asset e.g. eth for Ether"
+        },
+        "assetName": {
+            "type": "string",
+            "description": "The complete human readable name of the asset"
+        },
+        "assetArcId": {
+            "type": "string",
+            "description": "The permanent, unique identifier of the asset in ARC, that remains the same even if assetSymbol must change"
+        },
+        "nativeBlockchainName": {
+            "type": "string",
+            "description": "The name of the blockchain network that this asset helps secure"
+        },
+        "nativeBlockchainContractType": {
+            "type": "string",
+            "description": "The abbreviated name of the contract standard for the nativeBlockchain of this asset"
+        },
+        "assetAddresses": {
+            "type": "array",
+            "description": "Contains additional details about deployements of this asset on various blockchains",
+            "items": {
+                "type": "object",
+                "required": [
+                    "blockchainName",
+                    "address",
+                    "blockchainScannerUrl",
+                    "decimals"
+                ],
+                "properties": {
+                    "blockchainName": {
+                        "type": "string",
+                        "description": "The name of the blockchain where this asset is deployed"
+                    },
+                    "address": {
+                        "type": "string",
+                        "description": "The address of this asset on the blockchain"
+                    },
+                    "blockchainScannerUrl": {
+                        "type": "string",
+                        "description": "The complete URL to the asset contract on the blockchain's scanner"
+                    },
+                    "contractType": {
+                        "type": "string",
+                        "description": "The abbreviated name of the contract standard for this blockchain"
+                    },
+                    "decimals": {
+                        "type": "integer",
+                        "description": "The number of decimals that should be used to normalize transaction values for this asset e.g. 18 for Ether"
+                    },
+                    "genesisTransactionHash": {
+                        "type": "string",
+                        "description": "The transaction hash that corresponds to the first appearance of this asset on this blockchain"
+                    }
+                }
+            },
+            "minItems": 1
+        },
+        "nativeGenesisTransactionHash": {
+            "type": "string",
+            "description": "The transaction hash that corresponds to the onChainCreationDate of this asset on its nativeBlockchain"
+        },
+        "nativeOnChainCreationDate": {
+            "type": "string",
+            "format": "date-time",
+            "description": "The date and time in ISO8601 format of when this asset first appeared on  its nativeBlockchain"
+        },
+        "blockNumber": {
+            "type": "integer",
+            "description": "The exact number of the block in which this asset first appeared"
+        },
+        "consensusMechanism": {
+            "type": "string",
+            "description": "The consensus mechanism of the asset's native blockchain"
+        },
+        "classificationTags": {
+            "type": "array",
+            "description": "The descriptive identifiers that indicate the use-cases of this asset",
+            "items": {
+                "type": "string"
+            },
+            "minItems": 1,
+            "maxItems": 5
+        },
+        "website": {
+            "type": "string",
+            "description": "The asset's primary website with mission statement and additional details"
+        },
+        "whitePaperUrl": {
+            "type": "string",
+            "description": "A direct link to the asset's whitepaper"
+        },
+        "sourceCode": {
+            "type": "string",
+            "description": "A direct link to the development repository of the asset"
+        },
+        "socialMedia": {
+            "type": "array",
+            "description": "Platforms on which the asset creators or governance entity provides announcements and updates",
+            "items": {
+                "type": "object",
+                "required": [
+                    "platform",
+                    "url"
+                ],
+                "properties": {
+                    "platform": {
+                        "type": "string",
+                        "description": "The complete, human-readable name of the platform"
+                    },
+                    "url": {
+                        "type": "string",
+                        "description": "A direct link to the asset's page on the platform"
+                    }
+                }
+            }
+        },
+        "exploits": {
+            "type": "array",
+            "description": "Details regarding exploits and hacks that this asset was involved in",
+            "items": {
+                "type": "object",
+                "required": [
+                    "date",
+                    "details"
+                ],
+                "properties": {
+                    "date": {
+                        "type": "string",
+                        "format": "date-time",
+                        "description": "The date and time in ISO8601 format of the exploit or hack involving this asset"
+                    },
+                    "detailsUrl": {
+                        "type": "string",
+                        "description": "A direct link to a page that provides details about the explot or hack"
+                    }
+                }
+            }
+        },
+        "miscellaneous": {
+            "type": "object",
+            "additionalProperties": true
+        }
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CCC000001212_AMB:USD000000335",
+        "normalizedPair": "ccc_usdt",
+        "normalizedSymbol": "ccc",
+        "nativePair": "CCC_USDT",
+        "exchange": "poloniex",
+        "assetName": "CyberCrowdCoin",
+        "assetArcId": "AMB:CCC000001212",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ccc_usdt",
+        "instrumentType": "spot"
+    }
+]

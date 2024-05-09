@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BUL000000646_AMB:USD000000335",
+        "normalizedPair": "bull.amb.2_usdt",
+        "normalizedSymbol": "bull.amb.2",
+        "nativePair": "BULLUSDT",
+        "exchange": "mexc",
+        "assetName": "Bullshit Inu",
+        "assetArcId": "AMB:BUL000000646",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bull_usdt",
+        "instrumentType": "spot"
+    }
+]

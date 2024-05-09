@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WSB000000600_AMB:USD000000335",
+        "normalizedPair": "wsb_usdt",
+        "normalizedSymbol": "wsb",
+        "nativePair": "WSB-USDT",
+        "exchange": "okex",
+        "assetName": "WallStreetBets DApp",
+        "assetArcId": "AMB:WSB000000600",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wsb_usdt",
+        "instrumentType": "spot"
+    }
+]

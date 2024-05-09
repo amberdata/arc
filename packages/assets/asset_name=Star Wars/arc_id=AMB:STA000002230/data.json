@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "starwars",
+    "assetName": "Star Wars",
+    "assetArcId": "AMB:STA000002230",
+    "website": "https://starwars-2.xyz/",
+    "whitePaperUrl": "/how-to-buy/STARWARS?utm_source=mexc&utm_medium=tokenifoSTARWARS&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Star Wars/arc_id=AMB:STA000002230/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "looks",
+    "assetName": "LooksRare",
+    "assetArcId": "AMB:LOO000000536",
+    "website": "https://looksrare.org/",
+    "whitePaperUrl": "/how-to-buy/LOOKS?utm_source=mexc&utm_medium=tokenifoLOOKS&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=LooksRare/arc_id=AMB:LOO000000536/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=LooksRare/arc_id=AMB:LOO000000536/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=LooksRare/arc_id=AMB:LOO000000536/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=LooksRare/arc_id=AMB:LOO000000536/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=LooksRare/arc_id=AMB:LOO000000536/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=LooksRare/arc_id=AMB:LOO000000536/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=LooksRare/arc_id=AMB:LOO000000536/exchange=zb/data.json"
+        ]
+    }
+}

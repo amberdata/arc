@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:SXP000000312_AMB:BNB000000055",
+        "normalizedPair": "sxp_bnb",
+        "normalizedSymbol": "sxp",
+        "nativePair": "SXPBNB",
+        "exchange": "binance",
+        "assetName": "Solar",
+        "assetArcId": "AMB:SXP000000312",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "sxp_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SXP000000312_AMB:BTC000000000",
+        "normalizedPair": "sxp_btc",
+        "normalizedSymbol": "sxp",
+        "nativePair": "SXPBTC",
+        "exchange": "binance",
+        "assetName": "Solar",
+        "assetArcId": "AMB:SXP000000312",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "sxp_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SXP000000312_AMB:BUS000000067",
+        "normalizedPair": "sxp_busd",
+        "normalizedSymbol": "sxp",
+        "nativePair": "SXPBUSD",
+        "exchange": "binance",
+        "assetName": "Solar",
+        "assetArcId": "AMB:SXP000000312",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "sxp_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SXP000000312_AMB:TRY000000940",
+        "normalizedPair": "sxp_try",
+        "normalizedSymbol": "sxp",
+        "nativePair": "SXPTRY",
+        "exchange": "binance",
+        "assetName": "Solar",
+        "assetArcId": "AMB:SXP000000312",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "sxp_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SXP000000312_AMB:USD000000335",
+        "normalizedPair": "sxp_usdt",
+        "normalizedSymbol": "sxp",
+        "nativePair": "SXPUSDT",
+        "exchange": "binance",
+        "assetName": "Solar",
+        "assetArcId": "AMB:SXP000000312",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sxp_usdt",
+        "instrumentType": "spot"
+    }
+]

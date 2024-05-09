@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SUR000003297_AMB:USD000000335",
+        "normalizedPair": "surfboard_usdt",
+        "normalizedSymbol": "surfboard",
+        "nativePair": "SURFBOARDUSDT",
+        "exchange": "mexc",
+        "assetName": "SurfBoard",
+        "assetArcId": "AMB:SUR000003297",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "surfboard_usdt",
+        "instrumentType": "spot"
+    }
+]

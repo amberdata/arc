@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "meme",
+    "assetName": "Memecoin",
+    "assetArcId": "AMB:MEM000002916",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Content & Streaming",
+        "Meme",
+        "Privacy",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

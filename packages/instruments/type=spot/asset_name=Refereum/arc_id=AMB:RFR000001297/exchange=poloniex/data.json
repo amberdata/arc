@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RFR000001297_AMB:USD000000335",
+        "normalizedPair": "rfr_usdt",
+        "normalizedSymbol": "rfr",
+        "nativePair": "RFR_USDT",
+        "exchange": "poloniex",
+        "assetName": "Refereum",
+        "assetArcId": "AMB:RFR000001297",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rfr_usdt",
+        "instrumentType": "spot"
+    }
+]

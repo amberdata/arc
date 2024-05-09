@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "octa",
+    "assetName": "OCTA",
+    "assetArcId": "AMB:OCT000003216",
+    "website": "https://octa.space/",
+    "whitePaperUrl": "https://whitepaper.octa.space/",
+    "classificationTags": [
+        "Proof-of-Work"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

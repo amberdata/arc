@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LTC000001878_AMB:USD000000335",
+        "normalizedPair": "ltc2_usdt",
+        "normalizedSymbol": "ltc2",
+        "nativePair": "LTC2USDT",
+        "exchange": "mexc",
+        "assetName": "LTC 2.0",
+        "assetArcId": "AMB:LTC000001878",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ltc2_usdt",
+        "instrumentType": "spot"
+    }
+]

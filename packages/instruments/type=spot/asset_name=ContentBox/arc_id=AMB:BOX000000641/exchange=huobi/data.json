@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BOX000000641_AMB:BTC000000000",
+        "normalizedPair": "box_btc",
+        "normalizedSymbol": "box",
+        "nativePair": "boxbtc",
+        "exchange": "huobi",
+        "assetName": "ContentBox",
+        "assetArcId": "AMB:BOX000000641",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "box_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BOX000000641_AMB:USD000000335",
+        "normalizedPair": "box_usdt",
+        "normalizedSymbol": "box",
+        "nativePair": "boxusdt",
+        "exchange": "huobi",
+        "assetName": "ContentBox",
+        "assetArcId": "AMB:BOX000000641",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "box_usdt",
+        "instrumentType": "spot"
+    }
+]

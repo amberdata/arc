@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "xch",
+    "assetName": "XCH,Chia Network",
+    "assetArcId": "AMB:XCH000000605",
+    "website": "https://www.chia.net/",
+    "whitePaperUrl": "https://www.chia.net/2021/02/10/chia-businesss-whitepaper.html",
+    "classificationTags": [
+        "Proof-of-Stake",
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

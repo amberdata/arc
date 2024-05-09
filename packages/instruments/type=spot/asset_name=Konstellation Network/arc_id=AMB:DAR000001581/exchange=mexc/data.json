@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DAR000001581_AMB:USD000000335",
+        "normalizedPair": "darc_usdt",
+        "normalizedSymbol": "darc",
+        "nativePair": "DARCUSDT",
+        "exchange": "mexc",
+        "assetName": "Konstellation Network",
+        "assetArcId": "AMB:DAR000001581",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "darc_usdt",
+        "instrumentType": "spot"
+    }
+]

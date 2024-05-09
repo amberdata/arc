@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SWA000000819_AMB:KRW000000000",
+        "normalizedPair": "swap_krw",
+        "normalizedSymbol": "swap",
+        "nativePair": "SWAP/KRW",
+        "exchange": "bithumb",
+        "assetName": "SatoshiSwap",
+        "assetArcId": "AMB:SWA000000819",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "swap_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ADA000002441_AMB:USD000000949",
+        "normalizedPair": "adabear_usd",
+        "normalizedSymbol": "adabear",
+        "nativePair": "ADABEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short Cardano Token",
+        "assetArcId": "AMB:ADA000002441",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "adabear_usd",
+        "instrumentType": "spot"
+    }
+]

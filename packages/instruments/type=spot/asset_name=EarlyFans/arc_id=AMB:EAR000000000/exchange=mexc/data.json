@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EAR000000000_AMB:USD000000335",
+        "normalizedPair": "early_usdt",
+        "normalizedSymbol": "early",
+        "nativePair": "EARLYUSDT",
+        "exchange": "mexc",
+        "assetName": "EarlyFans",
+        "assetArcId": "AMB:EAR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "early_usdt",
+        "instrumentType": "spot"
+    }
+]

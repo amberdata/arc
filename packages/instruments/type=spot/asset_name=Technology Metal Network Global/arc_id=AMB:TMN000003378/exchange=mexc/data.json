@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TMN000003378_AMB:USD000000335",
+        "normalizedPair": "tmng_usdt",
+        "normalizedSymbol": "tmng",
+        "nativePair": "TMNGUSDT",
+        "exchange": "mexc",
+        "assetName": "Technology Metal Network Global",
+        "assetArcId": "AMB:TMN000003378",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tmng_usdt",
+        "instrumentType": "spot"
+    }
+]

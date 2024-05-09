@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STE000000581_AMB:USD000000335",
+        "normalizedPair": "steth_usdt",
+        "normalizedSymbol": "steth",
+        "nativePair": "STETHUSDT",
+        "exchange": "bybit",
+        "assetName": "Lido Staked ETH",
+        "assetArcId": "AMB:STE000000581",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "steth_usdt",
+        "instrumentType": "spot"
+    }
+]

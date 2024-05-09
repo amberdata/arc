@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "chrp",
+    "assetName": "Chirpley",
+    "assetArcId": "AMB:CHR000001013",
+    "website": "https://chirpley.ai/",
+    "whitePaperUrl": "https://chirpley.gitbook.io/project/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chirpley/arc_id=AMB:CHR000001013/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chirpley/arc_id=AMB:CHR000001013/exchange=mexc/data.json"
+        ]
+    }
+}

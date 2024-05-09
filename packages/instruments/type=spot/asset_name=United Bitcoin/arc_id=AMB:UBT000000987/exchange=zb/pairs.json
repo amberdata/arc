@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UBT000000987_AMB:QCA000000000",
+        "normalizedPair": "ubtc_qc",
+        "normalizedSymbol": "ubtc",
+        "nativePair": "ubtc_qc",
+        "exchange": "zb",
+        "assetName": "United Bitcoin",
+        "assetArcId": "AMB:UBT000000987",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "ubtc_qc",
+        "instrumentType": "spot"
+    }
+]

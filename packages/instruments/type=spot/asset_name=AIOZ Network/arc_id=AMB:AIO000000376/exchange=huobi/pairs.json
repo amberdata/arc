@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIO000000376_AMB:USD000000335",
+        "normalizedPair": "aioz_usdt",
+        "normalizedSymbol": "aioz",
+        "nativePair": "aiozusdt",
+        "exchange": "huobi",
+        "assetName": "AIOZ Network",
+        "assetArcId": "AMB:AIO000000376",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aioz_usdt",
+        "instrumentType": "spot"
+    }
+]

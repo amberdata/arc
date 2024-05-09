@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:USD000000842_AMB:USD000000335",
+        "normalizedPair": "usdj_usdt",
+        "normalizedSymbol": "usdj",
+        "nativePair": "USDJ_USDT",
+        "exchange": "poloniex",
+        "assetName": "USDJ",
+        "assetArcId": "AMB:USD000000842",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "usdj_usdt",
+        "instrumentType": "spot"
+    }
+]

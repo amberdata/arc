@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BRA000001490_AMB:USD000000335",
+        "normalizedPair": "brad_usdt",
+        "normalizedSymbol": "brad",
+        "nativePair": "BRADUSDT",
+        "exchange": "mexc",
+        "assetName": "Brad Pitt",
+        "assetArcId": "AMB:BRA000001490",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "brad_usdt",
+        "instrumentType": "spot"
+    }
+]

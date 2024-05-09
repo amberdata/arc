@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BAN000000044_AMB:USD000000949",
+        "normalizedPair": "band_usd",
+        "normalizedSymbol": "band",
+        "nativePair": "tBAND:USD",
+        "exchange": "bitfinex",
+        "assetName": "Band Protocol",
+        "assetArcId": "AMB:BAN000000044",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "band_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAN000000044_AMB:USD000000335",
+        "normalizedPair": "band_usdt",
+        "normalizedSymbol": "band",
+        "nativePair": "tBAND:UST",
+        "exchange": "bitfinex",
+        "assetName": "Band Protocol",
+        "assetArcId": "AMB:BAN000000044",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "band_usdt",
+        "instrumentType": "spot"
+    }
+]

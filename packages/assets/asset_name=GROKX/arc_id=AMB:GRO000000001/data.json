@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "grokxai",
+    "assetName": "GROKX",
+    "assetArcId": "AMB:GRO000000001",
+    "website": "https://www.grokxcoin.com/",
+    "whitePaperUrl": "/how-to-buy/GROKXAI?utm_source=mexc&utm_medium=tokenifoGROKXAI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GROKX/arc_id=AMB:GRO000000001/exchange=mexc/data.json"
+        ]
+    }
+}

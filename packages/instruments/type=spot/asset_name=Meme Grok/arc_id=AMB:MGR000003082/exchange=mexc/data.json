@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MGR000003082_AMB:USD000000335",
+        "normalizedPair": "mgrok_usdt",
+        "normalizedSymbol": "mgrok",
+        "nativePair": "MGROKUSDT",
+        "exchange": "mexc",
+        "assetName": "Meme Grok",
+        "assetArcId": "AMB:MGR000003082",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mgrok_usdt",
+        "instrumentType": "spot"
+    }
+]

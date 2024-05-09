@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "gat",
+    "assetName": "GAT",
+    "assetArcId": "AMB:GAT000000001",
+    "website": "https://www.gather.top/",
+    "whitePaperUrl": "https://gather-top.s3.ap-east-1.amazonaws.com/public/whitepaper/Gather-Whitepaper-English-Version-v1.0.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GAT/arc_id=AMB:GAT000000001/exchange=mexc/data.json"
+        ]
+    }
+}

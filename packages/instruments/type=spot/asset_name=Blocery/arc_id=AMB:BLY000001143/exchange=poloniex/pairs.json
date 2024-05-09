@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BLY000001143_AMB:USD000000335",
+        "normalizedPair": "bly_usdt",
+        "normalizedSymbol": "bly",
+        "nativePair": "BLY_USDT",
+        "exchange": "poloniex",
+        "assetName": "Blocery",
+        "assetArcId": "AMB:BLY000001143",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bly_usdt",
+        "instrumentType": "spot"
+    }
+]

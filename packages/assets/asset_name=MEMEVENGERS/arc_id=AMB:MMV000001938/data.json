@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "mmvg",
+    "assetName": "MEMEVENGERS",
+    "assetArcId": "AMB:MMV000001938",
+    "website": "https://www.memevengers.top/",
+    "whitePaperUrl": "/how-to-buy/MMVG?utm_source=mexc&utm_medium=tokenifoMMVG&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MEMEVENGERS/arc_id=AMB:MMV000001938/exchange=mexc/data.json"
+        ]
+    }
+}

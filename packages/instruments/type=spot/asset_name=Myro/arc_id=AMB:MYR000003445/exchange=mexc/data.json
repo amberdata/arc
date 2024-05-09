@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MYR000003445_AMB:USD000000335",
+        "normalizedPair": "myro_usdt",
+        "normalizedSymbol": "myro",
+        "nativePair": "MYROUSDT",
+        "exchange": "mexc",
+        "assetName": "Myro",
+        "assetArcId": "AMB:MYR000003445",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "myro_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LIN000002587_AMB:USD000000949",
+        "normalizedPair": "linkbear_usd",
+        "normalizedSymbol": "linkbear",
+        "nativePair": "LINKBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short Chainlink Token",
+        "assetArcId": "AMB:LIN000002587",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "linkbear_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LIN000002587_AMB:USD000000335",
+        "normalizedPair": "linkbear_usdt",
+        "normalizedSymbol": "linkbear",
+        "nativePair": "LINKBEAR/USDT",
+        "exchange": "ftx",
+        "assetName": "3X Short Chainlink Token",
+        "assetArcId": "AMB:LIN000002587",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "linkbear_usdt",
+        "instrumentType": "spot"
+    }
+]

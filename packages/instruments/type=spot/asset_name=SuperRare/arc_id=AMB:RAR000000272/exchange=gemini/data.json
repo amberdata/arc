@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAR000000272_AMB:USD000000949",
+        "normalizedPair": "rare_usd",
+        "normalizedSymbol": "rare",
+        "nativePair": "rareusd",
+        "exchange": "gemini",
+        "assetName": "SuperRare",
+        "assetArcId": "AMB:RAR000000272",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "rare_usd",
+        "instrumentType": "spot"
+    }
+]

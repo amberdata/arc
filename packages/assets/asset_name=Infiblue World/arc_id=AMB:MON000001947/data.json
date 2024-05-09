@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "monie",
+    "assetName": "Infiblue World",
+    "assetArcId": "AMB:MON000001947",
+    "website": "https://infiblue.world/",
+    "whitePaperUrl": "https://medium.com/@InfiblueWorld/infiblue-whitepaper-v1-0-8bb685def026",
+    "classificationTags": [
+        "Content & Streaming",
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Infiblue World/arc_id=AMB:MON000001947/exchange=mexc/data.json"
+        ]
+    }
+}

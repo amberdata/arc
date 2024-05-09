@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MIL000003161_AMB:USD000000335",
+        "normalizedPair": "mille_usdt",
+        "normalizedSymbol": "mille",
+        "nativePair": "MILLEUSDT",
+        "exchange": "mexc",
+        "assetName": "MILLE CHAIN",
+        "assetArcId": "AMB:MIL000003161",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mille_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LEO000002585_AMB:USD000000949",
+        "normalizedPair": "leohalf_usd",
+        "normalizedSymbol": "leohalf",
+        "nativePair": "LEOHALF/USD",
+        "exchange": "ftx",
+        "assetName": "0.5X Long LEO Token",
+        "assetArcId": "AMB:LEO000002585",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "leohalf_usd",
+        "instrumentType": "spot"
+    }
+]

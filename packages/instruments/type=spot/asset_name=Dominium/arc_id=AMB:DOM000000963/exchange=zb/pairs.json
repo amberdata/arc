@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOM000000963_AMB:USD000000335",
+        "normalizedPair": "dom_usdt",
+        "normalizedSymbol": "dom",
+        "nativePair": "dom_usdt",
+        "exchange": "zb",
+        "assetName": "Dominium",
+        "assetArcId": "AMB:DOM000000963",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dom_usdt",
+        "instrumentType": "spot"
+    }
+]

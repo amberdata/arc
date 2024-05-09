@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DVI000001147_AMB:USD000000335",
+        "normalizedPair": "dvi_usdt",
+        "normalizedSymbol": "dvi",
+        "nativePair": "DVIUSDT",
+        "exchange": "mexc",
+        "assetName": "Dvision Network",
+        "assetArcId": "AMB:DVI000001147",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dvi_usdt",
+        "instrumentType": "spot"
+    }
+]

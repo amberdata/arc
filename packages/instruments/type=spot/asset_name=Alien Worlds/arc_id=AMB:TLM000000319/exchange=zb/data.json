@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TLM000000319_AMB:USD000000335",
+        "normalizedPair": "tlm_usdt",
+        "normalizedSymbol": "tlm",
+        "nativePair": "tlm_usdt",
+        "exchange": "zb",
+        "assetName": "Alien Worlds",
+        "assetArcId": "AMB:TLM000000319",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tlm_usdt",
+        "instrumentType": "spot"
+    }
+]

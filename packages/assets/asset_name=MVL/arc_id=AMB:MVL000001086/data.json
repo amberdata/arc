@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "mvl",
+    "assetName": "MVL",
+    "assetArcId": "AMB:MVL000001086",
+    "website": "https://mvlchain.io/",
+    "whitePaperUrl": "https://docs.mvlchain.io/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MVL/arc_id=AMB:MVL000001086/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MVL/arc_id=AMB:MVL000001086/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MVL/arc_id=AMB:MVL000001086/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LRD000000000_AMB:USD000000335",
+        "normalizedPair": "lrds_usdt",
+        "normalizedSymbol": "lrds",
+        "nativePair": "LRDSUSDT",
+        "exchange": "mexc",
+        "assetName": "Lionheart Robotics",
+        "assetArcId": "AMB:LRD000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lrds_usdt",
+        "instrumentType": "spot"
+    }
+]

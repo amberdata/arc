@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GAL000000141_AMB:KRW000000000",
+        "normalizedPair": "gal_krw",
+        "normalizedSymbol": "gal",
+        "nativePair": "GAL/KRW",
+        "exchange": "bithumb",
+        "assetName": "Galxe",
+        "assetArcId": "AMB:GAL000000141",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "gal_krw",
+        "instrumentType": "spot"
+    }
+]

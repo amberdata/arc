@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "derpdex",
+    "assetName": "DERP",
+    "assetArcId": "AMB:DER000002795",
+    "website": "https://derpdex.com/",
+    "whitePaperUrl": "https://derpdex.gitbook.io/home/",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DERP/arc_id=AMB:DER000002795/exchange=mexc/data.json"
+        ]
+    }
+}

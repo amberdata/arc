@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SIM000002189_AMB:USD000000335",
+        "normalizedPair": "simp_usdt",
+        "normalizedSymbol": "simp",
+        "nativePair": "SIMPUSDT",
+        "exchange": "mexc",
+        "assetName": "SO-COL",
+        "assetArcId": "AMB:SIM000002189",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "simp_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NEP000001983_AMB:USD000000335",
+        "normalizedPair": "nept_usdt",
+        "normalizedSymbol": "nept",
+        "nativePair": "NEPTUSDT",
+        "exchange": "mexc",
+        "assetName": "Metanept",
+        "assetArcId": "AMB:NEP000001983",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nept_usdt",
+        "instrumentType": "spot"
+    }
+]

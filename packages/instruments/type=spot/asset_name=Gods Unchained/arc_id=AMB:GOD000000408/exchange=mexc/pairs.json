@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GOD000000408_AMB:USD000000335",
+        "normalizedPair": "gods_usdt",
+        "normalizedSymbol": "gods",
+        "nativePair": "GODSUSDT",
+        "exchange": "mexc",
+        "assetName": "Gods Unchained",
+        "assetArcId": "AMB:GOD000000408",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gods_usdt",
+        "instrumentType": "spot"
+    }
+]

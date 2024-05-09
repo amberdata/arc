@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MTL000000221_AMB:USD000000335",
+        "normalizedPair": "mtl_usdt",
+        "normalizedSymbol": "mtl",
+        "nativePair": "mtlusdt",
+        "exchange": "huobi",
+        "assetName": "Metal DAO",
+        "assetArcId": "AMB:MTL000000221",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mtl_usdt",
+        "instrumentType": "spot"
+    }
+]

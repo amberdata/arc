@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:GLM000000148_AMB:EUR000000120",
+        "normalizedPair": "glmr_eur",
+        "normalizedSymbol": "glmr",
+        "nativePair": "GLMREUR",
+        "exchange": "kraken",
+        "assetName": "Moonbeam",
+        "assetArcId": "AMB:GLM000000148",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "glmr_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GLM000000148_AMB:USD000000949",
+        "normalizedPair": "glmr_usd",
+        "normalizedSymbol": "glmr",
+        "nativePair": "GLMRUSD",
+        "exchange": "kraken",
+        "assetName": "Moonbeam",
+        "assetArcId": "AMB:GLM000000148",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "glmr_usd",
+        "instrumentType": "spot"
+    }
+]

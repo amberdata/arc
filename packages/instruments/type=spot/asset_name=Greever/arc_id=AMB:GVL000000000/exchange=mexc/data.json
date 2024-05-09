@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GVL000000000_AMB:USD000000335",
+        "normalizedPair": "gvl_usdt",
+        "normalizedSymbol": "gvl",
+        "nativePair": "GVLUSDT",
+        "exchange": "mexc",
+        "assetName": "Greever",
+        "assetArcId": "AMB:GVL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gvl_usdt",
+        "instrumentType": "spot"
+    }
+]

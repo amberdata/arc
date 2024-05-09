@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BON000000060_AMB:USD000000335",
+        "normalizedPair": "bond_usdt",
+        "normalizedSymbol": "bond",
+        "nativePair": "BONDUSDT",
+        "exchange": "binanceus",
+        "assetName": "BarnBridge",
+        "assetArcId": "AMB:BON000000060",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bond_usdt",
+        "instrumentType": "spot"
+    }
+]

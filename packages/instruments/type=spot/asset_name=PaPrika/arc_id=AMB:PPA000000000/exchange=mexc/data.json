@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PPA000000000_AMB:USD000000335",
+        "normalizedPair": "ppai_usdt",
+        "normalizedSymbol": "ppai",
+        "nativePair": "PPAIUSDT",
+        "exchange": "mexc",
+        "assetName": "PaPrika",
+        "assetArcId": "AMB:PPA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ppai_usdt",
+        "instrumentType": "spot"
+    }
+]

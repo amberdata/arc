@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FOX000000405_AMB:USD000000335",
+        "normalizedPair": "fox_usdt",
+        "normalizedSymbol": "fox",
+        "nativePair": "FOXUSDT",
+        "exchange": "mexc",
+        "assetName": "Shapeshift FOX Token",
+        "assetArcId": "AMB:FOX000000405",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fox_usdt",
+        "instrumentType": "spot"
+    }
+]

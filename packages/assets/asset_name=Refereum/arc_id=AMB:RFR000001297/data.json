@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "rfr",
+    "assetName": "Refereum",
+    "assetArcId": "AMB:RFR000001297",
+    "website": "https://refereum.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xd0929d411954c47438dc1d871dd6081f5c5e149c"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Refereum/arc_id=AMB:RFR000001297/exchange=poloniex/data.json"
+        ]
+    }
+}

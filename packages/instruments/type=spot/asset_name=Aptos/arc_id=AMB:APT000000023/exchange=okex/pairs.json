@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:APT000000023_AMB:USD000000333",
+        "normalizedPair": "apt_usdc",
+        "normalizedSymbol": "apt",
+        "nativePair": "APT-USDC",
+        "exchange": "okex",
+        "assetName": "Aptos",
+        "assetArcId": "AMB:APT000000023",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "apt_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APT000000023_AMB:USD000000335",
+        "normalizedPair": "apt_usdt",
+        "normalizedSymbol": "apt",
+        "nativePair": "APT-USDT",
+        "exchange": "okex",
+        "assetName": "Aptos",
+        "assetArcId": "AMB:APT000000023",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "apt_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MOV000000220_AMB:USD000000335",
+        "normalizedPair": "movr_usdt",
+        "normalizedSymbol": "movr",
+        "nativePair": "movrusdt",
+        "exchange": "huobi",
+        "assetName": "Moonriver",
+        "assetArcId": "AMB:MOV000000220",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "movr_usdt",
+        "instrumentType": "spot"
+    }
+]

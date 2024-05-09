@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DIA000000101_AMB:USD000000335",
+        "normalizedPair": "dia_usdt",
+        "normalizedSymbol": "dia",
+        "nativePair": "dia_usdt",
+        "exchange": "zb",
+        "assetName": "DIA",
+        "assetArcId": "AMB:DIA000000101",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dia_usdt",
+        "instrumentType": "spot"
+    }
+]

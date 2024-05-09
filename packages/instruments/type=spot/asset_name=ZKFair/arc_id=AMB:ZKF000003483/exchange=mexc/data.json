@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZKF000003483_AMB:USD000000335",
+        "normalizedPair": "zkf_usdt",
+        "normalizedSymbol": "zkf",
+        "nativePair": "ZKFUSDT",
+        "exchange": "mexc",
+        "assetName": "ZKFair",
+        "assetArcId": "AMB:ZKF000003483",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zkf_usdt",
+        "instrumentType": "spot"
+    }
+]

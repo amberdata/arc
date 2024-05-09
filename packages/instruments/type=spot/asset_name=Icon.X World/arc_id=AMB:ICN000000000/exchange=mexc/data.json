@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ICN000000000_AMB:USD000000335",
+        "normalizedPair": "icnx_usdt",
+        "normalizedSymbol": "icnx",
+        "nativePair": "ICNXUSDT",
+        "exchange": "mexc",
+        "assetName": "Icon.X World",
+        "assetArcId": "AMB:ICN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "icnx_usdt",
+        "instrumentType": "spot"
+    }
+]

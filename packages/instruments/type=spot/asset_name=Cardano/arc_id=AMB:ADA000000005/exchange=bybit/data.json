@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:ADA000000005_AMB:EUR000000120",
+        "normalizedPair": "ada_eur",
+        "normalizedSymbol": "ada",
+        "nativePair": "ADAEUR",
+        "exchange": "bybit",
+        "assetName": "Cardano",
+        "assetArcId": "AMB:ADA000000005",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "ada_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ADA000000005_AMB:USD000000333",
+        "normalizedPair": "ada_usdc",
+        "normalizedSymbol": "ada",
+        "nativePair": "ADAUSDC",
+        "exchange": "bybit",
+        "assetName": "Cardano",
+        "assetArcId": "AMB:ADA000000005",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "ada_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ADA000000005_AMB:USD000000335",
+        "normalizedPair": "ada_usdt",
+        "normalizedSymbol": "ada",
+        "nativePair": "ADAUSDT",
+        "exchange": "bybit",
+        "assetName": "Cardano",
+        "assetArcId": "AMB:ADA000000005",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ada_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "xdag",
+    "assetName": "XDAG",
+    "assetArcId": "AMB:XDA000002366",
+    "website": "https://xdag.io/",
+    "whitePaperUrl": "https://github.com/XDagger/xdag/blob/master/WhitePaper.md",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=XDAG/arc_id=AMB:XDA000002366/exchange=mexc/data.json"
+        ]
+    }
+}

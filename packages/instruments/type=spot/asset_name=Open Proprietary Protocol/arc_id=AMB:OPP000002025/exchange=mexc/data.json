@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OPP000002025_AMB:USD000000335",
+        "normalizedPair": "opp_usdt",
+        "normalizedSymbol": "opp",
+        "nativePair": "OPPUSDT",
+        "exchange": "mexc",
+        "assetName": "Open Proprietary Protocol",
+        "assetArcId": "AMB:OPP000002025",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "opp_usdt",
+        "instrumentType": "spot"
+    }
+]

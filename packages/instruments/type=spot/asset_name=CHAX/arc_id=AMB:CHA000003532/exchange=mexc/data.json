@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHA000003532_AMB:USD000000335",
+        "normalizedPair": "chax_usdt",
+        "normalizedSymbol": "chax",
+        "nativePair": "CHAXUSDT",
+        "exchange": "mexc",
+        "assetName": "CHAX",
+        "assetArcId": "AMB:CHA000003532",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "chax_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "shia",
+    "assetName": "Shiba Saga",
+    "assetArcId": "AMB:SHI000001310",
+    "website": "https://www.shibasaga.com/",
+    "whitePaperUrl": "https://www.shibasaga.com/files/woofpaper.pdf",
+    "classificationTags": [
+        "Gaming",
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Shiba Saga/arc_id=AMB:SHI000001310/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Shiba Saga/arc_id=AMB:SHI000001310/exchange=mexc/data.json"
+        ]
+    }
+}

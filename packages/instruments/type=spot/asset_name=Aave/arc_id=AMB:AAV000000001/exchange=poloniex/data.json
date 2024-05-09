@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:AAV000000001_AMB:BTC000000000",
+        "normalizedPair": "aave_btc",
+        "normalizedSymbol": "aave",
+        "nativePair": "AAVE_BTC",
+        "exchange": "poloniex",
+        "assetName": "Aave",
+        "assetArcId": "AMB:AAV000000001",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "aave_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AAV000000001_AMB:USD000000335",
+        "normalizedPair": "aave_usdt",
+        "normalizedSymbol": "aave",
+        "nativePair": "AAVE_USDT",
+        "exchange": "poloniex",
+        "assetName": "Aave",
+        "assetArcId": "AMB:AAV000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aave_usdt",
+        "instrumentType": "spot"
+    }
+]

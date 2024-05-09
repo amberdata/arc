@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BOR000000472_AMB:USD000000335",
+        "normalizedPair": "boring_usdt",
+        "normalizedSymbol": "boring",
+        "nativePair": "BORINGUSDT",
+        "exchange": "mexc",
+        "assetName": "BoringDAO",
+        "assetArcId": "AMB:BOR000000472",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "boring_usdt",
+        "instrumentType": "spot"
+    }
+]

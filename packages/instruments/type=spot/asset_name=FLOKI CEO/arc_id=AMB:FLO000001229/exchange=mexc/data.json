@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FLO000001229_AMB:USD000000335",
+        "normalizedPair": "flokiceo_usdt",
+        "normalizedSymbol": "flokiceo",
+        "nativePair": "FLOKICEOUSDT",
+        "exchange": "mexc",
+        "assetName": "FLOKI CEO",
+        "assetArcId": "AMB:FLO000001229",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "flokiceo_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:COB000000000_AMB:USD000000335",
+        "normalizedPair": "cob_usdt",
+        "normalizedSymbol": "cob",
+        "nativePair": "COBUSDT",
+        "exchange": "mexc",
+        "assetName": "COBRA KING",
+        "assetArcId": "AMB:COB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cob_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:COB000000000_AMB:USD000000335",
+        "normalizedPair": "cobe_usdt",
+        "normalizedSymbol": "cobe",
+        "nativePair": "COBEUSDT",
+        "exchange": "mexc",
+        "assetName": "COBE",
+        "assetArcId": "AMB:COB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cobe_usdt",
+        "instrumentType": "spot"
+    }
+]

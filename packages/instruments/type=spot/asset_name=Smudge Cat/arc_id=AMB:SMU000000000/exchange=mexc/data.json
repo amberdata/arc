@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SMU000000000_AMB:USD000000335",
+        "normalizedPair": "smudge_usdt",
+        "normalizedSymbol": "smudge",
+        "nativePair": "SMUDGEUSDT",
+        "exchange": "mexc",
+        "assetName": "Smudge Cat",
+        "assetArcId": "AMB:SMU000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "smudge_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DIC000001022_AMB:USD000000335",
+        "normalizedPair": "dice_usdt",
+        "normalizedSymbol": "dice",
+        "nativePair": "DICEUSDT",
+        "exchange": "bybit",
+        "assetName": "KLAYDICE",
+        "assetArcId": "AMB:DIC000001022",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dice_usdt",
+        "instrumentType": "spot"
+    }
+]

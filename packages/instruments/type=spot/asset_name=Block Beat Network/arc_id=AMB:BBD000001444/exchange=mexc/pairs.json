@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BBD000001444_AMB:USD000000335",
+        "normalizedPair": "bbdc_usdt",
+        "normalizedSymbol": "bbdc",
+        "nativePair": "BBDCUSDT",
+        "exchange": "mexc",
+        "assetName": "Block Beat Network",
+        "assetArcId": "AMB:BBD000001444",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bbdc_usdt",
+        "instrumentType": "spot"
+    }
+]

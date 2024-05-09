@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KDO000001253_AMB:USD000000335",
+        "normalizedPair": "kdoe_usdt",
+        "normalizedSymbol": "kdoe",
+        "nativePair": "KDOE_USDT",
+        "exchange": "poloniex",
+        "assetName": "Kudoe",
+        "assetArcId": "AMB:KDO000001253",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kdoe_usdt",
+        "instrumentType": "spot"
+    }
+]

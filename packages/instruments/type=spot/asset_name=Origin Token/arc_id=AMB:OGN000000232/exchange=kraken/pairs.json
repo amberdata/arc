@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:OGN000000232_AMB:EUR000000120",
+        "normalizedPair": "ogn_eur",
+        "normalizedSymbol": "ogn",
+        "nativePair": "OGNEUR",
+        "exchange": "kraken",
+        "assetName": "Origin Token",
+        "assetArcId": "AMB:OGN000000232",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "ogn_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OGN000000232_AMB:USD000000949",
+        "normalizedPair": "ogn_usd",
+        "normalizedSymbol": "ogn",
+        "nativePair": "OGNUSD",
+        "exchange": "kraken",
+        "assetName": "Origin Token",
+        "assetArcId": "AMB:OGN000000232",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ogn_usd",
+        "instrumentType": "spot"
+    }
+]

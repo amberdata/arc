@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BLS000001477_AMB:USD000000335",
+        "normalizedPair": "bls_usdt",
+        "normalizedSymbol": "bls",
+        "nativePair": "BLSUSDT",
+        "exchange": "mexc",
+        "assetName": "BlueSale Finance",
+        "assetArcId": "AMB:BLS000001477",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bls_usdt",
+        "instrumentType": "spot"
+    }
+]

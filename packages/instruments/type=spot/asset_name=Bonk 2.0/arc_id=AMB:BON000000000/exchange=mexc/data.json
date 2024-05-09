@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BON000000000_AMB:USD000000335",
+        "normalizedPair": "bonk2sol_usdt",
+        "normalizedSymbol": "bonk2sol",
+        "nativePair": "BONK2SOLUSDT",
+        "exchange": "mexc",
+        "assetName": "Bonk 2.0",
+        "assetArcId": "AMB:BON000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bonk2sol_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BON000000000_AMB:USD000000335",
+        "normalizedPair": "bonks_usdt",
+        "normalizedSymbol": "bonks",
+        "nativePair": "BONKSUSDT",
+        "exchange": "mexc",
+        "assetName": "BONKS",
+        "assetArcId": "AMB:BON000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bonks_usdt",
+        "instrumentType": "spot"
+    }
+]

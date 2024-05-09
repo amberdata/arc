@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:REA000001106_AMB:USD000000949",
+        "normalizedPair": "real_usd",
+        "normalizedSymbol": "real",
+        "nativePair": "REAL/USD",
+        "exchange": "ftx",
+        "assetName": "RealLink",
+        "assetArcId": "AMB:REA000001106",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "real_usd",
+        "instrumentType": "spot"
+    }
+]

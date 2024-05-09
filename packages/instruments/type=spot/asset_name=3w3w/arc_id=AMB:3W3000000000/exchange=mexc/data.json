@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:3W3000000000_AMB:USD000000335",
+        "normalizedPair": "3w3w_usdt",
+        "normalizedSymbol": "3w3w",
+        "nativePair": "3W3WUSDT",
+        "exchange": "mexc",
+        "assetName": "3w3w",
+        "assetArcId": "AMB:3W3000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "3w3w_usdt",
+        "instrumentType": "spot"
+    }
+]

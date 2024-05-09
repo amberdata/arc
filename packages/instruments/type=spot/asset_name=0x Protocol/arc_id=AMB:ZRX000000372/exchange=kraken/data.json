@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:ZRX000000372_AMB:BTC000000000",
+        "normalizedPair": "zrx_btc",
+        "normalizedSymbol": "zrx",
+        "nativePair": "ZRXXBT",
+        "exchange": "kraken",
+        "assetName": "0x Protocol",
+        "assetArcId": "AMB:ZRX000000372",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "zrx_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ZRX000000372_AMB:EUR000000120",
+        "normalizedPair": "zrx_eur",
+        "normalizedSymbol": "zrx",
+        "nativePair": "ZRXEUR",
+        "exchange": "kraken",
+        "assetName": "0x Protocol",
+        "assetArcId": "AMB:ZRX000000372",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "zrx_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ZRX000000372_AMB:USD000000949",
+        "normalizedPair": "zrx_usd",
+        "normalizedSymbol": "zrx",
+        "nativePair": "ZRXUSD",
+        "exchange": "kraken",
+        "assetName": "0x Protocol",
+        "assetArcId": "AMB:ZRX000000372",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "zrx_usd",
+        "instrumentType": "spot"
+    }
+]

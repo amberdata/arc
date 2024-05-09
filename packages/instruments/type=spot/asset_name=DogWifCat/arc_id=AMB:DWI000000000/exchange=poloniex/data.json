@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DWI000000000_AMB:USD000000335",
+        "normalizedPair": "dwifc_usdt",
+        "normalizedSymbol": "dwifc",
+        "nativePair": "DWIFC_USDT",
+        "exchange": "poloniex",
+        "assetName": "DogWifCat",
+        "assetArcId": "AMB:DWI000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dwifc_usdt",
+        "instrumentType": "spot"
+    }
+]

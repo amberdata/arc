@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FRO000000135_AMB:KRW000000000",
+        "normalizedPair": "front_krw",
+        "normalizedSymbol": "front",
+        "nativePair": "FRONT/KRW",
+        "exchange": "bithumb",
+        "assetName": "Frontier",
+        "assetArcId": "AMB:FRO000000135",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "front_krw",
+        "instrumentType": "spot"
+    }
+]

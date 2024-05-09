@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAB000002716_AMB:USD000000335",
+        "normalizedPair": "babymeme1_usdt",
+        "normalizedSymbol": "babymeme1",
+        "nativePair": "BABYMEME1USDT",
+        "exchange": "mexc",
+        "assetName": "Baby Memecoin",
+        "assetArcId": "AMB:BAB000002716",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "babymeme1_usdt",
+        "instrumentType": "spot"
+    }
+]

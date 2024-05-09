@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:AST000000032_AMB:USD000000333",
+        "normalizedPair": "astr_usdc",
+        "normalizedSymbol": "astr",
+        "nativePair": "ASTR-USDC",
+        "exchange": "okex",
+        "assetName": "Astar",
+        "assetArcId": "AMB:AST000000032",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "astr_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AST000000032_AMB:USD000000335",
+        "normalizedPair": "astr_usdt",
+        "normalizedSymbol": "astr",
+        "nativePair": "ASTR-USDT",
+        "exchange": "okex",
+        "assetName": "Astar",
+        "assetArcId": "AMB:AST000000032",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "astr_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AST000000032_AMB:EUR000000120",
+        "normalizedPair": "astr_eur",
+        "normalizedSymbol": "astr",
+        "nativePair": "ASTR-EUR",
+        "exchange": "okex",
+        "assetName": "Astar",
+        "assetArcId": "AMB:AST000000032",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "astr_eur",
+        "instrumentType": "spot"
+    }
+]

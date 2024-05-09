@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:PER000000248_AMB:EUR000000120",
+        "normalizedPair": "perp_eur",
+        "normalizedSymbol": "perp",
+        "nativePair": "perpeur",
+        "exchange": "bitstamp",
+        "assetName": "Perpetual Protocol",
+        "assetArcId": "AMB:PER000000248",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "perp_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PER000000248_AMB:USD000000949",
+        "normalizedPair": "perp_usd",
+        "normalizedSymbol": "perp",
+        "nativePair": "perpusd",
+        "exchange": "bitstamp",
+        "assetName": "Perpetual Protocol",
+        "assetArcId": "AMB:PER000000248",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "perp_usd",
+        "instrumentType": "spot"
+    }
+]

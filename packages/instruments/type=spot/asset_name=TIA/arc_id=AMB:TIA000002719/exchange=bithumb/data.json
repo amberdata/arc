@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TIA000002719_AMB:KRW000000000",
+        "normalizedPair": "tia_krw",
+        "normalizedSymbol": "tia",
+        "nativePair": "TIA/KRW",
+        "exchange": "bithumb",
+        "assetName": "TIA",
+        "assetArcId": "AMB:TIA000002719",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "tia_krw",
+        "instrumentType": "spot"
+    }
+]

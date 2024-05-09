@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "dcp",
+    "assetName": "DataChainPro",
+    "assetArcId": "AMB:DCP000003285",
+    "website": "#",
+    "whitePaperUrl": "https://datachainpro.gitbook.io/datachainpro-white-paper/",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DataChainPro/arc_id=AMB:DCP000003285/exchange=mexc/data.json"
+        ]
+    }
+}

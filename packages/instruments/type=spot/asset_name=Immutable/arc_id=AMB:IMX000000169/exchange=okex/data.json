@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:IMX000000169_AMB:USD000000333",
+        "normalizedPair": "imx_usdc",
+        "normalizedSymbol": "imx",
+        "nativePair": "IMX-USDC",
+        "exchange": "okex",
+        "assetName": "Immutable",
+        "assetArcId": "AMB:IMX000000169",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "imx_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IMX000000169_AMB:USD000000335",
+        "normalizedPair": "imx_usdt",
+        "normalizedSymbol": "imx",
+        "nativePair": "IMX-USDT",
+        "exchange": "okex",
+        "assetName": "Immutable",
+        "assetArcId": "AMB:IMX000000169",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "imx_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IMX000000169_AMB:EUR000000120",
+        "normalizedPair": "imx_eur",
+        "normalizedSymbol": "imx",
+        "nativePair": "IMX-EUR",
+        "exchange": "okex",
+        "assetName": "Immutable",
+        "assetArcId": "AMB:IMX000000169",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "imx_eur",
+        "instrumentType": "spot"
+    }
+]

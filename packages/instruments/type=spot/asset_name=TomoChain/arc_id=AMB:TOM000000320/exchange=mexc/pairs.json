@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOM000000320_AMB:USD000000335",
+        "normalizedPair": "tomo_usdt",
+        "normalizedSymbol": "tomo",
+        "nativePair": "TOMOUSDT",
+        "exchange": "mexc",
+        "assetName": "TomoChain",
+        "assetArcId": "AMB:TOM000000320",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tomo_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BTM000002492_AMB:USD000000949",
+        "normalizedPair": "btmxbear_usd",
+        "normalizedSymbol": "btmxbear",
+        "nativePair": "BTMXBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short BitMax Token",
+        "assetArcId": "AMB:BTM000002492",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "btmxbear_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTM000002492_AMB:USD000000335",
+        "normalizedPair": "btmxbear_usdt",
+        "normalizedSymbol": "btmxbear",
+        "nativePair": "BTMXBEAR/USDT",
+        "exchange": "ftx",
+        "assetName": "3X Short BitMax Token",
+        "assetArcId": "AMB:BTM000002492",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "btmxbear_usdt",
+        "instrumentType": "spot"
+    }
+]

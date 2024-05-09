@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RBX000002118_AMB:USD000000335",
+        "normalizedPair": "rbx_usdt",
+        "normalizedSymbol": "rbx",
+        "nativePair": "RBXUSDT",
+        "exchange": "mexc",
+        "assetName": "RBX",
+        "assetArcId": "AMB:RBX000002118",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rbx_usdt",
+        "instrumentType": "spot"
+    }
+]

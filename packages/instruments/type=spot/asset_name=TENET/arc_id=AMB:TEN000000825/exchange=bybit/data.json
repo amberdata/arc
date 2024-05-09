@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TEN000000825_AMB:USD000000335",
+        "normalizedPair": "tenet_usdt",
+        "normalizedSymbol": "tenet",
+        "nativePair": "TENETUSDT",
+        "exchange": "bybit",
+        "assetName": "TENET",
+        "assetArcId": "AMB:TEN000000825",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tenet_usdt",
+        "instrumentType": "spot"
+    }
+]

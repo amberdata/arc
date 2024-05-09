@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UNB000000837_AMB:USD000000335",
+        "normalizedPair": "unb_usdt",
+        "normalizedSymbol": "unb",
+        "nativePair": "UNBUSDT",
+        "exchange": "mexc",
+        "assetName": "Unbound",
+        "assetArcId": "AMB:UNB000000837",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "unb_usdt",
+        "instrumentType": "spot"
+    }
+]

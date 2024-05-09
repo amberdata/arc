@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOS000000497_AMB:USD000000335",
+        "normalizedPair": "dose_usdt",
+        "normalizedSymbol": "dose",
+        "nativePair": "DOSEUSDT",
+        "exchange": "mexc",
+        "assetName": "DOSE",
+        "assetArcId": "AMB:DOS000000497",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dose_usdt",
+        "instrumentType": "spot"
+    }
+]

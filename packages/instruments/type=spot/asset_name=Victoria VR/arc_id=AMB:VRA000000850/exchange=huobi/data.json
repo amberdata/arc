@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VRA000000850_AMB:USD000000335",
+        "normalizedPair": "vr_usdt",
+        "normalizedSymbol": "vr",
+        "nativePair": "vrusdt",
+        "exchange": "huobi",
+        "assetName": "Victoria VR",
+        "assetArcId": "AMB:VRA000000850",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vr_usdt",
+        "instrumentType": "spot"
+    }
+]

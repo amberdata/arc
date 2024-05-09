@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EMO000003379_AMB:USD000000335",
+        "normalizedPair": "emoji_usdt",
+        "normalizedSymbol": "emoji",
+        "nativePair": "EMOJIUSDT",
+        "exchange": "mexc",
+        "assetName": "MOMOJI",
+        "assetArcId": "AMB:EMO000003379",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "emoji_usdt",
+        "instrumentType": "spot"
+    }
+]

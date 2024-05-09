@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HIG000000160_AMB:USD000000335",
+        "normalizedPair": "high_usdt",
+        "normalizedSymbol": "high",
+        "nativePair": "HIGH_USDT",
+        "exchange": "poloniex",
+        "assetName": "Highstreet",
+        "assetArcId": "AMB:HIG000000160",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "high_usdt",
+        "instrumentType": "spot"
+    }
+]

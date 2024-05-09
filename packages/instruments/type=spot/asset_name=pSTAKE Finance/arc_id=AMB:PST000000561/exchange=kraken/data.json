@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:PST000000561_AMB:EUR000000120",
+        "normalizedPair": "pstake_eur",
+        "normalizedSymbol": "pstake",
+        "nativePair": "PSTAKEEUR",
+        "exchange": "kraken",
+        "assetName": "pSTAKE Finance",
+        "assetArcId": "AMB:PST000000561",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "pstake_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PST000000561_AMB:USD000000949",
+        "normalizedPair": "pstake_usd",
+        "normalizedSymbol": "pstake",
+        "nativePair": "PSTAKEUSD",
+        "exchange": "kraken",
+        "assetName": "pSTAKE Finance",
+        "assetArcId": "AMB:PST000000561",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "pstake_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "arcPairId": "AMB:KSM000000187_AMB:BTC000000000",
+        "normalizedPair": "ksm_btc",
+        "normalizedSymbol": "ksm",
+        "nativePair": "KSMXBT",
+        "exchange": "kraken",
+        "assetName": "Kusama",
+        "assetArcId": "AMB:KSM000000187",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ksm_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KSM000000187_AMB:DOT000000105",
+        "normalizedPair": "ksm_dot",
+        "normalizedSymbol": "ksm",
+        "nativePair": "KSMDOT",
+        "exchange": "kraken",
+        "assetName": "Kusama",
+        "assetArcId": "AMB:KSM000000187",
+        "quoteArcId": "AMB:DOT000000105",
+        "collectedPair": "ksm_dot",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KSM000000187_AMB:ETH000000000",
+        "normalizedPair": "ksm_eth",
+        "normalizedSymbol": "ksm",
+        "nativePair": "KSMETH",
+        "exchange": "kraken",
+        "assetName": "Kusama",
+        "assetArcId": "AMB:KSM000000187",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "ksm_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KSM000000187_AMB:EUR000000120",
+        "normalizedPair": "ksm_eur",
+        "normalizedSymbol": "ksm",
+        "nativePair": "KSMEUR",
+        "exchange": "kraken",
+        "assetName": "Kusama",
+        "assetArcId": "AMB:KSM000000187",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "ksm_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KSM000000187_AMB:GBP000000144",
+        "normalizedPair": "ksm_gbp",
+        "normalizedSymbol": "ksm",
+        "nativePair": "KSMGBP",
+        "exchange": "kraken",
+        "assetName": "Kusama",
+        "assetArcId": "AMB:KSM000000187",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "ksm_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KSM000000187_AMB:USD000000949",
+        "normalizedPair": "ksm_usd",
+        "normalizedSymbol": "ksm",
+        "nativePair": "KSMUSD",
+        "exchange": "kraken",
+        "assetName": "Kusama",
+        "assetArcId": "AMB:KSM000000187",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ksm_usd",
+        "instrumentType": "spot"
+    }
+]

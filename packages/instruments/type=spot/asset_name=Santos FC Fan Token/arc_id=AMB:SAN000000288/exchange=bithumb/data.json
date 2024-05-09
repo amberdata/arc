@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAN000000288_AMB:BTC000000000",
+        "normalizedPair": "santos_btc",
+        "normalizedSymbol": "santos",
+        "nativePair": "SANTOS/BTC",
+        "exchange": "bithumb",
+        "assetName": "Santos FC Fan Token",
+        "assetArcId": "AMB:SAN000000288",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "santos_btc",
+        "instrumentType": "spot"
+    }
+]

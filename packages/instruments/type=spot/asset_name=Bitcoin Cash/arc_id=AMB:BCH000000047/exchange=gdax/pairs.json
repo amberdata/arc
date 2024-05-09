@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:BTC000000000",
+        "normalizedPair": "bch_btc",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCH-BTC",
+        "exchange": "gdax",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "bch_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:EUR000000120",
+        "normalizedPair": "bch_eur",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCH-EUR",
+        "exchange": "gdax",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "bch_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:GBP000000144",
+        "normalizedPair": "bch_gbp",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCH-GBP",
+        "exchange": "gdax",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "bch_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:USD000000949",
+        "normalizedPair": "bch_usd",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCH-USD",
+        "exchange": "gdax",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bch_usd",
+        "instrumentType": "spot"
+    }
+]

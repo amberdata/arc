@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DAW000000961_AMB:USD000000949",
+        "normalizedPair": "dawn_usd",
+        "normalizedSymbol": "dawn",
+        "nativePair": "DAWN/USD",
+        "exchange": "ftx",
+        "assetName": "Dawn Protocol",
+        "assetArcId": "AMB:DAW000000961",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dawn_usd",
+        "instrumentType": "spot"
+    }
+]

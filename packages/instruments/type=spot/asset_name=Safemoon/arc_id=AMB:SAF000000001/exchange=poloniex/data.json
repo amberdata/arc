@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAF000000001_AMB:USD000000335",
+        "normalizedPair": "safemoon_usdt",
+        "normalizedSymbol": "safemoon",
+        "nativePair": "SAFEMOON_USDT",
+        "exchange": "poloniex",
+        "assetName": "Safemoon",
+        "assetArcId": "AMB:SAF000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "safemoon_usdt",
+        "instrumentType": "spot"
+    }
+]

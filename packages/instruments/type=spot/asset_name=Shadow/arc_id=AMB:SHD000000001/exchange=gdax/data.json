@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHD000000001_AMB:USD000000949",
+        "normalizedPair": "shdw_usd",
+        "normalizedSymbol": "shdw",
+        "nativePair": "SHDW-USD",
+        "exchange": "gdax",
+        "assetName": "Shadow",
+        "assetArcId": "AMB:SHD000000001",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "shdw_usd",
+        "instrumentType": "spot"
+    }
+]

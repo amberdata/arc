@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COA000001016_AMB:USD000000335",
+        "normalizedPair": "co_usdt",
+        "normalizedSymbol": "co",
+        "nativePair": "COUSDT",
+        "exchange": "bybit",
+        "assetName": "Corite",
+        "assetArcId": "AMB:COA000001016",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "co_usdt",
+        "instrumentType": "spot"
+    }
+]

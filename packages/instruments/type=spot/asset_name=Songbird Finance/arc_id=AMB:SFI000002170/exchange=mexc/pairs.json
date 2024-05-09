@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SFI000002170_AMB:USD000000335",
+        "normalizedPair": "sfin_usdt",
+        "normalizedSymbol": "sfin",
+        "nativePair": "SFINUSDT",
+        "exchange": "mexc",
+        "assetName": "Songbird Finance",
+        "assetArcId": "AMB:SFI000002170",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sfin_usdt",
+        "instrumentType": "spot"
+    }
+]

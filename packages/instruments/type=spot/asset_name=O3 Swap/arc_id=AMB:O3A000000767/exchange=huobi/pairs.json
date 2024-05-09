@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:O3A000000767_AMB:USD000000335",
+        "normalizedPair": "o3_usdt",
+        "normalizedSymbol": "o3",
+        "nativePair": "o3usdt",
+        "exchange": "huobi",
+        "assetName": "O3 Swap",
+        "assetArcId": "AMB:O3A000000767",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "o3_usdt",
+        "instrumentType": "spot"
+    }
+]

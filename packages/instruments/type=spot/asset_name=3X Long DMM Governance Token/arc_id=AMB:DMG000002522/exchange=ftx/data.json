@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DMG000002522_AMB:USD000000949",
+        "normalizedPair": "dmgbull_usd",
+        "normalizedSymbol": "dmgbull",
+        "nativePair": "DMGBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long DMM Governance Token",
+        "assetArcId": "AMB:DMG000002522",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dmgbull_usd",
+        "instrumentType": "spot"
+    }
+]

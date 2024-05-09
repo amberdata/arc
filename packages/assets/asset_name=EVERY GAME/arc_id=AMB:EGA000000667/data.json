@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "egame",
+    "assetName": "EVERY GAME",
+    "assetArcId": "AMB:EGA000000667",
+    "website": "http://everygame.io/main.do",
+    "whitePaperUrl": "https://everygame.io/doc/egame_wp_1.1.7_eng.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EVERY GAME/arc_id=AMB:EGA000000667/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EVERY GAME/arc_id=AMB:EGA000000667/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:TRA000000451_AMB:EUR000000120",
+        "normalizedPair": "trac_eur",
+        "normalizedSymbol": "trac",
+        "nativePair": "TRAC-EUR",
+        "exchange": "gdax",
+        "assetName": "OriginTrail",
+        "assetArcId": "AMB:TRA000000451",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "trac_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TRA000000451_AMB:USD000000949",
+        "normalizedPair": "trac_usd",
+        "normalizedSymbol": "trac",
+        "nativePair": "TRAC-USD",
+        "exchange": "gdax",
+        "assetName": "OriginTrail",
+        "assetArcId": "AMB:TRA000000451",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "trac_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TRA000000451_AMB:USD000000335",
+        "normalizedPair": "trac_usdt",
+        "normalizedSymbol": "trac",
+        "nativePair": "TRAC-USDT",
+        "exchange": "gdax",
+        "assetName": "OriginTrail",
+        "assetArcId": "AMB:TRA000000451",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trac_usdt",
+        "instrumentType": "spot"
+    }
+]

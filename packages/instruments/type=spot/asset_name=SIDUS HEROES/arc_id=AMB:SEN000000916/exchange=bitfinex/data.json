@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SEN000000916_AMB:USD000000949",
+        "normalizedPair": "senate_usd",
+        "normalizedSymbol": "senate",
+        "nativePair": "tSENATE:USD",
+        "exchange": "bitfinex",
+        "assetName": "SIDUS HEROES",
+        "assetArcId": "AMB:SEN000000916",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "senate_usd",
+        "instrumentType": "spot"
+    }
+]

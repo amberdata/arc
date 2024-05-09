@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "td",
+    "assetName": "Big Red",
+    "assetArcId": "AMB:TDA000000000",
+    "website": "https://thebigredcrypto.com/",
+    "whitePaperUrl": "https://thebigredcrypto.com/whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Big Red/arc_id=AMB:TDA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

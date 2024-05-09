@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:GAL000000141_AMB:BTC000000000",
+        "normalizedPair": "gal_btc",
+        "normalizedSymbol": "gal",
+        "nativePair": "GALBTC",
+        "exchange": "binance",
+        "assetName": "Galxe",
+        "assetArcId": "AMB:GAL000000141",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "gal_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GAL000000141_AMB:TRY000000940",
+        "normalizedPair": "gal_try",
+        "normalizedSymbol": "gal",
+        "nativePair": "GALTRY",
+        "exchange": "binance",
+        "assetName": "Galxe",
+        "assetArcId": "AMB:GAL000000141",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "gal_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GAL000000141_AMB:USD000000335",
+        "normalizedPair": "gal_usdt",
+        "normalizedSymbol": "gal",
+        "nativePair": "GALUSDT",
+        "exchange": "binance",
+        "assetName": "Galxe",
+        "assetArcId": "AMB:GAL000000141",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gal_usdt",
+        "instrumentType": "spot"
+    }
+]

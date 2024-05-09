@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ORB000000553_AMB:USD000000335",
+        "normalizedPair": "orb_usdt",
+        "normalizedSymbol": "orb",
+        "nativePair": "orbusdt",
+        "exchange": "huobi",
+        "assetName": "Orbcity",
+        "assetArcId": "AMB:ORB000000553",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "orb_usdt",
+        "instrumentType": "spot"
+    }
+]

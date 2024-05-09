@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:QTX000002909_AMB:USD000000335",
+        "normalizedPair": "qtx_usdt",
+        "normalizedSymbol": "qtx",
+        "nativePair": "QTXUSDT",
+        "exchange": "mexc",
+        "assetName": "Quantum X",
+        "assetArcId": "AMB:QTX000002909",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "qtx_usdt",
+        "instrumentType": "spot"
+    }
+]

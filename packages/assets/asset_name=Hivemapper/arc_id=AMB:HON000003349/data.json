@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "honey",
+    "assetName": "Hivemapper",
+    "assetArcId": "AMB:HON000003349",
+    "website": "https://www.hivemapper.com/explorer",
+    "whitePaperUrl": "https://docs.hivemapper.com/welcome/introduction",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

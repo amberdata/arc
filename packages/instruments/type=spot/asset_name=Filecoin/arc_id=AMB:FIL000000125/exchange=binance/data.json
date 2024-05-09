@@ -1,0 +1,98 @@
+[
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:BNB000000055",
+        "normalizedPair": "fil_bnb",
+        "normalizedSymbol": "fil",
+        "nativePair": "FILBNB",
+        "exchange": "binance",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "fil_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:BTC000000000",
+        "normalizedPair": "fil_btc",
+        "normalizedSymbol": "fil",
+        "nativePair": "FILBTC",
+        "exchange": "binance",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "fil_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:BUS000000067",
+        "normalizedPair": "fil_busd",
+        "normalizedSymbol": "fil",
+        "nativePair": "FILBUSD",
+        "exchange": "binance",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "fil_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:ETH000000000",
+        "normalizedPair": "fil_eth",
+        "normalizedSymbol": "fil",
+        "nativePair": "FILETH",
+        "exchange": "binance",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "fil_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:TRY000000940",
+        "normalizedPair": "fil_try",
+        "normalizedSymbol": "fil",
+        "nativePair": "FILTRY",
+        "exchange": "binance",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "fil_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:USD000000335",
+        "normalizedPair": "fil_usdt",
+        "normalizedSymbol": "fil",
+        "nativePair": "FILUSDT",
+        "exchange": "binance",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fil_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:FDU000000122",
+        "normalizedPair": "fil_fdusd",
+        "normalizedSymbol": "fil",
+        "nativePair": "FILFDUSD",
+        "exchange": "binance",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "fil_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:USD000000333",
+        "normalizedPair": "fil_usdc",
+        "normalizedSymbol": "fil",
+        "nativePair": "FILUSDC",
+        "exchange": "binance",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "fil_usdc",
+        "instrumentType": "spot"
+    }
+]

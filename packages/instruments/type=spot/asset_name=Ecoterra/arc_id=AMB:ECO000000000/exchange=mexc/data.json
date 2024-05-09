@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ECO000000000_AMB:USD000000335",
+        "normalizedPair": "ecoterra_usdt",
+        "normalizedSymbol": "ecoterra",
+        "nativePair": "ECOTERRAUSDT",
+        "exchange": "mexc",
+        "assetName": "Ecoterra",
+        "assetArcId": "AMB:ECO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ecoterra_usdt",
+        "instrumentType": "spot"
+    }
+]

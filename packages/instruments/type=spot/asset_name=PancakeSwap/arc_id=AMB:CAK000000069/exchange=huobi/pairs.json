@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CAK000000069_AMB:USD000000335",
+        "normalizedPair": "cake_usdt",
+        "normalizedSymbol": "cake",
+        "nativePair": "cakeusdt",
+        "exchange": "huobi",
+        "assetName": "PancakeSwap",
+        "assetArcId": "AMB:CAK000000069",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cake_usdt",
+        "instrumentType": "spot"
+    }
+]

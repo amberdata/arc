@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MIC000002969_AMB:USD000000335",
+        "normalizedPair": "mice_usdt",
+        "normalizedSymbol": "mice",
+        "nativePair": "miceusdt",
+        "exchange": "huobi",
+        "assetName": "Mice (Ordinals)",
+        "assetArcId": "AMB:MIC000002969",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mice_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:OCE000000230_AMB:BNB000000055",
+        "normalizedPair": "ocean_bnb",
+        "normalizedSymbol": "ocean",
+        "nativePair": "OCEANBNB",
+        "exchange": "binance",
+        "assetName": "Ocean Protocol",
+        "assetArcId": "AMB:OCE000000230",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "ocean_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OCE000000230_AMB:BTC000000000",
+        "normalizedPair": "ocean_btc",
+        "normalizedSymbol": "ocean",
+        "nativePair": "OCEANBTC",
+        "exchange": "binance",
+        "assetName": "Ocean Protocol",
+        "assetArcId": "AMB:OCE000000230",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ocean_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OCE000000230_AMB:BUS000000067",
+        "normalizedPair": "ocean_busd",
+        "normalizedSymbol": "ocean",
+        "nativePair": "OCEANBUSD",
+        "exchange": "binance",
+        "assetName": "Ocean Protocol",
+        "assetArcId": "AMB:OCE000000230",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "ocean_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OCE000000230_AMB:TRY000000940",
+        "normalizedPair": "ocean_try",
+        "normalizedSymbol": "ocean",
+        "nativePair": "OCEANTRY",
+        "exchange": "binance",
+        "assetName": "Ocean Protocol",
+        "assetArcId": "AMB:OCE000000230",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "ocean_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OCE000000230_AMB:USD000000335",
+        "normalizedPair": "ocean_usdt",
+        "normalizedSymbol": "ocean",
+        "nativePair": "OCEANUSDT",
+        "exchange": "binance",
+        "assetName": "Ocean Protocol",
+        "assetArcId": "AMB:OCE000000230",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ocean_usdt",
+        "instrumentType": "spot"
+    }
+]

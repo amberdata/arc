@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NVD000002617_AMB:USD000000949",
+        "normalizedPair": "nvda_usd",
+        "normalizedSymbol": "nvda",
+        "nativePair": "NVDA/USD",
+        "exchange": "ftx",
+        "assetName": "NVIDIA tokenized stock",
+        "assetArcId": "AMB:NVD000002617",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "nvda_usd",
+        "instrumentType": "spot"
+    }
+]

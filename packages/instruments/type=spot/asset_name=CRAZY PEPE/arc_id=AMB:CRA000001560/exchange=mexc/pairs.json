@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRA000001560_AMB:USD000000335",
+        "normalizedPair": "crazypepe_usdt",
+        "normalizedSymbol": "crazypepe",
+        "nativePair": "CRAZYPEPEUSDT",
+        "exchange": "mexc",
+        "assetName": "CRAZY PEPE",
+        "assetArcId": "AMB:CRA000001560",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "crazypepe_usdt",
+        "instrumentType": "spot"
+    }
+]

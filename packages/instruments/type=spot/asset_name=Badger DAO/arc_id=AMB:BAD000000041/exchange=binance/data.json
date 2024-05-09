@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:BAD000000041_AMB:BTC000000000",
+        "normalizedPair": "badger_btc",
+        "normalizedSymbol": "badger",
+        "nativePair": "BADGERBTC",
+        "exchange": "binance",
+        "assetName": "Badger DAO",
+        "assetArcId": "AMB:BAD000000041",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "badger_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAD000000041_AMB:BUS000000067",
+        "normalizedPair": "badger_busd",
+        "normalizedSymbol": "badger",
+        "nativePair": "BADGERBUSD",
+        "exchange": "binance",
+        "assetName": "Badger DAO",
+        "assetArcId": "AMB:BAD000000041",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "badger_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAD000000041_AMB:USD000000335",
+        "normalizedPair": "badger_usdt",
+        "normalizedSymbol": "badger",
+        "nativePair": "BADGERUSDT",
+        "exchange": "binance",
+        "assetName": "Badger DAO",
+        "assetArcId": "AMB:BAD000000041",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "badger_usdt",
+        "instrumentType": "spot"
+    }
+]

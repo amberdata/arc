@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BSW000001206_AMB:USD000000335",
+        "normalizedPair": "bswap_usdt",
+        "normalizedSymbol": "bswap",
+        "nativePair": "BSWAP_USDT",
+        "exchange": "poloniex",
+        "assetName": "BaseSwap",
+        "assetArcId": "AMB:BSW000001206",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bswap_usdt",
+        "instrumentType": "spot"
+    }
+]

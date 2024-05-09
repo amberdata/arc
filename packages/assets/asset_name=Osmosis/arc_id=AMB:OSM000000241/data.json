@@ -1,0 +1,30 @@
+{
+    "assetSymbol": "osmo",
+    "assetName": "Osmosis",
+    "assetArcId": "AMB:OSM000000241",
+    "website": "https://osmosis.zone/",
+    "whitePaperUrl": "https://docs.osmosis.zone/overview",
+    "classificationTags": [
+        "DEX",
+        "Derivatives",
+        "Governance",
+        "Lending",
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Osmosis",
+            "address": ""
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Osmosis/arc_id=AMB:OSM000000241/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Osmosis/arc_id=AMB:OSM000000241/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Osmosis/arc_id=AMB:OSM000000241/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Osmosis/arc_id=AMB:OSM000000241/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Osmosis/arc_id=AMB:OSM000000241/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Osmosis/arc_id=AMB:OSM000000241/exchange=poloniex/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MED000001162_AMB:KRW000000000",
+        "normalizedPair": "med_krw",
+        "normalizedSymbol": "med",
+        "nativePair": "MED/KRW",
+        "exchange": "bithumb",
+        "assetName": "Meadow",
+        "assetArcId": "AMB:MED000001162",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "med_krw",
+        "instrumentType": "spot"
+    }
+]

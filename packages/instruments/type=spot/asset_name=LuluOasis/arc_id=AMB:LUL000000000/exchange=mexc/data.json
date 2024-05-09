@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LUL000000000_AMB:USD000000335",
+        "normalizedPair": "lulu_usdt",
+        "normalizedSymbol": "lulu",
+        "nativePair": "LULUUSDT",
+        "exchange": "mexc",
+        "assetName": "LuluOasis",
+        "assetArcId": "AMB:LUL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lulu_usdt",
+        "instrumentType": "spot"
+    }
+]

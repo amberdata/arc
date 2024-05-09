@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SEX000002169_AMB:USD000000335",
+        "normalizedPair": "sex_usdt",
+        "normalizedSymbol": "sex",
+        "nativePair": "SEXUSDT",
+        "exchange": "mexc",
+        "assetName": "Solidex",
+        "assetArcId": "AMB:SEX000002169",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sex_usdt",
+        "instrumentType": "spot"
+    }
+]

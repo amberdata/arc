@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OAS000000546_AMB:USD000000335",
+        "normalizedPair": "oas_usdt",
+        "normalizedSymbol": "oas",
+        "nativePair": "OASUSDT",
+        "exchange": "bybit",
+        "assetName": "Oasys",
+        "assetArcId": "AMB:OAS000000546",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "oas_usdt",
+        "instrumentType": "spot"
+    }
+]

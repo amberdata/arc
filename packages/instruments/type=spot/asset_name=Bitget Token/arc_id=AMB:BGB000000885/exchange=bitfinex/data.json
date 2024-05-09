@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BGB000000885_AMB:USD000000949",
+        "normalizedPair": "bgb_usd",
+        "normalizedSymbol": "bgb",
+        "nativePair": "tBGBUSD",
+        "exchange": "bitfinex",
+        "assetName": "Bitget Token",
+        "assetArcId": "AMB:BGB000000885",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bgb_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BGB000000885_AMB:USD000000335",
+        "normalizedPair": "bgb_usdt",
+        "normalizedSymbol": "bgb",
+        "nativePair": "tBGBUST",
+        "exchange": "bitfinex",
+        "assetName": "Bitget Token",
+        "assetArcId": "AMB:BGB000000885",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bgb_usdt",
+        "instrumentType": "spot"
+    }
+]

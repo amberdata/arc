@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PRN000002095_AMB:USD000000335",
+        "normalizedPair": "prnt_usdt",
+        "normalizedSymbol": "prnt",
+        "nativePair": "PRNTUSDT",
+        "exchange": "mexc",
+        "assetName": "PRNT",
+        "assetArcId": "AMB:PRN000002095",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "prnt_usdt",
+        "instrumentType": "spot"
+    }
+]

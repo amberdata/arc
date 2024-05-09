@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FAR000000000_AMB:USD000000335",
+        "normalizedPair": "fart_usdt",
+        "normalizedSymbol": "fart",
+        "nativePair": "FART_USDT",
+        "exchange": "poloniex",
+        "assetName": "FartCaster",
+        "assetArcId": "AMB:FAR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fart_usdt",
+        "instrumentType": "spot"
+    }
+]

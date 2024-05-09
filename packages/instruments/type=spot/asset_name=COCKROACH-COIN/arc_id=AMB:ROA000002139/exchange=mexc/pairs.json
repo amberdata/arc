@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ROA000002139_AMB:USD000000335",
+        "normalizedPair": "roachcoin_usdt",
+        "normalizedSymbol": "roachcoin",
+        "nativePair": "ROACHCOINUSDT",
+        "exchange": "mexc",
+        "assetName": "COCKROACH-COIN",
+        "assetArcId": "AMB:ROA000002139",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "roachcoin_usdt",
+        "instrumentType": "spot"
+    }
+]

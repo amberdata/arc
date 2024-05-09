@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:APX000001185_AMB:USD000000841",
+        "normalizedPair": "apx_usdd",
+        "normalizedSymbol": "apx",
+        "nativePair": "APX_USDD",
+        "exchange": "poloniex",
+        "assetName": "ApolloX",
+        "assetArcId": "AMB:APX000001185",
+        "quoteArcId": "AMB:USD000000841",
+        "collectedPair": "apx_usdd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APX000001185_AMB:USD000000335",
+        "normalizedPair": "apx_usdt",
+        "normalizedSymbol": "apx",
+        "nativePair": "APX_USDT",
+        "exchange": "poloniex",
+        "assetName": "ApolloX",
+        "assetArcId": "AMB:APX000001185",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "apx_usdt",
+        "instrumentType": "spot"
+    }
+]

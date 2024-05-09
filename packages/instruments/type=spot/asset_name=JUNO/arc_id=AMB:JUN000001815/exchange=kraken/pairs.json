@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:JUN000001815_AMB:EUR000000120",
+        "normalizedPair": "juno_eur",
+        "normalizedSymbol": "juno",
+        "nativePair": "JUNOEUR",
+        "exchange": "kraken",
+        "assetName": "JUNO",
+        "assetArcId": "AMB:JUN000001815",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "juno_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:JUN000001815_AMB:USD000000949",
+        "normalizedPair": "juno_usd",
+        "normalizedSymbol": "juno",
+        "nativePair": "JUNOUSD",
+        "exchange": "kraken",
+        "assetName": "JUNO",
+        "assetArcId": "AMB:JUN000001815",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "juno_usd",
+        "instrumentType": "spot"
+    }
+]

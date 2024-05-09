@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UPY000003000_AMB:USD000000335",
+        "normalizedPair": "upy_usdt",
+        "normalizedSymbol": "upy",
+        "nativePair": "UPYUSDT",
+        "exchange": "mexc",
+        "assetName": "UPYY Payment",
+        "assetArcId": "AMB:UPY000003000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "upy_usdt",
+        "instrumentType": "spot"
+    }
+]

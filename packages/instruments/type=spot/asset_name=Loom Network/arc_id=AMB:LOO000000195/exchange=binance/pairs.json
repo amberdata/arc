@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LOO000000195_AMB:BTC000000000",
+        "normalizedPair": "loom_btc",
+        "normalizedSymbol": "loom",
+        "nativePair": "LOOMBTC",
+        "exchange": "binance",
+        "assetName": "Loom Network",
+        "assetArcId": "AMB:LOO000000195",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "loom_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LOO000000195_AMB:USD000000335",
+        "normalizedPair": "loom_usdt",
+        "normalizedSymbol": "loom",
+        "nativePair": "LOOMUSDT",
+        "exchange": "binance",
+        "assetName": "Loom Network",
+        "assetArcId": "AMB:LOO000000195",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "loom_usdt",
+        "instrumentType": "spot"
+    }
+]

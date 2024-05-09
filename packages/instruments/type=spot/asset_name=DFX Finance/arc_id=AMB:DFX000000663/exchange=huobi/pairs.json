@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DFX000000663_AMB:USD000000335",
+        "normalizedPair": "dfx_usdt",
+        "normalizedSymbol": "dfx",
+        "nativePair": "dfxusdt",
+        "exchange": "huobi",
+        "assetName": "DFX Finance",
+        "assetArcId": "AMB:DFX000000663",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dfx_usdt",
+        "instrumentType": "spot"
+    }
+]

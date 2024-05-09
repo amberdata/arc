@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HTH000002570_AMB:USD000000949",
+        "normalizedPair": "hthedge_usd",
+        "normalizedSymbol": "hthedge",
+        "nativePair": "HTHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short HT Token",
+        "assetArcId": "AMB:HTH000002570",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "hthedge_usd",
+        "instrumentType": "spot"
+    }
+]

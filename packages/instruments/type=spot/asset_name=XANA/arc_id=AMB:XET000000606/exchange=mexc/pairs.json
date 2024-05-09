@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XET000000606_AMB:USD000000335",
+        "normalizedPair": "xeta_usdt",
+        "normalizedSymbol": "xeta",
+        "nativePair": "XETAUSDT",
+        "exchange": "mexc",
+        "assetName": "XANA",
+        "assetArcId": "AMB:XET000000606",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xeta_usdt",
+        "instrumentType": "spot"
+    }
+]

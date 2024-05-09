@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ANK000000019_AMB:USD000000949",
+        "normalizedPair": "ankr_usd",
+        "normalizedSymbol": "ankr",
+        "nativePair": "ankrusd",
+        "exchange": "gemini",
+        "assetName": "Ankr",
+        "assetArcId": "AMB:ANK000000019",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ankr_usd",
+        "instrumentType": "spot"
+    }
+]

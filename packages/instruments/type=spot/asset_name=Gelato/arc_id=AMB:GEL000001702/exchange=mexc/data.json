@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GEL000001702_AMB:USD000000335",
+        "normalizedPair": "gel_usdt",
+        "normalizedSymbol": "gel",
+        "nativePair": "GELUSDT",
+        "exchange": "mexc",
+        "assetName": "Gelato",
+        "assetArcId": "AMB:GEL000001702",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gel_usdt",
+        "instrumentType": "spot"
+    }
+]

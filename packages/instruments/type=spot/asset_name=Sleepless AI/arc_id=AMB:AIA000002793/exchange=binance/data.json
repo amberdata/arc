@@ -1,0 +1,74 @@
+[
+    {
+        "arcPairId": "AMB:AIA000002793_AMB:FDU000000122",
+        "normalizedPair": "ai.amb.1_fdusd",
+        "normalizedSymbol": "ai.amb.1",
+        "nativePair": "AIFDUSD",
+        "exchange": "binance",
+        "assetName": "Sleepless AI",
+        "assetArcId": "AMB:AIA000002793",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "ai_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AIA000002793_AMB:BTC000000000",
+        "normalizedPair": "ai.amb.1_btc",
+        "normalizedSymbol": "ai.amb.1",
+        "nativePair": "AIBTC",
+        "exchange": "binance",
+        "assetName": "Sleepless AI",
+        "assetArcId": "AMB:AIA000002793",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ai_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AIA000002793_AMB:TUS000000326",
+        "normalizedPair": "ai.amb.1_tusd",
+        "normalizedSymbol": "ai.amb.1",
+        "nativePair": "AITUSD",
+        "exchange": "binance",
+        "assetName": "Sleepless AI",
+        "assetArcId": "AMB:AIA000002793",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "ai_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AIA000002793_AMB:TRY000000940",
+        "normalizedPair": "ai.amb.1_try",
+        "normalizedSymbol": "ai.amb.1",
+        "nativePair": "AITRY",
+        "exchange": "binance",
+        "assetName": "Sleepless AI",
+        "assetArcId": "AMB:AIA000002793",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "ai_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AIA000002793_AMB:BNB000000055",
+        "normalizedPair": "ai.amb.1_bnb",
+        "normalizedSymbol": "ai.amb.1",
+        "nativePair": "AIBNB",
+        "exchange": "binance",
+        "assetName": "Sleepless AI",
+        "assetArcId": "AMB:AIA000002793",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "ai_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AIA000002793_AMB:USD000000335",
+        "normalizedPair": "ai.amb.1_usdt",
+        "normalizedSymbol": "ai.amb.1",
+        "nativePair": "AIUSDT",
+        "exchange": "binance",
+        "assetName": "Sleepless AI",
+        "assetArcId": "AMB:AIA000002793",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ai_usdt",
+        "instrumentType": "spot"
+    }
+]

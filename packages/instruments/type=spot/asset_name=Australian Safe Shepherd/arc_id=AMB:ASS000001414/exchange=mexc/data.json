@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ASS000001414_AMB:USD000000335",
+        "normalizedPair": "ass_usdt",
+        "normalizedSymbol": "ass",
+        "nativePair": "ASSUSDT",
+        "exchange": "mexc",
+        "assetName": "Australian Safe Shepherd",
+        "assetArcId": "AMB:ASS000001414",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ass_usdt",
+        "instrumentType": "spot"
+    }
+]

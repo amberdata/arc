@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WAM000000453_AMB:USD000000949",
+        "normalizedPair": "wampl_usd",
+        "normalizedSymbol": "wampl",
+        "nativePair": "WAMPL-USD",
+        "exchange": "gdax",
+        "assetName": "Wrapped Ampleforth",
+        "assetArcId": "AMB:WAM000000453",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "wampl_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "jasmy",
+    "assetName": "JasmyCoin",
+    "assetArcId": "AMB:JAS000000176",
+    "website": "https://www.jasmy.co.jp/en.html",
+    "whitePaperUrl": "https://www.jasmy.co.jp/images/whitepaper20200618_eng.pdf",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

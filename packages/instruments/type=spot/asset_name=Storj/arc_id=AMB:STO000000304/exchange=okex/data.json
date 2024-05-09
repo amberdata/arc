@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:STO000000304_AMB:USD000000333",
+        "normalizedPair": "storj_usdc",
+        "normalizedSymbol": "storj",
+        "nativePair": "STORJ-USDC",
+        "exchange": "okex",
+        "assetName": "Storj",
+        "assetArcId": "AMB:STO000000304",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "storj_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:STO000000304_AMB:USD000000335",
+        "normalizedPair": "storj_usdt",
+        "normalizedSymbol": "storj",
+        "nativePair": "STORJ-USDT",
+        "exchange": "okex",
+        "assetName": "Storj",
+        "assetArcId": "AMB:STO000000304",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "storj_usdt",
+        "instrumentType": "spot"
+    }
+]

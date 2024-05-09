@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "ioex",
+    "assetName": "IOEX",
+    "assetArcId": "AMB:IOE000001790",
+    "website": "https://www.ioex.vip/",
+    "whitePaperUrl": "/how-to-buy/IOEX?utm_source=mexc&utm_medium=tokenifoIOEX&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=IOEX/arc_id=AMB:IOE000001790/exchange=mexc/data.json"
+        ]
+    }
+}

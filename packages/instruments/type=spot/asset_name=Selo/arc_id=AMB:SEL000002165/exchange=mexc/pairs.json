@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SEL000002165_AMB:USD000000335",
+        "normalizedPair": "selo_usdt",
+        "normalizedSymbol": "selo",
+        "nativePair": "SELOUSDT",
+        "exchange": "mexc",
+        "assetName": "Selo",
+        "assetArcId": "AMB:SEL000002165",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "selo_usdt",
+        "instrumentType": "spot"
+    }
+]

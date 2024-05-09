@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BRI000001492_AMB:EUR000000120",
+        "normalizedPair": "brick_eur",
+        "normalizedSymbol": "brick",
+        "nativePair": "BRICKEUR",
+        "exchange": "kraken",
+        "assetName": "r/FortNiteBR Bricks",
+        "assetArcId": "AMB:BRI000001492",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "brick_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BRI000001492_AMB:USD000000949",
+        "normalizedPair": "brick_usd",
+        "normalizedSymbol": "brick",
+        "nativePair": "BRICKUSD",
+        "exchange": "kraken",
+        "assetName": "r/FortNiteBR Bricks",
+        "assetArcId": "AMB:BRI000001492",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "brick_usd",
+        "instrumentType": "spot"
+    }
+]

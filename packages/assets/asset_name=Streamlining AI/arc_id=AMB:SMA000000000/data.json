@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "smai",
+    "assetName": "Streamlining AI",
+    "assetArcId": "AMB:SMA000000000",
+    "website": "https://www.speedwisnode.com/",
+    "whitePaperUrl": "/how-to-buy/SMAI?utm_source=mexc&utm_medium=tokenifoSMAI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Streamlining AI/arc_id=AMB:SMA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

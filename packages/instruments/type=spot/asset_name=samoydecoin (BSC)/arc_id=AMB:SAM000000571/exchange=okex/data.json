@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAM000000571_AMB:USD000000335",
+        "normalizedPair": "samo_usdt",
+        "normalizedSymbol": "samo",
+        "nativePair": "SAMO-USDT",
+        "exchange": "okex",
+        "assetName": "samoydecoin (BSC)",
+        "assetArcId": "AMB:SAM000000571",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "samo_usdt",
+        "instrumentType": "spot"
+    }
+]

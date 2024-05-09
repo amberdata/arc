@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AGL000000009_AMB:USD000000335",
+        "normalizedPair": "agld_usdt",
+        "normalizedSymbol": "agld",
+        "nativePair": "AGLDUSDT",
+        "exchange": "mexc",
+        "assetName": "Adventure Gold",
+        "assetArcId": "AMB:AGL000000009",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "agld_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZYB000002416_AMB:USD000000333",
+        "normalizedPair": "zyb_usdc",
+        "normalizedSymbol": "zyb",
+        "nativePair": "ZYBUSDC",
+        "exchange": "mexc",
+        "assetName": "Zyberswap",
+        "assetArcId": "AMB:ZYB000002416",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "zyb_usdc",
+        "instrumentType": "spot"
+    }
+]

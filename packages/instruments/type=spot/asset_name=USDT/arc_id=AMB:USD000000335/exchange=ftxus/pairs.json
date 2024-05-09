@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:USD000000335_AMB:USD000000949",
+        "normalizedPair": "usdt_usd",
+        "normalizedSymbol": "usdt",
+        "nativePair": "USDT/USD",
+        "exchange": "ftxus",
+        "assetName": "USDT",
+        "assetArcId": "AMB:USD000000335",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "usdt_usd",
+        "instrumentType": "spot"
+    }
+]

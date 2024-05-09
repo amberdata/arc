@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PAA000003147_AMB:USD000000335",
+        "normalizedPair": "paal_usdt",
+        "normalizedSymbol": "paal",
+        "nativePair": "paalusdt",
+        "exchange": "huobi",
+        "assetName": "PAAL AI",
+        "assetArcId": "AMB:PAA000003147",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "paal_usdt",
+        "instrumentType": "spot"
+    }
+]

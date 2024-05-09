@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BWO000003280_AMB:USD000000335",
+        "normalizedPair": "bwolf_usdt",
+        "normalizedSymbol": "bwolf",
+        "nativePair": "BWOLFUSDT",
+        "exchange": "mexc",
+        "assetName": "BNBWOLF",
+        "assetArcId": "AMB:BWO000003280",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bwolf_usdt",
+        "instrumentType": "spot"
+    }
+]

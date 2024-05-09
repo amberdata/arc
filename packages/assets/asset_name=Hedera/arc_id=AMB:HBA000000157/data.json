@@ -1,0 +1,30 @@
+{
+    "assetSymbol": "hbar",
+    "assetName": "Hedera",
+    "assetArcId": "AMB:HBA000000157",
+    "website": "https://hedera.com/",
+    "whitePaperUrl": "https://hedera.com/hh_whitepaper_v2.1-20200815.pdf",
+    "classificationTags": [
+        "Proof-of-Stake",
+        "Smart Contract"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Hedera",
+            "address": ""
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hedera/arc_id=AMB:HBA000000157/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hedera/arc_id=AMB:HBA000000157/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hedera/arc_id=AMB:HBA000000157/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hedera/arc_id=AMB:HBA000000157/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hedera/arc_id=AMB:HBA000000157/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hedera/arc_id=AMB:HBA000000157/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hedera/arc_id=AMB:HBA000000157/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hedera/arc_id=AMB:HBA000000157/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hedera/arc_id=AMB:HBA000000157/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:PAR000002430_AMB:EUR000000120",
+        "normalizedPair": "para_eur",
+        "normalizedSymbol": "para",
+        "nativePair": "PARAEUR",
+        "exchange": "kraken",
+        "assetName": "Parallel Finance",
+        "assetArcId": "AMB:PAR000002430",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "para_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PAR000002430_AMB:USD000000949",
+        "normalizedPair": "para_usd",
+        "normalizedSymbol": "para",
+        "nativePair": "PARAUSD",
+        "exchange": "kraken",
+        "assetName": "Parallel Finance",
+        "assetArcId": "AMB:PAR000002430",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "para_usd",
+        "instrumentType": "spot"
+    }
+]

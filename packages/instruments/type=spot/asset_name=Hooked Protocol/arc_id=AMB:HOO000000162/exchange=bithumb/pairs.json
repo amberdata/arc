@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HOO000000162_AMB:KRW000000000",
+        "normalizedPair": "hook_krw",
+        "normalizedSymbol": "hook",
+        "nativePair": "HOOK/KRW",
+        "exchange": "bithumb",
+        "assetName": "Hooked Protocol",
+        "assetArcId": "AMB:HOO000000162",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "hook_krw",
+        "instrumentType": "spot"
+    }
+]

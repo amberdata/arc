@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:IDE000000167_AMB:EUR000000120",
+        "normalizedPair": "idex_eur",
+        "normalizedSymbol": "idex",
+        "nativePair": "IDEXEUR",
+        "exchange": "kraken",
+        "assetName": "IDEX",
+        "assetArcId": "AMB:IDE000000167",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "idex_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IDE000000167_AMB:USD000000949",
+        "normalizedPair": "idex_usd",
+        "normalizedSymbol": "idex",
+        "nativePair": "IDEXUSD",
+        "exchange": "kraken",
+        "assetName": "IDEX",
+        "assetArcId": "AMB:IDE000000167",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "idex_usd",
+        "instrumentType": "spot"
+    }
+]

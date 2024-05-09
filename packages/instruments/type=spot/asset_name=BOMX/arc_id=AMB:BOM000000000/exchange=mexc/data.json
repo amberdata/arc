@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BOM000000000_AMB:USD000000335",
+        "normalizedPair": "bomx_usdt",
+        "normalizedSymbol": "bomx",
+        "nativePair": "BOMXUSDT",
+        "exchange": "mexc",
+        "assetName": "BOMX",
+        "assetArcId": "AMB:BOM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bomx_usdt",
+        "instrumentType": "spot"
+    }
+]

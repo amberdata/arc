@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOX000000833_AMB:USD000000335",
+        "normalizedPair": "tox_usdt",
+        "normalizedSymbol": "tox",
+        "nativePair": "TOXUSDT",
+        "exchange": "mexc",
+        "assetName": "INTOverse",
+        "assetArcId": "AMB:TOX000000833",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tox_usdt",
+        "instrumentType": "spot"
+    }
+]

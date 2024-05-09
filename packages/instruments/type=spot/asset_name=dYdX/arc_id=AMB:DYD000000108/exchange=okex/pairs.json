@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:DYD000000108_AMB:BTC000000000",
+        "normalizedPair": "dydx_btc",
+        "normalizedSymbol": "dydx",
+        "nativePair": "DYDX-BTC",
+        "exchange": "okex",
+        "assetName": "dYdX",
+        "assetArcId": "AMB:DYD000000108",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "dydx_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DYD000000108_AMB:USD000000333",
+        "normalizedPair": "dydx_usdc",
+        "normalizedSymbol": "dydx",
+        "nativePair": "DYDX-USDC",
+        "exchange": "okex",
+        "assetName": "dYdX",
+        "assetArcId": "AMB:DYD000000108",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "dydx_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DYD000000108_AMB:USD000000335",
+        "normalizedPair": "dydx_usdt",
+        "normalizedSymbol": "dydx",
+        "nativePair": "DYDX-USDT",
+        "exchange": "okex",
+        "assetName": "dYdX",
+        "assetArcId": "AMB:DYD000000108",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dydx_usdt",
+        "instrumentType": "spot"
+    }
+]

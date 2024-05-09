@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:LDO000000189_AMB:BTC000000000",
+        "normalizedPair": "ldo_btc",
+        "normalizedSymbol": "ldo",
+        "nativePair": "LDOBTC",
+        "exchange": "binance",
+        "assetName": "Lido DAO Token",
+        "assetArcId": "AMB:LDO000000189",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ldo_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LDO000000189_AMB:BUS000000067",
+        "normalizedPair": "ldo_busd",
+        "normalizedSymbol": "ldo",
+        "nativePair": "LDOBUSD",
+        "exchange": "binance",
+        "assetName": "Lido DAO Token",
+        "assetArcId": "AMB:LDO000000189",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "ldo_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LDO000000189_AMB:TUS000000326",
+        "normalizedPair": "ldo_tusd",
+        "normalizedSymbol": "ldo",
+        "nativePair": "LDOTUSD",
+        "exchange": "binance",
+        "assetName": "Lido DAO Token",
+        "assetArcId": "AMB:LDO000000189",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "ldo_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LDO000000189_AMB:USD000000335",
+        "normalizedPair": "ldo_usdt",
+        "normalizedSymbol": "ldo",
+        "nativePair": "LDOUSDT",
+        "exchange": "binance",
+        "assetName": "Lido DAO Token",
+        "assetArcId": "AMB:LDO000000189",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ldo_usdt",
+        "instrumentType": "spot"
+    }
+]

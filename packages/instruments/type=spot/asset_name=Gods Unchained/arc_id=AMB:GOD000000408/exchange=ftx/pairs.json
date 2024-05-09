@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GOD000000408_AMB:USD000000949",
+        "normalizedPair": "gods_usd",
+        "normalizedSymbol": "gods",
+        "nativePair": "GODS/USD",
+        "exchange": "ftx",
+        "assetName": "Gods Unchained",
+        "assetArcId": "AMB:GOD000000408",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "gods_usd",
+        "instrumentType": "spot"
+    }
+]

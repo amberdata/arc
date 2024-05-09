@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:AMP000000881_AMB:USD000000335",
+        "normalizedPair": "ampl_usdt",
+        "normalizedSymbol": "ampl",
+        "nativePair": "AMPLUSDT",
+        "exchange": "mexc",
+        "assetName": "Ampleforth",
+        "assetArcId": "AMB:AMP000000881",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ampl_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AMP000000881_AMB:ETH000000000",
+        "normalizedPair": "ampl_eth",
+        "normalizedSymbol": "ampl",
+        "nativePair": "AMPLETH",
+        "exchange": "mexc",
+        "assetName": "Ampleforth",
+        "assetArcId": "AMB:AMP000000881",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "ampl_eth",
+        "instrumentType": "spot"
+    }
+]

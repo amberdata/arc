@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BIA000001197_AMB:USD000000335",
+        "normalizedPair": "biao_usdt",
+        "normalizedSymbol": "biao",
+        "nativePair": "BIAO_USDT",
+        "exchange": "poloniex",
+        "assetName": "Biaocoin",
+        "assetArcId": "AMB:BIA000001197",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "biao_usdt",
+        "instrumentType": "spot"
+    }
+]

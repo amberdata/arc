@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:SOL000000298_AMB:BTC000000000",
+        "normalizedPair": "sol_btc",
+        "normalizedSymbol": "sol",
+        "nativePair": "SOL/BTC",
+        "exchange": "ftx",
+        "assetName": "Solana",
+        "assetArcId": "AMB:SOL000000298",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "sol_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SOL000000298_AMB:JPY000000903",
+        "normalizedPair": "sol_jpy",
+        "normalizedSymbol": "sol",
+        "nativePair": "SOL/JPY",
+        "exchange": "ftx",
+        "assetName": "Solana",
+        "assetArcId": "AMB:SOL000000298",
+        "quoteArcId": "AMB:JPY000000903",
+        "collectedPair": "sol_jpy",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SOL000000298_AMB:TRY000000940",
+        "normalizedPair": "sol_try",
+        "normalizedSymbol": "sol",
+        "nativePair": "SOL/TRY",
+        "exchange": "ftx",
+        "assetName": "Solana",
+        "assetArcId": "AMB:SOL000000298",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "sol_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SOL000000298_AMB:USD000000949",
+        "normalizedPair": "sol_usd",
+        "normalizedSymbol": "sol",
+        "nativePair": "SOL/USD",
+        "exchange": "ftx",
+        "assetName": "Solana",
+        "assetArcId": "AMB:SOL000000298",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sol_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SOL000000298_AMB:USD000000335",
+        "normalizedPair": "sol_usdt",
+        "normalizedSymbol": "sol",
+        "nativePair": "SOL/USDT",
+        "exchange": "ftx",
+        "assetName": "Solana",
+        "assetArcId": "AMB:SOL000000298",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sol_usdt",
+        "instrumentType": "spot"
+    }
+]

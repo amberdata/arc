@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TFI000002978_AMB:USD000000335",
+        "normalizedPair": "tfi_usdt",
+        "normalizedSymbol": "tfi",
+        "nativePair": "TFIUSDT",
+        "exchange": "mexc",
+        "assetName": "TrustFi Network",
+        "assetArcId": "AMB:TFI000002978",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tfi_usdt",
+        "instrumentType": "spot"
+    }
+]

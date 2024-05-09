@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POG000001286_AMB:USD000000335",
+        "normalizedPair": "pogai_usdt",
+        "normalizedSymbol": "pogai",
+        "nativePair": "POGAIUSDT",
+        "exchange": "mexc",
+        "assetName": "POGAI",
+        "assetArcId": "AMB:POG000001286",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pogai_usdt",
+        "instrumentType": "spot"
+    }
+]

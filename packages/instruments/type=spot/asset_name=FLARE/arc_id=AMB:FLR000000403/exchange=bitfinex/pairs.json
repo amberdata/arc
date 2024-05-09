@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:FLR000000403_AMB:USD000000949",
+        "normalizedPair": "flr_usd",
+        "normalizedSymbol": "flr",
+        "nativePair": "tFLRUSD",
+        "exchange": "bitfinex",
+        "assetName": "FLARE",
+        "assetArcId": "AMB:FLR000000403",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "flr_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FLR000000403_AMB:USD000000335",
+        "normalizedPair": "flr_usdt",
+        "normalizedSymbol": "flr",
+        "nativePair": "tFLRUST",
+        "exchange": "bitfinex",
+        "assetName": "FLARE",
+        "assetArcId": "AMB:FLR000000403",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "flr_usdt",
+        "instrumentType": "spot"
+    }
+]

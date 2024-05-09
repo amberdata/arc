@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "shopx",
+    "assetName": "SHOPX",
+    "assetArcId": "AMB:SHO000002181",
+    "website": "https://shopx.co/",
+    "whitePaperUrl": "/how-to-buy/SHOPX?utm_source=mexc&utm_medium=tokenifoSHOPX&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SHOPX/arc_id=AMB:SHO000002181/exchange=mexc/data.json"
+        ]
+    }
+}

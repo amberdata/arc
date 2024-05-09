@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "heartai",
+    "assetName": "Heart AI",
+    "assetArcId": "AMB:HEA000003310",
+    "website": "https://www.heart-ai.cc/",
+    "whitePaperUrl": "/how-to-buy/HEARTAI?utm_source=mexc&utm_medium=tokenifoHEARTAI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Heart AI/arc_id=AMB:HEA000003310/exchange=mexc/data.json"
+        ]
+    }
+}

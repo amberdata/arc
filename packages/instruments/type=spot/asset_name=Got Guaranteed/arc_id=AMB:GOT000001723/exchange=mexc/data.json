@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GOT000001723_AMB:USD000000335",
+        "normalizedPair": "gotg_usdt",
+        "normalizedSymbol": "gotg",
+        "nativePair": "GOTGUSDT",
+        "exchange": "mexc",
+        "assetName": "Got Guaranteed",
+        "assetArcId": "AMB:GOT000001723",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gotg_usdt",
+        "instrumentType": "spot"
+    }
+]

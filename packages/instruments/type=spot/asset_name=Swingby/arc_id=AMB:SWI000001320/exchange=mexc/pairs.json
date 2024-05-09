@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SWI000001320_AMB:USD000000335",
+        "normalizedPair": "swingby_usdt",
+        "normalizedSymbol": "swingby",
+        "nativePair": "SWINGBYUSDT",
+        "exchange": "mexc",
+        "assetName": "Swingby",
+        "assetArcId": "AMB:SWI000001320",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "swingby_usdt",
+        "instrumentType": "spot"
+    }
+]

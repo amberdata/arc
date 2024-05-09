@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ATM000000034_AMB:USD000000841",
+        "normalizedPair": "atm_usdd",
+        "normalizedSymbol": "atm",
+        "nativePair": "ATM_USDD",
+        "exchange": "poloniex",
+        "assetName": "Atletico De Madrid Fan Token",
+        "assetArcId": "AMB:ATM000000034",
+        "quoteArcId": "AMB:USD000000841",
+        "collectedPair": "atm_usdd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ATM000000034_AMB:USD000000335",
+        "normalizedPair": "atm_usdt",
+        "normalizedSymbol": "atm",
+        "nativePair": "ATM_USDT",
+        "exchange": "poloniex",
+        "assetName": "Atletico De Madrid Fan Token",
+        "assetArcId": "AMB:ATM000000034",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "atm_usdt",
+        "instrumentType": "spot"
+    }
+]

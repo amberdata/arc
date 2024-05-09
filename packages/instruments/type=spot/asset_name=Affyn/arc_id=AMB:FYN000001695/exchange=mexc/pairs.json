@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FYN000001695_AMB:USD000000335",
+        "normalizedPair": "fyn_usdt",
+        "normalizedSymbol": "fyn",
+        "nativePair": "FYNUSDT",
+        "exchange": "mexc",
+        "assetName": "Affyn",
+        "assetArcId": "AMB:FYN000001695",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fyn_usdt",
+        "instrumentType": "spot"
+    }
+]

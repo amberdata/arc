@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FRT000001688_AMB:USD000000335",
+        "normalizedPair": "frtn_usdt",
+        "normalizedSymbol": "frtn",
+        "nativePair": "FRTNUSDT",
+        "exchange": "mexc",
+        "assetName": "EbisusBay Fortune",
+        "assetArcId": "AMB:FRT000001688",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "frtn_usdt",
+        "instrumentType": "spot"
+    }
+]

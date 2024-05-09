@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LSK000000199_AMB:BTC000000000",
+        "normalizedPair": "lsk_btc",
+        "normalizedSymbol": "lsk",
+        "nativePair": "LSK_BTC",
+        "exchange": "poloniex",
+        "assetName": "Lisk",
+        "assetArcId": "AMB:LSK000000199",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "lsk_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LSK000000199_AMB:USD000000335",
+        "normalizedPair": "lsk_usdt",
+        "normalizedSymbol": "lsk",
+        "nativePair": "LSK_USDT",
+        "exchange": "poloniex",
+        "assetName": "Lisk",
+        "assetArcId": "AMB:LSK000000199",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lsk_usdt",
+        "instrumentType": "spot"
+    }
+]

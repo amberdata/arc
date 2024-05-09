@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SEA000000798_AMB:USD000000335",
+        "normalizedPair": "sean_usdt",
+        "normalizedSymbol": "sean",
+        "nativePair": "seanusdt",
+        "exchange": "huobi",
+        "assetName": "Starfish Finance",
+        "assetArcId": "AMB:SEA000000798",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sean_usdt",
+        "instrumentType": "spot"
+    }
+]

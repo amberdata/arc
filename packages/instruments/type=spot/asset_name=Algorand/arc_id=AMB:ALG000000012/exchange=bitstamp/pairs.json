@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:BTC000000000",
+        "normalizedPair": "algo_btc",
+        "normalizedSymbol": "algo",
+        "nativePair": "algobtc",
+        "exchange": "bitstamp",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "algo_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:EUR000000120",
+        "normalizedPair": "algo_eur",
+        "normalizedSymbol": "algo",
+        "nativePair": "algoeur",
+        "exchange": "bitstamp",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "algo_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:USD000000949",
+        "normalizedPair": "algo_usd",
+        "normalizedSymbol": "algo",
+        "nativePair": "algousd",
+        "exchange": "bitstamp",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "algo_usd",
+        "instrumentType": "spot"
+    }
+]

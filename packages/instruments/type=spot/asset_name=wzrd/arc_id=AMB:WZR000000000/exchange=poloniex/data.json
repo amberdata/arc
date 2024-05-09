@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WZR000000000_AMB:USD000000335",
+        "normalizedPair": "wzrd_usdt",
+        "normalizedSymbol": "wzrd",
+        "nativePair": "WZRD_USDT",
+        "exchange": "poloniex",
+        "assetName": "wzrd",
+        "assetArcId": "AMB:WZR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wzrd_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "thl",
+    "assetName": "Thala",
+    "assetArcId": "AMB:THL000002840",
+    "website": "https://www.thala.fi/",
+    "whitePaperUrl": "https://docs.thala.fi/thala-protocol-design/",
+    "classificationTags": [
+        "Real World Asset",
+        "Stablecoin"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Thala/arc_id=AMB:THL000002840/exchange=mexc/data.json"
+        ]
+    }
+}

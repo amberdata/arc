@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DVT000001619_AMB:USD000000335",
+        "normalizedPair": "dvt_usdt",
+        "normalizedSymbol": "dvt",
+        "nativePair": "DVTUSDT",
+        "exchange": "mexc",
+        "assetName": "SafeStake",
+        "assetArcId": "AMB:DVT000001619",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dvt_usdt",
+        "instrumentType": "spot"
+    }
+]

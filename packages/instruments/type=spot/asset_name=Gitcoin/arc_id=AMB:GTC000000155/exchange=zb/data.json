@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:GTC000000155_AMB:QCA000000000",
+        "normalizedPair": "gtc_qc",
+        "normalizedSymbol": "gtc",
+        "nativePair": "gtc_qc",
+        "exchange": "zb",
+        "assetName": "Gitcoin",
+        "assetArcId": "AMB:GTC000000155",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "gtc_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GTC000000155_AMB:USD000000335",
+        "normalizedPair": "gtc_usdt",
+        "normalizedSymbol": "gtc",
+        "nativePair": "gtc_usdt",
+        "exchange": "zb",
+        "assetName": "Gitcoin",
+        "assetArcId": "AMB:GTC000000155",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gtc_usdt",
+        "instrumentType": "spot"
+    }
+]

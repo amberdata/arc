@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HAR000001244_AMB:USD000000335",
+        "normalizedPair": "harry_usdt",
+        "normalizedSymbol": "harry",
+        "nativePair": "HARRYUSDT",
+        "exchange": "mexc",
+        "assetName": "HarryPotterObamaSonic10Inu",
+        "assetArcId": "AMB:HAR000001244",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "harry_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HIG000000160_AMB:USD000000949",
+        "normalizedPair": "high_usd",
+        "normalizedSymbol": "high",
+        "nativePair": "HIGH-USD",
+        "exchange": "gdax",
+        "assetName": "Highstreet",
+        "assetArcId": "AMB:HIG000000160",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "high_usd",
+        "instrumentType": "spot"
+    }
+]

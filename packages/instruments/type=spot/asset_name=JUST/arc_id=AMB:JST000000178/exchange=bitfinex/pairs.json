@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:JST000000178_AMB:BTC000000000",
+        "normalizedPair": "jst_btc",
+        "normalizedSymbol": "jst",
+        "nativePair": "tJSTBTC",
+        "exchange": "bitfinex",
+        "assetName": "JUST",
+        "assetArcId": "AMB:JST000000178",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "jst_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:JST000000178_AMB:USD000000949",
+        "normalizedPair": "jst_usd",
+        "normalizedSymbol": "jst",
+        "nativePair": "tJSTUSD",
+        "exchange": "bitfinex",
+        "assetName": "JUST",
+        "assetArcId": "AMB:JST000000178",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "jst_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:JST000000178_AMB:USD000000335",
+        "normalizedPair": "jst_usdt",
+        "normalizedSymbol": "jst",
+        "nativePair": "tJSTUST",
+        "exchange": "bitfinex",
+        "assetName": "JUST",
+        "assetArcId": "AMB:JST000000178",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jst_usdt",
+        "instrumentType": "spot"
+    }
+]

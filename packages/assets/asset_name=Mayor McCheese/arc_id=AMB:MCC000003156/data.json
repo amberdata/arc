@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "mccheese",
+    "assetName": "Mayor McCheese",
+    "assetArcId": "AMB:MCC000003156",
+    "website": "https://mcchees.com/",
+    "whitePaperUrl": "/how-to-buy/MCCHEESE?utm_source=mexc&utm_medium=tokenifoMCCHEESE&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mayor McCheese/arc_id=AMB:MCC000003156/exchange=mexc/data.json"
+        ]
+    }
+}

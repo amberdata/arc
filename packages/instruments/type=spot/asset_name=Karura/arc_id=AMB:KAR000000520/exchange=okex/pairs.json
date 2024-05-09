@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KAR000000520_AMB:USD000000335",
+        "normalizedPair": "kar_usdt",
+        "normalizedSymbol": "kar",
+        "nativePair": "KAR-USDT",
+        "exchange": "okex",
+        "assetName": "Karura",
+        "assetArcId": "AMB:KAR000000520",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kar_usdt",
+        "instrumentType": "spot"
+    }
+]

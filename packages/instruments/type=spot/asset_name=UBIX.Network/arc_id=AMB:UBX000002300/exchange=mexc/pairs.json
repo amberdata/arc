@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UBX000002300_AMB:USD000000335",
+        "normalizedPair": "ubx_usdt",
+        "normalizedSymbol": "ubx",
+        "nativePair": "UBXUSDT",
+        "exchange": "mexc",
+        "assetName": "UBIX.Network",
+        "assetArcId": "AMB:UBX000002300",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ubx_usdt",
+        "instrumentType": "spot"
+    }
+]

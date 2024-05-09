@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HUS000001766_AMB:USD000000335",
+        "normalizedPair": "husl_usdt",
+        "normalizedSymbol": "husl",
+        "nativePair": "HUSLUSDT",
+        "exchange": "mexc",
+        "assetName": "The Hustle App",
+        "assetArcId": "AMB:HUS000001766",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "husl_usdt",
+        "instrumentType": "spot"
+    }
+]

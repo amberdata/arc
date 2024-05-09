@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "elg",
+    "assetName": "EscoinToken",
+    "assetArcId": "AMB:ELG000000000",
+    "website": "https://escoin.ee/",
+    "whitePaperUrl": "https://escoin.ee/WhitePaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EscoinToken/arc_id=AMB:ELG000000000/exchange=mexc/data.json"
+        ]
+    }
+}

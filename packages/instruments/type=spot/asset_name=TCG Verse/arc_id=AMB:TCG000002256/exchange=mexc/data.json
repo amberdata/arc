@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TCG000002256_AMB:USD000000335",
+        "normalizedPair": "tcgc_usdt",
+        "normalizedSymbol": "tcgc",
+        "nativePair": "TCGCUSDT",
+        "exchange": "mexc",
+        "assetName": "TCG Verse",
+        "assetArcId": "AMB:TCG000002256",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tcgc_usdt",
+        "instrumentType": "spot"
+    }
+]

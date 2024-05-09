@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:XEM000000358_AMB:BTC000000000",
+        "normalizedPair": "xem_btc",
+        "normalizedSymbol": "xem",
+        "nativePair": "XEM_BTC",
+        "exchange": "poloniex",
+        "assetName": "NEM",
+        "assetArcId": "AMB:XEM000000358",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "xem_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XEM000000358_AMB:USD000000333",
+        "normalizedPair": "xem_usdc",
+        "normalizedSymbol": "xem",
+        "nativePair": "XEM_USDC",
+        "exchange": "poloniex",
+        "assetName": "NEM",
+        "assetArcId": "AMB:XEM000000358",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "xem_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XEM000000358_AMB:USD000000335",
+        "normalizedPair": "xem_usdt",
+        "normalizedSymbol": "xem",
+        "nativePair": "XEM_USDT",
+        "exchange": "poloniex",
+        "assetName": "NEM",
+        "assetArcId": "AMB:XEM000000358",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xem_usdt",
+        "instrumentType": "spot"
+    }
+]

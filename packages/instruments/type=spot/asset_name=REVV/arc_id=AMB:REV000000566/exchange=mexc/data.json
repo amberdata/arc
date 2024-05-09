@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:REV000000566_AMB:USD000000335",
+        "normalizedPair": "revv_usdt",
+        "normalizedSymbol": "revv",
+        "nativePair": "REVVUSDT",
+        "exchange": "mexc",
+        "assetName": "REVV",
+        "assetArcId": "AMB:REV000000566",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "revv_usdt",
+        "instrumentType": "spot"
+    }
+]

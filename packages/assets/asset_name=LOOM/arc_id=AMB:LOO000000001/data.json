@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "loomsol",
+    "assetName": "LOOM",
+    "assetArcId": "AMB:LOO000000001",
+    "website": "https://loomprotocol.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "BshVPBvgqSZ9UAsgEaLVnSteGqUR7nLfxfXn6URM4MMb"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=LOOM/arc_id=AMB:LOO000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

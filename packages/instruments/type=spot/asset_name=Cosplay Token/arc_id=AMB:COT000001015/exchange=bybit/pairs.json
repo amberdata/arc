@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COT000001015_AMB:USD000000335",
+        "normalizedPair": "cot_usdt",
+        "normalizedSymbol": "cot",
+        "nativePair": "COTUSDT",
+        "exchange": "bybit",
+        "assetName": "Cosplay Token",
+        "assetArcId": "AMB:COT000001015",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cot_usdt",
+        "instrumentType": "spot"
+    }
+]

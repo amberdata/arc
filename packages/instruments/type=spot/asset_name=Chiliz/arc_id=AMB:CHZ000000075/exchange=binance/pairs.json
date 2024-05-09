@@ -1,0 +1,86 @@
+[
+    {
+        "arcPairId": "AMB:CHZ000000075_AMB:BNB000000055",
+        "normalizedPair": "chz_bnb",
+        "normalizedSymbol": "chz",
+        "nativePair": "CHZBNB",
+        "exchange": "binance",
+        "assetName": "Chiliz",
+        "assetArcId": "AMB:CHZ000000075",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "chz_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CHZ000000075_AMB:BRL000002486",
+        "normalizedPair": "chz_brl",
+        "normalizedSymbol": "chz",
+        "nativePair": "CHZBRL",
+        "exchange": "binance",
+        "assetName": "Chiliz",
+        "assetArcId": "AMB:CHZ000000075",
+        "quoteArcId": "AMB:BRL000002486",
+        "collectedPair": "chz_brl",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CHZ000000075_AMB:BTC000000000",
+        "normalizedPair": "chz_btc",
+        "normalizedSymbol": "chz",
+        "nativePair": "CHZBTC",
+        "exchange": "binance",
+        "assetName": "Chiliz",
+        "assetArcId": "AMB:CHZ000000075",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "chz_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CHZ000000075_AMB:BUS000000067",
+        "normalizedPair": "chz_busd",
+        "normalizedSymbol": "chz",
+        "nativePair": "CHZBUSD",
+        "exchange": "binance",
+        "assetName": "Chiliz",
+        "assetArcId": "AMB:CHZ000000075",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "chz_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CHZ000000075_AMB:EUR000000120",
+        "normalizedPair": "chz_eur",
+        "normalizedSymbol": "chz",
+        "nativePair": "CHZEUR",
+        "exchange": "binance",
+        "assetName": "Chiliz",
+        "assetArcId": "AMB:CHZ000000075",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "chz_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CHZ000000075_AMB:TRY000000940",
+        "normalizedPair": "chz_try",
+        "normalizedSymbol": "chz",
+        "nativePair": "CHZTRY",
+        "exchange": "binance",
+        "assetName": "Chiliz",
+        "assetArcId": "AMB:CHZ000000075",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "chz_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CHZ000000075_AMB:USD000000335",
+        "normalizedPair": "chz_usdt",
+        "normalizedSymbol": "chz",
+        "nativePair": "CHZUSDT",
+        "exchange": "binance",
+        "assetName": "Chiliz",
+        "assetArcId": "AMB:CHZ000000075",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "chz_usdt",
+        "instrumentType": "spot"
+    }
+]

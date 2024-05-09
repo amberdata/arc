@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SRO000000000_AMB:USD000000335",
+        "normalizedPair": "sroc_usdt",
+        "normalizedSymbol": "sroc",
+        "nativePair": "SROCUSDT",
+        "exchange": "mexc",
+        "assetName": "SROC",
+        "assetArcId": "AMB:SRO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sroc_usdt",
+        "instrumentType": "spot"
+    }
+]

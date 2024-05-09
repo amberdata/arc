@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:UMA000000330_AMB:EUR000000120",
+        "normalizedPair": "uma_eur",
+        "normalizedSymbol": "uma",
+        "nativePair": "UMAEUR",
+        "exchange": "kraken",
+        "assetName": "UMA",
+        "assetArcId": "AMB:UMA000000330",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "uma_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:UMA000000330_AMB:USD000000949",
+        "normalizedPair": "uma_usd",
+        "normalizedSymbol": "uma",
+        "nativePair": "UMAUSD",
+        "exchange": "kraken",
+        "assetName": "UMA",
+        "assetArcId": "AMB:UMA000000330",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "uma_usd",
+        "instrumentType": "spot"
+    }
+]

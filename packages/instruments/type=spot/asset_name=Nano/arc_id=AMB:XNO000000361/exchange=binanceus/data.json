@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XNO000000361_AMB:USD000000335",
+        "normalizedPair": "xno_usdt",
+        "normalizedSymbol": "xno",
+        "nativePair": "XNOUSDT",
+        "exchange": "binanceus",
+        "assetName": "Nano",
+        "assetArcId": "AMB:XNO000000361",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xno_usdt",
+        "instrumentType": "spot"
+    }
+]

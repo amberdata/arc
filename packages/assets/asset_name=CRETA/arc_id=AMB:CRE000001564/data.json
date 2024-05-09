@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "creta",
+    "assetName": "CRETA",
+    "assetArcId": "AMB:CRE000001564",
+    "website": "https://creta.world/",
+    "whitePaperUrl": "https://creta--bucket.s3.ap-northeast-2.amazonaws.com/creta/asset/CRETA_WHITEPAPER%20(4th%20Apr%202022)%20v1.4.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

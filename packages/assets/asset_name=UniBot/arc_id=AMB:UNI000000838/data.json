@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "unibot",
+    "assetName": "UniBot",
+    "assetArcId": "AMB:UNI000000838",
+    "website": "https://unibot.app/",
+    "whitePaperUrl": "https://learn.unibot.app/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=UniBot/arc_id=AMB:UNI000000838/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=UniBot/arc_id=AMB:UNI000000838/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=UniBot/arc_id=AMB:UNI000000838/exchange=mexc/data.json"
+        ]
+    }
+}

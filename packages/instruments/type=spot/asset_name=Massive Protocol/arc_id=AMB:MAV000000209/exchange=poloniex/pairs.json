@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAV000000209_AMB:USD000000335",
+        "normalizedPair": "mav_usdt",
+        "normalizedSymbol": "mav",
+        "nativePair": "MAV_USDT",
+        "exchange": "poloniex",
+        "assetName": "Massive Protocol",
+        "assetArcId": "AMB:MAV000000209",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mav_usdt",
+        "instrumentType": "spot"
+    }
+]

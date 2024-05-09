@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JDA000001805_AMB:USD000000335",
+        "normalizedPair": "jd_usdt",
+        "normalizedSymbol": "jd",
+        "nativePair": "JDUSDT",
+        "exchange": "mexc",
+        "assetName": "Jadetoken",
+        "assetArcId": "AMB:JDA000001805",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jd_usdt",
+        "instrumentType": "spot"
+    }
+]

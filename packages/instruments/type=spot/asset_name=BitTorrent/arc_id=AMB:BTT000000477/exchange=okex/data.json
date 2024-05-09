@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BTT000000477_AMB:USD000000335",
+        "normalizedPair": "btt_usdt",
+        "normalizedSymbol": "btt",
+        "nativePair": "BTT-USDT",
+        "exchange": "okex",
+        "assetName": "BitTorrent",
+        "assetArcId": "AMB:BTT000000477",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "btt_usdt",
+        "instrumentType": "spot"
+    }
+]

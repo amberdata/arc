@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PIV000002075_AMB:USD000000335",
+        "normalizedPair": "pivn_usdt",
+        "normalizedSymbol": "pivn",
+        "nativePair": "PIVNUSDT",
+        "exchange": "mexc",
+        "assetName": "PIVN",
+        "assetArcId": "AMB:PIV000002075",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pivn_usdt",
+        "instrumentType": "spot"
+    }
+]

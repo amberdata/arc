@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "nati",
+    "assetName": "IlluminatiCoin",
+    "assetArcId": "AMB:NAT000002830",
+    "website": "https://naticoin.xyz/#",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x0B9aE6b1D4f0EEeD904D1CEF68b9bd47499f3fFF"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=IlluminatiCoin/arc_id=AMB:NAT000002830/exchange=poloniex/data.json"
+        ]
+    }
+}

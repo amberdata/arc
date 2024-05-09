@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STO000000304_AMB:KRW000000000",
+        "normalizedPair": "storj_krw",
+        "normalizedSymbol": "storj",
+        "nativePair": "STORJ/KRW",
+        "exchange": "bithumb",
+        "assetName": "Storj",
+        "assetArcId": "AMB:STO000000304",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "storj_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RVF000002147_AMB:USD000000335",
+        "normalizedPair": "rvf_usdt",
+        "normalizedSymbol": "rvf",
+        "nativePair": "RVFUSDT",
+        "exchange": "mexc",
+        "assetName": "RocketX exchange",
+        "assetArcId": "AMB:RVF000002147",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rvf_usdt",
+        "instrumentType": "spot"
+    }
+]

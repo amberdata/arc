@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SCT000002161_AMB:USD000000335",
+        "normalizedPair": "sct_usdt",
+        "normalizedSymbol": "sct",
+        "nativePair": "SCTUSDT",
+        "exchange": "mexc",
+        "assetName": "SuperCells Token",
+        "assetArcId": "AMB:SCT000002161",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sct_usdt",
+        "instrumentType": "spot"
+    }
+]

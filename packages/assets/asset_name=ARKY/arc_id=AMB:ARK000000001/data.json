@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "arky",
+    "assetName": "ARKY",
+    "assetArcId": "AMB:ARK000000001",
+    "website": "https://www.arky-coin.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x9727eaf447203be268e5d471b6503bf47a71ea72"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ARKY/arc_id=AMB:ARK000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

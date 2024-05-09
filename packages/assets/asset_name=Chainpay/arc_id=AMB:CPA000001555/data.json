@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cpay",
+    "assetName": "Chainpay",
+    "assetArcId": "AMB:CPA000001555",
+    "website": "https://cennz.net/",
+    "whitePaperUrl": "https://centrality.ai/wp-content/uploads/2018/11/Centrality_Whitepaper_06112018.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainpay/arc_id=AMB:CPA000001555/exchange=mexc/data.json"
+        ]
+    }
+}

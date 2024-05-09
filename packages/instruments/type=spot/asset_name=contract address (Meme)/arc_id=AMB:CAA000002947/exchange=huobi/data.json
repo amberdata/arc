@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CAA000002947_AMB:USD000000335",
+        "normalizedPair": "ca_usdt",
+        "normalizedSymbol": "ca",
+        "nativePair": "causdt",
+        "exchange": "huobi",
+        "assetName": "contract address (Meme)",
+        "assetArcId": "AMB:CAA000002947",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ca_usdt",
+        "instrumentType": "spot"
+    }
+]

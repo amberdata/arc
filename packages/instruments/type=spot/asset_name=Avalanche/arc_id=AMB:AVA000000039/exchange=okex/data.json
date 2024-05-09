@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:AVA000000039_AMB:BTC000000000",
+        "normalizedPair": "avax_btc",
+        "normalizedSymbol": "avax",
+        "nativePair": "AVAX-BTC",
+        "exchange": "okex",
+        "assetName": "Avalanche",
+        "assetArcId": "AMB:AVA000000039",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "avax_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AVA000000039_AMB:USD000000333",
+        "normalizedPair": "avax_usdc",
+        "normalizedSymbol": "avax",
+        "nativePair": "AVAX-USDC",
+        "exchange": "okex",
+        "assetName": "Avalanche",
+        "assetArcId": "AMB:AVA000000039",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "avax_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AVA000000039_AMB:USD000000335",
+        "normalizedPair": "avax_usdt",
+        "normalizedSymbol": "avax",
+        "nativePair": "AVAX-USDT",
+        "exchange": "okex",
+        "assetName": "Avalanche",
+        "assetArcId": "AMB:AVA000000039",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "avax_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AVA000000039_AMB:EUR000000120",
+        "normalizedPair": "avax_eur",
+        "normalizedSymbol": "avax",
+        "nativePair": "AVAX-EUR",
+        "exchange": "okex",
+        "assetName": "Avalanche",
+        "assetArcId": "AMB:AVA000000039",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "avax_eur",
+        "instrumentType": "spot"
+    }
+]

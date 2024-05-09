@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "hon",
+    "assetName": "Soul Society",
+    "assetArcId": "AMB:HON000002961",
+    "website": "https://www.soulsociety.gg/",
+    "whitePaperUrl": "/how-to-buy/HON?utm_source=mexc&utm_medium=tokenifoHON&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Soul Society/arc_id=AMB:HON000002961/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Soul Society/arc_id=AMB:HON000002961/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "assetSymbol": "bake",
+    "assetName": "BakeryToken",
+    "assetArcId": "AMB:BAK000000042",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance",
+        "Proof-of-Stake",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BakeryToken/arc_id=AMB:BAK000000042/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BakeryToken/arc_id=AMB:BAK000000042/exchange=binance/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SUS000000311_AMB:USD000000335",
+        "normalizedPair": "sushi_usdt",
+        "normalizedSymbol": "sushi",
+        "nativePair": "SUSHIUSDT",
+        "exchange": "bybit",
+        "assetName": "SushiSwap",
+        "assetArcId": "AMB:SUS000000311",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sushi_usdt",
+        "instrumentType": "spot"
+    }
+]

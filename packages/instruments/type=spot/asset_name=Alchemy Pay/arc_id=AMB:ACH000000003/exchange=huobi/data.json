@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:ACH000000003_AMB:BTC000000000",
+        "normalizedPair": "ach_btc",
+        "normalizedSymbol": "ach",
+        "nativePair": "achbtc",
+        "exchange": "huobi",
+        "assetName": "Alchemy Pay",
+        "assetArcId": "AMB:ACH000000003",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ach_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ACH000000003_AMB:ETH000000000",
+        "normalizedPair": "ach_eth",
+        "normalizedSymbol": "ach",
+        "nativePair": "acheth",
+        "exchange": "huobi",
+        "assetName": "Alchemy Pay",
+        "assetArcId": "AMB:ACH000000003",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "ach_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ACH000000003_AMB:USD000000335",
+        "normalizedPair": "ach_usdt",
+        "normalizedSymbol": "ach",
+        "nativePair": "achusdt",
+        "exchange": "huobi",
+        "assetName": "Alchemy Pay",
+        "assetArcId": "AMB:ACH000000003",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ach_usdt",
+        "instrumentType": "spot"
+    }
+]

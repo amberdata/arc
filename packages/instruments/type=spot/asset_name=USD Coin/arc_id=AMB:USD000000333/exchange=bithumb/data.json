@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:USD000000333_AMB:KRW000000000",
+        "normalizedPair": "usdc_krw",
+        "normalizedSymbol": "usdc",
+        "nativePair": "USDC/KRW",
+        "exchange": "bithumb",
+        "assetName": "USD Coin",
+        "assetArcId": "AMB:USD000000333",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "usdc_krw",
+        "instrumentType": "spot"
+    }
+]

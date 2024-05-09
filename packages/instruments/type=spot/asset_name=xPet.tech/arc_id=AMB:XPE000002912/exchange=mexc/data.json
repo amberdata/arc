@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XPE000002912_AMB:USD000000335",
+        "normalizedPair": "xpet_usdt",
+        "normalizedSymbol": "xpet",
+        "nativePair": "XPETUSDT",
+        "exchange": "mexc",
+        "assetName": "xPet.tech",
+        "assetArcId": "AMB:XPE000002912",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xpet_usdt",
+        "instrumentType": "spot"
+    }
+]

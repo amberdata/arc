@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SRC000002851_AMB:USD000000335",
+        "normalizedPair": "src_usdt",
+        "normalizedSymbol": "src",
+        "nativePair": "SRCUSDT",
+        "exchange": "mexc",
+        "assetName": "Simracer Coin",
+        "assetArcId": "AMB:SRC000002851",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "src_usdt",
+        "instrumentType": "spot"
+    }
+]

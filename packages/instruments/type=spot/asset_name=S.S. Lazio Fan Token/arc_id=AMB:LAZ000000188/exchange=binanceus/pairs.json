@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LAZ000000188_AMB:USD000000335",
+        "normalizedPair": "lazio_usdt",
+        "normalizedSymbol": "lazio",
+        "nativePair": "LAZIOUSDT",
+        "exchange": "binanceus",
+        "assetName": "S.S. Lazio Fan Token",
+        "assetArcId": "AMB:LAZ000000188",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lazio_usdt",
+        "instrumentType": "spot"
+    }
+]

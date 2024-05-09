@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WIF000000598_AMB:USD000000335",
+        "normalizedPair": "wifi_usdt",
+        "normalizedSymbol": "wifi",
+        "nativePair": "WIFI-USDT",
+        "exchange": "okex",
+        "assetName": "WiFi Map",
+        "assetArcId": "AMB:WIF000000598",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wifi_usdt",
+        "instrumentType": "spot"
+    }
+]

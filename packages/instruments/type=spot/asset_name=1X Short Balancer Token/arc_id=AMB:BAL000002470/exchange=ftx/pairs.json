@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAL000002470_AMB:USD000000949",
+        "normalizedPair": "balhedge_usd",
+        "normalizedSymbol": "balhedge",
+        "nativePair": "BALHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short Balancer Token",
+        "assetArcId": "AMB:BAL000002470",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "balhedge_usd",
+        "instrumentType": "spot"
+    }
+]

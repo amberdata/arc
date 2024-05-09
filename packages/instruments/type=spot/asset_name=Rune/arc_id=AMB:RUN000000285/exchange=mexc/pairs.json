@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RUN000000285_AMB:USD000000335",
+        "normalizedPair": "rune_usdt",
+        "normalizedSymbol": "rune",
+        "nativePair": "RUNEUSDT",
+        "exchange": "mexc",
+        "assetName": "Rune",
+        "assetArcId": "AMB:RUN000000285",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rune_usdt",
+        "instrumentType": "spot"
+    }
+]

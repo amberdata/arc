@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "ooe",
+    "assetName": "OpenOcean",
+    "assetArcId": "AMB:OOE000002022",
+    "website": "https://openocean.finance/",
+    "whitePaperUrl": "https://docs.openocean.finance/",
+    "classificationTags": [
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=OpenOcean/arc_id=AMB:OOE000002022/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAT000003472_AMB:USD000000335",
+        "normalizedPair": "rats2_usdt",
+        "normalizedSymbol": "rats2",
+        "nativePair": "RATS2USDT",
+        "exchange": "mexc",
+        "assetName": "Rats Pro",
+        "assetArcId": "AMB:RAT000003472",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rats2_usdt",
+        "instrumentType": "spot"
+    }
+]

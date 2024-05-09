@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SUT000000000_AMB:USD000000335",
+        "normalizedPair": "sut_usdt",
+        "normalizedSymbol": "sut",
+        "nativePair": "SUTUSDT",
+        "exchange": "mexc",
+        "assetName": "Shaunt Gaming",
+        "assetArcId": "AMB:SUT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sut_usdt",
+        "instrumentType": "spot"
+    }
+]

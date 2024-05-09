@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TUS000000326_AMB:USD000000335",
+        "normalizedPair": "tusd_usdt",
+        "normalizedSymbol": "tusd",
+        "nativePair": "tusdusdt",
+        "exchange": "huobi",
+        "assetName": "TrueUSD",
+        "assetArcId": "AMB:TUS000000326",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tusd_usdt",
+        "instrumentType": "spot"
+    }
+]

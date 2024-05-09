@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ART000002741_AMB:USD000000335",
+        "normalizedPair": "arty_usdt",
+        "normalizedSymbol": "arty",
+        "nativePair": "ARTYUSDT",
+        "exchange": "mexc",
+        "assetName": "Artyfact",
+        "assetArcId": "AMB:ART000002741",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "arty_usdt",
+        "instrumentType": "spot"
+    }
+]

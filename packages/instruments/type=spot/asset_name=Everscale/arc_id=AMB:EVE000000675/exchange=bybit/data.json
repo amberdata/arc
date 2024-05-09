@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EVE000000675_AMB:USD000000335",
+        "normalizedPair": "ever_usdt",
+        "normalizedSymbol": "ever",
+        "nativePair": "EVERUSDT",
+        "exchange": "bybit",
+        "assetName": "Everscale",
+        "assetArcId": "AMB:EVE000000675",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ever_usdt",
+        "instrumentType": "spot"
+    }
+]

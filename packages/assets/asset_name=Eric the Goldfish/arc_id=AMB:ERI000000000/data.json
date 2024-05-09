@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "eric",
+    "assetName": "Eric the Goldfish",
+    "assetArcId": "AMB:ERI000000000",
+    "website": "https://www.ericthe.fish/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOLANA",
+            "address": "LSTo3PdLJmcm7r5gjN1RvR5nATg3UQbDstbXGL6xqQu"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Eric the Goldfish/arc_id=AMB:ERI000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

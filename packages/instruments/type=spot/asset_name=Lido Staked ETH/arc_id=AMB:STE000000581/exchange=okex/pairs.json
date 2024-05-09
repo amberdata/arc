@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:STE000000581_AMB:ETH000000000",
+        "normalizedPair": "steth_eth",
+        "normalizedSymbol": "steth",
+        "nativePair": "STETH-ETH",
+        "exchange": "okex",
+        "assetName": "Lido Staked ETH",
+        "assetArcId": "AMB:STE000000581",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "steth_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:STE000000581_AMB:USD000000335",
+        "normalizedPair": "steth_usdt",
+        "normalizedSymbol": "steth",
+        "nativePair": "STETH-USDT",
+        "exchange": "okex",
+        "assetName": "Lido Staked ETH",
+        "assetArcId": "AMB:STE000000581",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "steth_usdt",
+        "instrumentType": "spot"
+    }
+]

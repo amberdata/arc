@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AVT000000381_AMB:USD000000949",
+        "normalizedPair": "avt_usd",
+        "normalizedSymbol": "avt",
+        "nativePair": "AVT-USD",
+        "exchange": "gdax",
+        "assetName": "Aventus",
+        "assetArcId": "AMB:AVT000000381",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "avt_usd",
+        "instrumentType": "spot"
+    }
+]

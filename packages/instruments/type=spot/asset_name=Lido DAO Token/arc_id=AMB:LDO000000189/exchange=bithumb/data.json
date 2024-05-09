@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LDO000000189_AMB:KRW000000000",
+        "normalizedPair": "ldo_krw",
+        "normalizedSymbol": "ldo",
+        "nativePair": "LDO/KRW",
+        "exchange": "bithumb",
+        "assetName": "Lido DAO Token",
+        "assetArcId": "AMB:LDO000000189",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "ldo_krw",
+        "instrumentType": "spot"
+    }
+]

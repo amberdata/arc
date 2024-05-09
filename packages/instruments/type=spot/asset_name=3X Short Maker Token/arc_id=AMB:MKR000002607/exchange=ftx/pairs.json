@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MKR000002607_AMB:USD000000949",
+        "normalizedPair": "mkrbear_usd",
+        "normalizedSymbol": "mkrbear",
+        "nativePair": "MKRBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short Maker Token",
+        "assetArcId": "AMB:MKR000002607",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mkrbear_usd",
+        "instrumentType": "spot"
+    }
+]

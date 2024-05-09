@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FND000001673_AMB:USD000000335",
+        "normalizedPair": "fnd_usdt",
+        "normalizedSymbol": "fnd",
+        "nativePair": "FNDUSDT",
+        "exchange": "mexc",
+        "assetName": "Rare FND",
+        "assetArcId": "AMB:FND000001673",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fnd_usdt",
+        "instrumentType": "spot"
+    }
+]

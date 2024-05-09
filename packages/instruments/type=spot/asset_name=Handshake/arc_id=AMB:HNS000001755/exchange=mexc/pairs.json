@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HNS000001755_AMB:USD000000335",
+        "normalizedPair": "hns_usdt",
+        "normalizedSymbol": "hns",
+        "nativePair": "HNSUSDT",
+        "exchange": "mexc",
+        "assetName": "Handshake",
+        "assetArcId": "AMB:HNS000001755",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hns_usdt",
+        "instrumentType": "spot"
+    }
+]

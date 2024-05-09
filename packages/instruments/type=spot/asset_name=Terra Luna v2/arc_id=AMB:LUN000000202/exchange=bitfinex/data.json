@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LUN000000202_AMB:USD000000949",
+        "normalizedPair": "luna_usd",
+        "normalizedSymbol": "luna",
+        "nativePair": "tLUNA2:USD",
+        "exchange": "bitfinex",
+        "assetName": "Terra Luna v2",
+        "assetArcId": "AMB:LUN000000202",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "luna_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LUN000000202_AMB:USD000000335",
+        "normalizedPair": "luna_usdt",
+        "normalizedSymbol": "luna",
+        "nativePair": "tLUNA2:UST",
+        "exchange": "bitfinex",
+        "assetName": "Terra Luna v2",
+        "assetArcId": "AMB:LUN000000202",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "luna_usdt",
+        "instrumentType": "spot"
+    }
+]

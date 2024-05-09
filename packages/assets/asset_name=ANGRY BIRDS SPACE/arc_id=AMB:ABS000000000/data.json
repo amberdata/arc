@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "abs",
+    "assetName": "ANGRY BIRDS SPACE",
+    "assetArcId": "AMB:ABS000000000",
+    "website": "https://www.bscangrybirdsspace.com/",
+    "whitePaperUrl": "/how-to-buy/ABS?utm_source=mexc&utm_medium=tokenifoABS&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ANGRY BIRDS SPACE/arc_id=AMB:ABS000000000/exchange=mexc/data.json"
+        ]
+    }
+}

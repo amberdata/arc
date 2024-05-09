@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAD000000564_AMB:USD000000335",
+        "normalizedPair": "radar_usdt",
+        "normalizedSymbol": "radar",
+        "nativePair": "RADAR-USDT",
+        "exchange": "okex",
+        "assetName": "DappRadar",
+        "assetArcId": "AMB:RAD000000564",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "radar_usdt",
+        "instrumentType": "spot"
+    }
+]

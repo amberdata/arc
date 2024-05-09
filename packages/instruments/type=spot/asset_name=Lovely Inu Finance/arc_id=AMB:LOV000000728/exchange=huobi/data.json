@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LOV000000728_AMB:USD000000335",
+        "normalizedPair": "lovely_usdt",
+        "normalizedSymbol": "lovely",
+        "nativePair": "lovelyusdt",
+        "exchange": "huobi",
+        "assetName": "Lovely Inu Finance",
+        "assetArcId": "AMB:LOV000000728",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lovely_usdt",
+        "instrumentType": "spot"
+    }
+]

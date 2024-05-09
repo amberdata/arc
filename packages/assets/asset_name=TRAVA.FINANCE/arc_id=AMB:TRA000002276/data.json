@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "trava",
+    "assetName": "TRAVA.FINANCE",
+    "assetArcId": "AMB:TRA000002276",
+    "website": "https://trava.finance/",
+    "whitePaperUrl": "/how-to-buy/TRAVA?utm_source=mexc&utm_medium=tokenifoTRAVA&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TRAVA.FINANCE/arc_id=AMB:TRA000002276/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "cdt",
+    "assetName": "CheckDot",
+    "assetArcId": "AMB:CDT000000000",
+    "website": "https://checkdot.io/",
+    "whitePaperUrl": "https://checkdot.io/whitepaper.pdf",
+    "classificationTags": [
+        "Oracles",
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=CheckDot/arc_id=AMB:CDT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

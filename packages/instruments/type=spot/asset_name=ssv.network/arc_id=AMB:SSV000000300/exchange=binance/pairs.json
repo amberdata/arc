@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:SSV000000300_AMB:BTC000000000",
+        "normalizedPair": "ssv_btc",
+        "normalizedSymbol": "ssv",
+        "nativePair": "SSVBTC",
+        "exchange": "binance",
+        "assetName": "ssv.network",
+        "assetArcId": "AMB:SSV000000300",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ssv_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SSV000000300_AMB:ETH000000000",
+        "normalizedPair": "ssv_eth",
+        "normalizedSymbol": "ssv",
+        "nativePair": "SSVETH",
+        "exchange": "binance",
+        "assetName": "ssv.network",
+        "assetArcId": "AMB:SSV000000300",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "ssv_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SSV000000300_AMB:TUS000000326",
+        "normalizedPair": "ssv_tusd",
+        "normalizedSymbol": "ssv",
+        "nativePair": "SSVTUSD",
+        "exchange": "binance",
+        "assetName": "ssv.network",
+        "assetArcId": "AMB:SSV000000300",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "ssv_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SSV000000300_AMB:USD000000335",
+        "normalizedPair": "ssv_usdt",
+        "normalizedSymbol": "ssv",
+        "nativePair": "SSVUSDT",
+        "exchange": "binance",
+        "assetName": "ssv.network",
+        "assetArcId": "AMB:SSV000000300",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ssv_usdt",
+        "instrumentType": "spot"
+    }
+]

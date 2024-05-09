@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:THA000002261_AMB:USD000000335",
+        "normalizedPair": "thales_usdt",
+        "normalizedSymbol": "thales",
+        "nativePair": "THALESUSDT",
+        "exchange": "mexc",
+        "assetName": "Thales",
+        "assetArcId": "AMB:THA000002261",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "thales_usdt",
+        "instrumentType": "spot"
+    }
+]

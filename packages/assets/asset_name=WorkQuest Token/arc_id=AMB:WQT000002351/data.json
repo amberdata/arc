@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "wqt",
+    "assetName": "WorkQuest Token",
+    "assetArcId": "AMB:WQT000002351",
+    "website": "https://workquest.co/",
+    "whitePaperUrl": "/how-to-buy/WQT?utm_source=mexc&utm_medium=tokenifoWQT&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WorkQuest Token/arc_id=AMB:WQT000002351/exchange=mexc/data.json"
+        ]
+    }
+}

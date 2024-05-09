@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SOC000000000_AMB:USD000000335",
+        "normalizedPair": "soc_usdt",
+        "normalizedSymbol": "soc",
+        "nativePair": "SOCUSDT",
+        "exchange": "mexc",
+        "assetName": "Socrates",
+        "assetArcId": "AMB:SOC000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "soc_usdt",
+        "instrumentType": "spot"
+    }
+]

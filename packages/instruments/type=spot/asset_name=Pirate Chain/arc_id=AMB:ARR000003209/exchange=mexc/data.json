@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ARR000003209_AMB:USD000000335",
+        "normalizedPair": "arrr_usdt",
+        "normalizedSymbol": "arrr",
+        "nativePair": "ARRRUSDT",
+        "exchange": "mexc",
+        "assetName": "Pirate Chain",
+        "assetArcId": "AMB:ARR000003209",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "arrr_usdt",
+        "instrumentType": "spot"
+    }
+]

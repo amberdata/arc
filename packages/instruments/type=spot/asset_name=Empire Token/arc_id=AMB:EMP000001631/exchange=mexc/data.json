@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EMP000001631_AMB:USD000000335",
+        "normalizedPair": "empire_usdt",
+        "normalizedSymbol": "empire",
+        "nativePair": "EMPIREUSDT",
+        "exchange": "mexc",
+        "assetName": "Empire Token",
+        "assetArcId": "AMB:EMP000001631",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "empire_usdt",
+        "instrumentType": "spot"
+    }
+]

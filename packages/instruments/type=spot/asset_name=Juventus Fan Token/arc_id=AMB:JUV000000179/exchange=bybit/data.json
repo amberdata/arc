@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JUV000000179_AMB:USD000000335",
+        "normalizedPair": "juv_usdt",
+        "normalizedSymbol": "juv",
+        "nativePair": "JUVUSDT",
+        "exchange": "bybit",
+        "assetName": "Juventus Fan Token",
+        "assetArcId": "AMB:JUV000000179",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "juv_usdt",
+        "instrumentType": "spot"
+    }
+]

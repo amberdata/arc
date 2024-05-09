@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DCX000001584_AMB:USD000000335",
+        "normalizedPair": "dcxen_usdt",
+        "normalizedSymbol": "dcxen",
+        "nativePair": "DCXENUSDT",
+        "exchange": "mexc",
+        "assetName": "XEN Crypto",
+        "assetArcId": "AMB:DCX000001584",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dcxen_usdt",
+        "instrumentType": "spot"
+    }
+]

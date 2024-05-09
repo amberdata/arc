@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DUP000000000_AMB:USD000000335",
+        "normalizedPair": "dupe_usdt",
+        "normalizedSymbol": "dupe",
+        "nativePair": "DUPE_USDT",
+        "exchange": "poloniex",
+        "assetName": "Dupe",
+        "assetArcId": "AMB:DUP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dupe_usdt",
+        "instrumentType": "spot"
+    }
+]

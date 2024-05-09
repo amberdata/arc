@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "mntl",
+    "assetName": "AssetMantle",
+    "assetArcId": "AMB:MNT000001943",
+    "website": "https://assetmantle.one/",
+    "whitePaperUrl": "https://docs.assetmantle.one/AssetMantle_Whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AssetMantle/arc_id=AMB:MNT000001943/exchange=mexc/data.json"
+        ]
+    }
+}

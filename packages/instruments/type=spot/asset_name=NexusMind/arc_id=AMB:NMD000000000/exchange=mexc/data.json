@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NMD000000000_AMB:USD000000335",
+        "normalizedPair": "nmd_usdt",
+        "normalizedSymbol": "nmd",
+        "nativePair": "NMDUSDT",
+        "exchange": "mexc",
+        "assetName": "NexusMind",
+        "assetArcId": "AMB:NMD000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nmd_usdt",
+        "instrumentType": "spot"
+    }
+]

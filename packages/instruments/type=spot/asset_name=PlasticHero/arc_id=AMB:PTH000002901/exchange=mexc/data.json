@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PTH000002901_AMB:USD000000335",
+        "normalizedPair": "pth_usdt",
+        "normalizedSymbol": "pth",
+        "nativePair": "PTHUSDT",
+        "exchange": "mexc",
+        "assetName": "PlasticHero",
+        "assetArcId": "AMB:PTH000002901",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pth_usdt",
+        "instrumentType": "spot"
+    }
+]

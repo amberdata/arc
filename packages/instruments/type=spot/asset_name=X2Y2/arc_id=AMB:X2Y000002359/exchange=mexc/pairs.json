@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:X2Y000002359_AMB:USD000000335",
+        "normalizedPair": "x2y2_usdt",
+        "normalizedSymbol": "x2y2",
+        "nativePair": "X2Y2USDT",
+        "exchange": "mexc",
+        "assetName": "X2Y2",
+        "assetArcId": "AMB:X2Y000002359",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "x2y2_usdt",
+        "instrumentType": "spot"
+    }
+]

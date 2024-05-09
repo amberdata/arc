@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LAI000000722_AMB:USD000000949",
+        "normalizedPair": "lai_usd",
+        "normalizedSymbol": "lai",
+        "nativePair": "tLAIUSD",
+        "exchange": "bitfinex",
+        "assetName": "LayerAI",
+        "assetArcId": "AMB:LAI000000722",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "lai_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LAI000000722_AMB:USD000000335",
+        "normalizedPair": "lai_usdt",
+        "normalizedSymbol": "lai",
+        "nativePair": "tLAIUST",
+        "exchange": "bitfinex",
+        "assetName": "LayerAI",
+        "assetArcId": "AMB:LAI000000722",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lai_usdt",
+        "instrumentType": "spot"
+    }
+]

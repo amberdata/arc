@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "kmice",
+    "assetName": "Scklingmice",
+    "assetArcId": "AMB:KMI000003477",
+    "website": "https://micememe.world/",
+    "whitePaperUrl": "/how-to-buy/KMICE?utm_source=mexc&utm_medium=tokenifoKMICE&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Scklingmice/arc_id=AMB:KMI000003477/exchange=mexc/data.json"
+        ]
+    }
+}

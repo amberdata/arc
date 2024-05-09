@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OGV000000769_AMB:USD000000335",
+        "normalizedPair": "ogv_usdt",
+        "normalizedSymbol": "ogv",
+        "nativePair": "ogvusdt",
+        "exchange": "huobi",
+        "assetName": "Origin DeFi Governance",
+        "assetArcId": "AMB:OGV000000769",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ogv_usdt",
+        "instrumentType": "spot"
+    }
+]

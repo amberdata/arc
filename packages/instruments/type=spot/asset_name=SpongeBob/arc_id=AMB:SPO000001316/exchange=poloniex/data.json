@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SPO000001316_AMB:USD000000335",
+        "normalizedPair": "sponge_usdt",
+        "normalizedSymbol": "sponge",
+        "nativePair": "SPONGE_USDT",
+        "exchange": "poloniex",
+        "assetName": "SpongeBob",
+        "assetArcId": "AMB:SPO000001316",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sponge_usdt",
+        "instrumentType": "spot"
+    }
+]

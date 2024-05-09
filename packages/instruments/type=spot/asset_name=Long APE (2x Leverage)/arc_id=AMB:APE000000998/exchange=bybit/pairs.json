@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:APE000000998_AMB:USD000000335",
+        "normalizedPair": "ape2l_usdt",
+        "normalizedSymbol": "ape2l",
+        "nativePair": "APE2LUSDT",
+        "exchange": "bybit",
+        "assetName": "Long APE (2x Leverage)",
+        "assetArcId": "AMB:APE000000998",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ape2l_usdt",
+        "instrumentType": "spot"
+    }
+]

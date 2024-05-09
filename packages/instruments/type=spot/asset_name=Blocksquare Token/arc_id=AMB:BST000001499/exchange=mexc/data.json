@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BST000001499_AMB:USD000000335",
+        "normalizedPair": "bst_usdt",
+        "normalizedSymbol": "bst",
+        "nativePair": "BSTUSDT",
+        "exchange": "mexc",
+        "assetName": "Blocksquare Token",
+        "assetArcId": "AMB:BST000001499",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bst_usdt",
+        "instrumentType": "spot"
+    }
+]

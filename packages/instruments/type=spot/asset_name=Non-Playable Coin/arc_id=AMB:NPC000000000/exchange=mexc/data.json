@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NPC000000000_AMB:USD000000335",
+        "normalizedPair": "npc_usdt",
+        "normalizedSymbol": "npc",
+        "nativePair": "NPCUSDT",
+        "exchange": "mexc",
+        "assetName": "Non-Playable Coin",
+        "assetArcId": "AMB:NPC000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "npc_usdt",
+        "instrumentType": "spot"
+    }
+]

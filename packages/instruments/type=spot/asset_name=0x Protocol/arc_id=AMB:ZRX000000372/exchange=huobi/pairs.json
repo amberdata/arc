@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZRX000000372_AMB:USD000000335",
+        "normalizedPair": "zrx_usdt",
+        "normalizedSymbol": "zrx",
+        "nativePair": "zrxusdt",
+        "exchange": "huobi",
+        "assetName": "0x Protocol",
+        "assetArcId": "AMB:ZRX000000372",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zrx_usdt",
+        "instrumentType": "spot"
+    }
+]

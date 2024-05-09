@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BLA000001475_AMB:USD000000335",
+        "normalizedPair": "bla_usdt",
+        "normalizedSymbol": "bla",
+        "nativePair": "BLAUSDT",
+        "exchange": "mexc",
+        "assetName": "BLUEART TOKEN",
+        "assetArcId": "AMB:BLA000001475",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bla_usdt",
+        "instrumentType": "spot"
+    }
+]

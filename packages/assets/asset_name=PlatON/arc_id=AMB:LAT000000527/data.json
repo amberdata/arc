@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "lat",
+    "assetName": "PlatON",
+    "assetArcId": "AMB:LAT000000527",
+    "website": "https://www.platon.network/",
+    "whitePaperUrl": "https://platon.network/pdf/en/PlatON_A_High-Efficiency_Trustless_Computing_Network_Whitepaper_EN.pdf",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PlatON/arc_id=AMB:LAT000000527/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PlatON/arc_id=AMB:LAT000000527/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PlatON/arc_id=AMB:LAT000000527/exchange=mexc/data.json"
+        ]
+    }
+}

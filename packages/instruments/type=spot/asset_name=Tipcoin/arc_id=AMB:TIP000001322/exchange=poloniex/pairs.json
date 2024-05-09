@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TIP000001322_AMB:USD000000335",
+        "normalizedPair": "tip_usdt",
+        "normalizedSymbol": "tip",
+        "nativePair": "TIP_USDT",
+        "exchange": "poloniex",
+        "assetName": "Tipcoin",
+        "assetArcId": "AMB:TIP000001322",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tip_usdt",
+        "instrumentType": "spot"
+    }
+]

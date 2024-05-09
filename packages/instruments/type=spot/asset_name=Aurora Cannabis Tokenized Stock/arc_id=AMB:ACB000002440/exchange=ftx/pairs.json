@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ACB000002440_AMB:USD000000949",
+        "normalizedPair": "acb_usd",
+        "normalizedSymbol": "acb",
+        "nativePair": "ACB/USD",
+        "exchange": "ftx",
+        "assetName": "Aurora Cannabis Tokenized Stock",
+        "assetArcId": "AMB:ACB000002440",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "acb_usd",
+        "instrumentType": "spot"
+    }
+]

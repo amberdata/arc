@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FTM000000136_AMB:KRW000000000",
+        "normalizedPair": "ftm_krw",
+        "normalizedSymbol": "ftm",
+        "nativePair": "FTM/KRW",
+        "exchange": "bithumb",
+        "assetName": "Fantom",
+        "assetArcId": "AMB:FTM000000136",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "ftm_krw",
+        "instrumentType": "spot"
+    }
+]

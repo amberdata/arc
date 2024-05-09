@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:STG000000302_AMB:EUR000000120",
+        "normalizedPair": "stg_eur",
+        "normalizedSymbol": "stg",
+        "nativePair": "STGEUR",
+        "exchange": "kraken",
+        "assetName": "Stargate Finance V1",
+        "assetArcId": "AMB:STG000000302",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "stg_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:STG000000302_AMB:USD000000949",
+        "normalizedPair": "stg_usd",
+        "normalizedSymbol": "stg",
+        "nativePair": "STGUSD",
+        "exchange": "kraken",
+        "assetName": "Stargate Finance V1",
+        "assetArcId": "AMB:STG000000302",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "stg_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SRL000002226_AMB:USD000000335",
+        "normalizedPair": "srlty_usdt",
+        "normalizedSymbol": "srlty",
+        "nativePair": "SRLTYUSDT",
+        "exchange": "mexc",
+        "assetName": "SaitaRealty",
+        "assetArcId": "AMB:SRL000002226",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "srlty_usdt",
+        "instrumentType": "spot"
+    }
+]

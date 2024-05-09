@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STA000002228_AMB:USD000000949",
+        "normalizedPair": "stars_usd",
+        "normalizedSymbol": "stars",
+        "nativePair": "STARS/USD",
+        "exchange": "ftx",
+        "assetName": "StarLaunch",
+        "assetArcId": "AMB:STA000002228",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "stars_usd",
+        "instrumentType": "spot"
+    }
+]

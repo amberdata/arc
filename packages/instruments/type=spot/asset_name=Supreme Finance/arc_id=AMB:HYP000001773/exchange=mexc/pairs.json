@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HYP000001773_AMB:USD000000335",
+        "normalizedPair": "hypes_usdt",
+        "normalizedSymbol": "hypes",
+        "nativePair": "HYPESUSDT",
+        "exchange": "mexc",
+        "assetName": "Supreme Finance",
+        "assetArcId": "AMB:HYP000001773",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hypes_usdt",
+        "instrumentType": "spot"
+    }
+]

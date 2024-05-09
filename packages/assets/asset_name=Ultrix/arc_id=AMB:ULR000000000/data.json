@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ulr",
+    "assetName": "Ultrix",
+    "assetArcId": "AMB:ULR000000000",
+    "website": "https://ultrix.top/",
+    "whitePaperUrl": "https://ultrix.gitbook.io/ultrix/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ultrix/arc_id=AMB:ULR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

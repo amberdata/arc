@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SCA000000000_AMB:USD000000335",
+        "normalizedPair": "scai_usdt",
+        "normalizedSymbol": "scai",
+        "nativePair": "SCAIUSDT",
+        "exchange": "mexc",
+        "assetName": "Source Code AI",
+        "assetArcId": "AMB:SCA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "scai_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SCA000000000_AMB:USD000000335",
+        "normalizedPair": "scar_usdt",
+        "normalizedSymbol": "scar",
+        "nativePair": "SCARUSDT",
+        "exchange": "mexc",
+        "assetName": "ScarQuest",
+        "assetArcId": "AMB:SCA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "scar_usdt",
+        "instrumentType": "spot"
+    }
+]

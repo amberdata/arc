@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "fibo",
+    "assetName": "Fibonacci",
+    "assetArcId": "AMB:FIB000001659",
+    "website": "https://www.fibochain.org/",
+    "whitePaperUrl": "https://fibonacci.gitbook.io/whitepaper/",
+    "classificationTags": [
+        "Real World Asset"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

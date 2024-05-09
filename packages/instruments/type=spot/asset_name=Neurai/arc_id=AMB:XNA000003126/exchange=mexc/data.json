@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XNA000003126_AMB:USD000000335",
+        "normalizedPair": "xna_usdt",
+        "normalizedSymbol": "xna",
+        "nativePair": "XNAUSDT",
+        "exchange": "mexc",
+        "assetName": "Neurai",
+        "assetArcId": "AMB:XNA000003126",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xna_usdt",
+        "instrumentType": "spot"
+    }
+]

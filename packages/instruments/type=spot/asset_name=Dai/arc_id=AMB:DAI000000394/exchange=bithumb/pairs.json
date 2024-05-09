@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DAI000000394_AMB:KRW000000000",
+        "normalizedPair": "dai_krw",
+        "normalizedSymbol": "dai",
+        "nativePair": "DAI/KRW",
+        "exchange": "bithumb",
+        "assetName": "Dai",
+        "assetArcId": "AMB:DAI000000394",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "dai_krw",
+        "instrumentType": "spot"
+    }
+]

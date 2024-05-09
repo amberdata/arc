@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GST000001052_AMB:USD000000335",
+        "normalizedPair": "gsts_usdt",
+        "normalizedSymbol": "gsts",
+        "nativePair": "GSTSUSDT",
+        "exchange": "bybit",
+        "assetName": "Gunstar Metaverse",
+        "assetArcId": "AMB:GST000001052",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gsts_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MND000000423_AMB:USD000000949",
+        "normalizedPair": "mnde_usd",
+        "normalizedSymbol": "mnde",
+        "nativePair": "MNDE-USD",
+        "exchange": "gdax",
+        "assetName": "Marinade Finance",
+        "assetArcId": "AMB:MND000000423",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mnde_usd",
+        "instrumentType": "spot"
+    }
+]

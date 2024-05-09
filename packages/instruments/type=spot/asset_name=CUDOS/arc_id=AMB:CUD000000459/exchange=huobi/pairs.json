@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CUD000000459_AMB:USD000000335",
+        "normalizedPair": "cudos_usdt",
+        "normalizedSymbol": "cudos",
+        "nativePair": "cudosusdt",
+        "exchange": "huobi",
+        "assetName": "CUDOS",
+        "assetArcId": "AMB:CUD000000459",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cudos_usdt",
+        "instrumentType": "spot"
+    }
+]

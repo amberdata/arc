@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BIZ000001471_AMB:USD000000335",
+        "normalizedPair": "biza_usdt",
+        "normalizedSymbol": "biza",
+        "nativePair": "BIZAUSDT",
+        "exchange": "mexc",
+        "assetName": "BizAuto",
+        "assetArcId": "AMB:BIZ000001471",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "biza_usdt",
+        "instrumentType": "spot"
+    }
+]

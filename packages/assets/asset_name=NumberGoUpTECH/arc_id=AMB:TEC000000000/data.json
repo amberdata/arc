@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "tech",
+    "assetName": "NumberGoUpTECH",
+    "assetArcId": "AMB:TEC000000000",
+    "website": "http://www.techimproving.com",
+    "whitePaperUrl": "/how-to-buy/TECH?utm_source=mexc&utm_medium=tokenifoTECH&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NumberGoUpTECH/arc_id=AMB:TEC000000000/exchange=mexc/data.json"
+        ]
+    }
+}

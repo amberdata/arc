@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MOV000000540_AMB:USD000000335",
+        "normalizedPair": "movez_usdt",
+        "normalizedSymbol": "movez",
+        "nativePair": "MOVEZUSDT",
+        "exchange": "bybit",
+        "assetName": "MOVEZ",
+        "assetArcId": "AMB:MOV000000540",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "movez_usdt",
+        "instrumentType": "spot"
+    }
+]

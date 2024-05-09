@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VEG000000948_AMB:USD000000335",
+        "normalizedPair": "vega_usdt",
+        "normalizedSymbol": "vega",
+        "nativePair": "VEGAUSDT",
+        "exchange": "bybit",
+        "assetName": "Vega Protocol",
+        "assetArcId": "AMB:VEG000000948",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vega_usdt",
+        "instrumentType": "spot"
+    }
+]
