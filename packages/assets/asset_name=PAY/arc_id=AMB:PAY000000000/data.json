@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "pay",
+    "assetName": "PAY",
+    "assetArcId": "AMB:PAY000000000",
+    "website": "https://xpayment.fun/",
+    "whitePaperUrl": "/how-to-buy/PAY?utm_source=mexc&utm_medium=tokenifoPAY&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=PAY/arc_id=AMB:PAY000000000/exchange=mexc/data.json"
+        ]
+    }
+}

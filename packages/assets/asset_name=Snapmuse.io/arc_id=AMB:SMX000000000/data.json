@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "smx",
+    "assetName": "Snapmuse.io",
+    "assetArcId": "AMB:SMX000000000",
+    "website": "https://snapmuse.io/",
+    "whitePaperUrl": "https://snapmuse.io/lightpaper",
+    "classificationTags": [
+        "Content & Streaming",
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Snapmuse.io/arc_id=AMB:SMX000000000/exchange=mexc/data.json"
+        ]
+    }
+}

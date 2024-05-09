@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "nei",
+    "assetName": "Neurashi",
+    "assetArcId": "AMB:NEI000003259",
+    "website": "https://neurashi.com/",
+    "whitePaperUrl": "https://neurashi.com/whitepaper/",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Neurashi/arc_id=AMB:NEI000003259/exchange=mexc/data.json"
+        ]
+    }
+}

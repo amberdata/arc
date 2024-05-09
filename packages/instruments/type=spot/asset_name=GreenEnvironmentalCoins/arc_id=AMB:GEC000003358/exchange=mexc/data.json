@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GEC000003358_AMB:USD000000335",
+        "normalizedPair": "gec_usdt",
+        "normalizedSymbol": "gec",
+        "nativePair": "GECUSDT",
+        "exchange": "mexc",
+        "assetName": "GreenEnvironmentalCoins",
+        "assetArcId": "AMB:GEC000003358",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gec_usdt",
+        "instrumentType": "spot"
+    }
+]

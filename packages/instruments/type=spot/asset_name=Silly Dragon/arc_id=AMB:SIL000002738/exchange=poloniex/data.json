@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SIL000002738_AMB:USD000000335",
+        "normalizedPair": "silly_usdt",
+        "normalizedSymbol": "silly",
+        "nativePair": "SILLY_USDT",
+        "exchange": "poloniex",
+        "assetName": "Silly Dragon",
+        "assetArcId": "AMB:SIL000002738",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "silly_usdt",
+        "instrumentType": "spot"
+    }
+]

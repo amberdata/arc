@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BYT000003374_AMB:USD000000335",
+        "normalizedPair": "byte_usdt",
+        "normalizedSymbol": "byte",
+        "nativePair": "BYTE_USDT",
+        "exchange": "poloniex",
+        "assetName": "Byte",
+        "assetArcId": "AMB:BYT000003374",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "byte_usdt",
+        "instrumentType": "spot"
+    }
+]

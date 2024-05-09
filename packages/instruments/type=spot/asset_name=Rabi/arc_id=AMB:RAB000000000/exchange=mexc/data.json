@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAB000000000_AMB:USD000000335",
+        "normalizedPair": "rabi_usdt",
+        "normalizedSymbol": "rabi",
+        "nativePair": "RABIUSDT",
+        "exchange": "mexc",
+        "assetName": "Rabi",
+        "assetArcId": "AMB:RAB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rabi_usdt",
+        "instrumentType": "spot"
+    }
+]

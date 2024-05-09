@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "bnbdaddy",
+    "assetName": "BNB DADDY",
+    "assetArcId": "AMB:BNB000001201",
+    "website": "https://bnbdaddy.org/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming",
+        "Privacy"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "BNB",
+            "address": "0x940C034BB107b5DcBe2C624c1980CeB3B0cB5D9D"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BNB DADDY/arc_id=AMB:BNB000001201/exchange=poloniex/data.json"
+        ]
+    }
+}

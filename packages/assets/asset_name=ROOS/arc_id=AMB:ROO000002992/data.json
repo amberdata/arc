@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "roos",
+    "assetName": "ROOS",
+    "assetArcId": "AMB:ROO000002992",
+    "website": "https://roostoken.world/",
+    "whitePaperUrl": "https://roostoken.world/ROOS.whitepaper.pdf",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ROOS/arc_id=AMB:ROO000002992/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "assetSymbol": "prisma",
+    "assetName": "Prisma Finance",
+    "assetArcId": "AMB:PRI000003124",
+    "website": "https://prismafinance.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Stablecoin",
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xdA47862a83dac0c112BA89c6abC2159b95afd71C"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Prisma Finance/arc_id=AMB:PRI000003124/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Prisma Finance/arc_id=AMB:PRI000003124/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Prisma Finance/arc_id=AMB:PRI000003124/exchange=poloniex/data.json"
+        ]
+    }
+}

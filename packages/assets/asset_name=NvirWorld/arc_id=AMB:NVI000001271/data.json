@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "nvir",
+    "assetName": "NvirWorld",
+    "assetArcId": "AMB:NVI000001271",
+    "website": "https://www.nvirworld.com/",
+    "whitePaperUrl": "https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:772d8d42-3a9d-3e34-bb49-329c5addb781",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=NvirWorld/arc_id=AMB:NVI000001271/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=NvirWorld/arc_id=AMB:NVI000001271/exchange=mexc/data.json"
+        ]
+    }
+}

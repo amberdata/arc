@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "plb",
+    "assetName": "Paladeum",
+    "assetArcId": "AMB:PLB000002079",
+    "website": "https://paladeum.io/",
+    "whitePaperUrl": "https://paladeum.gitbook.io/paladeum-white-paper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Paladeum/arc_id=AMB:PLB000002079/exchange=mexc/data.json"
+        ]
+    }
+}

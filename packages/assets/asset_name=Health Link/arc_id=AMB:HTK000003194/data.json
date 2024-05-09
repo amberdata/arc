@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "htk",
+    "assetName": "Health Link",
+    "assetArcId": "AMB:HTK000003194",
+    "website": "#",
+    "whitePaperUrl": "https://healthlink-1.gitbook.io/untitled/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Health Link/arc_id=AMB:HTK000003194/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "xvs",
+    "assetName": "Venus",
+    "assetArcId": "AMB:XVS000000366",
+    "website": "https://venus.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance",
+        "Lending",
+        "Smart Contract",
+        "Stablecoin"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Venus/arc_id=AMB:XVS000000366/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Venus/arc_id=AMB:XVS000000366/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Venus/arc_id=AMB:XVS000000366/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Venus/arc_id=AMB:XVS000000366/exchange=bithumb/data.json"
+        ]
+    }
+}

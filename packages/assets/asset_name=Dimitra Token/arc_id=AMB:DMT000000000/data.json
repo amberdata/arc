@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dmtr",
+    "assetName": "Dimitra Token",
+    "assetArcId": "AMB:DMT000000000",
+    "website": "https://dimitra.io/",
+    "whitePaperUrl": "/how-to-buy/DMTR?utm_source=mexc&utm_medium=tokenifoDMTR&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Dimitra Token/arc_id=AMB:DMT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

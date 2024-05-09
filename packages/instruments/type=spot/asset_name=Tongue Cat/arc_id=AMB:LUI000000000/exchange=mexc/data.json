@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LUI000000000_AMB:USD000000335",
+        "normalizedPair": "luis_usdt",
+        "normalizedSymbol": "luis",
+        "nativePair": "LUISUSDT",
+        "exchange": "mexc",
+        "assetName": "Tongue Cat",
+        "assetArcId": "AMB:LUI000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "luis_usdt",
+        "instrumentType": "spot"
+    }
+]

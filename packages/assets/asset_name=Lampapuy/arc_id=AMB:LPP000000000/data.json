@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "lpp",
+    "assetName": "Lampapuy",
+    "assetArcId": "AMB:LPP000000000",
+    "website": "http://www.lampapuy.com/",
+    "whitePaperUrl": "https://www.lampapuy.com/static/media/whitepaper.7d70a77a1139f25b8289.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Lampapuy/arc_id=AMB:LPP000000000/exchange=mexc/data.json"
+        ]
+    }
+}

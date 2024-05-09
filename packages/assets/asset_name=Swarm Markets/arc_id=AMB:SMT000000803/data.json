@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "smt",
+    "assetName": "Swarm Markets",
+    "assetArcId": "AMB:SMT000000803",
+    "website": "https://swarm.com/",
+    "whitePaperUrl": "https://docs.swarm.com/",
+    "classificationTags": [
+        "Real World Asset"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Swarm Markets/arc_id=AMB:SMT000000803/exchange=mexc/data.json"
+        ]
+    }
+}

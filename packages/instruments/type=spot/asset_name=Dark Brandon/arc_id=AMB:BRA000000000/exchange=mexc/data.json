@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BRA000000000_AMB:USD000000335",
+        "normalizedPair": "brainers_usdt",
+        "normalizedSymbol": "brainers",
+        "nativePair": "BRAINERSUSDT",
+        "exchange": "mexc",
+        "assetName": "Brainers",
+        "assetArcId": "AMB:BRA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "brainers_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BRA000000000_AMB:USD000000335",
+        "normalizedPair": "brandon_usdt",
+        "normalizedSymbol": "brandon",
+        "nativePair": "BRANDONUSDT",
+        "exchange": "mexc",
+        "assetName": "Dark Brandon",
+        "assetArcId": "AMB:BRA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "brandon_usdt",
+        "instrumentType": "spot"
+    }
+]

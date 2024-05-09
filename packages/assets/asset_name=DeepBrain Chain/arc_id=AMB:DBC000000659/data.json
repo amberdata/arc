@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "dbc",
+    "assetName": "DeepBrain Chain",
+    "assetArcId": "AMB:DBC000000659",
+    "website": "https://www.deepbrainchain.org/",
+    "whitePaperUrl": "https://www.deepbrainchain.org/DeepBrainChainWhitepaper_en.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=DeepBrain Chain/arc_id=AMB:DBC000000659/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=DeepBrain Chain/arc_id=AMB:DBC000000659/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "opn1",
+    "assetName": "OPEN Ecosystem Token",
+    "assetArcId": "AMB:OPN000000000",
+    "website": "https://onopen.xyz/",
+    "whitePaperUrl": "https://docs.onopen.xyz/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=OPEN Ecosystem Token/arc_id=AMB:OPN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

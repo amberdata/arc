@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "pin",
+    "assetName": "PIN3",
+    "assetArcId": "AMB:PIN000000001",
+    "website": "https://www.pin3.world/",
+    "whitePaperUrl": "https://pin3.gitbook.io/pin3-document",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=PIN3/arc_id=AMB:PIN000000001/exchange=mexc/data.json"
+        ]
+    }
+}

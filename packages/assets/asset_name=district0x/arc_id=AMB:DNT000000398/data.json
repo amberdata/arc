@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "dnt",
+    "assetName": "district0x",
+    "assetArcId": "AMB:DNT000000398",
+    "website": "https://district0x.io/",
+    "whitePaperUrl": "https://district0x.io/docs/district0x-whitepaper.pdf",
+    "classificationTags": [
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x0abdace70d3790235af448c88547603b945604ea"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=district0x/arc_id=AMB:DNT000000398/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=district0x/arc_id=AMB:DNT000000398/exchange=zb/data.json"
+        ]
+    }
+}

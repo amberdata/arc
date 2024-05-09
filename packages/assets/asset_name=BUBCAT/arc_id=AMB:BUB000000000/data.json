@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "bub",
+    "assetName": "BUBCAT",
+    "assetArcId": "AMB:BUB000000000",
+    "website": "https://bubcat.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "BASE",
+            "address": "0x45096BD2871911eE82A3084D77a01eFA3c9c6733"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BUBCAT/arc_id=AMB:BUB000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

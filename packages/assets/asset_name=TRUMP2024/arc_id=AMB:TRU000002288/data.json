@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "trump2024",
+    "assetName": "TRUMP2024",
+    "assetArcId": "AMB:TRU000002288",
+    "website": "#",
+    "whitePaperUrl": "/how-to-buy/TRUMP2024?utm_source=mexc&utm_medium=tokenifoTRUMP2024&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=TRUMP2024/arc_id=AMB:TRU000002288/exchange=mexc/data.json"
+        ]
+    }
+}

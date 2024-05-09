@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "apd",
+    "assetName": "Aptopad",
+    "assetArcId": "AMB:APD000001402",
+    "website": "https://www.aptopad.io/",
+    "whitePaperUrl": "/how-to-buy/APD?utm_source=mexc&utm_medium=tokenifoAPD&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Aptopad/arc_id=AMB:APD000001402/exchange=mexc/data.json"
+        ]
+    }
+}

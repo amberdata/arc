@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "och",
+    "assetName": "Orchai",
+    "assetArcId": "AMB:OCH000000000",
+    "website": "https://orchai.io/",
+    "whitePaperUrl": "https://docs.orchai.io/whitepaper",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Orchai/arc_id=AMB:OCH000000000/exchange=mexc/data.json"
+        ]
+    }
+}

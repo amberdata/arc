@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "aitran",
+    "assetName": "Intelligent",
+    "assetArcId": "AMB:AIT000003219",
+    "website": "http://aitrantoken.com/",
+    "whitePaperUrl": "http://aitrantoken.com/wp-content/uploads/2023/10/Whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Intelligent/arc_id=AMB:AIT000003219/exchange=mexc/data.json"
+        ]
+    }
+}

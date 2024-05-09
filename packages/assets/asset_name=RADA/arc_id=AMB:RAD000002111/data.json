@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "rada",
+    "assetName": "RADA",
+    "assetArcId": "AMB:RAD000002111",
+    "website": "https://therada.io/",
+    "whitePaperUrl": "https://rada-foundation.gitbook.io/en",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=RADA/arc_id=AMB:RAD000002111/exchange=mexc/data.json"
+        ]
+    }
+}

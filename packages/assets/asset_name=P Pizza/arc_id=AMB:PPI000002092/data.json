@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "ppizza",
+    "assetName": "P Pizza",
+    "assetArcId": "AMB:PPI000002092",
+    "website": "https://ppizza.io/",
+    "whitePaperUrl": "/how-to-buy/PPIZZA?utm_source=mexc&utm_medium=tokenifoPPIZZA&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=P Pizza/arc_id=AMB:PPI000002092/exchange=mexc/data.json"
+        ]
+    }
+}

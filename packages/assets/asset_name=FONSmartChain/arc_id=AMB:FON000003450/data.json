@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "foncoin",
+    "assetName": "FONSmartChain",
+    "assetArcId": "AMB:FON000003450",
+    "website": "https://fonchain.io/",
+    "whitePaperUrl": "https://fonchain.io/bps.pdf",
+    "classificationTags": [
+        "Proof-of-Stake",
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=FONSmartChain/arc_id=AMB:FON000003450/exchange=mexc/data.json"
+        ]
+    }
+}

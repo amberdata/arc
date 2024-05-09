@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "meld",
+    "assetName": "MELD",
+    "assetArcId": "AMB:MEL000001912",
+    "website": "https://www.meld.com/",
+    "whitePaperUrl": "https://drive.google.com/file/d/1_bZ3g4UYj6QgZcPDfDhwvsjIrud8VHCr/view",
+    "classificationTags": [
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MELD/arc_id=AMB:MEL000001912/exchange=mexc/data.json"
+        ]
+    }
+}

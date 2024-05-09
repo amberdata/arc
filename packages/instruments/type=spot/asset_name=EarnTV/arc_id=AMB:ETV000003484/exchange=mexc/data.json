@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETV000003484_AMB:USD000000335",
+        "normalizedPair": "etv_usdt",
+        "normalizedSymbol": "etv",
+        "nativePair": "ETVUSDT",
+        "exchange": "mexc",
+        "assetName": "EarnTV",
+        "assetArcId": "AMB:ETV000003484",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "etv_usdt",
+        "instrumentType": "spot"
+    }
+]

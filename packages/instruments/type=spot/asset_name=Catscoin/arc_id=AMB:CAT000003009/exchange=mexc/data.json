@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CAT000003009_AMB:USD000000335",
+        "normalizedPair": "cats_usdt",
+        "normalizedSymbol": "cats",
+        "nativePair": "CATSUSDT",
+        "exchange": "mexc",
+        "assetName": "Catscoin",
+        "assetArcId": "AMB:CAT000003009",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cats_usdt",
+        "instrumentType": "spot"
+    }
+]

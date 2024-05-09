@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "vr",
+    "assetName": "Victoria VR",
+    "assetArcId": "AMB:VRA000000850",
+    "website": "https://www.victoriavr.com/",
+    "whitePaperUrl": "/how-to-buy/VR?utm_source=mexc&utm_medium=tokenifoVR&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Victoria VR/arc_id=AMB:VRA000000850/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Victoria VR/arc_id=AMB:VRA000000850/exchange=mexc/data.json"
+        ]
+    }
+}

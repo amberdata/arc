@@ -1,0 +1,86 @@
+[
+    {
+        "arcPairId": "AMB:STX000000307_AMB:BNB000000055",
+        "normalizedPair": "stx_bnb",
+        "normalizedSymbol": "stx",
+        "nativePair": "STXBNB",
+        "exchange": "binance",
+        "assetName": "Stacks",
+        "assetArcId": "AMB:STX000000307",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "stx_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:STX000000307_AMB:BTC000000000",
+        "normalizedPair": "stx_btc",
+        "normalizedSymbol": "stx",
+        "nativePair": "STXBTC",
+        "exchange": "binance",
+        "assetName": "Stacks",
+        "assetArcId": "AMB:STX000000307",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "stx_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:STX000000307_AMB:BUS000000067",
+        "normalizedPair": "stx_busd",
+        "normalizedSymbol": "stx",
+        "nativePair": "STXBUSD",
+        "exchange": "binance",
+        "assetName": "Stacks",
+        "assetArcId": "AMB:STX000000307",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "stx_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:STX000000307_AMB:TRY000000940",
+        "normalizedPair": "stx_try",
+        "normalizedSymbol": "stx",
+        "nativePair": "STXTRY",
+        "exchange": "binance",
+        "assetName": "Stacks",
+        "assetArcId": "AMB:STX000000307",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "stx_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:STX000000307_AMB:USD000000335",
+        "normalizedPair": "stx_usdt",
+        "normalizedSymbol": "stx",
+        "nativePair": "STXUSDT",
+        "exchange": "binance",
+        "assetName": "Stacks",
+        "assetArcId": "AMB:STX000000307",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "stx_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:STX000000307_AMB:FDU000000122",
+        "normalizedPair": "stx_fdusd",
+        "normalizedSymbol": "stx",
+        "nativePair": "STXFDUSD",
+        "exchange": "binance",
+        "assetName": "Stacks",
+        "assetArcId": "AMB:STX000000307",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "stx_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:STX000000307_AMB:USD000000333",
+        "normalizedPair": "stx_usdc",
+        "normalizedSymbol": "stx",
+        "nativePair": "STXUSDC",
+        "exchange": "binance",
+        "assetName": "Stacks",
+        "assetArcId": "AMB:STX000000307",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "stx_usdc",
+        "instrumentType": "spot"
+    }
+]

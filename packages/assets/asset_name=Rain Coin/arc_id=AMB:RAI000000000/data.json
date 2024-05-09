@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "raincoin",
+    "assetName": "Rain Coin",
+    "assetArcId": "AMB:RAI000000000",
+    "website": "https://raincoin.xyz/",
+    "whitePaperUrl": "https://raincoin.xyz/whitepaper",
+    "classificationTags": [
+        "DEX",
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Rain Coin/arc_id=AMB:RAI000000000/exchange=mexc/data.json"
+        ]
+    }
+}

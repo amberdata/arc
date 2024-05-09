@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cntm",
+    "assetName": "Connectome",
+    "assetArcId": "AMB:CNT000001549",
+    "website": "https://connectome.to/",
+    "whitePaperUrl": "/how-to-buy/CNTM?utm_source=mexc&utm_medium=tokenifoCNTM&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Connectome/arc_id=AMB:CNT000001549/exchange=mexc/data.json"
+        ]
+    }
+}

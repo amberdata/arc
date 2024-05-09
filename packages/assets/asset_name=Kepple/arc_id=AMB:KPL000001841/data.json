@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "kpl",
+    "assetName": "Kepple",
+    "assetArcId": "AMB:KPL000001841",
+    "website": "https://kepple.io/",
+    "whitePaperUrl": "https://medium.com/kepple-io/introducing-kepple-4fbe80f4af72",
+    "classificationTags": [
+        "Content & Streaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Kepple/arc_id=AMB:KPL000001841/exchange=mexc/data.json"
+        ]
+    }
+}

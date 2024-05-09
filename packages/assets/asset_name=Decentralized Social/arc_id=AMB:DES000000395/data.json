@@ -1,0 +1,23 @@
+{
+    "assetSymbol": "deso",
+    "assetName": "Decentralized Social",
+    "assetArcId": "AMB:DES000000395",
+    "website": "https://www.deso.org/",
+    "whitePaperUrl": "https://docs.deso.org/",
+    "classificationTags": [
+        "Content & Streaming",
+        "Layer-1"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Deso",
+            "address": ""
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Decentralized Social/arc_id=AMB:DES000000395/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Decentralized Social/arc_id=AMB:DES000000395/exchange=gdax/data.json"
+        ]
+    }
+}

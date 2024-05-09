@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "qi",
+    "assetName": "QiSwap",
+    "assetArcId": "AMB:QIA000000265",
+    "website": "https://www.qiswap.com/en",
+    "whitePaperUrl": "/how-to-buy/QI?utm_source=mexc&utm_medium=tokenifoQI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=QiSwap/arc_id=AMB:QIA000000265/exchange=mexc/data.json"
+        ]
+    }
+}

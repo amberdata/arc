@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PIG000000000_AMB:USD000000335",
+        "normalizedPair": "pigcoin_usdt",
+        "normalizedSymbol": "pigcoin",
+        "nativePair": "PIGCOINUSDT",
+        "exchange": "mexc",
+        "assetName": "Pigcoin",
+        "assetArcId": "AMB:PIG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pigcoin_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,32 @@
+{
+    "assetSymbol": "perp",
+    "assetName": "Perpetual Protocol",
+    "assetArcId": "AMB:PER000000248",
+    "website": "https://www.perp.fi/",
+    "whitePaperUrl": "https://docs.perp.fi/library/litepaper",
+    "classificationTags": [
+        "DEX",
+        "Derivatives"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xbc396689893d065f41bc2c6ecbee5e0085233447"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Perpetual Protocol/arc_id=AMB:PER000000248/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Perpetual Protocol/arc_id=AMB:PER000000248/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Perpetual Protocol/arc_id=AMB:PER000000248/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Perpetual Protocol/arc_id=AMB:PER000000248/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Perpetual Protocol/arc_id=AMB:PER000000248/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Perpetual Protocol/arc_id=AMB:PER000000248/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Perpetual Protocol/arc_id=AMB:PER000000248/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Perpetual Protocol/arc_id=AMB:PER000000248/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Perpetual Protocol/arc_id=AMB:PER000000248/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Perpetual Protocol/arc_id=AMB:PER000000248/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Perpetual Protocol/arc_id=AMB:PER000000248/exchange=bitstamp/data.json"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "shu",
+    "assetName": "Shutter",
+    "assetArcId": "AMB:SHU000000000",
+    "website": "https://projectshutter.com/RevenueShare/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0xe485E2f1bab389C08721B291f6b59780feC83Fd7"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Shutter/arc_id=AMB:SHU000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

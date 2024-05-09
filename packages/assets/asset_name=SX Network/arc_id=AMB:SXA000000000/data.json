@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "sx",
+    "assetName": "SX Network",
+    "assetArcId": "AMB:SXA000000000",
+    "website": "https://www.sx.technology/",
+    "whitePaperUrl": "https://docs.sx.technology/sx-overview/master",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=SX Network/arc_id=AMB:SXA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

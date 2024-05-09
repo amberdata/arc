@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "k21",
+    "assetName": "K21",
+    "assetArcId": "AMB:K21000001818",
+    "website": "https://kanon.art/",
+    "whitePaperUrl": "/how-to-buy/K21?utm_source=mexc&utm_medium=tokenifoK21&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=K21/arc_id=AMB:K21000001818/exchange=mexc/data.json"
+        ]
+    }
+}

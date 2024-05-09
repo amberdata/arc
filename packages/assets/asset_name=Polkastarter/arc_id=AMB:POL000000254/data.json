@@ -1,0 +1,29 @@
+{
+    "assetSymbol": "pols",
+    "assetName": "Polkastarter",
+    "assetArcId": "AMB:POL000000254",
+    "website": "https://polkastarter.com/",
+    "whitePaperUrl": "https://docs.polkastarter.com/",
+    "classificationTags": [
+        "DEX",
+        "Gaming"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=mexc/data.json"
+        ]
+    }
+}

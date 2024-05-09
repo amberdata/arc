@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BEN000000000_AMB:USD000000335",
+        "normalizedPair": "benji.amb.1_usdt",
+        "normalizedSymbol": "benji.amb.1",
+        "nativePair": "BENJI_USDT",
+        "exchange": "poloniex",
+        "assetName": "Basenji",
+        "assetArcId": "AMB:BEN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "benji_usdt",
+        "instrumentType": "spot"
+    }
+]

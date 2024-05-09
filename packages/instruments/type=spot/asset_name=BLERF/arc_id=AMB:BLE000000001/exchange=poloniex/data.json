@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BLE000000001_AMB:USD000000335",
+        "normalizedPair": "blerf_usdt",
+        "normalizedSymbol": "blerf",
+        "nativePair": "BLERF_USDT",
+        "exchange": "poloniex",
+        "assetName": "BLERF",
+        "assetArcId": "AMB:BLE000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "blerf_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "argon",
+    "assetName": "Argon",
+    "assetArcId": "AMB:ARG000001411",
+    "website": "--",
+    "whitePaperUrl": "/how-to-buy/ARGON?utm_source=mexc&utm_medium=tokenifoARGON&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Argon/arc_id=AMB:ARG000001411/exchange=mexc/data.json"
+        ]
+    }
+}

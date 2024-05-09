@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "cat",
+    "assetName": "Cyber Arena",
+    "assetArcId": "AMB:CAT000001010",
+    "website": "https://cyber-arena.co/",
+    "whitePaperUrl": "https://cyber-arena.co/assets/docs/litepaper.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Cyber Arena/arc_id=AMB:CAT000001010/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Cyber Arena/arc_id=AMB:CAT000001010/exchange=mexc/data.json"
+        ]
+    }
+}

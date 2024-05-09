@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "wpepe",
+    "assetName": "Wrapped Pepe",
+    "assetArcId": "AMB:WPE000001335",
+    "website": "https://wrappedpepe.vip/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0XB2FD1E0478DBF61772996BCCE8A2F1151EEEDA37"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Wrapped Pepe/arc_id=AMB:WPE000001335/exchange=poloniex/data.json"
+        ]
+    }
+}

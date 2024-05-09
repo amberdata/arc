@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "emz",
+    "assetName": "Emartzon",
+    "assetArcId": "AMB:EMZ000001633",
+    "website": "https://emartzon.com/",
+    "whitePaperUrl": "https://emartzon.com/whitepaper-emartzon",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Emartzon/arc_id=AMB:EMZ000001633/exchange=mexc/data.json"
+        ]
+    }
+}

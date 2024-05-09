@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "scrt",
+    "assetName": "Secret",
+    "assetArcId": "AMB:SCR000000290",
+    "website": "https://scrt.network/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming",
+        "Governance",
+        "Privacy",
+        "Proof-of-Stake",
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Secret/arc_id=AMB:SCR000000290/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Secret/arc_id=AMB:SCR000000290/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Secret/arc_id=AMB:SCR000000290/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Secret/arc_id=AMB:SCR000000290/exchange=binance/data.json"
+        ]
+    }
+}

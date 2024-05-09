@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "lfg2024",
+    "assetName": "LFG2024",
+    "assetArcId": "AMB:LFG000000000",
+    "website": "https://lfg2024.world/",
+    "whitePaperUrl": "https://lfg2024.world/LFG2024.WHITEPAPER.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=LFG2024/arc_id=AMB:LFG000000000/exchange=mexc/data.json"
+        ]
+    }
+}

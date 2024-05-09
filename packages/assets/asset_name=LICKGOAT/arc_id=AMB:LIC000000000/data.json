@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "lick",
+    "assetName": "LICKGOAT",
+    "assetArcId": "AMB:LIC000000000",
+    "website": "https://lickgoat.meme/",
+    "whitePaperUrl": "/how-to-buy/LICK?utm_source=mexc&utm_medium=tokenifoLICK&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=LICKGOAT/arc_id=AMB:LIC000000000/exchange=mexc/data.json"
+        ]
+    }
+}

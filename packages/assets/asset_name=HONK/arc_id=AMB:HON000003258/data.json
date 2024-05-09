@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "honk",
+    "assetName": "HONK",
+    "assetArcId": "AMB:HON000003258",
+    "website": "https://honk.lol/",
+    "whitePaperUrl": "/how-to-buy/HONK?utm_source=mexc&utm_medium=tokenifoHONK&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=HONK/arc_id=AMB:HON000003258/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=HONK/arc_id=AMB:HON000003258/exchange=mexc/data.json"
+        ]
+    }
+}

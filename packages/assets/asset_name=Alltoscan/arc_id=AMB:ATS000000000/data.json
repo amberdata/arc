@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ats",
+    "assetName": "Alltoscan",
+    "assetArcId": "AMB:ATS000000000",
+    "website": "https://ats.alltoscan.com/",
+    "whitePaperUrl": "https://alltoscan.com/doc/whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Alltoscan/arc_id=AMB:ATS000000000/exchange=mexc/data.json"
+        ]
+    }
+}

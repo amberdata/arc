@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "vpr",
+    "assetName": "Vapor Wallet",
+    "assetArcId": "AMB:VPR000002721",
+    "website": "https://www.vaporfund.com/",
+    "whitePaperUrl": "/how-to-buy/VPR?utm_source=mexc&utm_medium=tokenifoVPR&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Vapor Wallet/arc_id=AMB:VPR000002721/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Vapor Wallet/arc_id=AMB:VPR000002721/exchange=mexc/data.json"
+        ]
+    }
+}

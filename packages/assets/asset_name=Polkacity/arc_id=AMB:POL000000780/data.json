@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "polc",
+    "assetName": "Polkacity",
+    "assetArcId": "AMB:POL000000780",
+    "website": "https://www.polkacity.io",
+    "whitePaperUrl": "/how-to-buy/POLC?utm_source=mexc&utm_medium=tokenifoPOLC&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Polkacity/arc_id=AMB:POL000000780/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Polkacity/arc_id=AMB:POL000000780/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Polkacity/arc_id=AMB:POL000000780/exchange=bitfinex/data.json"
+        ]
+    }
+}

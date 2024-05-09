@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "hac",
+    "assetName": "Planet Hares",
+    "assetArcId": "AMB:HAC000002939",
+    "website": "https://0xhares.io/",
+    "whitePaperUrl": "https://planet-hares.gitbook.io/planet-hares-white-paper/",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Planet Hares/arc_id=AMB:HAC000002939/exchange=mexc/data.json"
+        ]
+    }
+}

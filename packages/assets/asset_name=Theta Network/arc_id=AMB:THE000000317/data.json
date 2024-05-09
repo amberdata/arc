@@ -1,0 +1,24 @@
+{
+    "assetSymbol": "theta",
+    "assetName": "Theta Network",
+    "assetArcId": "AMB:THE000000317",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming",
+        "Governance",
+        "Proof-of-Stake"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Theta Network/arc_id=AMB:THE000000317/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Theta Network/arc_id=AMB:THE000000317/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Theta Network/arc_id=AMB:THE000000317/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Theta Network/arc_id=AMB:THE000000317/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Theta Network/arc_id=AMB:THE000000317/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Theta Network/arc_id=AMB:THE000000317/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Theta Network/arc_id=AMB:THE000000317/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Theta Network/arc_id=AMB:THE000000317/exchange=bitfinex/data.json"
+        ]
+    }
+}

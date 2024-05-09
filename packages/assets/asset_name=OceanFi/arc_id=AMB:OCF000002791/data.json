@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ocf",
+    "assetName": "OceanFi",
+    "assetArcId": "AMB:OCF000002791",
+    "website": "https://oceanfi.io/",
+    "whitePaperUrl": "https://oceanfi.gitbook.io/oceanfi-gitbook/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=OceanFi/arc_id=AMB:OCF000002791/exchange=mexc/data.json"
+        ]
+    }
+}

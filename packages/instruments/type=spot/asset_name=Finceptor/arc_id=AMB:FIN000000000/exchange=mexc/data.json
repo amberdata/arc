@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FIN000000000_AMB:USD000000335",
+        "normalizedPair": "finc_usdt",
+        "normalizedSymbol": "finc",
+        "nativePair": "FINCUSDT",
+        "exchange": "mexc",
+        "assetName": "Finceptor",
+        "assetArcId": "AMB:FIN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "finc_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "favr",
+    "assetName": "FAVOR",
+    "assetArcId": "AMB:FAV000001653",
+    "website": "https://favoralliance.io/",
+    "whitePaperUrl": "https://docs.favoralliance.io/v/favor-english/hello-favor-world/about-favor",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=FAVOR/arc_id=AMB:FAV000001653/exchange=mexc/data.json"
+        ]
+    }
+}

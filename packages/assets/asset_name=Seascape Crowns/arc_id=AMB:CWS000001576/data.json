@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cws",
+    "assetName": "Seascape Crowns",
+    "assetArcId": "AMB:CWS000001576",
+    "website": "www.seascape.network",
+    "whitePaperUrl": "/how-to-buy/CWS?utm_source=mexc&utm_medium=tokenifoCWS&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Seascape Crowns/arc_id=AMB:CWS000001576/exchange=mexc/data.json"
+        ]
+    }
+}

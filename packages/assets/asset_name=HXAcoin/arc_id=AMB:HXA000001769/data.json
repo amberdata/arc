@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "hxa",
+    "assetName": "HXAcoin",
+    "assetArcId": "AMB:HXA000001769",
+    "website": "https://www.hxacoin.io/",
+    "whitePaperUrl": "https://herencia.gitbook.io/herencia-white-paper/",
+    "classificationTags": [
+        "Privacy",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=HXAcoin/arc_id=AMB:HXA000001769/exchange=mexc/data.json"
+        ]
+    }
+}

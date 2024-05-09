@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dappt",
+    "assetName": "DAPPT",
+    "assetArcId": "AMB:DAP000001579",
+    "website": "--",
+    "whitePaperUrl": "/how-to-buy/DAPPT?utm_source=mexc&utm_medium=tokenifoDAPPT&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=DAPPT/arc_id=AMB:DAP000001579/exchange=mexc/data.json"
+        ]
+    }
+}

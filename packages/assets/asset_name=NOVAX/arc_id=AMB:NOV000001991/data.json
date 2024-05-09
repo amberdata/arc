@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "novax",
+    "assetName": "NOVAX",
+    "assetArcId": "AMB:NOV000001991",
+    "website": "https://novax.finance/",
+    "whitePaperUrl": "https://novax-docs.gitbook.io/novax-gitbooks/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

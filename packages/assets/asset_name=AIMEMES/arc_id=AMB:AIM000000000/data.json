@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "aimemes",
+    "assetName": "AIMEMES",
+    "assetArcId": "AMB:AIM000000000",
+    "website": "https://aimemes.one/",
+    "whitePaperUrl": "https://aimemes.one/Aimemes.whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=AIMEMES/arc_id=AMB:AIM000000000/exchange=mexc/data.json"
+        ]
+    }
+}

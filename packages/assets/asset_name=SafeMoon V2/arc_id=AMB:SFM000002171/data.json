@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "sfm",
+    "assetName": "SafeMoon V2",
+    "assetArcId": "AMB:SFM000002171",
+    "website": "https://safemoon.com/",
+    "whitePaperUrl": "/how-to-buy/SFM?utm_source=mexc&utm_medium=tokenifoSFM&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=SafeMoon V2/arc_id=AMB:SFM000002171/exchange=mexc/data.json"
+        ]
+    }
+}

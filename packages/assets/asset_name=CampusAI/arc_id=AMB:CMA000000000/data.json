@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cmai",
+    "assetName": "CampusAI",
+    "assetArcId": "AMB:CMA000000000",
+    "website": "https://www.cpaicoin.com/",
+    "whitePaperUrl": "/how-to-buy/CMAI?utm_source=mexc&utm_medium=tokenifoCMAI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=CampusAI/arc_id=AMB:CMA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

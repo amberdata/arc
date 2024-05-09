@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "pizza",
+    "assetName": "Pizza",
+    "assetArcId": "AMB:PIZ000000000",
+    "website": "https://pizzameme.xyz/",
+    "whitePaperUrl": "/how-to-buy/PIZZA?utm_source=mexc&utm_medium=tokenifoPIZZA&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Pizza/arc_id=AMB:PIZ000000000/exchange=mexc/data.json"
+        ]
+    }
+}

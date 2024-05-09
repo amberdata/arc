@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "altlayer",
+    "assetName": "AltLayer",
+    "assetArcId": "AMB:ALT000003033",
+    "website": "https://altlayer.io/",
+    "whitePaperUrl": "https://docs.altlayer.io/altlayer-documentation/welcome/overview",
+    "classificationTags": [
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=AltLayer/arc_id=AMB:ALT000003033/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MUS000003309_AMB:USD000000335",
+        "normalizedPair": "music_usdt",
+        "normalizedSymbol": "music",
+        "nativePair": "musicusdt",
+        "exchange": "huobi",
+        "assetName": "Gala Music",
+        "assetArcId": "AMB:MUS000003309",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "music_usdt",
+        "instrumentType": "spot"
+    }
+]

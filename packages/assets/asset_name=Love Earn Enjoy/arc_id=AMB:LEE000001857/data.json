@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "lee",
+    "assetName": "Love Earn Enjoy",
+    "assetArcId": "AMB:LEE000001857",
+    "website": "https://cheelee.io/",
+    "whitePaperUrl": "https://cheelee.io/pdf/WP_eng.pdf?v=1682408299963",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Love Earn Enjoy/arc_id=AMB:LEE000001857/exchange=mexc/data.json"
+        ]
+    }
+}

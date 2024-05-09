@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "xrootai",
+    "assetName": "XRootAI",
+    "assetArcId": "AMB:XRO000000000",
+    "website": "https://www.xrootai.com/",
+    "whitePaperUrl": "https://whitepaper.xrootai.com/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=XRootAI/arc_id=AMB:XRO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

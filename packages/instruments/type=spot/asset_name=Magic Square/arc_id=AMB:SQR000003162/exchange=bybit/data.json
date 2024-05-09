@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SQR000003162_AMB:USD000000335",
+        "normalizedPair": "sqr_usdt",
+        "normalizedSymbol": "sqr",
+        "nativePair": "SQRUSDT",
+        "exchange": "bybit",
+        "assetName": "Magic Square",
+        "assetArcId": "AMB:SQR000003162",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sqr_usdt",
+        "instrumentType": "spot"
+    }
+]

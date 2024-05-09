@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "lambosol",
+    "assetName": "Lambo",
+    "assetArcId": "AMB:LAM000000001",
+    "website": "https://lambosol.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "FhAdp55ngkaRCC3TGAMsJdDCUHQDPTMcxQDJ4HCfnxMf"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Lambo/arc_id=AMB:LAM000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

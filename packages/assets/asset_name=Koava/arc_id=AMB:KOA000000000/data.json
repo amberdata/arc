@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "koava",
+    "assetName": "Koava",
+    "assetArcId": "AMB:KOA000000000",
+    "website": "https://koava.meme/",
+    "whitePaperUrl": "https://github.com/Koava-meme/Assets/blob/main/Koava%20Whitepaper.pdf",
+    "classificationTags": [
+        "Meme",
+        "Oracles"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Koava/arc_id=AMB:KOA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

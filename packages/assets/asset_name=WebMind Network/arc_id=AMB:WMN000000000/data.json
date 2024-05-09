@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "wmn",
+    "assetName": "WebMind Network",
+    "assetArcId": "AMB:WMN000000000",
+    "website": "https://webmindnetwork.com/",
+    "whitePaperUrl": "https://webmindnetwork.com/wp-content/themes/webmind/assets/img/Webmind%20network%20whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=WebMind Network/arc_id=AMB:WMN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

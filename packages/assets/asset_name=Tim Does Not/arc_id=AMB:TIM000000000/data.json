@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "tim.amb.1",
+    "assetName": "Tim Does Not",
+    "assetArcId": "AMB:TIM000000000",
+    "website": "https://www.timdoesnot.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "DWjVPqEX4fPFQ47Xb7EegpGhgWzRviYfPoEWPnxz2CRd"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Tim Does Not/arc_id=AMB:TIM000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

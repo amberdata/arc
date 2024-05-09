@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "vvs",
+    "assetName": "VVS Finance",
+    "assetArcId": "AMB:VVS000000000",
+    "website": "https://vvs.finance/",
+    "whitePaperUrl": "https://docs.vvs.finance/litepaper",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=VVS Finance/arc_id=AMB:VVS000000000/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=VVS Finance/arc_id=AMB:VVS000000000/exchange=mexc/data.json"
+        ]
+    }
+}

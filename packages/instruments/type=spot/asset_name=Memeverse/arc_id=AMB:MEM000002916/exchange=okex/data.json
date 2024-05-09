@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MEM000002916_AMB:USD000000335",
+        "normalizedPair": "meme_usdt",
+        "normalizedSymbol": "meme",
+        "nativePair": "MEME-USDT",
+        "exchange": "okex",
+        "assetName": "Memeverse",
+        "assetArcId": "AMB:MEM000002916",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "meme_usdt",
+        "instrumentType": "spot"
+    }
+]

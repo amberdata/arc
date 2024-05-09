@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ipmb",
+    "assetName": "IPMB",
+    "assetArcId": "AMB:IPM000003114",
+    "website": "https://ipmb.io/",
+    "whitePaperUrl": "/how-to-buy/IPMB?utm_source=mexc&utm_medium=tokenifoIPMB&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=IPMB/arc_id=AMB:IPM000003114/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "zai",
+    "assetName": "ZAIBOT",
+    "assetArcId": "AMB:ZAI000000000",
+    "website": "https://www.zaibot.io/",
+    "whitePaperUrl": "/how-to-buy/ZAI?utm_source=mexc&utm_medium=tokenifoZAI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ZAIBOT/arc_id=AMB:ZAI000000000/exchange=mexc/data.json"
+        ]
+    }
+}

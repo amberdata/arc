@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ATO000001426_AMB:USD000000335",
+        "normalizedPair": "ator_usdt",
+        "normalizedSymbol": "ator",
+        "nativePair": "ATOR_USDT",
+        "exchange": "poloniex",
+        "assetName": "ATOR Protocol",
+        "assetArcId": "AMB:ATO000001426",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ator_usdt",
+        "instrumentType": "spot"
+    }
+]

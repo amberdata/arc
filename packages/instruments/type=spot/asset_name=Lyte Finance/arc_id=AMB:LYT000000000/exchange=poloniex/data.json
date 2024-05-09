@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LYT000000000_AMB:USD000000335",
+        "normalizedPair": "lyte_usdt",
+        "normalizedSymbol": "lyte",
+        "nativePair": "LYTE_USDT",
+        "exchange": "poloniex",
+        "assetName": "Lyte Finance",
+        "assetArcId": "AMB:LYT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lyte_usdt",
+        "instrumentType": "spot"
+    }
+]

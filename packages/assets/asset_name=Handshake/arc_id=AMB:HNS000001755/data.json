@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "hns",
+    "assetName": "Handshake",
+    "assetArcId": "AMB:HNS000001755",
+    "website": "https://handshake.org/",
+    "whitePaperUrl": "/how-to-buy/HNS?utm_source=mexc&utm_medium=tokenifoHNS&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Handshake/arc_id=AMB:HNS000001755/exchange=mexc/data.json"
+        ]
+    }
+}

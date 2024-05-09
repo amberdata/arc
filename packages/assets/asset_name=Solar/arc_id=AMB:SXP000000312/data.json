@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "sxp",
+    "assetName": "Solar",
+    "assetArcId": "AMB:SXP000000312",
+    "website": "https://solar.org/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Solar/arc_id=AMB:SXP000000312/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Solar/arc_id=AMB:SXP000000312/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Solar/arc_id=AMB:SXP000000312/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Solar/arc_id=AMB:SXP000000312/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Solar/arc_id=AMB:SXP000000312/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Solar/arc_id=AMB:SXP000000312/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Solar/arc_id=AMB:SXP000000312/exchange=bitstamp/data.json"
+        ]
+    }
+}

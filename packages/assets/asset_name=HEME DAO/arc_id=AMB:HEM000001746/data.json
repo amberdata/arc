@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "heme",
+    "assetName": "HEME DAO",
+    "assetArcId": "AMB:HEM000001746",
+    "website": "https://heme.pro/",
+    "whitePaperUrl": "https://github.com/HEMEDAO13/WHITEPAPER/blob/main/HEME%20WHITE%20PAPER%20%20V3%20EN.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=HEME DAO/arc_id=AMB:HEM000001746/exchange=mexc/data.json"
+        ]
+    }
+}

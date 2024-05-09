@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "rb",
+    "assetName": "Runebridge",
+    "assetArcId": "AMB:RBA000000000",
+    "website": "https://runesbridge.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0xe91598331a36a78f7fefe277ce7c1915da0afb93"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Runebridge/arc_id=AMB:RBA000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

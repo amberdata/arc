@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HST000000000_AMB:USD000000335",
+        "normalizedPair": "hst_usdt",
+        "normalizedSymbol": "hst",
+        "nativePair": "HSTUSDT",
+        "exchange": "mexc",
+        "assetName": "HeadStarter",
+        "assetArcId": "AMB:HST000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hst_usdt",
+        "instrumentType": "spot"
+    }
+]

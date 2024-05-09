@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "jolt",
+    "assetName": "Joltify",
+    "assetArcId": "AMB:JOL000003394",
+    "website": "https://joltify.io/",
+    "whitePaperUrl": "https://docs.joltify.io/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Joltify/arc_id=AMB:JOL000003394/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "joystream",
+    "assetName": "JOYSTREAM",
+    "assetArcId": "AMB:JOY000001811",
+    "website": "https://www.joystream.org/",
+    "whitePaperUrl": "https://www.joystream.org/lightpaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=JOYSTREAM/arc_id=AMB:JOY000001811/exchange=mexc/data.json"
+        ]
+    }
+}

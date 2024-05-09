@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "soph",
+    "assetName": "SophiaVerse",
+    "assetArcId": "AMB:SOP000002212",
+    "website": "https://www.sophiaverse.ai/",
+    "whitePaperUrl": "https://uploads-ssl.webflow.com/622c1e6eb1cd192ecedc6225/6478bea1a315bfb5780f59fb_SophiaVerse%20Whitepaper%20v2.0.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=SophiaVerse/arc_id=AMB:SOP000002212/exchange=mexc/data.json"
+        ]
+    }
+}

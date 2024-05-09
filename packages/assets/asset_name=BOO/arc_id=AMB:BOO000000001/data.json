@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "boo.amb.1",
+    "assetName": "BOO",
+    "assetArcId": "AMB:BOO000000001",
+    "website": "https://bootoken.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x32e7c8a6e920a3cf224b678112ac78fdc0fb09d1"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BOO/arc_id=AMB:BOO000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

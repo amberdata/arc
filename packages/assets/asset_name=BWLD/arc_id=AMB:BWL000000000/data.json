@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "bwld",
+    "assetName": "BWLD",
+    "assetArcId": "AMB:BWL000000000",
+    "website": "https://bowled.io/",
+    "whitePaperUrl": "https://bowled-io.gitbook.io/bowled.io-white-paper/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BWLD/arc_id=AMB:BWL000000000/exchange=mexc/data.json"
+        ]
+    }
+}

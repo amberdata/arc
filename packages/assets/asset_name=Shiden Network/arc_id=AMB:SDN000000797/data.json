@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "sdn",
+    "assetName": "Shiden Network",
+    "assetArcId": "AMB:SDN000000797",
+    "website": "https://shiden.astar.network/",
+    "whitePaperUrl": "https://docs.astar.network/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Shiden Network/arc_id=AMB:SDN000000797/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Shiden Network/arc_id=AMB:SDN000000797/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Shiden Network/arc_id=AMB:SDN000000797/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Shiden Network/arc_id=AMB:SDN000000797/exchange=zb/data.json"
+        ]
+    }
+}

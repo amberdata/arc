@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "xone",
+    "assetName": "XONE",
+    "assetArcId": "AMB:XON000003361",
+    "website": "https://xonetoken.com/",
+    "whitePaperUrl": "https://faircrypto.org/XONE_LP.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=XONE/arc_id=AMB:XON000003361/exchange=mexc/data.json"
+        ]
+    }
+}

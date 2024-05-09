@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "mkc",
+    "assetName": "Monkey Empire",
+    "assetArcId": "AMB:MKC000000000",
+    "website": "https://monkeyempire.net",
+    "whitePaperUrl": "https://monkeyempire.gitbook.io/monkey-empire/whitepaper/introduction",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Monkey Empire/arc_id=AMB:MKC000000000/exchange=mexc/data.json"
+        ]
+    }
+}

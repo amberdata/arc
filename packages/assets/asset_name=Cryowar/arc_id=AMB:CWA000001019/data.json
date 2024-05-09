@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "cwar",
+    "assetName": "Cryowar",
+    "assetArcId": "AMB:CWA000001019",
+    "website": "https://cryowar.com/",
+    "whitePaperUrl": "/how-to-buy/CWAR?utm_source=mexc&utm_medium=tokenifoCWAR&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Cryowar/arc_id=AMB:CWA000001019/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Cryowar/arc_id=AMB:CWA000001019/exchange=mexc/data.json"
+        ]
+    }
+}

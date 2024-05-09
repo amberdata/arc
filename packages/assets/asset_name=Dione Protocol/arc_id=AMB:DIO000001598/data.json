@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dione",
+    "assetName": "Dione Protocol",
+    "assetArcId": "AMB:DIO000001598",
+    "website": "https://dioneprotocol.com/",
+    "whitePaperUrl": "https://medium.com/@dioneprotocol/nebra-powered-by-dione-219047088c81",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Dione Protocol/arc_id=AMB:DIO000001598/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "neuros",
+    "assetName": "NEUROS",
+    "assetArcId": "AMB:NEU000000002",
+    "website": "https://www.shockwaves.ai/",
+    "whitePaperUrl": "https://whitepaper.shockwaves.ai/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=NEUROS/arc_id=AMB:NEU000000002/exchange=mexc/data.json"
+        ]
+    }
+}

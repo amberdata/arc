@@ -1,0 +1,24 @@
+{
+    "assetSymbol": "ctx",
+    "assetName": "Cryptex Finance",
+    "assetArcId": "AMB:CTX000000392",
+    "website": "https://cryptex.finance/",
+    "whitePaperUrl": "https://cryptex.finance/White_Paper.pdf",
+    "classificationTags": [
+        "Governance",
+        "Smart Contract"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x321c2fe4446c7c963dc41dd58879af648838f98d"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Cryptex Finance/arc_id=AMB:CTX000000392/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Cryptex Finance/arc_id=AMB:CTX000000392/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Cryptex Finance/arc_id=AMB:CTX000000392/exchange=gdax/data.json"
+        ]
+    }
+}

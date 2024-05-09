@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cwd",
+    "assetName": "CoinWorld",
+    "assetArcId": "AMB:CWD000000000",
+    "website": "http://coinworld.biz/",
+    "whitePaperUrl": "https://docs.coinworld.biz",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=CoinWorld/arc_id=AMB:CWD000000000/exchange=mexc/data.json"
+        ]
+    }
+}

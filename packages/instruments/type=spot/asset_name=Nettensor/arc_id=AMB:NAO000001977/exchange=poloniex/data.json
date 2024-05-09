@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NAO000001977_AMB:USD000000335",
+        "normalizedPair": "nao_usdt",
+        "normalizedSymbol": "nao",
+        "nativePair": "NAO_USDT",
+        "exchange": "poloniex",
+        "assetName": "Nettensor",
+        "assetArcId": "AMB:NAO000001977",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nao_usdt",
+        "instrumentType": "spot"
+    }
+]

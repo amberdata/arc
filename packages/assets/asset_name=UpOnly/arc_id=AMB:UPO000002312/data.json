@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "upo",
+    "assetName": "UpOnly",
+    "assetArcId": "AMB:UPO000002312",
+    "website": "https://www.uponly.com/",
+    "whitePaperUrl": "https://about.uponly.com/docs/UPO_WP.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=UpOnly/arc_id=AMB:UPO000002312/exchange=mexc/data.json"
+        ]
+    }
+}

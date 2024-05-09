@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bscpad",
+    "assetName": "BSCPAD",
+    "assetArcId": "AMB:BSC000001496",
+    "website": "https://bscpad.com/",
+    "whitePaperUrl": "/how-to-buy/BSCPAD?utm_source=mexc&utm_medium=tokenifoBSCPAD&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BSCPAD/arc_id=AMB:BSC000001496/exchange=mexc/data.json"
+        ]
+    }
+}

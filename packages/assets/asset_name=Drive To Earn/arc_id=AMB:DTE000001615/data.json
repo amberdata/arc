@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dte",
+    "assetName": "Drive To Earn",
+    "assetArcId": "AMB:DTE000001615",
+    "website": "https://www.d2e.info/",
+    "whitePaperUrl": "https://www.d2e.info/white-paper/1.%20Introduction",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Drive To Earn/arc_id=AMB:DTE000001615/exchange=mexc/data.json"
+        ]
+    }
+}

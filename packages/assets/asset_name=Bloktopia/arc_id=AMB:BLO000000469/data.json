@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "blok",
+    "assetName": "Bloktopia",
+    "assetArcId": "AMB:BLO000000469",
+    "website": "https://www.bloktopia.com/",
+    "whitePaperUrl": "https://bloktopia.gitbook.io/bloktopia-public-1/bloktopia-introduction/the-bloktopia-metaverse",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Bloktopia/arc_id=AMB:BLO000000469/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Bloktopia/arc_id=AMB:BLO000000469/exchange=mexc/data.json"
+        ]
+    }
+}

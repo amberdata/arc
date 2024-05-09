@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "home",
+    "assetName": "Homer Of Meme",
+    "assetArcId": "AMB:HOM000000000",
+    "website": "https://homersimpson.fun/#",
+    "whitePaperUrl": "/how-to-buy/HOME?utm_source=mexc&utm_medium=tokenifoHOME&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Homer Of Meme/arc_id=AMB:HOM000000000/exchange=mexc/data.json"
+        ]
+    }
+}

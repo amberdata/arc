@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "spt",
+    "assetName": "SeaPad",
+    "assetArcId": "AMB:SPT000002223",
+    "website": "https://seapad.fund/",
+    "whitePaperUrl": "https://online.flippingbook.com/view/453990193/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=SeaPad/arc_id=AMB:SPT000002223/exchange=mexc/data.json"
+        ]
+    }
+}

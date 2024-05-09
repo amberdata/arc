@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "vnpt",
+    "assetName": "VNPT",
+    "assetArcId": "AMB:VNP000000000",
+    "website": "https://www.vitruviannexus.xyz/",
+    "whitePaperUrl": "https://vitruvian-nexus.gitbook.io/vitruvian-nexus-protocol/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=VNPT/arc_id=AMB:VNP000000000/exchange=mexc/data.json"
+        ]
+    }
+}

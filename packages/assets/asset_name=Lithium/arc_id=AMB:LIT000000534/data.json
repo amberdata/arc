@@ -1,0 +1,18 @@
+{
+    "assetSymbol": "lith",
+    "assetName": "Lithium",
+    "assetArcId": "AMB:LIT000000534",
+    "website": "https://lith.finance/",
+    "whitePaperUrl": "https://docs.lith.finance/overview/what-is-lithium-finance",
+    "classificationTags": [
+        "Oracles",
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Lithium/arc_id=AMB:LIT000000534/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Lithium/arc_id=AMB:LIT000000534/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Lithium/arc_id=AMB:LIT000000534/exchange=huobi/data.json"
+        ]
+    }
+}

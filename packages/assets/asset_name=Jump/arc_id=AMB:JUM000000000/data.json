@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "jump",
+    "assetName": "Jump",
+    "assetArcId": "AMB:JUM000000000",
+    "website": "https://jumpcoin.xyz/",
+    "whitePaperUrl": "/how-to-buy/JUMP?utm_source=mexc&utm_medium=tokenifoJUMP&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Jump/arc_id=AMB:JUM000000000/exchange=mexc/data.json"
+        ]
+    }
+}

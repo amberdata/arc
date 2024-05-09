@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ULR000000000_AMB:USD000000335",
+        "normalizedPair": "ulr_usdt",
+        "normalizedSymbol": "ulr",
+        "nativePair": "ULRUSDT",
+        "exchange": "mexc",
+        "assetName": "Ultrix",
+        "assetArcId": "AMB:ULR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ulr_usdt",
+        "instrumentType": "spot"
+    }
+]

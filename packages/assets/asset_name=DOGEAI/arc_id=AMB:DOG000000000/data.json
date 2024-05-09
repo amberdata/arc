@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "dogeai",
+    "assetName": "DOGEAI",
+    "assetArcId": "AMB:DOG000000000",
+    "website": "https://cryptodogeai.com/",
+    "whitePaperUrl": "/how-to-buy/DOGEAI?utm_source=mexc&utm_medium=tokenifoDOGEAI&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=DOGEAI/arc_id=AMB:DOG000000000/exchange=mexc/data.json"
+        ]
+    }
+}

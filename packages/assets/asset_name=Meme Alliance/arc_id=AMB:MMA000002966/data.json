@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "mma",
+    "assetName": "Meme Alliance",
+    "assetArcId": "AMB:MMA000002966",
+    "website": "https://www.meme-alliance.com/",
+    "whitePaperUrl": "https://meme-alliance.gitbook.io/whitepaper",
+    "classificationTags": [
+        "Meme",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Meme Alliance/arc_id=AMB:MMA000002966/exchange=mexc/data.json"
+        ]
+    }
+}

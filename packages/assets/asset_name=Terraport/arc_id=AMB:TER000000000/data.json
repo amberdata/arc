@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "terra",
+    "assetName": "Terraport",
+    "assetArcId": "AMB:TER000000000",
+    "website": "https://terraport.finance/",
+    "whitePaperUrl": "https://terraport.gitbook.io/terraport-docs/",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Terraport/arc_id=AMB:TER000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "emt",
+    "assetName": "EmoTech",
+    "assetArcId": "AMB:EMT000003159",
+    "website": "https://emotech.space/",
+    "whitePaperUrl": "https://emotech.space/whitepaper",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=EmoTech/arc_id=AMB:EMT000003159/exchange=mexc/data.json"
+        ]
+    }
+}

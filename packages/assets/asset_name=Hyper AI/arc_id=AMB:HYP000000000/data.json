@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "hyperai",
+    "assetName": "Hyper AI",
+    "assetArcId": "AMB:HYP000000000",
+    "website": "https://haiperai.me",
+    "whitePaperUrl": "/how-to-buy/HYPERAI?utm_source=mexc&utm_medium=tokenifoHYPERAI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Hyper AI/arc_id=AMB:HYP000000000/exchange=mexc/data.json"
+        ]
+    }
+}

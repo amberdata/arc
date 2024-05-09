@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "popk",
+    "assetName": "POPKON",
+    "assetArcId": "AMB:POP000002090",
+    "website": "https://www.popkon.io/index_en.html",
+    "whitePaperUrl": "https://popkon0508.gitbook.io/popkon-white-paper-1.0/",
+    "classificationTags": [
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=POPKON/arc_id=AMB:POP000002090/exchange=mexc/data.json"
+        ]
+    }
+}

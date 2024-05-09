@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RVN000000286_AMB:KRW000000000",
+        "normalizedPair": "rvn_krw",
+        "normalizedSymbol": "rvn",
+        "nativePair": "RVN/KRW",
+        "exchange": "bithumb",
+        "assetName": "Ravencoin",
+        "assetArcId": "AMB:RVN000000286",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "rvn_krw",
+        "instrumentType": "spot"
+    }
+]

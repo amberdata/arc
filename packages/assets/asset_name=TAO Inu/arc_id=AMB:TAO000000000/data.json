@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "taonu",
+    "assetName": "TAO Inu",
+    "assetArcId": "AMB:TAO000000000",
+    "website": "https://www.taoinu.com/",
+    "whitePaperUrl": "https://www.taoinu.com/whitepaper",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=TAO Inu/arc_id=AMB:TAO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

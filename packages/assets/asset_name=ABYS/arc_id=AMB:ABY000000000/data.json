@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "abys",
+    "assetName": "ABYS",
+    "assetArcId": "AMB:ABY000000000",
+    "website": "https://www.trinityofthefabled.com/",
+    "whitePaperUrl": "https://www.canva.com/design/DAFCAslNTis/KcNOH130MKSzoIMOM13_tg/view#1",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ABYS/arc_id=AMB:ABY000000000/exchange=mexc/data.json"
+        ]
+    }
+}

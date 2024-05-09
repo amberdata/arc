@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "babymemecoin",
+    "assetName": "Baby Meme Coin",
+    "assetArcId": "AMB:BAB000003248",
+    "website": "https://babymeme.vip/",
+    "whitePaperUrl": "https://babymeme.vip/wpbabymemecoinv1.pdf",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Baby Meme Coin/arc_id=AMB:BAB000003248/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "rpt",
+    "assetName": "Rhapso",
+    "assetArcId": "AMB:RPT000000000",
+    "website": "http://rhapso.xyz/",
+    "whitePaperUrl": "https://rhapsoteam.gitbook.io/rhapso-whitepaper/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Rhapso/arc_id=AMB:RPT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

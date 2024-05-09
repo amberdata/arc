@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "atpay",
+    "assetName": "AtPay",
+    "assetArcId": "AMB:ATP000001427",
+    "website": "https://atpay.io/",
+    "whitePaperUrl": "https://atpay.io/wp-content/uploads/2022/07/@Pay-Whitepaper-V2.1.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=AtPay/arc_id=AMB:ATP000001427/exchange=mexc/data.json"
+        ]
+    }
+}

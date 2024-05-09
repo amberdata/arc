@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "chonky",
+    "assetName": "CHONKY",
+    "assetArcId": "AMB:CHO000000000",
+    "website": "https://chonky.com/",
+    "whitePaperUrl": "https://chonky.com/redpaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=CHONKY/arc_id=AMB:CHO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

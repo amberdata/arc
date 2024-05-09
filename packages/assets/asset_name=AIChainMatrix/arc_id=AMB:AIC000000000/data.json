@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "aicm",
+    "assetName": "AIChainMatrix",
+    "assetArcId": "AMB:AIC000000000",
+    "website": "https://www.aichainmatrix.com/",
+    "whitePaperUrl": "/how-to-buy/AICM?utm_source=mexc&utm_medium=tokenifoAICM&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=AIChainMatrix/arc_id=AMB:AIC000000000/exchange=mexc/data.json"
+        ]
+    }
+}

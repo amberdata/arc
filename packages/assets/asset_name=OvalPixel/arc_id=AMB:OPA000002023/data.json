@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "opaig",
+    "assetName": "OvalPixel",
+    "assetArcId": "AMB:OPA000002023",
+    "website": "https://ovalpixel.com/",
+    "whitePaperUrl": "https://ovalpixel.com/ovalpixel-whitepaper/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=OvalPixel/arc_id=AMB:OPA000002023/exchange=mexc/data.json"
+        ]
+    }
+}

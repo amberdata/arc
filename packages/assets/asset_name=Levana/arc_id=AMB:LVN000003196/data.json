@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "lvn",
+    "assetName": "Levana",
+    "assetArcId": "AMB:LVN000003196",
+    "website": "https://www.levana.finance/",
+    "whitePaperUrl": "https://docs.levana.finance/whitepaper",
+    "classificationTags": [
+        "Derivatives"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Levana/arc_id=AMB:LVN000003196/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Levana/arc_id=AMB:LVN000003196/exchange=mexc/data.json"
+        ]
+    }
+}

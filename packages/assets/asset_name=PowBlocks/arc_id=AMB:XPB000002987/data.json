@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "xpb",
+    "assetName": "PowBlocks",
+    "assetArcId": "AMB:XPB000002987",
+    "website": "https://powblocks.com/",
+    "whitePaperUrl": "https://powblocks.com/whitepaper/",
+    "classificationTags": [
+        "Layer-1"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=PowBlocks/arc_id=AMB:XPB000002987/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "tpu",
+    "assetName": "TensorSpace",
+    "assetArcId": "AMB:TPU000000000",
+    "website": "https://tensorspace.cloud/",
+    "whitePaperUrl": "https://tensorspace.gitbook.io/tensorspace-whitepaper",
+    "classificationTags": [
+        "Machine Learning & AI"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=TensorSpace/arc_id=AMB:TPU000000000/exchange=mexc/data.json"
+        ]
+    }
+}

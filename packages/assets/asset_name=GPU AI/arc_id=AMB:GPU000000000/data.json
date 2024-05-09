@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "gpuai",
+    "assetName": "GPU AI",
+    "assetArcId": "AMB:GPU000000000",
+    "website": "https://gpuai.art/",
+    "whitePaperUrl": "/how-to-buy/GPUAI?utm_source=mexc&utm_medium=tokenifoGPUAI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=GPU AI/arc_id=AMB:GPU000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "skydrome",
+    "assetName": "Skydrome",
+    "assetArcId": "AMB:SKY000003231",
+    "website": "https://skydrome.finance/",
+    "whitePaperUrl": "https://docs.skydrome.finance/introduction/skydrome",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Skydrome/arc_id=AMB:SKY000003231/exchange=mexc/data.json"
+        ]
+    }
+}

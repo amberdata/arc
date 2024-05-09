@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "asn",
+    "assetName": "ASN Ai",
+    "assetArcId": "AMB:ASN000000000",
+    "website": "https://asnai.top/",
+    "whitePaperUrl": "https://asn-2.gitbook.io/autonomous-sensing-network-ai-asn-ai/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ASN Ai/arc_id=AMB:ASN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

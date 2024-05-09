@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "lovesnoopy",
+    "assetName": "I LOVE SNOOPY",
+    "assetArcId": "AMB:LOV000001259",
+    "website": "https://www.snoopy.land/",
+    "whitePaperUrl": "/how-to-buy/LOVESNOOPY?utm_source=mexc&utm_medium=tokenifoLOVESNOOPY&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=I LOVE SNOOPY/arc_id=AMB:LOV000001259/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=I LOVE SNOOPY/arc_id=AMB:LOV000001259/exchange=mexc/data.json"
+        ]
+    }
+}

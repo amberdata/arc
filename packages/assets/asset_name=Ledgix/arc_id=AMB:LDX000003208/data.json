@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ldx",
+    "assetName": "Ledgix",
+    "assetArcId": "AMB:LDX000003208",
+    "website": "https://ledgix.xyz/",
+    "whitePaperUrl": "https://ledgixofficial.gitbook.io/document/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Ledgix/arc_id=AMB:LDX000003208/exchange=mexc/data.json"
+        ]
+    }
+}

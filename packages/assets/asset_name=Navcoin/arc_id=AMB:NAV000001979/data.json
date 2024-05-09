@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "nav",
+    "assetName": "Navcoin",
+    "assetArcId": "AMB:NAV000001979",
+    "website": "https://navcoin.org/",
+    "whitePaperUrl": "/how-to-buy/NAV?utm_source=mexc&utm_medium=tokenifoNAV&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Privacy",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Navcoin/arc_id=AMB:NAV000001979/exchange=mexc/data.json"
+        ]
+    }
+}

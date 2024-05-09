@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "mco2",
+    "assetName": "Moss Carbon Credit",
+    "assetArcId": "AMB:MCO000000420",
+    "website": "https://moss.earth/",
+    "whitePaperUrl": "https://mco2token.moss.earth/",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xfc98e825a2264d890f9a1e68ed50e1526abccacd"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Moss Carbon Credit/arc_id=AMB:MCO000000420/exchange=gdax/data.json"
+        ]
+    }
+}

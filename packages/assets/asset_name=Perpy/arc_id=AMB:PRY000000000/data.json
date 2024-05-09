@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "pry",
+    "assetName": "Perpy",
+    "assetArcId": "AMB:PRY000000000",
+    "website": "https://www.perpy.finance/",
+    "whitePaperUrl": "https://docs.perpy.finance/perpy-finance",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Perpy/arc_id=AMB:PRY000000000/exchange=mexc/data.json"
+        ]
+    }
+}

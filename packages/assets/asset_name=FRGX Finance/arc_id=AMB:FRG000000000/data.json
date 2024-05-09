@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "frgx",
+    "assetName": "FRGX Finance",
+    "assetArcId": "AMB:FRG000000000",
+    "website": "https://frgx.finance/",
+    "whitePaperUrl": "https://frgx.finance/docs/lightpaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=FRGX Finance/arc_id=AMB:FRG000000000/exchange=mexc/data.json"
+        ]
+    }
+}

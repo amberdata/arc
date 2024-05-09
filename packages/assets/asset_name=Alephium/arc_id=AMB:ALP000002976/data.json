@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "alph",
+    "assetName": "Alephium",
+    "assetArcId": "AMB:ALP000002976",
+    "website": "https://alephium.org/",
+    "whitePaperUrl": "https://github.com/alephium/white-paper/blob/master/alephium.pdf",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Alephium/arc_id=AMB:ALP000002976/exchange=mexc/data.json"
+        ]
+    }
+}

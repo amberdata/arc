@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "patex",
+    "assetName": "Patex",
+    "assetArcId": "AMB:PAT000000000",
+    "website": "https://patex.io/",
+    "whitePaperUrl": "/how-to-buy/PATEX?utm_source=mexc&utm_medium=tokenifoPATEX&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Patex/arc_id=AMB:PAT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

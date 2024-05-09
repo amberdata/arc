@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "khai",
+    "assetName": "Kitten Haimer",
+    "assetArcId": "AMB:KHA000000000",
+    "website": "https://kittenhaimer.ai/",
+    "whitePaperUrl": "https://khai-organization.gitbook.io/kitten-haimer",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Kitten Haimer/arc_id=AMB:KHA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

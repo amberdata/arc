@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "btrst",
+    "assetName": "Braintrust",
+    "assetArcId": "AMB:BTR000000386",
+    "website": "https://www.usebraintrust.com/",
+    "whitePaperUrl": "https://www.usebraintrust.com/hubfs/%5BWhitepaper%5D%20Braintrust_The_Decentralized_Talent_Network_9_2_21.pdf",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x799ebfabe77a6e34311eeee9825190b9ece32824"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Braintrust/arc_id=AMB:BTR000000386/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Braintrust/arc_id=AMB:BTR000000386/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Braintrust/arc_id=AMB:BTR000000386/exchange=gdax/data.json"
+        ]
+    }
+}

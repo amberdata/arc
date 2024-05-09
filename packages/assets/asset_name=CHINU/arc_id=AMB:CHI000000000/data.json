@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "chinu",
+    "assetName": "CHINU",
+    "assetArcId": "AMB:CHI000000000",
+    "website": "https://chinu.vip/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "FLrgwxXaX8q8ECF18weDf3PLAYorXST5orpY34d8jfbm"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=CHINU/arc_id=AMB:CHI000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

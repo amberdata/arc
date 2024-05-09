@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "trv",
+    "assetName": "Terivto Protocol",
+    "assetArcId": "AMB:TRV000000000",
+    "website": "https://www.terivtoprotocol.xyz/",
+    "whitePaperUrl": "https://terivto.gitbook.io/terivto-protocol/intro/introduction-to-terivto",
+    "classificationTags": [
+        "Derivatives"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Terivto Protocol/arc_id=AMB:TRV000000000/exchange=mexc/data.json"
+        ]
+    }
+}

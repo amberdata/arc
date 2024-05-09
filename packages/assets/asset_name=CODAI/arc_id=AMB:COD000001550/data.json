@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "codai",
+    "assetName": "CODAI",
+    "assetArcId": "AMB:COD000001550",
+    "website": "https://www.codai.online/",
+    "whitePaperUrl": "https://www.codai.online/whitepaper",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=CODAI/arc_id=AMB:COD000001550/exchange=mexc/data.json"
+        ]
+    }
+}

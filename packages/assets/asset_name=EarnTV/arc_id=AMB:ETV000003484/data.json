@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "etv",
+    "assetName": "EarnTV",
+    "assetArcId": "AMB:ETV000003484",
+    "website": "https://earntv.io/",
+    "whitePaperUrl": "https://drive.google.com/file/d/12wnP2I8ADhe8m5OsfvEHNUymCE5MW7sj/view?usp=sharing",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=EarnTV/arc_id=AMB:ETV000003484/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "xtm",
+    "assetName": "Torum",
+    "assetArcId": "AMB:XTM000000876",
+    "website": "https://intro.torum.com/",
+    "whitePaperUrl": "/how-to-buy/XTM?utm_source=mexc&utm_medium=tokenifoXTM&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Content & Streaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Torum/arc_id=AMB:XTM000000876/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Torum/arc_id=AMB:XTM000000876/exchange=mexc/data.json"
+        ]
+    }
+}

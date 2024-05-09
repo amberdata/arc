@@ -1,0 +1,24 @@
+{
+    "assetSymbol": "rbn",
+    "assetName": "Ribbon Finance",
+    "assetArcId": "AMB:RBN000000442",
+    "website": "https://www.ribbon.finance/",
+    "whitePaperUrl": "https://docs.ribbon.finance/",
+    "classificationTags": [
+        "Derivatives",
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Ribbon Finance/arc_id=AMB:RBN000000442/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Ribbon Finance/arc_id=AMB:RBN000000442/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Ribbon Finance/arc_id=AMB:RBN000000442/exchange=gdax/data.json"
+        ]
+    }
+}

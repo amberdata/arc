@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "csas",
+    "assetName": "Comsats",
+    "assetArcId": "AMB:CSA000002873",
+    "website": "https://comsats.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "BRC",
+            "address": "08fc8bc813521635dd1471917a8d4a91749573df5454bac3b6f868e506347156i0"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Comsats/arc_id=AMB:CSA000002873/exchange=poloniex/data.json"
+        ]
+    }
+}

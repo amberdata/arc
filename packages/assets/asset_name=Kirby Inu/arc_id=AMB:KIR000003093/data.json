@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "kirbyinu",
+    "assetName": "Kirby Inu",
+    "assetArcId": "AMB:KIR000003093",
+    "website": "https://kirbyinu.vip/",
+    "whitePaperUrl": "/how-to-buy/KIRBYINU?utm_source=mexc&utm_medium=tokenifoKIRBYINU&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Kirby Inu/arc_id=AMB:KIR000003093/exchange=mexc/data.json"
+        ]
+    }
+}

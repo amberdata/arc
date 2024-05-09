@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "rmv",
+    "assetName": "Reality Metaverse",
+    "assetArcId": "AMB:RMV000003111",
+    "website": "http://www.realitymeta.io/",
+    "whitePaperUrl": "https://meme3.gitbook.io/meme3/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Reality Metaverse/arc_id=AMB:RMV000003111/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Reality Metaverse/arc_id=AMB:RMV000003111/exchange=mexc/data.json"
+        ]
+    }
+}

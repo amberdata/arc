@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "cbeth",
+    "assetName": "Coinbase Wrapped Staked ETH",
+    "assetArcId": "AMB:CBE000000387",
+    "website": null,
+    "whitePaperUrl": "https://www.coinbase.com/cbeth/whitepaper",
+    "classificationTags": [
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Arbitrum",
+            "address": ""
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Coinbase Wrapped Staked ETH/arc_id=AMB:CBE000000387/exchange=gdax/data.json"
+        ]
+    }
+}

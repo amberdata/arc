@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "sa",
+    "assetName": "SAF",
+    "assetArcId": "AMB:SAA000000000",
+    "website": "https://superai.digital/",
+    "whitePaperUrl": "https://docs.superai.digital/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=SAF/arc_id=AMB:SAA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

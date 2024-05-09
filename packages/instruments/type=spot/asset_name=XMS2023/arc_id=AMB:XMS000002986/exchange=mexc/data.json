@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XMS000002986_AMB:USD000000335",
+        "normalizedPair": "xms2023_usdt",
+        "normalizedSymbol": "xms2023",
+        "nativePair": "XMS2023USDT",
+        "exchange": "mexc",
+        "assetName": "XMS2023",
+        "assetArcId": "AMB:XMS000002986",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xms2023_usdt",
+        "instrumentType": "spot"
+    }
+]

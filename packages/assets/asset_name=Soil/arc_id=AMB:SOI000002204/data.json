@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "soil",
+    "assetName": "Soil",
+    "assetArcId": "AMB:SOI000002204",
+    "website": "https://soil.co/",
+    "whitePaperUrl": "https://docsend.com/view/bvmug7hb67ws3igm",
+    "classificationTags": [
+        "Lending",
+        "Stablecoin"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Soil/arc_id=AMB:SOI000002204/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ubu",
+    "assetName": "Africarare",
+    "assetArcId": "AMB:UBU000000000",
+    "website": "https://www.africarare.io/",
+    "whitePaperUrl": "https://litepaper.africarare.io/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Africarare/arc_id=AMB:UBU000000000/exchange=mexc/data.json"
+        ]
+    }
+}

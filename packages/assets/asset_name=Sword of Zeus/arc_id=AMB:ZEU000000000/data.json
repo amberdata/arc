@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "zeus1",
+    "assetName": "Sword of Zeus",
+    "assetArcId": "AMB:ZEU000000000",
+    "website": "https://zeus404.online",
+    "whitePaperUrl": "https://zeus-erc404s-organization.gitbook.io/white-paper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Sword of Zeus/arc_id=AMB:ZEU000000000/exchange=mexc/data.json"
+        ]
+    }
+}

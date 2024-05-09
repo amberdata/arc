@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "shiboo",
+    "assetName": "SHIBOO",
+    "assetArcId": "AMB:SHI000000000",
+    "website": "http://www.shiboo.io/",
+    "whitePaperUrl": "https://drive.google.com/file/d/1_PVnRlHZpAGlVTxYGneE7mW0brOA1EdL/view",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=SHIBOO/arc_id=AMB:SHI000000000/exchange=mexc/data.json"
+        ]
+    }
+}

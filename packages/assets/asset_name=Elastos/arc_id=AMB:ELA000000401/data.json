@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "ela",
+    "assetName": "Elastos",
+    "assetArcId": "AMB:ELA000000401",
+    "website": "https://www.elastos.org/",
+    "whitePaperUrl": "https://www.elastos.org/downloads/elastos_whitepaper_en.pdf",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xe6fd75ff38adca4b97fbcd938c86b98772431867"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Elastos/arc_id=AMB:ELA000000401/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Elastos/arc_id=AMB:ELA000000401/exchange=gdax/data.json"
+        ]
+    }
+}

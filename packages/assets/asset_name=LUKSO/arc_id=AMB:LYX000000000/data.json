@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "lyx",
+    "assetName": "LUKSO",
+    "assetArcId": "AMB:LYX000000000",
+    "website": "http://lukso.network/",
+    "whitePaperUrl": "https://uploads-ssl.webflow.com/629f44560745074760731ba4/62b200bfe0af12186845519a_LUKSO_Whitepaper_V1-1.pdf",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=LUKSO/arc_id=AMB:LYX000000000/exchange=mexc/data.json"
+        ]
+    }
+}

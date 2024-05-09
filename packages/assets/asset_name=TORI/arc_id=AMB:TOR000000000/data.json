@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "tori",
+    "assetName": "TORI",
+    "assetArcId": "AMB:TOR000000000",
+    "website": "https://tori.cat",
+    "whitePaperUrl": "/how-to-buy/TORI?utm_source=mexc&utm_medium=tokenifoTORI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=TORI/arc_id=AMB:TOR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "bswap",
+    "assetName": "BaseSwap",
+    "assetArcId": "AMB:BSW000001206",
+    "website": "https://baseswap.fi/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Base",
+            "address": "0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BaseSwap/arc_id=AMB:BSW000001206/exchange=poloniex/data.json"
+        ]
+    }
+}

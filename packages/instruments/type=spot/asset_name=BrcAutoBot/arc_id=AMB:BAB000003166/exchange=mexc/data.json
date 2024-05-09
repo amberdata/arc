@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAB000003166_AMB:USD000000335",
+        "normalizedPair": "bab_usdt",
+        "normalizedSymbol": "bab",
+        "nativePair": "BABUSDT",
+        "exchange": "mexc",
+        "assetName": "BrcAutoBot",
+        "assetArcId": "AMB:BAB000003166",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bab_usdt",
+        "instrumentType": "spot"
+    }
+]

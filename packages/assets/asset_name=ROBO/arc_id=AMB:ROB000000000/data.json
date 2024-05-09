@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "robo",
+    "assetName": "ROBO",
+    "assetArcId": "AMB:ROB000000000",
+    "website": "https://robohero.io",
+    "whitePaperUrl": "https://robohero.gitbook.io/robohero-marketing-resources/info/pitch-deck",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ROBO/arc_id=AMB:ROB000000000/exchange=mexc/data.json"
+        ]
+    }
+}

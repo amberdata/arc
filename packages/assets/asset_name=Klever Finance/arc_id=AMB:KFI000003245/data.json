@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "kfi",
+    "assetName": "Klever Finance",
+    "assetArcId": "AMB:KFI000003245",
+    "website": "https://klever.org/",
+    "whitePaperUrl": "https://klever.org/s/Klever-Blockchain-Whitepaper-v20-lr.pdf",
+    "classificationTags": [
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Klever Finance/arc_id=AMB:KFI000003245/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ath",
+    "assetName": "Athos Finance",
+    "assetArcId": "AMB:ATH000001422",
+    "website": "https://athos.finance/",
+    "whitePaperUrl": "https://athos-docs.gitbook.io/athos-finance/athos-finance/introduction",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Athos Finance/arc_id=AMB:ATH000001422/exchange=mexc/data.json"
+        ]
+    }
+}

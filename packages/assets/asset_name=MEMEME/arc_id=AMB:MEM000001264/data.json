@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "mememe",
+    "assetName": "MEMEME",
+    "assetArcId": "AMB:MEM000001264",
+    "website": "--",
+    "whitePaperUrl": "/how-to-buy/MEMEME?utm_source=mexc&utm_medium=tokenifoMEMEME&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MEMEME/arc_id=AMB:MEM000001264/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MEMEME/arc_id=AMB:MEM000001264/exchange=mexc/data.json"
+        ]
+    }
+}

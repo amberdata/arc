@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STE000000000_AMB:USD000000335",
+        "normalizedPair": "steam_usdt",
+        "normalizedSymbol": "steam",
+        "nativePair": "STEAMUSDT",
+        "exchange": "mexc",
+        "assetName": "Earthlings.land",
+        "assetArcId": "AMB:STE000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "steam_usdt",
+        "instrumentType": "spot"
+    }
+]

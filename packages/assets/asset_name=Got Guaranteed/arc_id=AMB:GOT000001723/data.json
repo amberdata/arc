@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "gotg",
+    "assetName": "Got Guaranteed",
+    "assetArcId": "AMB:GOT000001723",
+    "website": "https://gotg.world/html/en.html",
+    "whitePaperUrl": "https://gotg.world/assets/pdf/GOTG_whitepaper(ENG)_ver3.0.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Got Guaranteed/arc_id=AMB:GOT000001723/exchange=mexc/data.json"
+        ]
+    }
+}

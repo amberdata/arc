@@ -1,0 +1,24 @@
+{
+    "assetSymbol": "mpl",
+    "assetName": "Maple",
+    "assetArcId": "AMB:MPL000000425",
+    "website": "https://www.maple.finance/",
+    "whitePaperUrl": "https://maplefinance.gitbook.io/maple/",
+    "classificationTags": [
+        "Governance",
+        "Lending",
+        "Transparent"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x33349b282065b0284d756f0577fb39c158f935e6"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Maple/arc_id=AMB:MPL000000425/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Maple/arc_id=AMB:MPL000000425/exchange=gdax/data.json"
+        ]
+    }
+}

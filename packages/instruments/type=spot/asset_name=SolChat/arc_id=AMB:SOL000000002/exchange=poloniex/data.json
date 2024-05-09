@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SOL000000002_AMB:USD000000335",
+        "normalizedPair": "solchat_usdt",
+        "normalizedSymbol": "solchat",
+        "nativePair": "SOLCHAT_USDT",
+        "exchange": "poloniex",
+        "assetName": "SolChat",
+        "assetArcId": "AMB:SOL000000002",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "solchat_usdt",
+        "instrumentType": "spot"
+    }
+]

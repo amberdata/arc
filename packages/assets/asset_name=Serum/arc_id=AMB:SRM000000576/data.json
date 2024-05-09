@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "srm",
+    "assetName": "Serum",
+    "assetArcId": "AMB:SRM000000576",
+    "website": "#",
+    "whitePaperUrl": "http://projectserum.com/static/media/serum_white_paper.88d98f84.pdf",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Serum/arc_id=AMB:SRM000000576/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Serum/arc_id=AMB:SRM000000576/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Serum/arc_id=AMB:SRM000000576/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Serum/arc_id=AMB:SRM000000576/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Serum/arc_id=AMB:SRM000000576/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Serum/arc_id=AMB:SRM000000576/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Serum/arc_id=AMB:SRM000000576/exchange=mexc/data.json"
+        ]
+    }
+}

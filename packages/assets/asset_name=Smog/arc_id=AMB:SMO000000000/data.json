@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "smog",
+    "assetName": "Smog",
+    "assetArcId": "AMB:SMO000000000",
+    "website": "https://smogtoken.com/en",
+    "whitePaperUrl": "https://smogtoken.com/assets/documents/SMOG%20Litepaper.pdf",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Smog/arc_id=AMB:SMO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

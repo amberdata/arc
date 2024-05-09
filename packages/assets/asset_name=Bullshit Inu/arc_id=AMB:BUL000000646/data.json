@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bull",
+    "assetName": "Bullshit Inu",
+    "assetArcId": "AMB:BUL000000646",
+    "website": "https://www.bullshitinu.com/",
+    "whitePaperUrl": "https://www.bullshitinu.com/_files/ugd/8196c7_85b444c5bfdc45388fe7fbc9057f15fc.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Bullshit Inu/arc_id=AMB:BUL000000646/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "mla",
+    "assetName": "MoolaNet",
+    "assetArcId": "AMB:MLA000000000",
+    "website": "https://www.moolanetdex.xyz/",
+    "whitePaperUrl": "https://moolanet.gitbook.io/moolanet-whitepaper/",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MoolaNet/arc_id=AMB:MLA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bscs",
+    "assetName": "BSCS",
+    "assetArcId": "AMB:BSC000001497",
+    "website": "https://bscs.finance/",
+    "whitePaperUrl": "https://docs.bscs.finance/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BSCS/arc_id=AMB:BSC000001497/exchange=mexc/data.json"
+        ]
+    }
+}

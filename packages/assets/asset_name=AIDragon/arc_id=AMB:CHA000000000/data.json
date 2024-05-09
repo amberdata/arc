@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "chatgpt",
+    "assetName": "AIDragon",
+    "assetArcId": "AMB:CHA000000000",
+    "website": "https://solanadragon.fun/",
+    "whitePaperUrl": "https://solana-dragon.gitbook.io/solana-dragon-whitepaper",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=AIDragon/arc_id=AMB:CHA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

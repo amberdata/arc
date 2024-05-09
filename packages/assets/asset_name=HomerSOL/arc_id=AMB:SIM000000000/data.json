@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "simpsonsol",
+    "assetName": "HomerSOL",
+    "assetArcId": "AMB:SIM000000000",
+    "website": "https://homersimpson.fun/",
+    "whitePaperUrl": "/how-to-buy/SIMPSONSOL?utm_source=mexc&utm_medium=tokenifoSIMPSONSOL&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=HomerSOL/arc_id=AMB:SIM000000000/exchange=mexc/data.json"
+        ]
+    }
+}

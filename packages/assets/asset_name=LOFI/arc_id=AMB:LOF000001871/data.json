@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "lofi",
+    "assetName": "LOFI",
+    "assetArcId": "AMB:LOF000001871",
+    "website": "https://www.lofi.buzz/",
+    "whitePaperUrl": "https://whitepaper.lofi.buzz/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=LOFI/arc_id=AMB:LOF000001871/exchange=mexc/data.json"
+        ]
+    }
+}

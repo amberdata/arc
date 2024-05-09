@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "xdoge1",
+    "assetName": "XDOGE1",
+    "assetArcId": "AMB:XDO000003452",
+    "website": "https://xmas2023doge.club/",
+    "whitePaperUrl": "/how-to-buy/XDOGE1?utm_source=mexc&utm_medium=tokenifoXDOGE1&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=XDOGE1/arc_id=AMB:XDO000003452/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ecet",
+    "assetName": "ECET",
+    "assetArcId": "AMB:ECE000000000",
+    "website": "https://evercraft.eco/",
+    "whitePaperUrl": "https://cdn.evercraft.eco/storage/ECET_WHITEPAPER-min.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ECET/arc_id=AMB:ECE000000000/exchange=mexc/data.json"
+        ]
+    }
+}

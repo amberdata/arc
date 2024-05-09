@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "multiai",
+    "assetName": "Multi AI",
+    "assetArcId": "AMB:MUL000000000",
+    "website": "https://multi-ai.pro/",
+    "whitePaperUrl": "https://docs.multi-ai.pro/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Multi AI/arc_id=AMB:MUL000000000/exchange=mexc/data.json"
+        ]
+    }
+}

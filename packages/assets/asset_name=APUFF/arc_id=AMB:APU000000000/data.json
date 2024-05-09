@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "apuff",
+    "assetName": "APUFF",
+    "assetArcId": "AMB:APU000000000",
+    "website": "https://www.airpuff.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0x2BE056e595110B30ddd5eaF674BdAC54615307d9"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=APUFF/arc_id=AMB:APU000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

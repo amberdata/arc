@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cell",
+    "assetName": "Cellframe",
+    "assetArcId": "AMB:CEL000000000",
+    "website": "https://cellframe.net/",
+    "whitePaperUrl": "https://cellframe.net/white-paper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Cellframe/arc_id=AMB:CEL000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "copi",
+    "assetName": "Cornucopias",
+    "assetArcId": "AMB:COP000000000",
+    "website": "http://www.cornucopias.io/",
+    "whitePaperUrl": "https://copiwiki.cornucopias.io/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Cornucopias/arc_id=AMB:COP000000000/exchange=mexc/data.json"
+        ]
+    }
+}

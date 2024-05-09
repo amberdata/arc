@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "tlf",
+    "assetName": "Tradeleaf",
+    "assetArcId": "AMB:TLF000000000",
+    "website": "http://tradeleaf.io/",
+    "whitePaperUrl": "https://tradeleaf.gitbook.io/trade-leaf/company/competitors",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Tradeleaf/arc_id=AMB:TLF000000000/exchange=mexc/data.json"
+        ]
+    }
+}

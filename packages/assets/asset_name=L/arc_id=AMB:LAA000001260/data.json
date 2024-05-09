@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "l",
+    "assetName": "L",
+    "assetArcId": "AMB:LAA000001260",
+    "website": "https://lthememecoin.com/",
+    "whitePaperUrl": "/how-to-buy/L?utm_source=mexc&utm_medium=tokenifoL&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=L/arc_id=AMB:LAA000001260/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=L/arc_id=AMB:LAA000001260/exchange=mexc/data.json"
+        ]
+    }
+}

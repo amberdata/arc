@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "mystai",
+    "assetName": "MYSTAI",
+    "assetArcId": "AMB:MYS000000000",
+    "website": "http://mystai.top/",
+    "whitePaperUrl": "/how-to-buy/MYSTAI?utm_source=mexc&utm_medium=tokenifoMYSTAI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MYSTAI/arc_id=AMB:MYS000000000/exchange=mexc/data.json"
+        ]
+    }
+}

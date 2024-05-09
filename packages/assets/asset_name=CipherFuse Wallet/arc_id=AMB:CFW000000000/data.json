@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "cfw",
+    "assetName": "CipherFuse Wallet",
+    "assetArcId": "AMB:CFW000000000",
+    "website": "http://www.cipherfusewallet.com/",
+    "whitePaperUrl": "https://cipherfusewallet.gitbook.io/cipherfusewallet-white-paper/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=CipherFuse Wallet/arc_id=AMB:CFW000000000/exchange=mexc/data.json"
+        ]
+    }
+}

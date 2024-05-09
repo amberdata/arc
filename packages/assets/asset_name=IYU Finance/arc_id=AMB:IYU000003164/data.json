@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "iyu",
+    "assetName": "IYU Finance",
+    "assetArcId": "AMB:IYU000003164",
+    "website": "https://www.iyulsd.space/",
+    "whitePaperUrl": "https://iyu.gitbook.io/whitepaperv1/welconme/introduction",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=IYU Finance/arc_id=AMB:IYU000003164/exchange=mexc/data.json"
+        ]
+    }
+}

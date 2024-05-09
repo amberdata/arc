@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "catgpt",
+    "assetName": "CatGPT",
+    "assetArcId": "AMB:CAT000000001",
+    "website": "https://www.fairlaunch.me/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "FGf1Us3kqu9AXu2x1yWKfiKE8uSx42ACvRiUrbuAodzq"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=CatGPT/arc_id=AMB:CAT000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

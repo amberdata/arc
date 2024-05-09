@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAL000000000_AMB:USD000000335",
+        "normalizedPair": "ballz_usdt",
+        "normalizedSymbol": "ballz",
+        "nativePair": "BALLZUSDT",
+        "exchange": "mexc",
+        "assetName": "Wolf Wif Ballz",
+        "assetArcId": "AMB:BAL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ballz_usdt",
+        "instrumentType": "spot"
+    }
+]

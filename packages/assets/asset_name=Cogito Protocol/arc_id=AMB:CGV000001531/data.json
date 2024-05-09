@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cgv",
+    "assetName": "Cogito Protocol",
+    "assetArcId": "AMB:CGV000001531",
+    "website": "https://www.cogitoprotocol.com/",
+    "whitePaperUrl": "https://cogito-protocol-2.gitbook.io/whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Cogito Protocol/arc_id=AMB:CGV000001531/exchange=mexc/data.json"
+        ]
+    }
+}

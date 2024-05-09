@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "bts",
+    "assetName": "BitShares",
+    "assetArcId": "AMB:BTS000000064",
+    "website": "https://bitshares.github.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "DEX",
+        "Governance",
+        "Proof-of-Stake",
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BitShares/arc_id=AMB:BTS000000064/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BitShares/arc_id=AMB:BTS000000064/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BitShares/arc_id=AMB:BTS000000064/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BitShares/arc_id=AMB:BTS000000064/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BitShares/arc_id=AMB:BTS000000064/exchange=mexc/data.json"
+        ]
+    }
+}

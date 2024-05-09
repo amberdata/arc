@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "nochill",
+    "assetName": "AVAX HAS NO CHILL",
+    "assetArcId": "AMB:NOC000000000",
+    "website": "https://nochill.lol/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "AVAX",
+            "address": "0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=AVAX HAS NO CHILL/arc_id=AMB:NOC000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

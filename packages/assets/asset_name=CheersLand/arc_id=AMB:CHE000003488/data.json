@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "cheers",
+    "assetName": "CheersLand",
+    "assetArcId": "AMB:CHE000003488",
+    "website": "https://cheersland.org/",
+    "whitePaperUrl": "https://docs.cheersland.org/",
+    "classificationTags": [
+        "Real World Asset"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=CheersLand/arc_id=AMB:CHE000003488/exchange=mexc/data.json"
+        ]
+    }
+}

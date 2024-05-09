@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "ftn",
+    "assetName": "Fasttoken",
+    "assetArcId": "AMB:FTN000002994",
+    "website": "https://www.fasttoken.com/",
+    "whitePaperUrl": "https://docs.fasttoken.com/fasttoken-official-whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Fasttoken/arc_id=AMB:FTN000002994/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Fasttoken/arc_id=AMB:FTN000002994/exchange=mexc/data.json"
+        ]
+    }
+}

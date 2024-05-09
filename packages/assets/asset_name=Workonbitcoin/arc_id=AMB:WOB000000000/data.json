@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "wob",
+    "assetName": "Workonbitcoin",
+    "assetArcId": "AMB:WOB000000000",
+    "website": "https://workonbitcoin.website/",
+    "whitePaperUrl": "/how-to-buy/WOB?utm_source=mexc&utm_medium=tokenifoWOB&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Workonbitcoin/arc_id=AMB:WOB000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "avg",
+    "assetName": "Avocado DAO Token",
+    "assetArcId": "AMB:AVG000001432",
+    "website": "https://avocadodao.io/",
+    "whitePaperUrl": "/how-to-buy/AVG?utm_source=mexc&utm_medium=tokenifoAVG&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming",
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Avocado DAO Token/arc_id=AMB:AVG000001432/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "normiebase",
+    "assetName": "NORMIE",
+    "assetArcId": "AMB:NOR000000000",
+    "website": "https://www.normiebase.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "BASE",
+            "address": "0x7F12d13B34F5F4f0a9449c16Bcd42f0da47AF200"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=NORMIE/arc_id=AMB:NOR000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

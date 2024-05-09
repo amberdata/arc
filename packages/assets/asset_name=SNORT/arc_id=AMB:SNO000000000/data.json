@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "snort",
+    "assetName": "SNORT",
+    "assetArcId": "AMB:SNO000000000",
+    "website": "https://snort.wtf/#",
+    "whitePaperUrl": "/how-to-buy/SNORT?utm_source=mexc&utm_medium=tokenifoSNORT&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=SNORT/arc_id=AMB:SNO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

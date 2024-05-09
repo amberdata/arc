@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "acornbits",
+    "assetName": "AcornBits",
+    "assetArcId": "AMB:ACO000000000",
+    "website": "https://acornbits.xyz",
+    "whitePaperUrl": "/how-to-buy/ACORNBITS?utm_source=mexc&utm_medium=tokenifoACORNBITS&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=AcornBits/arc_id=AMB:ACO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

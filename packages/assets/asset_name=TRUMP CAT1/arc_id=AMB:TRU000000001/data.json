@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "trumpcat1",
+    "assetName": "TRUMP CAT1",
+    "assetArcId": "AMB:TRU000000001",
+    "website": "https://trumpcat.club/",
+    "whitePaperUrl": "/how-to-buy/TRUMPCAT1?utm_source=mexc&utm_medium=tokenifoTRUMPCAT1&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=TRUMP CAT1/arc_id=AMB:TRU000000001/exchange=mexc/data.json"
+        ]
+    }
+}

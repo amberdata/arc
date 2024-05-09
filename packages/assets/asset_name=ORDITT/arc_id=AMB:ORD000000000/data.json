@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "orditt",
+    "assetName": "ORDITT",
+    "assetArcId": "AMB:ORD000000000",
+    "website": "http://orditt.biz",
+    "whitePaperUrl": "https://docs.orditt.biz",
+    "classificationTags": [
+        "Gaming",
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ORDITT/arc_id=AMB:ORD000000000/exchange=mexc/data.json"
+        ]
+    }
+}

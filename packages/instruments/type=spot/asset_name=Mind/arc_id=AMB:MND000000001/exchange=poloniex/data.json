@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MND000000001_AMB:USD000000335",
+        "normalizedPair": "mnd_usdt",
+        "normalizedSymbol": "mnd",
+        "nativePair": "MND_USDT",
+        "exchange": "poloniex",
+        "assetName": "Mind",
+        "assetArcId": "AMB:MND000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mnd_usdt",
+        "instrumentType": "spot"
+    }
+]

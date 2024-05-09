@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ECE000000000_AMB:USD000000335",
+        "normalizedPair": "ecet_usdt",
+        "normalizedSymbol": "ecet",
+        "nativePair": "ECETUSDT",
+        "exchange": "mexc",
+        "assetName": "ECET",
+        "assetArcId": "AMB:ECE000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ecet_usdt",
+        "instrumentType": "spot"
+    }
+]

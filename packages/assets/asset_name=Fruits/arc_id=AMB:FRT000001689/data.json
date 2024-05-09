@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "frts",
+    "assetName": "Fruits",
+    "assetArcId": "AMB:FRT000001689",
+    "website": "https://fruitsblockchain.com/",
+    "whitePaperUrl": "/how-to-buy/FRTS?utm_source=mexc&utm_medium=tokenifoFRTS&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Fruits/arc_id=AMB:FRT000001689/exchange=mexc/data.json"
+        ]
+    }
+}

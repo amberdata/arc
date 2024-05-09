@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "ceek",
+    "assetName": "CEEK VR",
+    "assetArcId": "AMB:CEE000000480",
+    "website": "https://www.ceek.com/",
+    "whitePaperUrl": "https://www.dropbox.com/s/ddvk4kkctjfwzl7/CEEK_Virtual%20Reality%20TGE%20White%20Paper_V4.pdf?dl=0",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=CEEK VR/arc_id=AMB:CEE000000480/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=CEEK VR/arc_id=AMB:CEE000000480/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=CEEK VR/arc_id=AMB:CEE000000480/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=CEEK VR/arc_id=AMB:CEE000000480/exchange=huobi/data.json"
+        ]
+    }
+}

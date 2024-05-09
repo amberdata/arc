@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "elon2024",
+    "assetName": "ELON 2024",
+    "assetArcId": "AMB:ELO000002833",
+    "website": "https://elon2024.world/",
+    "whitePaperUrl": "/how-to-buy/ELON2024?utm_source=mexc&utm_medium=tokenifoELON2024&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ELON 2024/arc_id=AMB:ELO000002833/exchange=mexc/data.json"
+        ]
+    }
+}

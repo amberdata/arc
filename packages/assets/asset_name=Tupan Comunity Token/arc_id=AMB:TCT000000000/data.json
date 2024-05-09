@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "tct",
+    "assetName": "Tupan Comunity Token",
+    "assetArcId": "AMB:TCT000000000",
+    "website": "https://tupan.io/",
+    "whitePaperUrl": "https://tupan.io/wp-content/uploads/2024/02/WHITEPAPER-TUPAN-V3.0-08-02-2024.pdf",
+    "classificationTags": [
+        "Governance",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Tupan Comunity Token/arc_id=AMB:TCT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

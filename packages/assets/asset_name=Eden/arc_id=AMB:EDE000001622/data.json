@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "eden",
+    "assetName": "Eden",
+    "assetArcId": "AMB:EDE000001622",
+    "website": "https://edennetwork.io/",
+    "whitePaperUrl": "https://docs.edennetwork.io/",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Eden/arc_id=AMB:EDE000001622/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Eden/arc_id=AMB:EDE000001622/exchange=mexc/data.json"
+        ]
+    }
+}

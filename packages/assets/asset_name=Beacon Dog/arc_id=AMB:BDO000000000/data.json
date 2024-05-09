@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bdog",
+    "assetName": "Beacon Dog",
+    "assetArcId": "AMB:BDO000000000",
+    "website": "http://www.beacondog.xyz/",
+    "whitePaperUrl": "/how-to-buy/BDOG?utm_source=mexc&utm_medium=tokenifoBDOG&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Beacon Dog/arc_id=AMB:BDO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

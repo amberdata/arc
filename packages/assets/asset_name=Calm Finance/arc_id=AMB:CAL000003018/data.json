@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "calm",
+    "assetName": "Calm Finance",
+    "assetArcId": "AMB:CAL000003018",
+    "website": "https://www.calmdex.xyz/",
+    "whitePaperUrl": "https://calm.gitbook.io/calm-finance/",
+    "classificationTags": [
+        "Derivatives"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Calm Finance/arc_id=AMB:CAL000003018/exchange=mexc/data.json"
+        ]
+    }
+}

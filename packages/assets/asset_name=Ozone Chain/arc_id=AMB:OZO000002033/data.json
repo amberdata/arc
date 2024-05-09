@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ozo",
+    "assetName": "Ozone Chain",
+    "assetArcId": "AMB:OZO000002033",
+    "website": "https://ozonechain.io/",
+    "whitePaperUrl": "https://whitepaper.ozonechain.io/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Ozone Chain/arc_id=AMB:OZO000002033/exchange=mexc/data.json"
+        ]
+    }
+}

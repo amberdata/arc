@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "hai",
+    "assetName": "Hacken Token",
+    "assetArcId": "AMB:HAI000001737",
+    "website": "https://hacken.ai/",
+    "whitePaperUrl": "/how-to-buy/HAI?utm_source=mexc&utm_medium=tokenifoHAI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Hacken Token/arc_id=AMB:HAI000001737/exchange=mexc/data.json"
+        ]
+    }
+}

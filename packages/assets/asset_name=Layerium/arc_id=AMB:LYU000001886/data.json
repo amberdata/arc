@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "lyum",
+    "assetName": "Layerium",
+    "assetArcId": "AMB:LYU000001886",
+    "website": "https://www.layerium.org/",
+    "whitePaperUrl": "https://uploads-ssl.webflow.com/64967c521624e29a27ba6f27/6499bbb74a232f191fd140a3_Layerium_%20The%20Next%20Gen%20Layer2.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Layerium/arc_id=AMB:LYU000001886/exchange=mexc/data.json"
+        ]
+    }
+}

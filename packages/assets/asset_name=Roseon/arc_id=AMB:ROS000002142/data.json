@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "rosx",
+    "assetName": "Roseon",
+    "assetArcId": "AMB:ROS000002142",
+    "website": "https://roseon.world/",
+    "whitePaperUrl": "https://roseon.gitbook.io/roseon-whitepaper-2.0/whitepaper/abstract",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Roseon/arc_id=AMB:ROS000002142/exchange=mexc/data.json"
+        ]
+    }
+}

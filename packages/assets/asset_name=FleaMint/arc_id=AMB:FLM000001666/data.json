@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "flmc",
+    "assetName": "FleaMint",
+    "assetArcId": "AMB:FLM000001666",
+    "website": "https://fleamint.com/",
+    "whitePaperUrl": "https://fleamint.gitbook.io/fleamint-wp-version-1.05/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=FleaMint/arc_id=AMB:FLM000001666/exchange=mexc/data.json"
+        ]
+    }
+}

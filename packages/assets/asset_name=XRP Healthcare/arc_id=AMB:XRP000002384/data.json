@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "xrph",
+    "assetName": "XRP Healthcare",
+    "assetArcId": "AMB:XRP000002384",
+    "website": "https://xrphealthcare.com/",
+    "whitePaperUrl": "https://xrphealthcare.com/XRPH-Deck.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=XRP Healthcare/arc_id=AMB:XRP000002384/exchange=mexc/data.json"
+        ]
+    }
+}

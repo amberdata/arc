@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "xcom",
+    "assetName": "X.COM",
+    "assetArcId": "AMB:XCO000002364",
+    "website": "https://xcom.cash/",
+    "whitePaperUrl": "/how-to-buy/XCOM?utm_source=mexc&utm_medium=tokenifoXCOM&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=X.COM/arc_id=AMB:XCO000002364/exchange=mexc/data.json"
+        ]
+    }
+}

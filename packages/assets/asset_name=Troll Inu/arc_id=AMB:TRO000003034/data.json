@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "trollinu",
+    "assetName": "Troll Inu",
+    "assetArcId": "AMB:TRO000003034",
+    "website": "https://trollinu.org/",
+    "whitePaperUrl": "/how-to-buy/TROLLINU?utm_source=mexc&utm_medium=tokenifoTROLLINU&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Troll Inu/arc_id=AMB:TRO000003034/exchange=mexc/data.json"
+        ]
+    }
+}

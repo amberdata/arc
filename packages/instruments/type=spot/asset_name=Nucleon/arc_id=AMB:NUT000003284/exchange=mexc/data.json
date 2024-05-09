@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NUT000003284_AMB:USD000000335",
+        "normalizedPair": "nut_usdt",
+        "normalizedSymbol": "nut",
+        "nativePair": "NUTUSDT",
+        "exchange": "mexc",
+        "assetName": "Nucleon",
+        "assetArcId": "AMB:NUT000003284",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nut_usdt",
+        "instrumentType": "spot"
+    }
+]

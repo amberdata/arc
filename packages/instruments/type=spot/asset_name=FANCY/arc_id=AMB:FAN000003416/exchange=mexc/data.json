@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FAN000003416_AMB:USD000000335",
+        "normalizedPair": "fancy_usdt",
+        "normalizedSymbol": "fancy",
+        "nativePair": "FANCYUSDT",
+        "exchange": "mexc",
+        "assetName": "FANCY",
+        "assetArcId": "AMB:FAN000003416",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fancy_usdt",
+        "instrumentType": "spot"
+    }
+]

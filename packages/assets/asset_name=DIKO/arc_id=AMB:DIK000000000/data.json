@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "diko",
+    "assetName": "DIKO",
+    "assetArcId": "AMB:DIK000000000",
+    "website": "https://arkadiko.finance/",
+    "whitePaperUrl": "https://docs.arkadiko.finance/",
+    "classificationTags": [
+        "Stablecoin"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=DIKO/arc_id=AMB:DIK000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "metfi",
+    "assetName": "MetFi",
+    "assetArcId": "AMB:MET000001919",
+    "website": "https://metfi.io/",
+    "whitePaperUrl": "https://docs.metfi.io/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MetFi/arc_id=AMB:MET000001919/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "assetSymbol": "metis",
+    "assetName": "MetisDAO",
+    "assetArcId": "AMB:MET000000422",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MetisDAO/arc_id=AMB:MET000000422/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MetisDAO/arc_id=AMB:MET000000422/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MetisDAO/arc_id=AMB:MET000000422/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MetisDAO/arc_id=AMB:MET000000422/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MetisDAO/arc_id=AMB:MET000000422/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MetisDAO/arc_id=AMB:MET000000422/exchange=mexc/data.json"
+        ]
+    }
+}

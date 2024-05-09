@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "simpson6900",
+    "assetName": "Simpson6900",
+    "assetArcId": "AMB:SIM000002187",
+    "website": "https://homersimpson.vip/",
+    "whitePaperUrl": "/how-to-buy/SIMPSON6900?utm_source=mexc&utm_medium=tokenifoSIMPSON6900&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Simpson6900/arc_id=AMB:SIM000002187/exchange=mexc/data.json"
+        ]
+    }
+}

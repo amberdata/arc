@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SEI000000000_AMB:USD000000335",
+        "normalizedPair": "seiyan_usdt",
+        "normalizedSymbol": "seiyan",
+        "nativePair": "SEIYANUSDT",
+        "exchange": "mexc",
+        "assetName": "SEIYAN",
+        "assetArcId": "AMB:SEI000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "seiyan_usdt",
+        "instrumentType": "spot"
+    }
+]

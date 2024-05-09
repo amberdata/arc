@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RDE000003265_AMB:USD000000335",
+        "normalizedPair": "rdex_usdt",
+        "normalizedSymbol": "rdex",
+        "nativePair": "RDEX_USDT",
+        "exchange": "poloniex",
+        "assetName": "Orders.Exchange",
+        "assetArcId": "AMB:RDE000003265",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rdex_usdt",
+        "instrumentType": "spot"
+    }
+]

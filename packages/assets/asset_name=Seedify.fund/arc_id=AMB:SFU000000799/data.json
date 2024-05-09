@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "sfund",
+    "assetName": "Seedify.fund",
+    "assetArcId": "AMB:SFU000000799",
+    "website": "https://launchpad.seedify.fund/",
+    "whitePaperUrl": "/how-to-buy/SFUND?utm_source=mexc&utm_medium=tokenifoSFUND&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Seedify.fund/arc_id=AMB:SFU000000799/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Seedify.fund/arc_id=AMB:SFU000000799/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Seedify.fund/arc_id=AMB:SFU000000799/exchange=bybit/data.json"
+        ]
+    }
+}

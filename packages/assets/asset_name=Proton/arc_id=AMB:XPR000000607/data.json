@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "xpr",
+    "assetName": "Proton",
+    "assetArcId": "AMB:XPR000000607",
+    "website": "https://xprnetwork.org",
+    "whitePaperUrl": "https://www.proton.org/images/proton-white-paper-en.pdf",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

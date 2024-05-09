@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "speero",
+    "assetName": "Speero",
+    "assetArcId": "AMB:SPE000003366",
+    "website": "https://speero.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "C7K4Tot6fnnNwhWpqw9H277QPcP56vHAEeXubRHDyCo9"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Speero/arc_id=AMB:SPE000003366/exchange=poloniex/data.json"
+        ]
+    }
+}

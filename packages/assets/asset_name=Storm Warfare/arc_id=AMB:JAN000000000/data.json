@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "jan",
+    "assetName": "Storm Warfare",
+    "assetArcId": "AMB:JAN000000000",
+    "website": "https://www.stormwarfare.com/",
+    "whitePaperUrl": "https://docs.stormwarfare.com/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Storm Warfare/arc_id=AMB:JAN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

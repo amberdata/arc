@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VAU000003106_AMB:USD000000335",
+        "normalizedPair": "vault_usdt",
+        "normalizedSymbol": "vault",
+        "nativePair": "VAULT_USDT",
+        "exchange": "poloniex",
+        "assetName": "Vaulteum",
+        "assetArcId": "AMB:VAU000003106",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vault_usdt",
+        "instrumentType": "spot"
+    }
+]

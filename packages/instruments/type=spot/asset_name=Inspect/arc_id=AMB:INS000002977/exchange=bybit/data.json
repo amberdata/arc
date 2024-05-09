@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:INS000002977_AMB:USD000000335",
+        "normalizedPair": "insp_usdt",
+        "normalizedSymbol": "insp",
+        "nativePair": "INSPUSDT",
+        "exchange": "bybit",
+        "assetName": "Inspect",
+        "assetArcId": "AMB:INS000002977",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "insp_usdt",
+        "instrumentType": "spot"
+    }
+]

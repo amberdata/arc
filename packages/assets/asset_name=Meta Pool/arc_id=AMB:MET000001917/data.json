@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "metap",
+    "assetName": "Meta Pool",
+    "assetArcId": "AMB:MET000001917",
+    "website": "https://www.metapool.app/",
+    "whitePaperUrl": "/how-to-buy/METAP?utm_source=mexc&utm_medium=tokenifoMETAP&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Meta Pool/arc_id=AMB:MET000001917/exchange=mexc/data.json"
+        ]
+    }
+}

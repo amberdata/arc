@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "ronin",
+    "assetName": "Ronin",
+    "assetArcId": "AMB:RON000003532",
+    "website": "https://roninchain.com/",
+    "whitePaperUrl": "https://docs.roninchain.com/basics/white-paper",
+    "classificationTags": [
+        "Gaming",
+        "Governance",
+        "Proof-of-Stake"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Ronin/arc_id=AMB:RON000003532/exchange=binance/data.json"
+        ]
+    }
+}

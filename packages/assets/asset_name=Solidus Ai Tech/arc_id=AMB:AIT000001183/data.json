@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "aitech",
+    "assetName": "Solidus Ai Tech",
+    "assetArcId": "AMB:AIT000001183",
+    "website": "https://www.aitech.io/",
+    "whitePaperUrl": "https://docs.aitech.io/overview/i.-introduction",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Solidus Ai Tech/arc_id=AMB:AIT000001183/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Solidus Ai Tech/arc_id=AMB:AIT000001183/exchange=mexc/data.json"
+        ]
+    }
+}

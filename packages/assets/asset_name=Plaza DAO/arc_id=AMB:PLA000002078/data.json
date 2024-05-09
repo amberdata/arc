@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "plaz",
+    "assetName": "Plaza DAO",
+    "assetArcId": "AMB:PLA000002078",
+    "website": "https://plazadao.io/home",
+    "whitePaperUrl": "/how-to-buy/PLAZ?utm_source=mexc&utm_medium=tokenifoPLAZ&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Plaza DAO/arc_id=AMB:PLA000002078/exchange=mexc/data.json"
+        ]
+    }
+}

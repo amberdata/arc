@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SFA000003013_AMB:USD000000335",
+        "normalizedPair": "sfarm_usdt",
+        "normalizedSymbol": "sfarm",
+        "nativePair": "SFARMUSDT",
+        "exchange": "mexc",
+        "assetName": "SolFarm",
+        "assetArcId": "AMB:SFA000003013",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sfarm_usdt",
+        "instrumentType": "spot"
+    }
+]

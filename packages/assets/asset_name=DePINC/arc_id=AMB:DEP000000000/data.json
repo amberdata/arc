@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "depc",
+    "assetName": "DePINC",
+    "assetArcId": "AMB:DEP000000000",
+    "website": "https://depinc.org/",
+    "whitePaperUrl": "/how-to-buy/DEPC?utm_source=mexc&utm_medium=tokenifoDEPC&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "DePIN"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=DePINC/arc_id=AMB:DEP000000000/exchange=mexc/data.json"
+        ]
+    }
+}

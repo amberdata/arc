@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DIN000002769_AMB:USD000000335",
+        "normalizedPair": "dinos_usdt",
+        "normalizedSymbol": "dinos",
+        "nativePair": "DINOSUSDT",
+        "exchange": "mexc",
+        "assetName": "Dinosaur",
+        "assetArcId": "AMB:DIN000002769",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dinos_usdt",
+        "instrumentType": "spot"
+    }
+]

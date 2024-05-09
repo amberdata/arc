@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "gummy",
+    "assetName": "GUMMY",
+    "assetArcId": "AMB:GUM000000000",
+    "website": "https://gummyonsol.com/",
+    "whitePaperUrl": "/how-to-buy/GUMMY?utm_source=mexc&utm_medium=tokenifoGUMMY&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=GUMMY/arc_id=AMB:GUM000000000/exchange=mexc/data.json"
+        ]
+    }
+}

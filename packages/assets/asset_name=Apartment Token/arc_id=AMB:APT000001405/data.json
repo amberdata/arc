@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "apt1",
+    "assetName": "Apartment Token",
+    "assetArcId": "AMB:APT000001405",
+    "website": "https://www.metaground.io/",
+    "whitePaperUrl": "https://metaground.gitbook.io/metaground-_en/",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Apartment Token/arc_id=AMB:APT000001405/exchange=mexc/data.json"
+        ]
+    }
+}

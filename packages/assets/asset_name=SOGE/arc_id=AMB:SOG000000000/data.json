@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "soge",
+    "assetName": "SOGE",
+    "assetArcId": "AMB:SOG000000000",
+    "website": "https://www.soge.meme/#",
+    "whitePaperUrl": "/how-to-buy/SOGE?utm_source=mexc&utm_medium=tokenifoSOGE&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=SOGE/arc_id=AMB:SOG000000000/exchange=mexc/data.json"
+        ]
+    }
+}

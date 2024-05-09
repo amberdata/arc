@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "gli",
+    "assetName": "GLI TOKEN",
+    "assetArcId": "AMB:GLI000001711",
+    "website": "https://glitoken.com/",
+    "whitePaperUrl": "https://github.com/gli-token/gli-token/blob/main/README.md",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=GLI TOKEN/arc_id=AMB:GLI000001711/exchange=mexc/data.json"
+        ]
+    }
+}

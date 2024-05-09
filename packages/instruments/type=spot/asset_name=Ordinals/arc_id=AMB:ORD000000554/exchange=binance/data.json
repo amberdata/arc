@@ -1,0 +1,74 @@
+[
+    {
+        "arcPairId": "AMB:ORD000000554_AMB:TRY000000940",
+        "normalizedPair": "ordi_try",
+        "normalizedSymbol": "ordi",
+        "nativePair": "ORDITRY",
+        "exchange": "binance",
+        "assetName": "Ordinals",
+        "assetArcId": "AMB:ORD000000554",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "ordi_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ORD000000554_AMB:TUS000000326",
+        "normalizedPair": "ordi_tusd",
+        "normalizedSymbol": "ordi",
+        "nativePair": "ORDITUSD",
+        "exchange": "binance",
+        "assetName": "Ordinals",
+        "assetArcId": "AMB:ORD000000554",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "ordi_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ORD000000554_AMB:FDU000000122",
+        "normalizedPair": "ordi_fdusd",
+        "normalizedSymbol": "ordi",
+        "nativePair": "ORDIFDUSD",
+        "exchange": "binance",
+        "assetName": "Ordinals",
+        "assetArcId": "AMB:ORD000000554",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "ordi_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ORD000000554_AMB:USD000000333",
+        "normalizedPair": "ordi_usdc",
+        "normalizedSymbol": "ordi",
+        "nativePair": "ORDIUSDC",
+        "exchange": "binance",
+        "assetName": "Ordinals",
+        "assetArcId": "AMB:ORD000000554",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "ordi_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ORD000000554_AMB:BTC000000000",
+        "normalizedPair": "ordi_btc",
+        "normalizedSymbol": "ordi",
+        "nativePair": "ORDIBTC",
+        "exchange": "binance",
+        "assetName": "Ordinals",
+        "assetArcId": "AMB:ORD000000554",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ordi_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ORD000000554_AMB:USD000000335",
+        "normalizedPair": "ordi_usdt",
+        "normalizedSymbol": "ordi",
+        "nativePair": "ORDIUSDT",
+        "exchange": "binance",
+        "assetName": "Ordinals",
+        "assetArcId": "AMB:ORD000000554",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ordi_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "ordi2",
+    "assetName": "ORDI 2.0",
+    "assetArcId": "AMB:ORD000003369",
+    "website": "https://ordi-2.vip/",
+    "whitePaperUrl": "/how-to-buy/ORDI2?utm_source=mexc&utm_medium=tokenifoORDI2&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ORDI 2.0/arc_id=AMB:ORD000003369/exchange=mexc/data.json"
+        ]
+    }
+}

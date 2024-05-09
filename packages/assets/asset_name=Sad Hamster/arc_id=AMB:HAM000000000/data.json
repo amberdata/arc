@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "hammy",
+    "assetName": "Sad Hamster",
+    "assetArcId": "AMB:HAM000000000",
+    "website": "https://sadhamster.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "26KMQVgDUoB6rEfnJ51yAABWWJND8uMtpnQgsHQ64Udr"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Sad Hamster/arc_id=AMB:HAM000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

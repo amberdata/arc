@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JUS000000000_AMB:USD000000335",
+        "normalizedPair": "justanegg_usdt",
+        "normalizedSymbol": "justanegg",
+        "nativePair": "JUSTANEGG_USDT",
+        "exchange": "poloniex",
+        "assetName": "JustAnEgg",
+        "assetArcId": "AMB:JUS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "justanegg_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "alpine",
+    "assetName": "Alpine F1 Team Fan Token",
+    "assetArcId": "AMB:ALP000000016",
+    "website": "https://www.binance.com/en/fan-token/team-profile/alpine?utm_source=fan-token",
+    "whitePaperUrl": "https://www.binance.com/en/research/projects/alpine-f1",
+    "classificationTags": [
+        "DEX",
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Alpine F1 Team Fan Token/arc_id=AMB:ALP000000016/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Alpine F1 Team Fan Token/arc_id=AMB:ALP000000016/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Alpine F1 Team Fan Token/arc_id=AMB:ALP000000016/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Alpine F1 Team Fan Token/arc_id=AMB:ALP000000016/exchange=binance/data.json"
+        ]
+    }
+}

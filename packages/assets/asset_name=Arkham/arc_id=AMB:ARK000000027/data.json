@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "arkm",
+    "assetName": "Arkham",
+    "assetArcId": "AMB:ARK000000027",
+    "website": "https://www.arkhamintelligence.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Machine Learning & AI",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Arkham/arc_id=AMB:ARK000000027/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Arkham/arc_id=AMB:ARK000000027/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Arkham/arc_id=AMB:ARK000000027/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Arkham/arc_id=AMB:ARK000000027/exchange=bithumb/data.json"
+        ]
+    }
+}

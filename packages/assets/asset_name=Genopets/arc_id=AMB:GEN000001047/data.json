@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "gene",
+    "assetName": "Genopets",
+    "assetArcId": "AMB:GEN000001047",
+    "website": "--",
+    "whitePaperUrl": "https://docsend.com/view/b9bqd2j78nekzdgr",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Genopets/arc_id=AMB:GEN000001047/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Genopets/arc_id=AMB:GEN000001047/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Genopets/arc_id=AMB:GEN000001047/exchange=ftx/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ovr",
+    "assetName": "OVR",
+    "assetArcId": "AMB:OVR000002031",
+    "website": "www.ovr.ai",
+    "whitePaperUrl": "https://assets.ovr.ai/download/whitepaper/whitepaper%203.0.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=OVR/arc_id=AMB:OVR000002031/exchange=mexc/data.json"
+        ]
+    }
+}

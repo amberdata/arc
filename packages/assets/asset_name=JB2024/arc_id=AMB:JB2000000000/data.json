@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "jb2024",
+    "assetName": "JB2024",
+    "assetArcId": "AMB:JB2000000000",
+    "website": "https://joe-biden.space/",
+    "whitePaperUrl": "/how-to-buy/JB2024?utm_source=mexc&utm_medium=tokenifoJB2024&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=JB2024/arc_id=AMB:JB2000000000/exchange=mexc/data.json"
+        ]
+    }
+}

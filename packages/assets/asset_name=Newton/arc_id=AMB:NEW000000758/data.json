@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "new",
+    "assetName": "Newton",
+    "assetArcId": "AMB:NEW000000758",
+    "website": "https://www.newtonproject.org/",
+    "whitePaperUrl": "https://www.newtonproject.org/whitepaper/",
+    "classificationTags": [
+        "Gaming",
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Newton/arc_id=AMB:NEW000000758/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Newton/arc_id=AMB:NEW000000758/exchange=mexc/data.json"
+        ]
+    }
+}

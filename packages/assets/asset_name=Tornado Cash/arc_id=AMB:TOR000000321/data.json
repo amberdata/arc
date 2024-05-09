@@ -1,0 +1,18 @@
+{
+    "assetSymbol": "torn",
+    "assetName": "Tornado Cash",
+    "assetArcId": "AMB:TOR000000321",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Privacy",
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Tornado Cash/arc_id=AMB:TOR000000321/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Tornado Cash/arc_id=AMB:TOR000000321/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Tornado Cash/arc_id=AMB:TOR000000321/exchange=binance/data.json"
+        ]
+    }
+}

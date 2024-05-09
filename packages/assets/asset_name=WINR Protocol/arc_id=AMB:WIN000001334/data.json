@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "winr",
+    "assetName": "WINR Protocol",
+    "assetArcId": "AMB:WIN000001334",
+    "website": "https://winr.games/",
+    "whitePaperUrl": "https://docs.winr.games/",
+    "classificationTags": [
+        "Gaming",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=WINR Protocol/arc_id=AMB:WIN000001334/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=WINR Protocol/arc_id=AMB:WIN000001334/exchange=mexc/data.json"
+        ]
+    }
+}

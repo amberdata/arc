@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "tea",
+    "assetName": "TeaDAO",
+    "assetArcId": "AMB:TEA000002257",
+    "website": "https://teadao.money/",
+    "whitePaperUrl": "https://docs.teadao.money/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=TeaDAO/arc_id=AMB:TEA000002257/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "assetSymbol": "mille",
+    "assetName": "MILLE CHAIN",
+    "assetArcId": "AMB:MIL000003161",
+    "website": "http://millechain.io/",
+    "whitePaperUrl": "http://millechain.io/#",
+    "classificationTags": [
+        "DEX",
+        "Gaming",
+        "Lending",
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MILLE CHAIN/arc_id=AMB:MIL000003161/exchange=mexc/data.json"
+        ]
+    }
+}

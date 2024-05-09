@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ifm",
+    "assetName": "InfinityMesh",
+    "assetArcId": "AMB:IFM000000000",
+    "website": "http://www.infinitymesh.org/",
+    "whitePaperUrl": "https://infinitymesh.gitbook.io/infinitymesh/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=InfinityMesh/arc_id=AMB:IFM000000000/exchange=mexc/data.json"
+        ]
+    }
+}

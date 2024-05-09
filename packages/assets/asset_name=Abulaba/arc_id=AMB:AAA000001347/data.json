@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "aaa",
+    "assetName": "Abulaba",
+    "assetArcId": "AMB:AAA000001347",
+    "website": "https://moonrabbit.com/",
+    "whitePaperUrl": "/how-to-buy/AAA?utm_source=mexc&utm_medium=tokenifoAAA&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Abulaba/arc_id=AMB:AAA000001347/exchange=mexc/data.json"
+        ]
+    }
+}

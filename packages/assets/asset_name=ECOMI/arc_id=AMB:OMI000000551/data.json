@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "omi",
+    "assetName": "ECOMI",
+    "assetArcId": "AMB:OMI000000551",
+    "website": "https://ecomi.notion.site/",
+    "whitePaperUrl": "/how-to-buy/OMI?utm_source=mexc&utm_medium=tokenifoOMI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ECOMI/arc_id=AMB:OMI000000551/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ECOMI/arc_id=AMB:OMI000000551/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "andysol",
+    "assetName": "ANDY on SOLANA",
+    "assetArcId": "AMB:AND000000001",
+    "website": "https://andytokonsolana.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "667w6y7eH5tQucYQXfJ2KmiuGBE8HfYnqqbjLNSw7yww"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ANDY on SOLANA/arc_id=AMB:AND000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

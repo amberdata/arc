@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "fel",
+    "assetName": "Felix",
+    "assetArcId": "AMB:FEL000000000",
+    "website": "https://felix.baby/",
+    "whitePaperUrl": "https://docs.felix.baby/introduction/welcome-to-felix",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Felix/arc_id=AMB:FEL000000000/exchange=mexc/data.json"
+        ]
+    }
+}

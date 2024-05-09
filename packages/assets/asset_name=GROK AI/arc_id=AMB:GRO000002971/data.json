@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "grokai",
+    "assetName": "GROK AI",
+    "assetArcId": "AMB:GRO000002971",
+    "website": "https://groketh.site/",
+    "whitePaperUrl": "/how-to-buy/GROKAI?utm_source=mexc&utm_medium=tokenifoGROKAI&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming",
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=GROK AI/arc_id=AMB:GRO000002971/exchange=mexc/data.json"
+        ]
+    }
+}

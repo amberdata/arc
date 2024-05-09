@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "mg8",
+    "assetName": "Megalink",
+    "assetArcId": "AMB:MG8000000000",
+    "website": "https://mega8.io/",
+    "whitePaperUrl": "/how-to-buy/MG8?utm_source=mexc&utm_medium=tokenifoMG8&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Megalink/arc_id=AMB:MG8000000000/exchange=mexc/data.json"
+        ]
+    }
+}

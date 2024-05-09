@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:CRV000000084_AMB:BTC000000000",
+        "normalizedPair": "crv_btc",
+        "normalizedSymbol": "crv",
+        "nativePair": "CRVBTC",
+        "exchange": "binance",
+        "assetName": "Curve DAO Token",
+        "assetArcId": "AMB:CRV000000084",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "crv_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CRV000000084_AMB:BUS000000067",
+        "normalizedPair": "crv_busd",
+        "normalizedSymbol": "crv",
+        "nativePair": "CRVBUSD",
+        "exchange": "binance",
+        "assetName": "Curve DAO Token",
+        "assetArcId": "AMB:CRV000000084",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "crv_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CRV000000084_AMB:ETH000000000",
+        "normalizedPair": "crv_eth",
+        "normalizedSymbol": "crv",
+        "nativePair": "CRVETH",
+        "exchange": "binance",
+        "assetName": "Curve DAO Token",
+        "assetArcId": "AMB:CRV000000084",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "crv_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CRV000000084_AMB:USD000000335",
+        "normalizedPair": "crv_usdt",
+        "normalizedSymbol": "crv",
+        "nativePair": "CRVUSDT",
+        "exchange": "binance",
+        "assetName": "Curve DAO Token",
+        "assetArcId": "AMB:CRV000000084",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "crv_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CRV000000084_AMB:TRY000000940",
+        "normalizedPair": "crv_try",
+        "normalizedSymbol": "crv",
+        "nativePair": "CRVTRY",
+        "exchange": "binance",
+        "assetName": "Curve DAO Token",
+        "assetArcId": "AMB:CRV000000084",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "crv_try",
+        "instrumentType": "spot"
+    }
+]

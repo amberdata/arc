@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BOR000000000_AMB:USD000000335",
+        "normalizedPair": "borzoi_usdt",
+        "normalizedSymbol": "borzoi",
+        "nativePair": "BORZOIUSDT",
+        "exchange": "mexc",
+        "assetName": "Borzoi",
+        "assetArcId": "AMB:BOR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "borzoi_usdt",
+        "instrumentType": "spot"
+    }
+]

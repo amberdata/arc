@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "nxai",
+    "assetName": "NexusXAI",
+    "assetArcId": "AMB:NXA000000000",
+    "website": "https://www.nexusxaicoin.com/",
+    "whitePaperUrl": "/how-to-buy/NXAI?utm_source=mexc&utm_medium=tokenifoNXAI&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=NexusXAI/arc_id=AMB:NXA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

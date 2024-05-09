@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "unice",
+    "assetName": "UNICE",
+    "assetArcId": "AMB:UNI000002908",
+    "website": "https://unicelab.io/",
+    "whitePaperUrl": "http://whitepaper.unicelab.io/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=UNICE/arc_id=AMB:UNI000002908/exchange=mexc/data.json"
+        ]
+    }
+}

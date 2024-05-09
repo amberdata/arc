@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dck",
+    "assetName": "DexCheck",
+    "assetArcId": "AMB:DCK000001583",
+    "website": "https://dexcheck.ai/",
+    "whitePaperUrl": "https://dexcheck.gitbook.io/whitepaper/general/about-dexcheck",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=DexCheck/arc_id=AMB:DCK000001583/exchange=mexc/data.json"
+        ]
+    }
+}

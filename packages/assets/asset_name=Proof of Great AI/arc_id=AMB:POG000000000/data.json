@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "pogaisol",
+    "assetName": "Proof of Great AI",
+    "assetArcId": "AMB:POG000000000",
+    "website": "https://www.pogai.org/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "2miHpQbYLPvXxC2V234jrrrtnJdejd5xW883a5ToNW3g"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Proof of Great AI/arc_id=AMB:POG000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

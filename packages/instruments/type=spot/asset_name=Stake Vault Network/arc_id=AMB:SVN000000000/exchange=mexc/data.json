@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SVN000000000_AMB:USD000000335",
+        "normalizedPair": "svn_usdt",
+        "normalizedSymbol": "svn",
+        "nativePair": "SVNUSDT",
+        "exchange": "mexc",
+        "assetName": "Stake Vault Network",
+        "assetArcId": "AMB:SVN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "svn_usdt",
+        "instrumentType": "spot"
+    }
+]

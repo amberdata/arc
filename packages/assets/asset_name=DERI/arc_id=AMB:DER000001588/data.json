@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "deri",
+    "assetName": "DERI",
+    "assetArcId": "AMB:DER000001588",
+    "website": "https://deri.finance/",
+    "whitePaperUrl": "https://deri.finance/",
+    "classificationTags": [
+        "Derivatives",
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

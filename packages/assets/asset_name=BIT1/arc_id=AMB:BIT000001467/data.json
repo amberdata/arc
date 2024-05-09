@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bit1",
+    "assetName": "BIT1",
+    "assetArcId": "AMB:BIT000001467",
+    "website": "https://www.biconomy.com/",
+    "whitePaperUrl": "https://www.biconomy.com/whitepaper/english.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BIT1/arc_id=AMB:BIT000001467/exchange=mexc/data.json"
+        ]
+    }
+}

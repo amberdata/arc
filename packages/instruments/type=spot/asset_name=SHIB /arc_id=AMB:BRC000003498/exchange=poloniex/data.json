@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BRC000003498_AMB:USD000000335",
+        "normalizedPair": "brcshib_usdt",
+        "normalizedSymbol": "brcshib",
+        "nativePair": "BRCSHIB_USDT",
+        "exchange": "poloniex",
+        "assetName": "SHIB ",
+        "assetArcId": "AMB:BRC000003498",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "brcshib_usdt",
+        "instrumentType": "spot"
+    }
+]

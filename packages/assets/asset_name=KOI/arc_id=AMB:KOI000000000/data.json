@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "koi",
+    "assetName": "KOI",
+    "assetArcId": "AMB:KOI000000000",
+    "website": "#",
+    "whitePaperUrl": "/how-to-buy/KOI?utm_source=mexc&utm_medium=tokenifoKOI&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=KOI/arc_id=AMB:KOI000000000/exchange=mexc/data.json"
+        ]
+    }
+}

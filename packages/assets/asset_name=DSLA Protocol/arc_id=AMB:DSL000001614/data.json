@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dsla",
+    "assetName": "DSLA Protocol",
+    "assetArcId": "AMB:DSL000001614",
+    "website": "https://stacktical.com/",
+    "whitePaperUrl": "https://storage.googleapis.com/stacktical-public/STACKTICAL_DSLA-WHITE-PAPER.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=DSLA Protocol/arc_id=AMB:DSL000001614/exchange=mexc/data.json"
+        ]
+    }
+}

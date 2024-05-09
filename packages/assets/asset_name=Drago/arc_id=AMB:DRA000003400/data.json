@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "drago",
+    "assetName": "Drago",
+    "assetArcId": "AMB:DRA000003400",
+    "website": "https://drago.network/",
+    "whitePaperUrl": "/how-to-buy/DRAGO?utm_source=mexc&utm_medium=tokenifoDRAGO&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Drago/arc_id=AMB:DRA000003400/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "meo",
+    "assetName": "MEO",
+    "assetArcId": "AMB:MEO000002856",
+    "website": "https://meoeth.com/",
+    "whitePaperUrl": "/how-to-buy/MEO?utm_source=mexc&utm_medium=tokenifoMEO&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MEO/arc_id=AMB:MEO000002856/exchange=mexc/data.json"
+        ]
+    }
+}

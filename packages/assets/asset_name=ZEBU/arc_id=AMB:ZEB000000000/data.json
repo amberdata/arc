@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "zebu",
+    "assetName": "ZEBU",
+    "assetArcId": "AMB:ZEB000000000",
+    "website": "https://zebu.solanaproject.site/",
+    "whitePaperUrl": "/how-to-buy/ZEBU?utm_source=mexc&utm_medium=tokenifoZEBU&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ZEBU/arc_id=AMB:ZEB000000000/exchange=mexc/data.json"
+        ]
+    }
+}

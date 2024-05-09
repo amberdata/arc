@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "pokemon2",
+    "assetName": "Pokemon 2.0",
+    "assetArcId": "AMB:POK000002086",
+    "website": "https://pokemonmoon.xyz/",
+    "whitePaperUrl": "/how-to-buy/POKEMON2?utm_source=mexc&utm_medium=tokenifoPOKEMON2&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Pokemon 2.0/arc_id=AMB:POK000002086/exchange=mexc/data.json"
+        ]
+    }
+}

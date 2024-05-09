@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "rckt",
+    "assetName": "RocketSwap",
+    "assetArcId": "AMB:RCK000001293",
+    "website": "https://app.rocketswap.cc/exchange/swap",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Base",
+            "address": "0x6653dD4B92a0e5Bf8ae570A98906d9D6fD2eEc09"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=RocketSwap/arc_id=AMB:RCK000001293/exchange=poloniex/data.json"
+        ]
+    }
+}

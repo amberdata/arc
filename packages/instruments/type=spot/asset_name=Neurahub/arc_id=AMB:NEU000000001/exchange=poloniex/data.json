@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NEU000000001_AMB:USD000000335",
+        "normalizedPair": "neura_usdt",
+        "normalizedSymbol": "neura",
+        "nativePair": "NEURA_USDT",
+        "exchange": "poloniex",
+        "assetName": "Neurahub",
+        "assetArcId": "AMB:NEU000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "neura_usdt",
+        "instrumentType": "spot"
+    }
+]

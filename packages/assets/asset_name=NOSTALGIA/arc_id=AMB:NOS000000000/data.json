@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "nostalgia",
+    "assetName": "NOSTALGIA",
+    "assetArcId": "AMB:NOS000000000",
+    "website": "#",
+    "whitePaperUrl": "/how-to-buy/NOSTALGIA?utm_source=mexc&utm_medium=tokenifoNOSTALGIA&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=NOSTALGIA/arc_id=AMB:NOS000000000/exchange=mexc/data.json"
+        ]
+    }
+}

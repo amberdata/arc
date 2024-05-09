@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "ktk",
+    "assetName": "Key Stake",
+    "assetArcId": "AMB:KTK000000000",
+    "website": "https://www.keystake.space/",
+    "whitePaperUrl": "https://keystake.gitbook.io/keystake/keystake-a-trust-minimized-intermediary-solution-for-secure-and-decentralized-ethereum-staking./what-is-keystake",
+    "classificationTags": [
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Key Stake/arc_id=AMB:KTK000000000/exchange=mexc/data.json"
+        ]
+    }
+}

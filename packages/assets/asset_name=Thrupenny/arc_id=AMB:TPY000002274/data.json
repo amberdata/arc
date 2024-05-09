@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "tpy",
+    "assetName": "Thrupenny",
+    "assetArcId": "AMB:TPY000002274",
+    "website": "https://thrupenny.io/",
+    "whitePaperUrl": "https://linktr.ee/thrupenny",
+    "classificationTags": [
+        "Lending",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Thrupenny/arc_id=AMB:TPY000002274/exchange=mexc/data.json"
+        ]
+    }
+}

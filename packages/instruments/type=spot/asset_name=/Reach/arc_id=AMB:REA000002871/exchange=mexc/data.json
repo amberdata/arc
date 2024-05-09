@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:REA000002871_AMB:USD000000335",
+        "normalizedPair": "reach_usdt",
+        "normalizedSymbol": "reach",
+        "nativePair": "REACHUSDT",
+        "exchange": "mexc",
+        "assetName": "/Reach",
+        "assetArcId": "AMB:REA000002871",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "reach_usdt",
+        "instrumentType": "spot"
+    }
+]

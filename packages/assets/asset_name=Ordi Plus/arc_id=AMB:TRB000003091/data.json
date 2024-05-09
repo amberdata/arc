@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "trbs",
+    "assetName": "Ordi Plus",
+    "assetArcId": "AMB:TRB000003091",
+    "website": "http://www.ordiplus.org/",
+    "whitePaperUrl": "https://ordiplus-1.gitbook.io/white-paper/",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Ordi Plus/arc_id=AMB:TRB000003091/exchange=mexc/data.json"
+        ]
+    }
+}

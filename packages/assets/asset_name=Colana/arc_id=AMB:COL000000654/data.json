@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "col",
+    "assetName": "Colana",
+    "assetArcId": "AMB:COL000000654",
+    "website": "https://colana.finance/",
+    "whitePaperUrl": "https://colana.finance/",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Colana/arc_id=AMB:COL000000654/exchange=mexc/data.json"
+        ]
+    }
+}

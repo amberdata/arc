@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "mcn",
+    "assetName": "MCNCOIN",
+    "assetArcId": "AMB:MCN000000000",
+    "website": "https://mcncoin.io/",
+    "whitePaperUrl": "https://mcncoin.io/main/whitePaper/assets/whitepaperRU.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MCNCOIN/arc_id=AMB:MCN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

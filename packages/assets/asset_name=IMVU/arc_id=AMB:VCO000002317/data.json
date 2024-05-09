@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "vcore",
+    "assetName": "IMVU",
+    "assetArcId": "AMB:VCO000002317",
+    "website": "https://getvcore.io/",
+    "whitePaperUrl": "https://vcore.metajuice.link/introduction/vision",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=IMVU/arc_id=AMB:VCO000002317/exchange=mexc/data.json"
+        ]
+    }
+}

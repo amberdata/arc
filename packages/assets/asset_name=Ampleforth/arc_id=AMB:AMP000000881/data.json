@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "ampl",
+    "assetName": "Ampleforth",
+    "assetArcId": "AMB:AMP000000881",
+    "website": "https://www.ampleforth.org/",
+    "whitePaperUrl": "/how-to-buy/AMPL?utm_source=mexc&utm_medium=tokenifoAMPL&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Ampleforth/arc_id=AMB:AMP000000881/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Ampleforth/arc_id=AMB:AMP000000881/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Ampleforth/arc_id=AMB:AMP000000881/exchange=ftx/data.json"
+        ]
+    }
+}

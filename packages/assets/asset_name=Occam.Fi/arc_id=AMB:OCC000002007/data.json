@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "occ",
+    "assetName": "Occam.Fi",
+    "assetArcId": "AMB:OCC000002007",
+    "website": "https://occam.fi/ ",
+    "whitePaperUrl": "https://occam.fi/docs/occamrazer_wp_v1.pdf ",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Occam.Fi/arc_id=AMB:OCC000002007/exchange=mexc/data.json"
+        ]
+    }
+}

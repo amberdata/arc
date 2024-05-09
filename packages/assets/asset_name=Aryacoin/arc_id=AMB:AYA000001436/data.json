@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "aya",
+    "assetName": "Aryacoin",
+    "assetArcId": "AMB:AYA000001436",
+    "website": "https://aryacoin.io/",
+    "whitePaperUrl": "https://docs.google.com/document/d/1w2LtXEAwgqAAj_fFFrID94wSGrVCAxiCjRS2uS25-8Q/edit",
+    "classificationTags": [
+        "Governance",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Aryacoin/arc_id=AMB:AYA000001436/exchange=mexc/data.json"
+        ]
+    }
+}

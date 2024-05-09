@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "trans",
+    "assetName": "Trans Pepe",
+    "assetArcId": "AMB:TRA000002275",
+    "website": "https://www.transpepe.org/",
+    "whitePaperUrl": "https://www.transpepe.org/whitepaper",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Trans Pepe/arc_id=AMB:TRA000002275/exchange=mexc/data.json"
+        ]
+    }
+}

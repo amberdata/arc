@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "hus",
+    "assetName": "Husky.AI",
+    "assetArcId": "AMB:HUS000001767",
+    "website": "https://huskyaitoken.com/",
+    "whitePaperUrl": "https://husky-ai.gitbook.io/huskyai-whitepaper/husky.ai/welcome-to-husky.ai",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Husky.AI/arc_id=AMB:HUS000001767/exchange=mexc/data.json"
+        ]
+    }
+}

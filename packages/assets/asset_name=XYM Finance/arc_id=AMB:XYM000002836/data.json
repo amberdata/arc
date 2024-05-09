@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "xymf",
+    "assetName": "XYM Finance",
+    "assetArcId": "AMB:XYM000002836",
+    "website": "https://www.xymperp.xyz/",
+    "whitePaperUrl": "https://xyw.gitbook.io/xym/getting-started/overview",
+    "classificationTags": [
+        "DEX",
+        "Derivatives"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=XYM Finance/arc_id=AMB:XYM000002836/exchange=mexc/data.json"
+        ]
+    }
+}

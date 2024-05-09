@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "mit",
+    "assetName": "MarketIn",
+    "assetArcId": "AMB:MIT000000000",
+    "website": "https://marketin.zone/",
+    "whitePaperUrl": "https://marketin-1.gitbook.io/marketin/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MarketIn/arc_id=AMB:MIT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

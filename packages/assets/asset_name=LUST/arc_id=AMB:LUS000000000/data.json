@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "lust",
+    "assetName": "LUST",
+    "assetArcId": "AMB:LUS000000000",
+    "website": "https://www.lunarstorm.io/",
+    "whitePaperUrl": "https://lunarstorm.io/assets/documents/LunarStormLitePaper.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=LUST/arc_id=AMB:LUS000000000/exchange=mexc/data.json"
+        ]
+    }
+}

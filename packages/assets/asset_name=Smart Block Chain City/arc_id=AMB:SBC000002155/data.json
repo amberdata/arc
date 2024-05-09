@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "sbcc",
+    "assetName": "Smart Block Chain City",
+    "assetArcId": "AMB:SBC000002155",
+    "website": "https://www.sbcc.world/",
+    "whitePaperUrl": "https://drive.google.com/file/d/1JgWr0biQuu0DLgMZYMtTMNmLyMdva8uA/view",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Smart Block Chain City/arc_id=AMB:SBC000002155/exchange=mexc/data.json"
+        ]
+    }
+}

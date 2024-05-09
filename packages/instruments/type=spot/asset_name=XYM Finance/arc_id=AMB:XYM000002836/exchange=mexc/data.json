@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XYM000002836_AMB:USD000000335",
+        "normalizedPair": "xymf_usdt",
+        "normalizedSymbol": "xymf",
+        "nativePair": "XYMFUSDT",
+        "exchange": "mexc",
+        "assetName": "XYM Finance",
+        "assetArcId": "AMB:XYM000002836",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xymf_usdt",
+        "instrumentType": "spot"
+    }
+]

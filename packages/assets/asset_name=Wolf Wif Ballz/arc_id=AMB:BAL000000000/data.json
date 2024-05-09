@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ballz",
+    "assetName": "Wolf Wif Ballz",
+    "assetArcId": "AMB:BAL000000000",
+    "website": "https://www.sitewifballz.meme/",
+    "whitePaperUrl": "/how-to-buy/BALLZ?utm_source=mexc&utm_medium=tokenifoBALLZ&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Wolf Wif Ballz/arc_id=AMB:BAL000000000/exchange=mexc/data.json"
+        ]
+    }
+}

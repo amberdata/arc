@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "trwp",
+    "assetName": "Danol Tremp",
+    "assetArcId": "AMB:TRW000000000",
+    "website": "https://danoltremp.com/",
+    "whitePaperUrl": "/how-to-buy/TRWP?utm_source=mexc&utm_medium=tokenifoTRWP&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Danol Tremp/arc_id=AMB:TRW000000000/exchange=mexc/data.json"
+        ]
+    }
+}

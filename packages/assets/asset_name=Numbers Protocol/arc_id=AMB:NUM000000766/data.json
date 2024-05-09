@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "num",
+    "assetName": "Numbers Protocol",
+    "assetArcId": "AMB:NUM000000766",
+    "website": "https://www.numbersprotocol.io/",
+    "whitePaperUrl": "/how-to-buy/NUM?utm_source=mexc&utm_medium=tokenifoNUM&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Numbers Protocol/arc_id=AMB:NUM000000766/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Numbers Protocol/arc_id=AMB:NUM000000766/exchange=mexc/data.json"
+        ]
+    }
+}

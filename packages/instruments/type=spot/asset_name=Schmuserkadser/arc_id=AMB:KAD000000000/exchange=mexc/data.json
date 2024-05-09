@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KAD000000000_AMB:USD000000335",
+        "normalizedPair": "kad_usdt",
+        "normalizedSymbol": "kad",
+        "nativePair": "KADUSDT",
+        "exchange": "mexc",
+        "assetName": "Schmuserkadser",
+        "assetArcId": "AMB:KAD000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kad_usdt",
+        "instrumentType": "spot"
+    }
+]

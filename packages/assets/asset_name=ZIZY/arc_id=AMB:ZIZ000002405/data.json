@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "zizy",
+    "assetName": "ZIZY",
+    "assetArcId": "AMB:ZIZ000002405",
+    "website": "https://www.zizywin.app/",
+    "whitePaperUrl": "https://zizywhitepaper.gitbook.io/zizy-whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ZIZY/arc_id=AMB:ZIZ000002405/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "trump404",
+    "assetName": "Trump404",
+    "assetArcId": "AMB:TRU000000000",
+    "website": "http://whowillwin2024.wtf/#/home",
+    "whitePaperUrl": "http://whowillwin2024.wtf/#/home",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Trump404/arc_id=AMB:TRU000000000/exchange=mexc/data.json"
+        ]
+    }
+}

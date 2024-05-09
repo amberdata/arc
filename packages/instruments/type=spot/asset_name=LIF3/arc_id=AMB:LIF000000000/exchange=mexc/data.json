@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LIF000000000_AMB:USD000000335",
+        "normalizedPair": "lif3_usdt",
+        "normalizedSymbol": "lif3",
+        "nativePair": "LIF3USDT",
+        "exchange": "mexc",
+        "assetName": "LIF3",
+        "assetArcId": "AMB:LIF000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lif3_usdt",
+        "instrumentType": "spot"
+    }
+]

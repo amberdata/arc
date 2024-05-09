@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "koin",
+    "assetName": "Koinos",
+    "assetArcId": "AMB:KOI000001836",
+    "website": "https://koinos.io/",
+    "whitePaperUrl": "https://koinos.io/unified-whitepaper/",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Koinos/arc_id=AMB:KOI000001836/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "lsk",
+    "assetName": "Lisk",
+    "assetArcId": "AMB:LSK000000199",
+    "website": "https://lisk.com/",
+    "whitePaperUrl": "https://lisk.com/documentation/lisk-sdk/index.html",
+    "classificationTags": [
+        "Governance",
+        "Proof-of-Stake"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Lisk/arc_id=AMB:LSK000000199/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Lisk/arc_id=AMB:LSK000000199/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Lisk/arc_id=AMB:LSK000000199/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Lisk/arc_id=AMB:LSK000000199/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Lisk/arc_id=AMB:LSK000000199/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Lisk/arc_id=AMB:LSK000000199/exchange=binance/data.json"
+        ]
+    }
+}

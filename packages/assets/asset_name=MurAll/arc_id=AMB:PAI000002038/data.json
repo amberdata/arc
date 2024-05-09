@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "paint",
+    "assetName": "MurAll",
+    "assetArcId": "AMB:PAI000002038",
+    "website": "https://murall.art/",
+    "whitePaperUrl": "https://gateway.pinata.cloud/ipfs/QmWr8YDKXGzytBLQiNS4XQnzAziVspemnUHw2ZdqcKdQys",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MurAll/arc_id=AMB:PAI000002038/exchange=mexc/data.json"
+        ]
+    }
+}

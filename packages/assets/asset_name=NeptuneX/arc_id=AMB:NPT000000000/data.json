@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "nptx",
+    "assetName": "NeptuneX",
+    "assetArcId": "AMB:NPT000000000",
+    "website": "https://neptunex.io/",
+    "whitePaperUrl": "https://docs.neptunex.io/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=NeptuneX/arc_id=AMB:NPT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

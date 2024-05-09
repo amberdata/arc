@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ECC000003426_AMB:USD000000335",
+        "normalizedPair": "ecc_usdt",
+        "normalizedSymbol": "ecc",
+        "nativePair": "ECCUSDT",
+        "exchange": "mexc",
+        "assetName": "Etherconnect",
+        "assetArcId": "AMB:ECC000003426",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ecc_usdt",
+        "instrumentType": "spot"
+    }
+]

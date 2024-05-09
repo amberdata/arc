@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "drv3",
+    "assetName": "DRV3",
+    "assetArcId": "AMB:DRV000000000",
+    "website": "https://drive3.net/",
+    "whitePaperUrl": "https://drive3.gitbook.io/drive3",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=DRV3/arc_id=AMB:DRV000000000/exchange=mexc/data.json"
+        ]
+    }
+}

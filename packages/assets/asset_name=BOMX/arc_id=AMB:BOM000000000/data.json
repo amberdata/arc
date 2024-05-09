@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bomx",
+    "assetName": "BOMX",
+    "assetArcId": "AMB:BOM000000000",
+    "website": "https://bomx.buzz/",
+    "whitePaperUrl": "https://bomx.gitbook.io/bomx",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BOMX/arc_id=AMB:BOM000000000/exchange=mexc/data.json"
+        ]
+    }
+}

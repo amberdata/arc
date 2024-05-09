@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "stbot",
+    "assetName": "SolTradingBot",
+    "assetArcId": "AMB:STB000003088",
+    "website": "https://soltradingbot.com/",
+    "whitePaperUrl": "https://soltradingbot.gitbook.io/docs/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=SolTradingBot/arc_id=AMB:STB000003088/exchange=mexc/data.json"
+        ]
+    }
+}

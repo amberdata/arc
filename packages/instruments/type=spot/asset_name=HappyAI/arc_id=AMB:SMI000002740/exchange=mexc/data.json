@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SMI000002740_AMB:USD000000335",
+        "normalizedPair": "smileai_usdt",
+        "normalizedSymbol": "smileai",
+        "nativePair": "SMILEAIUSDT",
+        "exchange": "mexc",
+        "assetName": "HappyAI",
+        "assetArcId": "AMB:SMI000002740",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "smileai_usdt",
+        "instrumentType": "spot"
+    }
+]

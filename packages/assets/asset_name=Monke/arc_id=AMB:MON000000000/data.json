@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "monke",
+    "assetName": "Monke",
+    "assetArcId": "AMB:MON000000000",
+    "website": "https://monkecoinerc.com/index-2.html",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xb624960aaad05d433075a5c9e760adec26036934"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Monke/arc_id=AMB:MON000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

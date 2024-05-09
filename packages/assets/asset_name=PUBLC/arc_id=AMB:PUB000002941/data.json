@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "publx",
+    "assetName": "PUBLC",
+    "assetArcId": "AMB:PUB000002941",
+    "website": "https://publc.com/",
+    "whitePaperUrl": "https://docs.publc.com/introduction-to-publc/master",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=PUBLC/arc_id=AMB:PUB000002941/exchange=mexc/data.json"
+        ]
+    }
+}

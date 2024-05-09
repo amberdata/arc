@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "ghx",
+    "assetName": "GamerCoin",
+    "assetArcId": "AMB:GHX000001153",
+    "website": "https://gamerhash.com/en",
+    "whitePaperUrl": "https://docs.gamercoin.com/en/gamercoin-ghx-tokenomy",
+    "classificationTags": [
+        "DePIN",
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=GamerCoin/arc_id=AMB:GHX000001153/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=GamerCoin/arc_id=AMB:GHX000001153/exchange=bithumb/data.json"
+        ]
+    }
+}

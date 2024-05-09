@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "sero",
+    "assetName": "Super Zero Protocol",
+    "assetArcId": "AMB:SER000002166",
+    "website": "https://sero.cash",
+    "whitePaperUrl": "https://sero.cash/cn/uploadfile/upload/2019051616505760.pdf",
+    "classificationTags": [
+        "Privacy",
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Super Zero Protocol/arc_id=AMB:SER000002166/exchange=mexc/data.json"
+        ]
+    }
+}

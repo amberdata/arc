@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "elon",
+    "assetName": "Dogelon Mars",
+    "assetArcId": "AMB:ELO000000498",
+    "website": "https://dogelonmars.com/",
+    "whitePaperUrl": "/how-to-buy/ELON?utm_source=mexc&utm_medium=tokenifoELON&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Dogelon Mars/arc_id=AMB:ELO000000498/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Dogelon Mars/arc_id=AMB:ELO000000498/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Dogelon Mars/arc_id=AMB:ELO000000498/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Dogelon Mars/arc_id=AMB:ELO000000498/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Dogelon Mars/arc_id=AMB:ELO000000498/exchange=mexc/data.json"
+        ]
+    }
+}

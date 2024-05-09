@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "x314",
+    "assetName": "X314",
+    "assetArcId": "AMB:X31000000000",
+    "website": "https://x314.app/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "BSC",
+            "address": "0x003144B41d9743D402c5bdF3f72Ca0f327aA0Bca"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=X314/arc_id=AMB:X31000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

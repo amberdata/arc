@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "usa",
+    "assetName": "American Coin",
+    "assetArcId": "AMB:USA000000000",
+    "website": "https://www.americancoin.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "69kdRLyP5DTRkpHraaSZAQbWmAwzF9guKjZfzMXzcbAs"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=American Coin/arc_id=AMB:USA000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

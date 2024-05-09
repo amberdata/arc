@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "token",
+    "assetName": "TokenFi",
+    "assetArcId": "AMB:TOK000002892",
+    "website": "https://tokenfi.com/tokenfi",
+    "whitePaperUrl": "/how-to-buy/TOKEN?utm_source=mexc&utm_medium=tokenifoTOKEN&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=TokenFi/arc_id=AMB:TOK000002892/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=TokenFi/arc_id=AMB:TOK000002892/exchange=mexc/data.json"
+        ]
+    }
+}

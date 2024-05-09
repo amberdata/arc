@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NEU000000000_AMB:USD000000335",
+        "normalizedPair": "neuro_usdt",
+        "normalizedSymbol": "neuro",
+        "nativePair": "NEUROUSDT",
+        "exchange": "mexc",
+        "assetName": "NeuroWeb AI",
+        "assetArcId": "AMB:NEU000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "neuro_usdt",
+        "instrumentType": "spot"
+    }
+]

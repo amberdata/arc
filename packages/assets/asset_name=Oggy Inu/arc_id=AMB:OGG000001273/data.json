@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "oggy",
+    "assetName": "Oggy Inu",
+    "assetArcId": "AMB:OGG000001273",
+    "website": "https://oggyinu.com/",
+    "whitePaperUrl": "https://oggyinu.com/#",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Oggy Inu/arc_id=AMB:OGG000001273/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Oggy Inu/arc_id=AMB:OGG000001273/exchange=mexc/data.json"
+        ]
+    }
+}

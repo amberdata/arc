@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bgn",
+    "assetName": "Bitgain",
+    "assetArcId": "AMB:BGN000002762",
+    "website": "https://bitgain.ai/",
+    "whitePaperUrl": "https://bitgain.ai/files/BitGain-WhitePaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Bitgain/arc_id=AMB:BGN000002762/exchange=mexc/data.json"
+        ]
+    }
+}

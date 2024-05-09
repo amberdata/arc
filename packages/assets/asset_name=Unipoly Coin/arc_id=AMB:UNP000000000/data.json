@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "unp",
+    "assetName": "Unipoly Coin",
+    "assetArcId": "AMB:UNP000000000",
+    "website": "https://unipolycoin.com/",
+    "whitePaperUrl": "https://unipolycoin.com/WhitepaperEn.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Unipoly Coin/arc_id=AMB:UNP000000000/exchange=mexc/data.json"
+        ]
+    }
+}

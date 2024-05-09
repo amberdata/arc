@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UDS000000000_AMB:USD000000335",
+        "normalizedPair": "uds_usdt",
+        "normalizedSymbol": "uds",
+        "nativePair": "UDSUSDT",
+        "exchange": "mexc",
+        "assetName": "UDS",
+        "assetArcId": "AMB:UDS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "uds_usdt",
+        "instrumentType": "spot"
+    }
+]

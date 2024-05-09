@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "camly",
+    "assetName": "CAMLY COIN",
+    "assetArcId": "AMB:CAM000003182",
+    "website": "https://camly.co/",
+    "whitePaperUrl": "https://camly.co/document/whitepaper-cam-ly-ecosystem.pdf",
+    "classificationTags": [
+        "Content & Streaming",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=CAMLY COIN/arc_id=AMB:CAM000003182/exchange=mexc/data.json"
+        ]
+    }
+}

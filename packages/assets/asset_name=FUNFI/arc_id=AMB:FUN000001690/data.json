@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "funfi",
+    "assetName": "FUNFI",
+    "assetArcId": "AMB:FUN000001690",
+    "website": "https://www.funfi.org/",
+    "whitePaperUrl": "https://www.funfi.org/whitepaper",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=FUNFI/arc_id=AMB:FUN000001690/exchange=mexc/data.json"
+        ]
+    }
+}

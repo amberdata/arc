@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "nxd",
+    "assetName": "Nexus Dubai",
+    "assetArcId": "AMB:NXD000002001",
+    "website": "https://nxdproject.io/",
+    "whitePaperUrl": "/how-to-buy/NXD?utm_source=mexc&utm_medium=tokenifoNXD&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Nexus Dubai/arc_id=AMB:NXD000002001/exchange=mexc/data.json"
+        ]
+    }
+}

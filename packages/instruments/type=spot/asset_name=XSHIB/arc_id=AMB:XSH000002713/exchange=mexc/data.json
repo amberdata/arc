@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XSH000002713_AMB:USD000000335",
+        "normalizedPair": "xshib_usdt",
+        "normalizedSymbol": "xshib",
+        "nativePair": "XSHIBUSDT",
+        "exchange": "mexc",
+        "assetName": "XSHIB",
+        "assetArcId": "AMB:XSH000002713",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xshib_usdt",
+        "instrumentType": "spot"
+    }
+]

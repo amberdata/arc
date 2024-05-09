@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "keke",
+    "assetName": "KEK",
+    "assetArcId": "AMB:KEK000001826",
+    "website": "https://www.kingdomofkek.com/",
+    "whitePaperUrl": "/how-to-buy/KEKE?utm_source=mexc&utm_medium=tokenifoKEKE&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=KEK/arc_id=AMB:KEK000001826/exchange=mexc/data.json"
+        ]
+    }
+}

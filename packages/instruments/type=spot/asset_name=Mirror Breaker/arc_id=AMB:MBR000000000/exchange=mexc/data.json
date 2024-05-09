@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MBR000000000_AMB:USD000000335",
+        "normalizedPair": "mbr_usdt",
+        "normalizedSymbol": "mbr",
+        "nativePair": "MBRUSDT",
+        "exchange": "mexc",
+        "assetName": "Mirror Breaker",
+        "assetArcId": "AMB:MBR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mbr_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "gmx",
+    "assetName": "GMX",
+    "assetArcId": "AMB:GMX000000151",
+    "website": "https://gmx.io/#/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Derivatives",
+        "Governance",
+        "Layer-2",
+        "Oracles",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

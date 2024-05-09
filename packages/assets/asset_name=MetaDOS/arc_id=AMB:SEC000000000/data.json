@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "second",
+    "assetName": "MetaDOS",
+    "assetArcId": "AMB:SEC000000000",
+    "website": "https://metados.com",
+    "whitePaperUrl": "https://wiki.metados.com/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MetaDOS/arc_id=AMB:SEC000000000/exchange=mexc/data.json"
+        ]
+    }
+}

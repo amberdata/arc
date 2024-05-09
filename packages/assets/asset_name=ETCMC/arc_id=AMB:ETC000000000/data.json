@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "etcpow",
+    "assetName": "ETCMC",
+    "assetArcId": "AMB:ETC000000000",
+    "website": "https://etcmc.org/etcpow",
+    "whitePaperUrl": "https://drive.google.com/file/d/1Avk-sClhMOmDWWZbzDnK4I5TvtAAzm0w/view",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ETCMC/arc_id=AMB:ETC000000000/exchange=mexc/data.json"
+        ]
+    }
+}

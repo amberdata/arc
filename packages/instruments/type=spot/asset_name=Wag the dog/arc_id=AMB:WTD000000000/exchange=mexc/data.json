@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WTD000000000_AMB:USD000000335",
+        "normalizedPair": "wtd_usdt",
+        "normalizedSymbol": "wtd",
+        "nativePair": "WTDUSDT",
+        "exchange": "mexc",
+        "assetName": "Wag the dog",
+        "assetArcId": "AMB:WTD000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wtd_usdt",
+        "instrumentType": "spot"
+    }
+]

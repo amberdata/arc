@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "smurfcat",
+    "assetName": "Real Smurf Cat",
+    "assetArcId": "AMB:SMU000001314",
+    "website": "https://smurfcat.eth.limo/",
+    "whitePaperUrl": "/how-to-buy/SMURFCAT?utm_source=mexc&utm_medium=tokenifoSMURFCAT&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Real Smurf Cat/arc_id=AMB:SMU000001314/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Real Smurf Cat/arc_id=AMB:SMU000001314/exchange=mexc/data.json"
+        ]
+    }
+}

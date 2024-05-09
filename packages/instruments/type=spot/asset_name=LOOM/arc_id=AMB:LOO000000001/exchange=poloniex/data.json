@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LOO000000001_AMB:USD000000335",
+        "normalizedPair": "loomsol_usdt",
+        "normalizedSymbol": "loomsol",
+        "nativePair": "LOOMSOL_USDT",
+        "exchange": "poloniex",
+        "assetName": "LOOM",
+        "assetArcId": "AMB:LOO000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "loomsol_usdt",
+        "instrumentType": "spot"
+    }
+]

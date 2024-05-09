@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GRO000002834_AMB:USD000000335",
+        "normalizedPair": "grokgirl_usdt",
+        "normalizedSymbol": "grokgirl",
+        "nativePair": "GROKGIRLUSDT",
+        "exchange": "mexc",
+        "assetName": "Grok Girl",
+        "assetArcId": "AMB:GRO000002834",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "grokgirl_usdt",
+        "instrumentType": "spot"
+    }
+]

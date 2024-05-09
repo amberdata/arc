@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TES000000000_AMB:USD000000335",
+        "normalizedPair": "tes_usdt",
+        "normalizedSymbol": "tes",
+        "nativePair": "TESUSDT",
+        "exchange": "mexc",
+        "assetName": "Titan",
+        "assetArcId": "AMB:TES000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tes_usdt",
+        "instrumentType": "spot"
+    }
+]

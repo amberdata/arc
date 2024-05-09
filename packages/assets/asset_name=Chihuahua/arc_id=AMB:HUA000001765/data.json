@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "huahua",
+    "assetName": "Chihuahua",
+    "assetArcId": "AMB:HUA000001765",
+    "website": "https://www.chihuahua.wtf",
+    "whitePaperUrl": "/how-to-buy/HUAHUA?utm_source=mexc&utm_medium=tokenifoHUAHUA&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme",
+        "Meme",
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Chihuahua/arc_id=AMB:HUA000001765/exchange=mexc/data.json"
+        ]
+    }
+}

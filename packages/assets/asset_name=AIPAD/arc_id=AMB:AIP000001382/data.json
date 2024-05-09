@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "aipad",
+    "assetName": "AIPAD",
+    "assetArcId": "AMB:AIP000001382",
+    "website": "https://www.aipad.tech/",
+    "whitePaperUrl": "https://aipad-1.gitbook.io/aipad/leaderboard-tier-system",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=AIPAD/arc_id=AMB:AIP000001382/exchange=mexc/data.json"
+        ]
+    }
+}

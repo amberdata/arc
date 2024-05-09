@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ULT000003324_AMB:USD000000335",
+        "normalizedPair": "ultima_usdt",
+        "normalizedSymbol": "ultima",
+        "nativePair": "ULTIMAUSDT",
+        "exchange": "mexc",
+        "assetName": "Ultima",
+        "assetArcId": "AMB:ULT000003324",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ultima_usdt",
+        "instrumentType": "spot"
+    }
+]

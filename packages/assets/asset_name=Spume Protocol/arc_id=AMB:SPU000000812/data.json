@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "spume",
+    "assetName": "Spume Protocol",
+    "assetArcId": "AMB:SPU000000812",
+    "website": "https://spume.io/",
+    "whitePaperUrl": "https://spume.io/wp-content/uploads/2022/01/spume-white-paper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Spume Protocol/arc_id=AMB:SPU000000812/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Spume Protocol/arc_id=AMB:SPU000000812/exchange=mexc/data.json"
+        ]
+    }
+}

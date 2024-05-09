@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GFI000000407_AMB:USD000000335",
+        "normalizedPair": "gfi_usdt",
+        "normalizedSymbol": "gfi",
+        "nativePair": "GFIUSDT",
+        "exchange": "mexc",
+        "assetName": "Goldfinch Protocol",
+        "assetArcId": "AMB:GFI000000407",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gfi_usdt",
+        "instrumentType": "spot"
+    }
+]

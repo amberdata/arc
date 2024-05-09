@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "xrpaynet",
+    "assetName": "XRPayNet",
+    "assetArcId": "AMB:XRP000002382",
+    "website": "https://xrpaynet.com/",
+    "whitePaperUrl": "https://xrpaynet.com/wp-content/uploads/XRPayNet%20Whitepaper.pdf?_t=1653945807",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=XRPayNet/arc_id=AMB:XRP000002382/exchange=mexc/data.json"
+        ]
+    }
+}

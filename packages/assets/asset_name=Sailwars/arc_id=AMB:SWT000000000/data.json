@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "swt",
+    "assetName": "Sailwars",
+    "assetArcId": "AMB:SWT000000000",
+    "website": "https://sailwars.com/",
+    "whitePaperUrl": "https://sailwars-1.gitbook.io/sailwars-whitepaper/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Sailwars/arc_id=AMB:SWT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

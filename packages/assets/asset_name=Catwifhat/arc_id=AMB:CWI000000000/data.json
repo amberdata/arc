@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "cwif",
+    "assetName": "Catwifhat",
+    "assetArcId": "AMB:CWI000000000",
+    "website": "https://linktr.ee/catwifhat",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "7atgF8KQo4wJrD5ATGX7t1V2zVvykPJbFfNeVf1icFv1"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Catwifhat/arc_id=AMB:CWI000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

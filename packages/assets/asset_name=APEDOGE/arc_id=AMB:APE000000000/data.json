@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "apedoge",
+    "assetName": "APEDOGE",
+    "assetArcId": "AMB:APE000000000",
+    "website": "https://ape-doge.com/",
+    "whitePaperUrl": "/how-to-buy/APEDOGE?utm_source=mexc&utm_medium=tokenifoAPEDOGE&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=APEDOGE/arc_id=AMB:APE000000000/exchange=mexc/data.json"
+        ]
+    }
+}

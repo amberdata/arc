@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "mbd",
+    "assetName": "MBD Financials",
+    "assetArcId": "AMB:MBD000001898",
+    "website": "https://mbdfinancials.com/",
+    "whitePaperUrl": "https://docs.mbdfinancials.com/",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MBD Financials/arc_id=AMB:MBD000001898/exchange=mexc/data.json"
+        ]
+    }
+}

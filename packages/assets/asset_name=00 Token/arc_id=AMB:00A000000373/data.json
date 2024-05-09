@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "00",
+    "assetName": "00 Token",
+    "assetArcId": "AMB:00A000000373",
+    "website": "https://www.p00ls.io/",
+    "whitePaperUrl": "https://www.p00ls.io/whitepaper/00?locale=en",
+    "classificationTags": [
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x881ba05de1e78f549cc63a8f6cabb1d4ad32250d"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=00 Token/arc_id=AMB:00A000000373/exchange=gdax/data.json"
+        ]
+    }
+}

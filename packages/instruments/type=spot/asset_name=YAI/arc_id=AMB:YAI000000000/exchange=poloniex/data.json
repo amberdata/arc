@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:YAI000000000_AMB:USD000000335",
+        "normalizedPair": "yai_usdt",
+        "normalizedSymbol": "yai",
+        "nativePair": "YAI_USDT",
+        "exchange": "poloniex",
+        "assetName": "YAI",
+        "assetArcId": "AMB:YAI000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "yai_usdt",
+        "instrumentType": "spot"
+    }
+]

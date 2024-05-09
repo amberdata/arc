@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "orla",
+    "assetName": "Ordi Launch",
+    "assetArcId": "AMB:ORL000000000",
+    "website": "https://ordilaunch.io/",
+    "whitePaperUrl": "https://ordi-launch.gitbook.io/wpp/usdorla/utilities",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Ordi Launch/arc_id=AMB:ORL000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "chat",
+    "assetName": "Dechat",
+    "assetArcId": "AMB:CHA000000001",
+    "website": "https://linktr.ee/Dechat_socialfi",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "BSC",
+            "address": "0xD69ee2e508363FEd57f89917D5ca03e715ee5519"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Dechat/arc_id=AMB:CHA000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

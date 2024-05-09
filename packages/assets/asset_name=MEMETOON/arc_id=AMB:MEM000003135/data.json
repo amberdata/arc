@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "memetoon",
+    "assetName": "MEMETOON",
+    "assetArcId": "AMB:MEM000003135",
+    "website": "http://memetoon.io/",
+    "whitePaperUrl": "http://memetoon.io/whitepaper/MEME_EN.pdf",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MEMETOON/arc_id=AMB:MEM000003135/exchange=mexc/data.json"
+        ]
+    }
+}

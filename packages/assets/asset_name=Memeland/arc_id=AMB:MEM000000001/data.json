@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "memeland",
+    "assetName": "Memeland",
+    "assetArcId": "AMB:MEM000000001",
+    "website": "https://www.memeland.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xb131f4A55907B10d1F0A50d8ab8FA09EC342cd74"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Memeland/arc_id=AMB:MEM000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

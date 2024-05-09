@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ius",
+    "assetName": "Iustitia Coin",
+    "assetArcId": "AMB:IUS000001800",
+    "website": "https://www.iustitiacoin.org/",
+    "whitePaperUrl": "https://www.iustitiacoin.org/_files/ugd/f3cfe0_08ef9dc757144af894a4985e3c0b1d90.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Iustitia Coin/arc_id=AMB:IUS000001800/exchange=mexc/data.json"
+        ]
+    }
+}

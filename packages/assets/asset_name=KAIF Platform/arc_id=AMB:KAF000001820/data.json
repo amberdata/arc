@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "kaf",
+    "assetName": "KAIF Platform",
+    "assetArcId": "AMB:KAF000001820",
+    "website": "https://kaif-platform.com/",
+    "whitePaperUrl": "https://docs.kaif-platform.com/kaif-lp.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=KAIF Platform/arc_id=AMB:KAF000001820/exchange=mexc/data.json"
+        ]
+    }
+}

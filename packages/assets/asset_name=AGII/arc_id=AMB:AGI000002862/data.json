@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "agii",
+    "assetName": "AGII",
+    "assetArcId": "AMB:AGI000002862",
+    "website": "https://agii.app/",
+    "whitePaperUrl": "https://litepaper.agii.app/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=AGII/arc_id=AMB:AGI000002862/exchange=mexc/data.json"
+        ]
+    }
+}

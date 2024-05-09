@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "tin",
+    "assetName": "Token IN",
+    "assetArcId": "AMB:TIN000002268",
+    "website": "https://ongame.dev/",
+    "whitePaperUrl": "https://ongame.dev/whitepaper",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Token IN/arc_id=AMB:TIN000002268/exchange=mexc/data.json"
+        ]
+    }
+}

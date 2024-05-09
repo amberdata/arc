@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "doggy",
+    "assetName": "DOGGY",
+    "assetArcId": "AMB:DOG000001608",
+    "website": "https://www.bakeryswap.org/#/home",
+    "whitePaperUrl": "/how-to-buy/DOGGY?utm_source=mexc&utm_medium=tokenifoDOGGY&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=DOGGY/arc_id=AMB:DOG000001608/exchange=mexc/data.json"
+        ]
+    }
+}

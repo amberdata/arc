@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "trac",
+    "assetName": "OriginTrail",
+    "assetArcId": "AMB:TRA000000451",
+    "website": "https://origintrail.io/",
+    "whitePaperUrl": "https://parachain.origintrail.io/whitepaper",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=OriginTrail/arc_id=AMB:TRA000000451/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=OriginTrail/arc_id=AMB:TRA000000451/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=OriginTrail/arc_id=AMB:TRA000000451/exchange=huobi/data.json"
+        ]
+    }
+}

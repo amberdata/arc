@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "htt",
+    "assetName": "Hello Art",
+    "assetArcId": "AMB:HTT000001764",
+    "website": "https://hello-art.io/",
+    "whitePaperUrl": "https://drive.google.com/file/d/1V6dv1GGMHDZ95Kdm2UL7tFHNj8-jqpQb/view",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Hello Art/arc_id=AMB:HTT000001764/exchange=mexc/data.json"
+        ]
+    }
+}

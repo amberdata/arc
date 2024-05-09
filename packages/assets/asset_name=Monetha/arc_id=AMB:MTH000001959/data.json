@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "mth",
+    "assetName": "Monetha",
+    "assetArcId": "AMB:MTH000001959",
+    "website": "https://www.monetha.io/",
+    "whitePaperUrl": "https://www.monetha.io/white-paper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Monetha/arc_id=AMB:MTH000001959/exchange=mexc/data.json"
+        ]
+    }
+}

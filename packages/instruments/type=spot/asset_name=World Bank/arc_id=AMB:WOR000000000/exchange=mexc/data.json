@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WOR000000000_AMB:USD000000335",
+        "normalizedPair": "world_usdt",
+        "normalizedSymbol": "world",
+        "nativePair": "WORLDUSDT",
+        "exchange": "mexc",
+        "assetName": "World Bank",
+        "assetArcId": "AMB:WOR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "world_usdt",
+        "instrumentType": "spot"
+    }
+]

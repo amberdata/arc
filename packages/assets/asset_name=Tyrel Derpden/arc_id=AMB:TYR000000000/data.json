@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "tyrel",
+    "assetName": "Tyrel Derpden",
+    "assetArcId": "AMB:TYR000000000",
+    "website": "https://www.tyrelderpden.com/",
+    "whitePaperUrl": "/how-to-buy/TYREL?utm_source=mexc&utm_medium=tokenifoTYREL&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Tyrel Derpden/arc_id=AMB:TYR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

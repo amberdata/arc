@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "shibainux",
+    "assetName": "Shiba Inu",
+    "assetArcId": "AMB:SHI000003384",
+    "website": "https://www.shiba-inu.org/",
+    "whitePaperUrl": "/how-to-buy/SHIBAINUX?utm_source=mexc&utm_medium=tokenifoSHIBAINUX&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Shiba Inu/arc_id=AMB:SHI000003384/exchange=mexc/data.json"
+        ]
+    }
+}

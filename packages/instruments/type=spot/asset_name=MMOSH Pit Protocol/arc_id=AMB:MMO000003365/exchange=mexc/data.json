@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MMO000003365_AMB:USD000000335",
+        "normalizedPair": "mmosh_usdt",
+        "normalizedSymbol": "mmosh",
+        "nativePair": "MMOSHUSDT",
+        "exchange": "mexc",
+        "assetName": "MMOSH Pit Protocol",
+        "assetArcId": "AMB:MMO000003365",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mmosh_usdt",
+        "instrumentType": "spot"
+    }
+]

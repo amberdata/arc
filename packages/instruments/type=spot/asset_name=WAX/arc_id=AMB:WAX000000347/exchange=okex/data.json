@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:WAX000000347_AMB:USD000000335",
+        "normalizedPair": "waxp_usdt",
+        "normalizedSymbol": "waxp",
+        "nativePair": "WAXP-USDT",
+        "exchange": "okex",
+        "assetName": "WAX",
+        "assetArcId": "AMB:WAX000000347",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "waxp_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WAX000000347_AMB:USD000000333",
+        "normalizedPair": "waxp_usdc",
+        "normalizedSymbol": "waxp",
+        "nativePair": "WAXP-USDC",
+        "exchange": "okex",
+        "assetName": "WAX",
+        "assetArcId": "AMB:WAX000000347",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "waxp_usdc",
+        "instrumentType": "spot"
+    }
+]

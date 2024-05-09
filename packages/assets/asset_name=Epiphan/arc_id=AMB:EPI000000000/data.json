@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "epi",
+    "assetName": "Epiphan",
+    "assetArcId": "AMB:EPI000000000",
+    "website": "https://www.epiphan.space/",
+    "whitePaperUrl": "https://epiphanteam.gitbook.io/epiphan-whitepaper/introduction/interstellar-immigration-game",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Epiphan/arc_id=AMB:EPI000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "bls",
+    "assetName": "BlueSale Finance",
+    "assetArcId": "AMB:BLS000001477",
+    "website": "https://www.bluesale.finance/?chain=42161",
+    "whitePaperUrl": "https://docs.bluesale.finance/",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BlueSale Finance/arc_id=AMB:BLS000001477/exchange=mexc/data.json"
+        ]
+    }
+}

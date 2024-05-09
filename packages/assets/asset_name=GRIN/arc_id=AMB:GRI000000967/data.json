@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "grin",
+    "assetName": "GRIN",
+    "assetArcId": "AMB:GRI000000967",
+    "website": "https://grinbsc.xyz/",
+    "whitePaperUrl": "/how-to-buy/GRIN?utm_source=mexc&utm_medium=tokenifoGRIN&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=GRIN/arc_id=AMB:GRI000000967/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRE000001563_AMB:USD000000335",
+        "normalizedPair": "creo_usdt",
+        "normalizedSymbol": "creo",
+        "nativePair": "CREO_USDT",
+        "exchange": "poloniex",
+        "assetName": "Creo Engine",
+        "assetArcId": "AMB:CRE000001563",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "creo_usdt",
+        "instrumentType": "spot"
+    }
+]

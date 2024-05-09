@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "tx20",
+    "assetName": "Trex20",
+    "assetArcId": "AMB:TX2000000000",
+    "website": "https://trex20.xyz/",
+    "whitePaperUrl": "https://trex20.gitbook.io/trex20",
+    "classificationTags": [
+        "Gaming",
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Trex20/arc_id=AMB:TX2000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "opul",
+    "assetName": "Opulous",
+    "assetArcId": "AMB:OPU000000772",
+    "website": "https://opulous.org/",
+    "whitePaperUrl": "/how-to-buy/OPUL?utm_source=mexc&utm_medium=tokenifoOPUL&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Opulous/arc_id=AMB:OPU000000772/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Opulous/arc_id=AMB:OPU000000772/exchange=mexc/data.json"
+        ]
+    }
+}

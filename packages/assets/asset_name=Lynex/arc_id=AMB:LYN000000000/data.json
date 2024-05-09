@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "lynx",
+    "assetName": "Lynex",
+    "assetArcId": "AMB:LYN000000000",
+    "website": "https://www.lynex.fi/",
+    "whitePaperUrl": "https://lynex.gitbook.io/lynex-docs/protocol-overview/about-lynex",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Lynex/arc_id=AMB:LYN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

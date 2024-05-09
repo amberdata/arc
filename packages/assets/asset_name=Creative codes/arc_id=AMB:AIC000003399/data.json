@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "aicrea",
+    "assetName": "Creative codes",
+    "assetArcId": "AMB:AIC000003399",
+    "website": "http://creativecodesai.com/",
+    "whitePaperUrl": "https://creativecodesai.com/wp-content/uploads/2023/11/whitepaper.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Creative codes/arc_id=AMB:AIC000003399/exchange=mexc/data.json"
+        ]
+    }
+}

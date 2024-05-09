@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "alu",
+    "assetName": "Altura",
+    "assetArcId": "AMB:ALU000003238",
+    "website": "https://www.alturanft.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "BSC",
+            "address": "0x8263CD1601FE73C066bf49cc09841f35348e3be0"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Altura/arc_id=AMB:ALU000003238/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Altura/arc_id=AMB:ALU000003238/exchange=mexc/data.json"
+        ]
+    }
+}

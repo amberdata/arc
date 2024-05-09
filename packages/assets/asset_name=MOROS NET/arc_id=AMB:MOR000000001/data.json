@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "moros",
+    "assetName": "MOROS NET",
+    "assetArcId": "AMB:MOR000000001",
+    "website": "https://morosnet.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0xab85fc558d722a2b7c040ffb77db676bd9e7d322"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MOROS NET/arc_id=AMB:MOR000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

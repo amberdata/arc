@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "ethpepe2",
+    "assetName": "Pepe2.0",
+    "assetArcId": "AMB:ETH000001226",
+    "website": "https://www.pepe-20.live/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x6e835ac221d5622bf65ae21a22eb7484d1898598"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Pepe2.0/arc_id=AMB:ETH000001226/exchange=poloniex/data.json"
+        ]
+    }
+}

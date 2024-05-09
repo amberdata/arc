@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "nct",
+    "assetName": "Polyswarm",
+    "assetArcId": "AMB:NCT000000429",
+    "website": "https://polyswarm.io/",
+    "whitePaperUrl": "https://polyswarm.io/polyswarm-whitepaper.pdf",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x9e46a38f5daabe8683e10793b06749eef7d733d1"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

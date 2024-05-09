@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "dock",
+    "assetName": "Dock",
+    "assetArcId": "AMB:DOC000000102",
+    "website": "https://www.dock.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Privacy",
+        "Proof-of-Stake"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Dock/arc_id=AMB:DOC000000102/exchange=binance/data.json"
+        ]
+    }
+}

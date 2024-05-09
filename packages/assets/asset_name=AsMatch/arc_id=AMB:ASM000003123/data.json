@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "asmatch",
+    "assetName": "AsMatch",
+    "assetArcId": "AMB:ASM000003123",
+    "website": "https://www.asmatch.app/",
+    "whitePaperUrl": "https://whitepaper.asmatch.app/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=AsMatch/arc_id=AMB:ASM000003123/exchange=mexc/data.json"
+        ]
+    }
+}

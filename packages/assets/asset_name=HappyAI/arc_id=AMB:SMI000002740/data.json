@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "smileai",
+    "assetName": "HappyAI",
+    "assetArcId": "AMB:SMI000002740",
+    "website": "http://happysmile.ai/",
+    "whitePaperUrl": "/how-to-buy/SMILEAI?utm_source=mexc&utm_medium=tokenifoSMILEAI&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=HappyAI/arc_id=AMB:SMI000002740/exchange=mexc/data.json"
+        ]
+    }
+}

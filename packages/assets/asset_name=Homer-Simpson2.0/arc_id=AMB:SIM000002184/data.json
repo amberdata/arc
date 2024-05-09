@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "simpson2",
+    "assetName": "Homer-Simpson2.0",
+    "assetArcId": "AMB:SIM000002184",
+    "website": "https://homersimpson.xyz/",
+    "whitePaperUrl": "https://homersimpson.xyz/Homer%20Simpson--whitepaper.pdf",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Homer-Simpson2.0/arc_id=AMB:SIM000002184/exchange=mexc/data.json"
+        ]
+    }
+}

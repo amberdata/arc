@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "grok2",
+    "assetName": "GROK 2.0",
+    "assetArcId": "AMB:GRO000002827",
+    "website": "https://grok-2.fun/",
+    "whitePaperUrl": "/how-to-buy/GROK2?utm_source=mexc&utm_medium=tokenifoGROK2&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=GROK 2.0/arc_id=AMB:GRO000002827/exchange=mexc/data.json"
+        ]
+    }
+}

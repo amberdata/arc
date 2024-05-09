@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "gcoti",
+    "assetName": "GCOTI",
+    "assetArcId": "AMB:GCO000000000",
+    "website": "https://coti.io/",
+    "whitePaperUrl": "https://coti.io/files/treasury2.0_lp.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=GCOTI/arc_id=AMB:GCO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

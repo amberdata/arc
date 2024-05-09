@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "mgc",
+    "assetName": "Magator",
+    "assetArcId": "AMB:MGC000002750",
+    "website": "https://www.magatoryield.xyz/",
+    "whitePaperUrl": "https://magator-yield.gitbook.io/magator/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Magator/arc_id=AMB:MGC000002750/exchange=mexc/data.json"
+        ]
+    }
+}

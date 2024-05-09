@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bscyfi",
+    "assetName": "YFI",
+    "assetArcId": "AMB:BSC000003351",
+    "website": "https://yfi.one/",
+    "whitePaperUrl": "/how-to-buy/BSCYFI?utm_source=mexc&utm_medium=tokenifoBSCYFI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=YFI/arc_id=AMB:BSC000003351/exchange=mexc/data.json"
+        ]
+    }
+}

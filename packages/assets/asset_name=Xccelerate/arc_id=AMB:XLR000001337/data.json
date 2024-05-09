@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "xlrt",
+    "assetName": "Xccelerate",
+    "assetArcId": "AMB:XLR000001337",
+    "website": "https://xccelerate.net/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x8a3C710E41cD95799C535f22DBaE371D7C858651"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Xccelerate/arc_id=AMB:XLR000001337/exchange=poloniex/data.json"
+        ]
+    }
+}

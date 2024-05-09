@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GON000000000_AMB:USD000000335",
+        "normalizedPair": "gone_usdt",
+        "normalizedSymbol": "gone",
+        "nativePair": "GONEUSDT",
+        "exchange": "mexc",
+        "assetName": "GONE",
+        "assetArcId": "AMB:GON000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gone_usdt",
+        "instrumentType": "spot"
+    }
+]

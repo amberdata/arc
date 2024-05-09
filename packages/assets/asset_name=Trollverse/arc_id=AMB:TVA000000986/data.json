@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "tv",
+    "assetName": "Trollverse",
+    "assetArcId": "AMB:TVA000000986",
+    "website": "https://trollverse.world/",
+    "whitePaperUrl": "/how-to-buy/TV?utm_source=mexc&utm_medium=tokenifoTV&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Trollverse/arc_id=AMB:TVA000000986/exchange=mexc/data.json"
+        ]
+    }
+}

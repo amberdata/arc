@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MOD000003456_AMB:USD000000335",
+        "normalizedPair": "moda_usdt",
+        "normalizedSymbol": "moda",
+        "nativePair": "MODAUSDT",
+        "exchange": "mexc",
+        "assetName": "MODA DAO",
+        "assetArcId": "AMB:MOD000003456",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "moda_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "mtms",
+    "assetName": "MTMS Network",
+    "assetArcId": "AMB:MTM000000000",
+    "website": "https://mtms.live/",
+    "whitePaperUrl": "https://whitepaper.mtms.live/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MTMS Network/arc_id=AMB:MTM000000000/exchange=mexc/data.json"
+        ]
+    }
+}

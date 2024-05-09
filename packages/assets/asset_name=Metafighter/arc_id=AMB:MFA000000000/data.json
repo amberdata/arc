@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "mf",
+    "assetName": "Metafighter",
+    "assetArcId": "AMB:MFA000000000",
+    "website": "http://metafighter.com/",
+    "whitePaperUrl": "https://metafighter.com/MetaFighter%20White%20Paper%20(v1.2).pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Metafighter/arc_id=AMB:MFA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "wx",
+    "assetName": "Weave6",
+    "assetArcId": "AMB:WXA000000000",
+    "website": "https://www.weave6.com/",
+    "whitePaperUrl": "https://docsend.com/view/tjr9cvfdf67czawy",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Weave6/arc_id=AMB:WXA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

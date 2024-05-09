@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "vatr",
+    "assetName": "Vatra INU",
+    "assetArcId": "AMB:VAT000000000",
+    "website": "https://vatrainu.com/en",
+    "whitePaperUrl": "https://vatrainu.com/docs/vatr-whitepaper-v1.01-en.pdf",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Vatra INU/arc_id=AMB:VAT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

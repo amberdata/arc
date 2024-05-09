@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "karrat",
+    "assetName": "Karrat",
+    "assetArcId": "AMB:KAR000000001",
+    "website": "https://www.karratcoin.com/",
+    "whitePaperUrl": "https://docs.karratcoin.com/",
+    "classificationTags": [
+        "Gaming",
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xacd2c239012d17beb128b0944d49015104113650"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Karrat/arc_id=AMB:KAR000000001/exchange=gdax/data.json"
+        ]
+    }
+}

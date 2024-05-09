@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "scam",
+    "assetName": "SCAM",
+    "assetArcId": "AMB:SCA000001305",
+    "website": "http://scamcoin.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x590f00eDc668D5af987c6076c7302C42B6FE9DD3"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=SCAM/arc_id=AMB:SCA000001305/exchange=poloniex/data.json"
+        ]
+    }
+}

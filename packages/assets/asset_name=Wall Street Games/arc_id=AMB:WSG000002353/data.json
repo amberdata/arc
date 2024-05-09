@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "wsg",
+    "assetName": "Wall Street Games",
+    "assetArcId": "AMB:WSG000002353",
+    "website": "https://wsg.gg/",
+    "whitePaperUrl": "https://docs.wallstreetgames.net/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Wall Street Games/arc_id=AMB:WSG000002353/exchange=mexc/data.json"
+        ]
+    }
+}

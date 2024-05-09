@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "renq",
+    "assetName": "Renq Finance",
+    "assetArcId": "AMB:REN000002124",
+    "website": "https://renq.io/",
+    "whitePaperUrl": "https://renq.io/whitepaper.pdf",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Renq Finance/arc_id=AMB:REN000002124/exchange=mexc/data.json"
+        ]
+    }
+}

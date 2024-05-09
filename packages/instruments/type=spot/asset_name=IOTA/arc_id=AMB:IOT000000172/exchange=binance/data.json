@@ -1,0 +1,74 @@
+[
+    {
+        "arcPairId": "AMB:IOT000000172_AMB:BTC000000000",
+        "normalizedPair": "iota_btc",
+        "normalizedSymbol": "iota",
+        "nativePair": "IOTABTC",
+        "exchange": "binance",
+        "assetName": "IOTA",
+        "assetArcId": "AMB:IOT000000172",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "iota_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IOT000000172_AMB:BUS000000067",
+        "normalizedPair": "iota_busd",
+        "normalizedSymbol": "iota",
+        "nativePair": "IOTABUSD",
+        "exchange": "binance",
+        "assetName": "IOTA",
+        "assetArcId": "AMB:IOT000000172",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "iota_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IOT000000172_AMB:ETH000000000",
+        "normalizedPair": "iota_eth",
+        "normalizedSymbol": "iota",
+        "nativePair": "IOTAETH",
+        "exchange": "binance",
+        "assetName": "IOTA",
+        "assetArcId": "AMB:IOT000000172",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "iota_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IOT000000172_AMB:USD000000335",
+        "normalizedPair": "iota_usdt",
+        "normalizedSymbol": "iota",
+        "nativePair": "IOTAUSDT",
+        "exchange": "binance",
+        "assetName": "IOTA",
+        "assetArcId": "AMB:IOT000000172",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "iota_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IOT000000172_AMB:FDU000000122",
+        "normalizedPair": "iota_fdusd",
+        "normalizedSymbol": "iota",
+        "nativePair": "IOTAFDUSD",
+        "exchange": "binance",
+        "assetName": "IOTA",
+        "assetArcId": "AMB:IOT000000172",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "iota_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IOT000000172_AMB:TRY000000940",
+        "normalizedPair": "iota_try",
+        "normalizedSymbol": "iota",
+        "nativePair": "IOTATRY",
+        "exchange": "binance",
+        "assetName": "IOTA",
+        "assetArcId": "AMB:IOT000000172",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "iota_try",
+        "instrumentType": "spot"
+    }
+]

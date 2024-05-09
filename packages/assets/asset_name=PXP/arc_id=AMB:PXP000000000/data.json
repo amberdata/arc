@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "pxp",
+    "assetName": "PXP",
+    "assetArcId": "AMB:PXP000000000",
+    "website": "https://exchange.pointpay.io/",
+    "whitePaperUrl": "https://pointpay.gitbook.io/base",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=PXP/arc_id=AMB:PXP000000000/exchange=mexc/data.json"
+        ]
+    }
+}

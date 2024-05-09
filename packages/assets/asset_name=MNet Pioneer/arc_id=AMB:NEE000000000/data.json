@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "neer",
+    "assetName": "MNet Pioneer",
+    "assetArcId": "AMB:NEE000000000",
+    "website": "https://mnet.io/",
+    "whitePaperUrl": "https://metaversenw.gitbook.io/metaversenetwork/",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MNet Pioneer/arc_id=AMB:NEE000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "gib",
+    "assetName": "GIB",
+    "assetArcId": "AMB:GIB000000000",
+    "website": "https://gibmoreinfo.com/",
+    "whitePaperUrl": "/how-to-buy/GIB?utm_source=mexc&utm_medium=tokenifoGIB&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=GIB/arc_id=AMB:GIB000000000/exchange=mexc/data.json"
+        ]
+    }
+}

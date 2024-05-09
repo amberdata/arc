@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "bananagun",
+    "assetName": "Banana Gun",
+    "assetArcId": "AMB:BAN000001440",
+    "website": "https://bananagun.io/",
+    "whitePaperUrl": "https://docs.bananagun.io/the-banana-token/tokenomics",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Banana Gun/arc_id=AMB:BAN000001440/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Banana Gun/arc_id=AMB:BAN000001440/exchange=mexc/data.json"
+        ]
+    }
+}

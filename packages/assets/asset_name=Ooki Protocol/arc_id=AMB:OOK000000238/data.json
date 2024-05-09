@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "ooki",
+    "assetName": "Ooki Protocol",
+    "assetArcId": "AMB:OOK000000238",
+    "website": " https://ooki.cc",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance",
+        "Lending",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Ooki Protocol/arc_id=AMB:OOK000000238/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Ooki Protocol/arc_id=AMB:OOK000000238/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Ooki Protocol/arc_id=AMB:OOK000000238/exchange=binance/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "wmi",
+    "assetName": "Web Mingle",
+    "assetArcId": "AMB:WMI000003510",
+    "website": "http://www.webmingle.info/",
+    "whitePaperUrl": "https://webmingle.gitbook.io/untitled/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Web Mingle/arc_id=AMB:WMI000003510/exchange=mexc/data.json"
+        ]
+    }
+}

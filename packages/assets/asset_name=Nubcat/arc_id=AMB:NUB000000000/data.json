@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "nub",
+    "assetName": "Nubcat",
+    "assetArcId": "AMB:NUB000000000",
+    "website": "https://nubcat.xyz/",
+    "whitePaperUrl": "/how-to-buy/NUB?utm_source=mexc&utm_medium=tokenifoNUB&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Nubcat/arc_id=AMB:NUB000000000/exchange=mexc/data.json"
+        ]
+    }
+}

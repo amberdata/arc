@@ -1,0 +1,28 @@
+{
+    "assetSymbol": "ach",
+    "assetName": "Alchemy Pay",
+    "assetArcId": "AMB:ACH000000003",
+    "website": "https://www.alchemytech.io/",
+    "whitePaperUrl": "http://static.alchemywallet.cn/Alchemy_WP-EN.pdf",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xed04915c23f00a313a544955524eb7dbd823143d"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Alchemy Pay/arc_id=AMB:ACH000000003/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Alchemy Pay/arc_id=AMB:ACH000000003/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Alchemy Pay/arc_id=AMB:ACH000000003/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Alchemy Pay/arc_id=AMB:ACH000000003/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Alchemy Pay/arc_id=AMB:ACH000000003/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Alchemy Pay/arc_id=AMB:ACH000000003/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Alchemy Pay/arc_id=AMB:ACH000000003/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Alchemy Pay/arc_id=AMB:ACH000000003/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Alchemy Pay/arc_id=AMB:ACH000000003/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Alchemy Pay/arc_id=AMB:ACH000000003/exchange=mexc/data.json"
+        ]
+    }
+}

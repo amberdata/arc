@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "none",
+    "assetName": "None Trading",
+    "assetArcId": "AMB:NON000001270",
+    "website": "https://noneth.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x903ff0ba636E32De1767A4B5eEb55c155763D8B7"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=None Trading/arc_id=AMB:NON000001270/exchange=poloniex/data.json"
+        ]
+    }
+}

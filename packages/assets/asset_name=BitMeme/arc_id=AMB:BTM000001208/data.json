@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "btm2",
+    "assetName": "BitMeme",
+    "assetArcId": "AMB:BTM000001208",
+    "website": "https://www.bitmeme.org/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xC9D21E5A24110b67af31aF464edfDC2dAe5Ec7D5"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BitMeme/arc_id=AMB:BTM000001208/exchange=poloniex/data.json"
+        ]
+    }
+}

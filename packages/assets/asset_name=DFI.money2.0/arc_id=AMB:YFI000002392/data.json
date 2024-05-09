@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "yfii2",
+    "assetName": "DFI.money2.0",
+    "assetArcId": "AMB:YFI000002392",
+    "website": "#",
+    "whitePaperUrl": "/how-to-buy/YFII2?utm_source=mexc&utm_medium=tokenifoYFII2&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=DFI.money2.0/arc_id=AMB:YFI000002392/exchange=mexc/data.json"
+        ]
+    }
+}

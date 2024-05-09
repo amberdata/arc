@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "middle",
+    "assetName": "MiddleLend",
+    "assetArcId": "AMB:MID000003401",
+    "website": "https://www.middlelend.com/",
+    "whitePaperUrl": "https://middlelend.gitbook.io/middlelend/",
+    "classificationTags": [
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MiddleLend/arc_id=AMB:MID000003401/exchange=mexc/data.json"
+        ]
+    }
+}

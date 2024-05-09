@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "berc",
+    "assetName": "Fair BERC20",
+    "assetArcId": "AMB:BER000001195",
+    "website": "https://www.berc20.cash/dapp",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xbC8E35221904F61b4200Ca44a08e4daC387Ac83A"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Fair BERC20/arc_id=AMB:BER000001195/exchange=poloniex/data.json"
+        ]
+    }
+}

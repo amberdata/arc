@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "aa",
+    "assetName": "A3S Protocol",
+    "assetArcId": "AMB:AAA000001349",
+    "website": "https://www.a3sprotocol.xyz/",
+    "whitePaperUrl": "https://arbiscan.io/address/0xb0eCc6ac0073c063DCFC026cCdC9039Cae2998E1",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=A3S Protocol/arc_id=AMB:AAA000001349/exchange=mexc/data.json"
+        ]
+    }
+}

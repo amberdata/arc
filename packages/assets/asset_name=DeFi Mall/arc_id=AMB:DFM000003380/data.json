@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dfm",
+    "assetName": "DeFi Mall",
+    "assetArcId": "AMB:DFM000003380",
+    "website": "https://defimall.xyz/",
+    "whitePaperUrl": "https://defimall.gitbook.io/defimall/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=DeFi Mall/arc_id=AMB:DFM000003380/exchange=mexc/data.json"
+        ]
+    }
+}

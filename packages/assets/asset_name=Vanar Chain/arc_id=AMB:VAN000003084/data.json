@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "vanry",
+    "assetName": "Vanar Chain",
+    "assetArcId": "AMB:VAN000003084",
+    "website": "https://vanarchain.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Vanar Chain/arc_id=AMB:VAN000003084/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Vanar Chain/arc_id=AMB:VAN000003084/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Vanar Chain/arc_id=AMB:VAN000003084/exchange=binance/data.json"
+        ]
+    }
+}

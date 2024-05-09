@@ -1,0 +1,74 @@
+[
+    {
+        "arcPairId": "AMB:BAB000000000_AMB:USD000000335",
+        "normalizedPair": "babyslerf_usdt",
+        "normalizedSymbol": "babyslerf",
+        "nativePair": "BABYSLERFUSDT",
+        "exchange": "mexc",
+        "assetName": "BABYSLERF",
+        "assetArcId": "AMB:BAB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "babyslerf_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAB000000000_AMB:USD000000335",
+        "normalizedPair": "babysora_usdt",
+        "normalizedSymbol": "babysora",
+        "nativePair": "BABYSORAUSDT",
+        "exchange": "mexc",
+        "assetName": "Baby Sora",
+        "assetArcId": "AMB:BAB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "babysora_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAB000000000_AMB:USD000000335",
+        "normalizedPair": "babytrump_usdt",
+        "normalizedSymbol": "babytrump",
+        "nativePair": "BABYTRUMPUSDT",
+        "exchange": "mexc",
+        "assetName": "Baby Trump",
+        "assetArcId": "AMB:BAB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "babytrump_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAB000000000_AMB:USD000000335",
+        "normalizedPair": "babywif_usdt",
+        "normalizedSymbol": "babywif",
+        "nativePair": "BABYWIFUSDT",
+        "exchange": "mexc",
+        "assetName": "BABYDOGWIFHAT",
+        "assetArcId": "AMB:BAB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "babywif_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAB000000000_AMB:USD000000335",
+        "normalizedPair": "babyfloki_usdt",
+        "normalizedSymbol": "babyfloki",
+        "nativePair": "BABYFLOKIUSDT",
+        "exchange": "mexc",
+        "assetName": "BabyFloki",
+        "assetArcId": "AMB:BAB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "babyfloki_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAB000000000_AMB:USD000000335",
+        "normalizedPair": "babymusk_usdt",
+        "normalizedSymbol": "babymusk",
+        "nativePair": "BABYMUSKUSDT",
+        "exchange": "mexc",
+        "assetName": "Baby Musk",
+        "assetArcId": "AMB:BAB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "babymusk_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FXY000003089_AMB:USD000000335",
+        "normalizedPair": "fxy_usdt",
+        "normalizedSymbol": "fxy",
+        "nativePair": "FXYUSDT",
+        "exchange": "mexc",
+        "assetName": "Floxypay",
+        "assetArcId": "AMB:FXY000003089",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fxy_usdt",
+        "instrumentType": "spot"
+    }
+]

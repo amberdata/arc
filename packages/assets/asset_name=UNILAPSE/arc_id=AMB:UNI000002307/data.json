@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "unilapse",
+    "assetName": "UNILAPSE",
+    "assetArcId": "AMB:UNI000002307",
+    "website": "http://www.unilapse.com/",
+    "whitePaperUrl": "https://docs.unilapse.com/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=UNILAPSE/arc_id=AMB:UNI000002307/exchange=mexc/data.json"
+        ]
+    }
+}

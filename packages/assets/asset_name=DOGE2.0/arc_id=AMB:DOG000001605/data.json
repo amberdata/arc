@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dogecoin2",
+    "assetName": "DOGE2.0",
+    "assetArcId": "AMB:DOG000001605",
+    "website": "https://doge2.cc/",
+    "whitePaperUrl": "/how-to-buy/DOGECOIN2?utm_source=mexc&utm_medium=tokenifoDOGECOIN2&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=DOGE2.0/arc_id=AMB:DOG000001605/exchange=mexc/data.json"
+        ]
+    }
+}

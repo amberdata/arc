@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "gptv",
+    "assetName": "GPTV",
+    "assetArcId": "AMB:GPT000000001",
+    "website": "https://gptverse.art/",
+    "whitePaperUrl": "https://docs.gptverse.art/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=GPTV/arc_id=AMB:GPT000000001/exchange=mexc/data.json"
+        ]
+    }
+}

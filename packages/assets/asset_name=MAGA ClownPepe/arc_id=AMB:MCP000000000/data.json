@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "mcpe",
+    "assetName": "MAGA ClownPepe",
+    "assetArcId": "AMB:MCP000000000",
+    "website": "https://www.mcpecoin.com/",
+    "whitePaperUrl": "/how-to-buy/MCPE?utm_source=mexc&utm_medium=tokenifoMCPE&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MAGA ClownPepe/arc_id=AMB:MCP000000000/exchange=mexc/data.json"
+        ]
+    }
+}

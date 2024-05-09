@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "mrpt",
+    "assetName": "Marpto",
+    "assetArcId": "AMB:MRP000000000",
+    "website": "https://www.marpto.com/",
+    "whitePaperUrl": "https://deficrafters.gitbook.io/marpto",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Marpto/arc_id=AMB:MRP000000000/exchange=mexc/data.json"
+        ]
+    }
+}

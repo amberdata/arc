@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "dacc",
+    "assetName": "d/acc",
+    "assetArcId": "AMB:DAC000003061",
+    "website": "https://joindacc.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC",
+            "address": "0x81db1949d0e888557bc632f7c0f6698b1f8c9106"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=d/acc/arc_id=AMB:DAC000003061/exchange=poloniex/data.json"
+        ]
+    }
+}

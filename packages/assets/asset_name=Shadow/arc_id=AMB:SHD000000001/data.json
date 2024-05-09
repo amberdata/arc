@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "shdw",
+    "assetName": "Shadow",
+    "assetArcId": "AMB:SHD000000001",
+    "website": "https://www.shdwdrive.com/",
+    "whitePaperUrl": "https://github.com/GenesysGo/dagger-litepaper/blob/main/DAGGER-Litepaper.pdf",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Shadow/arc_id=AMB:SHD000000001/exchange=gdax/data.json"
+        ]
+    }
+}

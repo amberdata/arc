@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "vib",
+    "assetName": "Viberate",
+    "assetArcId": "AMB:VIB000000340",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Viberate/arc_id=AMB:VIB000000340/exchange=binance/data.json"
+        ]
+    }
+}

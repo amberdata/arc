@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "hzn",
+    "assetName": "Horizon Protocol",
+    "assetArcId": "AMB:HZN000001776",
+    "website": "https://horizonprotocol.com",
+    "whitePaperUrl": "/how-to-buy/HZN?utm_source=mexc&utm_medium=tokenifoHZN&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Horizon Protocol/arc_id=AMB:HZN000001776/exchange=mexc/data.json"
+        ]
+    }
+}

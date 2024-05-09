@@ -1,0 +1,23 @@
+{
+    "assetSymbol": "euroc",
+    "assetName": "Euro Coin",
+    "assetArcId": "AMB:EUR000000402",
+    "website": "https://www.circle.com/en/",
+    "whitePaperUrl": "https://www.circle.com/en/euro-coin",
+    "classificationTags": [
+        "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Euro Coin/arc_id=AMB:EUR000000402/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Euro Coin/arc_id=AMB:EUR000000402/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Euro Coin/arc_id=AMB:EUR000000402/exchange=gdax/data.json"
+        ]
+    }
+}

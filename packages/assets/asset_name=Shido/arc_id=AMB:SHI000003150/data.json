@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "shido",
+    "assetName": "Shido",
+    "assetArcId": "AMB:SHI000003150",
+    "website": "https://www.shido.io/",
+    "whitePaperUrl": "https://www.shido.io/_files/ugd/e41e6d_458f432ee6f74bb794af54f6e5a90784.pdf",
+    "classificationTags": [
+        "Governance",
+        "Proof-of-Stake"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Shido/arc_id=AMB:SHI000003150/exchange=mexc/data.json"
+        ]
+    }
+}

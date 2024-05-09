@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "maka",
+    "assetName": "Makalink",
+    "assetArcId": "AMB:MAK000002813",
+    "website": "https://makalink.com/login/",
+    "whitePaperUrl": "https://makalink.gitbook.io/maka/",
+    "classificationTags": [
+        "Content & Streaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Makalink/arc_id=AMB:MAK000002813/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "stfx",
+    "assetName": "STFX",
+    "assetArcId": "AMB:STF000000000",
+    "website": "http://www.stfx.io/",
+    "whitePaperUrl": "http://docs.stfx.io/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=STFX/arc_id=AMB:STF000000000/exchange=mexc/data.json"
+        ]
+    }
+}

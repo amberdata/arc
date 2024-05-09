@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "wusd",
+    "assetName": "WSPN",
+    "assetArcId": "AMB:WUS000000000",
+    "website": "https://wspn.io/",
+    "whitePaperUrl": "https://static.wspn.io/wp-content/uploads/2024/02/05082030/ExternalWhitepaper_Worldwide-Stablecoin-Payment-NetworkWUSD_October-v2.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=WSPN/arc_id=AMB:WUS000000000/exchange=mexc/data.json"
+        ]
+    }
+}

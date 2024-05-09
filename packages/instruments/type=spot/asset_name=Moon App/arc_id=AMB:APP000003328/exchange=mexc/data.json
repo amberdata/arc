@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:APP000003328_AMB:USD000000335",
+        "normalizedPair": "app_usdt",
+        "normalizedSymbol": "app",
+        "nativePair": "APPUSDT",
+        "exchange": "mexc",
+        "assetName": "Moon App",
+        "assetArcId": "AMB:APP000003328",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "app_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "amen",
+    "assetName": "AME Esports Night",
+    "assetArcId": "AMB:AME000003346",
+    "website": "http://ameonline.xyz/index.html",
+    "whitePaperUrl": "https://30349155.s21i.faimallusr.com/61/ABUIABA9GAAg1KvZqQYo8PCrkAU.pdf",
+    "classificationTags": [
+        "Governance",
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=AME Esports Night/arc_id=AMB:AME000003346/exchange=mexc/data.json"
+        ]
+    }
+}

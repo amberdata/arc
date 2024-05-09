@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "squid2",
+    "assetName": "Squid Game 2.0",
+    "assetArcId": "AMB:SQU000002224",
+    "website": "https://squid2.wtf/",
+    "whitePaperUrl": "https://squid2.wtf/Squid2%20wp(v1.03).pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Squid Game 2.0/arc_id=AMB:SQU000002224/exchange=mexc/data.json"
+        ]
+    }
+}

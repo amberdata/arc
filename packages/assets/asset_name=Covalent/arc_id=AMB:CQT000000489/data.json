@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "cqt",
+    "assetName": "Covalent",
+    "assetArcId": "AMB:CQT000000489",
+    "website": "https://www.covalenthq.com/?utm_source=icodrops",
+    "whitePaperUrl": "https://www.covalenthq.com/docs/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Covalent/arc_id=AMB:CQT000000489/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Covalent/arc_id=AMB:CQT000000489/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Covalent/arc_id=AMB:CQT000000489/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Covalent/arc_id=AMB:CQT000000489/exchange=kraken/data.json"
+        ]
+    }
+}

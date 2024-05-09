@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "aibuddy",
+    "assetName": "SHOPPiNG FRiEND Ai",
+    "assetArcId": "AMB:AIB000001369",
+    "website": "http://shoppingfriendai.io/",
+    "whitePaperUrl": "http://shoppingfriendai.io/wp-content/uploads/2023/08/Shopping-Friend-IO-White-Paper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=SHOPPiNG FRiEND Ai/arc_id=AMB:AIB000001369/exchange=mexc/data.json"
+        ]
+    }
+}

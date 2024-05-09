@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "lki",
+    "assetName": "Link Ai",
+    "assetArcId": "AMB:LKI000000000",
+    "website": "https://linkai.cyou/",
+    "whitePaperUrl": "https://linkai-1.gitbook.io/link-ai/",
+    "classificationTags": [
+        "Content & Streaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Link Ai/arc_id=AMB:LKI000000000/exchange=mexc/data.json"
+        ]
+    }
+}

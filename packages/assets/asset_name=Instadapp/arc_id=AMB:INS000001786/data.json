@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "inst",
+    "assetName": "Instadapp",
+    "assetArcId": "AMB:INS000001786",
+    "website": "https://instadapp.io/",
+    "whitePaperUrl": "/how-to-buy/INST?utm_source=mexc&utm_medium=tokenifoINST&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Instadapp/arc_id=AMB:INS000001786/exchange=mexc/data.json"
+        ]
+    }
+}

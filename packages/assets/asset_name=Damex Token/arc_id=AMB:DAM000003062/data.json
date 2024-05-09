@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "damex",
+    "assetName": "Damex Token",
+    "assetArcId": "AMB:DAM000003062",
+    "website": "https://damex.io/",
+    "whitePaperUrl": "https://uploads-ssl.webflow.com/61e1a47d6bf37f865bec1f09/650d61bb7b9d1fa5c9d96750_White%20Paper%209.0%20(1)_compressed.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Damex Token/arc_id=AMB:DAM000003062/exchange=mexc/data.json"
+        ]
+    }
+}

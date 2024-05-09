@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETE000002739_AMB:USD000000335",
+        "normalizedPair": "ete_usdt",
+        "normalizedSymbol": "ete",
+        "nativePair": "ETEUSDT",
+        "exchange": "mexc",
+        "assetName": "Ethereum Express",
+        "assetArcId": "AMB:ETE000002739",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ete_usdt",
+        "instrumentType": "spot"
+    }
+]

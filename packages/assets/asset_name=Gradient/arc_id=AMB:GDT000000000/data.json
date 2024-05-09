@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "gdt",
+    "assetName": "Gradient",
+    "assetArcId": "AMB:GDT000000000",
+    "website": "https://www.gradientprotocol.io/",
+    "whitePaperUrl": "https://docs.gradientprotocol.io/",
+    "classificationTags": [
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Gradient/arc_id=AMB:GDT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

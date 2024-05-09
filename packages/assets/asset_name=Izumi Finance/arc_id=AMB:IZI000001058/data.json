@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "izi",
+    "assetName": "Izumi Finance",
+    "assetArcId": "AMB:IZI000001058",
+    "website": "https://izumi.finance/home",
+    "whitePaperUrl": "/how-to-buy/IZI?utm_source=mexc&utm_medium=tokenifoIZI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Izumi Finance/arc_id=AMB:IZI000001058/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Izumi Finance/arc_id=AMB:IZI000001058/exchange=mexc/data.json"
+        ]
+    }
+}

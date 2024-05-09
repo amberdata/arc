@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "aast",
+    "assetName": "AASToken",
+    "assetArcId": "AMB:AAS000000000",
+    "website": "http://afriqjmcoin.com/",
+    "whitePaperUrl": "https://afriqjmcoin.com/static/media/AAS_Whitepaper.5429d84371e01b063cf6.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=AASToken/arc_id=AMB:AAS000000000/exchange=mexc/data.json"
+        ]
+    }
+}

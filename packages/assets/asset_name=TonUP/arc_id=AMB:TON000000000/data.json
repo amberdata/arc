@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "tonup",
+    "assetName": "TonUP",
+    "assetArcId": "AMB:TON000000000",
+    "website": "https://tonup.io/",
+    "whitePaperUrl": "http://docs.tonup.io/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=TonUP/arc_id=AMB:TON000000000/exchange=mexc/data.json"
+        ]
+    }
+}

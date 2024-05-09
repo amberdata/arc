@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "yes",
+    "assetName": "YES",
+    "assetArcId": "AMB:YES000000000",
+    "website": "https://yestoken.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0xfc10cd3895f2c66d6639ec33ae6360d6cfca7d6d"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=YES/arc_id=AMB:YES000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

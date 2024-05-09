@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "ncat",
+    "assetName": "NCAT",
+    "assetArcId": "AMB:NCA000000000",
+    "website": "https://nyancats.top/#/",
+    "whitePaperUrl": "https://ncats.gitbook.io/ncat",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=NCAT/arc_id=AMB:NCA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

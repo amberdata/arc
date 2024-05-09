@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cbk",
+    "assetName": "Cobak Token",
+    "assetArcId": "AMB:CBK000001522",
+    "website": "https://cobak.co.kr/",
+    "whitePaperUrl": "/how-to-buy/CBK?utm_source=mexc&utm_medium=tokenifoCBK&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Cobak Token/arc_id=AMB:CBK000001522/exchange=mexc/data.json"
+        ]
+    }
+}

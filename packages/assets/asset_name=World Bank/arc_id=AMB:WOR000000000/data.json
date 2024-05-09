@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "world",
+    "assetName": "World Bank",
+    "assetArcId": "AMB:WOR000000000",
+    "website": "https://www.worldbankcrypto.org/",
+    "whitePaperUrl": "https://www.worldbankcrypto.org/wp-content/uploads/2024/03/white-paper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=World Bank/arc_id=AMB:WOR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

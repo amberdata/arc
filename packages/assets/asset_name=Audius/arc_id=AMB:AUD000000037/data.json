@@ -1,0 +1,32 @@
+{
+    "assetSymbol": "audio",
+    "assetName": "Audius",
+    "assetArcId": "AMB:AUD000000037",
+    "website": "https://audius.co/",
+    "whitePaperUrl": "https://whitepaper.audius.co/AudiusWhitepaper.pdf",
+    "classificationTags": [
+        "Content & Streaming",
+        "Governance",
+        "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Audius/arc_id=AMB:AUD000000037/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Audius/arc_id=AMB:AUD000000037/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Audius/arc_id=AMB:AUD000000037/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Audius/arc_id=AMB:AUD000000037/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Audius/arc_id=AMB:AUD000000037/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Audius/arc_id=AMB:AUD000000037/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Audius/arc_id=AMB:AUD000000037/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Audius/arc_id=AMB:AUD000000037/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Audius/arc_id=AMB:AUD000000037/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Audius/arc_id=AMB:AUD000000037/exchange=bitstamp/data.json"
+        ]
+    }
+}

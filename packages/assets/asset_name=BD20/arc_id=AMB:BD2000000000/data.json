@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bd20",
+    "assetName": "BD20",
+    "assetArcId": "AMB:BD2000000000",
+    "website": "https://brc-20dex.io/",
+    "whitePaperUrl": "https://brc-20-dex.gitbook.io/brc-20dex",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BD20/arc_id=AMB:BD2000000000/exchange=mexc/data.json"
+        ]
+    }
+}

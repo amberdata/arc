@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "apx1",
+    "assetName": "AstroPepeX",
+    "assetArcId": "AMB:APX000001184",
+    "website": "https://www.astropepex.com/",
+    "whitePaperUrl": "/how-to-buy/APX1?utm_source=mexc&utm_medium=tokenifoAPX1&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=AstroPepeX/arc_id=AMB:APX000001184/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=AstroPepeX/arc_id=AMB:APX000001184/exchange=mexc/data.json"
+        ]
+    }
+}

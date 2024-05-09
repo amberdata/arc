@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "vc",
+    "assetName": "VinuChain",
+    "assetArcId": "AMB:VCA000003100",
+    "website": "https://vinuchain.org/",
+    "whitePaperUrl": "https://vinu.gitbook.io/vinuchain/whitepaper/whitepaper",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=VinuChain/arc_id=AMB:VCA000003100/exchange=mexc/data.json"
+        ]
+    }
+}

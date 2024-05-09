@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cosmic",
+    "assetName": "COSMIC",
+    "assetArcId": "AMB:COS000000000",
+    "website": "https://cosmicnetwork.io",
+    "whitePaperUrl": "https://cosmicnetwork.io/WhitePaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=COSMIC/arc_id=AMB:COS000000000/exchange=mexc/data.json"
+        ]
+    }
+}

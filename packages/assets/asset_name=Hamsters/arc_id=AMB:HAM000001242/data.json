@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "hams",
+    "assetName": "Hamsters",
+    "assetArcId": "AMB:HAM000001242",
+    "website": "https://hamsters.gg/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x48c87cdacb6bb6bf6e5cd85d8ee5c847084c7410"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Hamsters/arc_id=AMB:HAM000001242/exchange=poloniex/data.json"
+        ]
+    }
+}

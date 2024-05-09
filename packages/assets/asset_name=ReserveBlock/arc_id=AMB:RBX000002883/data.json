@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "rbx1",
+    "assetName": "ReserveBlock",
+    "assetArcId": "AMB:RBX000002883",
+    "website": "https://www.reserveblock.io/",
+    "whitePaperUrl": "https://wiki.reserveblock.io/docs/documents/whitepaper-v2/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ReserveBlock/arc_id=AMB:RBX000002883/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "nai",
+    "assetName": "Nuklai",
+    "assetArcId": "AMB:NAI000000000",
+    "website": "https://nukl.ai/",
+    "whitePaperUrl": "https://www.nukl.ai/resources/network-economics",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Nuklai/arc_id=AMB:NAI000000000/exchange=mexc/data.json"
+        ]
+    }
+}

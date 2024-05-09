@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DRA000002999_AMB:USD000000335",
+        "normalizedPair": "dragonera_usdt",
+        "normalizedSymbol": "dragonera",
+        "nativePair": "DRAGONERAUSDT",
+        "exchange": "mexc",
+        "assetName": "DragonEra",
+        "assetArcId": "AMB:DRA000002999",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dragonera_usdt",
+        "instrumentType": "spot"
+    }
+]

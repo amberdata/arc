@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "cdfi",
+    "assetName": "CeDeFiAi",
+    "assetArcId": "AMB:CDF000000000",
+    "website": "https://cdfi.ai/#",
+    "whitePaperUrl": "https://docs.cdfi.ai/#",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=CeDeFiAi/arc_id=AMB:CDF000000000/exchange=mexc/data.json"
+        ]
+    }
+}

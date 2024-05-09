@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "aog",
+    "assetName": "Ace Dog",
+    "assetArcId": "AMB:AOG000000000",
+    "website": "http://acedog.xyz/",
+    "whitePaperUrl": "/how-to-buy/AOG?utm_source=mexc&utm_medium=tokenifoAOG&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Ace Dog/arc_id=AMB:AOG000000000/exchange=mexc/data.json"
+        ]
+    }
+}

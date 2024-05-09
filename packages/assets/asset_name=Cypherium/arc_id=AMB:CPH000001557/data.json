@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "cph",
+    "assetName": "Cypherium",
+    "assetArcId": "AMB:CPH000001557",
+    "website": "https://www.cypherium.io/",
+    "whitePaperUrl": "https://www.cypherium.io/whitepaper/cypherium-whitepaper-2-0/",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Cypherium/arc_id=AMB:CPH000001557/exchange=mexc/data.json"
+        ]
+    }
+}

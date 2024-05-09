@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "insr",
+    "assetName": "Insurabler",
+    "assetArcId": "AMB:INS000001785",
+    "website": "https://insurabler.io/",
+    "whitePaperUrl": "https://docs.insurabler.io/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Insurabler/arc_id=AMB:INS000001785/exchange=mexc/data.json"
+        ]
+    }
+}

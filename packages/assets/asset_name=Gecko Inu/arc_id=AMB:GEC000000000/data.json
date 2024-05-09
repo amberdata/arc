@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "geckoavax",
+    "assetName": "Gecko Inu",
+    "assetArcId": "AMB:GEC000000000",
+    "website": "https://geckoinu.vip/",
+    "whitePaperUrl": "/how-to-buy/GECKOAVAX?utm_source=mexc&utm_medium=tokenifoGECKOAVAX&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Gecko Inu/arc_id=AMB:GEC000000000/exchange=mexc/data.json"
+        ]
+    }
+}

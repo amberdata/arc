@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "grumpy",
+    "assetName": "Grumpy Cat",
+    "assetArcId": "AMB:GRU000000000",
+    "website": "https://www.solanagrumpycat.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "8DBQQaX18ZWVx7LGpNiRKQVzuHKzL98Y3ESQJVkZxwNr"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Grumpy Cat/arc_id=AMB:GRU000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

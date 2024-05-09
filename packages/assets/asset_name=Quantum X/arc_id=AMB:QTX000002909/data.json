@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "qtx",
+    "assetName": "Quantum X",
+    "assetArcId": "AMB:QTX000002909",
+    "website": "https://quantumx.news/",
+    "whitePaperUrl": "https://quantumx.news/QTX_paper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Quantum X/arc_id=AMB:QTX000002909/exchange=mexc/data.json"
+        ]
+    }
+}

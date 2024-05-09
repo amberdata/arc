@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "zlw",
+    "assetName": "Zelwin",
+    "assetArcId": "AMB:ZLW000002810",
+    "website": "https://zelwin.com/",
+    "whitePaperUrl": "https://drive.google.com/file/d/1HK32xt3qlaPMdlupUGdxKRUkfSscmZe6/view",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Zelwin/arc_id=AMB:ZLW000002810/exchange=mexc/data.json"
+        ]
+    }
+}

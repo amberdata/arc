@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "neon",
+    "assetName": "Neon EVM",
+    "assetArcId": "AMB:NEO000001088",
+    "website": "https://neonevm.org/",
+    "whitePaperUrl": "https://neonevm.org/whitepaper.pdf",
+    "classificationTags": [
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Neon EVM/arc_id=AMB:NEO000001088/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Neon EVM/arc_id=AMB:NEO000001088/exchange=gdax/data.json"
+        ]
+    }
+}

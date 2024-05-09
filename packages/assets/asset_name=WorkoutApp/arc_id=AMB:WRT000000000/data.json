@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "wrt",
+    "assetName": "WorkoutApp",
+    "assetArcId": "AMB:WRT000000000",
+    "website": "https://workoutapp.io/",
+    "whitePaperUrl": "https://drive.google.com/file/d/1tqTN2us3893-jBHGM4UE0bNRyl0uItYN/view",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=WorkoutApp/arc_id=AMB:WRT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "hord",
+    "assetName": "Hord",
+    "assetArcId": "AMB:HOR000001759",
+    "website": "https://www.hord.app/#",
+    "whitePaperUrl": "/how-to-buy/HORD?utm_source=mexc&utm_medium=tokenifoHORD&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Hord/arc_id=AMB:HOR000001759/exchange=mexc/data.json"
+        ]
+    }
+}

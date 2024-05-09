@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "genedao",
+    "assetName": "GenomesDAO",
+    "assetArcId": "AMB:GEN000001704",
+    "website": "http://genomes.io/",
+    "whitePaperUrl": "https://genomesdao.medium.com/gene-the-future-peg-to-genomic-querying-value-e449ce19f1bb",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=GenomesDAO/arc_id=AMB:GEN000001704/exchange=mexc/data.json"
+        ]
+    }
+}

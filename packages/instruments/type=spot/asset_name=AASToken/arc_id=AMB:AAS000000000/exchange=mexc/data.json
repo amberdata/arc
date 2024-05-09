@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AAS000000000_AMB:USD000000335",
+        "normalizedPair": "aast_usdt",
+        "normalizedSymbol": "aast",
+        "nativePair": "AASTUSDT",
+        "exchange": "mexc",
+        "assetName": "AASToken",
+        "assetArcId": "AMB:AAS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aast_usdt",
+        "instrumentType": "spot"
+    }
+]

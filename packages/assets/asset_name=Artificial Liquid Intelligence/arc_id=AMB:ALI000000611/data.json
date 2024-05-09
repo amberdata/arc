@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "ali",
+    "assetName": "Artificial Liquid Intelligence",
+    "assetArcId": "AMB:ALI000000611",
+    "website": "https://alethea.ai/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

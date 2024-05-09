@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOP000000000_AMB:USD000000335",
+        "normalizedPair": "topai_usdt",
+        "normalizedSymbol": "topai",
+        "nativePair": "TOPAIUSDT",
+        "exchange": "mexc",
+        "assetName": "TOPAI",
+        "assetArcId": "AMB:TOP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "topai_usdt",
+        "instrumentType": "spot"
+    }
+]

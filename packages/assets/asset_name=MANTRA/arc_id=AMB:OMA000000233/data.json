@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "om",
+    "assetName": "MANTRA",
+    "assetArcId": "AMB:OMA000000233",
+    "website": "https://www.mantra.finance/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Derivatives",
+        "Governance",
+        "Lending",
+        "Stablecoin",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

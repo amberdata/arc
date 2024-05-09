@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "pig",
+    "assetName": "Pig Finance",
+    "assetArcId": "AMB:PIG000002073",
+    "website": "--",
+    "whitePaperUrl": "/how-to-buy/PIG?utm_source=mexc&utm_medium=tokenifoPIG&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Pig Finance/arc_id=AMB:PIG000002073/exchange=mexc/data.json"
+        ]
+    }
+}

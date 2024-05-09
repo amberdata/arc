@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "drm",
+    "assetName": "Dreamcoin",
+    "assetArcId": "AMB:DRM000001613",
+    "website": "http://ir.dodream.io/clientMain/a/t/main.do",
+    "whitePaperUrl": "/how-to-buy/DRM?utm_source=mexc&utm_medium=tokenifoDRM&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Dreamcoin/arc_id=AMB:DRM000001613/exchange=mexc/data.json"
+        ]
+    }
+}

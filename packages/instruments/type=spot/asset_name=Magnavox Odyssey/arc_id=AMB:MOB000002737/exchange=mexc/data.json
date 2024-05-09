@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MOB000002737_AMB:USD000000335",
+        "normalizedPair": "mobrc_usdt",
+        "normalizedSymbol": "mobrc",
+        "nativePair": "MOBRCUSDT",
+        "exchange": "mexc",
+        "assetName": "Magnavox Odyssey",
+        "assetArcId": "AMB:MOB000002737",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mobrc_usdt",
+        "instrumentType": "spot"
+    }
+]

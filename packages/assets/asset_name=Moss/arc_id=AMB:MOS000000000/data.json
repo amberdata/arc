@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "moss",
+    "assetName": "Moss",
+    "assetArcId": "AMB:MOS000000000",
+    "website": "https://mosstouch.top/",
+    "whitePaperUrl": "https://moss-6.gitbook.io/moss/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Moss/arc_id=AMB:MOS000000000/exchange=mexc/data.json"
+        ]
+    }
+}

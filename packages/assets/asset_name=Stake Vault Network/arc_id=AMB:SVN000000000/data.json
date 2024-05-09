@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "svn",
+    "assetName": "Stake Vault Network",
+    "assetArcId": "AMB:SVN000000000",
+    "website": "https://stakevaultnet.com/",
+    "whitePaperUrl": "https://whitepaper.stakevaultnet.com/",
+    "classificationTags": [
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Stake Vault Network/arc_id=AMB:SVN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

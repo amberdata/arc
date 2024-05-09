@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "tokki",
+    "assetName": "CRYPTOKKI",
+    "assetArcId": "AMB:TOK000002272",
+    "website": "http://cryptokki.com",
+    "whitePaperUrl": "https://cryptokki.com/whitepaper/%ED%81%AC%EB%A6%BD%ED%86%A0%EB%81%BC(%EB%B0%B1%EC%84%9C).pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=CRYPTOKKI/arc_id=AMB:TOK000002272/exchange=mexc/data.json"
+        ]
+    }
+}

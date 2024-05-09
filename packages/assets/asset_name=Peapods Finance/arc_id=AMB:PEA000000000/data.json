@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "peas",
+    "assetName": "Peapods Finance",
+    "assetArcId": "AMB:PEA000000000",
+    "website": "https://peapods.finance/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Peapods Finance/arc_id=AMB:PEA000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

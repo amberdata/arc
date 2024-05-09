@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "knine",
+    "assetName": "K9 Finance DAO",
+    "assetArcId": "AMB:KNI000000000",
+    "website": "https://www.k9finance.com/",
+    "whitePaperUrl": "https://www.k9finance.com/litepaper",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=K9 Finance DAO/arc_id=AMB:KNI000000000/exchange=mexc/data.json"
+        ]
+    }
+}

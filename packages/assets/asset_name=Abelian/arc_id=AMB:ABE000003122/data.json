@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "abel",
+    "assetName": "Abelian",
+    "assetArcId": "AMB:ABE000003122",
+    "website": "http://abelian.info/",
+    "whitePaperUrl": "https://www.abelian.info/whitepaper.pdf",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Abelian/arc_id=AMB:ABE000003122/exchange=mexc/data.json"
+        ]
+    }
+}

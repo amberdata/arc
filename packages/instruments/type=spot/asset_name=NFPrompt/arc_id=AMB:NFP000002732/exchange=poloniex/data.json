@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NFP000002732_AMB:USD000000335",
+        "normalizedPair": "nfp_usdt",
+        "normalizedSymbol": "nfp",
+        "nativePair": "NFP_USDT",
+        "exchange": "poloniex",
+        "assetName": "NFPrompt",
+        "assetArcId": "AMB:NFP000002732",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nfp_usdt",
+        "instrumentType": "spot"
+    }
+]

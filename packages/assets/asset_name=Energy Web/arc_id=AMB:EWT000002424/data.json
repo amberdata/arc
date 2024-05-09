@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "ewt",
+    "assetName": "Energy Web",
+    "assetArcId": "AMB:EWT000002424",
+    "website": "https://www.energyweb.org/",
+    "whitePaperUrl": "https://www.energyweb.org/wp-content/uploads/2023/04/EWX-Lightpaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Energy Web/arc_id=AMB:EWT000002424/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Energy Web/arc_id=AMB:EWT000002424/exchange=mexc/data.json"
+        ]
+    }
+}

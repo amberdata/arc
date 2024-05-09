@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "yai",
+    "assetName": "YAI",
+    "assetArcId": "AMB:YAI000000000",
+    "website": "https://www.yoracle.ai/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Oracles"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0x477a3d269266994f15e9c43a8d9c0561c4928088"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=YAI/arc_id=AMB:YAI000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

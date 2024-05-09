@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "greenbtc",
+    "assetName": "Green Bitcoin",
+    "assetArcId": "AMB:GRE000000000",
+    "website": "https://greenbitcoin.xyz/en",
+    "whitePaperUrl": "https://greenbitcoin.xyz/assets/documents/whitepaper.pdf",
+    "classificationTags": [
+        "Gaming",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Green Bitcoin/arc_id=AMB:GRE000000000/exchange=mexc/data.json"
+        ]
+    }
+}

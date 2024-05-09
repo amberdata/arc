@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HGT000000000_AMB:USD000000335",
+        "normalizedPair": "hgt_usdt",
+        "normalizedSymbol": "hgt",
+        "nativePair": "HGTUSDT",
+        "exchange": "mexc",
+        "assetName": "Project Hive",
+        "assetArcId": "AMB:HGT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hgt_usdt",
+        "instrumentType": "spot"
+    }
+]

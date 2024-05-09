@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "boo1",
+    "assetName": "Boo Token",
+    "assetArcId": "AMB:BOO000003406",
+    "website": "#",
+    "whitePaperUrl": "/how-to-buy/BOO1?utm_source=mexc&utm_medium=tokenifoBOO1&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Boo Token/arc_id=AMB:BOO000003406/exchange=mexc/data.json"
+        ]
+    }
+}

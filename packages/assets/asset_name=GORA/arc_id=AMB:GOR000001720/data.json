@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "gora",
+    "assetName": "GORA",
+    "assetArcId": "AMB:GOR000001720",
+    "website": "http://www.goracle.io",
+    "whitePaperUrl": "https://docs.goracle.io/goracle-docs/",
+    "classificationTags": [
+        "Oracles"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=GORA/arc_id=AMB:GOR000001720/exchange=mexc/data.json"
+        ]
+    }
+}

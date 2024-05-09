@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "lolmusk",
+    "assetName": "LOL",
+    "assetArcId": "AMB:LOL000000000",
+    "website": "https://loltoken.lol/",
+    "whitePaperUrl": "/how-to-buy/LOLMUSK?utm_source=mexc&utm_medium=tokenifoLOLMUSK&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=LOL/arc_id=AMB:LOL000000000/exchange=mexc/data.json"
+        ]
+    }
+}

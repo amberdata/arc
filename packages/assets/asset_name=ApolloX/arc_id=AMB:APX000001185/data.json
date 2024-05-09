@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "apx",
+    "assetName": "ApolloX",
+    "assetArcId": "AMB:APX000001185",
+    "website": "https://www.apollox.com/en",
+    "whitePaperUrl": "/how-to-buy/APX?utm_source=mexc&utm_medium=tokenifoAPX&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Derivatives"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ApolloX/arc_id=AMB:APX000001185/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ApolloX/arc_id=AMB:APX000001185/exchange=mexc/data.json"
+        ]
+    }
+}

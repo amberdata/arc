@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "jiva",
+    "assetName": "Jivara",
+    "assetArcId": "AMB:JIV000000000",
+    "website": "https://jivara.ai/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "4RwD5o3DHkz4TTkMDPrFXsU21QDPffdLdFFqzqyq6nFC"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Jivara/arc_id=AMB:JIV000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

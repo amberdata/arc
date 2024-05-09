@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "kcs",
+    "assetName": "KuCoin Token",
+    "assetArcId": "AMB:KCS000001252",
+    "website": "https://www.kucoin.com/",
+    "whitePaperUrl": "/how-to-buy/KCS?utm_source=mexc&utm_medium=tokenifoKCS&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=KuCoin Token/arc_id=AMB:KCS000001252/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=KuCoin Token/arc_id=AMB:KCS000001252/exchange=mexc/data.json"
+        ]
+    }
+}

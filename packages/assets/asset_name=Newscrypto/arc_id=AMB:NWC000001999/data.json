@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "nwc",
+    "assetName": "Newscrypto",
+    "assetArcId": "AMB:NWC000001999",
+    "website": "https://newscrypto.io/",
+    "whitePaperUrl": "/how-to-buy/NWC?utm_source=mexc&utm_medium=tokenifoNWC&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Newscrypto/arc_id=AMB:NWC000001999/exchange=mexc/data.json"
+        ]
+    }
+}

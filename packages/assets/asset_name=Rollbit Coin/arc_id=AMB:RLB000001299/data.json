@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "rlb",
+    "assetName": "Rollbit Coin",
+    "assetArcId": "AMB:RLB000001299",
+    "website": "https://rollbit.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x046eee2cc3188071c02bfc1745a6b17c656e3f3d"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Rollbit Coin/arc_id=AMB:RLB000001299/exchange=poloniex/data.json"
+        ]
+    }
+}

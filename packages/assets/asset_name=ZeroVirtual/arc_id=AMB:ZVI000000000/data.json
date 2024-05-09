@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "zvi",
+    "assetName": "ZeroVirtual",
+    "assetArcId": "AMB:ZVI000000000",
+    "website": "https://zerovirtual.xyz/",
+    "whitePaperUrl": "https://docs.zerovirtual.xyz/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ZeroVirtual/arc_id=AMB:ZVI000000000/exchange=mexc/data.json"
+        ]
+    }
+}

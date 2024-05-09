@@ -1,0 +1,86 @@
+[
+    {
+        "arcPairId": "AMB:SAN000000287_AMB:BNB000000055",
+        "normalizedPair": "sand_bnb",
+        "normalizedSymbol": "sand",
+        "nativePair": "SANDBNB",
+        "exchange": "binance",
+        "assetName": "The Sandbox",
+        "assetArcId": "AMB:SAN000000287",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "sand_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SAN000000287_AMB:BTC000000000",
+        "normalizedPair": "sand_btc",
+        "normalizedSymbol": "sand",
+        "nativePair": "SANDBTC",
+        "exchange": "binance",
+        "assetName": "The Sandbox",
+        "assetArcId": "AMB:SAN000000287",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "sand_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SAN000000287_AMB:BUS000000067",
+        "normalizedPair": "sand_busd",
+        "normalizedSymbol": "sand",
+        "nativePair": "SANDBUSD",
+        "exchange": "binance",
+        "assetName": "The Sandbox",
+        "assetArcId": "AMB:SAN000000287",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "sand_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SAN000000287_AMB:ETH000000000",
+        "normalizedPair": "sand_eth",
+        "normalizedSymbol": "sand",
+        "nativePair": "SANDETH",
+        "exchange": "binance",
+        "assetName": "The Sandbox",
+        "assetArcId": "AMB:SAN000000287",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "sand_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SAN000000287_AMB:TRY000000940",
+        "normalizedPair": "sand_try",
+        "normalizedSymbol": "sand",
+        "nativePair": "SANDTRY",
+        "exchange": "binance",
+        "assetName": "The Sandbox",
+        "assetArcId": "AMB:SAN000000287",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "sand_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SAN000000287_AMB:USD000000335",
+        "normalizedPair": "sand_usdt",
+        "normalizedSymbol": "sand",
+        "nativePair": "SANDUSDT",
+        "exchange": "binance",
+        "assetName": "The Sandbox",
+        "assetArcId": "AMB:SAN000000287",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sand_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SAN000000287_AMB:FDU000000122",
+        "normalizedPair": "sand_fdusd",
+        "normalizedSymbol": "sand",
+        "nativePair": "SANDFDUSD",
+        "exchange": "binance",
+        "assetName": "The Sandbox",
+        "assetArcId": "AMB:SAN000000287",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "sand_fdusd",
+        "instrumentType": "spot"
+    }
+]

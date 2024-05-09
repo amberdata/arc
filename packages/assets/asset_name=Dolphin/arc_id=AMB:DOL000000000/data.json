@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "dolphin",
+    "assetName": "Dolphin",
+    "assetArcId": "AMB:DOL000000000",
+    "website": "https://www.dolphinweb3.top/",
+    "whitePaperUrl": "https://dolphinai.gitbook.io/dolphinai/tokenomics-and-roadmap/token-allocation",
+    "classificationTags": [
+        "Gaming",
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Dolphin/arc_id=AMB:DOL000000000/exchange=mexc/data.json"
+        ]
+    }
+}

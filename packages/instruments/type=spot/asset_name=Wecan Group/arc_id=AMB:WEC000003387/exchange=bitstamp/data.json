@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:WEC000003387_AMB:USD000000949",
+        "normalizedPair": "wecan_usd",
+        "normalizedSymbol": "wecan",
+        "nativePair": "wecanusd",
+        "exchange": "bitstamp",
+        "assetName": "Wecan Group",
+        "assetArcId": "AMB:WEC000003387",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "wecan_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WEC000003387_AMB:EUR000000120",
+        "normalizedPair": "wecan_eur",
+        "normalizedSymbol": "wecan",
+        "nativePair": "wecaneur",
+        "exchange": "bitstamp",
+        "assetName": "Wecan Group",
+        "assetArcId": "AMB:WEC000003387",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "wecan_eur",
+        "instrumentType": "spot"
+    }
+]

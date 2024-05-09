@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "detf",
+    "assetName": "Decentralized ETF",
+    "assetArcId": "AMB:DET000000000",
+    "website": "https://www.d-etf.com/",
+    "whitePaperUrl": "https://docs.google.com/presentation/d/1Ttbzj4raz5Kjhp_xoHCnVXWh0ruwwE5B/edit?usp=sharing&ouid=106286631413786140554&rtpof=true&sd=true",
+    "classificationTags": [
+        "Real World Asset"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Decentralized ETF/arc_id=AMB:DET000000000/exchange=mexc/data.json"
+        ]
+    }
+}

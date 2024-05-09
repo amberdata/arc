@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "trvl",
+    "assetName": "TRVL",
+    "assetArcId": "AMB:TRV000001126",
+    "website": "https://www.dtravel.com/",
+    "whitePaperUrl": "/how-to-buy/TRVL?utm_source=mexc&utm_medium=tokenifoTRVL&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=TRVL/arc_id=AMB:TRV000001126/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=TRVL/arc_id=AMB:TRV000001126/exchange=mexc/data.json"
+        ]
+    }
+}

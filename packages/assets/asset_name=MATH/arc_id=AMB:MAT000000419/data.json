@@ -1,0 +1,23 @@
+{
+    "assetSymbol": "math",
+    "assetName": "MATH",
+    "assetArcId": "AMB:MAT000000419",
+    "website": "https://mathwallet.org/",
+    "whitePaperUrl": "https://doc.mathwallet.org/",
+    "classificationTags": [
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x08d967bb0134f2d07f7cfb6e246680c53927dd30"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MATH/arc_id=AMB:MAT000000419/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MATH/arc_id=AMB:MAT000000419/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MATH/arc_id=AMB:MAT000000419/exchange=gdax/data.json"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "mooney",
+    "assetName": "MoonDAO",
+    "assetArcId": "AMB:MOO000001950",
+    "website": "https://www.moondao.com/",
+    "whitePaperUrl": "https://docs.moondao.com/",
+    "classificationTags": [
+        "Governance",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MoonDAO/arc_id=AMB:MOO000001950/exchange=mexc/data.json"
+        ]
+    }
+}

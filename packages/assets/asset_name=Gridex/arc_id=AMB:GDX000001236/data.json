@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "gdx",
+    "assetName": "Gridex",
+    "assetArcId": "AMB:GDX000001236",
+    "website": "https://www.gdx.org/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Arbitrum",
+            "address": "0x2F27118E3D2332aFb7d165140Cf1bB127eA6975d"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Gridex/arc_id=AMB:GDX000001236/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Gridex/arc_id=AMB:GDX000001236/exchange=ftx/data.json"
+        ]
+    }
+}

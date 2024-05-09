@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "addclas",
+    "assetName": "Clash of adventure",
+    "assetArcId": "AMB:ADD000003289",
+    "website": "https://clashofadventure.com/",
+    "whitePaperUrl": "https://clashofadventure.com/wp-content/uploads/2023/11/whitepaper.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Clash of adventure/arc_id=AMB:ADD000003289/exchange=mexc/data.json"
+        ]
+    }
+}

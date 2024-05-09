@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "pandadao",
+    "assetName": "PandaDAO",
+    "assetArcId": "AMB:PAN000003276",
+    "website": "https://www.pandadao.info/",
+    "whitePaperUrl": "/how-to-buy/PANDADAO?utm_source=mexc&utm_medium=tokenifoPANDADAO&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=PandaDAO/arc_id=AMB:PAN000003276/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "fdusd",
+    "assetName": "First Digital USD",
+    "assetArcId": "AMB:FDU000000122",
+    "website": "https://firstdigitallabs.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Stablecoin"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=First Digital USD/arc_id=AMB:FDU000000122/exchange=binance/data.json"
+        ]
+    }
+}

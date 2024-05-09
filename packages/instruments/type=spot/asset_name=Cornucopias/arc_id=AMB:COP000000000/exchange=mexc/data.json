@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COP000000000_AMB:USD000000335",
+        "normalizedPair": "copi_usdt",
+        "normalizedSymbol": "copi",
+        "nativePair": "COPIUSDT",
+        "exchange": "mexc",
+        "assetName": "Cornucopias",
+        "assetArcId": "AMB:COP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "copi_usdt",
+        "instrumentType": "spot"
+    }
+]

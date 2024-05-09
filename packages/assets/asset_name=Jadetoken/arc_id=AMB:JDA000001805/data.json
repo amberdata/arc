@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "jd",
+    "assetName": "Jadetoken",
+    "assetArcId": "AMB:JDA000001805",
+    "website": "https://jdinsights.info/",
+    "whitePaperUrl": "https://docs.google.com/file/d/1ENo6hitUFfc8q7_RO_i7QNMXGMT7Nezm/edit?filetype=msword",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Jadetoken/arc_id=AMB:JDA000001805/exchange=mexc/data.json"
+        ]
+    }
+}

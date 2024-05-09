@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "vtc",
+    "assetName": "Virtucraft",
+    "assetArcId": "AMB:VTC000000000",
+    "website": "https://virtucraft.guru/",
+    "whitePaperUrl": "/how-to-buy/VTC?utm_source=mexc&utm_medium=tokenifoVTC&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Virtucraft/arc_id=AMB:VTC000000000/exchange=mexc/data.json"
+        ]
+    }
+}

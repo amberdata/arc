@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ABO000003266_AMB:USD000000335",
+        "normalizedPair": "abond_usdt",
+        "normalizedSymbol": "abond",
+        "nativePair": "ABONDUSDT",
+        "exchange": "mexc",
+        "assetName": "ApeBond",
+        "assetArcId": "AMB:ABO000003266",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "abond_usdt",
+        "instrumentType": "spot"
+    }
+]

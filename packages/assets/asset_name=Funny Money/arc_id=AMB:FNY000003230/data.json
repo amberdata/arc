@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "fny",
+    "assetName": "Funny Money",
+    "assetArcId": "AMB:FNY000003230",
+    "website": "https://funnymoney.space/",
+    "whitePaperUrl": "https://funnymoney.space/whitepaper",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Funny Money/arc_id=AMB:FNY000003230/exchange=mexc/data.json"
+        ]
+    }
+}

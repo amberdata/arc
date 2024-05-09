@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "ponk",
+    "assetName": "PONK!!!",
+    "assetArcId": "AMB:PON000000000",
+    "website": "https://ponkcoin.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "HeqCcMjmuV5s25J49YiJyT6bD5qWLkP88YPajBySniaV"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=PONK!!!/arc_id=AMB:PON000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

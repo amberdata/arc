@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "rabi",
+    "assetName": "Rabi",
+    "assetArcId": "AMB:RAB000000000",
+    "website": "https://rabi.foundation/",
+    "whitePaperUrl": "https://rabi.foundation/download/rabifoundation_whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Rabi/arc_id=AMB:RAB000000000/exchange=mexc/data.json"
+        ]
+    }
+}

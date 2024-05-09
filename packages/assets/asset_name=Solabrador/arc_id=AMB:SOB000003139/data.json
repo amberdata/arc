@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "sober",
+    "assetName": "Solabrador",
+    "assetArcId": "AMB:SOB000003139",
+    "website": "https://solabrador.xyz/",
+    "whitePaperUrl": "/how-to-buy/SOBER?utm_source=mexc&utm_medium=tokenifoSOBER&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Solabrador/arc_id=AMB:SOB000003139/exchange=mexc/data.json"
+        ]
+    }
+}

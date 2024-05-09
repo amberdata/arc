@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "kpn",
+    "assetName": "KonnektVPN",
+    "assetArcId": "AMB:KPN000000000",
+    "website": "https://konnektvpn.com/",
+    "whitePaperUrl": "https://konnektvpn.com/docs/whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=KonnektVPN/arc_id=AMB:KPN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

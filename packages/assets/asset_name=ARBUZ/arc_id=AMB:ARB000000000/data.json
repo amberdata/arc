@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "arbuz",
+    "assetName": "ARBUZ",
+    "assetArcId": "AMB:ARB000000000",
+    "website": "https://tonarbuz.fun/",
+    "whitePaperUrl": "/how-to-buy/ARBUZ?utm_source=mexc&utm_medium=tokenifoARBUZ&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ARBUZ/arc_id=AMB:ARB000000000/exchange=mexc/data.json"
+        ]
+    }
+}

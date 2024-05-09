@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "dat",
+    "assetName": "DemonWar",
+    "assetArcId": "AMB:DAT000000000",
+    "website": "http://demonwar.io/",
+    "whitePaperUrl": "/how-to-buy/DAT?utm_source=mexc&utm_medium=tokenifoDAT&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=DemonWar/arc_id=AMB:DAT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

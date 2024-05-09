@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "saix",
+    "assetName": "XSaiyan.tech",
+    "assetArcId": "AMB:SAI000002917",
+    "website": "https://xsaiyan.tech/",
+    "whitePaperUrl": "/how-to-buy/SAIX?utm_source=mexc&utm_medium=tokenifoSAIX&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=XSaiyan.tech/arc_id=AMB:SAI000002917/exchange=mexc/data.json"
+        ]
+    }
+}

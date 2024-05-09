@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "sersh",
+    "assetName": "Serenity Shield",
+    "assetArcId": "AMB:SER000003214",
+    "website": "https://www.serenityshield.io/",
+    "whitePaperUrl": "https://assets-global.website-files.com/646e1d2bb86f8833c75bdc7b/655e43d973850f9cf58b1860_WP%20SERENITY%20SHIELD%20(En)-min.pdf",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Serenity Shield/arc_id=AMB:SER000003214/exchange=mexc/data.json"
+        ]
+    }
+}

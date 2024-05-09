@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PNU000000000_AMB:USD000000335",
+        "normalizedPair": "pnut_usdt",
+        "normalizedSymbol": "pnut",
+        "nativePair": "PNUT_USDT",
+        "exchange": "poloniex",
+        "assetName": "Pnut",
+        "assetArcId": "AMB:PNU000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pnut_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "umb",
+    "assetName": "Umbrella Network",
+    "assetArcId": "AMB:UMB000002305",
+    "website": "https://www.umb.network",
+    "whitePaperUrl": "/how-to-buy/UMB?utm_source=mexc&utm_medium=tokenifoUMB&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Oracles"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Umbrella Network/arc_id=AMB:UMB000002305/exchange=mexc/data.json"
+        ]
+    }
+}

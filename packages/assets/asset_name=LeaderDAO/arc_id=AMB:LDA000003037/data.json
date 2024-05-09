@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ldao",
+    "assetName": "LeaderDAO",
+    "assetArcId": "AMB:LDA000003037",
+    "website": "https://leaderdao.ai/",
+    "whitePaperUrl": "https://docsend.com/view/unri8dmy5rb2zm3r",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=LeaderDAO/arc_id=AMB:LDA000003037/exchange=mexc/data.json"
+        ]
+    }
+}

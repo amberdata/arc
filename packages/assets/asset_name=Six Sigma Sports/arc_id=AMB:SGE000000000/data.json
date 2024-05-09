@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "sge",
+    "assetName": "Six Sigma Sports",
+    "assetArcId": "AMB:SGE000000000",
+    "website": "https://sgenetwork.io/",
+    "whitePaperUrl": "https://six-sigma-sports.gitbook.io/docs/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Six Sigma Sports/arc_id=AMB:SGE000000000/exchange=mexc/data.json"
+        ]
+    }
+}

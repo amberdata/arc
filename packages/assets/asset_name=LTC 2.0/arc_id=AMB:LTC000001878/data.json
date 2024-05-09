@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ltc2",
+    "assetName": "LTC 2.0",
+    "assetArcId": "AMB:LTC000001878",
+    "website": "https://ltc2.world/",
+    "whitePaperUrl": "/how-to-buy/LTC2?utm_source=mexc&utm_medium=tokenifoLTC2&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=LTC 2.0/arc_id=AMB:LTC000001878/exchange=mexc/data.json"
+        ]
+    }
+}

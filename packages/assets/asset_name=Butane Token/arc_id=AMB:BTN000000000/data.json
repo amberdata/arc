@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "btn",
+    "assetName": "Butane Token",
+    "assetArcId": "AMB:BTN000000000",
+    "website": "https://butane.dev/",
+    "whitePaperUrl": "https://files.butane.dev/yellow-paper.pdf#",
+    "classificationTags": [
+        "Governance",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Butane Token/arc_id=AMB:BTN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

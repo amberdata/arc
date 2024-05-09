@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "w3f",
+    "assetName": "Web3Frontier",
+    "assetArcId": "AMB:W3F000003491",
+    "website": "https://web3frontier.org/",
+    "whitePaperUrl": "https://web3frontier.org/file/white_paper.pdf",
+    "classificationTags": [
+        "Content & Streaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Web3Frontier/arc_id=AMB:W3F000003491/exchange=mexc/data.json"
+        ]
+    }
+}

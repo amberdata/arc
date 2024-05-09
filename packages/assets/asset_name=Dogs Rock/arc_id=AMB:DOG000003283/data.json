@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "dogsrock",
+    "assetName": "Dogs Rock",
+    "assetArcId": "AMB:DOG000003283",
+    "website": "https://dogsrock.xyz/",
+    "whitePaperUrl": "https://dogsrock.xyz/dogsrockwpv1.pdf",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Dogs Rock/arc_id=AMB:DOG000003283/exchange=mexc/data.json"
+        ]
+    }
+}

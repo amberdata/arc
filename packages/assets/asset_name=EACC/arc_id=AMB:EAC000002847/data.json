@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "eacc",
+    "assetName": "EACC",
+    "assetArcId": "AMB:EAC000002847",
+    "website": "https://eacc.website/",
+    "whitePaperUrl": "https://eacc.website/EACC.WHITEPAPER.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=EACC/arc_id=AMB:EAC000002847/exchange=mexc/data.json"
+        ]
+    }
+}

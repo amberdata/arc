@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "dent",
+    "assetName": "Dent",
+    "assetArcId": "AMB:DEN000000097",
+    "website": "https://www.dentwireless.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Dent/arc_id=AMB:DEN000000097/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Dent/arc_id=AMB:DEN000000097/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Dent/arc_id=AMB:DEN000000097/exchange=binance/data.json"
+        ]
+    }
+}

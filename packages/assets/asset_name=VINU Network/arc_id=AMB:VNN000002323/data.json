@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "vnn",
+    "assetName": "VINU Network",
+    "assetArcId": "AMB:VNN000002323",
+    "website": "https://vinunetwork.io/",
+    "whitePaperUrl": "https://docs.vinunetwork.io/vinunetwork/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=VINU Network/arc_id=AMB:VNN000002323/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "aiat",
+    "assetName": "AI Analysis Token",
+    "assetArcId": "AMB:AIA000000000",
+    "website": "http://aianalysis.group/token/",
+    "whitePaperUrl": "https://aianalysis.group/wp-content/uploads/2024/02/aiat-whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=AI Analysis Token/arc_id=AMB:AIA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

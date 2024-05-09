@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "tuna",
+    "assetName": "TUNA",
+    "assetArcId": "AMB:TUN000000000",
+    "website": "https://tunachain.io/",
+    "whitePaperUrl": "https://tunachain.gitbook.io/tunachain/",
+    "classificationTags": [
+        "Stablecoin"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=TUNA/arc_id=AMB:TUN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

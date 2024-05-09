@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "tribe",
+    "assetName": "Tribe",
+    "assetArcId": "AMB:TRI000000835",
+    "website": "https://fei.money/",
+    "whitePaperUrl": "https://assets.fei.money/docs/whitepaper_CN.pdf",
+    "classificationTags": [
+        "Governance",
+        "Stablecoin"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Tribe/arc_id=AMB:TRI000000835/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Tribe/arc_id=AMB:TRI000000835/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Tribe/arc_id=AMB:TRI000000835/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Tribe/arc_id=AMB:TRI000000835/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Tribe/arc_id=AMB:TRI000000835/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "cybonk",
+    "assetName": "CYBONK",
+    "assetArcId": "AMB:CYB000000000",
+    "website": "https://cybonk.io/",
+    "whitePaperUrl": "https://cybonk.io/wp-content/uploads/2024/03/WHITEPAPER.pdf",
+    "classificationTags": [
+        "Gaming",
+        "Meme",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=CYBONK/arc_id=AMB:CYB000000000/exchange=mexc/data.json"
+        ]
+    }
+}

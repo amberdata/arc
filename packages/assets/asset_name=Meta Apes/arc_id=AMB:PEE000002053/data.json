@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "peel",
+    "assetName": "Meta Apes",
+    "assetArcId": "AMB:PEE000002053",
+    "website": "https://metaapesgame.com/",
+    "whitePaperUrl": "https://meta-apes.gitbook.io/meta-apes-whitepaper/introduction/meta-apes",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Meta Apes/arc_id=AMB:PEE000002053/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "wsb",
+    "assetName": "WSB Coin",
+    "assetArcId": "AMB:WSB000000601",
+    "website": "https://wsbcoin.org/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Arbitrum",
+            "address": "0x0414d8c87b271266a5864329fb4932bbe19c0c49"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=WSB Coin/arc_id=AMB:WSB000000601/exchange=poloniex/data.json"
+        ]
+    }
+}

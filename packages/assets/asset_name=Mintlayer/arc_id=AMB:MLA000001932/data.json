@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "ml",
+    "assetName": "Mintlayer",
+    "assetArcId": "AMB:MLA000001932",
+    "website": "https://www.mintlayer.org/en/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0x059956483753947536204e89bfaD909E1a434Cc6"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Mintlayer/arc_id=AMB:MLA000001932/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Mintlayer/arc_id=AMB:MLA000001932/exchange=mexc/data.json"
+        ]
+    }
+}

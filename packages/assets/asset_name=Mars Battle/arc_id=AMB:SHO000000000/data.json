@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "shoot",
+    "assetName": "Mars Battle",
+    "assetArcId": "AMB:SHO000000000",
+    "website": "https://www.mars4.me/mars-battle",
+    "whitePaperUrl": "/how-to-buy/SHOOT?utm_source=mexc&utm_medium=tokenifoSHOOT&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Mars Battle/arc_id=AMB:SHO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

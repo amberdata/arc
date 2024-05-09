@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EMR000003055_AMB:USD000000335",
+        "normalizedPair": "emr_usdt",
+        "normalizedSymbol": "emr",
+        "nativePair": "EMRUSDT",
+        "exchange": "mexc",
+        "assetName": "Emorya Finance",
+        "assetArcId": "AMB:EMR000003055",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "emr_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "bex1",
+    "assetName": "BaseXchange",
+    "assetArcId": "AMB:BEX000002865",
+    "website": "https://basexchange.finance/",
+    "whitePaperUrl": "https://docs.basexchange.finance/",
+    "classificationTags": [
+        "Derivatives",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BaseXchange/arc_id=AMB:BEX000002865/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XIN000002890_AMB:USD000000335",
+        "normalizedPair": "xinu_usdt",
+        "normalizedSymbol": "xinu",
+        "nativePair": "XINUUSDT",
+        "exchange": "mexc",
+        "assetName": "XINU (ETH)",
+        "assetArcId": "AMB:XIN000002890",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xinu_usdt",
+        "instrumentType": "spot"
+    }
+]

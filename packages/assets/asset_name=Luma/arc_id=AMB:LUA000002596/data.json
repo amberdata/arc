@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "lua",
+    "assetName": "Luma",
+    "assetArcId": "AMB:LUA000002596",
+    "website": "#",
+    "whitePaperUrl": "/how-to-buy/LUA?utm_source=mexc&utm_medium=tokenifoLUA&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Luma/arc_id=AMB:LUA000002596/exchange=mexc/data.json"
+        ]
+    }
+}

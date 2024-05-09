@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "tybg",
+    "assetName": "Base God",
+    "assetArcId": "AMB:TYB000000000",
+    "website": "https://www.basegod.fun/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "BASE",
+            "address": "0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Base God/arc_id=AMB:TYB000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

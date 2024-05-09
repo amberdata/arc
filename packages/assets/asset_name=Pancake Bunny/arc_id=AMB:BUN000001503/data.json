@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bunny",
+    "assetName": "Pancake Bunny",
+    "assetArcId": "AMB:BUN000001503",
+    "website": "https://pancakebunny.finance/",
+    "whitePaperUrl": "/how-to-buy/BUNNY?utm_source=mexc&utm_medium=tokenifoBUNNY&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Pancake Bunny/arc_id=AMB:BUN000001503/exchange=mexc/data.json"
+        ]
+    }
+}

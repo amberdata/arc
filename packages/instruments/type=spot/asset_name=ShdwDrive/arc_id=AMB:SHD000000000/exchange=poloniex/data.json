@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHD000000000_AMB:USD000000335",
+        "normalizedPair": "shdw1_usdt",
+        "normalizedSymbol": "shdw1",
+        "nativePair": "SHDW1_USDT",
+        "exchange": "poloniex",
+        "assetName": "ShdwDrive",
+        "assetArcId": "AMB:SHD000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shdw1_usdt",
+        "instrumentType": "spot"
+    }
+]

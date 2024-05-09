@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "aibb",
+    "assetName": "BullBear AI",
+    "assetArcId": "AMB:AIB000001368",
+    "website": "https://bull-bear.ai/",
+    "whitePaperUrl": "https://docs.bull-bear.ai",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BullBear AI/arc_id=AMB:AIB000001368/exchange=mexc/data.json"
+        ]
+    }
+}

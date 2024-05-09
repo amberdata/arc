@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "ox",
+    "assetName": "Open Exchange (Gamified Derivatives)",
+    "assetArcId": "AMB:OXA000001278",
+    "website": "https://ox.fun/",
+    "whitePaperUrl": "/how-to-buy/OX?utm_source=mexc&utm_medium=tokenifoOX&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Derivatives",
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Open Exchange (Gamified Derivatives)/arc_id=AMB:OXA000001278/exchange=mexc/data.json"
+        ]
+    }
+}

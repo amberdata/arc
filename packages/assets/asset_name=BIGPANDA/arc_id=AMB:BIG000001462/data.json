@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bigpanda",
+    "assetName": "BIGPANDA",
+    "assetArcId": "AMB:BIG000001462",
+    "website": "http://www.big-panda.org/",
+    "whitePaperUrl": "http://www.big-panda.org/white-paper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BIGPANDA/arc_id=AMB:BIG000001462/exchange=mexc/data.json"
+        ]
+    }
+}

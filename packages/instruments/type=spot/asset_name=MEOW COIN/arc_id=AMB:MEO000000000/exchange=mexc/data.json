@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:MEO000000000_AMB:USD000000335",
+        "normalizedPair": "meowmeme_usdt",
+        "normalizedSymbol": "meowmeme",
+        "nativePair": "MEOWMEMEUSDT",
+        "exchange": "mexc",
+        "assetName": "MEOW OF MEME",
+        "assetArcId": "AMB:MEO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "meowmeme_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MEO000000000_AMB:USD000000335",
+        "normalizedPair": "meowth_usdt",
+        "normalizedSymbol": "meowth",
+        "nativePair": "MEOWTHUSDT",
+        "exchange": "mexc",
+        "assetName": "MeowthWifHat",
+        "assetArcId": "AMB:MEO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "meowth_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MEO000000000_AMB:USD000000335",
+        "normalizedPair": "meowg_usdt",
+        "normalizedSymbol": "meowg",
+        "nativePair": "MEOWGUSDT",
+        "exchange": "mexc",
+        "assetName": "MeowGangs",
+        "assetArcId": "AMB:MEO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "meowg_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MEO000000000_AMB:USD000000335",
+        "normalizedPair": "meow1_usdt",
+        "normalizedSymbol": "meow1",
+        "nativePair": "MEOW1USDT",
+        "exchange": "mexc",
+        "assetName": "MEOW COIN",
+        "assetArcId": "AMB:MEO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "meow1_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MEO000000000_AMB:USD000000335",
+        "normalizedPair": "meowif_usdt",
+        "normalizedSymbol": "meowif",
+        "nativePair": "MEOWIFUSDT",
+        "exchange": "mexc",
+        "assetName": "Meowifhat",
+        "assetArcId": "AMB:MEO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "meowif_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "lbvv",
+    "assetName": "LBViVi",
+    "assetArcId": "AMB:LBV000001856",
+    "website": "https://ledgerblock.io/",
+    "whitePaperUrl": "https://lbvivi.gitbook.io/lbvv/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=LBViVi/arc_id=AMB:LBV000001856/exchange=mexc/data.json"
+        ]
+    }
+}

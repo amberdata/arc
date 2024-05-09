@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "pokemon",
+    "assetName": "Pokemon",
+    "assetArcId": "AMB:POK000002087",
+    "website": "#",
+    "whitePaperUrl": "/how-to-buy/POKEMON?utm_source=mexc&utm_medium=tokenifoPOKEMON&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Pokemon/arc_id=AMB:POK000002087/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "stc",
+    "assetName": "SaitaChain",
+    "assetArcId": "AMB:STC000000581",
+    "website": "https://saitachain.com/",
+    "whitePaperUrl": "/how-to-buy/STC?utm_source=mexc&utm_medium=tokenifoSTC&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=SaitaChain/arc_id=AMB:STC000000581/exchange=mexc/data.json"
+        ]
+    }
+}

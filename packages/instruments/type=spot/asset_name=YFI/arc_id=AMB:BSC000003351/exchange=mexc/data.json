@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BSC000003351_AMB:USD000000335",
+        "normalizedPair": "bscyfi_usdt",
+        "normalizedSymbol": "bscyfi",
+        "nativePair": "BSCYFIUSDT",
+        "exchange": "mexc",
+        "assetName": "YFI",
+        "assetArcId": "AMB:BSC000003351",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bscyfi_usdt",
+        "instrumentType": "spot"
+    }
+]

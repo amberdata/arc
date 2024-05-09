@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "neox",
+    "assetName": "Neoxa",
+    "assetArcId": "AMB:NEO000003430",
+    "website": "https://neoxa.net/",
+    "whitePaperUrl": "https://neoxa.gitbook.io/documentation/whitepaper",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Neoxa/arc_id=AMB:NEO000003430/exchange=mexc/data.json"
+        ]
+    }
+}

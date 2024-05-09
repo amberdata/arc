@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LUS000000000_AMB:USD000000335",
+        "normalizedPair": "lust_usdt",
+        "normalizedSymbol": "lust",
+        "nativePair": "LUSTUSDT",
+        "exchange": "mexc",
+        "assetName": "LUST",
+        "assetArcId": "AMB:LUS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lust_usdt",
+        "instrumentType": "spot"
+    }
+]

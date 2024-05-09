@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "seiyan",
+    "assetName": "SEIYAN",
+    "assetArcId": "AMB:SEI000000000",
+    "website": "https://seiyantoken.com/",
+    "whitePaperUrl": "/how-to-buy/SEIYAN?utm_source=mexc&utm_medium=tokenifoSEIYAN&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=SEIYAN/arc_id=AMB:SEI000000000/exchange=mexc/data.json"
+        ]
+    }
+}

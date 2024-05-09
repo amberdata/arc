@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "halloween",
+    "assetName": "HALLOWEEN",
+    "assetArcId": "AMB:HAL000002934",
+    "website": "https://halloween2023.xyz/",
+    "whitePaperUrl": "/how-to-buy/HALLOWEEN?utm_source=mexc&utm_medium=tokenifoHALLOWEEN&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=HALLOWEEN/arc_id=AMB:HAL000002934/exchange=mexc/data.json"
+        ]
+    }
+}

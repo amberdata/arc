@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "vt",
+    "assetName": "VariationPepe",
+    "assetArcId": "AMB:VTA000000000",
+    "website": "https://www.variationpepe.com/",
+    "whitePaperUrl": "/how-to-buy/VT?utm_source=mexc&utm_medium=tokenifoVT&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=VariationPepe/arc_id=AMB:VTA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

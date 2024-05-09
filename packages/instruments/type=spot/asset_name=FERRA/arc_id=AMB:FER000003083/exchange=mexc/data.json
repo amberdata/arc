@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FER000003083_AMB:USD000000335",
+        "normalizedPair": "ferra_usdt",
+        "normalizedSymbol": "ferra",
+        "nativePair": "FERRAUSDT",
+        "exchange": "mexc",
+        "assetName": "FERRA",
+        "assetArcId": "AMB:FER000003083",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ferra_usdt",
+        "instrumentType": "spot"
+    }
+]

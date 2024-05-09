@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XTS000002723_AMB:USD000000335",
+        "normalizedPair": "xts_usdt",
+        "normalizedSymbol": "xts",
+        "nativePair": "XTSUSDT",
+        "exchange": "mexc",
+        "assetName": "X-Travel Space",
+        "assetArcId": "AMB:XTS000002723",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xts_usdt",
+        "instrumentType": "spot"
+    }
+]

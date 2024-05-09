@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "xels",
+    "assetName": "XELS",
+    "assetArcId": "AMB:XEL000002369",
+    "website": "https://www.xels.io/",
+    "whitePaperUrl": "/how-to-buy/XELS?utm_source=mexc&utm_medium=tokenifoXELS&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=XELS/arc_id=AMB:XEL000002369/exchange=mexc/data.json"
+        ]
+    }
+}

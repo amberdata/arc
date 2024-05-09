@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "acequest",
+    "assetName": "AceQuest",
+    "assetArcId": "AMB:ACE000003372",
+    "website": "#",
+    "whitePaperUrl": "https://acequest.gitbook.io/ace-whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=AceQuest/arc_id=AMB:ACE000003372/exchange=mexc/data.json"
+        ]
+    }
+}

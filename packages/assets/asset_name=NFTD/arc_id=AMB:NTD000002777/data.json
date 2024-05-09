@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "ntd",
+    "assetName": "NFTD",
+    "assetArcId": "AMB:NTD000002777",
+    "website": "https://www.nftd.space/",
+    "whitePaperUrl": "https://nftd-1.gitbook.io/nftd/",
+    "classificationTags": [
+        "Derivatives"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=NFTD/arc_id=AMB:NTD000002777/exchange=mexc/data.json"
+        ]
+    }
+}

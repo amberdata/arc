@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "trl",
+    "assetName": "Triall",
+    "assetArcId": "AMB:TRL000002282",
+    "website": "https://www.triall.io/",
+    "whitePaperUrl": "https://uploads-ssl.webflow.com/63319a2d0a41c733a9d60da7/63e3cd5943813b4d24a35cb7_Triall-Whitepaper-v2.1.3-August2021.pdf",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Triall/arc_id=AMB:TRL000002282/exchange=mexc/data.json"
+        ]
+    }
+}

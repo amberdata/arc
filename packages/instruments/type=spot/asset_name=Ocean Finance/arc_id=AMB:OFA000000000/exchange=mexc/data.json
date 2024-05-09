@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OFA000000000_AMB:USD000000335",
+        "normalizedPair": "of_usdt",
+        "normalizedSymbol": "of",
+        "nativePair": "OFUSDT",
+        "exchange": "mexc",
+        "assetName": "Ocean Finance",
+        "assetArcId": "AMB:OFA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "of_usdt",
+        "instrumentType": "spot"
+    }
+]

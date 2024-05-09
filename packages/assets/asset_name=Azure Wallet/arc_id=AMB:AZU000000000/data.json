@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "azure",
+    "assetName": "Azure Wallet",
+    "assetArcId": "AMB:AZU000000000",
+    "website": "https://www.azurewallet.app/",
+    "whitePaperUrl": "https://azurewallet.gitbook.io/azure-wallet",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Azure Wallet/arc_id=AMB:AZU000000000/exchange=mexc/data.json"
+        ]
+    }
+}

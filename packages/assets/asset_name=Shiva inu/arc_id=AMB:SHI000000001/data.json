@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "shiv",
+    "assetName": "Shiva inu",
+    "assetArcId": "AMB:SHI000000001",
+    "website": "https://shivtoken.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0xeb51b8dc2d43469c0f0b7365c8a18438907bdf21"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Shiva inu/arc_id=AMB:SHI000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

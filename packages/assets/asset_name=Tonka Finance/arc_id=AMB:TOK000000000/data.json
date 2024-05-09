@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "toka",
+    "assetName": "Tonka Finance",
+    "assetArcId": "AMB:TOK000000000",
+    "website": "http://tonka.finance/",
+    "whitePaperUrl": "https://docs.tonka.finance/overview/brc-20-tokens-on-the-market#",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Tonka Finance/arc_id=AMB:TOK000000000/exchange=mexc/data.json"
+        ]
+    }
+}

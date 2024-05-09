@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:USD000000335_AMB:CNH000000892",
+        "normalizedPair": "usdt_cnht",
+        "normalizedSymbol": "usdt",
+        "nativePair": "tUST:CNHT",
+        "exchange": "bitfinex",
+        "assetName": "Tether",
+        "assetArcId": "AMB:USD000000335",
+        "quoteArcId": "AMB:CNH000000892",
+        "collectedPair": "usdt_cnht",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:USD000000335_AMB:MXN000000908",
+        "normalizedPair": "usdt_mxnt",
+        "normalizedSymbol": "usdt",
+        "nativePair": "tUST:MXNT",
+        "exchange": "bitfinex",
+        "assetName": "Tether",
+        "assetArcId": "AMB:USD000000335",
+        "quoteArcId": "AMB:MXN000000908",
+        "collectedPair": "usdt_mxnt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:USD000000335_AMB:USD000000949",
+        "normalizedPair": "usdt_usd",
+        "normalizedSymbol": "usdt",
+        "nativePair": "tUSTUSD",
+        "exchange": "bitfinex",
+        "assetName": "Tether",
+        "assetArcId": "AMB:USD000000335",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "usdt_usd",
+        "instrumentType": "spot"
+    }
+]

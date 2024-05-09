@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "lseth",
+    "assetName": "Liquid Staked ETH",
+    "assetArcId": "AMB:LSE000000418",
+    "website": "https://liquidcollective.io/",
+    "whitePaperUrl": "https://liquidcollective.io/what-is-lseth/",
+    "classificationTags": [
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x8c1bed5b9a0928467c9b1341da1d7bd5e10b6549"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Liquid Staked ETH/arc_id=AMB:LSE000000418/exchange=gdax/data.json"
+        ]
+    }
+}

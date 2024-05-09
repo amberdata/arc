@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "infra",
+    "assetName": "Bware",
+    "assetArcId": "AMB:INF000001784",
+    "website": "https://bwarelabs.com/",
+    "whitePaperUrl": "https://docs.blastapi.io/blast-protocol",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Bware/arc_id=AMB:INF000001784/exchange=mexc/data.json"
+        ]
+    }
+}

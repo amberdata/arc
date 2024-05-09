@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "stbu",
+    "assetName": "Stobox",
+    "assetArcId": "AMB:STB000000000",
+    "website": "https://www.stobox.io/",
+    "whitePaperUrl": "https://whitepaper.stobox.io/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Stobox/arc_id=AMB:STB000000000/exchange=mexc/data.json"
+        ]
+    }
+}

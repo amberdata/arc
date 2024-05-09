@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "yacht",
+    "assetName": "YachtingVerse",
+    "assetArcId": "AMB:YAC000002388",
+    "website": "https://yachtingverse.io/",
+    "whitePaperUrl": "https://whitepaper.yachtingverse.io/",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=YachtingVerse/arc_id=AMB:YAC000002388/exchange=mexc/data.json"
+        ]
+    }
+}

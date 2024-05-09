@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "qube",
+    "assetName": "InQubeta",
+    "assetArcId": "AMB:QUB000000000",
+    "website": "https://inqubeta.ai/",
+    "whitePaperUrl": "https://whitepaper.inqubeta.ai/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=InQubeta/arc_id=AMB:QUB000000000/exchange=mexc/data.json"
+        ]
+    }
+}

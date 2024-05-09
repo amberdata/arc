@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "groks",
+    "assetName": "GROKS",
+    "assetArcId": "AMB:GRO000000000",
+    "website": "https://groks.solutions/",
+    "whitePaperUrl": "/how-to-buy/GROKS?utm_source=mexc&utm_medium=tokenifoGROKS&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=GROKS/arc_id=AMB:GRO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

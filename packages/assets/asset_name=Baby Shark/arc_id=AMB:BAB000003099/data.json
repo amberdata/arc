@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "babyshark",
+    "assetName": "Baby Shark",
+    "assetArcId": "AMB:BAB000003099",
+    "website": "https://babysharkbsc.com/",
+    "whitePaperUrl": "https://babysharkbsc.gitbook.io/whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Baby Shark/arc_id=AMB:BAB000003099/exchange=mexc/data.json"
+        ]
+    }
+}

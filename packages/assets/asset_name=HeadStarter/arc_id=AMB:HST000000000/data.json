@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "hst",
+    "assetName": "HeadStarter",
+    "assetArcId": "AMB:HST000000000",
+    "website": "https://headstarter.org/",
+    "whitePaperUrl": "/how-to-buy/HST?utm_source=mexc&utm_medium=tokenifoHST&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=HeadStarter/arc_id=AMB:HST000000000/exchange=mexc/data.json"
+        ]
+    }
+}

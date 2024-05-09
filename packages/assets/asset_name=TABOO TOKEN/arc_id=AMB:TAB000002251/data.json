@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "taboo",
+    "assetName": "TABOO TOKEN",
+    "assetArcId": "AMB:TAB000002251",
+    "website": "http://www.taboo.io/",
+    "whitePaperUrl": "https://taboo.io/images/whiteWallpaperLink.pdf",
+    "classificationTags": [
+        "Content & Streaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=TABOO TOKEN/arc_id=AMB:TAB000002251/exchange=mexc/data.json"
+        ]
+    }
+}

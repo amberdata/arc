@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XEL000002936_AMB:USD000000335",
+        "normalizedPair": "xelon_usdt",
+        "normalizedSymbol": "xelon",
+        "nativePair": "XELONUSDT",
+        "exchange": "mexc",
+        "assetName": "XELON",
+        "assetArcId": "AMB:XEL000002936",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xelon_usdt",
+        "instrumentType": "spot"
+    }
+]

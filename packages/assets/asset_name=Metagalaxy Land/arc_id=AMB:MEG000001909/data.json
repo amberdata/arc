@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "megaland",
+    "assetName": "Metagalaxy Land",
+    "assetArcId": "AMB:MEG000001909",
+    "website": "https://metagalaxyland.com/",
+    "whitePaperUrl": "/how-to-buy/MEGALAND?utm_source=mexc&utm_medium=tokenifoMEGALAND&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Metagalaxy Land/arc_id=AMB:MEG000001909/exchange=mexc/data.json"
+        ]
+    }
+}

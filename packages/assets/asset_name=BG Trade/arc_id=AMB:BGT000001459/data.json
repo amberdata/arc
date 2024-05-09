@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bgt",
+    "assetName": "BG Trade",
+    "assetArcId": "AMB:BGT000001459",
+    "website": "http://www.bgtrade.io/",
+    "whitePaperUrl": "https://www.bgtrade.io/docs/index#/product",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BG Trade/arc_id=AMB:BGT000001459/exchange=mexc/data.json"
+        ]
+    }
+}

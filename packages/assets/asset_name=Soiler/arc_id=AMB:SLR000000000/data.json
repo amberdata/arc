@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "slr",
+    "assetName": "Soiler",
+    "assetArcId": "AMB:SLR000000000",
+    "website": "https://soilerchain.xyz/",
+    "whitePaperUrl": "https://soiler.gitbook.io/docs/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Soiler/arc_id=AMB:SLR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

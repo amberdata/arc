@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "ginux",
+    "assetName": "Green Shiba Inu",
+    "assetArcId": "AMB:GIN000000000",
+    "website": "https://linktr.ee/ginuxtoken",
+    "whitePaperUrl": "https://greenshibacoin.medium.com/launch-of-green-shiba-inu-ginu-b92a6ad22406",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Green Shiba Inu/arc_id=AMB:GIN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

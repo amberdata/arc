@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "gnome",
+    "assetName": "GenomesDAOGovernance",
+    "assetArcId": "AMB:GNO000001715",
+    "website": "http://genomes.io/",
+    "whitePaperUrl": "https://genomes.gitbook.io/genomes.io-docs/technical/tokenomics/gnome-token",
+    "classificationTags": [
+        "Governance",
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

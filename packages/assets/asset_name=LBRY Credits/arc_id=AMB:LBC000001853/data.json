@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "lbc",
+    "assetName": "LBRY Credits",
+    "assetArcId": "AMB:LBC000001853",
+    "website": "https://lbry.com/",
+    "whitePaperUrl": "https://lbry.tech/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=LBRY Credits/arc_id=AMB:LBC000001853/exchange=mexc/data.json"
+        ]
+    }
+}

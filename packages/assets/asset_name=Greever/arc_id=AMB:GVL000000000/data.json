@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "gvl",
+    "assetName": "Greever",
+    "assetArcId": "AMB:GVL000000000",
+    "website": "https://greever.io/",
+    "whitePaperUrl": "https://greever.gitbook.io/eng",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Greever/arc_id=AMB:GVL000000000/exchange=mexc/data.json"
+        ]
+    }
+}

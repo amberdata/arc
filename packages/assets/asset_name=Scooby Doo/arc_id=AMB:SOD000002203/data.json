@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "sodo",
+    "assetName": "Scooby Doo",
+    "assetArcId": "AMB:SOD000002203",
+    "website": "https://www.scoobydoos.org/",
+    "whitePaperUrl": "https://www.scoobydoos.org/_files/ugd/847141_c953415eb9944d0cab91cdb5161f84b5.pdf",
+    "classificationTags": [
+        "DEX",
+        "Gaming",
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Scooby Doo/arc_id=AMB:SOD000002203/exchange=mexc/data.json"
+        ]
+    }
+}

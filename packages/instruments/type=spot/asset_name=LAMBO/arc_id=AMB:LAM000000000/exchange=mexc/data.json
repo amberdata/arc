@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LAM000000000_AMB:USD000000335",
+        "normalizedPair": "lambo_usdt",
+        "normalizedSymbol": "lambo",
+        "nativePair": "LAMBOUSDT",
+        "exchange": "mexc",
+        "assetName": "LAMBO",
+        "assetArcId": "AMB:LAM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lambo_usdt",
+        "instrumentType": "spot"
+    }
+]

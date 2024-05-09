@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "pk",
+    "assetName": "PickUp",
+    "assetArcId": "AMB:PKA000000000",
+    "website": "https://www.pickup.social/",
+    "whitePaperUrl": "https://pickups-organization.gitbook.io/pickup/",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=PickUp/arc_id=AMB:PKA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

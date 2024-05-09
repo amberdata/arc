@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "dons",
+    "assetName": "The Dons",
+    "assetArcId": "AMB:DON000001221",
+    "website": "https://thedons.vip/",
+    "whitePaperUrl": "/how-to-buy/DONS?utm_source=mexc&utm_medium=tokenifoDONS&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=The Dons/arc_id=AMB:DON000001221/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=The Dons/arc_id=AMB:DON000001221/exchange=mexc/data.json"
+        ]
+    }
+}

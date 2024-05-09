@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "superai",
+    "assetName": "SuperAI",
+    "assetArcId": "AMB:SUP000000000",
+    "website": "https://superai.at",
+    "whitePaperUrl": "/how-to-buy/SUPERAI?utm_source=mexc&utm_medium=tokenifoSUPERAI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=SuperAI/arc_id=AMB:SUP000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "nf",
+    "assetName": "NodeFreedToken",
+    "assetArcId": "AMB:NFA000000000",
+    "website": "https://www.nodefreed.com/",
+    "whitePaperUrl": "/how-to-buy/NF?utm_source=mexc&utm_medium=tokenifoNF&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=NodeFreedToken/arc_id=AMB:NFA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

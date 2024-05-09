@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "wldt",
+    "assetName": "WLDT CHAIN",
+    "assetArcId": "AMB:WLD000000000",
+    "website": "http://wldt.ninja/",
+    "whitePaperUrl": "https://docs.wldt.ninja/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=WLDT CHAIN/arc_id=AMB:WLD000000000/exchange=mexc/data.json"
+        ]
+    }
+}

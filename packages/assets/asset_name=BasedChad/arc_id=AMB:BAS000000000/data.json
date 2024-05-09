@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "based",
+    "assetName": "BasedChad",
+    "assetArcId": "AMB:BAS000000000",
+    "website": "https://basedchad.tech/",
+    "whitePaperUrl": "/how-to-buy/BASED?utm_source=mexc&utm_medium=tokenifoBASED&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BasedChad/arc_id=AMB:BAS000000000/exchange=mexc/data.json"
+        ]
+    }
+}

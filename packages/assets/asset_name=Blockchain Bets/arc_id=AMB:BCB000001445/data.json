@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "bcb",
+    "assetName": "Blockchain Bets",
+    "assetArcId": "AMB:BCB000001445",
+    "website": "https://blockchainbets.app/",
+    "whitePaperUrl": "https://blockchainbets.gitbook.io/docs/",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Blockchain Bets/arc_id=AMB:BCB000001445/exchange=mexc/data.json"
+        ]
+    }
+}

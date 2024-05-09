@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "zix",
+    "assetName": "Coinzix",
+    "assetArcId": "AMB:ZIX000002404",
+    "website": "https://coinzix.com/",
+    "whitePaperUrl": "https://docsend.com/view/mgpy4jbamcsw9zut",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Coinzix/arc_id=AMB:ZIX000002404/exchange=mexc/data.json"
+        ]
+    }
+}

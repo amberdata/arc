@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "strump",
+    "assetName": "Super Trump",
+    "assetArcId": "AMB:STR000000000",
+    "website": "https://supertrumpcoin.io/",
+    "whitePaperUrl": "/how-to-buy/STRUMP?utm_source=mexc&utm_medium=tokenifoSTRUMP&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Super Trump/arc_id=AMB:STR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

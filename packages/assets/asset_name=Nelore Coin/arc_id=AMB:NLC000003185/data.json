@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "nlc",
+    "assetName": "Nelore Coin",
+    "assetArcId": "AMB:NLC000003185",
+    "website": "https://nelorecoin.com/",
+    "whitePaperUrl": "https://nelorecoin.com/whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Nelore Coin/arc_id=AMB:NLC000003185/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Nelore Coin/arc_id=AMB:NLC000003185/exchange=mexc/data.json"
+        ]
+    }
+}

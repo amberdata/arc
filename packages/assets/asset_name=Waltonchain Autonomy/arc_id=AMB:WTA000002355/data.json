@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "wta",
+    "assetName": "Waltonchain Autonomy",
+    "assetArcId": "AMB:WTA000002355",
+    "website": "https://www.waltonchain.org/#/en",
+    "whitePaperUrl": "https://www.waltonchain.org/#/en/wta/greenPaper",
+    "classificationTags": [
+        "DEX",
+        "Proof-of-Work"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Waltonchain Autonomy/arc_id=AMB:WTA000002355/exchange=mexc/data.json"
+        ]
+    }
+}

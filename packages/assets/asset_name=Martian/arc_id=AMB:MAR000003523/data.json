@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "martian",
+    "assetName": "Martian",
+    "assetArcId": "AMB:MAR000003523",
+    "website": "https://www.bscmartian.com/",
+    "whitePaperUrl": "/how-to-buy/MARTIAN?utm_source=mexc&utm_medium=tokenifoMARTIAN&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Martian/arc_id=AMB:MAR000003523/exchange=mexc/data.json"
+        ]
+    }
+}

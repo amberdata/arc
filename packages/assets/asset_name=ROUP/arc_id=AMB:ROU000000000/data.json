@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "roup",
+    "assetName": "ROUP",
+    "assetArcId": "AMB:ROU000000000",
+    "website": "https://www.rolluper.xyz/en",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "BRC",
+            "address": "c09d19b7702ff09becd1a5b1a6d6e68a2baf9f159d3caa31e13f9125299aa58bi0"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ROUP/arc_id=AMB:ROU000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

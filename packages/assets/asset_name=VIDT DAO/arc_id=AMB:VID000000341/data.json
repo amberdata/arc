@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "vidt",
+    "assetName": "VIDT DAO",
+    "assetArcId": "AMB:VID000000341",
+    "website": "https://www.vidt-dao.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Proof-of-Stake",
+        "Proof-of-Work"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=VIDT DAO/arc_id=AMB:VID000000341/exchange=binance/data.json"
+        ]
+    }
+}

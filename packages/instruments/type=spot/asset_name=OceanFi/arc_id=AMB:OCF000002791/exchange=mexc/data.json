@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OCF000002791_AMB:USD000000335",
+        "normalizedPair": "ocf_usdt",
+        "normalizedSymbol": "ocf",
+        "nativePair": "OCFUSDT",
+        "exchange": "mexc",
+        "assetName": "OceanFi",
+        "assetArcId": "AMB:OCF000002791",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ocf_usdt",
+        "instrumentType": "spot"
+    }
+]

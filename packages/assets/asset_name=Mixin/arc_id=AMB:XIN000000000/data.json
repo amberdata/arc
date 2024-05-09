@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "xin",
+    "assetName": "Mixin",
+    "assetArcId": "AMB:XIN000000000",
+    "website": "https://mixin.one/",
+    "whitePaperUrl": "https://mixin.one/assets/Mixin-Draft-2018-07-01.pdf",
+    "classificationTags": [
+        "Privacy",
+        "Proof-of-Stake"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Mixin/arc_id=AMB:XIN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

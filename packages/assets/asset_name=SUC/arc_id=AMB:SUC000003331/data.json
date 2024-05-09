@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "suc",
+    "assetName": "SUC",
+    "assetArcId": "AMB:SUC000003331",
+    "website": "https://suctoken.world/",
+    "whitePaperUrl": "https://suc-erc20.gitbook.io/suc/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=SUC/arc_id=AMB:SUC000003331/exchange=mexc/data.json"
+        ]
+    }
+}

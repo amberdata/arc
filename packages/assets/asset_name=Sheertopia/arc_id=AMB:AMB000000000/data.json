@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "ambo",
+    "assetName": "Sheertopia",
+    "assetArcId": "AMB:AMB000000000",
+    "website": "https://sheertopia.io/",
+    "whitePaperUrl": "https://whitepaper.sheertopia.io/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Sheertopia/arc_id=AMB:AMB000000000/exchange=mexc/data.json"
+        ]
+    }
+}

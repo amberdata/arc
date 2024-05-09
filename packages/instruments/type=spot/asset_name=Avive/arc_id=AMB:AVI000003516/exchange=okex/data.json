@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AVI000003516_AMB:USD000000335",
+        "normalizedPair": "avive_usdt",
+        "normalizedSymbol": "avive",
+        "nativePair": "AVIVE-USDT",
+        "exchange": "okex",
+        "assetName": "Avive",
+        "assetArcId": "AMB:AVI000003516",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "avive_usdt",
+        "instrumentType": "spot"
+    }
+]

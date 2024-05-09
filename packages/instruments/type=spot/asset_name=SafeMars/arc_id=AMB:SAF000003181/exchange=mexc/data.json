@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAF000003181_AMB:USD000000335",
+        "normalizedPair": "safemars1_usdt",
+        "normalizedSymbol": "safemars1",
+        "nativePair": "SAFEMARS1USDT",
+        "exchange": "mexc",
+        "assetName": "SAFEMARS",
+        "assetArcId": "AMB:SAF000003181",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "safemars1_usdt",
+        "instrumentType": "spot"
+    }
+]

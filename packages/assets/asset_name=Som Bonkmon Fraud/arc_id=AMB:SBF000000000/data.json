@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "sbfsol",
+    "assetName": "Som Bonkmon Fraud",
+    "assetArcId": "AMB:SBF000000000",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "B582oxHHy41ijxaGem3GksSWAVBfr2fJxNKrL7mpC1z1"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Som Bonkmon Fraud/arc_id=AMB:SBF000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ons",
+    "assetName": "ONSWEB3",
+    "assetArcId": "AMB:ONS000000000",
+    "website": "https://onsweb3.top/",
+    "whitePaperUrl": "/how-to-buy/ONS?utm_source=mexc&utm_medium=tokenifoONS&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ONSWEB3/arc_id=AMB:ONS000000000/exchange=mexc/data.json"
+        ]
+    }
+}

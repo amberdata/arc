@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "foxai",
+    "assetName": "FOXAI",
+    "assetArcId": "AMB:FOX000001681",
+    "website": "https://www.foxai.vip/",
+    "whitePaperUrl": "https://docs.foxai.vip/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=FOXAI/arc_id=AMB:FOX000001681/exchange=mexc/data.json"
+        ]
+    }
+}

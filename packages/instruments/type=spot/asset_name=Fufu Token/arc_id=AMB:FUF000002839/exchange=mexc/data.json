@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FUF000002839_AMB:USD000000335",
+        "normalizedPair": "fufu_usdt",
+        "normalizedSymbol": "fufu",
+        "nativePair": "FUFUUSDT",
+        "exchange": "mexc",
+        "assetName": "Fufu Token",
+        "assetArcId": "AMB:FUF000002839",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fufu_usdt",
+        "instrumentType": "spot"
+    }
+]

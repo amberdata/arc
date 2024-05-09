@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "slim",
+    "assetName": "Solanium",
+    "assetArcId": "AMB:SLI000002195",
+    "website": "https://www.solanium.io/",
+    "whitePaperUrl": "https://docs.solanium.io/",
+    "classificationTags": [
+        "Governance",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Solanium/arc_id=AMB:SLI000002195/exchange=mexc/data.json"
+        ]
+    }
+}

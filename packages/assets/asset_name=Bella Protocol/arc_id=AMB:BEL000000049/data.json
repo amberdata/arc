@@ -1,0 +1,25 @@
+{
+    "assetSymbol": "bel",
+    "assetName": "Bella Protocol",
+    "assetArcId": "AMB:BEL000000049",
+    "website": "https://bella.fi/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "DEX",
+        "Governance",
+        "Lending",
+        "Privacy",
+        "Smart Contract",
+        "Stablecoin",
+        "Staking",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Bella Protocol/arc_id=AMB:BEL000000049/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Bella Protocol/arc_id=AMB:BEL000000049/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Bella Protocol/arc_id=AMB:BEL000000049/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Bella Protocol/arc_id=AMB:BEL000000049/exchange=bithumb/data.json"
+        ]
+    }
+}

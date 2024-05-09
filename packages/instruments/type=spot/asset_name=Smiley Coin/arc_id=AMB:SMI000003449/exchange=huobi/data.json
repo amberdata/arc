@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SMI000003449_AMB:USD000000335",
+        "normalizedPair": "smiley_usdt",
+        "normalizedSymbol": "smiley",
+        "nativePair": "smileyusdt",
+        "exchange": "huobi",
+        "assetName": "Smiley Coin",
+        "assetArcId": "AMB:SMI000003449",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "smiley_usdt",
+        "instrumentType": "spot"
+    }
+]

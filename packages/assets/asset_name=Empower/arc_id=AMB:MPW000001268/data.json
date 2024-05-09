@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "mpwr",
+    "assetName": "Empower",
+    "assetArcId": "AMB:MPW000001268",
+    "website": "https://mpwr.clubrare.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0x6731827Cb6879a2091ce3ab3423f7bf20539b579"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Empower/arc_id=AMB:MPW000001268/exchange=poloniex/data.json"
+        ]
+    }
+}

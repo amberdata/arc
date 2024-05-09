@@ -1,0 +1,24 @@
+{
+    "assetSymbol": "fort",
+    "assetName": "Forta",
+    "assetArcId": "AMB:FOR000000404",
+    "website": "https://forta.org/",
+    "whitePaperUrl": "https://docs.forta.network/en/latest/what-is-forta/",
+    "classificationTags": [
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Forta/arc_id=AMB:FOR000000404/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Forta/arc_id=AMB:FOR000000404/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Forta/arc_id=AMB:FOR000000404/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Forta/arc_id=AMB:FOR000000404/exchange=gdax/data.json"
+        ]
+    }
+}

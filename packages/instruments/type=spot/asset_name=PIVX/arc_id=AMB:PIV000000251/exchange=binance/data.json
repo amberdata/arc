@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:PIV000000251_AMB:BTC000000000",
+        "normalizedPair": "pivx_btc",
+        "normalizedSymbol": "pivx",
+        "nativePair": "PIVXBTC",
+        "exchange": "binance",
+        "assetName": "PIVX",
+        "assetArcId": "AMB:PIV000000251",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "pivx_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PIV000000251_AMB:USD000000335",
+        "normalizedPair": "pivx_usdt",
+        "normalizedSymbol": "pivx",
+        "nativePair": "PIVXUSDT",
+        "exchange": "binance",
+        "assetName": "PIVX",
+        "assetArcId": "AMB:PIV000000251",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pivx_usdt",
+        "instrumentType": "spot"
+    }
+]

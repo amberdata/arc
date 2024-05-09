@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KEE000002426_AMB:USD000000335",
+        "normalizedPair": "keep_usdt",
+        "normalizedSymbol": "keep",
+        "nativePair": "KEEPUSDT",
+        "exchange": "mexc",
+        "assetName": "Keep Network",
+        "assetArcId": "AMB:KEE000002426",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "keep_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "assetSymbol": "amp",
+    "assetName": "Amp",
+    "assetArcId": "AMB:AMP000000018",
+    "website": "https://amptoken.org/",
+    "whitePaperUrl": "https://amptoken.org/whitepaper.pdf",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Amp/arc_id=AMB:AMP000000018/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Amp/arc_id=AMB:AMP000000018/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Amp/arc_id=AMB:AMP000000018/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Amp/arc_id=AMB:AMP000000018/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Amp/arc_id=AMB:AMP000000018/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Amp/arc_id=AMB:AMP000000018/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Amp/arc_id=AMB:AMP000000018/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Amp/arc_id=AMB:AMP000000018/exchange=bitstamp/data.json"
+        ]
+    }
+}

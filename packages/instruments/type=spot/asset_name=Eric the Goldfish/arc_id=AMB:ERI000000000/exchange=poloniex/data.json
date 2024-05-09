@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ERI000000000_AMB:USD000000335",
+        "normalizedPair": "eric_usdt",
+        "normalizedSymbol": "eric",
+        "nativePair": "ERIC_USDT",
+        "exchange": "poloniex",
+        "assetName": "Eric the Goldfish",
+        "assetArcId": "AMB:ERI000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "eric_usdt",
+        "instrumentType": "spot"
+    }
+]

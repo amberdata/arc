@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAT000002952_AMB:USD000000335",
+        "normalizedPair": "satox_usdt",
+        "normalizedSymbol": "satox",
+        "nativePair": "SATOXUSDT",
+        "exchange": "mexc",
+        "assetName": "Satoxcoin",
+        "assetArcId": "AMB:SAT000002952",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "satox_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,25 @@
+{
+    "assetSymbol": "hnt",
+    "assetName": "Helium",
+    "assetArcId": "AMB:HNT000000412",
+    "website": "https://www.helium.com/",
+    "whitePaperUrl": "http://whitepaper.helium.com/",
+    "classificationTags": [
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Helium/arc_id=AMB:HNT000000412/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Helium/arc_id=AMB:HNT000000412/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Helium/arc_id=AMB:HNT000000412/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Helium/arc_id=AMB:HNT000000412/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Helium/arc_id=AMB:HNT000000412/exchange=gemini/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LAV000000000_AMB:USD000000335",
+        "normalizedPair": "ava.amb.1_usdt",
+        "normalizedSymbol": "ava.amb.1",
+        "nativePair": "LAVA_USDT",
+        "exchange": "poloniex",
+        "assetName": "Vulcan forged",
+        "assetArcId": "AMB:LAV000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lava_usdt",
+        "instrumentType": "spot"
+    }
+]

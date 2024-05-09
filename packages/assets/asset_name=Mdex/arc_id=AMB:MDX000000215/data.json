@@ -1,0 +1,18 @@
+{
+    "assetSymbol": "mdx",
+    "assetName": "Mdex",
+    "assetArcId": "AMB:MDX000000215",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "DEX",
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Mdex/arc_id=AMB:MDX000000215/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Mdex/arc_id=AMB:MDX000000215/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Mdex/arc_id=AMB:MDX000000215/exchange=binance/data.json"
+        ]
+    }
+}

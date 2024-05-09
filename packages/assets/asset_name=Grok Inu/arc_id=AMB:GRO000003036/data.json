@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "grokinu",
+    "assetName": "Grok Inu",
+    "assetArcId": "AMB:GRO000003036",
+    "website": "https://grokinucoin.vip/",
+    "whitePaperUrl": "https://grokinucoin.gitbook.io/whitepaper/",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Grok Inu/arc_id=AMB:GRO000003036/exchange=mexc/data.json"
+        ]
+    }
+}

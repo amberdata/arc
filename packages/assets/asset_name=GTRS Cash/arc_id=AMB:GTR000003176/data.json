@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "gtrs",
+    "assetName": "GTRS Cash",
+    "assetArcId": "AMB:GTR000003176",
+    "website": "https://gtrs.space/",
+    "whitePaperUrl": "https://gtr.gitbook.io/gtr-cash/gtrs-cash/introduce",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=GTRS Cash/arc_id=AMB:GTR000003176/exchange=mexc/data.json"
+        ]
+    }
+}

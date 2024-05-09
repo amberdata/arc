@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "plcu",
+    "assetName": "PLCU",
+    "assetArcId": "AMB:PLC000002081",
+    "website": "https://plcultima.com/en/",
+    "whitePaperUrl": "https://plcultima.com/documents/en/WhitepaperEN.pdf",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=PLCU/arc_id=AMB:PLC000002081/exchange=mexc/data.json"
+        ]
+    }
+}

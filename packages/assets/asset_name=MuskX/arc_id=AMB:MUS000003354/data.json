@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "muskx",
+    "assetName": "MuskX",
+    "assetArcId": "AMB:MUS000003354",
+    "website": "https://everymusktweet.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xf827f77422d6DFf7b4E1bc87fec88606082B2199"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MuskX/arc_id=AMB:MUS000003354/exchange=poloniex/data.json"
+        ]
+    }
+}

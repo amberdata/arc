@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "tkb",
+    "assetName": "TokenBot",
+    "assetArcId": "AMB:TKB000002269",
+    "website": "https://www.tokenbot.network/",
+    "whitePaperUrl": "https://docs.tokenbot.com/help-center/project-overview/master",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=TokenBot/arc_id=AMB:TKB000002269/exchange=mexc/data.json"
+        ]
+    }
+}

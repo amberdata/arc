@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:USD000000949",
+        "normalizedPair": "xrp_usd",
+        "normalizedSymbol": "xrp",
+        "nativePair": "xrpusd",
+        "exchange": "gemini",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xrp_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:GUS000000410",
+        "normalizedPair": "xrp_gusd",
+        "normalizedSymbol": "xrp",
+        "nativePair": "xrpgusdperp",
+        "exchange": "gemini",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:GUS000000410",
+        "collectedPair": "xrp_gusd",
+        "instrumentType": "spot"
+    }
+]

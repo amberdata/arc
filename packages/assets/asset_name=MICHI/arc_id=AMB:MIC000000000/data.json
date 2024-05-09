@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "michi",
+    "assetName": "MICHI",
+    "assetArcId": "AMB:MIC000000000",
+    "website": "https://michisolana.org/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=MICHI/arc_id=AMB:MIC000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

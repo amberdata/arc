@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "vlk",
+    "assetName": "Vulkania",
+    "assetArcId": "AMB:VLK000002321",
+    "website": "https://vulkania.io/",
+    "whitePaperUrl": "https://vulkania.io/blog/vulkania-whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Vulkania/arc_id=AMB:VLK000002321/exchange=mexc/data.json"
+        ]
+    }
+}

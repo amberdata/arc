@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "litt",
+    "assetName": "LitLab Games",
+    "assetArcId": "AMB:LIT000001868",
+    "website": "https://litlabgames.com/",
+    "whitePaperUrl": "https://litlabgames.com/Whitepaper.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=LitLab Games/arc_id=AMB:LIT000001868/exchange=mexc/data.json"
+        ]
+    }
+}

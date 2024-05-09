@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "noded",
+    "assetName": "Masternoded",
+    "assetArcId": "AMB:NOD000000000",
+    "website": "https://masternoded.com/",
+    "whitePaperUrl": "https://masternoded.com/wp-content/uploads/2023/09/Masternoded-ICO-Whitepaper2.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Masternoded/arc_id=AMB:NOD000000000/exchange=mexc/data.json"
+        ]
+    }
+}

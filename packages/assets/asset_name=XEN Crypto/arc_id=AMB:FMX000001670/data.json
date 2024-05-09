@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "fmxen",
+    "assetName": "XEN Crypto",
+    "assetArcId": "AMB:FMX000001670",
+    "website": "https://xen.network/mainnet",
+    "whitePaperUrl": "https://xensource.gitbook.io/www.xenpedia.io/about-xen/whitepaper",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=XEN Crypto/arc_id=AMB:FMX000001670/exchange=mexc/data.json"
+        ]
+    }
+}

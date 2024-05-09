@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bwolf",
+    "assetName": "BNBWOLF",
+    "assetArcId": "AMB:BWO000003280",
+    "website": "https://bnbwolf.io/",
+    "whitePaperUrl": "/how-to-buy/BWOLF?utm_source=mexc&utm_medium=tokenifoBWOLF&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BNBWOLF/arc_id=AMB:BWO000003280/exchange=mexc/data.json"
+        ]
+    }
+}

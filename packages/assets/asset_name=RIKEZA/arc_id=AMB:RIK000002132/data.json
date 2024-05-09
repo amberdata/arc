@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "rik",
+    "assetName": "RIKEZA",
+    "assetArcId": "AMB:RIK000002132",
+    "website": "https://rikeza.io/",
+    "whitePaperUrl": "https://docs.rikscan.com/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=RIKEZA/arc_id=AMB:RIK000002132/exchange=mexc/data.json"
+        ]
+    }
+}

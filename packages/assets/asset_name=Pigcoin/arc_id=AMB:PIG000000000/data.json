@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "pigcoin",
+    "assetName": "Pigcoin",
+    "assetArcId": "AMB:PIG000000000",
+    "website": "https://pigcoin.org/",
+    "whitePaperUrl": "https://pigcoin.org/wp-content/uploads/2024/01/Pigcoin-The-memecoin-on-Polygon.pdf",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Pigcoin/arc_id=AMB:PIG000000000/exchange=mexc/data.json"
+        ]
+    }
+}

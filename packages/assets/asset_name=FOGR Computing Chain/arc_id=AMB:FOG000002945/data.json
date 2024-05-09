@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "fogr",
+    "assetName": "FOGR Computing Chain",
+    "assetArcId": "AMB:FOG000002945",
+    "website": "https://www.fogrnews.com/",
+    "whitePaperUrl": "https://fogcomputingchain.gitbook.io/fog-computing-chain/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=FOGR Computing Chain/arc_id=AMB:FOG000002945/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "abond",
+    "assetName": "ApeBond",
+    "assetArcId": "AMB:ABO000003266",
+    "website": "https://ape.bond/bonds",
+    "whitePaperUrl": "https://docs.ape.bond/apebond/welcome/master",
+    "classificationTags": [
+        "Governance",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ApeBond/arc_id=AMB:ABO000003266/exchange=mexc/data.json"
+        ]
+    }
+}

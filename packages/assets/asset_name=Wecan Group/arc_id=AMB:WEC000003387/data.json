@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "wecan",
+    "assetName": "Wecan Group",
+    "assetArcId": "AMB:WEC000003387",
+    "website": "https://wecangroup.ch/",
+    "whitePaperUrl": "https://wecangroup.ch/wp-content/uploads/2024/03/Wecan_White-paper_version-1-9.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Wecan Group/arc_id=AMB:WEC000003387/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Wecan Group/arc_id=AMB:WEC000003387/exchange=bitstamp/data.json"
+        ]
+    }
+}

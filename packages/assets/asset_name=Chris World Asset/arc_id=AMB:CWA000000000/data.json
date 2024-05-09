@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "cwa",
+    "assetName": "Chris World Asset",
+    "assetArcId": "AMB:CWA000000000",
+    "website": "https://chrisworldasset.com/",
+    "whitePaperUrl": "https://docs.chrisworldasset.com/",
+    "classificationTags": [
+        "Privacy",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Chris World Asset/arc_id=AMB:CWA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

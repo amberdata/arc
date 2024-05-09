@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "mtvt",
+    "assetName": "Metaverser",
+    "assetArcId": "AMB:MTV000000000",
+    "website": "https://metaverser.me/",
+    "whitePaperUrl": "https://metaverser.me/metaverser-whitepaper?v=2.52",
+    "classificationTags": [
+        "Gaming",
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Metaverser/arc_id=AMB:MTV000000000/exchange=mexc/data.json"
+        ]
+    }
+}

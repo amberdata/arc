@@ -1,0 +1,110 @@
+[
+    {
+        "arcPairId": "AMB:INJ000000170_AMB:BNB000000055",
+        "normalizedPair": "inj_bnb",
+        "normalizedSymbol": "inj",
+        "nativePair": "INJBNB",
+        "exchange": "binance",
+        "assetName": "Injective",
+        "assetArcId": "AMB:INJ000000170",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "inj_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:INJ000000170_AMB:BTC000000000",
+        "normalizedPair": "inj_btc",
+        "normalizedSymbol": "inj",
+        "nativePair": "INJBTC",
+        "exchange": "binance",
+        "assetName": "Injective",
+        "assetArcId": "AMB:INJ000000170",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "inj_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:INJ000000170_AMB:BUS000000067",
+        "normalizedPair": "inj_busd",
+        "normalizedSymbol": "inj",
+        "nativePair": "INJBUSD",
+        "exchange": "binance",
+        "assetName": "Injective",
+        "assetArcId": "AMB:INJ000000170",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "inj_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:INJ000000170_AMB:TRY000000940",
+        "normalizedPair": "inj_try",
+        "normalizedSymbol": "inj",
+        "nativePair": "INJTRY",
+        "exchange": "binance",
+        "assetName": "Injective",
+        "assetArcId": "AMB:INJ000000170",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "inj_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:INJ000000170_AMB:USD000000335",
+        "normalizedPair": "inj_usdt",
+        "normalizedSymbol": "inj",
+        "nativePair": "INJUSDT",
+        "exchange": "binance",
+        "assetName": "Injective",
+        "assetArcId": "AMB:INJ000000170",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "inj_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:INJ000000170_AMB:ETH000000000",
+        "normalizedPair": "inj_eth",
+        "normalizedSymbol": "inj",
+        "nativePair": "INJETH",
+        "exchange": "binance",
+        "assetName": "Injective",
+        "assetArcId": "AMB:INJ000000170",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "inj_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:INJ000000170_AMB:TUS000000326",
+        "normalizedPair": "inj_tusd",
+        "normalizedSymbol": "inj",
+        "nativePair": "INJTUSD",
+        "exchange": "binance",
+        "assetName": "Injective",
+        "assetArcId": "AMB:INJ000000170",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "inj_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:INJ000000170_AMB:USD000000333",
+        "normalizedPair": "inj_usdc",
+        "normalizedSymbol": "inj",
+        "nativePair": "INJUSDC",
+        "exchange": "binance",
+        "assetName": "Injective",
+        "assetArcId": "AMB:INJ000000170",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "inj_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:INJ000000170_AMB:FDU000000122",
+        "normalizedPair": "inj_fdusd",
+        "normalizedSymbol": "inj",
+        "nativePair": "INJFDUSD",
+        "exchange": "binance",
+        "assetName": "Injective",
+        "assetArcId": "AMB:INJ000000170",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "inj_fdusd",
+        "instrumentType": "spot"
+    }
+]

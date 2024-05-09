@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dng",
+    "assetName": "DigiNetGuard",
+    "assetArcId": "AMB:DNG000003420",
+    "website": "http://www.diginetguard.vip/",
+    "whitePaperUrl": "https://diginetguard.gitbook.io/untitled/introduction/vision",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=DigiNetGuard/arc_id=AMB:DNG000003420/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "ai1",
+    "assetName": "Sleepless AI",
+    "assetArcId": "AMB:AI1000000000",
+    "website": "https://www.sleeplessai.net/home",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "BNB",
+            "address": "0xBDA011D7F8EC00F66C1923B049B94c67d148d8b2"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Sleepless AI/arc_id=AMB:AI1000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

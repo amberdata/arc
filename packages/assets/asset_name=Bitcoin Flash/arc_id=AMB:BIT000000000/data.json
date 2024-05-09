@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "bitcoinflash",
+    "assetName": "Bitcoin Flash",
+    "assetArcId": "AMB:BIT000000000",
+    "website": "https://bitcoinflash.cc/#",
+    "whitePaperUrl": "/how-to-buy/BITCOINFLASH?utm_source=mexc&utm_medium=tokenifoBITCOINFLASH&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Bitcoin Flash/arc_id=AMB:BIT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

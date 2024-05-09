@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IVP000000000_AMB:USD000000335",
+        "normalizedPair": "ivpay_usdt",
+        "normalizedSymbol": "ivpay",
+        "nativePair": "IVPAYUSDT",
+        "exchange": "mexc",
+        "assetName": "IvendPay",
+        "assetArcId": "AMB:IVP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ivpay_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "assetSymbol": "dar",
+    "assetName": "Mines of Dalarnia",
+    "assetArcId": "AMB:DAR000000092",
+    "website": "https://www.minesofdalarnia.com/",
+    "whitePaperUrl": "https://www.minesofdalarnia.com/assets/MoD-Litepaper-updated-04-Nov.pdf",
+    "classificationTags": [
+        "Gaming",
+        "Lending",
+        "Transparent"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x081131434f93063751813c619ecca9c4dc7862a3"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=mexc/data.json"
+        ]
+    }
+}

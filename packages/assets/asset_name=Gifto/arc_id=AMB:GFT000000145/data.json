@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "gft",
+    "assetName": "Gifto",
+    "assetArcId": "AMB:GFT000000145",
+    "website": "https://gifto.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Content & Streaming",
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Gifto/arc_id=AMB:GFT000000145/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Gifto/arc_id=AMB:GFT000000145/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Gifto/arc_id=AMB:GFT000000145/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Gifto/arc_id=AMB:GFT000000145/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Gifto/arc_id=AMB:GFT000000145/exchange=mexc/data.json"
+        ]
+    }
+}

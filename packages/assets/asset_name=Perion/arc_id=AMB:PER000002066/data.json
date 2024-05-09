@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "perc",
+    "assetName": "Perion",
+    "assetArcId": "AMB:PER000002066",
+    "website": "https://perion.gg/",
+    "whitePaperUrl": "https://app.gitbook.com/o/-MjJ5ler0lBJmZgYGkIg/s/-Mj8To8sC7gIjGJwZSIn/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Perion/arc_id=AMB:PER000002066/exchange=mexc/data.json"
+        ]
+    }
+}

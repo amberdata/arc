@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bdrop",
+    "assetName": "BDROP",
+    "assetArcId": "AMB:BDR000000000",
+    "website": "https://www.blockdropcoin.com/",
+    "whitePaperUrl": "https://www.blockdropcoin.com/whitepaper/BlockDropCoin-White-Paper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BDROP/arc_id=AMB:BDR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

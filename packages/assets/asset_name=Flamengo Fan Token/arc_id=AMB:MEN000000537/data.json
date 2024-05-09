@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "mengo",
+    "assetName": "Flamengo Fan Token",
+    "assetArcId": "AMB:MEN000000537",
+    "website": "https://www.socios.com/",
+    "whitePaperUrl": "/how-to-buy/MENGO?utm_source=mexc&utm_medium=tokenifoMENGO&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Flamengo Fan Token/arc_id=AMB:MEN000000537/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Flamengo Fan Token/arc_id=AMB:MEN000000537/exchange=mexc/data.json"
+        ]
+    }
+}

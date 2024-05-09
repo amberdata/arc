@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "memeha",
+    "assetName": "HachiAI",
+    "assetArcId": "AMB:MEM000002942",
+    "website": "https://hachiai.org/",
+    "whitePaperUrl": "https://hachi-2.gitbook.io/hachi.ai-whitepaper/tokenomics/allocation",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=HachiAI/arc_id=AMB:MEM000002942/exchange=mexc/data.json"
+        ]
+    }
+}

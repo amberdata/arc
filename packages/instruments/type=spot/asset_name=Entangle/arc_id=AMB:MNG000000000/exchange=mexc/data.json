@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MNG000000000_AMB:USD000000335",
+        "normalizedPair": "mngl_usdt",
+        "normalizedSymbol": "mngl",
+        "nativePair": "MNGLUSDT",
+        "exchange": "mexc",
+        "assetName": "Entangle",
+        "assetArcId": "AMB:MNG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mngl_usdt",
+        "instrumentType": "spot"
+    }
+]

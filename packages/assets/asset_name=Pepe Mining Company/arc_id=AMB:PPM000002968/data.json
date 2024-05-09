@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "ppmc",
+    "assetName": "Pepe Mining Company",
+    "assetArcId": "AMB:PPM000002968",
+    "website": "https://pepemining.com/",
+    "whitePaperUrl": "https://github.com/Pepe-Mining-Company/Assets/blob/main/Whitepaper/PPMC%20Whitepaper%20v1.01.pdf",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Pepe Mining Company/arc_id=AMB:PPM000002968/exchange=mexc/data.json"
+        ]
+    }
+}

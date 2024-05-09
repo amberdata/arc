@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AMU000003086_AMB:USD000000335",
+        "normalizedPair": "amu_usdt",
+        "normalizedSymbol": "amu",
+        "nativePair": "amuusdt",
+        "exchange": "huobi",
+        "assetName": "Amulet Protocol",
+        "assetArcId": "AMB:AMU000003086",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "amu_usdt",
+        "instrumentType": "spot"
+    }
+]

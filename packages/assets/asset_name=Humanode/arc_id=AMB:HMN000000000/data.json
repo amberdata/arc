@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "hmnd",
+    "assetName": "Humanode",
+    "assetArcId": "AMB:HMN000000000",
+    "website": "https://humanode.io/",
+    "whitePaperUrl": "https://papers.humanode.io/whitepaper.pdf",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Humanode/arc_id=AMB:HMN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

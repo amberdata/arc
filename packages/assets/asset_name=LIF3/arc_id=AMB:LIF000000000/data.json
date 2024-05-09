@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "lif3",
+    "assetName": "LIF3",
+    "assetArcId": "AMB:LIF000000000",
+    "website": "https://lif3.com/",
+    "whitePaperUrl": "https://docs.lif3.com/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=LIF3/arc_id=AMB:LIF000000000/exchange=mexc/data.json"
+        ]
+    }
+}

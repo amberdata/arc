@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "cere",
+    "assetName": "Cere Network",
+    "assetArcId": "AMB:CER000000650",
+    "website": "https://www.cere.network",
+    "whitePaperUrl": "/how-to-buy/CERE?utm_source=mexc&utm_medium=tokenifoCERE&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Cere Network/arc_id=AMB:CER000000650/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Cere Network/arc_id=AMB:CER000000650/exchange=mexc/data.json"
+        ]
+    }
+}

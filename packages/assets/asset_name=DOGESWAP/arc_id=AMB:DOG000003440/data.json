@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "dogeswap",
+    "assetName": "DOGESWAP",
+    "assetArcId": "AMB:DOG000003440",
+    "website": "https://dogeswap.tech/",
+    "whitePaperUrl": "/how-to-buy/DOGESWAP?utm_source=mexc&utm_medium=tokenifoDOGESWAP&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=DOGESWAP/arc_id=AMB:DOG000003440/exchange=mexc/data.json"
+        ]
+    }
+}

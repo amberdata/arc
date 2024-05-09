@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "gnfty",
+    "assetName": "GoNFTY",
+    "assetArcId": "AMB:GNF000000000",
+    "website": "http://gonfty.network/",
+    "whitePaperUrl": "https://docs.gonfty.network/whitepaper",
+    "classificationTags": [
+        "Gaming",
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=GoNFTY/arc_id=AMB:GNF000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WXA000000000_AMB:USD000000335",
+        "normalizedPair": "wx_usdt",
+        "normalizedSymbol": "wx",
+        "nativePair": "WXUSDT",
+        "exchange": "mexc",
+        "assetName": "Weave6",
+        "assetArcId": "AMB:WXA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wx_usdt",
+        "instrumentType": "spot"
+    }
+]

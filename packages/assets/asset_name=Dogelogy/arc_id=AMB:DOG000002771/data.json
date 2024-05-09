@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "dogelogy",
+    "assetName": "Dogelogy",
+    "assetArcId": "AMB:DOG000002771",
+    "website": "https://dogelogy.com/",
+    "whitePaperUrl": "/how-to-buy/DOGELOGY?utm_source=mexc&utm_medium=tokenifoDOGELOGY&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Dogelogy/arc_id=AMB:DOG000002771/exchange=mexc/data.json"
+        ]
+    }
+}

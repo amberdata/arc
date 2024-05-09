@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MTM000000000_AMB:USD000000335",
+        "normalizedPair": "mtms_usdt",
+        "normalizedSymbol": "mtms",
+        "nativePair": "MTMSUSDT",
+        "exchange": "mexc",
+        "assetName": "MTMS Network",
+        "assetArcId": "AMB:MTM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mtms_usdt",
+        "instrumentType": "spot"
+    }
+]

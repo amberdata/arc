@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "kai.amb.1",
+    "assetName": "Komputai",
+    "assetArcId": "AMB:KAI000000000",
+    "website": "https://linktr.ee/Komputai",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0xe75F2AcaFbA1aD56C5eD712ffbc1d31910e74396"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Komputai/arc_id=AMB:KAI000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

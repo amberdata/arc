@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dcb",
+    "assetName": "Decubate",
+    "assetArcId": "AMB:DCB000003480",
+    "website": "https://www.decubate.com/",
+    "whitePaperUrl": "https://docs.decubate.com/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Decubate/arc_id=AMB:DCB000003480/exchange=mexc/data.json"
+        ]
+    }
+}

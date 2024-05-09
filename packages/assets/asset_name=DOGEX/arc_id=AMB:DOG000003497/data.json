@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dogex",
+    "assetName": "DOGEX",
+    "assetArcId": "AMB:DOG000003497",
+    "website": "http://dogexmeme.com/",
+    "whitePaperUrl": "http://dogexmeme.com/white-paper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=DOGEX/arc_id=AMB:DOG000003497/exchange=mexc/data.json"
+        ]
+    }
+}

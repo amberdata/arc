@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "dag",
+    "assetName": "Constellation",
+    "assetArcId": "AMB:DAG000001578",
+    "website": "https://constellationnetwork.io/",
+    "whitePaperUrl": "https://drive.google.com/file/d/1GgUaC4MyfsS9LH1goWi0aeZFDQeHnhx3/view",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Constellation/arc_id=AMB:DAG000001578/exchange=mexc/data.json"
+        ]
+    }
+}

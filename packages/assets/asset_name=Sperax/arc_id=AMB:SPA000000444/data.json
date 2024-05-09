@@ -1,0 +1,25 @@
+{
+    "assetSymbol": "spa",
+    "assetName": "Sperax",
+    "assetArcId": "AMB:SPA000000444",
+    "website": "https://sperax.io/",
+    "whitePaperUrl": "https://docs.sperax.io/",
+    "classificationTags": [
+        "Governance",
+        "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Arbitrum",
+            "address": "0x5575552988A3A80504bBaeB1311674fCFd40aD4B"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Sperax/arc_id=AMB:SPA000000444/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Sperax/arc_id=AMB:SPA000000444/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Sperax/arc_id=AMB:SPA000000444/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Sperax/arc_id=AMB:SPA000000444/exchange=gdax/data.json"
+        ]
+    }
+}

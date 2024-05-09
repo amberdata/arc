@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "ionx",
+    "assetName": "Charged Particles",
+    "assetArcId": "AMB:ION000001791",
+    "website": "https://www.charged.fi/",
+    "whitePaperUrl": "https://docs.charged.fi/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Charged Particles/arc_id=AMB:ION000001791/exchange=mexc/data.json"
+        ]
+    }
+}

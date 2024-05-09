@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "nap.amb.1",
+    "assetName": "SNAP",
+    "assetArcId": "AMB:NAP000000000",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "4G86CMxGsMdLETrYnavMFKPhQzKTvDBYGMRAdVtr72nu"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=SNAP/arc_id=AMB:NAP000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

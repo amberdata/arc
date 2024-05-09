@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bong",
+    "assetName": "Bonkwifglass",
+    "assetArcId": "AMB:BON000000001",
+    "website": "https://bonkwifglass.com",
+    "whitePaperUrl": "/how-to-buy/BONG?utm_source=mexc&utm_medium=tokenifoBONG&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Bonkwifglass/arc_id=AMB:BON000000001/exchange=mexc/data.json"
+        ]
+    }
+}

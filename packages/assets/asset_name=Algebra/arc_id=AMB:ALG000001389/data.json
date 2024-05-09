@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "algb",
+    "assetName": "Algebra",
+    "assetArcId": "AMB:ALG000001389",
+    "website": "https://algebra.finance/",
+    "whitePaperUrl": "https://algebra.finance/assets/pdf/Algebra_Tech_Paper.pdf",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Algebra/arc_id=AMB:ALG000001389/exchange=mexc/data.json"
+        ]
+    }
+}

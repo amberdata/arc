@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cex",
+    "assetName": "CEX Index",
+    "assetArcId": "AMB:CEX000001528",
+    "website": "https://cexindex.top/",
+    "whitePaperUrl": "https://cexindex.gitbook.io/whitepaper/",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

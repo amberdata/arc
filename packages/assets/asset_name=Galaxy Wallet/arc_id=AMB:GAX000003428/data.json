@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "gax1",
+    "assetName": "Galaxy Wallet",
+    "assetArcId": "AMB:GAX000003428",
+    "website": "https://www.galaxyglobal.org/",
+    "whitePaperUrl": "http://www.galaxyglobal.org/galaxywallet.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Galaxy Wallet/arc_id=AMB:GAX000003428/exchange=mexc/data.json"
+        ]
+    }
+}

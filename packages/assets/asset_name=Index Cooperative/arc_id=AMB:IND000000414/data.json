@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "index",
+    "assetName": "Index Cooperative",
+    "assetArcId": "AMB:IND000000414",
+    "website": "https://indexcoop.com/",
+    "whitePaperUrl": "https://indexcoop.com/whitepapers",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Index Cooperative/arc_id=AMB:IND000000414/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=Index Cooperative/arc_id=AMB:IND000000414/exchange=gdax/data.json"
+        ]
+    }
+}

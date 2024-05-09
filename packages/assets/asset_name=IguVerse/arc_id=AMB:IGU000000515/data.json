@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "igu",
+    "assetName": "IguVerse",
+    "assetArcId": "AMB:IGU000000515",
+    "website": "https://iguverse.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "BEP20",
+            "address": "0x201bC9F242f74C47Bbd898a5DC99cDCD81A21943"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=IguVerse/arc_id=AMB:IGU000000515/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=IguVerse/arc_id=AMB:IGU000000515/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=IguVerse/arc_id=AMB:IGU000000515/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=IguVerse/arc_id=AMB:IGU000000515/exchange=huobi/data.json"
+        ]
+    }
+}

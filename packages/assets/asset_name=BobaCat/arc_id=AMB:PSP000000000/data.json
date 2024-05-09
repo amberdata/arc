@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "psps",
+    "assetName": "BobaCat",
+    "assetArcId": "AMB:PSP000000000",
+    "website": "https://www.bobacat.io/",
+    "whitePaperUrl": "https://bobacat.gitbook.io/docs",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=BobaCat/arc_id=AMB:PSP000000000/exchange=mexc/data.json"
+        ]
+    }
+}

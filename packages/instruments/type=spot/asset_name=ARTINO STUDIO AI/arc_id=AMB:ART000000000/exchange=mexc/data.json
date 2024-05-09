@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ART000000000_AMB:USD000000335",
+        "normalizedPair": "artino_usdt",
+        "normalizedSymbol": "artino",
+        "nativePair": "ARTINOUSDT",
+        "exchange": "mexc",
+        "assetName": "ARTINO STUDIO AI",
+        "assetArcId": "AMB:ART000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "artino_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "aikidoge",
+    "assetName": "AIKIDOGE",
+    "assetArcId": "AMB:AIK000000000",
+    "website": "https://aikidoge.com/",
+    "whitePaperUrl": "/how-to-buy/AIKIDOGE?utm_source=mexc&utm_medium=tokenifoAIKIDOGE&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=AIKIDOGE/arc_id=AMB:AIK000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "etf",
+    "assetName": "ETF",
+    "assetArcId": "AMB:ETF000002709",
+    "website": "https://www.etfcoin.dev/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x2FcBD5a6eb694d573D280664393681cB52b9a98b"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

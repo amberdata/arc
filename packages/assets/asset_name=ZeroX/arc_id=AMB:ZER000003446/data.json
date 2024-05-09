@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "zerox",
+    "assetName": "ZeroX",
+    "assetArcId": "AMB:ZER000003446",
+    "website": "https://zeroxspace.com/",
+    "whitePaperUrl": "https://zerox2047.gitbook.io/zerox2047/~/changes/tMwAZtiVlpOzdaQophOf/tokenomics/zerox",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=ZeroX/arc_id=AMB:ZER000003446/exchange=mexc/data.json"
+        ]
+    }
+}

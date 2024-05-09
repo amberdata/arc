@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cvt",
+    "assetName": "CyberVein",
+    "assetArcId": "AMB:CVT000001573",
+    "website": "www.cybervein.org",
+    "whitePaperUrl": "https://www.cybervein.org/whitepaper",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=CyberVein/arc_id=AMB:CVT000001573/exchange=mexc/data.json"
+        ]
+    }
+}

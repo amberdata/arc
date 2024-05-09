@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "vooxai",
+    "assetName": "VOOXAI",
+    "assetArcId": "AMB:VOO000000000",
+    "website": "https://vooxai.com/",
+    "whitePaperUrl": "https://voox-ai.gitbook.io/wp",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=VOOXAI/arc_id=AMB:VOO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "qtk",
+    "assetName": "QuantCheck",
+    "assetArcId": "AMB:QTK000000000",
+    "website": "https://www.quantcheck.com/",
+    "whitePaperUrl": "https://drive.google.com/file/d/102xkHbljsER5YGzlM0QWEtJKwUFZWOid/view",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main//packages/instruments/type=spot/asset_name=QuantCheck/arc_id=AMB:QTK000000000/exchange=mexc/data.json"
+        ]
+    }
+}
