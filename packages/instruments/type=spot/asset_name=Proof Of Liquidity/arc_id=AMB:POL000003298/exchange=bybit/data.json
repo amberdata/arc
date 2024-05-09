@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POL000003298_AMB:USD000000335",
+        "normalizedPair": "pol_usdt",
+        "normalizedSymbol": "pol",
+        "nativePair": "POLUSDT",
+        "exchange": "bybit",
+        "assetName": "Proof Of Liquidity",
+        "assetArcId": "AMB:POL000003298",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pol_usdt",
+        "instrumentType": "spot"
+    }
+]

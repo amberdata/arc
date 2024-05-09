@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AMB000000000_AMB:USD000000335",
+        "normalizedPair": "ambo_usdt",
+        "normalizedSymbol": "ambo",
+        "nativePair": "AMBOUSDT",
+        "exchange": "mexc",
+        "assetName": "Sheertopia",
+        "assetArcId": "AMB:AMB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ambo_usdt",
+        "instrumentType": "spot"
+    }
+]

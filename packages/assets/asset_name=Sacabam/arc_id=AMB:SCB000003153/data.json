@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "scb",
+    "assetName": "Sacabam",
+    "assetArcId": "AMB:SCB000003153",
+    "website": "https://sacabam.fun/",
+    "whitePaperUrl": "/how-to-buy/SCB?utm_source=mexc&utm_medium=tokenifoSCB&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sacabam/arc_id=AMB:SCB000003153/exchange=mexc/data.json"
+        ]
+    }
+}

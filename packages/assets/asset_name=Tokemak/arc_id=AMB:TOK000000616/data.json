@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "toke",
+    "assetName": "Tokemak",
+    "assetArcId": "AMB:TOK000000616",
+    "website": "https://www.tokemak.xyz/",
+    "whitePaperUrl": "/how-to-buy/TOKE?utm_source=mexc&utm_medium=tokenifoTOKE&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tokemak/arc_id=AMB:TOK000000616/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tokemak/arc_id=AMB:TOK000000616/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tokemak/arc_id=AMB:TOK000000616/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tokemak/arc_id=AMB:TOK000000616/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tokemak/arc_id=AMB:TOK000000616/exchange=mexc/data.json"
+        ]
+    }
+}

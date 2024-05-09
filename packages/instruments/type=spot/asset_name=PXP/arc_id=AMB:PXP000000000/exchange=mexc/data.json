@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PXP000000000_AMB:USD000000335",
+        "normalizedPair": "pxp_usdt",
+        "normalizedSymbol": "pxp",
+        "nativePair": "PXPUSDT",
+        "exchange": "mexc",
+        "assetName": "PXP",
+        "assetArcId": "AMB:PXP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pxp_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GOD000000000_AMB:USD000000335",
+        "normalizedPair": "godz_usdt",
+        "normalizedSymbol": "godz",
+        "nativePair": "GODZUSDT",
+        "exchange": "mexc",
+        "assetName": "Cryptogodz",
+        "assetArcId": "AMB:GOD000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "godz_usdt",
+        "instrumentType": "spot"
+    }
+]

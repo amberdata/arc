@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOK000000000_AMB:USD000000335",
+        "normalizedPair": "toka_usdt",
+        "normalizedSymbol": "toka",
+        "nativePair": "TOKAUSDT",
+        "exchange": "mexc",
+        "assetName": "Tonka Finance",
+        "assetArcId": "AMB:TOK000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "toka_usdt",
+        "instrumentType": "spot"
+    }
+]

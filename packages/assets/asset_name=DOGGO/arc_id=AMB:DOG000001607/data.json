@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "doggo",
+    "assetName": "DOGGO",
+    "assetArcId": "AMB:DOG000001607",
+    "website": "https://viktordao.io/",
+    "whitePaperUrl": "https://viktordao.gitbook.io/usddoggo/",
+    "classificationTags": [
+        "Meme",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DOGGO/arc_id=AMB:DOG000001607/exchange=mexc/data.json"
+        ]
+    }
+}

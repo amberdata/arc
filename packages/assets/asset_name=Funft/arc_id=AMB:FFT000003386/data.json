@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "fft",
+    "assetName": "Funft",
+    "assetArcId": "AMB:FFT000003386",
+    "website": "https://www.funft.land/",
+    "whitePaperUrl": "https://thefunft.gitbook.io/funft-whitepaper/",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Funft/arc_id=AMB:FFT000003386/exchange=mexc/data.json"
+        ]
+    }
+}

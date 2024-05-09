@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "krl",
+    "assetName": "kryll",
+    "assetArcId": "AMB:KRL000000416",
+    "website": "https://kryll.io/",
+    "whitePaperUrl": "https://kryll.io/pdf/WhitePaper.pdf",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

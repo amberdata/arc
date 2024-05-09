@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "paws",
+    "assetName": "Quantum PAWS",
+    "assetArcId": "AMB:PAW000000000",
+    "website": "https://quantumpaws.me/",
+    "whitePaperUrl": "/how-to-buy/PAWS?utm_source=mexc&utm_medium=tokenifoPAWS&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Quantum PAWS/arc_id=AMB:PAW000000000/exchange=mexc/data.json"
+        ]
+    }
+}

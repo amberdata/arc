@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "xaigrok",
+    "assetName": "XAIGROK",
+    "assetArcId": "AMB:XAI000003144",
+    "website": "https://xaigrok.ai/#",
+    "whitePaperUrl": "/how-to-buy/XAIGROK?utm_source=mexc&utm_medium=tokenifoXAIGROK&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=XAIGROK/arc_id=AMB:XAI000003144/exchange=mexc/data.json"
+        ]
+    }
+}

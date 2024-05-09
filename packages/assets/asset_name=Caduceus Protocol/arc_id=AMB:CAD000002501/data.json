@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cad",
+    "assetName": "Caduceus Protocol",
+    "assetArcId": "AMB:CAD000002501",
+    "website": "https://www.caduceus.foundation/",
+    "whitePaperUrl": "https://www.caduceus.foundation/Caduceus_white_paperV1.1.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Caduceus Protocol/arc_id=AMB:CAD000002501/exchange=mexc/data.json"
+        ]
+    }
+}

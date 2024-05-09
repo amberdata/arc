@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "ti",
+    "assetName": "Titanium22",
+    "assetArcId": "AMB:TIA000000000",
+    "website": "https://www.ti22.io/",
+    "whitePaperUrl": "/how-to-buy/TI?utm_source=mexc&utm_medium=tokenifoTI&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Titanium22/arc_id=AMB:TIA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

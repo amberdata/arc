@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AI1000000000_AMB:USD000000335",
+        "normalizedPair": "ai1_usdt",
+        "normalizedSymbol": "ai1",
+        "nativePair": "AI1_USDT",
+        "exchange": "poloniex",
+        "assetName": "Sleepless AI",
+        "assetArcId": "AMB:AI1000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ai1_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "arcPairId": "AMB:DYD000000108_AMB:BNB000000055",
+        "normalizedPair": "dydx_bnb",
+        "normalizedSymbol": "dydx",
+        "nativePair": "DYDXBNB",
+        "exchange": "binance",
+        "assetName": "dYdX",
+        "assetArcId": "AMB:DYD000000108",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "dydx_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DYD000000108_AMB:BTC000000000",
+        "normalizedPair": "dydx_btc",
+        "normalizedSymbol": "dydx",
+        "nativePair": "DYDXBTC",
+        "exchange": "binance",
+        "assetName": "dYdX",
+        "assetArcId": "AMB:DYD000000108",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "dydx_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DYD000000108_AMB:BUS000000067",
+        "normalizedPair": "dydx_busd",
+        "normalizedSymbol": "dydx",
+        "nativePair": "DYDXBUSD",
+        "exchange": "binance",
+        "assetName": "dYdX",
+        "assetArcId": "AMB:DYD000000108",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "dydx_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DYD000000108_AMB:USD000000335",
+        "normalizedPair": "dydx_usdt",
+        "normalizedSymbol": "dydx",
+        "nativePair": "DYDXUSDT",
+        "exchange": "binance",
+        "assetName": "dYdX",
+        "assetArcId": "AMB:DYD000000108",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dydx_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DYD000000108_AMB:FDU000000122",
+        "normalizedPair": "dydx_fdusd",
+        "normalizedSymbol": "dydx",
+        "nativePair": "DYDXFDUSD",
+        "exchange": "binance",
+        "assetName": "dYdX",
+        "assetArcId": "AMB:DYD000000108",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "dydx_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DYD000000108_AMB:TRY000000940",
+        "normalizedPair": "dydx_try",
+        "normalizedSymbol": "dydx",
+        "nativePair": "DYDXTRY",
+        "exchange": "binance",
+        "assetName": "dYdX",
+        "assetArcId": "AMB:DYD000000108",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "dydx_try",
+        "instrumentType": "spot"
+    }
+]

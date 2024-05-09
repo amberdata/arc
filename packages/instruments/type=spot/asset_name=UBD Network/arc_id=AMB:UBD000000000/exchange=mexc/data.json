@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UBD000000000_AMB:USD000000335",
+        "normalizedPair": "ubdn_usdt",
+        "normalizedSymbol": "ubdn",
+        "nativePair": "UBDNUSDT",
+        "exchange": "mexc",
+        "assetName": "UBD Network",
+        "assetArcId": "AMB:UBD000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ubdn_usdt",
+        "instrumentType": "spot"
+    }
+]

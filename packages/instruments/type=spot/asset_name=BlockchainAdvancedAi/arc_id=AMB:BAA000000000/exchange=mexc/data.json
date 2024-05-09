@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAA000000000_AMB:USD000000335",
+        "normalizedPair": "baa_usdt",
+        "normalizedSymbol": "baa",
+        "nativePair": "BAAUSDT",
+        "exchange": "mexc",
+        "assetName": "BlockchainAdvancedAi",
+        "assetArcId": "AMB:BAA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "baa_usdt",
+        "instrumentType": "spot"
+    }
+]

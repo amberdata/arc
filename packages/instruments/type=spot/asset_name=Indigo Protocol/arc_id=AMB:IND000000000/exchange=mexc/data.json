@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IND000000000_AMB:USD000000335",
+        "normalizedPair": "indy_usdt",
+        "normalizedSymbol": "indy",
+        "nativePair": "INDYUSDT",
+        "exchange": "mexc",
+        "assetName": "Indigo Protocol",
+        "assetArcId": "AMB:IND000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "indy_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NLI000003496_AMB:USD000000335",
+        "normalizedPair": "nlink_usdt",
+        "normalizedSymbol": "nlink",
+        "nativePair": "NLINKUSDT",
+        "exchange": "mexc",
+        "assetName": "Neuralink",
+        "assetArcId": "AMB:NLI000003496",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nlink_usdt",
+        "instrumentType": "spot"
+    }
+]

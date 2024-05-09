@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "golc",
+    "assetName": "GOLCOIN",
+    "assetArcId": "AMB:GOL000001717",
+    "website": "https://golex.io/",
+    "whitePaperUrl": "https://golcoin.io/assets/pdf/white_paper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GOLCOIN/arc_id=AMB:GOL000001717/exchange=mexc/data.json"
+        ]
+    }
+}

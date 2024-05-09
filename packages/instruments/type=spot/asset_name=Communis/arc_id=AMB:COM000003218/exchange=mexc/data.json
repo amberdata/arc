@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COM000003218_AMB:USD000000335",
+        "normalizedPair": "com_usdt",
+        "normalizedSymbol": "com",
+        "nativePair": "COMUSDT",
+        "exchange": "mexc",
+        "assetName": "Communis",
+        "assetArcId": "AMB:COM000003218",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "com_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "glint",
+    "assetName": "Beamswap Token",
+    "assetArcId": "AMB:GLI000003108",
+    "website": "https://beamswap.io/",
+    "whitePaperUrl": "https://docs.beamswap.io/",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

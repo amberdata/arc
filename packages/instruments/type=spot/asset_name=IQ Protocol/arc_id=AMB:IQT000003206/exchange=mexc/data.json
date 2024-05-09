@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IQT000003206_AMB:USD000000335",
+        "normalizedPair": "iqt_usdt",
+        "normalizedSymbol": "iqt",
+        "nativePair": "IQTUSDT",
+        "exchange": "mexc",
+        "assetName": "IQ Protocol",
+        "assetArcId": "AMB:IQT000003206",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "iqt_usdt",
+        "instrumentType": "spot"
+    }
+]

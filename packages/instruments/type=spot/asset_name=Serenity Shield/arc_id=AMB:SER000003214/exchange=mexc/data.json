@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SER000003214_AMB:USD000000335",
+        "normalizedPair": "sersh_usdt",
+        "normalizedSymbol": "sersh",
+        "nativePair": "SERSHUSDT",
+        "exchange": "mexc",
+        "assetName": "Serenity Shield",
+        "assetArcId": "AMB:SER000003214",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sersh_usdt",
+        "instrumentType": "spot"
+    }
+]

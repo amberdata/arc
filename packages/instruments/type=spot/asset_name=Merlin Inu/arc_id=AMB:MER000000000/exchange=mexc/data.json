@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MER000000000_AMB:USD000000335",
+        "normalizedPair": "merlininu_usdt",
+        "normalizedSymbol": "merlininu",
+        "nativePair": "MERLININUUSDT",
+        "exchange": "mexc",
+        "assetName": "Merlin Inu",
+        "assetArcId": "AMB:MER000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "merlininu_usdt",
+        "instrumentType": "spot"
+    }
+]

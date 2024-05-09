@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "justanegg",
+    "assetName": "JustAnEgg",
+    "assetArcId": "AMB:JUS000000000",
+    "website": "https://justanegg.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "wo1zgt8rfrYpvdVi4nidoj1SYfcR4pQx69bmNv2JLhQ"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=JustAnEgg/arc_id=AMB:JUS000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

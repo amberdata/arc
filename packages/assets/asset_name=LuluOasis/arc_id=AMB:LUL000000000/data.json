@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "lulu",
+    "assetName": "LuluOasis",
+    "assetArcId": "AMB:LUL000000000",
+    "website": "https://luluoasis.online/",
+    "whitePaperUrl": "https://luluoasis-whitepaper.gitbook.io/luluoasis-whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=LuluOasis/arc_id=AMB:LUL000000000/exchange=mexc/data.json"
+        ]
+    }
+}

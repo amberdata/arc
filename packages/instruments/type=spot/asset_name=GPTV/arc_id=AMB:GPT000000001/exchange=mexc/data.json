@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GPT000000001_AMB:USD000000335",
+        "normalizedPair": "gptv_usdt",
+        "normalizedSymbol": "gptv",
+        "nativePair": "GPTVUSDT",
+        "exchange": "mexc",
+        "assetName": "GPTV",
+        "assetArcId": "AMB:GPT000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gptv_usdt",
+        "instrumentType": "spot"
+    }
+]

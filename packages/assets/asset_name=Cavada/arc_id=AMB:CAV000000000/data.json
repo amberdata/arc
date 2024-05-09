@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cavada",
+    "assetName": "Cavada",
+    "assetArcId": "AMB:CAV000000000",
+    "website": "https://cavada.org/",
+    "whitePaperUrl": "https://cavada.gitbook.io/cavada-whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cavada/arc_id=AMB:CAV000000000/exchange=mexc/data.json"
+        ]
+    }
+}

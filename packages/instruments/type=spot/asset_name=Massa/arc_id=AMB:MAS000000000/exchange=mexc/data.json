@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAS000000000_AMB:USD000000335",
+        "normalizedPair": "mas_usdt",
+        "normalizedSymbol": "mas",
+        "nativePair": "MASUSDT",
+        "exchange": "mexc",
+        "assetName": "Massa",
+        "assetArcId": "AMB:MAS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mas_usdt",
+        "instrumentType": "spot"
+    }
+]

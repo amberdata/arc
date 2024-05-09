@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "pepedao2",
+    "assetName": "PEPE DAO",
+    "assetArcId": "AMB:PEP000002061",
+    "website": "https://www.pepedao.club/",
+    "whitePaperUrl": "/how-to-buy/PEPEDAO2?utm_source=mexc&utm_medium=tokenifoPEPEDAO2&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PEPE DAO/arc_id=AMB:PEP000002061/exchange=mexc/data.json"
+        ]
+    }
+}

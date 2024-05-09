@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AGI000002862_AMB:USD000000335",
+        "normalizedPair": "agii_usdt",
+        "normalizedSymbol": "agii",
+        "nativePair": "AGIIUSDT",
+        "exchange": "mexc",
+        "assetName": "AGII",
+        "assetArcId": "AMB:AGI000002862",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "agii_usdt",
+        "instrumentType": "spot"
+    }
+]

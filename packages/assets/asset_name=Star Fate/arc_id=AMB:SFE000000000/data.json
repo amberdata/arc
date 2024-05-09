@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "sfe",
+    "assetName": "Star Fate",
+    "assetArcId": "AMB:SFE000000000",
+    "website": "https://www.starfatetoken.net/",
+    "whitePaperUrl": "https://star-fate.gitbook.io/star-fate",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Star Fate/arc_id=AMB:SFE000000000/exchange=mexc/data.json"
+        ]
+    }
+}

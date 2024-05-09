@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "sbf",
+    "assetName": "Sam Bankmeme-Fried",
+    "assetArcId": "AMB:SBF000003146",
+    "website": "https://www.sambankmeme.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "FkbWN4dcFQym2PgCELfThghQqLuA2e2jThMJyhZjfG4M"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

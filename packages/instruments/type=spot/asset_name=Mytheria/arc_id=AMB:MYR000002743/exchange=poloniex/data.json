@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MYR000002743_AMB:USD000000335",
+        "normalizedPair": "myra_usdt",
+        "normalizedSymbol": "myra",
+        "nativePair": "MYRA_USDT",
+        "exchange": "poloniex",
+        "assetName": "Mytheria",
+        "assetArcId": "AMB:MYR000002743",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "myra_usdt",
+        "instrumentType": "spot"
+    }
+]

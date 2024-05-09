@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TMT000002758_AMB:USD000000335",
+        "normalizedPair": "tmt_usdt",
+        "normalizedSymbol": "tmt",
+        "nativePair": "TMTUSDT",
+        "exchange": "mexc",
+        "assetName": "TopManager",
+        "assetArcId": "AMB:TMT000002758",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tmt_usdt",
+        "instrumentType": "spot"
+    }
+]

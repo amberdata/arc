@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SCP000003240_AMB:USD000000335",
+        "normalizedPair": "scpt_usdt",
+        "normalizedSymbol": "scpt",
+        "nativePair": "SCPTUSDT",
+        "exchange": "mexc",
+        "assetName": "Script Network",
+        "assetArcId": "AMB:SCP000003240",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "scpt_usdt",
+        "instrumentType": "spot"
+    }
+]

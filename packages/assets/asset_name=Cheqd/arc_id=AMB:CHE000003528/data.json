@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cheq",
+    "assetName": "Cheqd",
+    "assetArcId": "AMB:CHE000003528",
+    "website": "https://cheqd.io/",
+    "whitePaperUrl": "https://learn.cheqd.io/",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

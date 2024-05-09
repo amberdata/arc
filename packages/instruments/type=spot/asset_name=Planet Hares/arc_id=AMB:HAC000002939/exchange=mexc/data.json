@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HAC000002939_AMB:USD000000335",
+        "normalizedPair": "hac_usdt",
+        "normalizedSymbol": "hac",
+        "nativePair": "HACUSDT",
+        "exchange": "mexc",
+        "assetName": "Planet Hares",
+        "assetArcId": "AMB:HAC000002939",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hac_usdt",
+        "instrumentType": "spot"
+    }
+]

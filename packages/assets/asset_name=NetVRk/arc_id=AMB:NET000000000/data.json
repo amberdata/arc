@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "netvr",
+    "assetName": "NetVRk",
+    "assetArcId": "AMB:NET000000000",
+    "website": "https://netvrk.co/",
+    "whitePaperUrl": "/how-to-buy/NETVR?utm_source=mexc&utm_medium=tokenifoNETVR&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NetVRk/arc_id=AMB:NET000000000/exchange=mexc/data.json"
+        ]
+    }
+}

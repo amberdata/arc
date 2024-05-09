@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XUA000000000_AMB:USD000000335",
+        "normalizedPair": "xua_usdt",
+        "normalizedSymbol": "xua",
+        "nativePair": "XUAUSDT",
+        "exchange": "mexc",
+        "assetName": "XuruAI",
+        "assetArcId": "AMB:XUA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xua_usdt",
+        "instrumentType": "spot"
+    }
+]

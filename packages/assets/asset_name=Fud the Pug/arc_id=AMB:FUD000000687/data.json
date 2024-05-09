@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "fud",
+    "assetName": "Fud the Pug",
+    "assetArcId": "AMB:FUD000000687",
+    "website": "http://www.fudthepug.com/",
+    "whitePaperUrl": "/how-to-buy/FUD?utm_source=mexc&utm_medium=tokenifoFUD&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Fud the Pug/arc_id=AMB:FUD000000687/exchange=mexc/data.json"
+        ]
+    }
+}

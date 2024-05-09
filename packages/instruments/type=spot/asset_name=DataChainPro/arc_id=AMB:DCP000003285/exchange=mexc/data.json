@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DCP000003285_AMB:USD000000335",
+        "normalizedPair": "dcp_usdt",
+        "normalizedSymbol": "dcp",
+        "nativePair": "DCPUSDT",
+        "exchange": "mexc",
+        "assetName": "DataChainPro",
+        "assetArcId": "AMB:DCP000003285",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dcp_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "bad",
+    "assetName": "Bad Idea AI",
+    "assetArcId": "AMB:BAD000001189",
+    "website": "https://badidea.ai/",
+    "whitePaperUrl": "https://static1.squarespace.com/static/64568e2523471d05956228f1/t/64570517d89163351580ef5c/1683424539459/BAD+IDEA+AI+WHITEPAPER+v1.0.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bad Idea AI/arc_id=AMB:BAD000001189/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bad Idea AI/arc_id=AMB:BAD000001189/exchange=mexc/data.json"
+        ]
+    }
+}

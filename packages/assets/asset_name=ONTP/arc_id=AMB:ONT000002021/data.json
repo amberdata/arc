@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ontp",
+    "assetName": "ONTP",
+    "assetArcId": "AMB:ONT000002021",
+    "website": "https://www.ontactprotocol.io/",
+    "whitePaperUrl": "https://ontactprotocol-team.gitbook.io/ontactprotocol_en/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ONTP/arc_id=AMB:ONT000002021/exchange=mexc/data.json"
+        ]
+    }
+}

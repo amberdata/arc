@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:DOG000000104_AMB:BTC000000000",
+        "normalizedPair": "doge_btc",
+        "normalizedSymbol": "doge",
+        "nativePair": "dogebtc",
+        "exchange": "gemini",
+        "assetName": "Dogecoin",
+        "assetArcId": "AMB:DOG000000104",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "doge_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DOG000000104_AMB:ETH000000000",
+        "normalizedPair": "doge_eth",
+        "normalizedSymbol": "doge",
+        "nativePair": "dogeeth",
+        "exchange": "gemini",
+        "assetName": "Dogecoin",
+        "assetArcId": "AMB:DOG000000104",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "doge_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DOG000000104_AMB:USD000000949",
+        "normalizedPair": "doge_usd",
+        "normalizedSymbol": "doge",
+        "nativePair": "dogeusd",
+        "exchange": "gemini",
+        "assetName": "Dogecoin",
+        "assetArcId": "AMB:DOG000000104",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "doge_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DOG000000104_AMB:GUS000000410",
+        "normalizedPair": "doge_gusd",
+        "normalizedSymbol": "doge",
+        "nativePair": "dogegusdperp",
+        "exchange": "gemini",
+        "assetName": "Dogecoin",
+        "assetArcId": "AMB:DOG000000104",
+        "quoteArcId": "AMB:GUS000000410",
+        "collectedPair": "doge_gusd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "assetSymbol": "psi",
+    "assetName": "TridentDAO",
+    "assetArcId": "AMB:PSI000001289",
+    "website": "https://trident.game/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming",
+        "Privacy"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Arbitrum",
+            "address": "0x602eb0d99a5e3e76d1510372c4d2020e12eaea8a"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TridentDAO/arc_id=AMB:PSI000001289/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TridentDAO/arc_id=AMB:PSI000001289/exchange=mexc/data.json"
+        ]
+    }
+}

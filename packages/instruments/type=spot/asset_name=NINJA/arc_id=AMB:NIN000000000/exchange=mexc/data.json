@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NIN000000000_AMB:USD000000335",
+        "normalizedPair": "ninja_usdt",
+        "normalizedSymbol": "ninja",
+        "nativePair": "NINJAUSDT",
+        "exchange": "mexc",
+        "assetName": "NINJA",
+        "assetArcId": "AMB:NIN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ninja_usdt",
+        "instrumentType": "spot"
+    }
+]

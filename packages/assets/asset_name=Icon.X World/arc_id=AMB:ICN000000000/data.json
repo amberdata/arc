@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "icnx",
+    "assetName": "Icon.X World",
+    "assetArcId": "AMB:ICN000000000",
+    "website": "https://iconx.world/",
+    "whitePaperUrl": "https://iconxworld.gitbook.io/icon.x-world-litepaper-v0.1/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Icon.X World/arc_id=AMB:ICN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "aventisai",
+    "assetName": "Aventis AI",
+    "assetArcId": "AMB:AVE000000000",
+    "website": "https://aventismetaverse.com/",
+    "whitePaperUrl": "https://avtm.gitbook.io/whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aventis AI/arc_id=AMB:AVE000000000/exchange=mexc/data.json"
+        ]
+    }
+}

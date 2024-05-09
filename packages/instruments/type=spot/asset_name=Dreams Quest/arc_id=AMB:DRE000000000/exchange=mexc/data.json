@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DRE000000000_AMB:USD000000335",
+        "normalizedPair": "dreams_usdt",
+        "normalizedSymbol": "dreams",
+        "nativePair": "DREAMSUSDT",
+        "exchange": "mexc",
+        "assetName": "Dreams Quest",
+        "assetArcId": "AMB:DRE000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dreams_usdt",
+        "instrumentType": "spot"
+    }
+]

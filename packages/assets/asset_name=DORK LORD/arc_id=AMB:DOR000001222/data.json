@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "dorkl",
+    "assetName": "DORK LORD",
+    "assetArcId": "AMB:DOR000001222",
+    "website": "https://dorklord.vip/",
+    "whitePaperUrl": "/how-to-buy/DORKL?utm_source=mexc&utm_medium=tokenifoDORKL&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DORK LORD/arc_id=AMB:DOR000001222/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DORK LORD/arc_id=AMB:DOR000001222/exchange=mexc/data.json"
+        ]
+    }
+}

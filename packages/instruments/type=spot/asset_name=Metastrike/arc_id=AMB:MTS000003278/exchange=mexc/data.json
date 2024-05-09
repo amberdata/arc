@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MTS000003278_AMB:USD000000335",
+        "normalizedPair": "mts_usdt",
+        "normalizedSymbol": "mts",
+        "nativePair": "MTSUSDT",
+        "exchange": "mexc",
+        "assetName": "Metastrike",
+        "assetArcId": "AMB:MTS000003278",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mts_usdt",
+        "instrumentType": "spot"
+    }
+]

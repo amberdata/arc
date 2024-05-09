@@ -1,0 +1,11 @@
+{
+    "assetSymbol": "wbrge",
+    "assetName": "OrdBridge",
+    "assetArcId": "AMB:WBR000003246",
+    "website": "https://ordbridge.io/",
+    "whitePaperUrl": "https://ordbridge.gitbook.io/ordbridge-a-2-way-bridge-between-brc20-and-erc20",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

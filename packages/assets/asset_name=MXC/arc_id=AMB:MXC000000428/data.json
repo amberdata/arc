@@ -1,0 +1,26 @@
+{
+    "assetSymbol": "mxc",
+    "assetName": "MXC",
+    "assetArcId": "AMB:MXC000000428",
+    "website": "https://www.mxc.org/",
+    "whitePaperUrl": "https://uploads-ssl.webflow.com/6253d5b96f29fe54ae351282/62ac6a8258d4444298e626df_meta-x-connect-white-paper.pdf",
+    "classificationTags": [
+        "DEX"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x5ca381bbfb58f0092df149bd3d243b08b9a8386e"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MXC/arc_id=AMB:MXC000000428/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MXC/arc_id=AMB:MXC000000428/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MXC/arc_id=AMB:MXC000000428/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MXC/arc_id=AMB:MXC000000428/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MXC/arc_id=AMB:MXC000000428/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MXC/arc_id=AMB:MXC000000428/exchange=kraken/data.json"
+        ]
+    }
+}

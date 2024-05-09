@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ODO000000000_AMB:USD000000335",
+        "normalizedPair": "odoge_usdt",
+        "normalizedSymbol": "odoge",
+        "nativePair": "ODOGEUSDT",
+        "exchange": "mexc",
+        "assetName": "Ordinal Doge",
+        "assetArcId": "AMB:ODO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "odoge_usdt",
+        "instrumentType": "spot"
+    }
+]

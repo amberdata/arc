@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ANI000003468_AMB:USD000000335",
+        "normalizedPair": "animal_usdt",
+        "normalizedSymbol": "animal",
+        "nativePair": "ANIMALUSDT",
+        "exchange": "mexc",
+        "assetName": "Animal army",
+        "assetArcId": "AMB:ANI000003468",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "animal_usdt",
+        "instrumentType": "spot"
+    }
+]

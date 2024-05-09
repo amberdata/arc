@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OM3000003518_AMB:USD000000335",
+        "normalizedPair": "om3_usdt",
+        "normalizedSymbol": "om3",
+        "nativePair": "OM3USDT",
+        "exchange": "mexc",
+        "assetName": "Oracle Mesh",
+        "assetArcId": "AMB:OM3000003518",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "om3_usdt",
+        "instrumentType": "spot"
+    }
+]

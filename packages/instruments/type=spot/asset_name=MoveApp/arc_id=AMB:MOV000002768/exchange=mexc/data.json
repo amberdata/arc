@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MOV000002768_AMB:USD000000335",
+        "normalizedPair": "move_usdt",
+        "normalizedSymbol": "move",
+        "nativePair": "MOVEUSDT",
+        "exchange": "mexc",
+        "assetName": "MoveApp",
+        "assetArcId": "AMB:MOV000002768",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "move_usdt",
+        "instrumentType": "spot"
+    }
+]

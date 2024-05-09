@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "shaun",
+    "assetName": "SHAUN INU",
+    "assetArcId": "AMB:SHA000002174",
+    "website": "https://shauninu.io/",
+    "whitePaperUrl": "https://shaun-inu.gitbook.io/docs/",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SHAUN INU/arc_id=AMB:SHA000002174/exchange=mexc/data.json"
+        ]
+    }
+}

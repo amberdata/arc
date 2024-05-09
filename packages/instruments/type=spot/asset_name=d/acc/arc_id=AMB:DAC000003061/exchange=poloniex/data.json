@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DAC000003061_AMB:USD000000335",
+        "normalizedPair": "dacc_usdt",
+        "normalizedSymbol": "dacc",
+        "nativePair": "DACC_USDT",
+        "exchange": "poloniex",
+        "assetName": "d/acc",
+        "assetArcId": "AMB:DAC000003061",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dacc_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "mnft",
+    "assetName": "MongolNFT",
+    "assetArcId": "AMB:MNF000001941",
+    "website": "https://mnftcoin.com/",
+    "whitePaperUrl": "https://media.mongolnft.xyz/whitepaper/MNFT.pdf",
+    "classificationTags": [
+        "Gaming",
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

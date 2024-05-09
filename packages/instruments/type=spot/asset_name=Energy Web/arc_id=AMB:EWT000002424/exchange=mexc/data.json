@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EWT000002424_AMB:USD000000335",
+        "normalizedPair": "ewt_usdt",
+        "normalizedSymbol": "ewt",
+        "nativePair": "EWTUSDT",
+        "exchange": "mexc",
+        "assetName": "Energy Web",
+        "assetArcId": "AMB:EWT000002424",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ewt_usdt",
+        "instrumentType": "spot"
+    }
+]

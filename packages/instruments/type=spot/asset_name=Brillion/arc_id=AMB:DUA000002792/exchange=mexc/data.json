@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DUA000002792_AMB:USD000000335",
+        "normalizedPair": "dua_usdt",
+        "normalizedSymbol": "dua",
+        "nativePair": "DUAUSDT",
+        "exchange": "mexc",
+        "assetName": "Brillion",
+        "assetArcId": "AMB:DUA000002792",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dua_usdt",
+        "instrumentType": "spot"
+    }
+]

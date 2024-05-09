@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FOG000002945_AMB:USD000000335",
+        "normalizedPair": "fogr_usdt",
+        "normalizedSymbol": "fogr",
+        "nativePair": "FOGRUSDT",
+        "exchange": "mexc",
+        "assetName": "FOGR Computing Chain",
+        "assetArcId": "AMB:FOG000002945",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fogr_usdt",
+        "instrumentType": "spot"
+    }
+]

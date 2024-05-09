@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ORD000002960_AMB:USD000000335",
+        "normalizedPair": "ords_usdt",
+        "normalizedSymbol": "ords",
+        "nativePair": "ORDSUSDT",
+        "exchange": "mexc",
+        "assetName": "Ordiswap",
+        "assetArcId": "AMB:ORD000002960",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ords_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SYL000000000_AMB:USD000000335",
+        "normalizedPair": "syl_usdt",
+        "normalizedSymbol": "syl",
+        "nativePair": "SYLUSDT",
+        "exchange": "mexc",
+        "assetName": "MyDid",
+        "assetArcId": "AMB:SYL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "syl_usdt",
+        "instrumentType": "spot"
+    }
+]

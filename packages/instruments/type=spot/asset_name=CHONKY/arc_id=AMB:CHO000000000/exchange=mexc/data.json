@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHO000000000_AMB:USD000000335",
+        "normalizedPair": "chonky_usdt",
+        "normalizedSymbol": "chonky",
+        "nativePair": "CHONKYUSDT",
+        "exchange": "mexc",
+        "assetName": "CHONKY",
+        "assetArcId": "AMB:CHO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "chonky_usdt",
+        "instrumentType": "spot"
+    }
+]

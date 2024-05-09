@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "zigap",
+    "assetName": "ZIGAP",
+    "assetArcId": "AMB:ZIG000000000",
+    "website": "https://about.zigap.io/",
+    "whitePaperUrl": "http://whitepaper.zigap.io",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZIGAP/arc_id=AMB:ZIG000000000/exchange=mexc/data.json"
+        ]
+    }
+}

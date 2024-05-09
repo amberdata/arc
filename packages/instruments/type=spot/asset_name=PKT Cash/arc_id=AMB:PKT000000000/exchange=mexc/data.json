@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PKT000000000_AMB:USD000000335",
+        "normalizedPair": "pkt_usdt",
+        "normalizedSymbol": "pkt",
+        "nativePair": "PKTUSDT",
+        "exchange": "mexc",
+        "assetName": "PKT Cash",
+        "assetArcId": "AMB:PKT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pkt_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "nfe",
+    "assetName": "Edu3Labs",
+    "assetArcId": "AMB:NFE000000000",
+    "website": "https://edu3labs.com/",
+    "whitePaperUrl": "http://docs.edu3labs.com/",
+    "classificationTags": [
+        "Content & Streaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Edu3Labs/arc_id=AMB:NFE000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PMP000003109_AMB:USD000000335",
+        "normalizedPair": "pmpy_usdt",
+        "normalizedSymbol": "pmpy",
+        "nativePair": "PMPYUSDT",
+        "exchange": "mexc",
+        "assetName": "Prometheum Prodigy",
+        "assetArcId": "AMB:PMP000003109",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pmpy_usdt",
+        "instrumentType": "spot"
+    }
+]

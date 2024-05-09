@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dd",
+    "assetName": "DuckDAO",
+    "assetArcId": "AMB:DDA000003327",
+    "website": "http://duckdao.io/",
+    "whitePaperUrl": "/how-to-buy/DD?utm_source=mexc&utm_medium=tokenifoDD&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DuckDAO/arc_id=AMB:DDA000003327/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "vault",
+    "assetName": "VaultTech",
+    "assetArcId": "AMB:VAU000003106",
+    "website": "https://vault.tech/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x7f9b09f4717072cf4dc18b95d1b09e2b30c76790"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

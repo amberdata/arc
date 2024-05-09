@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ELF000000000_AMB:USD000000335",
+        "normalizedPair": "elft_usdt",
+        "normalizedSymbol": "elft",
+        "nativePair": "ELFTUSDT",
+        "exchange": "mexc",
+        "assetName": "THE LAND ELF",
+        "assetArcId": "AMB:ELF000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "elft_usdt",
+        "instrumentType": "spot"
+    }
+]

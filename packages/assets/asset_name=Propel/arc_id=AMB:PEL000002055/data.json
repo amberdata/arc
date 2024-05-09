@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "pel",
+    "assetName": "Propel",
+    "assetArcId": "AMB:PEL000002055",
+    "website": "https://www.propel.xyz/",
+    "whitePaperUrl": "https://docs.propel.xyz/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Propel/arc_id=AMB:PEL000002055/exchange=mexc/data.json"
+        ]
+    }
+}

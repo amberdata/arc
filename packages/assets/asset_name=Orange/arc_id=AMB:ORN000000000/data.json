@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ornj",
+    "assetName": "Orange",
+    "assetArcId": "AMB:ORN000000000",
+    "website": "https://www.orangecrypto.com/",
+    "whitePaperUrl": "https://docs.orangecrypto.com/token/utility",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orange/arc_id=AMB:ORN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MPR000003137_AMB:USD000000335",
+        "normalizedPair": "mpr_usdt",
+        "normalizedSymbol": "mpr",
+        "nativePair": "MPRUSDT",
+        "exchange": "mexc",
+        "assetName": "Mopher",
+        "assetArcId": "AMB:MPR000003137",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mpr_usdt",
+        "instrumentType": "spot"
+    }
+]

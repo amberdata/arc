@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XER000000000_AMB:USD000000335",
+        "normalizedPair": "xers_usdt",
+        "normalizedSymbol": "xers",
+        "nativePair": "XERSUSDT",
+        "exchange": "mexc",
+        "assetName": "X Project",
+        "assetArcId": "AMB:XER000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xers_usdt",
+        "instrumentType": "spot"
+    }
+]

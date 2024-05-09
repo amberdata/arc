@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "nrk",
+    "assetName": "Nordek",
+    "assetArcId": "AMB:NRK000001993",
+    "website": "https://nordek.io/",
+    "whitePaperUrl": "https://nordek.io/NORDEK%20WHITEPAPER.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Nordek/arc_id=AMB:NRK000001993/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TKX000003222_AMB:USD000000335",
+        "normalizedPair": "tkx_usdt",
+        "normalizedSymbol": "tkx",
+        "nativePair": "TKXUSDT",
+        "exchange": "mexc",
+        "assetName": "Tokenize Xchange",
+        "assetArcId": "AMB:TKX000003222",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tkx_usdt",
+        "instrumentType": "spot"
+    }
+]

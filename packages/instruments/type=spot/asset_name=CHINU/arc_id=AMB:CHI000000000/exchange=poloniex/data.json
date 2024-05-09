@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHI000000000_AMB:USD000000335",
+        "normalizedPair": "chinu_usdt",
+        "normalizedSymbol": "chinu",
+        "nativePair": "CHINU_USDT",
+        "exchange": "poloniex",
+        "assetName": "CHINU",
+        "assetArcId": "AMB:CHI000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "chinu_usdt",
+        "instrumentType": "spot"
+    }
+]

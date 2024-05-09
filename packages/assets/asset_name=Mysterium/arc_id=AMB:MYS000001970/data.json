@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "myst",
+    "assetName": "Mysterium",
+    "assetArcId": "AMB:MYS000001970",
+    "website": "https://www.mysterium.network/",
+    "whitePaperUrl": "https://5b19bf8d-bbd1-440a-abc6-5752806c93fa.usrfiles.com/ugd/5b19bf_23f6ba0a2028403db1dcd6357f903982.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mysterium/arc_id=AMB:MYS000001970/exchange=mexc/data.json"
+        ]
+    }
+}

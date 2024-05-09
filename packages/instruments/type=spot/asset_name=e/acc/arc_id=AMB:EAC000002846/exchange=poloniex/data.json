@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EAC000002846_AMB:USD000000335",
+        "normalizedPair": "eacc_usdt",
+        "normalizedSymbol": "eacc",
+        "nativePair": "EACC_USDT",
+        "exchange": "poloniex",
+        "assetName": "e/acc",
+        "assetArcId": "AMB:EAC000002846",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "eacc_usdt",
+        "instrumentType": "spot"
+    }
+]

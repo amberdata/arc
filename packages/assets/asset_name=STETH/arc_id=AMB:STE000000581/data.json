@@ -1,0 +1,11 @@
+{
+    "assetSymbol": "steth",
+    "assetName": "STETH",
+    "assetArcId": "AMB:STE000000581",
+    "website": "https://lido.fi/",
+    "whitePaperUrl": "https://lido.fi/static/Lido:Ethereum-Liquid-Staking.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

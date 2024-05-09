@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IYU000003164_AMB:USD000000335",
+        "normalizedPair": "iyu_usdt",
+        "normalizedSymbol": "iyu",
+        "nativePair": "IYUUSDT",
+        "exchange": "mexc",
+        "assetName": "IYU Finance",
+        "assetArcId": "AMB:IYU000003164",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "iyu_usdt",
+        "instrumentType": "spot"
+    }
+]

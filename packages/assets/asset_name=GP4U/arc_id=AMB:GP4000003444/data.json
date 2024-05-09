@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "gp4u",
+    "assetName": "GP4U",
+    "assetArcId": "AMB:GP4000003444",
+    "website": "https://www.gp4u.world/",
+    "whitePaperUrl": "/how-to-buy/GP4U?utm_source=mexc&utm_medium=tokenifoGP4U&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GP4U/arc_id=AMB:GP4000003444/exchange=mexc/data.json"
+        ]
+    }
+}

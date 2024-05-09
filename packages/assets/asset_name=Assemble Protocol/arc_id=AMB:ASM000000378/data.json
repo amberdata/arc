@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "asm",
+    "assetName": "Assemble Protocol",
+    "assetArcId": "AMB:ASM000000378",
+    "website": "https://assembleprotocol.io/",
+    "whitePaperUrl": "https://assembleprotocol.io/paper/assemble_whitepaper_ver1.0_ENG.pdf",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x2565ae0385659badcada1031db704442e1b69982"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Assemble Protocol/arc_id=AMB:ASM000000378/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Assemble Protocol/arc_id=AMB:ASM000000378/exchange=bithumb/data.json"
+        ]
+    }
+}

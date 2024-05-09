@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LEN000002770_AMB:USD000000335",
+        "normalizedPair": "lend_usdt",
+        "normalizedSymbol": "lend",
+        "nativePair": "LENDUSDT",
+        "exchange": "mexc",
+        "assetName": "Lendle",
+        "assetArcId": "AMB:LEN000002770",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lend_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FIF000000000_AMB:USD000000335",
+        "normalizedPair": "fifo_usdt",
+        "normalizedSymbol": "fifo",
+        "nativePair": "FIFOUSDT",
+        "exchange": "mexc",
+        "assetName": "FIFO THE CAT",
+        "assetArcId": "AMB:FIF000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fifo_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KMI000003477_AMB:USD000000335",
+        "normalizedPair": "kmice_usdt",
+        "normalizedSymbol": "kmice",
+        "nativePair": "KMICEUSDT",
+        "exchange": "mexc",
+        "assetName": "Scklingmice",
+        "assetArcId": "AMB:KMI000003477",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kmice_usdt",
+        "instrumentType": "spot"
+    }
+]

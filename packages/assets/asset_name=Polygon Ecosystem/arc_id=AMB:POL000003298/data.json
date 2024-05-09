@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "pol",
+    "assetName": "Polygon Ecosystem",
+    "assetArcId": "AMB:POL000003298",
+    "website": "https://polygon.technology/home",
+    "whitePaperUrl": "https://polygon.technology/papers/pol-whitepaper?locale=en",
+    "classificationTags": [
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "isk",
+    "assetName": "ISKRA Token",
+    "assetArcId": "AMB:ISK000001793",
+    "website": "https://iskra.world/",
+    "whitePaperUrl": "https://whitepaper.iskra.world/summary/iskra-the-future-of-play",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ISKRA Token/arc_id=AMB:ISK000001793/exchange=mexc/data.json"
+        ]
+    }
+}

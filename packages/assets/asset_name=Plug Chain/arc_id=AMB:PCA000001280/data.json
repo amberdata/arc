@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "pc",
+    "assetName": "Plug Chain",
+    "assetArcId": "AMB:PCA000001280",
+    "website": "https://en.plugchain.info/",
+    "whitePaperUrl": "https://www.plugchain.info/files/PlugChain%20White%20Paper.pdf",
+    "classificationTags": [
+        "Oracles"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

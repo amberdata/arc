@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DAT000000000_AMB:USD000000335",
+        "normalizedPair": "dat_usdt",
+        "normalizedSymbol": "dat",
+        "nativePair": "DATUSDT",
+        "exchange": "mexc",
+        "assetName": "DemonWar",
+        "assetArcId": "AMB:DAT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dat_usdt",
+        "instrumentType": "spot"
+    }
+]

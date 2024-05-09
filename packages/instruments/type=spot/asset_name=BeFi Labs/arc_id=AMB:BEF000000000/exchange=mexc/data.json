@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BEF000000000_AMB:USD000000335",
+        "normalizedPair": "befi_usdt",
+        "normalizedSymbol": "befi",
+        "nativePair": "BEFIUSDT",
+        "exchange": "mexc",
+        "assetName": "BeFi Labs",
+        "assetArcId": "AMB:BEF000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "befi_usdt",
+        "instrumentType": "spot"
+    }
+]

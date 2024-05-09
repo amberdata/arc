@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NAT000002830_AMB:USD000000335",
+        "normalizedPair": "nati_usdt",
+        "normalizedSymbol": "nati",
+        "nativePair": "NATI_USDT",
+        "exchange": "poloniex",
+        "assetName": "IlluminatiCoin",
+        "assetArcId": "AMB:NAT000002830",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nati_usdt",
+        "instrumentType": "spot"
+    }
+]

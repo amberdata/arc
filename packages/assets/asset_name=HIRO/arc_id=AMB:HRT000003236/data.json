@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "hrt",
+    "assetName": "HIRO",
+    "assetArcId": "AMB:HRT000003236",
+    "website": "http://hiro-token.com/",
+    "whitePaperUrl": "https://hiros-organization-1.gitbook.io/hiro-whitepaper",
+    "classificationTags": [
+        "Gaming",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=HIRO/arc_id=AMB:HRT000003236/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "colt",
+    "assetName": "Collateral Network",
+    "assetArcId": "AMB:COL000003495",
+    "website": "https://collateralnetwork.io/",
+    "whitePaperUrl": "https://whitepaper.collateralnetwork.io/",
+    "classificationTags": [
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Collateral Network/arc_id=AMB:COL000003495/exchange=mexc/data.json"
+        ]
+    }
+}

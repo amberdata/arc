@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STR000003332_AMB:USD000000335",
+        "normalizedPair": "strk_usdt",
+        "normalizedSymbol": "strk",
+        "nativePair": "STRKUSDT",
+        "exchange": "mexc",
+        "assetName": "Strike",
+        "assetArcId": "AMB:STR000003332",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "strk_usdt",
+        "instrumentType": "spot"
+    }
+]

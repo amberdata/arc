@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "fvs",
+    "assetName": "FVS",
+    "assetArcId": "AMB:FVS000000000",
+    "website": "https://thefishverse.com/",
+    "whitePaperUrl": "https://fishverse.gitbook.io/fishverse",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=FVS/arc_id=AMB:FVS000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DRU000000000_AMB:USD000000335",
+        "normalizedPair": "drunk_usdt",
+        "normalizedSymbol": "drunk",
+        "nativePair": "DRUNKUSDT",
+        "exchange": "mexc",
+        "assetName": "DRUNK Token",
+        "assetArcId": "AMB:DRU000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "drunk_usdt",
+        "instrumentType": "spot"
+    }
+]

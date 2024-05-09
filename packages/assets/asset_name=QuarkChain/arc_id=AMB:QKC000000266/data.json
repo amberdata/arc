@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "qkc",
+    "assetName": "QuarkChain",
+    "assetArcId": "AMB:QKC000000266",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming",
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=QuarkChain/arc_id=AMB:QKC000000266/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=QuarkChain/arc_id=AMB:QKC000000266/exchange=binance/data.json"
+        ]
+    }
+}

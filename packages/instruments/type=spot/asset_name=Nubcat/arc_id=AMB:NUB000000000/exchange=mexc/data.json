@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NUB000000000_AMB:USD000000335",
+        "normalizedPair": "nub_usdt",
+        "normalizedSymbol": "nub",
+        "nativePair": "NUBUSDT",
+        "exchange": "mexc",
+        "assetName": "Nubcat",
+        "assetArcId": "AMB:NUB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nub_usdt",
+        "instrumentType": "spot"
+    }
+]

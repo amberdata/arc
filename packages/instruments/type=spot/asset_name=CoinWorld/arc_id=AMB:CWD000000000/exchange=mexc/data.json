@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CWD000000000_AMB:USD000000335",
+        "normalizedPair": "cwd_usdt",
+        "normalizedSymbol": "cwd",
+        "nativePair": "CWDUSDT",
+        "exchange": "mexc",
+        "assetName": "CoinWorld",
+        "assetArcId": "AMB:CWD000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cwd_usdt",
+        "instrumentType": "spot"
+    }
+]

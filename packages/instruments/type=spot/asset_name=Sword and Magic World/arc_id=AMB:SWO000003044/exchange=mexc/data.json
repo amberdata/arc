@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SWO000003044_AMB:USD000000335",
+        "normalizedPair": "swo_usdt",
+        "normalizedSymbol": "swo",
+        "nativePair": "SWOUSDT",
+        "exchange": "mexc",
+        "assetName": "Sword and Magic World",
+        "assetArcId": "AMB:SWO000003044",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "swo_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HON000003258_AMB:USD000000335",
+        "normalizedPair": "honk_usdt",
+        "normalizedSymbol": "honk",
+        "nativePair": "HONK_USDT",
+        "exchange": "poloniex",
+        "assetName": "HONK",
+        "assetArcId": "AMB:HON000003258",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "honk_usdt",
+        "instrumentType": "spot"
+    }
+]

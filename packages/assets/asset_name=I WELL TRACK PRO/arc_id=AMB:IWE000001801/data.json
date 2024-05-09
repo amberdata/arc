@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "iwell",
+    "assetName": "I WELL TRACK PRO",
+    "assetArcId": "AMB:IWE000001801",
+    "website": "http://iwelltrack.pro/",
+    "whitePaperUrl": "http://iwelltrack.pro/wp-content/uploads/2023/08/iwelltrackpro-whitepaper.pdf",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=I WELL TRACK PRO/arc_id=AMB:IWE000001801/exchange=mexc/data.json"
+        ]
+    }
+}

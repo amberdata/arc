@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LFG000002858_AMB:USD000000335",
+        "normalizedPair": "lfg1_usdt",
+        "normalizedSymbol": "lfg1",
+        "nativePair": "LFG1USDT",
+        "exchange": "mexc",
+        "assetName": "LessFnGas",
+        "assetArcId": "AMB:LFG000002858",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lfg1_usdt",
+        "instrumentType": "spot"
+    }
+]

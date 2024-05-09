@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAD000000271_AMB:KRW000000000",
+        "normalizedPair": "rad_krw",
+        "normalizedSymbol": "rad",
+        "nativePair": "RAD/KRW",
+        "exchange": "bithumb",
+        "assetName": "Radworks",
+        "assetArcId": "AMB:RAD000000271",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "rad_krw",
+        "instrumentType": "spot"
+    }
+]

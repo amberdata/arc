@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ELO000000001_AMB:USD000000335",
+        "normalizedPair": "eloneth_usdt",
+        "normalizedSymbol": "eloneth",
+        "nativePair": "ELONETH_USDT",
+        "exchange": "poloniex",
+        "assetName": "ELON",
+        "assetArcId": "AMB:ELO000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "eloneth_usdt",
+        "instrumentType": "spot"
+    }
+]

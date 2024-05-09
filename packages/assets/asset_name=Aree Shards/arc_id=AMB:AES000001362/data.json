@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "aes",
+    "assetName": "Aree Shards",
+    "assetArcId": "AMB:AES000001362",
+    "website": "https://playaquafarm.io/",
+    "whitePaperUrl": "/how-to-buy/AES?utm_source=mexc&utm_medium=tokenifoAES&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aree Shards/arc_id=AMB:AES000001362/exchange=mexc/data.json"
+        ]
+    }
+}

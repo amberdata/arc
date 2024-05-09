@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HYP000000000_AMB:USD000000335",
+        "normalizedPair": "hyperai_usdt",
+        "normalizedSymbol": "hyperai",
+        "nativePair": "HYPERAIUSDT",
+        "exchange": "mexc",
+        "assetName": "Hyper AI",
+        "assetArcId": "AMB:HYP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hyperai_usdt",
+        "instrumentType": "spot"
+    }
+]

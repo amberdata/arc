@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WAS000003424_AMB:USD000000335",
+        "normalizedPair": "wasb_usdt",
+        "normalizedSymbol": "wasb",
+        "nativePair": "WASBUSDT",
+        "exchange": "mexc",
+        "assetName": "We Are So Back",
+        "assetArcId": "AMB:WAS000003424",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wasb_usdt",
+        "instrumentType": "spot"
+    }
+]

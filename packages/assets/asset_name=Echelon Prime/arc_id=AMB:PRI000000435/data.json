@@ -1,0 +1,23 @@
+{
+    "assetSymbol": "prime",
+    "assetName": "Echelon Prime",
+    "assetArcId": "AMB:PRI000000435",
+    "website": "https://echelon.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0xb23d80f5fefcddaa212212f028021b41ded428cf"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Echelon Prime/arc_id=AMB:PRI000000435/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Echelon Prime/arc_id=AMB:PRI000000435/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Echelon Prime/arc_id=AMB:PRI000000435/exchange=poloniex/data.json"
+        ]
+    }
+}

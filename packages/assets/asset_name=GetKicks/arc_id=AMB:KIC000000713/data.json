@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "kicks",
+    "assetName": "GetKicks",
+    "assetArcId": "AMB:KIC000000713",
+    "website": "https://www.getkicks.io/",
+    "whitePaperUrl": "https://docs.getkicks.io/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GetKicks/arc_id=AMB:KIC000000713/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GetKicks/arc_id=AMB:KIC000000713/exchange=mexc/data.json"
+        ]
+    }
+}

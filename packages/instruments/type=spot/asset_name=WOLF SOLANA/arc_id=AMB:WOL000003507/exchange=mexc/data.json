@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WOL000003507_AMB:USD000000335",
+        "normalizedPair": "wolf_usdt",
+        "normalizedSymbol": "wolf",
+        "nativePair": "WOLFUSDT",
+        "exchange": "mexc",
+        "assetName": "WOLF SOLANA",
+        "assetArcId": "AMB:WOL000003507",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wolf_usdt",
+        "instrumentType": "spot"
+    }
+]

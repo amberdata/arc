@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "winne",
+    "assetName": "Winne The Moon",
+    "assetArcId": "AMB:WIN000000000",
+    "website": "https://winniethemoon.com/",
+    "whitePaperUrl": "/how-to-buy/WINNE?utm_source=mexc&utm_medium=tokenifoWINNE&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Winne The Moon/arc_id=AMB:WIN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

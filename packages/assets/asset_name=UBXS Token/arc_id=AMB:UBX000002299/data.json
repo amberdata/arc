@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "ubxs",
+    "assetName": "UBXS Token",
+    "assetArcId": "AMB:UBX000002299",
+    "website": "https://bixos.com/projects/ubxs-token",
+    "whitePaperUrl": "https://docs.bixos.io/documents/readme",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=UBXS Token/arc_id=AMB:UBX000002299/exchange=mexc/data.json"
+        ]
+    }
+}

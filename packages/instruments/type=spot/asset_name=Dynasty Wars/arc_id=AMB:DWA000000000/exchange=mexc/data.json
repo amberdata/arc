@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DWA000000000_AMB:USD000000335",
+        "normalizedPair": "dwars_usdt",
+        "normalizedSymbol": "dwars",
+        "nativePair": "DWARSUSDT",
+        "exchange": "mexc",
+        "assetName": "Dynasty Wars",
+        "assetArcId": "AMB:DWA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dwars_usdt",
+        "instrumentType": "spot"
+    }
+]

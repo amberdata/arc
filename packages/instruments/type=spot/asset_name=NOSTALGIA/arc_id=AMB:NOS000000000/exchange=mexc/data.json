@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NOS000000000_AMB:USD000000335",
+        "normalizedPair": "nostalgia_usdt",
+        "normalizedSymbol": "nostalgia",
+        "nativePair": "NOSTALGIAUSDT",
+        "exchange": "mexc",
+        "assetName": "NOSTALGIA",
+        "assetArcId": "AMB:NOS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nostalgia_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BLO000003475_AMB:USD000000335",
+        "normalizedPair": "blocx_usdt",
+        "normalizedSymbol": "blocx",
+        "nativePair": "BLOCXUSDT",
+        "exchange": "mexc",
+        "assetName": "BLOCX.",
+        "assetArcId": "AMB:BLO000003475",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "blocx_usdt",
+        "instrumentType": "spot"
+    }
+]

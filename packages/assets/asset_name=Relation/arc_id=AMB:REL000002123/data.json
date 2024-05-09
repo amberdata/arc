@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "rel",
+    "assetName": "Relation",
+    "assetArcId": "AMB:REL000002123",
+    "website": "https://relationlabs.ai/",
+    "whitePaperUrl": "https://docs.relationlabs.ai/whitepaper",
+    "classificationTags": [
+        "Content & Streaming",
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

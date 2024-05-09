@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FRO000003249_AMB:USD000000335",
+        "normalizedPair": "froge_usdt",
+        "normalizedSymbol": "froge",
+        "nativePair": "FROGEUSDT",
+        "exchange": "mexc",
+        "assetName": "Froge",
+        "assetArcId": "AMB:FRO000003249",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "froge_usdt",
+        "instrumentType": "spot"
+    }
+]

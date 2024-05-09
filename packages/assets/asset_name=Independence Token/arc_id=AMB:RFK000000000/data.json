@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "rfkj",
+    "assetName": "Independence Token",
+    "assetArcId": "AMB:RFK000000000",
+    "website": "https://www.rfkjtoken.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0xF64265e65c4529879a7ABf467E00D39E39C0B0DA"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Independence Token/arc_id=AMB:RFK000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

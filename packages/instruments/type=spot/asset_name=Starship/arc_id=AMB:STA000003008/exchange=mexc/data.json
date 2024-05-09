@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STA000003008_AMB:USD000000335",
+        "normalizedPair": "starship_usdt",
+        "normalizedSymbol": "starship",
+        "nativePair": "STARSHIPUSDT",
+        "exchange": "mexc",
+        "assetName": "Starship",
+        "assetArcId": "AMB:STA000003008",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "starship_usdt",
+        "instrumentType": "spot"
+    }
+]

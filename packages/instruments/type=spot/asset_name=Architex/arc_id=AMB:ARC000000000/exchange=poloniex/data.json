@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ARC000000000_AMB:USD000000335",
+        "normalizedPair": "arcx_usdt",
+        "normalizedSymbol": "arcx",
+        "nativePair": "ARCX_USDT",
+        "exchange": "poloniex",
+        "assetName": "Architex",
+        "assetArcId": "AMB:ARC000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "arcx_usdt",
+        "instrumentType": "spot"
+    }
+]

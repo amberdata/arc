@@ -1,0 +1,31 @@
+{
+    "assetSymbol": "op",
+    "assetName": "Optimism",
+    "assetArcId": "AMB:OPA000000239",
+    "website": "https://www.optimism.io/",
+    "whitePaperUrl": "https://community.optimism.io/docs/governance/economics/#demand-for-op-blockspace-generates-revenue",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Optimism",
+            "address": "0x4200000000000000000000000000000000000042"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Optimism/arc_id=AMB:OPA000000239/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Optimism/arc_id=AMB:OPA000000239/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Optimism/arc_id=AMB:OPA000000239/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Optimism/arc_id=AMB:OPA000000239/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Optimism/arc_id=AMB:OPA000000239/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Optimism/arc_id=AMB:OPA000000239/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Optimism/arc_id=AMB:OPA000000239/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Optimism/arc_id=AMB:OPA000000239/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Optimism/arc_id=AMB:OPA000000239/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Optimism/arc_id=AMB:OPA000000239/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Optimism/arc_id=AMB:OPA000000239/exchange=zb/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ESC000003293_AMB:USD000000335",
+        "normalizedPair": "esc_usdt",
+        "normalizedSymbol": "esc",
+        "nativePair": "ESCUSDT",
+        "exchange": "mexc",
+        "assetName": "The Essential Coin",
+        "assetArcId": "AMB:ESC000003293",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "esc_usdt",
+        "instrumentType": "spot"
+    }
+]

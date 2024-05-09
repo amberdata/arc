@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MUS000000000_AMB:USD000000335",
+        "normalizedPair": "mussel_usdt",
+        "normalizedSymbol": "mussel",
+        "nativePair": "MUSSELUSDT",
+        "exchange": "mexc",
+        "assetName": "Mussel So",
+        "assetArcId": "AMB:MUS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mussel_usdt",
+        "instrumentType": "spot"
+    }
+]

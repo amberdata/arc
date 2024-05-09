@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RBA000000000_AMB:USD000000335",
+        "normalizedPair": "rb_usdt",
+        "normalizedSymbol": "rb",
+        "nativePair": "RB_USDT",
+        "exchange": "poloniex",
+        "assetName": "Runebridge",
+        "assetArcId": "AMB:RBA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rb_usdt",
+        "instrumentType": "spot"
+    }
+]

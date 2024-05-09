@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOR000000000_AMB:USD000000335",
+        "normalizedPair": "tori_usdt",
+        "normalizedSymbol": "tori",
+        "nativePair": "TORIUSDT",
+        "exchange": "mexc",
+        "assetName": "TORI",
+        "assetArcId": "AMB:TOR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tori_usdt",
+        "instrumentType": "spot"
+    }
+]

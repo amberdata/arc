@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BAS000000001_AMB:USD000000335",
+        "normalizedPair": "basefomo_usdt",
+        "normalizedSymbol": "basefomo",
+        "nativePair": "BASEFOMO_USDT",
+        "exchange": "poloniex",
+        "assetName": "FatherOfMeme",
+        "assetArcId": "AMB:BAS000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "basefomo_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAS000000001_AMB:USD000000335",
+        "normalizedPair": "basedai_usdt",
+        "normalizedSymbol": "basedai",
+        "nativePair": "BASEDAI_USDT",
+        "exchange": "poloniex",
+        "assetName": "Basedai",
+        "assetArcId": "AMB:BAS000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "basedai_usdt",
+        "instrumentType": "spot"
+    }
+]

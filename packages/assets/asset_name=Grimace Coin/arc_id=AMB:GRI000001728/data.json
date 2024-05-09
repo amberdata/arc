@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "grimace",
+    "assetName": "Grimace Coin",
+    "assetArcId": "AMB:GRI000001728",
+    "website": "https://grimacedoge.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Content & Streaming"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ARB",
+            "address": "0x764bfc309090e7f93edce53e5befa374cdcb7b8e"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Grimace Coin/arc_id=AMB:GRI000001728/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Grimace Coin/arc_id=AMB:GRI000001728/exchange=mexc/data.json"
+        ]
+    }
+}

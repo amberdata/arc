@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHR000000000_AMB:USD000000335",
+        "normalizedPair": "shredn_usdt",
+        "normalizedSymbol": "shredn",
+        "nativePair": "SHREDNUSDT",
+        "exchange": "mexc",
+        "assetName": "Shredn Dog",
+        "assetArcId": "AMB:SHR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shredn_usdt",
+        "instrumentType": "spot"
+    }
+]

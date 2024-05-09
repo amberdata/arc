@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ordii",
+    "assetName": "Ordinals Inscribe",
+    "assetArcId": "AMB:ORD000003227",
+    "website": "https://orditoken.top/",
+    "whitePaperUrl": "https://ordi.gitbook.io/whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ordinals Inscribe/arc_id=AMB:ORD000003227/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "mooi",
+    "assetName": "MOOI Network",
+    "assetArcId": "AMB:MOO000001949",
+    "website": "https://mooinetwork.io/mooinetwork/",
+    "whitePaperUrl": "https://whitepaper.mooinetwork.io/mooi-network/whitepaper/market-trend",
+    "classificationTags": [
+        "Gaming",
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MOOI Network/arc_id=AMB:MOO000001949/exchange=mexc/data.json"
+        ]
+    }
+}

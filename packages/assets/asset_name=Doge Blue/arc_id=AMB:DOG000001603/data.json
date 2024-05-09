@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dogeblue",
+    "assetName": "Doge Blue",
+    "assetArcId": "AMB:DOG000001603",
+    "website": "https://dogeblue.io/",
+    "whitePaperUrl": "https://dogeblue.gitbook.io/docs/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Doge Blue/arc_id=AMB:DOG000001603/exchange=mexc/data.json"
+        ]
+    }
+}

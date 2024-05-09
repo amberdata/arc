@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "fakt",
+    "assetName": "Medifakt",
+    "assetArcId": "AMB:FAK000001650",
+    "website": "https://medifakt.com/",
+    "whitePaperUrl": "https://medifakt.network/whitepaper.pdf",
+    "classificationTags": [
+        "Machine Learning & AI",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Medifakt/arc_id=AMB:FAK000001650/exchange=mexc/data.json"
+        ]
+    }
+}

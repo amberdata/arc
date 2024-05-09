@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VEC000000000_AMB:USD000000335",
+        "normalizedPair": "vec_usdt",
+        "normalizedSymbol": "vec",
+        "nativePair": "VEC_USDT",
+        "exchange": "poloniex",
+        "assetName": "Vector Reserve",
+        "assetArcId": "AMB:VEC000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vec_usdt",
+        "instrumentType": "spot"
+    }
+]

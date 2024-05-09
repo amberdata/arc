@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "fdv",
+    "assetName": "FDV Labs",
+    "assetArcId": "AMB:FDV000002930",
+    "website": "https://fdvcoin.world/",
+    "whitePaperUrl": "https://fdverc.gitbook.io/fdv-white-paper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=FDV Labs/arc_id=AMB:FDV000002930/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ROC000003254_AMB:USD000000335",
+        "normalizedPair": "rocket_usdt",
+        "normalizedSymbol": "rocket",
+        "nativePair": "ROCKETUSDT",
+        "exchange": "mexc",
+        "assetName": "RocketCoin",
+        "assetArcId": "AMB:ROC000003254",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rocket_usdt",
+        "instrumentType": "spot"
+    }
+]

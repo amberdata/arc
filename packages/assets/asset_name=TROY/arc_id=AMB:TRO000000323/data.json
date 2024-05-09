@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "troy",
+    "assetName": "TROY",
+    "assetArcId": "AMB:TRO000000323",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TROY/arc_id=AMB:TRO000000323/exchange=binance/data.json"
+        ]
+    }
+}

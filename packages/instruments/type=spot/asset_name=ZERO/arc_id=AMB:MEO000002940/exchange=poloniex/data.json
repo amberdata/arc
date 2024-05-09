@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MEO000002940_AMB:USD000000335",
+        "normalizedPair": "meow_usdt",
+        "normalizedSymbol": "meow",
+        "nativePair": "MEOW_USDT",
+        "exchange": "poloniex",
+        "assetName": "ZERO",
+        "assetArcId": "AMB:MEO000002940",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "meow_usdt",
+        "instrumentType": "spot"
+    }
+]

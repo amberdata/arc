@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GUM000000000_AMB:USD000000335",
+        "normalizedPair": "gummy_usdt",
+        "normalizedSymbol": "gummy",
+        "nativePair": "GUMMYUSDT",
+        "exchange": "mexc",
+        "assetName": "GUMMY",
+        "assetArcId": "AMB:GUM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gummy_usdt",
+        "instrumentType": "spot"
+    }
+]

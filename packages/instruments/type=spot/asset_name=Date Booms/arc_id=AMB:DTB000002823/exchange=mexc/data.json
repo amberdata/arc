@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DTB000002823_AMB:USD000000335",
+        "normalizedPair": "dtbom_usdt",
+        "normalizedSymbol": "dtbom",
+        "nativePair": "DTBOMUSDT",
+        "exchange": "mexc",
+        "assetName": "Date Booms",
+        "assetArcId": "AMB:DTB000002823",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dtbom_usdt",
+        "instrumentType": "spot"
+    }
+]

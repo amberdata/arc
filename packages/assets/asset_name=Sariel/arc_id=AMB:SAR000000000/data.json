@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "sariel",
+    "assetName": "Sariel",
+    "assetArcId": "AMB:SAR000000000",
+    "website": "https://sarielbsc.xyz/",
+    "whitePaperUrl": "/how-to-buy/SARIEL?utm_source=mexc&utm_medium=tokenifoSARIEL&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sariel/arc_id=AMB:SAR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

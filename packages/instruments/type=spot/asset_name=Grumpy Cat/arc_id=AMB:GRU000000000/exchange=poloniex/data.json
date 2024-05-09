@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GRU000000000_AMB:USD000000335",
+        "normalizedPair": "grumpy_usdt",
+        "normalizedSymbol": "grumpy",
+        "nativePair": "GRUMPY_USDT",
+        "exchange": "poloniex",
+        "assetName": "Grumpy Cat",
+        "assetArcId": "AMB:GRU000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "grumpy_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "xers",
+    "assetName": "X Project",
+    "assetArcId": "AMB:XER000000000",
+    "website": "Xprojecterc.com",
+    "whitePaperUrl": "/how-to-buy/XERS?utm_source=mexc&utm_medium=tokenifoXERS&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=X Project/arc_id=AMB:XER000000000/exchange=mexc/data.json"
+        ]
+    }
+}

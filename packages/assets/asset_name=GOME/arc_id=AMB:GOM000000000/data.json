@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "gome",
+    "assetName": "GOME",
+    "assetArcId": "AMB:GOM000000000",
+    "website": "https://gome.lol/",
+    "whitePaperUrl": "/how-to-buy/GOME?utm_source=mexc&utm_medium=tokenifoGOME&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming",
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GOME/arc_id=AMB:GOM000000000/exchange=mexc/data.json"
+        ]
+    }
+}

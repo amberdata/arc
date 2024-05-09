@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ains",
+    "assetName": "Ains domains",
+    "assetArcId": "AMB:AIN000003342",
+    "website": "https://ainsdomains.shop/",
+    "whitePaperUrl": "/how-to-buy/AINS?utm_source=mexc&utm_medium=tokenifoAINS&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ains domains/arc_id=AMB:AIN000003342/exchange=mexc/data.json"
+        ]
+    }
+}

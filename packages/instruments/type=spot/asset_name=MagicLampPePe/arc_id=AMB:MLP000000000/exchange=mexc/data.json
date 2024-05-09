@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MLP000000000_AMB:USD000000335",
+        "normalizedPair": "mlpepe_usdt",
+        "normalizedSymbol": "mlpepe",
+        "nativePair": "MLPEPEUSDT",
+        "exchange": "mexc",
+        "assetName": "MagicLampPePe",
+        "assetArcId": "AMB:MLP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mlpepe_usdt",
+        "instrumentType": "spot"
+    }
+]

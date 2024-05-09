@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "orbk",
+    "assetName": "Ordibank",
+    "assetArcId": "AMB:ORB000000000",
+    "website": "https://ordibank.org/",
+    "whitePaperUrl": "https://ordibank.gitbook.io/untitled/",
+    "classificationTags": [
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ordibank/arc_id=AMB:ORB000000000/exchange=mexc/data.json"
+        ]
+    }
+}

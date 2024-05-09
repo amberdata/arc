@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAB000003429_AMB:USD000000335",
+        "normalizedPair": "babygrok1_usdt",
+        "normalizedSymbol": "babygrok1",
+        "nativePair": "BABYGROK1USDT",
+        "exchange": "mexc",
+        "assetName": "Baby Grok",
+        "assetArcId": "AMB:BAB000003429",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "babygrok1_usdt",
+        "instrumentType": "spot"
+    }
+]

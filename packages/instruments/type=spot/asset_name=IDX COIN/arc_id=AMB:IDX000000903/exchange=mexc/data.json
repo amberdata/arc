@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IDX000000903_AMB:USD000000335",
+        "normalizedPair": "idx.amb.1_usdt",
+        "normalizedSymbol": "idx.amb.1",
+        "nativePair": "IDXUSDT",
+        "exchange": "mexc",
+        "assetName": "IDX COIN",
+        "assetArcId": "AMB:IDX000000903",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "idx_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "rbw",
+    "assetName": "Rainbow Token",
+    "assetArcId": "AMB:RBW000002117",
+    "website": "https://www.cryptounicorns.fun/",
+    "whitePaperUrl": "https://whitepaper.cryptounicorns.fun/crypto-unicorns-whitepaper-v2/",
+    "classificationTags": [
+        "Gaming",
+        "Governance",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Rainbow Token/arc_id=AMB:RBW000002117/exchange=mexc/data.json"
+        ]
+    }
+}

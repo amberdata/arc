@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "meme2",
+    "assetName": "Memecoin 2.0",
+    "assetArcId": "AMB:MEM000002764",
+    "website": "https://meme2eth.space/",
+    "whitePaperUrl": "/how-to-buy/MEME2?utm_source=mexc&utm_medium=tokenifoMEME2&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Memecoin 2.0/arc_id=AMB:MEM000002764/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BUG000003522_AMB:USD000000335",
+        "normalizedPair": "bugat_usdt",
+        "normalizedSymbol": "bugat",
+        "nativePair": "BUGATUSDT",
+        "exchange": "mexc",
+        "assetName": "BUGAT",
+        "assetArcId": "AMB:BUG000003522",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bugat_usdt",
+        "instrumentType": "spot"
+    }
+]

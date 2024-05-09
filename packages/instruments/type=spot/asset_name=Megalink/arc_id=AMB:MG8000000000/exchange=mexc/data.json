@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MG8000000000_AMB:USD000000335",
+        "normalizedPair": "mg8_usdt",
+        "normalizedSymbol": "mg8",
+        "nativePair": "MG8USDT",
+        "exchange": "mexc",
+        "assetName": "Megalink",
+        "assetArcId": "AMB:MG8000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mg8_usdt",
+        "instrumentType": "spot"
+    }
+]

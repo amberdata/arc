@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:TAO000000821_AMB:FDU000000122",
+        "normalizedPair": "tao.amb.1_fdusd",
+        "normalizedSymbol": "tao.amb.1",
+        "nativePair": "TAOFDUSD",
+        "exchange": "binance",
+        "assetName": "Bittensor",
+        "assetArcId": "AMB:TAO000000821",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "tao_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TAO000000821_AMB:BTC000000000",
+        "normalizedPair": "tao.amb.1_btc",
+        "normalizedSymbol": "tao.amb.1",
+        "nativePair": "TAOBTC",
+        "exchange": "binance",
+        "assetName": "Bittensor",
+        "assetArcId": "AMB:TAO000000821",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "tao_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TAO000000821_AMB:USD000000335",
+        "normalizedPair": "tao.amb.1_usdt",
+        "normalizedSymbol": "tao.amb.1",
+        "nativePair": "TAOUSDT",
+        "exchange": "binance",
+        "assetName": "Bittensor",
+        "assetArcId": "AMB:TAO000000821",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tao_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TAO000000821_AMB:TRY000000940",
+        "normalizedPair": "tao.amb.1_try",
+        "normalizedSymbol": "tao.amb.1",
+        "nativePair": "TAOTRY",
+        "exchange": "binance",
+        "assetName": "Bittensor",
+        "assetArcId": "AMB:TAO000000821",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "tao_try",
+        "instrumentType": "spot"
+    }
+]

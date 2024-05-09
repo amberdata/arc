@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "bugat",
+    "assetName": "BUGAT",
+    "assetArcId": "AMB:BUG000003522",
+    "website": "https://www.bugatticoin.xyz/",
+    "whitePaperUrl": "https://www.bugatticoin.xyz/BUGATTICOIN-WHITEPAPER.pdf",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BUGAT/arc_id=AMB:BUG000003522/exchange=mexc/data.json"
+        ]
+    }
+}

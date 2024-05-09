@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "phb",
+    "assetName": "Phoenix",
+    "assetArcId": "AMB:PHB000000250",
+    "website": "https://www.Phoenix.global/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming",
+        "Machine Learning & AI",
+        "Oracles",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Phoenix/arc_id=AMB:PHB000000250/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Phoenix/arc_id=AMB:PHB000000250/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Phoenix/arc_id=AMB:PHB000000250/exchange=binance/data.json"
+        ]
+    }
+}

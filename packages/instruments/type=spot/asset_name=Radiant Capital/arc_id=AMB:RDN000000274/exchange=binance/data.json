@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:RDN000000274_AMB:BTC000000000",
+        "normalizedPair": "rdnt_btc",
+        "normalizedSymbol": "rdnt",
+        "nativePair": "RDNTBTC",
+        "exchange": "binance",
+        "assetName": "Radiant Capital",
+        "assetArcId": "AMB:RDN000000274",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "rdnt_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RDN000000274_AMB:TUS000000326",
+        "normalizedPair": "rdnt_tusd",
+        "normalizedSymbol": "rdnt",
+        "nativePair": "RDNTTUSD",
+        "exchange": "binance",
+        "assetName": "Radiant Capital",
+        "assetArcId": "AMB:RDN000000274",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "rdnt_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RDN000000274_AMB:USD000000335",
+        "normalizedPair": "rdnt_usdt",
+        "normalizedSymbol": "rdnt",
+        "nativePair": "RDNTUSDT",
+        "exchange": "binance",
+        "assetName": "Radiant Capital",
+        "assetArcId": "AMB:RDN000000274",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rdnt_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RDN000000274_AMB:TRY000000940",
+        "normalizedPair": "rdnt_try",
+        "normalizedSymbol": "rdnt",
+        "nativePair": "RDNTTRY",
+        "exchange": "binance",
+        "assetName": "Radiant Capital",
+        "assetArcId": "AMB:RDN000000274",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "rdnt_try",
+        "instrumentType": "spot"
+    }
+]

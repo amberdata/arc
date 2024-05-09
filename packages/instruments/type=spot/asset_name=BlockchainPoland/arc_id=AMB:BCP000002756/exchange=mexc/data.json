@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BCP000002756_AMB:USD000000335",
+        "normalizedPair": "bcp_usdt",
+        "normalizedSymbol": "bcp",
+        "nativePair": "BCPUSDT",
+        "exchange": "mexc",
+        "assetName": "BlockchainPoland",
+        "assetArcId": "AMB:BCP000002756",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bcp_usdt",
+        "instrumentType": "spot"
+    }
+]

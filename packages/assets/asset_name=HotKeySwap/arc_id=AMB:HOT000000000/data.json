@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "hotkey",
+    "assetName": "HotKeySwap",
+    "assetArcId": "AMB:HOT000000000",
+    "website": "https://hotkeyswap.com/",
+    "whitePaperUrl": "https://docs.hotkeyswap.com/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=HotKeySwap/arc_id=AMB:HOT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

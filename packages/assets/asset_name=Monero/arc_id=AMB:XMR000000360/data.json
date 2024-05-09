@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "xmr",
+    "assetName": "Monero",
+    "assetArcId": "AMB:XMR000000360",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Monero/arc_id=AMB:XMR000000360/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Monero/arc_id=AMB:XMR000000360/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Monero/arc_id=AMB:XMR000000360/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Monero/arc_id=AMB:XMR000000360/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Monero/arc_id=AMB:XMR000000360/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Monero/arc_id=AMB:XMR000000360/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Monero/arc_id=AMB:XMR000000360/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Monero/arc_id=AMB:XMR000000360/exchange=zb/data.json"
+        ]
+    }
+}

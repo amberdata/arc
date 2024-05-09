@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CTO000003070_AMB:USD000000335",
+        "normalizedPair": "cto_usdt",
+        "normalizedSymbol": "cto",
+        "nativePair": "CTOUSDT",
+        "exchange": "mexc",
+        "assetName": "Chief Troll Officer",
+        "assetArcId": "AMB:CTO000003070",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cto_usdt",
+        "instrumentType": "spot"
+    }
+]

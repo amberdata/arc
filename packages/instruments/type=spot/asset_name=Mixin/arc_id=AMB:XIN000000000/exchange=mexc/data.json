@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XIN000000000_AMB:USD000000335",
+        "normalizedPair": "xin_usdt",
+        "normalizedSymbol": "xin",
+        "nativePair": "XINUSDT",
+        "exchange": "mexc",
+        "assetName": "Mixin",
+        "assetArcId": "AMB:XIN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xin_usdt",
+        "instrumentType": "spot"
+    }
+]

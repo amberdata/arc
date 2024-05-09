@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ADA000000000_AMB:USD000000335",
+        "normalizedPair": "ad_usdt",
+        "normalizedSymbol": "ad",
+        "nativePair": "ADUSDT",
+        "exchange": "mexc",
+        "assetName": "Any Dog",
+        "assetArcId": "AMB:ADA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ad_usdt",
+        "instrumentType": "spot"
+    }
+]

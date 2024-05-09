@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:GEN000000000_AMB:USD000000335",
+        "normalizedPair": "genome_usdt",
+        "normalizedSymbol": "genome",
+        "nativePair": "GENOMEUSDT",
+        "exchange": "mexc",
+        "assetName": "GENOME",
+        "assetArcId": "AMB:GEN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "genome_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GEN000000000_AMB:USD000000335",
+        "normalizedPair": "gentletita_usdt",
+        "normalizedSymbol": "gentletita",
+        "nativePair": "GENTLETITAUSDT",
+        "exchange": "mexc",
+        "assetName": "GentleTITA",
+        "assetArcId": "AMB:GEN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gentletita_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GEN000000000_AMB:USD000000335",
+        "normalizedPair": "genai_usdt",
+        "normalizedSymbol": "genai",
+        "nativePair": "GENAIUSDT",
+        "exchange": "mexc",
+        "assetName": "GenAi",
+        "assetArcId": "AMB:GEN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "genai_usdt",
+        "instrumentType": "spot"
+    }
+]

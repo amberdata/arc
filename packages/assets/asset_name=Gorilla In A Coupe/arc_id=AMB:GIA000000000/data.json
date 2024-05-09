@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "giac",
+    "assetName": "Gorilla In A Coupe",
+    "assetArcId": "AMB:GIA000000000",
+    "website": "https://giac.vip/",
+    "whitePaperUrl": "/how-to-buy/GIAC?utm_source=mexc&utm_medium=tokenifoGIAC&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gorilla In A Coupe/arc_id=AMB:GIA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

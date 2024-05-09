@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "sity",
+    "assetName": "Versity",
+    "assetArcId": "AMB:SIT000000000",
+    "website": "https://versity.io/en",
+    "whitePaperUrl": "https://assets.versity.io/whitepaper/whitepaper-versity-EN.pdf",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Versity/arc_id=AMB:SIT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

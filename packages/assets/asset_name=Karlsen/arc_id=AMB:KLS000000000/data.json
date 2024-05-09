@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "kls",
+    "assetName": "Karlsen",
+    "assetArcId": "AMB:KLS000000000",
+    "website": "https://www.karlsencoin.com/",
+    "whitePaperUrl": "https://karlsencoin.com/docs/karlsen-whitepaper-v1.0.1.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Karlsen/arc_id=AMB:KLS000000000/exchange=mexc/data.json"
+        ]
+    }
+}

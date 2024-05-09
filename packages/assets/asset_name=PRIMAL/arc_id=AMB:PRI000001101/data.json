@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "primal",
+    "assetName": "PRIMAL",
+    "assetArcId": "AMB:PRI000001101",
+    "website": "https://www.getprimal.com/",
+    "whitePaperUrl": "https://www.getprimal.com/one-pager",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PRIMAL/arc_id=AMB:PRI000001101/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PRIMAL/arc_id=AMB:PRI000001101/exchange=mexc/data.json"
+        ]
+    }
+}

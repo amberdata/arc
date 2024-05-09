@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HMN000000000_AMB:USD000000335",
+        "normalizedPair": "hmnd_usdt",
+        "normalizedSymbol": "hmnd",
+        "nativePair": "HMNDUSDT",
+        "exchange": "mexc",
+        "assetName": "Humanode",
+        "assetArcId": "AMB:HMN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hmnd_usdt",
+        "instrumentType": "spot"
+    }
+]

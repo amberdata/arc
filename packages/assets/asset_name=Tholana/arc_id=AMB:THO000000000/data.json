@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "tholana",
+    "assetName": "Tholana",
+    "assetArcId": "AMB:THO000000000",
+    "website": "https://www.tholana.net/#",
+    "whitePaperUrl": "https://www.tholana.net/roadmap#",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tholana/arc_id=AMB:THO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

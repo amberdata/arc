@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "sdoge",
+    "assetName": "SOLDOGE COIN",
+    "assetArcId": "AMB:SDO000000000",
+    "website": "http://soldoge.biz/",
+    "whitePaperUrl": "http://soldoge.biz/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SOLDOGE COIN/arc_id=AMB:SDO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

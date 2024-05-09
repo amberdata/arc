@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "catino",
+    "assetName": "Catino",
+    "assetArcId": "AMB:CAT000000002",
+    "website": "https://catino.vip/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "1A3CZ3b8f878LfqpT3stoiDC7C1EDMjda6A1xHakkMF"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Catino/arc_id=AMB:CAT000000002/exchange=poloniex/data.json"
+        ]
+    }
+}

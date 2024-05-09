@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIC000003399_AMB:USD000000335",
+        "normalizedPair": "aicrea_usdt",
+        "normalizedSymbol": "aicrea",
+        "nativePair": "AICREAUSDT",
+        "exchange": "mexc",
+        "assetName": "Creative codes",
+        "assetArcId": "AMB:AIC000003399",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aicrea_usdt",
+        "instrumentType": "spot"
+    }
+]

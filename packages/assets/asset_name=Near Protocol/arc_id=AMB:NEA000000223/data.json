@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "near",
+    "assetName": "Near Protocol",
+    "assetArcId": "AMB:NEA000000223",
+    "website": "https://near.org/",
+    "whitePaperUrl": "https://near.org/papers/the-official-near-white-paper/",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Near",
+            "address": null
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

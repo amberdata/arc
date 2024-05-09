@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "lopes",
+    "assetName": "Leandro Lopes",
+    "assetArcId": "AMB:LOP000001873",
+    "website": "https://leandrolopes.io/",
+    "whitePaperUrl": "https://whitepaper.leandrolopes.io/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Leandro Lopes/arc_id=AMB:LOP000001873/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GNA000002896_AMB:USD000000335",
+        "normalizedPair": "gn_usdt",
+        "normalizedSymbol": "gn",
+        "nativePair": "GNUSDT",
+        "exchange": "mexc",
+        "assetName": "GoodNight",
+        "assetArcId": "AMB:GNA000002896",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gn_usdt",
+        "instrumentType": "spot"
+    }
+]

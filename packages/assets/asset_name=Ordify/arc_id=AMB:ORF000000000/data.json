@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "orfy",
+    "assetName": "Ordify",
+    "assetArcId": "AMB:ORF000000000",
+    "website": "https://ordify.world/",
+    "whitePaperUrl": "https://ordify.gitbook.io/ordifyworld/ordify/the-launchpad",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ordify/arc_id=AMB:ORF000000000/exchange=mexc/data.json"
+        ]
+    }
+}

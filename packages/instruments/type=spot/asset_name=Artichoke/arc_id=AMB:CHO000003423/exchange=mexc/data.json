@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHO000003423_AMB:USD000000335",
+        "normalizedPair": "choke_usdt",
+        "normalizedSymbol": "choke",
+        "nativePair": "CHOKEUSDT",
+        "exchange": "mexc",
+        "assetName": "Artichoke",
+        "assetArcId": "AMB:CHO000003423",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "choke_usdt",
+        "instrumentType": "spot"
+    }
+]

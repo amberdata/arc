@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "zogi",
+    "assetName": "ZOGI",
+    "assetArcId": "AMB:ZOG000002411",
+    "website": "https://www.zogilabs.io/",
+    "whitePaperUrl": "https://whitepaper.bezoge.com/token-overview/what-is-bezoge",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZOGI/arc_id=AMB:ZOG000002411/exchange=mexc/data.json"
+        ]
+    }
+}

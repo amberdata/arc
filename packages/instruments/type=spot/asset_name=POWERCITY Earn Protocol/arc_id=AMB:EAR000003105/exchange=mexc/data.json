@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EAR000003105_AMB:USD000000335",
+        "normalizedPair": "earn_usdt",
+        "normalizedSymbol": "earn",
+        "nativePair": "EARNUSDT",
+        "exchange": "mexc",
+        "assetName": "POWERCITY Earn Protocol",
+        "assetArcId": "AMB:EAR000003105",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "earn_usdt",
+        "instrumentType": "spot"
+    }
+]

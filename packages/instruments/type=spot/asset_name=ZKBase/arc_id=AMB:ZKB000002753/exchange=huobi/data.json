@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZKB000002753_AMB:USD000000335",
+        "normalizedPair": "zkb_usdt",
+        "normalizedSymbol": "zkb",
+        "nativePair": "zkbusdt",
+        "exchange": "huobi",
+        "assetName": "ZKBase",
+        "assetArcId": "AMB:ZKB000002753",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zkb_usdt",
+        "instrumentType": "spot"
+    }
+]

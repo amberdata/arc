@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "psp",
+    "assetName": "ParaSwap",
+    "assetArcId": "AMB:PSP000001102",
+    "website": "https://paraswap.io/#/?network=ethereum",
+    "whitePaperUrl": "/how-to-buy/PSP?utm_source=mexc&utm_medium=tokenifoPSP&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ParaSwap/arc_id=AMB:PSP000001102/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ParaSwap/arc_id=AMB:PSP000001102/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ParaSwap/arc_id=AMB:PSP000001102/exchange=mexc/data.json"
+        ]
+    }
+}

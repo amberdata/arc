@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "ondo",
+    "assetName": "Ondo Finance",
+    "assetArcId": "AMB:OND000002829",
+    "website": "https://ondo.finance/",
+    "whitePaperUrl": "https://docs.ondo.finance/",
+    "classificationTags": [
+        "Lending"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MTA000002710_AMB:USD000000335",
+        "normalizedPair": "mt.amb.1_usdt",
+        "normalizedSymbol": "mt.amb.1",
+        "nativePair": "MTUSDT",
+        "exchange": "mexc",
+        "assetName": "MT Tower",
+        "assetArcId": "AMB:MTA000002710",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mt_usdt",
+        "instrumentType": "spot"
+    }
+]

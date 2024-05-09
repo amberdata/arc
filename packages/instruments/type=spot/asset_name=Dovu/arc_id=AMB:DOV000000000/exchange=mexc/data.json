@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOV000000000_AMB:USD000000335",
+        "normalizedPair": "dovu_usdt",
+        "normalizedSymbol": "dovu",
+        "nativePair": "DOVUUSDT",
+        "exchange": "mexc",
+        "assetName": "Dovu",
+        "assetArcId": "AMB:DOV000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dovu_usdt",
+        "instrumentType": "spot"
+    }
+]

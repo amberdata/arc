@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "mlpepe",
+    "assetName": "MagicLampPePe",
+    "assetArcId": "AMB:MLP000000000",
+    "website": "https://www.magiclamppepe.com/",
+    "whitePaperUrl": "/how-to-buy/MLPEPE?utm_source=mexc&utm_medium=tokenifoMLPEPE&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MagicLampPePe/arc_id=AMB:MLP000000000/exchange=mexc/data.json"
+        ]
+    }
+}

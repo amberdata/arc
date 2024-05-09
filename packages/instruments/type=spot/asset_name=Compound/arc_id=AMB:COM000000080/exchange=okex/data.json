@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:COM000000080_AMB:BTC000000000",
+        "normalizedPair": "comp_btc",
+        "normalizedSymbol": "comp",
+        "nativePair": "COMP-BTC",
+        "exchange": "okex",
+        "assetName": "Compound",
+        "assetArcId": "AMB:COM000000080",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "comp_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:COM000000080_AMB:USD000000333",
+        "normalizedPair": "comp_usdc",
+        "normalizedSymbol": "comp",
+        "nativePair": "COMP-USDC",
+        "exchange": "okex",
+        "assetName": "Compound",
+        "assetArcId": "AMB:COM000000080",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "comp_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:COM000000080_AMB:USD000000335",
+        "normalizedPair": "comp_usdt",
+        "normalizedSymbol": "comp",
+        "nativePair": "COMP-USDT",
+        "exchange": "okex",
+        "assetName": "Compound",
+        "assetArcId": "AMB:COM000000080",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "comp_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:COM000000080_AMB:EUR000000120",
+        "normalizedPair": "comp_eur",
+        "normalizedSymbol": "comp",
+        "nativePair": "COMP-EUR",
+        "exchange": "okex",
+        "assetName": "Compound",
+        "assetArcId": "AMB:COM000000080",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "comp_eur",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "dragon",
+    "assetName": "SolDragon",
+    "assetArcId": "AMB:DRA000003313",
+    "website": "https://soldragon.xyz/",
+    "whitePaperUrl": "/how-to-buy/DRAGON?utm_source=mexc&utm_medium=tokenifoDRAGON&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SolDragon/arc_id=AMB:DRA000003313/exchange=mexc/data.json"
+        ]
+    }
+}

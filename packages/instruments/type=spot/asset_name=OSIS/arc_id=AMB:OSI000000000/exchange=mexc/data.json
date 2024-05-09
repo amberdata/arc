@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OSI000000000_AMB:USD000000335",
+        "normalizedPair": "osis_usdt",
+        "normalizedSymbol": "osis",
+        "nativePair": "OSISUSDT",
+        "exchange": "mexc",
+        "assetName": "OSIS",
+        "assetArcId": "AMB:OSI000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "osis_usdt",
+        "instrumentType": "spot"
+    }
+]

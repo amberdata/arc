@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NOR000000000_AMB:USD000000335",
+        "normalizedPair": "normiebase_usdt",
+        "normalizedSymbol": "normiebase",
+        "nativePair": "NORMIEBASE_USDT",
+        "exchange": "poloniex",
+        "assetName": "NORMIE",
+        "assetArcId": "AMB:NOR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "normiebase_usdt",
+        "instrumentType": "spot"
+    }
+]

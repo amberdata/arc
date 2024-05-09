@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "shx",
+    "assetName": "SHX",
+    "assetArcId": "AMB:SHX000000000",
+    "website": "https://stronghold.co/shx",
+    "whitePaperUrl": "https://docsend.com/view/dftxunt",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SHX/arc_id=AMB:SHX000000000/exchange=mexc/data.json"
+        ]
+    }
+}

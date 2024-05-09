@@ -1,0 +1,18 @@
+{
+    "assetSymbol": "zelix",
+    "assetName": "ZELIX",
+    "assetArcId": "AMB:ZEL000003441",
+    "website": "https://zelix.io/",
+    "whitePaperUrl": "https://zelix-io.gitbook.io/zelix/",
+    "classificationTags": [
+        "Gaming",
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZELIX/arc_id=AMB:ZEL000003441/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZELIX/arc_id=AMB:ZEL000003441/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZELIX/arc_id=AMB:ZEL000003441/exchange=mexc/data.json"
+        ]
+    }
+}

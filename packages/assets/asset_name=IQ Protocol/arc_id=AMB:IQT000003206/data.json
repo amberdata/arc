@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "iqt",
+    "assetName": "IQ Protocol",
+    "assetArcId": "AMB:IQT000003206",
+    "website": "https://www.iq.space/",
+    "whitePaperUrl": "/how-to-buy/IQT?utm_source=mexc&utm_medium=tokenifoIQT&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=IQ Protocol/arc_id=AMB:IQT000003206/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NVX000003270_AMB:USD000000335",
+        "normalizedPair": "nvx_usdt",
+        "normalizedSymbol": "nvx",
+        "nativePair": "NVXUSDT",
+        "exchange": "mexc",
+        "assetName": "NovaDEX",
+        "assetArcId": "AMB:NVX000003270",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nvx_usdt",
+        "instrumentType": "spot"
+    }
+]

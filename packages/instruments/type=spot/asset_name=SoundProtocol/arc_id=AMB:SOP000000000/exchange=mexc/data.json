@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SOP000000000_AMB:USD000000335",
+        "normalizedPair": "sop_usdt",
+        "normalizedSymbol": "sop",
+        "nativePair": "SOPUSDT",
+        "exchange": "mexc",
+        "assetName": "SoundProtocol",
+        "assetArcId": "AMB:SOP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sop_usdt",
+        "instrumentType": "spot"
+    }
+]

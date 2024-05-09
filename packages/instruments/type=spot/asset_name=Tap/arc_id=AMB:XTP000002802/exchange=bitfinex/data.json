@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:XTP000002802_AMB:USD000000335",
+        "normalizedPair": "xtp_usdt",
+        "normalizedSymbol": "xtp",
+        "nativePair": "tXTPUST",
+        "exchange": "bitfinex",
+        "assetName": "Tap",
+        "assetArcId": "AMB:XTP000002802",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xtp_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XTP000002802_AMB:USD000000949",
+        "normalizedPair": "xtp_usd",
+        "normalizedSymbol": "xtp",
+        "nativePair": "tXTPUSD",
+        "exchange": "bitfinex",
+        "assetName": "Tap",
+        "assetArcId": "AMB:XTP000002802",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xtp_usd",
+        "instrumentType": "spot"
+    }
+]

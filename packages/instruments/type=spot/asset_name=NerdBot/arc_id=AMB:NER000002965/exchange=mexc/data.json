@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NER000002965_AMB:USD000000335",
+        "normalizedPair": "nerd_usdt",
+        "normalizedSymbol": "nerd",
+        "nativePair": "NERDUSDT",
+        "exchange": "mexc",
+        "assetName": "NerdBot",
+        "assetArcId": "AMB:NER000002965",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nerd_usdt",
+        "instrumentType": "spot"
+    }
+]

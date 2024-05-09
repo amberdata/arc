@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "lngai",
+    "assetName": "Lightning AI",
+    "assetArcId": "AMB:LNG000000000",
+    "website": "https://www.lightningaicoin.com/",
+    "whitePaperUrl": "/how-to-buy/LNGAI?utm_source=mexc&utm_medium=tokenifoLNGAI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Lightning AI/arc_id=AMB:LNG000000000/exchange=mexc/data.json"
+        ]
+    }
+}

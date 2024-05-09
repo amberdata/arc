@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ggd",
+    "assetName": "GGrid Network Token",
+    "assetArcId": "AMB:GGD000000000",
+    "website": "https://www.ggrid.xyz/",
+    "whitePaperUrl": "https://g-grid.gitbook.io/g-grid-network/intro/introduction",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GGrid Network Token/arc_id=AMB:GGD000000000/exchange=mexc/data.json"
+        ]
+    }
+}

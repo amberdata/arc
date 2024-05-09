@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZEU000000000_AMB:USD000000335",
+        "normalizedPair": "zeus1_usdt",
+        "normalizedSymbol": "zeus1",
+        "nativePair": "ZEUS1USDT",
+        "exchange": "mexc",
+        "assetName": "Sword of Zeus",
+        "assetArcId": "AMB:ZEU000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zeus1_usdt",
+        "instrumentType": "spot"
+    }
+]

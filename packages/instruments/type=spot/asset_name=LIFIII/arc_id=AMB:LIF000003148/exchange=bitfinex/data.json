@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LIF000003148_AMB:USD000000949",
+        "normalizedPair": "lifiii_usd",
+        "normalizedSymbol": "lifiii",
+        "nativePair": "tLIFIII:USD",
+        "exchange": "bitfinex",
+        "assetName": "LIFIII",
+        "assetArcId": "AMB:LIF000003148",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "lifiii_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LIF000003148_AMB:USD000000335",
+        "normalizedPair": "lifiii_usdt",
+        "normalizedSymbol": "lifiii",
+        "nativePair": "tLIFIII:UST",
+        "exchange": "bitfinex",
+        "assetName": "LIFIII",
+        "assetArcId": "AMB:LIF000003148",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lifiii_usdt",
+        "instrumentType": "spot"
+    }
+]

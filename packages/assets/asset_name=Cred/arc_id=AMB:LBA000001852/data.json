@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "lba",
+    "assetName": "Cred",
+    "assetArcId": "AMB:LBA000001852",
+    "website": "#",
+    "whitePaperUrl": "/how-to-buy/LBA?utm_source=mexc&utm_medium=tokenifoLBA&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cred/arc_id=AMB:LBA000001852/exchange=mexc/data.json"
+        ]
+    }
+}

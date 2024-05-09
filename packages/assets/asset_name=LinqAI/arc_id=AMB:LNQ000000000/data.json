@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "lnq",
+    "assetName": "LinqAI",
+    "assetArcId": "AMB:LNQ000000000",
+    "website": "https://linqai.com",
+    "whitePaperUrl": "https://docs.linqai.com/whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=LinqAI/arc_id=AMB:LNQ000000000/exchange=mexc/data.json"
+        ]
+    }
+}

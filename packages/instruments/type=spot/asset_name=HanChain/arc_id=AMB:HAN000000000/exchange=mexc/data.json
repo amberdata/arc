@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HAN000000000_AMB:USD000000335",
+        "normalizedPair": "han_usdt",
+        "normalizedSymbol": "han",
+        "nativePair": "HANUSDT",
+        "exchange": "mexc",
+        "assetName": "HanChain",
+        "assetArcId": "AMB:HAN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "han_usdt",
+        "instrumentType": "spot"
+    }
+]

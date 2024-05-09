@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RWX000003043_AMB:USD000000335",
+        "normalizedPair": "rwx_usdt",
+        "normalizedSymbol": "rwx",
+        "nativePair": "RWXUSDT",
+        "exchange": "mexc",
+        "assetName": "RealWorldX",
+        "assetArcId": "AMB:RWX000003043",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rwx_usdt",
+        "instrumentType": "spot"
+    }
+]

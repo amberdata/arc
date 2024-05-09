@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "iptoken",
+    "assetName": "IPTOKEN",
+    "assetArcId": "AMB:IPT000000000",
+    "website": "http://www.ipctoken.xyz/",
+    "whitePaperUrl": "/how-to-buy/IPTOKEN?utm_source=mexc&utm_medium=tokenifoIPTOKEN&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=IPTOKEN/arc_id=AMB:IPT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

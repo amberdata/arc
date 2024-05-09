@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "pkt",
+    "assetName": "PKT Cash",
+    "assetArcId": "AMB:PKT000000000",
+    "website": "https://pkt.cash/",
+    "whitePaperUrl": "https://pkt.cash/PKT_Network_v1.0_2021.02.01.pdf",
+    "classificationTags": [
+        "DePIN"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PKT Cash/arc_id=AMB:PKT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

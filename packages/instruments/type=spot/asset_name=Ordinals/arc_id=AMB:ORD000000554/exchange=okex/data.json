@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ORD000000554_AMB:USD000000335",
+        "normalizedPair": "ordi_usdt",
+        "normalizedSymbol": "ordi",
+        "nativePair": "ORDI-USDT",
+        "exchange": "okex",
+        "assetName": "Ordinals",
+        "assetArcId": "AMB:ORD000000554",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ordi_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ORD000000554_AMB:USD000000333",
+        "normalizedPair": "ordi_usdc",
+        "normalizedSymbol": "ordi",
+        "nativePair": "ORDI-USDC",
+        "exchange": "okex",
+        "assetName": "Ordinals",
+        "assetArcId": "AMB:ORD000000554",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "ordi_usdc",
+        "instrumentType": "spot"
+    }
+]

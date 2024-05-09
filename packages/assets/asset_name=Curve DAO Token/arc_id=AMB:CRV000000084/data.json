@@ -1,0 +1,38 @@
+{
+    "assetSymbol": "crv",
+    "assetName": "Curve DAO Token",
+    "assetArcId": "AMB:CRV000000084",
+    "website": "https://curve.fi/",
+    "whitePaperUrl": "https://curve.fi/whitepaper",
+    "classificationTags": [
+        "DEX",
+        "Governance",
+        "Smart Contract",
+        "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xD533a949740bb3306d119CC777fa900bA034cd52"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Curve DAO Token/arc_id=AMB:CRV000000084/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Curve DAO Token/arc_id=AMB:CRV000000084/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Curve DAO Token/arc_id=AMB:CRV000000084/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Curve DAO Token/arc_id=AMB:CRV000000084/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Curve DAO Token/arc_id=AMB:CRV000000084/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Curve DAO Token/arc_id=AMB:CRV000000084/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Curve DAO Token/arc_id=AMB:CRV000000084/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Curve DAO Token/arc_id=AMB:CRV000000084/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Curve DAO Token/arc_id=AMB:CRV000000084/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Curve DAO Token/arc_id=AMB:CRV000000084/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Curve DAO Token/arc_id=AMB:CRV000000084/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Curve DAO Token/arc_id=AMB:CRV000000084/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Curve DAO Token/arc_id=AMB:CRV000000084/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Curve DAO Token/arc_id=AMB:CRV000000084/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Curve DAO Token/arc_id=AMB:CRV000000084/exchange=zb/data.json"
+        ]
+    }
+}

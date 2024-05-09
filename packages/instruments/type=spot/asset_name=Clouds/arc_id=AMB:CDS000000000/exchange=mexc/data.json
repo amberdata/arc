@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CDS000000000_AMB:USD000000335",
+        "normalizedPair": "cds_usdt",
+        "normalizedSymbol": "cds",
+        "nativePair": "CDSUSDT",
+        "exchange": "mexc",
+        "assetName": "Clouds",
+        "assetArcId": "AMB:CDS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cds_usdt",
+        "instrumentType": "spot"
+    }
+]

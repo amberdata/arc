@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:AGI000000008_AMB:BTC000000000",
+        "normalizedPair": "agix_btc",
+        "normalizedSymbol": "agix",
+        "nativePair": "AGIXBTC",
+        "exchange": "binance",
+        "assetName": "SingularityNET",
+        "assetArcId": "AMB:AGI000000008",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "agix_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AGI000000008_AMB:BUS000000067",
+        "normalizedPair": "agix_busd",
+        "normalizedSymbol": "agix",
+        "nativePair": "AGIXBUSD",
+        "exchange": "binance",
+        "assetName": "SingularityNET",
+        "assetArcId": "AMB:AGI000000008",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "agix_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AGI000000008_AMB:TRY000000940",
+        "normalizedPair": "agix_try",
+        "normalizedSymbol": "agix",
+        "nativePair": "AGIXTRY",
+        "exchange": "binance",
+        "assetName": "SingularityNET",
+        "assetArcId": "AMB:AGI000000008",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "agix_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AGI000000008_AMB:USD000000335",
+        "normalizedPair": "agix_usdt",
+        "normalizedSymbol": "agix",
+        "nativePair": "AGIXUSDT",
+        "exchange": "binance",
+        "assetName": "SingularityNET",
+        "assetArcId": "AMB:AGI000000008",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "agix_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AGI000000008_AMB:FDU000000122",
+        "normalizedPair": "agix_fdusd",
+        "normalizedSymbol": "agix",
+        "nativePair": "AGIXFDUSD",
+        "exchange": "binance",
+        "assetName": "SingularityNET",
+        "assetArcId": "AMB:AGI000000008",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "agix_fdusd",
+        "instrumentType": "spot"
+    }
+]

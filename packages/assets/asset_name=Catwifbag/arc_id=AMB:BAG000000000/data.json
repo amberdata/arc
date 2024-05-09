@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "bag",
+    "assetName": "Catwifbag",
+    "assetArcId": "AMB:BAG000000000",
+    "website": "https://wifbag.xyz/",
+    "whitePaperUrl": "/how-to-buy/BAG?utm_source=mexc&utm_medium=tokenifoBAG&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Catwifbag/arc_id=AMB:BAG000000000/exchange=mexc/data.json"
+        ]
+    }
+}
