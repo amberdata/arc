@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SPH000002219_AMB:USD000000335",
+        "normalizedPair": "sph_usdt",
+        "normalizedSymbol": "sph",
+        "nativePair": "SPHUSDT",
+        "exchange": "mexc",
+        "assetName": "Spheroid Universe",
+        "assetArcId": "AMB:SPH000002219",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sph_usdt",
+        "instrumentType": "spot"
+    }
+]

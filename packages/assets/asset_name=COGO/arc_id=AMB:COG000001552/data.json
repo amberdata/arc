@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cogo",
+    "assetName": "COGO",
+    "assetArcId": "AMB:COG000001552",
+    "website": "https://www.coinghost.com/",
+    "whitePaperUrl": "/how-to-buy/COGO?utm_source=mexc&utm_medium=tokenifoCOGO&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=COGO/arc_id=AMB:COG000001552/exchange=mexc/data.json"
+        ]
+    }
+}

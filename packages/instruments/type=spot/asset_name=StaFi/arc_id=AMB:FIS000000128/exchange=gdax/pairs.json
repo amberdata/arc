@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FIS000000128_AMB:USD000000949",
+        "normalizedPair": "fis_usd",
+        "normalizedSymbol": "fis",
+        "nativePair": "FIS-USD",
+        "exchange": "gdax",
+        "assetName": "StaFi",
+        "assetArcId": "AMB:FIS000000128",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "fis_usd",
+        "instrumentType": "spot"
+    }
+]

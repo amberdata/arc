@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "sut",
+    "assetName": "Shaunt Gaming",
+    "assetArcId": "AMB:SUT000000000",
+    "website": "https://shaunt.fun/",
+    "whitePaperUrl": "https://airbot-organization.gitbook.io/shaunt-gaming",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Shaunt Gaming/arc_id=AMB:SUT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

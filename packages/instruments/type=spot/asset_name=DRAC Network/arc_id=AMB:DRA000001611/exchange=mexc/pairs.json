@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DRA000001611_AMB:USD000000335",
+        "normalizedPair": "drac_usdt",
+        "normalizedSymbol": "drac",
+        "nativePair": "DRACUSDT",
+        "exchange": "mexc",
+        "assetName": "DRAC Network",
+        "assetArcId": "AMB:DRA000001611",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "drac_usdt",
+        "instrumentType": "spot"
+    }
+]

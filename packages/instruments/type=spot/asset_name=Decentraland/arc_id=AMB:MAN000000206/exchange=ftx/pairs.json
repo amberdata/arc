@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAN000000206_AMB:USD000000949",
+        "normalizedPair": "mana_usd",
+        "normalizedSymbol": "mana",
+        "nativePair": "MANA/USD",
+        "exchange": "ftx",
+        "assetName": "Decentraland",
+        "assetArcId": "AMB:MAN000000206",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mana_usd",
+        "instrumentType": "spot"
+    }
+]

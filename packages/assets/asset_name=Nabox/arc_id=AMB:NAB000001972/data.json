@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "nabox",
+    "assetName": "Nabox",
+    "assetArcId": "AMB:NAB000001972",
+    "website": "https://nabox.io/",
+    "whitePaperUrl": "/how-to-buy/NABOX?utm_source=mexc&utm_medium=tokenifoNABOX&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Nabox/arc_id=AMB:NAB000001972/exchange=mexc/data.json"
+        ]
+    }
+}

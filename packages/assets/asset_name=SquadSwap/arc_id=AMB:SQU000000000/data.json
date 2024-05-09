@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "squad",
+    "assetName": "SquadSwap",
+    "assetArcId": "AMB:SQU000000000",
+    "website": "https://squadswap.com/",
+    "whitePaperUrl": "https://squadswap.com/squadswapwhitepaper.pdf",
+    "classificationTags": [
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SquadSwap/arc_id=AMB:SQU000000000/exchange=mexc/data.json"
+        ]
+    }
+}

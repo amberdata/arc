@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAP000001161_AMB:USD000000335",
+        "normalizedPair": "map_usdt",
+        "normalizedSymbol": "map",
+        "nativePair": "MAPUSDT",
+        "exchange": "mexc",
+        "assetName": "MAP Protocol",
+        "assetArcId": "AMB:MAP000001161",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "map_usdt",
+        "instrumentType": "spot"
+    }
+]

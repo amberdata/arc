@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RND000000281_AMB:USD000000949",
+        "normalizedPair": "rndr_usd",
+        "normalizedSymbol": "rndr",
+        "nativePair": "RNDR/USD",
+        "exchange": "ftx",
+        "assetName": "Render",
+        "assetArcId": "AMB:RND000000281",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "rndr_usd",
+        "instrumentType": "spot"
+    }
+]

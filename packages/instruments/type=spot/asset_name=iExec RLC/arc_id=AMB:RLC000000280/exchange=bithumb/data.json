@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RLC000000280_AMB:KRW000000000",
+        "normalizedPair": "rlc_krw",
+        "normalizedSymbol": "rlc",
+        "nativePair": "RLC/KRW",
+        "exchange": "bithumb",
+        "assetName": "iExec RLC",
+        "assetArcId": "AMB:RLC000000280",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "rlc_krw",
+        "instrumentType": "spot"
+    }
+]

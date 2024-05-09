@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EVD000000000_AMB:USD000000335",
+        "normalizedPair": "evdc_usdt",
+        "normalizedSymbol": "evdc",
+        "nativePair": "EVDCUSDT",
+        "exchange": "mexc",
+        "assetName": "EVDC Network",
+        "assetArcId": "AMB:EVD000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "evdc_usdt",
+        "instrumentType": "spot"
+    }
+]

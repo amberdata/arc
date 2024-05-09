@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:DAI000000394_AMB:USD000000949",
+        "normalizedPair": "dai_usd",
+        "normalizedSymbol": "dai",
+        "nativePair": "DAI/USD",
+        "exchange": "ftx",
+        "assetName": "Dai",
+        "assetArcId": "AMB:DAI000000394",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dai_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DAI000000394_AMB:USD000000335",
+        "normalizedPair": "dai_usdt",
+        "normalizedSymbol": "dai",
+        "nativePair": "DAI/USDT",
+        "exchange": "ftx",
+        "assetName": "Dai",
+        "assetArcId": "AMB:DAI000000394",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dai_usdt",
+        "instrumentType": "spot"
+    }
+]

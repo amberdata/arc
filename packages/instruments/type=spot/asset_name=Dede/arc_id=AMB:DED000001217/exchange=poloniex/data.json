@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DED000001217_AMB:USD000000335",
+        "normalizedPair": "dede_usdt",
+        "normalizedSymbol": "dede",
+        "nativePair": "DEDE_USDT",
+        "exchange": "poloniex",
+        "assetName": "Dede",
+        "assetArcId": "AMB:DED000001217",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dede_usdt",
+        "instrumentType": "spot"
+    }
+]

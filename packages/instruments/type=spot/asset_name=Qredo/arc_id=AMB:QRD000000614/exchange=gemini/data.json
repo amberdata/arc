@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:QRD000000614_AMB:USD000000949",
+        "normalizedPair": "qrdo_usd",
+        "normalizedSymbol": "qrdo",
+        "nativePair": "qrdousd",
+        "exchange": "gemini",
+        "assetName": "Qredo",
+        "assetArcId": "AMB:QRD000000614",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "qrdo_usd",
+        "instrumentType": "spot"
+    }
+]

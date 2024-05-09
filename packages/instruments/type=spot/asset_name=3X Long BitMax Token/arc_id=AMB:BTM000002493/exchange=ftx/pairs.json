@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BTM000002493_AMB:USD000000949",
+        "normalizedPair": "btmxbull_usd",
+        "normalizedSymbol": "btmxbull",
+        "nativePair": "BTMXBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long BitMax Token",
+        "assetArcId": "AMB:BTM000002493",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "btmxbull_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTM000002493_AMB:USD000000335",
+        "normalizedPair": "btmxbull_usdt",
+        "normalizedSymbol": "btmxbull",
+        "nativePair": "BTMXBULL/USDT",
+        "exchange": "ftx",
+        "assetName": "3X Long BitMax Token",
+        "assetArcId": "AMB:BTM000002493",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "btmxbull_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RFO000002128_AMB:USD000000335",
+        "normalizedPair": "rfox_usdt",
+        "normalizedSymbol": "rfox",
+        "nativePair": "RFOXUSDT",
+        "exchange": "mexc",
+        "assetName": "RFOX",
+        "assetArcId": "AMB:RFO000002128",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rfox_usdt",
+        "instrumentType": "spot"
+    }
+]

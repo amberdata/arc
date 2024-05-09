@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:QUA000002107_AMB:USD000000335",
+        "normalizedPair": "quack_usdt",
+        "normalizedSymbol": "quack",
+        "nativePair": "QUACKUSDT",
+        "exchange": "mexc",
+        "assetName": "RichQUACK.com",
+        "assetArcId": "AMB:QUA000002107",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "quack_usdt",
+        "instrumentType": "spot"
+    }
+]

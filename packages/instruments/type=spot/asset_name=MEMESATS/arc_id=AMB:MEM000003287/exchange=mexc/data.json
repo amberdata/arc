@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MEM000003287_AMB:USD000000335",
+        "normalizedPair": "memrsats_usdt",
+        "normalizedSymbol": "memrsats",
+        "nativePair": "MEMRSATSUSDT",
+        "exchange": "mexc",
+        "assetName": "MEMESATS",
+        "assetArcId": "AMB:MEM000003287",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "memrsats_usdt",
+        "instrumentType": "spot"
+    }
+]

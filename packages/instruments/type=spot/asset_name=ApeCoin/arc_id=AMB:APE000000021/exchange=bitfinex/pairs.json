@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:APE000000021_AMB:USD000000949",
+        "normalizedPair": "ape_usd",
+        "normalizedSymbol": "ape",
+        "nativePair": "tAPEUSD",
+        "exchange": "bitfinex",
+        "assetName": "ApeCoin",
+        "assetArcId": "AMB:APE000000021",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ape_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APE000000021_AMB:USD000000335",
+        "normalizedPair": "ape_usdt",
+        "normalizedSymbol": "ape",
+        "nativePair": "tAPEUST",
+        "exchange": "bitfinex",
+        "assetName": "ApeCoin",
+        "assetArcId": "AMB:APE000000021",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ape_usdt",
+        "instrumentType": "spot"
+    }
+]

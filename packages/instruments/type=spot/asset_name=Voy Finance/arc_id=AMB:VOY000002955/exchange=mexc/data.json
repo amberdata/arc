@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VOY000002955_AMB:USD000000335",
+        "normalizedPair": "voy_usdt",
+        "normalizedSymbol": "voy",
+        "nativePair": "VOYUSDT",
+        "exchange": "mexc",
+        "assetName": "Voy Finance",
+        "assetArcId": "AMB:VOY000002955",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "voy_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:POW000000258_AMB:EUR000000120",
+        "normalizedPair": "powr_eur",
+        "normalizedSymbol": "powr",
+        "nativePair": "POWREUR",
+        "exchange": "kraken",
+        "assetName": "Powerledger",
+        "assetArcId": "AMB:POW000000258",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "powr_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:POW000000258_AMB:USD000000949",
+        "normalizedPair": "powr_usd",
+        "normalizedSymbol": "powr",
+        "nativePair": "POWRUSD",
+        "exchange": "kraken",
+        "assetName": "Powerledger",
+        "assetArcId": "AMB:POW000000258",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "powr_usd",
+        "instrumentType": "spot"
+    }
+]

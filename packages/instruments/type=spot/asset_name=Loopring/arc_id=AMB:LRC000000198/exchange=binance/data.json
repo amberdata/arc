@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:LRC000000198_AMB:BTC000000000",
+        "normalizedPair": "lrc_btc",
+        "normalizedSymbol": "lrc",
+        "nativePair": "LRCBTC",
+        "exchange": "binance",
+        "assetName": "Loopring",
+        "assetArcId": "AMB:LRC000000198",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "lrc_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LRC000000198_AMB:ETH000000000",
+        "normalizedPair": "lrc_eth",
+        "normalizedSymbol": "lrc",
+        "nativePair": "LRCETH",
+        "exchange": "binance",
+        "assetName": "Loopring",
+        "assetArcId": "AMB:LRC000000198",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "lrc_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LRC000000198_AMB:TRY000000940",
+        "normalizedPair": "lrc_try",
+        "normalizedSymbol": "lrc",
+        "nativePair": "LRCTRY",
+        "exchange": "binance",
+        "assetName": "Loopring",
+        "assetArcId": "AMB:LRC000000198",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "lrc_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LRC000000198_AMB:USD000000335",
+        "normalizedPair": "lrc_usdt",
+        "normalizedSymbol": "lrc",
+        "nativePair": "LRCUSDT",
+        "exchange": "binance",
+        "assetName": "Loopring",
+        "assetArcId": "AMB:LRC000000198",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lrc_usdt",
+        "instrumentType": "spot"
+    }
+]

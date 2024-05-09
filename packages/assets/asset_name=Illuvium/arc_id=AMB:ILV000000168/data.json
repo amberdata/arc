@@ -1,0 +1,29 @@
+{
+    "assetSymbol": "ilv",
+    "assetName": "Illuvium",
+    "assetArcId": "AMB:ILV000000168",
+    "website": "https://www.illuvium.io/",
+    "whitePaperUrl": "https://docs.illuvium.io/",
+    "classificationTags": [
+        "Gaming",
+        "Governance",
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Illuvium/arc_id=AMB:ILV000000168/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Illuvium/arc_id=AMB:ILV000000168/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Illuvium/arc_id=AMB:ILV000000168/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Illuvium/arc_id=AMB:ILV000000168/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Illuvium/arc_id=AMB:ILV000000168/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Illuvium/arc_id=AMB:ILV000000168/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Illuvium/arc_id=AMB:ILV000000168/exchange=mexc/data.json"
+        ]
+    }
+}

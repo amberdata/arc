@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:RPL000000283_AMB:USD000000333",
+        "normalizedPair": "rpl_usdc",
+        "normalizedSymbol": "rpl",
+        "nativePair": "RPL-USDC",
+        "exchange": "okex",
+        "assetName": "Rocket Pool",
+        "assetArcId": "AMB:RPL000000283",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "rpl_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RPL000000283_AMB:USD000000335",
+        "normalizedPair": "rpl_usdt",
+        "normalizedSymbol": "rpl",
+        "nativePair": "RPL-USDT",
+        "exchange": "okex",
+        "assetName": "Rocket Pool",
+        "assetArcId": "AMB:RPL000000283",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rpl_usdt",
+        "instrumentType": "spot"
+    }
+]

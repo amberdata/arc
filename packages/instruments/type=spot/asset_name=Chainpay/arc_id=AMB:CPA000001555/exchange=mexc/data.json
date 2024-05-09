@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CPA000001555_AMB:USD000000335",
+        "normalizedPair": "cpay_usdt",
+        "normalizedSymbol": "cpay",
+        "nativePair": "CPAYUSDT",
+        "exchange": "mexc",
+        "assetName": "Chainpay",
+        "assetArcId": "AMB:CPA000001555",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cpay_usdt",
+        "instrumentType": "spot"
+    }
+]

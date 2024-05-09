@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:WIN000000351_AMB:BTC000000000",
+        "normalizedPair": "wing_btc",
+        "normalizedSymbol": "wing",
+        "nativePair": "WINGBTC",
+        "exchange": "binance",
+        "assetName": "Wing Finance",
+        "assetArcId": "AMB:WIN000000351",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "wing_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WIN000000351_AMB:BUS000000067",
+        "normalizedPair": "wing_busd",
+        "normalizedSymbol": "wing",
+        "nativePair": "WINGBUSD",
+        "exchange": "binance",
+        "assetName": "Wing Finance",
+        "assetArcId": "AMB:WIN000000351",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "wing_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WIN000000351_AMB:USD000000335",
+        "normalizedPair": "wing_usdt",
+        "normalizedSymbol": "wing",
+        "nativePair": "WINGUSDT",
+        "exchange": "binance",
+        "assetName": "Wing Finance",
+        "assetArcId": "AMB:WIN000000351",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wing_usdt",
+        "instrumentType": "spot"
+    }
+]

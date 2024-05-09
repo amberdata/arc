@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BIS000001466_AMB:USD000000335",
+        "normalizedPair": "bist_usdt",
+        "normalizedSymbol": "bist",
+        "nativePair": "BISTUSDT",
+        "exchange": "mexc",
+        "assetName": "Bistroo",
+        "assetArcId": "AMB:BIS000001466",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bist_usdt",
+        "instrumentType": "spot"
+    }
+]

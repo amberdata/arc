@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ERN000000116_AMB:USD000000335",
+        "normalizedPair": "ern_usdt",
+        "normalizedSymbol": "ern",
+        "nativePair": "ERN_USDT",
+        "exchange": "poloniex",
+        "assetName": "Ethernity Chain",
+        "assetArcId": "AMB:ERN000000116",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ern_usdt",
+        "instrumentType": "spot"
+    }
+]

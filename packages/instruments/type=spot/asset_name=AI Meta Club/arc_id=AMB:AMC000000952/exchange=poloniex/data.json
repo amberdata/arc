@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AMC000000952_AMB:USD000000335",
+        "normalizedPair": "amc_usdt",
+        "normalizedSymbol": "amc",
+        "nativePair": "AMC_USDT",
+        "exchange": "poloniex",
+        "assetName": "AI Meta Club",
+        "assetArcId": "AMB:AMC000000952",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "amc_usdt",
+        "instrumentType": "spot"
+    }
+]

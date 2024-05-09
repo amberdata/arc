@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MMT000001267_AMB:USD000000335",
+        "normalizedPair": "mmt.amb.1_usdt",
+        "normalizedSymbol": "mmt.amb.1",
+        "nativePair": "MMTUSDT",
+        "exchange": "mexc",
+        "assetName": "MeMusic",
+        "assetArcId": "AMB:MMT000001267",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mmt_usdt",
+        "instrumentType": "spot"
+    }
+]

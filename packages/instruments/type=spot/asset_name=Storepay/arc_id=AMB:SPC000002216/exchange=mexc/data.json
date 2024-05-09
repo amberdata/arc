@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SPC000002216_AMB:USD000000335",
+        "normalizedPair": "spc_usdt",
+        "normalizedSymbol": "spc",
+        "nativePair": "SPCUSDT",
+        "exchange": "mexc",
+        "assetName": "Storepay",
+        "assetArcId": "AMB:SPC000002216",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "spc_usdt",
+        "instrumentType": "spot"
+    }
+]

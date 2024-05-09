@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:CRV000000084_AMB:USD000000949",
+        "normalizedPair": "crv_usd",
+        "normalizedSymbol": "crv",
+        "nativePair": "tCRVUSD",
+        "exchange": "bitfinex",
+        "assetName": "Curve DAO Token",
+        "assetArcId": "AMB:CRV000000084",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "crv_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CRV000000084_AMB:USD000000335",
+        "normalizedPair": "crv_usdt",
+        "normalizedSymbol": "crv",
+        "nativePair": "tCRVUST",
+        "exchange": "bitfinex",
+        "assetName": "Curve DAO Token",
+        "assetArcId": "AMB:CRV000000084",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "crv_usdt",
+        "instrumentType": "spot"
+    }
+]

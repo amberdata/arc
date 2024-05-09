@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "test",
+    "assetName": "Test",
+    "assetArcId": "AMB:TES000001321",
+    "website": "--",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x807534B396919783B7e30383Fe57D857BC084338"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Test/arc_id=AMB:TES000001321/exchange=poloniex/data.json"
+        ]
+    }
+}

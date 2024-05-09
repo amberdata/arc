@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EUR000000120_AMB:USD000000949",
+        "normalizedPair": "eur_usd",
+        "normalizedSymbol": "eur",
+        "nativePair": "EUR/USD",
+        "exchange": "ftxus",
+        "assetName": "Euro",
+        "assetArcId": "AMB:EUR000000120",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "eur_usd",
+        "instrumentType": "spot"
+    }
+]

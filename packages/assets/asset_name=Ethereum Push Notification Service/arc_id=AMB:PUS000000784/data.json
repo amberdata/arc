@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "push",
+    "assetName": "Ethereum Push Notification Service",
+    "assetArcId": "AMB:PUS000000784",
+    "website": "https://push.org/",
+    "whitePaperUrl": "https://whitepaper.push.org/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ethereum Push Notification Service/arc_id=AMB:PUS000000784/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ethereum Push Notification Service/arc_id=AMB:PUS000000784/exchange=mexc/data.json"
+        ]
+    }
+}

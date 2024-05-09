@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOM000003226_AMB:USD000000335",
+        "normalizedPair": "tombplus_usdt",
+        "normalizedSymbol": "tombplus",
+        "nativePair": "TOMBPLUSUSDT",
+        "exchange": "mexc",
+        "assetName": "Tombplus",
+        "assetArcId": "AMB:TOM000003226",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tombplus_usdt",
+        "instrumentType": "spot"
+    }
+]

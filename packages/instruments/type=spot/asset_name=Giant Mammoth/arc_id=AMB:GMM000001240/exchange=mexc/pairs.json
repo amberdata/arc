@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GMM000001240_AMB:USD000000335",
+        "normalizedPair": "gmmt_usdt",
+        "normalizedSymbol": "gmmt",
+        "nativePair": "GMMTUSDT",
+        "exchange": "mexc",
+        "assetName": "Giant Mammoth",
+        "assetArcId": "AMB:GMM000001240",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gmmt_usdt",
+        "instrumentType": "spot"
+    }
+]

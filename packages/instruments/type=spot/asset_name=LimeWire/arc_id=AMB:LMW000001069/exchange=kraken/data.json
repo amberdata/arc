@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LMW000001069_AMB:EUR000000120",
+        "normalizedPair": "lmwr_eur",
+        "normalizedSymbol": "lmwr",
+        "nativePair": "LMWREUR",
+        "exchange": "kraken",
+        "assetName": "LimeWire",
+        "assetArcId": "AMB:LMW000001069",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "lmwr_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LMW000001069_AMB:USD000000949",
+        "normalizedPair": "lmwr_usd",
+        "normalizedSymbol": "lmwr",
+        "nativePair": "LMWRUSD",
+        "exchange": "kraken",
+        "assetName": "LimeWire",
+        "assetArcId": "AMB:LMW000001069",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "lmwr_usd",
+        "instrumentType": "spot"
+    }
+]

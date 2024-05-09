@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "memeking",
+    "assetName": "MEMEKING",
+    "assetArcId": "AMB:MEM000003459",
+    "website": "https://www.bscmemeking.com/",
+    "whitePaperUrl": "/how-to-buy/MEMEKING?utm_source=mexc&utm_medium=tokenifoMEMEKING&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MEMEKING/arc_id=AMB:MEM000003459/exchange=mexc/data.json"
+        ]
+    }
+}

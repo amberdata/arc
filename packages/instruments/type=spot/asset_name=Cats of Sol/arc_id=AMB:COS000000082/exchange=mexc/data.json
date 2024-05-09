@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COS000000082_AMB:USD000000335",
+        "normalizedPair": "cos.amb.1_usdt",
+        "normalizedSymbol": "cos.amb.1",
+        "nativePair": "COSUSDT",
+        "exchange": "mexc",
+        "assetName": "Cats of Sol",
+        "assetArcId": "AMB:COS000000082",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cos_usdt",
+        "instrumentType": "spot"
+    }
+]

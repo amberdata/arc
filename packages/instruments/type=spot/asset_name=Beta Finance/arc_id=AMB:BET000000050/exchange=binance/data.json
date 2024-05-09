@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:BET000000050_AMB:BTC000000000",
+        "normalizedPair": "beta_btc",
+        "normalizedSymbol": "beta",
+        "nativePair": "BETABTC",
+        "exchange": "binance",
+        "assetName": "Beta Finance",
+        "assetArcId": "AMB:BET000000050",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "beta_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BET000000050_AMB:BUS000000067",
+        "normalizedPair": "beta_busd",
+        "normalizedSymbol": "beta",
+        "nativePair": "BETABUSD",
+        "exchange": "binance",
+        "assetName": "Beta Finance",
+        "assetArcId": "AMB:BET000000050",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "beta_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BET000000050_AMB:ETH000000000",
+        "normalizedPair": "beta_eth",
+        "normalizedSymbol": "beta",
+        "nativePair": "BETAETH",
+        "exchange": "binance",
+        "assetName": "Beta Finance",
+        "assetArcId": "AMB:BET000000050",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "beta_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BET000000050_AMB:USD000000335",
+        "normalizedPair": "beta_usdt",
+        "normalizedSymbol": "beta",
+        "nativePair": "BETAUSDT",
+        "exchange": "binance",
+        "assetName": "Beta Finance",
+        "assetArcId": "AMB:BET000000050",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "beta_usdt",
+        "instrumentType": "spot"
+    }
+]

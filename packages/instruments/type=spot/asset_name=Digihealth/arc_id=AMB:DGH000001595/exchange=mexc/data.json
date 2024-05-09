@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DGH000001595_AMB:USD000000335",
+        "normalizedPair": "dgh_usdt",
+        "normalizedSymbol": "dgh",
+        "nativePair": "DGHUSDT",
+        "exchange": "mexc",
+        "assetName": "Digihealth",
+        "assetArcId": "AMB:DGH000001595",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dgh_usdt",
+        "instrumentType": "spot"
+    }
+]

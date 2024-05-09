@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TBA000000000_AMB:USD000000335",
+        "normalizedPair": "tbank_usdt",
+        "normalizedSymbol": "tbank",
+        "nativePair": "TBANK_USDT",
+        "exchange": "poloniex",
+        "assetName": "TBANK",
+        "assetArcId": "AMB:TBA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tbank_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "rlo",
+    "assetName": "Reelon",
+    "assetArcId": "AMB:RLO000000000",
+    "website": "https://www.reelon.xyz/",
+    "whitePaperUrl": "https://reelonteam.gitbook.io/reelon-document/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reelon/arc_id=AMB:RLO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

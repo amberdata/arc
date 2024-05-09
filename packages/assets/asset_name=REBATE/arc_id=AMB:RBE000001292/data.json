@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "rbe",
+    "assetName": "REBATE",
+    "assetArcId": "AMB:RBE000001292",
+    "website": "https://rebatecoin.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x32f044da25218598d4238a4fc6826ac4ebb97e9e"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

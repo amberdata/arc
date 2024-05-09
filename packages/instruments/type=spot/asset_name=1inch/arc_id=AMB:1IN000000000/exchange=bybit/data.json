@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:1IN000000000_AMB:USD000000335",
+        "normalizedPair": "1inch_usdt",
+        "normalizedSymbol": "1inch",
+        "nativePair": "1INCHUSDT",
+        "exchange": "bybit",
+        "assetName": "1inch",
+        "assetArcId": "AMB:1IN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "1inch_usdt",
+        "instrumentType": "spot"
+    }
+]

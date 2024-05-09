@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "limo",
+    "assetName": "Limoverse",
+    "assetArcId": "AMB:LIM000001256",
+    "website": "https://limoverse.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "BNB (BEP20)",
+            "address": "0xd2B6bF88b7d9dA599331719e338fcdeb235A0b99"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Limoverse/arc_id=AMB:LIM000001256/exchange=poloniex/data.json"
+        ]
+    }
+}

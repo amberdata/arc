@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "gdcb",
+    "assetName": "Gold Dragon Coin",
+    "assetArcId": "AMB:GDC000000000",
+    "website": "https://www.gloddragoncoin.com/",
+    "whitePaperUrl": "/how-to-buy/GDCB?utm_source=mexc&utm_medium=tokenifoGDCB&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gold Dragon Coin/arc_id=AMB:GDC000000000/exchange=mexc/data.json"
+        ]
+    }
+}

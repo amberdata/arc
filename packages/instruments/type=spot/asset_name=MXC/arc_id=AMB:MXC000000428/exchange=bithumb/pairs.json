@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MXC000000428_AMB:KRW000000000",
+        "normalizedPair": "mxc_krw",
+        "normalizedSymbol": "mxc",
+        "nativePair": "MXC/KRW",
+        "exchange": "bithumb",
+        "assetName": "MXC",
+        "assetArcId": "AMB:MXC000000428",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "mxc_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ITE000001796_AMB:USD000000335",
+        "normalizedPair": "item_usdt",
+        "normalizedSymbol": "item",
+        "nativePair": "ITEMUSDT",
+        "exchange": "mexc",
+        "assetName": "ITEMVERSE",
+        "assetArcId": "AMB:ITE000001796",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "item_usdt",
+        "instrumentType": "spot"
+    }
+]

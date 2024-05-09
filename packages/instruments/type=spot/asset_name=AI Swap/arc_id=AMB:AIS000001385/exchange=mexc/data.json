@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIS000001385_AMB:USD000000335",
+        "normalizedPair": "aiswap_usdt",
+        "normalizedSymbol": "aiswap",
+        "nativePair": "AISWAPUSDT",
+        "exchange": "mexc",
+        "assetName": "AI Swap",
+        "assetArcId": "AMB:AIS000001385",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aiswap_usdt",
+        "instrumentType": "spot"
+    }
+]

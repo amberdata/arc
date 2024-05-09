@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MST000001957_AMB:USD000000335",
+        "normalizedPair": "mstr_usdt",
+        "normalizedSymbol": "mstr",
+        "nativePair": "MSTRUSDT",
+        "exchange": "mexc",
+        "assetName": "Monsterra (MSTR)",
+        "assetArcId": "AMB:MST000001957",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mstr_usdt",
+        "instrumentType": "spot"
+    }
+]

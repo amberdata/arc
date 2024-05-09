@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EPI000000000_AMB:USD000000335",
+        "normalizedPair": "epi_usdt",
+        "normalizedSymbol": "epi",
+        "nativePair": "EPIUSDT",
+        "exchange": "mexc",
+        "assetName": "Epiphan",
+        "assetArcId": "AMB:EPI000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "epi_usdt",
+        "instrumentType": "spot"
+    }
+]

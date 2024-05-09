@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DEP000002785_AMB:USD000000335",
+        "normalizedPair": "depindao_usdt",
+        "normalizedSymbol": "depindao",
+        "nativePair": "DEPINDAOUSDT",
+        "exchange": "mexc",
+        "assetName": "DePIN DAO",
+        "assetArcId": "AMB:DEP000002785",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "depindao_usdt",
+        "instrumentType": "spot"
+    }
+]

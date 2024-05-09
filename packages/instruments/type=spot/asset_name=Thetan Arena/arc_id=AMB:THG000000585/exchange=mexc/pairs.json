@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:THG000000585_AMB:USD000000335",
+        "normalizedPair": "thg_usdt",
+        "normalizedSymbol": "thg",
+        "nativePair": "THGUSDT",
+        "exchange": "mexc",
+        "assetName": "Thetan Arena",
+        "assetArcId": "AMB:THG000000585",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "thg_usdt",
+        "instrumentType": "spot"
+    }
+]

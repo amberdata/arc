@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRE000002894_AMB:USD000000335",
+        "normalizedPair": "crepe_usdt",
+        "normalizedSymbol": "crepe",
+        "nativePair": "CREPEUSDT",
+        "exchange": "mexc",
+        "assetName": "Crepe Coin",
+        "assetArcId": "AMB:CRE000002894",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "crepe_usdt",
+        "instrumentType": "spot"
+    }
+]

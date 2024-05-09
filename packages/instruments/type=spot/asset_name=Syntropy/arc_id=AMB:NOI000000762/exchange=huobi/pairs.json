@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NOI000000762_AMB:USD000000335",
+        "normalizedPair": "noia_usdt",
+        "normalizedSymbol": "noia",
+        "nativePair": "noiausdt",
+        "exchange": "huobi",
+        "assetName": "Syntropy",
+        "assetArcId": "AMB:NOI000000762",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "noia_usdt",
+        "instrumentType": "spot"
+    }
+]

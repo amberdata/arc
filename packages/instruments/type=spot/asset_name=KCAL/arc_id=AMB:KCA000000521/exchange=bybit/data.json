@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KCA000000521_AMB:USD000000335",
+        "normalizedPair": "kcal_usdt",
+        "normalizedSymbol": "kcal",
+        "nativePair": "KCALUSDT",
+        "exchange": "bybit",
+        "assetName": "KCAL",
+        "assetArcId": "AMB:KCA000000521",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kcal_usdt",
+        "instrumentType": "spot"
+    }
+]

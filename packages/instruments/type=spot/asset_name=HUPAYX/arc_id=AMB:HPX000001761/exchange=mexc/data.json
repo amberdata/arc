@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HPX000001761_AMB:USD000000335",
+        "normalizedPair": "hpx_usdt",
+        "normalizedSymbol": "hpx",
+        "nativePair": "HPXUSDT",
+        "exchange": "mexc",
+        "assetName": "HUPAYX",
+        "assetArcId": "AMB:HPX000001761",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hpx_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:XLM000000359_AMB:USD000000333",
+        "normalizedPair": "xlm_usdc",
+        "normalizedSymbol": "xlm",
+        "nativePair": "xlm_usdc",
+        "exchange": "zb",
+        "assetName": "Stellar Lumens",
+        "assetArcId": "AMB:XLM000000359",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "xlm_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XLM000000359_AMB:USD000000335",
+        "normalizedPair": "xlm_usdt",
+        "normalizedSymbol": "xlm",
+        "nativePair": "xlm_usdt",
+        "exchange": "zb",
+        "assetName": "Stellar Lumens",
+        "assetArcId": "AMB:XLM000000359",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xlm_usdt",
+        "instrumentType": "spot"
+    }
+]

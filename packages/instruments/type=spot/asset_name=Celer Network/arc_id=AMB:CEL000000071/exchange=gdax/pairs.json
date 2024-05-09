@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CEL000000071_AMB:USD000000949",
+        "normalizedPair": "celr_usd",
+        "normalizedSymbol": "celr",
+        "nativePair": "CELR-USD",
+        "exchange": "gdax",
+        "assetName": "Celer Network",
+        "assetArcId": "AMB:CEL000000071",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "celr_usd",
+        "instrumentType": "spot"
+    }
+]

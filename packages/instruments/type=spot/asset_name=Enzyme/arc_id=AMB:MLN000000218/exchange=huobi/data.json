@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MLN000000218_AMB:USD000000335",
+        "normalizedPair": "mln_usdt",
+        "normalizedSymbol": "mln",
+        "nativePair": "mlnusdt",
+        "exchange": "huobi",
+        "assetName": "Enzyme",
+        "assetArcId": "AMB:MLN000000218",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mln_usdt",
+        "instrumentType": "spot"
+    }
+]

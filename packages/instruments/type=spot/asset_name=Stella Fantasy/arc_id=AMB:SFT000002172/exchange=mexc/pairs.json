@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SFT000002172_AMB:USD000000335",
+        "normalizedPair": "sfty_usdt",
+        "normalizedSymbol": "sfty",
+        "nativePair": "SFTYUSDT",
+        "exchange": "mexc",
+        "assetName": "Stella Fantasy",
+        "assetArcId": "AMB:SFT000002172",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sfty_usdt",
+        "instrumentType": "spot"
+    }
+]

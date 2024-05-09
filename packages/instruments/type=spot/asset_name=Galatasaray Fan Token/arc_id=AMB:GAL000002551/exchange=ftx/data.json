@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GAL000002551_AMB:USD000000949",
+        "normalizedPair": "galfan_usd",
+        "normalizedSymbol": "galfan",
+        "nativePair": "GALFAN/USD",
+        "exchange": "ftx",
+        "assetName": "Galatasaray Fan Token",
+        "assetArcId": "AMB:GAL000002551",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "galfan_usd",
+        "instrumentType": "spot"
+    }
+]

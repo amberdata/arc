@@ -1,0 +1,74 @@
+[
+    {
+        "arcPairId": "AMB:WAV000000346_AMB:BTC000000000",
+        "normalizedPair": "waves_btc",
+        "normalizedSymbol": "waves",
+        "nativePair": "WAVESBTC",
+        "exchange": "binance",
+        "assetName": "Waves",
+        "assetArcId": "AMB:WAV000000346",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "waves_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WAV000000346_AMB:BUS000000067",
+        "normalizedPair": "waves_busd",
+        "normalizedSymbol": "waves",
+        "nativePair": "WAVESBUSD",
+        "exchange": "binance",
+        "assetName": "Waves",
+        "assetArcId": "AMB:WAV000000346",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "waves_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WAV000000346_AMB:ETH000000000",
+        "normalizedPair": "waves_eth",
+        "normalizedSymbol": "waves",
+        "nativePair": "WAVESETH",
+        "exchange": "binance",
+        "assetName": "Waves",
+        "assetArcId": "AMB:WAV000000346",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "waves_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WAV000000346_AMB:EUR000000120",
+        "normalizedPair": "waves_eur",
+        "normalizedSymbol": "waves",
+        "nativePair": "WAVESEUR",
+        "exchange": "binance",
+        "assetName": "Waves",
+        "assetArcId": "AMB:WAV000000346",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "waves_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WAV000000346_AMB:TRY000000940",
+        "normalizedPair": "waves_try",
+        "normalizedSymbol": "waves",
+        "nativePair": "WAVESTRY",
+        "exchange": "binance",
+        "assetName": "Waves",
+        "assetArcId": "AMB:WAV000000346",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "waves_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WAV000000346_AMB:USD000000335",
+        "normalizedPair": "waves_usdt",
+        "normalizedSymbol": "waves",
+        "nativePair": "WAVESUSDT",
+        "exchange": "binance",
+        "assetName": "Waves",
+        "assetArcId": "AMB:WAV000000346",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "waves_usdt",
+        "instrumentType": "spot"
+    }
+]

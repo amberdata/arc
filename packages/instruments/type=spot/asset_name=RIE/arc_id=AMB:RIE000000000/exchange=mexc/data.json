@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RIE000000000_AMB:USD000000335",
+        "normalizedPair": "rie_usdt",
+        "normalizedSymbol": "rie",
+        "nativePair": "RIEUSDT",
+        "exchange": "mexc",
+        "assetName": "RIE",
+        "assetArcId": "AMB:RIE000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rie_usdt",
+        "instrumentType": "spot"
+    }
+]

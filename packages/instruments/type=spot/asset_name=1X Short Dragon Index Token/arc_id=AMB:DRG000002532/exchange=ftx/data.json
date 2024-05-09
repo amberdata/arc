@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DRG000002532_AMB:USD000000949",
+        "normalizedPair": "drgnhedge_usd",
+        "normalizedSymbol": "drgnhedge",
+        "nativePair": "DRGNHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short Dragon Index Token",
+        "assetArcId": "AMB:DRG000002532",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "drgnhedge_usd",
+        "instrumentType": "spot"
+    }
+]

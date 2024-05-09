@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SYA000000000_AMB:USD000000335",
+        "normalizedPair": "syai_usdt",
+        "normalizedSymbol": "syai",
+        "nativePair": "SYAIUSDT",
+        "exchange": "mexc",
+        "assetName": "Synth Ai",
+        "assetArcId": "AMB:SYA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "syai_usdt",
+        "instrumentType": "spot"
+    }
+]

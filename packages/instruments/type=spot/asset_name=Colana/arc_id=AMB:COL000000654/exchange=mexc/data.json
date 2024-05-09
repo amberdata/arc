@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COL000000654_AMB:USD000000335",
+        "normalizedPair": "col.amb.1_usdt",
+        "normalizedSymbol": "col.amb.1",
+        "nativePair": "COLUSDT",
+        "exchange": "mexc",
+        "assetName": "Colana",
+        "assetArcId": "AMB:COL000000654",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "col_usdt",
+        "instrumentType": "spot"
+    }
+]

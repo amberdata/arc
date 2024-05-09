@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TEL000000000_AMB:USD000000335",
+        "normalizedPair": "telepathy_usdt",
+        "normalizedSymbol": "telepathy",
+        "nativePair": "TELEPATHY_USDT",
+        "exchange": "poloniex",
+        "assetName": "Telepathy",
+        "assetArcId": "AMB:TEL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "telepathy_usdt",
+        "instrumentType": "spot"
+    }
+]

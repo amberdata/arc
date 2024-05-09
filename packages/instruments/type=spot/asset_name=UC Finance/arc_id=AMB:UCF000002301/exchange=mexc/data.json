@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UCF000002301_AMB:USD000000335",
+        "normalizedPair": "ucf_usdt",
+        "normalizedSymbol": "ucf",
+        "nativePair": "UCFUSDT",
+        "exchange": "mexc",
+        "assetName": "UC Finance",
+        "assetArcId": "AMB:UCF000002301",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ucf_usdt",
+        "instrumentType": "spot"
+    }
+]

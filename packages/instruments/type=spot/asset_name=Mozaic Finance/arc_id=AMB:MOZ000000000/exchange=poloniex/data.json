@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MOZ000000000_AMB:USD000000335",
+        "normalizedPair": "moz_usdt",
+        "normalizedSymbol": "moz",
+        "nativePair": "MOZ_USDT",
+        "exchange": "poloniex",
+        "assetName": "Mozaic Finance",
+        "assetArcId": "AMB:MOZ000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "moz_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XCN000000456_AMB:KRW000000000",
+        "normalizedPair": "xcn_krw",
+        "normalizedSymbol": "xcn",
+        "nativePair": "XCN/KRW",
+        "exchange": "bithumb",
+        "assetName": "Onyxcoin",
+        "assetArcId": "AMB:XCN000000456",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "xcn_krw",
+        "instrumentType": "spot"
+    }
+]

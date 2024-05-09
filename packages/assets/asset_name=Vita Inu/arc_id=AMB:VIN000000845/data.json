@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "vinu",
+    "assetName": "Vita Inu",
+    "assetArcId": "AMB:VIN000000845",
+    "website": "https://vitainu.org/",
+    "whitePaperUrl": "https://vitainu.org/whitepaper.pdf",
+    "classificationTags": [
+        "Governance",
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

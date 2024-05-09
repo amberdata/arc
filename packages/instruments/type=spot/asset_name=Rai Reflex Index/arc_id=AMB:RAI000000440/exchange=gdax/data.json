@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAI000000440_AMB:USD000000949",
+        "normalizedPair": "rai_usd",
+        "normalizedSymbol": "rai",
+        "nativePair": "RAI-USD",
+        "exchange": "gdax",
+        "assetName": "Rai Reflex Index",
+        "assetArcId": "AMB:RAI000000440",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "rai_usd",
+        "instrumentType": "spot"
+    }
+]

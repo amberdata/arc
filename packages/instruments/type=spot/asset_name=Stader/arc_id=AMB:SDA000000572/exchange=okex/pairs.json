@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SDA000000572_AMB:USD000000335",
+        "normalizedPair": "sd_usdt",
+        "normalizedSymbol": "sd",
+        "nativePair": "SD-USDT",
+        "exchange": "okex",
+        "assetName": "Stader",
+        "assetArcId": "AMB:SDA000000572",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sd_usdt",
+        "instrumentType": "spot"
+    }
+]

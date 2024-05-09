@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "mctp",
+    "assetName": "Metacraft Token",
+    "assetArcId": "AMB:MCT000001904",
+    "website": "https://metacraft.pro/metacraft/",
+    "whitePaperUrl": "https://drive.google.com/file/d/17rtLLAvBNC7518P6drhY_PsmadCd8ECM/view",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Metacraft Token/arc_id=AMB:MCT000001904/exchange=mexc/data.json"
+        ]
+    }
+}

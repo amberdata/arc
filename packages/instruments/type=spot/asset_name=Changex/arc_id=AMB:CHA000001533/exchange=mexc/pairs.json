@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHA000001533_AMB:USD000000335",
+        "normalizedPair": "change_usdt",
+        "normalizedSymbol": "change",
+        "nativePair": "CHANGEUSDT",
+        "exchange": "mexc",
+        "assetName": "Changex",
+        "assetArcId": "AMB:CHA000001533",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "change_usdt",
+        "instrumentType": "spot"
+    }
+]

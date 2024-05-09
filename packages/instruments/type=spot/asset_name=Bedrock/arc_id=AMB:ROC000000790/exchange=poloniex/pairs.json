@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ROC000000790_AMB:USD000000335",
+        "normalizedPair": "rock_usdt",
+        "normalizedSymbol": "rock",
+        "nativePair": "ROCK_USDT",
+        "exchange": "poloniex",
+        "assetName": "Bedrock",
+        "assetArcId": "AMB:ROC000000790",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rock_usdt",
+        "instrumentType": "spot"
+    }
+]

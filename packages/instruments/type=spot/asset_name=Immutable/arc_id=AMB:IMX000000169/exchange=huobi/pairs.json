@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IMX000000169_AMB:USD000000335",
+        "normalizedPair": "imx_usdt",
+        "normalizedSymbol": "imx",
+        "nativePair": "imxusdt",
+        "exchange": "huobi",
+        "assetName": "Immutable",
+        "assetArcId": "AMB:IMX000000169",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "imx_usdt",
+        "instrumentType": "spot"
+    }
+]

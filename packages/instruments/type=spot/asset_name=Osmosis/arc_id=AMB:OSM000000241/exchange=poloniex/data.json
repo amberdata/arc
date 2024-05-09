@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OSM000000241_AMB:USD000000335",
+        "normalizedPair": "osmo_usdt",
+        "normalizedSymbol": "osmo",
+        "nativePair": "OSMO_USDT",
+        "exchange": "poloniex",
+        "assetName": "Osmosis",
+        "assetArcId": "AMB:OSM000000241",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "osmo_usdt",
+        "instrumentType": "spot"
+    }
+]

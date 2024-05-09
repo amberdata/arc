@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VRA000000595_AMB:USD000000335",
+        "normalizedPair": "vra_usdt",
+        "normalizedSymbol": "vra",
+        "nativePair": "VRA_USDT",
+        "exchange": "poloniex",
+        "assetName": "Verasity",
+        "assetArcId": "AMB:VRA000000595",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vra_usdt",
+        "instrumentType": "spot"
+    }
+]

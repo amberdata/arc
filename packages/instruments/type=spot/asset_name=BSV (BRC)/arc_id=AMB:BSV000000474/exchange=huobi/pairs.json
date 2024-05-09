@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BSV000000474_AMB:BTC000000000",
+        "normalizedPair": "bsv_btc",
+        "normalizedSymbol": "bsv",
+        "nativePair": "bsvbtc",
+        "exchange": "huobi",
+        "assetName": "BSV (BRC)",
+        "assetArcId": "AMB:BSV000000474",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "bsv_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BSV000000474_AMB:USD000000335",
+        "normalizedPair": "bsv_usdt",
+        "normalizedSymbol": "bsv",
+        "nativePair": "bsvusdt",
+        "exchange": "huobi",
+        "assetName": "BSV (BRC)",
+        "assetArcId": "AMB:BSV000000474",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bsv_usdt",
+        "instrumentType": "spot"
+    }
+]

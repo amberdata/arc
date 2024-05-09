@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRY000002671_AMB:USD000000949",
+        "normalizedPair": "trybhedge_usd",
+        "normalizedSymbol": "trybhedge",
+        "nativePair": "TRYBHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short BiLira Token",
+        "assetArcId": "AMB:TRY000002671",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "trybhedge_usd",
+        "instrumentType": "spot"
+    }
+]

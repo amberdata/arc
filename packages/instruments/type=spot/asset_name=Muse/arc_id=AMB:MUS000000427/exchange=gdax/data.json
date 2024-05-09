@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MUS000000427_AMB:USD000000949",
+        "normalizedPair": "muse_usd",
+        "normalizedSymbol": "muse",
+        "nativePair": "MUSE-USD",
+        "exchange": "gdax",
+        "assetName": "Muse",
+        "assetArcId": "AMB:MUS000000427",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "muse_usd",
+        "instrumentType": "spot"
+    }
+]

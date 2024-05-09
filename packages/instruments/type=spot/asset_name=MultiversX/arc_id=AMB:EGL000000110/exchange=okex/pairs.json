@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:EGL000000110_AMB:USD000000333",
+        "normalizedPair": "egld_usdc",
+        "normalizedSymbol": "egld",
+        "nativePair": "EGLD-USDC",
+        "exchange": "okex",
+        "assetName": "MultiversX",
+        "assetArcId": "AMB:EGL000000110",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "egld_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:EGL000000110_AMB:USD000000335",
+        "normalizedPair": "egld_usdt",
+        "normalizedSymbol": "egld",
+        "nativePair": "EGLD-USDT",
+        "exchange": "okex",
+        "assetName": "MultiversX",
+        "assetArcId": "AMB:EGL000000110",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "egld_usdt",
+        "instrumentType": "spot"
+    }
+]

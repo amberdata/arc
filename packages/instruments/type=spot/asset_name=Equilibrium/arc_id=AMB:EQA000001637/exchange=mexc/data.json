@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EQA000001637_AMB:USD000000335",
+        "normalizedPair": "eq_usdt",
+        "normalizedSymbol": "eq",
+        "nativePair": "EQUSDT",
+        "exchange": "mexc",
+        "assetName": "Equilibrium",
+        "assetArcId": "AMB:EQA000001637",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "eq_usdt",
+        "instrumentType": "spot"
+    }
+]

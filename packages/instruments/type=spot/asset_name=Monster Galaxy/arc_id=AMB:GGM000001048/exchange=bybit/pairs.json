@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GGM000001048_AMB:USD000000335",
+        "normalizedPair": "ggm_usdt",
+        "normalizedSymbol": "ggm",
+        "nativePair": "GGMUSDT",
+        "exchange": "bybit",
+        "assetName": "Monster Galaxy",
+        "assetArcId": "AMB:GGM000001048",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ggm_usdt",
+        "instrumentType": "spot"
+    }
+]

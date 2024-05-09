@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PSP000001102_AMB:USD000000335",
+        "normalizedPair": "psp_usdt",
+        "normalizedSymbol": "psp",
+        "nativePair": "PSPUSDT",
+        "exchange": "mexc",
+        "assetName": "ParaSwap",
+        "assetArcId": "AMB:PSP000001102",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "psp_usdt",
+        "instrumentType": "spot"
+    }
+]

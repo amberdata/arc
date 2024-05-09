@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BRI000000001_AMB:USD000000335",
+        "normalizedPair": "briun_usdt",
+        "normalizedSymbol": "briun",
+        "nativePair": "BRIUN_USDT",
+        "exchange": "poloniex",
+        "assetName": "Briun",
+        "assetArcId": "AMB:BRI000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "briun_usdt",
+        "instrumentType": "spot"
+    }
+]

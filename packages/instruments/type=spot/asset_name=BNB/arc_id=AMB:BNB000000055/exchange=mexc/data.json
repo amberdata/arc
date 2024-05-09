@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:BNB000000055_AMB:BUS000000067",
+        "normalizedPair": "bnb_busd",
+        "normalizedSymbol": "bnb",
+        "nativePair": "BNBBUSD",
+        "exchange": "mexc",
+        "assetName": "BNB",
+        "assetArcId": "AMB:BNB000000055",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "bnb_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BNB000000055_AMB:TUS000000326",
+        "normalizedPair": "bnb_tusd",
+        "normalizedSymbol": "bnb",
+        "nativePair": "BNBTUSD",
+        "exchange": "mexc",
+        "assetName": "BNB",
+        "assetArcId": "AMB:BNB000000055",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "bnb_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BNB000000055_AMB:USD000000333",
+        "normalizedPair": "bnb_usdc",
+        "normalizedSymbol": "bnb",
+        "nativePair": "BNBUSDC",
+        "exchange": "mexc",
+        "assetName": "BNB",
+        "assetArcId": "AMB:BNB000000055",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "bnb_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BNB000000055_AMB:USD000000335",
+        "normalizedPair": "bnb_usdt",
+        "normalizedSymbol": "bnb",
+        "nativePair": "BNBUSDT",
+        "exchange": "mexc",
+        "assetName": "BNB",
+        "assetArcId": "AMB:BNB000000055",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bnb_usdt",
+        "instrumentType": "spot"
+    }
+]

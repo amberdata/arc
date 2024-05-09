@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POR000000560_AMB:USD000000335",
+        "normalizedPair": "por_usdt",
+        "normalizedSymbol": "por",
+        "nativePair": "PORUSDT",
+        "exchange": "mexc",
+        "assetName": "Portuma",
+        "assetArcId": "AMB:POR000000560",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "por_usdt",
+        "instrumentType": "spot"
+    }
+]

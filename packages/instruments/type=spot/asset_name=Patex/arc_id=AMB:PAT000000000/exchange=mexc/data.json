@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PAT000000000_AMB:USD000000335",
+        "normalizedPair": "patex_usdt",
+        "normalizedSymbol": "patex",
+        "nativePair": "PATEXUSDT",
+        "exchange": "mexc",
+        "assetName": "Patex",
+        "assetArcId": "AMB:PAT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "patex_usdt",
+        "instrumentType": "spot"
+    }
+]

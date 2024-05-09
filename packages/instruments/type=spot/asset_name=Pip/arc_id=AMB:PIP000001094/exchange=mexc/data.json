@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PIP000001094_AMB:USD000000335",
+        "normalizedPair": "pip_usdt",
+        "normalizedSymbol": "pip",
+        "nativePair": "PIPUSDT",
+        "exchange": "mexc",
+        "assetName": "Pip",
+        "assetArcId": "AMB:PIP000001094",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pip_usdt",
+        "instrumentType": "spot"
+    }
+]

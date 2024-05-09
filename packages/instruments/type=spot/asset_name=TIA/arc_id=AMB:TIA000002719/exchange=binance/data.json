@@ -1,0 +1,74 @@
+[
+    {
+        "arcPairId": "AMB:TIA000002719_AMB:TUS000000326",
+        "normalizedPair": "tia_tusd",
+        "normalizedSymbol": "tia",
+        "nativePair": "TIATUSD",
+        "exchange": "binance",
+        "assetName": "TIA",
+        "assetArcId": "AMB:TIA000002719",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "tia_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TIA000002719_AMB:BTC000000000",
+        "normalizedPair": "tia_btc",
+        "normalizedSymbol": "tia",
+        "nativePair": "TIABTC",
+        "exchange": "binance",
+        "assetName": "TIA",
+        "assetArcId": "AMB:TIA000002719",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "tia_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TIA000002719_AMB:USD000000335",
+        "normalizedPair": "tia_usdt",
+        "normalizedSymbol": "tia",
+        "nativePair": "TIAUSDT",
+        "exchange": "binance",
+        "assetName": "TIA",
+        "assetArcId": "AMB:TIA000002719",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tia_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TIA000002719_AMB:TRY000000940",
+        "normalizedPair": "tia_try",
+        "normalizedSymbol": "tia",
+        "nativePair": "TIATRY",
+        "exchange": "binance",
+        "assetName": "TIA",
+        "assetArcId": "AMB:TIA000002719",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "tia_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TIA000002719_AMB:USD000000333",
+        "normalizedPair": "tia_usdc",
+        "normalizedSymbol": "tia",
+        "nativePair": "TIAUSDC",
+        "exchange": "binance",
+        "assetName": "TIA",
+        "assetArcId": "AMB:TIA000002719",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "tia_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TIA000002719_AMB:FDU000000122",
+        "normalizedPair": "tia_fdusd",
+        "normalizedSymbol": "tia",
+        "nativePair": "TIAFDUSD",
+        "exchange": "binance",
+        "assetName": "TIA",
+        "assetArcId": "AMB:TIA000002719",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "tia_fdusd",
+        "instrumentType": "spot"
+    }
+]

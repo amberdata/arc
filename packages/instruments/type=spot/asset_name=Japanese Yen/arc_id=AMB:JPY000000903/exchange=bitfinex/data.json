@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JPY000000903_AMB:USD000000335",
+        "normalizedPair": "jpy_usdt",
+        "normalizedSymbol": "jpy",
+        "nativePair": "tJPYUST",
+        "exchange": "bitfinex",
+        "assetName": "Japanese Yen",
+        "assetArcId": "AMB:JPY000000903",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jpy_usdt",
+        "instrumentType": "spot"
+    }
+]

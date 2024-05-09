@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:WMI000000943_AMB:USD000000949",
+        "normalizedPair": "wminima_usd",
+        "normalizedSymbol": "wminima",
+        "nativePair": "tWMINIMA:USD",
+        "exchange": "bitfinex",
+        "assetName": "Wrapped Minima",
+        "assetArcId": "AMB:WMI000000943",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "wminima_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WMI000000943_AMB:USD000000335",
+        "normalizedPair": "wminima_usdt",
+        "normalizedSymbol": "wminima",
+        "nativePair": "tWMINIMA:UST",
+        "exchange": "bitfinex",
+        "assetName": "Wrapped Minima",
+        "assetArcId": "AMB:WMI000000943",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wminima_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "ogv",
+    "assetName": "Origin Dollar Governance",
+    "assetArcId": "AMB:OGV000000769",
+    "website": "https://ousd.com/",
+    "whitePaperUrl": "https://www.originprotocol.com/en/litepaper",
+    "classificationTags": [
+        "Governance",
+        "Stablecoin"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

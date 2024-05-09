@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XCA000000867_AMB:USD000000949",
+        "normalizedPair": "xcad_usd",
+        "normalizedSymbol": "xcad",
+        "nativePair": "tXCAD:USD",
+        "exchange": "bitfinex",
+        "assetName": "XCAD Network",
+        "assetArcId": "AMB:XCA000000867",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xcad_usd",
+        "instrumentType": "spot"
+    }
+]

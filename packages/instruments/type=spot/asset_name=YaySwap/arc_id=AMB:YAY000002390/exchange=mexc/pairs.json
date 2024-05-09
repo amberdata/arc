@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:YAY000002390_AMB:USD000000335",
+        "normalizedPair": "yay_usdt",
+        "normalizedSymbol": "yay",
+        "nativePair": "YAYUSDT",
+        "exchange": "mexc",
+        "assetName": "YaySwap",
+        "assetArcId": "AMB:YAY000002390",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "yay_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AXL000000382_AMB:USD000000335",
+        "normalizedPair": "axl_usdt",
+        "normalizedSymbol": "axl",
+        "nativePair": "AXLUSDT",
+        "exchange": "binanceus",
+        "assetName": "Axelar",
+        "assetArcId": "AMB:AXL000000382",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "axl_usdt",
+        "instrumentType": "spot"
+    }
+]

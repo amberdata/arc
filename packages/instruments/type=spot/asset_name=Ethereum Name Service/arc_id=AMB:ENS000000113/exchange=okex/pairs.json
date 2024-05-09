@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ENS000000113_AMB:USD000000333",
+        "normalizedPair": "ens_usdc",
+        "normalizedSymbol": "ens",
+        "nativePair": "ENS-USDC",
+        "exchange": "okex",
+        "assetName": "Ethereum Name Service",
+        "assetArcId": "AMB:ENS000000113",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "ens_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ENS000000113_AMB:USD000000335",
+        "normalizedPair": "ens_usdt",
+        "normalizedSymbol": "ens",
+        "nativePair": "ENS-USDT",
+        "exchange": "okex",
+        "assetName": "Ethereum Name Service",
+        "assetArcId": "AMB:ENS000000113",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ens_usdt",
+        "instrumentType": "spot"
+    }
+]

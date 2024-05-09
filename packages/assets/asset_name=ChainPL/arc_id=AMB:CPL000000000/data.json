@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cpl",
+    "assetName": "ChainPL",
+    "assetArcId": "AMB:CPL000000000",
+    "website": "https://www.chainpl.xyz/",
+    "whitePaperUrl": "https://chainpl.gitbook.io/chainpl/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ChainPL/arc_id=AMB:CPL000000000/exchange=mexc/data.json"
+        ]
+    }
+}

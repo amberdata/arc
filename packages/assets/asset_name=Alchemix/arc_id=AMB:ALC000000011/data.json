@@ -1,0 +1,25 @@
+{
+    "assetSymbol": "alcx",
+    "assetName": "Alchemix",
+    "assetArcId": "AMB:ALC000000011",
+    "website": "https://alchemix.fi/",
+    "whitePaperUrl": "https://alchemix.fi/c76d1d663f6c8247b86a8fca83d5bd1b.pdf",
+    "classificationTags": [
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Alchemix/arc_id=AMB:ALC000000011/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Alchemix/arc_id=AMB:ALC000000011/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Alchemix/arc_id=AMB:ALC000000011/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Alchemix/arc_id=AMB:ALC000000011/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Alchemix/arc_id=AMB:ALC000000011/exchange=ftx/data.json"
+        ]
+    }
+}

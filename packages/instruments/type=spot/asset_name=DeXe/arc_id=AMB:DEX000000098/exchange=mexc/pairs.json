@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:DEX000000098_AMB:BTC000000000",
+        "normalizedPair": "dexe_btc",
+        "normalizedSymbol": "dexe",
+        "nativePair": "DEXEBTC",
+        "exchange": "mexc",
+        "assetName": "DeXe",
+        "assetArcId": "AMB:DEX000000098",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "dexe_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DEX000000098_AMB:ETH000000000",
+        "normalizedPair": "dexe_eth",
+        "normalizedSymbol": "dexe",
+        "nativePair": "DEXEETH",
+        "exchange": "mexc",
+        "assetName": "DeXe",
+        "assetArcId": "AMB:DEX000000098",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "dexe_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DEX000000098_AMB:USD000000335",
+        "normalizedPair": "dexe_usdt",
+        "normalizedSymbol": "dexe",
+        "nativePair": "DEXEUSDT",
+        "exchange": "mexc",
+        "assetName": "DeXe",
+        "assetArcId": "AMB:DEX000000098",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dexe_usdt",
+        "instrumentType": "spot"
+    }
+]

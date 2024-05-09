@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MBS000001074_AMB:USD000000335",
+        "normalizedPair": "mbs_usdt",
+        "normalizedSymbol": "mbs",
+        "nativePair": "MBSUSDT",
+        "exchange": "bybit",
+        "assetName": "UNKJD",
+        "assetArcId": "AMB:MBS000001074",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mbs_usdt",
+        "instrumentType": "spot"
+    }
+]

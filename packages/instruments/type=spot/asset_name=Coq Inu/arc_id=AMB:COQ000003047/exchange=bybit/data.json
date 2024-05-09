@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COQ000003047_AMB:USD000000335",
+        "normalizedPair": "coq_usdt",
+        "normalizedSymbol": "coq",
+        "nativePair": "COQUSDT",
+        "exchange": "bybit",
+        "assetName": "Coq Inu",
+        "assetArcId": "AMB:COQ000003047",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "coq_usdt",
+        "instrumentType": "spot"
+    }
+]

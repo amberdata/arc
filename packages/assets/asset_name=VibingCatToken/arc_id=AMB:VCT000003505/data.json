@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "vct",
+    "assetName": "VibingCatToken",
+    "assetArcId": "AMB:VCT000003505",
+    "website": "https://vibingcat.net/",
+    "whitePaperUrl": "https://vibingcat.net/the-vibing-cat-whitepapaer.pdf",
+    "classificationTags": [
+        "Content & Streaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=VibingCatToken/arc_id=AMB:VCT000003505/exchange=mexc/data.json"
+        ]
+    }
+}

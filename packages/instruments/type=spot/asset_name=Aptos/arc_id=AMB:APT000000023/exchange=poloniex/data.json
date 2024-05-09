@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:APT000000023_AMB:USD000000841",
+        "normalizedPair": "apt_usdd",
+        "normalizedSymbol": "apt",
+        "nativePair": "APT_USDD",
+        "exchange": "poloniex",
+        "assetName": "Aptos",
+        "assetArcId": "AMB:APT000000023",
+        "quoteArcId": "AMB:USD000000841",
+        "collectedPair": "apt_usdd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APT000000023_AMB:USD000000335",
+        "normalizedPair": "apt_usdt",
+        "normalizedSymbol": "apt",
+        "nativePair": "APT_USDT",
+        "exchange": "poloniex",
+        "assetName": "Aptos",
+        "assetArcId": "AMB:APT000000023",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "apt_usdt",
+        "instrumentType": "spot"
+    }
+]

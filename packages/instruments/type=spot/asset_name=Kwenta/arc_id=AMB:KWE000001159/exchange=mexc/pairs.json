@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KWE000001159_AMB:USD000000335",
+        "normalizedPair": "kwenta_usdt",
+        "normalizedSymbol": "kwenta",
+        "nativePair": "KWENTAUSDT",
+        "exchange": "mexc",
+        "assetName": "Kwenta",
+        "assetArcId": "AMB:KWE000001159",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kwenta_usdt",
+        "instrumentType": "spot"
+    }
+]

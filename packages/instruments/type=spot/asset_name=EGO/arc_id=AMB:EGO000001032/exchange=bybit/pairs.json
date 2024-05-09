@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EGO000001032_AMB:USD000000335",
+        "normalizedPair": "ego_usdt",
+        "normalizedSymbol": "ego",
+        "nativePair": "EGOUSDT",
+        "exchange": "bybit",
+        "assetName": "EGO",
+        "assetArcId": "AMB:EGO000001032",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ego_usdt",
+        "instrumentType": "spot"
+    }
+]

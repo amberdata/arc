@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ofn",
+    "assetName": "Openfabric AI",
+    "assetArcId": "AMB:OFN000003338",
+    "website": "https://openfabric.ai/",
+    "whitePaperUrl": "https://openfabric.ai/resource/openfabric-whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Openfabric AI/arc_id=AMB:OFN000003338/exchange=mexc/data.json"
+        ]
+    }
+}

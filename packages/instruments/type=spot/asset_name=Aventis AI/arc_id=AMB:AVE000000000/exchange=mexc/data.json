@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AVE000000000_AMB:USD000000335",
+        "normalizedPair": "aventisai_usdt",
+        "normalizedSymbol": "aventisai",
+        "nativePair": "AVENTISAIUSDT",
+        "exchange": "mexc",
+        "assetName": "Aventis AI",
+        "assetArcId": "AMB:AVE000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aventisai_usdt",
+        "instrumentType": "spot"
+    }
+]

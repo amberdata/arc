@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PII000002824_AMB:USD000000335",
+        "normalizedPair": "piins_usdt",
+        "normalizedSymbol": "piins",
+        "nativePair": "PIINSUSDT",
+        "exchange": "mexc",
+        "assetName": "PIIN Token",
+        "assetArcId": "AMB:PII000002824",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "piins_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:USD000002682_AMB:USD000000949",
+        "normalizedPair": "usdtbull_usd",
+        "normalizedSymbol": "usdtbull",
+        "nativePair": "USDTBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long Tether Token",
+        "assetArcId": "AMB:USD000002682",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "usdtbull_usd",
+        "instrumentType": "spot"
+    }
+]

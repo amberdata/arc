@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:INT000001057_AMB:USD000000335",
+        "normalizedPair": "inter_usdt",
+        "normalizedSymbol": "inter",
+        "nativePair": "INTERUSDT",
+        "exchange": "bybit",
+        "assetName": "InteractWith",
+        "assetArcId": "AMB:INT000001057",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "inter_usdt",
+        "instrumentType": "spot"
+    }
+]

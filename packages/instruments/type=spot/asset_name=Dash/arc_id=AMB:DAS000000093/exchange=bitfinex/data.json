@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:DAS000000093_AMB:BTC000000000",
+        "normalizedPair": "dash_btc",
+        "normalizedSymbol": "dash",
+        "nativePair": "tDSHBTC",
+        "exchange": "bitfinex",
+        "assetName": "Dash",
+        "assetArcId": "AMB:DAS000000093",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "dash_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DAS000000093_AMB:USD000000949",
+        "normalizedPair": "dash_usd",
+        "normalizedSymbol": "dash",
+        "nativePair": "tDSHUSD",
+        "exchange": "bitfinex",
+        "assetName": "Dash",
+        "assetArcId": "AMB:DAS000000093",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dash_usd",
+        "instrumentType": "spot"
+    }
+]

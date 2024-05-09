@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:REN000000277_AMB:BTC000000000",
+        "normalizedPair": "ren_btc",
+        "normalizedSymbol": "ren",
+        "nativePair": "REN-BTC",
+        "exchange": "gdax",
+        "assetName": "Ren",
+        "assetArcId": "AMB:REN000000277",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ren_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:REN000000277_AMB:USD000000949",
+        "normalizedPair": "ren_usd",
+        "normalizedSymbol": "ren",
+        "nativePair": "REN-USD",
+        "exchange": "gdax",
+        "assetName": "Ren",
+        "assetArcId": "AMB:REN000000277",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ren_usd",
+        "instrumentType": "spot"
+    }
+]

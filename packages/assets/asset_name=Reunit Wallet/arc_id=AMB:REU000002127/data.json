@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "reuni",
+    "assetName": "Reunit Wallet",
+    "assetArcId": "AMB:REU000002127",
+    "website": "https://everywhere.finance/",
+    "whitePaperUrl": "https://everywhere.finance/whitepaper_v2.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reunit Wallet/arc_id=AMB:REU000002127/exchange=mexc/data.json"
+        ]
+    }
+}

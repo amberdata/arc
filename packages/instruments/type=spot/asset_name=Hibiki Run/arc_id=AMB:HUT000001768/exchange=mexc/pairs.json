@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HUT000001768_AMB:USD000000335",
+        "normalizedPair": "hut_usdt",
+        "normalizedSymbol": "hut",
+        "nativePair": "HUTUSDT",
+        "exchange": "mexc",
+        "assetName": "Hibiki Run",
+        "assetArcId": "AMB:HUT000001768",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hut_usdt",
+        "instrumentType": "spot"
+    }
+]

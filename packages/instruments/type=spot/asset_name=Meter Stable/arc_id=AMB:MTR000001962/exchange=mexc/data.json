@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MTR000001962_AMB:USD000000335",
+        "normalizedPair": "mtr_usdt",
+        "normalizedSymbol": "mtr",
+        "nativePair": "MTRUSDT",
+        "exchange": "mexc",
+        "assetName": "Meter Stable",
+        "assetArcId": "AMB:MTR000001962",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mtr_usdt",
+        "instrumentType": "spot"
+    }
+]

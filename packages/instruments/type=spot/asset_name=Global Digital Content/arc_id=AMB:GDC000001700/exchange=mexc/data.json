@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GDC000001700_AMB:USD000000335",
+        "normalizedPair": "gdc_usdt",
+        "normalizedSymbol": "gdc",
+        "nativePair": "GDCUSDT",
+        "exchange": "mexc",
+        "assetName": "Global Digital Content",
+        "assetArcId": "AMB:GDC000001700",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gdc_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAM000002151_AMB:USD000000335",
+        "normalizedPair": "sama_usdt",
+        "normalizedSymbol": "sama",
+        "nativePair": "SAMAUSDT",
+        "exchange": "mexc",
+        "assetName": "Moonsama",
+        "assetArcId": "AMB:SAM000002151",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sama_usdt",
+        "instrumentType": "spot"
+    }
+]

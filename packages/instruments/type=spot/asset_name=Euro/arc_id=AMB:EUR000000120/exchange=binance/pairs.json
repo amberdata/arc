@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:EUR000000120_AMB:BUS000000067",
+        "normalizedPair": "eur_busd",
+        "normalizedSymbol": "eur",
+        "nativePair": "EURBUSD",
+        "exchange": "binance",
+        "assetName": "Euro",
+        "assetArcId": "AMB:EUR000000120",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "eur_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:EUR000000120_AMB:USD000000335",
+        "normalizedPair": "eur_usdt",
+        "normalizedSymbol": "eur",
+        "nativePair": "EURUSDT",
+        "exchange": "binance",
+        "assetName": "Euro",
+        "assetArcId": "AMB:EUR000000120",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "eur_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LON000002946_AMB:USD000000335",
+        "normalizedPair": "long1_usdt",
+        "normalizedSymbol": "long1",
+        "nativePair": "LONG1_USDT",
+        "exchange": "poloniex",
+        "assetName": "long",
+        "assetArcId": "AMB:LON000002946",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "long1_usdt",
+        "instrumentType": "spot"
+    }
+]

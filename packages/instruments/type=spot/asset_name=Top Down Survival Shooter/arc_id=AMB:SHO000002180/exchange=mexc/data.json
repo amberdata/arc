@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHO000002180_AMB:USD000000335",
+        "normalizedPair": "shooter_usdt",
+        "normalizedSymbol": "shooter",
+        "nativePair": "SHOOTERUSDT",
+        "exchange": "mexc",
+        "assetName": "Top Down Survival Shooter",
+        "assetArcId": "AMB:SHO000002180",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shooter_usdt",
+        "instrumentType": "spot"
+    }
+]

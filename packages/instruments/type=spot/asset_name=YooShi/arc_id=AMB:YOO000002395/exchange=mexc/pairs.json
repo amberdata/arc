@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:YOO000002395_AMB:USD000000335",
+        "normalizedPair": "yooshi_usdt",
+        "normalizedSymbol": "yooshi",
+        "nativePair": "YOOSHIUSDT",
+        "exchange": "mexc",
+        "assetName": "YooShi",
+        "assetArcId": "AMB:YOO000002395",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "yooshi_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAZ000002115_AMB:USD000000335",
+        "normalizedPair": "razor_usdt",
+        "normalizedSymbol": "razor",
+        "nativePair": "RAZORUSDT",
+        "exchange": "mexc",
+        "assetName": "Razor Network",
+        "assetArcId": "AMB:RAZ000002115",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "razor_usdt",
+        "instrumentType": "spot"
+    }
+]

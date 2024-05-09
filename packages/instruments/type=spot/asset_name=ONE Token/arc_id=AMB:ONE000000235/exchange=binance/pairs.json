@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:ONE000000235_AMB:BNB000000055",
+        "normalizedPair": "one_bnb",
+        "normalizedSymbol": "one",
+        "nativePair": "ONEBNB",
+        "exchange": "binance",
+        "assetName": "ONE Token",
+        "assetArcId": "AMB:ONE000000235",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "one_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ONE000000235_AMB:BTC000000000",
+        "normalizedPair": "one_btc",
+        "normalizedSymbol": "one",
+        "nativePair": "ONEBTC",
+        "exchange": "binance",
+        "assetName": "ONE Token",
+        "assetArcId": "AMB:ONE000000235",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "one_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ONE000000235_AMB:BUS000000067",
+        "normalizedPair": "one_busd",
+        "normalizedSymbol": "one",
+        "nativePair": "ONEBUSD",
+        "exchange": "binance",
+        "assetName": "ONE Token",
+        "assetArcId": "AMB:ONE000000235",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "one_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ONE000000235_AMB:TRY000000940",
+        "normalizedPair": "one_try",
+        "normalizedSymbol": "one",
+        "nativePair": "ONETRY",
+        "exchange": "binance",
+        "assetName": "ONE Token",
+        "assetArcId": "AMB:ONE000000235",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "one_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ONE000000235_AMB:USD000000335",
+        "normalizedPair": "one_usdt",
+        "normalizedSymbol": "one",
+        "nativePair": "ONEUSDT",
+        "exchange": "binance",
+        "assetName": "ONE Token",
+        "assetArcId": "AMB:ONE000000235",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "one_usdt",
+        "instrumentType": "spot"
+    }
+]

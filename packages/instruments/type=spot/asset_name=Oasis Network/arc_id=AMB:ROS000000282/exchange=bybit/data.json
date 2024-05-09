@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ROS000000282_AMB:USD000000335",
+        "normalizedPair": "rose_usdt",
+        "normalizedSymbol": "rose",
+        "nativePair": "ROSEUSDT",
+        "exchange": "bybit",
+        "assetName": "Oasis Network",
+        "assetArcId": "AMB:ROS000000282",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rose_usdt",
+        "instrumentType": "spot"
+    }
+]

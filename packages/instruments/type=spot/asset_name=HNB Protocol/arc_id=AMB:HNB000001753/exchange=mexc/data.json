@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HNB000001753_AMB:USD000000335",
+        "normalizedPair": "hnb_usdt",
+        "normalizedSymbol": "hnb",
+        "nativePair": "HNBUSDT",
+        "exchange": "mexc",
+        "assetName": "HNB Protocol",
+        "assetArcId": "AMB:HNB000001753",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hnb_usdt",
+        "instrumentType": "spot"
+    }
+]

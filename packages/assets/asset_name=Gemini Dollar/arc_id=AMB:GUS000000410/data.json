@@ -1,0 +1,24 @@
+{
+    "assetSymbol": "gusd",
+    "assetName": "Gemini Dollar",
+    "assetArcId": "AMB:GUS000000410",
+    "website": "https://gemini.com/dollar/",
+    "whitePaperUrl": "https://gemini.com/wp-content/themes/gemini/assets/img/dollar/gemini-dollar-whitepaper.pdf",
+    "classificationTags": [
+        "Smart Contract",
+        "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gemini Dollar/arc_id=AMB:GUS000000410/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gemini Dollar/arc_id=AMB:GUS000000410/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gemini Dollar/arc_id=AMB:GUS000000410/exchange=gemini/data.json"
+        ]
+    }
+}

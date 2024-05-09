@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "celt",
+    "assetName": "Celestial",
+    "assetArcId": "AMB:CEL000001526",
+    "website": "https://celt.game/#/",
+    "whitePaperUrl": "https://celt.game/static/CELESTIAL_Whitepaper.pdf",
+    "classificationTags": [
+        "Gaming",
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Celestial/arc_id=AMB:CEL000001526/exchange=mexc/data.json"
+        ]
+    }
+}

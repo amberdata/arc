@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VOO000000000_AMB:USD000000335",
+        "normalizedPair": "vooxai_usdt",
+        "normalizedSymbol": "vooxai",
+        "nativePair": "VOOXAIUSDT",
+        "exchange": "mexc",
+        "assetName": "VOOXAI",
+        "assetArcId": "AMB:VOO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vooxai_usdt",
+        "instrumentType": "spot"
+    }
+]

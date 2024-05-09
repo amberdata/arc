@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DEU000001590_AMB:USD000000335",
+        "normalizedPair": "deus_usdt",
+        "normalizedSymbol": "deus",
+        "nativePair": "DEUSUSDT",
+        "exchange": "mexc",
+        "assetName": "DEUS Finance",
+        "assetArcId": "AMB:DEU000001590",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "deus_usdt",
+        "instrumentType": "spot"
+    }
+]

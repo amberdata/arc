@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BCC000000000_AMB:USD000000335",
+        "normalizedPair": "bccoin_usdt",
+        "normalizedSymbol": "bccoin",
+        "nativePair": "BCCOINUSDT",
+        "exchange": "mexc",
+        "assetName": "BCCOIN",
+        "assetArcId": "AMB:BCC000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bccoin_usdt",
+        "instrumentType": "spot"
+    }
+]

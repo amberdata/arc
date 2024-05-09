@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FOR000000134_AMB:USD000000335",
+        "normalizedPair": "forth_usdt",
+        "normalizedSymbol": "forth",
+        "nativePair": "forth_usdt",
+        "exchange": "zb",
+        "assetName": "Ampleforth Governance Token",
+        "assetArcId": "AMB:FOR000000134",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "forth_usdt",
+        "instrumentType": "spot"
+    }
+]

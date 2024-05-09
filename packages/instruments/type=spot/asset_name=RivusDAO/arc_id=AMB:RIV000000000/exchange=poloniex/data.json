@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RIV000000000_AMB:USD000000335",
+        "normalizedPair": "rivus_usdt",
+        "normalizedSymbol": "rivus",
+        "nativePair": "RIVUS_USDT",
+        "exchange": "poloniex",
+        "assetName": "RivusDAO",
+        "assetArcId": "AMB:RIV000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rivus_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "soul",
+    "assetName": "Soulsaver",
+    "assetArcId": "AMB:SOU000000807",
+    "website": "https://idlesoulsavers.io/",
+    "whitePaperUrl": "/how-to-buy/SOUL?utm_source=mexc&utm_medium=tokenifoSOUL&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Soulsaver/arc_id=AMB:SOU000000807/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Soulsaver/arc_id=AMB:SOU000000807/exchange=mexc/data.json"
+        ]
+    }
+}

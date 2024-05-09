@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VPP000002325_AMB:USD000000335",
+        "normalizedPair": "vpp_usdt",
+        "normalizedSymbol": "vpp",
+        "nativePair": "VPPUSDT",
+        "exchange": "mexc",
+        "assetName": "Virtue Poker",
+        "assetArcId": "AMB:VPP000002325",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vpp_usdt",
+        "instrumentType": "spot"
+    }
+]

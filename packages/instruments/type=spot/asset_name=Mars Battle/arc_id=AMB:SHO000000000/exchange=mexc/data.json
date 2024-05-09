@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHO000000000_AMB:USD000000335",
+        "normalizedPair": "shoot_usdt",
+        "normalizedSymbol": "shoot",
+        "nativePair": "SHOOTUSDT",
+        "exchange": "mexc",
+        "assetName": "Mars Battle",
+        "assetArcId": "AMB:SHO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shoot_usdt",
+        "instrumentType": "spot"
+    }
+]

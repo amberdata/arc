@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BTM000002496_AMB:USD000000949",
+        "normalizedPair": "btmx_usd",
+        "normalizedSymbol": "btmx",
+        "nativePair": "BTMX/USD",
+        "exchange": "ftx",
+        "assetName": "BitMax Token",
+        "assetArcId": "AMB:BTM000002496",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "btmx_usd",
+        "instrumentType": "spot"
+    }
+]

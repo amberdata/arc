@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "ghub",
+    "assetName": "GemHUB",
+    "assetArcId": "AMB:GHU000001708",
+    "website": "https://www.gemhub.io/",
+    "whitePaperUrl": "https://docs.gemhub.net/v/english/",
+    "classificationTags": [
+        "Gaming",
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GemHUB/arc_id=AMB:GHU000001708/exchange=mexc/data.json"
+        ]
+    }
+}

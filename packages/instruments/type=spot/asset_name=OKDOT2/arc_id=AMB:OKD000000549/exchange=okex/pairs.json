@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OKD000000549_AMB:DOT000000105",
+        "normalizedPair": "okdot2_dot",
+        "normalizedSymbol": "okdot2",
+        "nativePair": "OKDOT2-DOT",
+        "exchange": "okex",
+        "assetName": "OKDOT2",
+        "assetArcId": "AMB:OKD000000549",
+        "quoteArcId": "AMB:DOT000000105",
+        "collectedPair": "okdot2_dot",
+        "instrumentType": "spot"
+    }
+]

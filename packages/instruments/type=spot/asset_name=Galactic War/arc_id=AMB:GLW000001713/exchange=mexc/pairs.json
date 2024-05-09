@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GLW000001713_AMB:USD000000335",
+        "normalizedPair": "glw_usdt",
+        "normalizedSymbol": "glw",
+        "nativePair": "GLWUSDT",
+        "exchange": "mexc",
+        "assetName": "Galactic War",
+        "assetArcId": "AMB:GLW000001713",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "glw_usdt",
+        "instrumentType": "spot"
+    }
+]

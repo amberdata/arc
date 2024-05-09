@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XER000003198_AMB:USD000000335",
+        "normalizedPair": "xert_usdt",
+        "normalizedSymbol": "xert",
+        "nativePair": "XERTUSDT",
+        "exchange": "mexc",
+        "assetName": "XertiNet",
+        "assetArcId": "AMB:XER000003198",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xert_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRU000002287_AMB:USD000000335",
+        "normalizedPair": "tru1_usdt",
+        "normalizedSymbol": "tru1",
+        "nativePair": "TRU1USDT",
+        "exchange": "mexc",
+        "assetName": "TrueBit",
+        "assetArcId": "AMB:TRU000002287",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tru1_usdt",
+        "instrumentType": "spot"
+    }
+]

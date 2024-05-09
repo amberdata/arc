@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "qtv",
+    "assetName": "QuantumVertics",
+    "assetArcId": "AMB:QTV000003131",
+    "website": "https://quantumvertics.xyz/",
+    "whitePaperUrl": "https://quantumvertics.gitbook.io/quantumvertics/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=QuantumVertics/arc_id=AMB:QTV000003131/exchange=mexc/data.json"
+        ]
+    }
+}

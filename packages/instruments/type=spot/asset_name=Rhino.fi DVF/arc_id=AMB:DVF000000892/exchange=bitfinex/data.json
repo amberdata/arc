@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DVF000000892_AMB:USD000000949",
+        "normalizedPair": "dvf_usd",
+        "normalizedSymbol": "dvf",
+        "nativePair": "tDVFUSD",
+        "exchange": "bitfinex",
+        "assetName": "Rhino.fi DVF",
+        "assetArcId": "AMB:DVF000000892",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dvf_usd",
+        "instrumentType": "spot"
+    }
+]

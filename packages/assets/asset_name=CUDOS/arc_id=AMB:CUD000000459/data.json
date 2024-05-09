@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "cudos",
+    "assetName": "CUDOS",
+    "assetArcId": "AMB:CUD000000459",
+    "website": "https://www.cudos.org/",
+    "whitePaperUrl": "https://www.cudos.org/wp-content/uploads/2021/11/cudos-white-paper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=CUDOS/arc_id=AMB:CUD000000459/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=CUDOS/arc_id=AMB:CUD000000459/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=CUDOS/arc_id=AMB:CUD000000459/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=CUDOS/arc_id=AMB:CUD000000459/exchange=mexc/data.json"
+        ]
+    }
+}

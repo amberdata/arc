@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "blendr",
+    "assetName": "Blendr Network",
+    "assetArcId": "AMB:BLE000000000",
+    "website": "https://www.blendr.network/",
+    "whitePaperUrl": "https://drive.google.com/file/d/1gI0NL8koLs1UGBmxPjpmP57VI0Ata8ez/view",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Blendr Network/arc_id=AMB:BLE000000000/exchange=mexc/data.json"
+        ]
+    }
+}

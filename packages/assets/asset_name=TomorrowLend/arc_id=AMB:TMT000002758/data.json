@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "tmt",
+    "assetName": "TomorrowLend",
+    "assetArcId": "AMB:TMT000002758",
+    "website": "http://tomorrowlend.xyz/",
+    "whitePaperUrl": "https://tomorrowlend.gitbook.io/tommorrowlend/",
+    "classificationTags": [
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

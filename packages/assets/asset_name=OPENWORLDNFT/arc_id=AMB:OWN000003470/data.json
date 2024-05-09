@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "owner",
+    "assetName": "OPENWORLDNFT",
+    "assetArcId": "AMB:OWN000003470",
+    "website": "https://openworldnft.io/",
+    "whitePaperUrl": "https://openworld-nft.gitbook.io/openworld_nft/#",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=OPENWORLDNFT/arc_id=AMB:OWN000003470/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ARG000000466_AMB:USD000000335",
+        "normalizedPair": "arg_usdt",
+        "normalizedSymbol": "arg",
+        "nativePair": "argusdt",
+        "exchange": "huobi",
+        "assetName": "Argentine Football Association Fan Token",
+        "assetArcId": "AMB:ARG000000466",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "arg_usdt",
+        "instrumentType": "spot"
+    }
+]

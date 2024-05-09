@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "wemix",
+    "assetName": "WEMIX Token",
+    "assetArcId": "AMB:WEM000000854",
+    "website": "https://www.wemix.com/ko",
+    "whitePaperUrl": "https://www.wemix.com/download/WEMIX3.0_Whitepaper.pdf",
+    "classificationTags": [
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

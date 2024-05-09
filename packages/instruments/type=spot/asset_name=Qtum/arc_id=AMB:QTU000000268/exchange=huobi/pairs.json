@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:QTU000000268_AMB:USD000000335",
+        "normalizedPair": "qtum_usdt",
+        "normalizedSymbol": "qtum",
+        "nativePair": "qtumusdt",
+        "exchange": "huobi",
+        "assetName": "Qtum",
+        "assetArcId": "AMB:QTU000000268",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "qtum_usdt",
+        "instrumentType": "spot"
+    }
+]

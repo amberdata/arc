@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LUM000001882_AMB:USD000000335",
+        "normalizedPair": "lumi_usdt",
+        "normalizedSymbol": "lumi",
+        "nativePair": "LUMIUSDT",
+        "exchange": "mexc",
+        "assetName": "Lumi Credits",
+        "assetArcId": "AMB:LUM000001882",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lumi_usdt",
+        "instrumentType": "spot"
+    }
+]

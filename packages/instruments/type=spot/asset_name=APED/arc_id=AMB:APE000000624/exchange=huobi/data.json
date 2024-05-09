@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:APE000000624_AMB:USD000000335",
+        "normalizedPair": "aped_usdt",
+        "normalizedSymbol": "aped",
+        "nativePair": "apedusdt",
+        "exchange": "huobi",
+        "assetName": "APED",
+        "assetArcId": "AMB:APE000000624",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aped_usdt",
+        "instrumentType": "spot"
+    }
+]

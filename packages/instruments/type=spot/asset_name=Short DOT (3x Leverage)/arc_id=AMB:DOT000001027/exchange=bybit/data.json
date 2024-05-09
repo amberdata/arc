@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOT000001027_AMB:USD000000335",
+        "normalizedPair": "dot3s_usdt",
+        "normalizedSymbol": "dot3s",
+        "nativePair": "DOT3SUSDT",
+        "exchange": "bybit",
+        "assetName": "Short DOT (3x Leverage)",
+        "assetArcId": "AMB:DOT000001027",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dot3s_usdt",
+        "instrumentType": "spot"
+    }
+]

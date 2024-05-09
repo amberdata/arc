@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VGX000000339_AMB:USD000000949",
+        "normalizedPair": "vgx_usd",
+        "normalizedSymbol": "vgx",
+        "nativePair": "VGX/USD",
+        "exchange": "ftx",
+        "assetName": "Voyager Token",
+        "assetArcId": "AMB:VGX000000339",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "vgx_usd",
+        "instrumentType": "spot"
+    }
+]

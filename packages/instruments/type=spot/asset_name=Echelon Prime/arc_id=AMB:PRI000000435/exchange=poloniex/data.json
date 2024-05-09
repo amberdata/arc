@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PRI000000435_AMB:USD000000335",
+        "normalizedPair": "prime_usdt",
+        "normalizedSymbol": "prime",
+        "nativePair": "PRIME_USDT",
+        "exchange": "poloniex",
+        "assetName": "Echelon Prime",
+        "assetArcId": "AMB:PRI000000435",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "prime_usdt",
+        "instrumentType": "spot"
+    }
+]

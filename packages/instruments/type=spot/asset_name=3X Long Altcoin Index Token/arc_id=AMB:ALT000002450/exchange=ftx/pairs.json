@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALT000002450_AMB:USD000000949",
+        "normalizedPair": "altbull_usd",
+        "normalizedSymbol": "altbull",
+        "nativePair": "ALTBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long Altcoin Index Token",
+        "assetArcId": "AMB:ALT000002450",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "altbull_usd",
+        "instrumentType": "spot"
+    }
+]

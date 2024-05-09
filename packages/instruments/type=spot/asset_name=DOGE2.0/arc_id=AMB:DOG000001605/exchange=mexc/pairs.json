@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOG000001605_AMB:USD000000335",
+        "normalizedPair": "dogecoin2_usdt",
+        "normalizedSymbol": "dogecoin2",
+        "nativePair": "DOGECOIN2USDT",
+        "exchange": "mexc",
+        "assetName": "DOGE2.0",
+        "assetArcId": "AMB:DOG000001605",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dogecoin2_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:STO000000304_AMB:BTC000000000",
+        "normalizedPair": "storj_btc",
+        "normalizedSymbol": "storj",
+        "nativePair": "STORJ_BTC",
+        "exchange": "poloniex",
+        "assetName": "Storj",
+        "assetArcId": "AMB:STO000000304",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "storj_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:STO000000304_AMB:USD000000335",
+        "normalizedPair": "storj_usdt",
+        "normalizedSymbol": "storj",
+        "nativePair": "STORJ_USDT",
+        "exchange": "poloniex",
+        "assetName": "Storj",
+        "assetArcId": "AMB:STO000000304",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "storj_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "scale",
+    "assetName": "Scalia Infrastructure",
+    "assetArcId": "AMB:SCA000000001",
+    "website": "https://scalia.app/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "DePIN"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0x8a0a9b663693a22235b896f70a229c4a22597623"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Scalia Infrastructure/arc_id=AMB:SCA000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

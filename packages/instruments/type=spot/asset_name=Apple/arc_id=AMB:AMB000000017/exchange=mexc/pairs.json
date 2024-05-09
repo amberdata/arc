@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AMB000000017_AMB:USD000000335",
+        "normalizedPair": "amb_usdt",
+        "normalizedSymbol": "amb",
+        "nativePair": "AMBUSDT",
+        "exchange": "mexc",
+        "assetName": "Apple",
+        "assetArcId": "AMB:AMB000000017",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "amb_usdt",
+        "instrumentType": "spot"
+    }
+]

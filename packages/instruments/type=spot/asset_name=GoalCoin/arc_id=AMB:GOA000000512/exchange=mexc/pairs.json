@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GOA000000512_AMB:USD000000335",
+        "normalizedPair": "goal.amb.1_usdt",
+        "normalizedSymbol": "goal.amb.1",
+        "nativePair": "GOALUSDT",
+        "exchange": "mexc",
+        "assetName": "GoalCoin",
+        "assetArcId": "AMB:GOA000000512",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "goal_usdt",
+        "instrumentType": "spot"
+    }
+]

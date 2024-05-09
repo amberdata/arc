@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZKI000002407_AMB:USD000000335",
+        "normalizedPair": "zkid_usdt",
+        "normalizedSymbol": "zkid",
+        "nativePair": "ZKIDUSDT",
+        "exchange": "mexc",
+        "assetName": "zkSync id",
+        "assetArcId": "AMB:ZKI000002407",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zkid_usdt",
+        "instrumentType": "spot"
+    }
+]

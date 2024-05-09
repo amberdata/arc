@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "musk",
+    "assetName": "Musk Dao",
+    "assetArcId": "AMB:MUS000000753",
+    "website": "http://www.muskdao.io/",
+    "whitePaperUrl": "/how-to-buy/MUSK?utm_source=mexc&utm_medium=tokenifoMUSK&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Musk Dao/arc_id=AMB:MUS000000753/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Musk Dao/arc_id=AMB:MUS000000753/exchange=mexc/data.json"
+        ]
+    }
+}

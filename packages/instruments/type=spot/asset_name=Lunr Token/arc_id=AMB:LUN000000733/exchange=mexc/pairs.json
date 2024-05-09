@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LUN000000733_AMB:USD000000335",
+        "normalizedPair": "lunr_usdt",
+        "normalizedSymbol": "lunr",
+        "nativePair": "LUNRUSDT",
+        "exchange": "mexc",
+        "assetName": "Lunr Token",
+        "assetArcId": "AMB:LUN000000733",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lunr_usdt",
+        "instrumentType": "spot"
+    }
+]

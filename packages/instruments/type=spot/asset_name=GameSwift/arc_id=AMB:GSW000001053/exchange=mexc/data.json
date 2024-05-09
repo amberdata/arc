@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GSW000001053_AMB:USD000000335",
+        "normalizedPair": "gswift_usdt",
+        "normalizedSymbol": "gswift",
+        "nativePair": "GSWIFTUSDT",
+        "exchange": "mexc",
+        "assetName": "GameSwift",
+        "assetArcId": "AMB:GSW000001053",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gswift_usdt",
+        "instrumentType": "spot"
+    }
+]

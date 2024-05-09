@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EGO000000000_AMB:USD000000335",
+        "normalizedPair": "egon_usdt",
+        "normalizedSymbol": "egon",
+        "nativePair": "EGONUSDT",
+        "exchange": "mexc",
+        "assetName": "EgonCoin",
+        "assetArcId": "AMB:EGO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "egon_usdt",
+        "instrumentType": "spot"
+    }
+]

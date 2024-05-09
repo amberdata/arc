@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BOO000001486_AMB:USD000000335",
+        "normalizedPair": "boo_usdt",
+        "normalizedSymbol": "boo",
+        "nativePair": "BOOUSDT",
+        "exchange": "mexc",
+        "assetName": "SpookySwap",
+        "assetArcId": "AMB:BOO000001486",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "boo_usdt",
+        "instrumentType": "spot"
+    }
+]

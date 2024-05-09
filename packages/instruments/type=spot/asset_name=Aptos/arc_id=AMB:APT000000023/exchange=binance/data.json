@@ -1,0 +1,98 @@
+[
+    {
+        "arcPairId": "AMB:APT000000023_AMB:BTC000000000",
+        "normalizedPair": "apt_btc",
+        "normalizedSymbol": "apt",
+        "nativePair": "APTBTC",
+        "exchange": "binance",
+        "assetName": "Aptos",
+        "assetArcId": "AMB:APT000000023",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "apt_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APT000000023_AMB:BUS000000067",
+        "normalizedPair": "apt_busd",
+        "normalizedSymbol": "apt",
+        "nativePair": "APTBUSD",
+        "exchange": "binance",
+        "assetName": "Aptos",
+        "assetArcId": "AMB:APT000000023",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "apt_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APT000000023_AMB:ETH000000000",
+        "normalizedPair": "apt_eth",
+        "normalizedSymbol": "apt",
+        "nativePair": "APTETH",
+        "exchange": "binance",
+        "assetName": "Aptos",
+        "assetArcId": "AMB:APT000000023",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "apt_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APT000000023_AMB:EUR000000120",
+        "normalizedPair": "apt_eur",
+        "normalizedSymbol": "apt",
+        "nativePair": "APTEUR",
+        "exchange": "binance",
+        "assetName": "Aptos",
+        "assetArcId": "AMB:APT000000023",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "apt_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APT000000023_AMB:TRY000000940",
+        "normalizedPair": "apt_try",
+        "normalizedSymbol": "apt",
+        "nativePair": "APTTRY",
+        "exchange": "binance",
+        "assetName": "Aptos",
+        "assetArcId": "AMB:APT000000023",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "apt_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APT000000023_AMB:USD000000335",
+        "normalizedPair": "apt_usdt",
+        "normalizedSymbol": "apt",
+        "nativePair": "APTUSDT",
+        "exchange": "binance",
+        "assetName": "Aptos",
+        "assetArcId": "AMB:APT000000023",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "apt_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APT000000023_AMB:FDU000000122",
+        "normalizedPair": "apt_fdusd",
+        "normalizedSymbol": "apt",
+        "nativePair": "APTFDUSD",
+        "exchange": "binance",
+        "assetName": "Aptos",
+        "assetArcId": "AMB:APT000000023",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "apt_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APT000000023_AMB:USD000000333",
+        "normalizedPair": "apt_usdc",
+        "normalizedSymbol": "apt",
+        "nativePair": "APTUSDC",
+        "exchange": "binance",
+        "assetName": "Aptos",
+        "assetArcId": "AMB:APT000000023",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "apt_usdc",
+        "instrumentType": "spot"
+    }
+]

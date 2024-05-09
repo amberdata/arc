@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAN000000044_AMB:USD000000335",
+        "normalizedPair": "band_usdt",
+        "normalizedSymbol": "band",
+        "nativePair": "BAND-USDT",
+        "exchange": "okex",
+        "assetName": "Band Protocol",
+        "assetArcId": "AMB:BAN000000044",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "band_usdt",
+        "instrumentType": "spot"
+    }
+]

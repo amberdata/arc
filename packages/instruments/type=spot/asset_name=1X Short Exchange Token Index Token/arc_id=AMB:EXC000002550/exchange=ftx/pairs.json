@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EXC000002550_AMB:USD000000949",
+        "normalizedPair": "exchhedge_usd",
+        "normalizedSymbol": "exchhedge",
+        "nativePair": "EXCHHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short Exchange Token Index Token",
+        "assetArcId": "AMB:EXC000002550",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "exchhedge_usd",
+        "instrumentType": "spot"
+    }
+]

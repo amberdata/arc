@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AID000001374_AMB:USD000000335",
+        "normalizedPair": "aidogex_usdt",
+        "normalizedSymbol": "aidogex",
+        "nativePair": "AIDOGEXUSDT",
+        "exchange": "mexc",
+        "assetName": "AI DogeX",
+        "assetArcId": "AMB:AID000001374",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aidogex_usdt",
+        "instrumentType": "spot"
+    }
+]

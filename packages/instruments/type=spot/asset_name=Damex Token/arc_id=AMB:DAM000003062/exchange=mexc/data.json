@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DAM000003062_AMB:USD000000335",
+        "normalizedPair": "damex_usdt",
+        "normalizedSymbol": "damex",
+        "nativePair": "DAMEXUSDT",
+        "exchange": "mexc",
+        "assetName": "Damex Token",
+        "assetArcId": "AMB:DAM000003062",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "damex_usdt",
+        "instrumentType": "spot"
+    }
+]

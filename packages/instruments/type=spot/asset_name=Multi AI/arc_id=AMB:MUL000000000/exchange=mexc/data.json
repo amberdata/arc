@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MUL000000000_AMB:USD000000335",
+        "normalizedPair": "multiai_usdt",
+        "normalizedSymbol": "multiai",
+        "nativePair": "MULTIAIUSDT",
+        "exchange": "mexc",
+        "assetName": "Multi AI",
+        "assetArcId": "AMB:MUL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "multiai_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:DEN000000097_AMB:EUR000000120",
+        "normalizedPair": "dent_eur",
+        "normalizedSymbol": "dent",
+        "nativePair": "DENTEUR",
+        "exchange": "kraken",
+        "assetName": "Dent",
+        "assetArcId": "AMB:DEN000000097",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "dent_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DEN000000097_AMB:USD000000949",
+        "normalizedPair": "dent_usd",
+        "normalizedSymbol": "dent",
+        "nativePair": "DENTUSD",
+        "exchange": "kraken",
+        "assetName": "Dent",
+        "assetArcId": "AMB:DEN000000097",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dent_usd",
+        "instrumentType": "spot"
+    }
+]

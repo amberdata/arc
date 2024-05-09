@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "iq",
+    "assetName": "IQ",
+    "assetArcId": "AMB:IQA000000174",
+    "website": "https://iq.wiki/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance",
+        "Oracles"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

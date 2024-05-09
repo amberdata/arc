@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ech",
+    "assetName": "Echobay",
+    "assetArcId": "AMB:ECH000000000",
+    "website": "https://www.echobay.xyz/",
+    "whitePaperUrl": "https://echobay-music.gitbook.io/echobay-whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Echobay/arc_id=AMB:ECH000000000/exchange=mexc/data.json"
+        ]
+    }
+}

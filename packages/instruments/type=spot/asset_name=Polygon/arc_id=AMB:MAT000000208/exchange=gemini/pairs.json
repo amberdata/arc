@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAT000000208_AMB:USD000000949",
+        "normalizedPair": "matic_usd",
+        "normalizedSymbol": "matic",
+        "nativePair": "maticusd",
+        "exchange": "gemini",
+        "assetName": "Polygon",
+        "assetArcId": "AMB:MAT000000208",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "matic_usd",
+        "instrumentType": "spot"
+    }
+]

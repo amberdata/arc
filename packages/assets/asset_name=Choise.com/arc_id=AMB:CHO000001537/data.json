@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cho",
+    "assetName": "Choise.com",
+    "assetArcId": "AMB:CHO000001537",
+    "website": "https://choise.com/",
+    "whitePaperUrl": "https://docs.choise.com/about-the-project",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Choise.com/arc_id=AMB:CHO000001537/exchange=mexc/data.json"
+        ]
+    }
+}

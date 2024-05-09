@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LAM000000001_AMB:USD000000335",
+        "normalizedPair": "lambosol_usdt",
+        "normalizedSymbol": "lambosol",
+        "nativePair": "LAMBOSOL_USDT",
+        "exchange": "poloniex",
+        "assetName": "Lambo",
+        "assetArcId": "AMB:LAM000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lambosol_usdt",
+        "instrumentType": "spot"
+    }
+]

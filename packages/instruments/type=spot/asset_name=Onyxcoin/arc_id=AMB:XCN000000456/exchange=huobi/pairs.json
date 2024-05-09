@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XCN000000456_AMB:USD000000335",
+        "normalizedPair": "xcn_usdt",
+        "normalizedSymbol": "xcn",
+        "nativePair": "xcnusdt",
+        "exchange": "huobi",
+        "assetName": "Onyxcoin",
+        "assetArcId": "AMB:XCN000000456",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xcn_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MUD000000752_AMB:USD000000335",
+        "normalizedPair": "mudol2_usdt",
+        "normalizedSymbol": "mudol2",
+        "nativePair": "MUDOL2USDT",
+        "exchange": "mexc",
+        "assetName": "Hero Blaze: Three Kingdoms",
+        "assetArcId": "AMB:MUD000000752",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mudol2_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CYB000003011_AMB:USD000000335",
+        "normalizedPair": "cybertruck_usdt",
+        "normalizedSymbol": "cybertruck",
+        "nativePair": "CYBERTRUCKUSDT",
+        "exchange": "mexc",
+        "assetName": "CYBERTRUCK",
+        "assetArcId": "AMB:CYB000003011",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cybertruck_usdt",
+        "instrumentType": "spot"
+    }
+]

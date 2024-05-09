@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XLR000001337_AMB:USD000000335",
+        "normalizedPair": "xlrt_usdt",
+        "normalizedSymbol": "xlrt",
+        "nativePair": "XLRT_USDT",
+        "exchange": "poloniex",
+        "assetName": "Xccelerate",
+        "assetArcId": "AMB:XLR000001337",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xlrt_usdt",
+        "instrumentType": "spot"
+    }
+]

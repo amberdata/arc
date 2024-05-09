@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SEC000002637_AMB:USD000000949",
+        "normalizedPair": "seco_usd",
+        "normalizedSymbol": "seco",
+        "nativePair": "SECO/USD",
+        "exchange": "ftx",
+        "assetName": "Serum Ecosystem Token",
+        "assetArcId": "AMB:SEC000002637",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "seco_usd",
+        "instrumentType": "spot"
+    }
+]

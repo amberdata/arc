@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:BTC000000000",
+        "normalizedPair": "bch_btc",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCH/BTC",
+        "exchange": "ftxus",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "bch_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:USD000000949",
+        "normalizedPair": "bch_usd",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCH/USD",
+        "exchange": "ftxus",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bch_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:USD000000335",
+        "normalizedPair": "bch_usdt",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCH/USDT",
+        "exchange": "ftxus",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bch_usdt",
+        "instrumentType": "spot"
+    }
+]

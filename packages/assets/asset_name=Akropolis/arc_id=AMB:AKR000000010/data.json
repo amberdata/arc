@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "akro",
+    "assetName": "Akropolis",
+    "assetArcId": "AMB:AKR000000010",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Akropolis/arc_id=AMB:AKR000000010/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Akropolis/arc_id=AMB:AKR000000010/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Akropolis/arc_id=AMB:AKR000000010/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Akropolis/arc_id=AMB:AKR000000010/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Akropolis/arc_id=AMB:AKR000000010/exchange=poloniex/data.json"
+        ]
+    }
+}

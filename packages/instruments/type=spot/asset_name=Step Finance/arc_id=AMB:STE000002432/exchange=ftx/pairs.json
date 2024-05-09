@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STE000002432_AMB:USD000000949",
+        "normalizedPair": "step_usd",
+        "normalizedSymbol": "step",
+        "nativePair": "STEP/USD",
+        "exchange": "ftx",
+        "assetName": "Step Finance",
+        "assetArcId": "AMB:STE000002432",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "step_usd",
+        "instrumentType": "spot"
+    }
+]

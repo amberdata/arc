@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:PSG000000261_AMB:BTC000000000",
+        "normalizedPair": "psg_btc",
+        "normalizedSymbol": "psg",
+        "nativePair": "PSGBTC",
+        "exchange": "binance",
+        "assetName": "Paris Saint-Germain Fan Token",
+        "assetArcId": "AMB:PSG000000261",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "psg_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PSG000000261_AMB:TRY000000940",
+        "normalizedPair": "psg_try",
+        "normalizedSymbol": "psg",
+        "nativePair": "PSGTRY",
+        "exchange": "binance",
+        "assetName": "Paris Saint-Germain Fan Token",
+        "assetArcId": "AMB:PSG000000261",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "psg_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PSG000000261_AMB:USD000000335",
+        "normalizedPair": "psg_usdt",
+        "normalizedSymbol": "psg",
+        "nativePair": "PSGUSDT",
+        "exchange": "binance",
+        "assetName": "Paris Saint-Germain Fan Token",
+        "assetArcId": "AMB:PSG000000261",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "psg_usdt",
+        "instrumentType": "spot"
+    }
+]

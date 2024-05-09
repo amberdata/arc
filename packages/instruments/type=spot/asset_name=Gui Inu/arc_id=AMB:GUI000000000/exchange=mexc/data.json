@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GUI000000000_AMB:USD000000335",
+        "normalizedPair": "gui_usdt",
+        "normalizedSymbol": "gui",
+        "nativePair": "GUIUSDT",
+        "exchange": "mexc",
+        "assetName": "Gui Inu",
+        "assetArcId": "AMB:GUI000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gui_usdt",
+        "instrumentType": "spot"
+    }
+]

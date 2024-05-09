@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COM000000079_AMB:USD000000335",
+        "normalizedPair": "combo_usdt",
+        "normalizedSymbol": "combo",
+        "nativePair": "COMBOUSDT",
+        "exchange": "mexc",
+        "assetName": "Furucombo",
+        "assetArcId": "AMB:COM000000079",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "combo_usdt",
+        "instrumentType": "spot"
+    }
+]

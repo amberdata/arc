@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NEO000003430_AMB:USD000000335",
+        "normalizedPair": "neox_usdt",
+        "normalizedSymbol": "neox",
+        "nativePair": "NEOXUSDT",
+        "exchange": "mexc",
+        "assetName": "Neoxa",
+        "assetArcId": "AMB:NEO000003430",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "neox_usdt",
+        "instrumentType": "spot"
+    }
+]

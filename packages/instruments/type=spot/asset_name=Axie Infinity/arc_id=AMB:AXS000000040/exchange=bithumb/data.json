@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AXS000000040_AMB:KRW000000000",
+        "normalizedPair": "axs_krw",
+        "normalizedSymbol": "axs",
+        "nativePair": "AXS/KRW",
+        "exchange": "bithumb",
+        "assetName": "Axie Infinity",
+        "assetArcId": "AMB:AXS000000040",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "axs_krw",
+        "instrumentType": "spot"
+    }
+]

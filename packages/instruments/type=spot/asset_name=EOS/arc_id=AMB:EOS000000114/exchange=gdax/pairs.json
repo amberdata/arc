@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:EOS000000114_AMB:BTC000000000",
+        "normalizedPair": "eos_btc",
+        "normalizedSymbol": "eos",
+        "nativePair": "EOS-BTC",
+        "exchange": "gdax",
+        "assetName": "EOS",
+        "assetArcId": "AMB:EOS000000114",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "eos_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:EOS000000114_AMB:EUR000000120",
+        "normalizedPair": "eos_eur",
+        "normalizedSymbol": "eos",
+        "nativePair": "EOS-EUR",
+        "exchange": "gdax",
+        "assetName": "EOS",
+        "assetArcId": "AMB:EOS000000114",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "eos_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:EOS000000114_AMB:USD000000949",
+        "normalizedPair": "eos_usd",
+        "normalizedSymbol": "eos",
+        "nativePair": "EOS-USD",
+        "exchange": "gdax",
+        "assetName": "EOS",
+        "assetArcId": "AMB:EOS000000114",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "eos_usd",
+        "instrumentType": "spot"
+    }
+]

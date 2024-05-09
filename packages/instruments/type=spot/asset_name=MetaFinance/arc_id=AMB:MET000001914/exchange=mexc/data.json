@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MET000001914_AMB:USD000000335",
+        "normalizedPair": "metafi_usdt",
+        "normalizedSymbol": "metafi",
+        "nativePair": "METAFIUSDT",
+        "exchange": "mexc",
+        "assetName": "MetaFinance",
+        "assetArcId": "AMB:MET000001914",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "metafi_usdt",
+        "instrumentType": "spot"
+    }
+]

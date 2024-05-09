@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:PEP000000246_AMB:GUS000000410",
+        "normalizedPair": "pepe_gusd",
+        "normalizedSymbol": "pepe",
+        "nativePair": "pepegusdperp",
+        "exchange": "gemini",
+        "assetName": "PEPEBSC",
+        "assetArcId": "AMB:PEP000000246",
+        "quoteArcId": "AMB:GUS000000410",
+        "collectedPair": "pepe_gusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PEP000000246_AMB:USD000000949",
+        "normalizedPair": "pepe_usd",
+        "normalizedSymbol": "pepe",
+        "nativePair": "pepeusd",
+        "exchange": "gemini",
+        "assetName": "PEPEBSC",
+        "assetArcId": "AMB:PEP000000246",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "pepe_usd",
+        "instrumentType": "spot"
+    }
+]

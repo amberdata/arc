@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:WOO000000354_AMB:EUR000000120",
+        "normalizedPair": "woo_eur",
+        "normalizedSymbol": "woo",
+        "nativePair": "WOOEUR",
+        "exchange": "kraken",
+        "assetName": "WOO Network",
+        "assetArcId": "AMB:WOO000000354",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "woo_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WOO000000354_AMB:USD000000949",
+        "normalizedPair": "woo_usd",
+        "normalizedSymbol": "woo",
+        "nativePair": "WOOUSD",
+        "exchange": "kraken",
+        "assetName": "WOO Network",
+        "assetArcId": "AMB:WOO000000354",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "woo_usd",
+        "instrumentType": "spot"
+    }
+]

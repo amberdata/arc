@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AMO000001139_AMB:KRW000000000",
+        "normalizedPair": "amo_krw",
+        "normalizedSymbol": "amo",
+        "nativePair": "AMO/KRW",
+        "exchange": "bithumb",
+        "assetName": "AMO Coin",
+        "assetArcId": "AMB:AMO000001139",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "amo_krw",
+        "instrumentType": "spot"
+    }
+]

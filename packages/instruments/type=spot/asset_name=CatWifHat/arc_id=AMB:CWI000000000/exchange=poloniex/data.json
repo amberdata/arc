@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CWI000000000_AMB:USD000000335",
+        "normalizedPair": "cwif_usdt",
+        "normalizedSymbol": "cwif",
+        "nativePair": "CWIF_USDT",
+        "exchange": "poloniex",
+        "assetName": "Catwifhat",
+        "assetArcId": "AMB:CWI000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cwif_usdt",
+        "instrumentType": "spot"
+    }
+]

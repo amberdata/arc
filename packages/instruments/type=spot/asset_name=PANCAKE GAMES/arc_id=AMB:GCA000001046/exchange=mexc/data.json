@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GCA000001046_AMB:USD000000335",
+        "normalizedPair": "gcake_usdt",
+        "normalizedSymbol": "gcake",
+        "nativePair": "GCAKEUSDT",
+        "exchange": "mexc",
+        "assetName": "PANCAKE GAMES",
+        "assetArcId": "AMB:GCA000001046",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gcake_usdt",
+        "instrumentType": "spot"
+    }
+]

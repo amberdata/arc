@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POO000002088_AMB:USD000000335",
+        "normalizedPair": "poo_usdt",
+        "normalizedSymbol": "poo",
+        "nativePair": "POOUSDT",
+        "exchange": "mexc",
+        "assetName": "POOMOON",
+        "assetArcId": "AMB:POO000002088",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "poo_usdt",
+        "instrumentType": "spot"
+    }
+]

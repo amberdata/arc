@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:RON000003532_AMB:USD000000335",
+        "normalizedPair": "ronin_usdt",
+        "normalizedSymbol": "ronin",
+        "nativePair": "RONINUSDT",
+        "exchange": "binance",
+        "assetName": "Ronin",
+        "assetArcId": "AMB:RON000003532",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ronin_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RON000003532_AMB:BTC000000000",
+        "normalizedPair": "ronin_btc",
+        "normalizedSymbol": "ronin",
+        "nativePair": "RONINBTC",
+        "exchange": "binance",
+        "assetName": "Ronin",
+        "assetArcId": "AMB:RON000003532",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ronin_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RON000003532_AMB:FDU000000122",
+        "normalizedPair": "ronin_fdusd",
+        "normalizedSymbol": "ronin",
+        "nativePair": "RONINFDUSD",
+        "exchange": "binance",
+        "assetName": "Ronin",
+        "assetArcId": "AMB:RON000003532",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "ronin_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RON000003532_AMB:TRY000000940",
+        "normalizedPair": "ronin_try",
+        "normalizedSymbol": "ronin",
+        "nativePair": "RONINTRY",
+        "exchange": "binance",
+        "assetName": "Ronin",
+        "assetArcId": "AMB:RON000003532",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "ronin_try",
+        "instrumentType": "spot"
+    }
+]

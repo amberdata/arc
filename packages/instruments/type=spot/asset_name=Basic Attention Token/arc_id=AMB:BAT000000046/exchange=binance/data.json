@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BAT000000046_AMB:BTC000000000",
+        "normalizedPair": "bat_btc",
+        "normalizedSymbol": "bat",
+        "nativePair": "BATBTC",
+        "exchange": "binance",
+        "assetName": "Basic Attention Token",
+        "assetArcId": "AMB:BAT000000046",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "bat_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAT000000046_AMB:USD000000335",
+        "normalizedPair": "bat_usdt",
+        "normalizedSymbol": "bat",
+        "nativePair": "BATUSDT",
+        "exchange": "binance",
+        "assetName": "Basic Attention Token",
+        "assetArcId": "AMB:BAT000000046",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bat_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DBC000000659_AMB:USD000000335",
+        "normalizedPair": "dbc_usdt",
+        "normalizedSymbol": "dbc",
+        "nativePair": "dbcusdt",
+        "exchange": "huobi",
+        "assetName": "Dhabi Coin",
+        "assetArcId": "AMB:DBC000000659",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dbc_usdt",
+        "instrumentType": "spot"
+    }
+]

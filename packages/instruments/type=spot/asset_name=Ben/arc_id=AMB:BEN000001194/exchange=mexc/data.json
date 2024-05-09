@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BEN000001194_AMB:USD000000335",
+        "normalizedPair": "ben_usdt",
+        "normalizedSymbol": "ben",
+        "nativePair": "BENUSDT",
+        "exchange": "mexc",
+        "assetName": "Ben",
+        "assetArcId": "AMB:BEN000001194",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ben_usdt",
+        "instrumentType": "spot"
+    }
+]

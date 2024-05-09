@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "genai",
+    "assetName": "GenAi",
+    "assetArcId": "AMB:GEN000000000",
+    "website": "https://www.genaio.me/",
+    "whitePaperUrl": "https://docs.genaio.me/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GenAi/arc_id=AMB:GEN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

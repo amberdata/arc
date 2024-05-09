@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XCH000000605_AMB:USD000000335",
+        "normalizedPair": "xch_usdt",
+        "normalizedSymbol": "xch",
+        "nativePair": "XCHUSDT",
+        "exchange": "mexc",
+        "assetName": "Chia",
+        "assetArcId": "AMB:XCH000000605",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xch_usdt",
+        "instrumentType": "spot"
+    }
+]

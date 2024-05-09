@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CGR000002881_AMB:USD000000335",
+        "normalizedPair": "cgrok_usdt",
+        "normalizedSymbol": "cgrok",
+        "nativePair": "CGROKUSDT",
+        "exchange": "mexc",
+        "assetName": "ChainGrok",
+        "assetArcId": "AMB:CGR000002881",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cgrok_usdt",
+        "instrumentType": "spot"
+    }
+]

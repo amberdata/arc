@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAP000001161_AMB:KRW000000000",
+        "normalizedPair": "map_krw",
+        "normalizedSymbol": "map",
+        "nativePair": "MAP/KRW",
+        "exchange": "bithumb",
+        "assetName": "MAP Protocol",
+        "assetArcId": "AMB:MAP000001161",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "map_krw",
+        "instrumentType": "spot"
+    }
+]

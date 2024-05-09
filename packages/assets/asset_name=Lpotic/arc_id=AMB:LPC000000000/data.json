@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "lpc",
+    "assetName": "Lpotic",
+    "assetArcId": "AMB:LPC000000000",
+    "website": "https://lpotic.xyz/",
+    "whitePaperUrl": "https://lpotics-organization.gitbook.io/lpotic/",
+    "classificationTags": [
+        "Derivatives"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Lpotic/arc_id=AMB:LPC000000000/exchange=mexc/data.json"
+        ]
+    }
+}

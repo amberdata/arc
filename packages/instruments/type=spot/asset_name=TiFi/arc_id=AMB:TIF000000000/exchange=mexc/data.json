@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TIF000000000_AMB:USD000000335",
+        "normalizedPair": "tifi_usdt",
+        "normalizedSymbol": "tifi",
+        "nativePair": "TIFIUSDT",
+        "exchange": "mexc",
+        "assetName": "TiFi",
+        "assetArcId": "AMB:TIF000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tifi_usdt",
+        "instrumentType": "spot"
+    }
+]

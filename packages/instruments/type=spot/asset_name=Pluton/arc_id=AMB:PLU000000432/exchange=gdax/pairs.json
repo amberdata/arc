@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PLU000000432_AMB:USD000000949",
+        "normalizedPair": "plu_usd",
+        "normalizedSymbol": "plu",
+        "nativePair": "PLU-USD",
+        "exchange": "gdax",
+        "assetName": "Pluton",
+        "assetArcId": "AMB:PLU000000432",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "plu_usd",
+        "instrumentType": "spot"
+    }
+]

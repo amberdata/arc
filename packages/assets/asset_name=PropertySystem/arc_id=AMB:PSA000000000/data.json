@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ps",
+    "assetName": "PropertySystem",
+    "assetArcId": "AMB:PSA000000000",
+    "website": "https://www.psfoundation.land/",
+    "whitePaperUrl": "https://www.psfoundation.land/_files/ugd/4e379c_d04bb1a8a6e542d093ceb254fe5d876e.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PropertySystem/arc_id=AMB:PSA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

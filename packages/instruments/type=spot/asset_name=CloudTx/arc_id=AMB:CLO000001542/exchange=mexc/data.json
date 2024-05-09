@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CLO000001542_AMB:USD000000335",
+        "normalizedPair": "cloud_usdt",
+        "normalizedSymbol": "cloud",
+        "nativePair": "CLOUDUSDT",
+        "exchange": "mexc",
+        "assetName": "CloudTx",
+        "assetArcId": "AMB:CLO000001542",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cloud_usdt",
+        "instrumentType": "spot"
+    }
+]

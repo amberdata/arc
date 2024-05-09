@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:XYO000000457_AMB:EUR000000120",
+        "normalizedPair": "xyo_eur",
+        "normalizedSymbol": "xyo",
+        "nativePair": "XYO-EUR",
+        "exchange": "gdax",
+        "assetName": "XYO",
+        "assetArcId": "AMB:XYO000000457",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "xyo_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XYO000000457_AMB:USD000000949",
+        "normalizedPair": "xyo_usd",
+        "normalizedSymbol": "xyo",
+        "nativePair": "XYO-USD",
+        "exchange": "gdax",
+        "assetName": "XYO",
+        "assetArcId": "AMB:XYO000000457",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xyo_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XYO000000457_AMB:USD000000335",
+        "normalizedPair": "xyo_usdt",
+        "normalizedSymbol": "xyo",
+        "nativePair": "XYO-USDT",
+        "exchange": "gdax",
+        "assetName": "XYO",
+        "assetArcId": "AMB:XYO000000457",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xyo_usdt",
+        "instrumentType": "spot"
+    }
+]

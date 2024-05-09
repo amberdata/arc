@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "slg",
+    "assetName": "Shattered Legion",
+    "assetArcId": "AMB:SLG000001116",
+    "website": "https://www.landofconquest.com/#/home",
+    "whitePaperUrl": "https://slg.games/slg/whitepaper.pdf",
+    "classificationTags": [
+        "Gaming",
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Shattered Legion/arc_id=AMB:SLG000001116/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Shattered Legion/arc_id=AMB:SLG000001116/exchange=mexc/data.json"
+        ]
+    }
+}

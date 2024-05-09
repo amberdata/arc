@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AZE000000630_AMB:USD000000335",
+        "normalizedPair": "azero_usdt",
+        "normalizedSymbol": "azero",
+        "nativePair": "azerousdt",
+        "exchange": "huobi",
+        "assetName": "Aleph Zero",
+        "assetArcId": "AMB:AZE000000630",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "azero_usdt",
+        "instrumentType": "spot"
+    }
+]

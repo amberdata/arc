@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FRO000001687_AMB:USD000000335",
+        "normalizedPair": "froggy_usdt",
+        "normalizedSymbol": "froggy",
+        "nativePair": "FROGGYUSDT",
+        "exchange": "mexc",
+        "assetName": "Froggy",
+        "assetArcId": "AMB:FRO000001687",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "froggy_usdt",
+        "instrumentType": "spot"
+    }
+]

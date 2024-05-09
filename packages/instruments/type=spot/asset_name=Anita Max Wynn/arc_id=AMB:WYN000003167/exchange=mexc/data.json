@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WYN000003167_AMB:USD000000335",
+        "normalizedPair": "wynn_usdt",
+        "normalizedSymbol": "wynn",
+        "nativePair": "WYNNUSDT",
+        "exchange": "mexc",
+        "assetName": "Anita Max Wynn",
+        "assetArcId": "AMB:WYN000003167",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wynn_usdt",
+        "instrumentType": "spot"
+    }
+]

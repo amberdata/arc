@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WIN000000350_AMB:USD000000335",
+        "normalizedPair": "win_usdt",
+        "normalizedSymbol": "win",
+        "nativePair": "WINUSDT",
+        "exchange": "mexc",
+        "assetName": "WINk",
+        "assetArcId": "AMB:WIN000000350",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "win_usdt",
+        "instrumentType": "spot"
+    }
+]

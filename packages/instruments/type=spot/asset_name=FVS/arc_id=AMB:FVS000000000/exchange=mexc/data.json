@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FVS000000000_AMB:USD000000335",
+        "normalizedPair": "fvs_usdt",
+        "normalizedSymbol": "fvs",
+        "nativePair": "FVSUSDT",
+        "exchange": "mexc",
+        "assetName": "FVS",
+        "assetArcId": "AMB:FVS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fvs_usdt",
+        "instrumentType": "spot"
+    }
+]

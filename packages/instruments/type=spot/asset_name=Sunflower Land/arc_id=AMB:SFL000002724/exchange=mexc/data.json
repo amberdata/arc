@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SFL000002724_AMB:USD000000335",
+        "normalizedPair": "sfl_usdt",
+        "normalizedSymbol": "sfl",
+        "nativePair": "SFLUSDT",
+        "exchange": "mexc",
+        "assetName": "Sunflower Land",
+        "assetArcId": "AMB:SFL000002724",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sfl_usdt",
+        "instrumentType": "spot"
+    }
+]

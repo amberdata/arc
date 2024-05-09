@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "mmg",
+    "assetName": "MarkmarkGo",
+    "assetArcId": "AMB:MMG000003526",
+    "website": "https://www.markmarkgo.xyz/",
+    "whitePaperUrl": "https://markmarkgo-game.gitbook.io/markmarkgo/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MarkmarkGo/arc_id=AMB:MMG000003526/exchange=mexc/data.json"
+        ]
+    }
+}

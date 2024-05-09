@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CLO000000890_AMB:USD000000949",
+        "normalizedPair": "clo_usd",
+        "normalizedSymbol": "clo",
+        "nativePair": "tCLOUSD",
+        "exchange": "bitfinex",
+        "assetName": "Callisto Network",
+        "assetArcId": "AMB:CLO000000890",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "clo_usd",
+        "instrumentType": "spot"
+    }
+]

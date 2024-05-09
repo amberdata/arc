@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:KNC000000185_AMB:BTC000000000",
+        "normalizedPair": "knc_btc",
+        "normalizedSymbol": "knc",
+        "nativePair": "KNC-BTC",
+        "exchange": "gdax",
+        "assetName": "Kyber Network",
+        "assetArcId": "AMB:KNC000000185",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "knc_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KNC000000185_AMB:USD000000949",
+        "normalizedPair": "knc_usd",
+        "normalizedSymbol": "knc",
+        "nativePair": "KNC-USD",
+        "exchange": "gdax",
+        "assetName": "Kyber Network",
+        "assetArcId": "AMB:KNC000000185",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "knc_usd",
+        "instrumentType": "spot"
+    }
+]

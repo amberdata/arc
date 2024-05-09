@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bookofbase",
+    "assetName": "BOOK OF BASE",
+    "assetArcId": "AMB:BOO000000003",
+    "website": "https://bookofbase.io/#",
+    "whitePaperUrl": "/how-to-buy/BOOKOFBASE?utm_source=mexc&utm_medium=tokenifoBOOKOFBASE&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BOOK OF BASE/arc_id=AMB:BOO000000003/exchange=mexc/data.json"
+        ]
+    }
+}

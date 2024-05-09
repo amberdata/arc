@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LEO000001860_AMB:USD000000335",
+        "normalizedPair": "leox_usdt",
+        "normalizedSymbol": "leox",
+        "nativePair": "LEOXUSDT",
+        "exchange": "mexc",
+        "assetName": "LEOX",
+        "assetArcId": "AMB:LEO000001860",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "leox_usdt",
+        "instrumentType": "spot"
+    }
+]

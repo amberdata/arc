@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHZ000000075_AMB:USD000000335",
+        "normalizedPair": "chz_usdt",
+        "normalizedSymbol": "chz",
+        "nativePair": "CHZUSDT",
+        "exchange": "binanceus",
+        "assetName": "Chiliz",
+        "assetArcId": "AMB:CHZ000000075",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "chz_usdt",
+        "instrumentType": "spot"
+    }
+]

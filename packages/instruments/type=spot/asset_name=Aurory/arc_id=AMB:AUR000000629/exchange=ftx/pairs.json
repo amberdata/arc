@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AUR000000629_AMB:USD000000949",
+        "normalizedPair": "aury_usd",
+        "normalizedSymbol": "aury",
+        "nativePair": "AURY/USD",
+        "exchange": "ftx",
+        "assetName": "Aurory",
+        "assetArcId": "AMB:AUR000000629",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "aury_usd",
+        "instrumentType": "spot"
+    }
+]

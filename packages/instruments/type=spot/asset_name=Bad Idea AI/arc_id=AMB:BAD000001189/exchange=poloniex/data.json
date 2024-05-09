@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAD000001189_AMB:USD000000335",
+        "normalizedPair": "bad_usdt",
+        "normalizedSymbol": "bad",
+        "nativePair": "BAD_USDT",
+        "exchange": "poloniex",
+        "assetName": "Bad Idea AI",
+        "assetArcId": "AMB:BAD000001189",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bad_usdt",
+        "instrumentType": "spot"
+    }
+]

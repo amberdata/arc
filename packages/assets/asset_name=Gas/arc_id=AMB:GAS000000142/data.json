@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "gas",
+    "assetName": "Gas",
+    "assetArcId": "AMB:GAS000000142",
+    "website": "https://neo.org/neogas#tokens",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance",
+        "Real World Asset",
+        "Smart Contract",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

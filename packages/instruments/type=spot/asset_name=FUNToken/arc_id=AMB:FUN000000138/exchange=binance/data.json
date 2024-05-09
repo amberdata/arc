@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:FUN000000138_AMB:BNB000000055",
+        "normalizedPair": "fun_bnb",
+        "normalizedSymbol": "fun",
+        "nativePair": "FUNBNB",
+        "exchange": "binance",
+        "assetName": "FUNToken",
+        "assetArcId": "AMB:FUN000000138",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "fun_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FUN000000138_AMB:ETH000000000",
+        "normalizedPair": "fun_eth",
+        "normalizedSymbol": "fun",
+        "nativePair": "FUNETH",
+        "exchange": "binance",
+        "assetName": "FUNToken",
+        "assetArcId": "AMB:FUN000000138",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "fun_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FUN000000138_AMB:USD000000335",
+        "normalizedPair": "fun_usdt",
+        "normalizedSymbol": "fun",
+        "nativePair": "FUNUSDT",
+        "exchange": "binance",
+        "assetName": "FUNToken",
+        "assetArcId": "AMB:FUN000000138",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fun_usdt",
+        "instrumentType": "spot"
+    }
+]

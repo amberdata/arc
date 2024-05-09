@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:IDE000000167_AMB:BNB000000055",
+        "normalizedPair": "idex_bnb",
+        "normalizedSymbol": "idex",
+        "nativePair": "IDEXBNB",
+        "exchange": "binance",
+        "assetName": "IDEX",
+        "assetArcId": "AMB:IDE000000167",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "idex_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IDE000000167_AMB:BTC000000000",
+        "normalizedPair": "idex_btc",
+        "normalizedSymbol": "idex",
+        "nativePair": "IDEXBTC",
+        "exchange": "binance",
+        "assetName": "IDEX",
+        "assetArcId": "AMB:IDE000000167",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "idex_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IDE000000167_AMB:BUS000000067",
+        "normalizedPair": "idex_busd",
+        "normalizedSymbol": "idex",
+        "nativePair": "IDEXBUSD",
+        "exchange": "binance",
+        "assetName": "IDEX",
+        "assetArcId": "AMB:IDE000000167",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "idex_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IDE000000167_AMB:USD000000335",
+        "normalizedPair": "idex_usdt",
+        "normalizedSymbol": "idex",
+        "nativePair": "IDEXUSDT",
+        "exchange": "binance",
+        "assetName": "IDEX",
+        "assetArcId": "AMB:IDE000000167",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "idex_usdt",
+        "instrumentType": "spot"
+    }
+]

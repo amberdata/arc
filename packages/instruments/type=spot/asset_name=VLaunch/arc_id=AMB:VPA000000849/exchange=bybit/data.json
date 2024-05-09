@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VPA000000849_AMB:USD000000335",
+        "normalizedPair": "vpad_usdt",
+        "normalizedSymbol": "vpad",
+        "nativePair": "VPADUSDT",
+        "exchange": "bybit",
+        "assetName": "VLaunch",
+        "assetArcId": "AMB:VPA000000849",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vpad_usdt",
+        "instrumentType": "spot"
+    }
+]

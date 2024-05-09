@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIC000002784_AMB:USD000000335",
+        "normalizedPair": "aicoin1_usdt",
+        "normalizedSymbol": "aicoin1",
+        "nativePair": "AICOIN1USDT",
+        "exchange": "mexc",
+        "assetName": "AICoin",
+        "assetArcId": "AMB:AIC000002784",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aicoin1_usdt",
+        "instrumentType": "spot"
+    }
+]

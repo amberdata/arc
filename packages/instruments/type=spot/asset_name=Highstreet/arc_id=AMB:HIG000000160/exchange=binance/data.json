@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:HIG000000160_AMB:BNB000000055",
+        "normalizedPair": "high_bnb",
+        "normalizedSymbol": "high",
+        "nativePair": "HIGHBNB",
+        "exchange": "binance",
+        "assetName": "Highstreet",
+        "assetArcId": "AMB:HIG000000160",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "high_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:HIG000000160_AMB:BTC000000000",
+        "normalizedPair": "high_btc",
+        "normalizedSymbol": "high",
+        "nativePair": "HIGHBTC",
+        "exchange": "binance",
+        "assetName": "Highstreet",
+        "assetArcId": "AMB:HIG000000160",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "high_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:HIG000000160_AMB:BUS000000067",
+        "normalizedPair": "high_busd",
+        "normalizedSymbol": "high",
+        "nativePair": "HIGHBUSD",
+        "exchange": "binance",
+        "assetName": "Highstreet",
+        "assetArcId": "AMB:HIG000000160",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "high_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:HIG000000160_AMB:USD000000335",
+        "normalizedPair": "high_usdt",
+        "normalizedSymbol": "high",
+        "nativePair": "HIGHUSDT",
+        "exchange": "binance",
+        "assetName": "Highstreet",
+        "assetArcId": "AMB:HIG000000160",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "high_usdt",
+        "instrumentType": "spot"
+    }
+]

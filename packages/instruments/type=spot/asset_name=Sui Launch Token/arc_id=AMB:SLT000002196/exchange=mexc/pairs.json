@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SLT000002196_AMB:USD000000335",
+        "normalizedPair": "slt_usdt",
+        "normalizedSymbol": "slt",
+        "nativePair": "SLTUSDT",
+        "exchange": "mexc",
+        "assetName": "Sui Launch Token",
+        "assetArcId": "AMB:SLT000002196",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "slt_usdt",
+        "instrumentType": "spot"
+    }
+]

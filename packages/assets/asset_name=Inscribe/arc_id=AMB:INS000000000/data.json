@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "inscribe",
+    "assetName": "Inscribe",
+    "assetArcId": "AMB:INS000000000",
+    "website": "https://inscribe.app/",
+    "whitePaperUrl": "https://inscribe.papyrs.com/@home/Inscribe",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Inscribe/arc_id=AMB:INS000000000/exchange=mexc/data.json"
+        ]
+    }
+}

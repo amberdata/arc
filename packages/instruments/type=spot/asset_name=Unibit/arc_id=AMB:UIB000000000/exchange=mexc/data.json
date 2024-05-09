@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UIB000000000_AMB:USD000000335",
+        "normalizedPair": "uibt_usdt",
+        "normalizedSymbol": "uibt",
+        "nativePair": "UIBTUSDT",
+        "exchange": "mexc",
+        "assetName": "Unibit",
+        "assetArcId": "AMB:UIB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "uibt_usdt",
+        "instrumentType": "spot"
+    }
+]

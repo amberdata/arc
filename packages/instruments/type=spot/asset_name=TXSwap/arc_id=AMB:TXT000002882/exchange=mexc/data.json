@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TXT000002882_AMB:USD000000335",
+        "normalizedPair": "txt_usdt",
+        "normalizedSymbol": "txt",
+        "nativePair": "TXTUSDT",
+        "exchange": "mexc",
+        "assetName": "TXSwap",
+        "assetArcId": "AMB:TXT000002882",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "txt_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FOU000001231_AMB:USD000000335",
+        "normalizedPair": "four_usdt",
+        "normalizedSymbol": "four",
+        "nativePair": "FOURUSDT",
+        "exchange": "mexc",
+        "assetName": "FourCoin",
+        "assetArcId": "AMB:FOU000001231",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "four_usdt",
+        "instrumentType": "spot"
+    }
+]

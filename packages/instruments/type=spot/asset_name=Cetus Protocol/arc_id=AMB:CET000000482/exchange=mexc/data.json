@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CET000000482_AMB:USD000000335",
+        "normalizedPair": "cetus_usdt",
+        "normalizedSymbol": "cetus",
+        "nativePair": "CETUSUSDT",
+        "exchange": "mexc",
+        "assetName": "Cetus Protocol",
+        "assetArcId": "AMB:CET000000482",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cetus_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SOL000000806_AMB:USD000000335",
+        "normalizedPair": "solo_usdt",
+        "normalizedSymbol": "solo",
+        "nativePair": "SOLOUSDT",
+        "exchange": "bybit",
+        "assetName": "Sologenic",
+        "assetArcId": "AMB:SOL000000806",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "solo_usdt",
+        "instrumentType": "spot"
+    }
+]

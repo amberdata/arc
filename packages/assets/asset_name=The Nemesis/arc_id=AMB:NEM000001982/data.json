@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "nems",
+    "assetName": "The Nemesis",
+    "assetArcId": "AMB:NEM000001982",
+    "website": "https://thenemesis.io/",
+    "whitePaperUrl": "https://thenemesis.io/wp-content/uploads/2023/05/The_Nemesis_WP.pdf",
+    "classificationTags": [
+        "Gaming",
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=The Nemesis/arc_id=AMB:NEM000001982/exchange=mexc/data.json"
+        ]
+    }
+}

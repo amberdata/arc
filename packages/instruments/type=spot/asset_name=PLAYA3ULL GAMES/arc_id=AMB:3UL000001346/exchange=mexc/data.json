@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:3UL000001346_AMB:USD000000335",
+        "normalizedPair": "3ull_usdt",
+        "normalizedSymbol": "3ull",
+        "nativePair": "3ULLUSDT",
+        "exchange": "mexc",
+        "assetName": "PLAYA3ULL GAMES",
+        "assetArcId": "AMB:3UL000001346",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "3ull_usdt",
+        "instrumentType": "spot"
+    }
+]

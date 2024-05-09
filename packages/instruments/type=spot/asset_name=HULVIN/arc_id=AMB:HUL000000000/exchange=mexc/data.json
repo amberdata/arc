@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HUL000000000_AMB:USD000000335",
+        "normalizedPair": "hulvin_usdt",
+        "normalizedSymbol": "hulvin",
+        "nativePair": "HULVINUSDT",
+        "exchange": "mexc",
+        "assetName": "HULVIN",
+        "assetArcId": "AMB:HUL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hulvin_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POK000001100_AMB:USD000000335",
+        "normalizedPair": "pokt_usdt",
+        "normalizedSymbol": "pokt",
+        "nativePair": "POKTUSDT",
+        "exchange": "bybit",
+        "assetName": "Pocket Network",
+        "assetArcId": "AMB:POK000001100",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pokt_usdt",
+        "instrumentType": "spot"
+    }
+]

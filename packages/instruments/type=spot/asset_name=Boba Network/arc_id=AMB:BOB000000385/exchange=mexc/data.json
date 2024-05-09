@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BOB000000385_AMB:USD000000335",
+        "normalizedPair": "boba_usdt",
+        "normalizedSymbol": "boba",
+        "nativePair": "BOBAUSDT",
+        "exchange": "mexc",
+        "assetName": "Boba Network",
+        "assetArcId": "AMB:BOB000000385",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "boba_usdt",
+        "instrumentType": "spot"
+    }
+]

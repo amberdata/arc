@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UTK000000337_AMB:USD000000949",
+        "normalizedPair": "utk_usd",
+        "normalizedSymbol": "utk",
+        "nativePair": "tUTKUSD",
+        "exchange": "bitfinex",
+        "assetName": "Utrust",
+        "assetArcId": "AMB:UTK000000337",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "utk_usd",
+        "instrumentType": "spot"
+    }
+]

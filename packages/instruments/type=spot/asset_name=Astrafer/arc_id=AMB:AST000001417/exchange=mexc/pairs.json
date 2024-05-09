@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AST000001417_AMB:USD000000335",
+        "normalizedPair": "astrafer_usdt",
+        "normalizedSymbol": "astrafer",
+        "nativePair": "ASTRAFERUSDT",
+        "exchange": "mexc",
+        "assetName": "Astrafer",
+        "assetArcId": "AMB:AST000001417",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "astrafer_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:BTC000000000",
+        "normalizedPair": "mkr_btc",
+        "normalizedSymbol": "mkr",
+        "nativePair": "MKR-BTC",
+        "exchange": "gdax",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "mkr_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:USD000000949",
+        "normalizedPair": "mkr_usd",
+        "normalizedSymbol": "mkr",
+        "nativePair": "MKR-USD",
+        "exchange": "gdax",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mkr_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HEG000001744_AMB:USD000000335",
+        "normalizedPair": "hegic_usdt",
+        "normalizedSymbol": "hegic",
+        "nativePair": "HEGICUSDT",
+        "exchange": "mexc",
+        "assetName": "Hegic",
+        "assetArcId": "AMB:HEG000001744",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hegic_usdt",
+        "instrumentType": "spot"
+    }
+]

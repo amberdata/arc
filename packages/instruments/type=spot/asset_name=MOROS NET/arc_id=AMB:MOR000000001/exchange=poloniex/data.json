@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MOR000000001_AMB:USD000000335",
+        "normalizedPair": "moros_usdt",
+        "normalizedSymbol": "moros",
+        "nativePair": "MOROS_USDT",
+        "exchange": "poloniex",
+        "assetName": "MOROS NET",
+        "assetArcId": "AMB:MOR000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "moros_usdt",
+        "instrumentType": "spot"
+    }
+]

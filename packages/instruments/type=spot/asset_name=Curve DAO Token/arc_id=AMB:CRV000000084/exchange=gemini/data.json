@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRV000000084_AMB:USD000000949",
+        "normalizedPair": "crv_usd",
+        "normalizedSymbol": "crv",
+        "nativePair": "crvusd",
+        "exchange": "gemini",
+        "assetName": "Curve DAO Token",
+        "assetArcId": "AMB:CRV000000084",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "crv_usd",
+        "instrumentType": "spot"
+    }
+]

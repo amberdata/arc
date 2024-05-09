@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LIN000002588_AMB:USD000000949",
+        "normalizedPair": "linkbull_usd",
+        "normalizedSymbol": "linkbull",
+        "nativePair": "LINKBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long Chainlink Token",
+        "assetArcId": "AMB:LIN000002588",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "linkbull_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LIN000002588_AMB:USD000000335",
+        "normalizedPair": "linkbull_usdt",
+        "normalizedSymbol": "linkbull",
+        "nativePair": "LINKBULL/USDT",
+        "exchange": "ftx",
+        "assetName": "3X Long Chainlink Token",
+        "assetArcId": "AMB:LIN000002588",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "linkbull_usdt",
+        "instrumentType": "spot"
+    }
+]

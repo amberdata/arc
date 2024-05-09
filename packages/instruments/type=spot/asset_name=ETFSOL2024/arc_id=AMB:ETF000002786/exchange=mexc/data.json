@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETF000002786_AMB:USD000000335",
+        "normalizedPair": "etfsol2024_usdt",
+        "normalizedSymbol": "etfsol2024",
+        "nativePair": "ETFSOL2024USDT",
+        "exchange": "mexc",
+        "assetName": "ETFSOL2024",
+        "assetArcId": "AMB:ETF000002786",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "etfsol2024_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FLM000000129_AMB:USD000000335",
+        "normalizedPair": "flm_usdt",
+        "normalizedSymbol": "flm",
+        "nativePair": "FLM-USDT",
+        "exchange": "okex",
+        "assetName": "Flamingo",
+        "assetArcId": "AMB:FLM000000129",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "flm_usdt",
+        "instrumentType": "spot"
+    }
+]

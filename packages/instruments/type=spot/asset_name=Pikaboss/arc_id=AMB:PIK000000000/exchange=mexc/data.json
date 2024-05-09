@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PIK000000000_AMB:USD000000335",
+        "normalizedPair": "pikaboss_usdt",
+        "normalizedSymbol": "pikaboss",
+        "nativePair": "PIKABOSSUSDT",
+        "exchange": "mexc",
+        "assetName": "Pikaboss",
+        "assetArcId": "AMB:PIK000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pikaboss_usdt",
+        "instrumentType": "spot"
+    }
+]

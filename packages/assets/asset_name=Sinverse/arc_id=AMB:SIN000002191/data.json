@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "sin",
+    "assetName": "Sinverse",
+    "assetArcId": "AMB:SIN000002191",
+    "website": "https://sinverse.com/home",
+    "whitePaperUrl": "https://sin-city.io/sincity/Whitepaperv1.pdf",
+    "classificationTags": [
+        "Gaming",
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sinverse/arc_id=AMB:SIN000002191/exchange=mexc/data.json"
+        ]
+    }
+}

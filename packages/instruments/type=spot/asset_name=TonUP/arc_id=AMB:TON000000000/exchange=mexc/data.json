@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TON000000000_AMB:USD000000335",
+        "normalizedPair": "tonup_usdt",
+        "normalizedSymbol": "tonup",
+        "nativePair": "TONUPUSDT",
+        "exchange": "mexc",
+        "assetName": "TonUP",
+        "assetArcId": "AMB:TON000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tonup_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SFU000000799_AMB:USD000000335",
+        "normalizedPair": "sfund_usdt",
+        "normalizedSymbol": "sfund",
+        "nativePair": "SFUNDUSDT",
+        "exchange": "bybit",
+        "assetName": "Seedify.fund",
+        "assetArcId": "AMB:SFU000000799",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sfund_usdt",
+        "instrumentType": "spot"
+    }
+]

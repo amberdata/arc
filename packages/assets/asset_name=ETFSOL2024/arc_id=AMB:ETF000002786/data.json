@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "etfsol2024",
+    "assetName": "ETFSOL2024",
+    "assetArcId": "AMB:ETF000002786",
+    "website": "https://etf2024.world/",
+    "whitePaperUrl": "/how-to-buy/ETFSOL2024?utm_source=mexc&utm_medium=tokenifoETFSOL2024&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ETFSOL2024/arc_id=AMB:ETF000002786/exchange=mexc/data.json"
+        ]
+    }
+}

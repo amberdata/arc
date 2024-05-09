@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MKR000000217_AMB:KRW000000000",
+        "normalizedPair": "mkr_krw",
+        "normalizedSymbol": "mkr",
+        "nativePair": "MKR/KRW",
+        "exchange": "bithumb",
+        "assetName": "Maker",
+        "assetArcId": "AMB:MKR000000217",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "mkr_krw",
+        "instrumentType": "spot"
+    }
+]

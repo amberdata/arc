@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BET000000050_AMB:USD000000335",
+        "normalizedPair": "beta_usdt",
+        "normalizedSymbol": "beta",
+        "nativePair": "BETAUSDT",
+        "exchange": "mexc",
+        "assetName": "Beta Finance",
+        "assetArcId": "AMB:BET000000050",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "beta_usdt",
+        "instrumentType": "spot"
+    }
+]

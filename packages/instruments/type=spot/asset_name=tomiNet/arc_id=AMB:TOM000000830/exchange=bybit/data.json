@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOM000000830_AMB:USD000000335",
+        "normalizedPair": "tomi_usdt",
+        "normalizedSymbol": "tomi",
+        "nativePair": "TOMIUSDT",
+        "exchange": "bybit",
+        "assetName": "tomiNet",
+        "assetArcId": "AMB:TOM000000830",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tomi_usdt",
+        "instrumentType": "spot"
+    }
+]

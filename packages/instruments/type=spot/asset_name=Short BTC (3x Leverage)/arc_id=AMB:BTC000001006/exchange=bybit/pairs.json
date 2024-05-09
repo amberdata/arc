@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BTC000001006_AMB:USD000000335",
+        "normalizedPair": "btc3s_usdt",
+        "normalizedSymbol": "btc3s",
+        "nativePair": "BTC3SUSDT",
+        "exchange": "bybit",
+        "assetName": "Short BTC (3x Leverage)",
+        "assetArcId": "AMB:BTC000001006",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "btc3s_usdt",
+        "instrumentType": "spot"
+    }
+]

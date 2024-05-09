@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "tuxc",
+    "assetName": "TUXC",
+    "assetArcId": "AMB:TUX000000000",
+    "website": "https://tux-wallet.com/",
+    "whitePaperUrl": "https://tux-wallet.com/wp-content/uploads/2024/04/White-Paper_FA-En.pdf",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TUXC/arc_id=AMB:TUX000000000/exchange=mexc/data.json"
+        ]
+    }
+}

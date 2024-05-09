@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:TRU000000000_AMB:USD000000335",
+        "normalizedPair": "trumpcat_usdt",
+        "normalizedSymbol": "trumpcat",
+        "nativePair": "TRUMPCATUSDT",
+        "exchange": "mexc",
+        "assetName": "TRUMPCAT",
+        "assetArcId": "AMB:TRU000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trumpcat_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TRU000000000_AMB:USD000000335",
+        "normalizedPair": "trumpepe_usdt",
+        "normalizedSymbol": "trumpepe",
+        "nativePair": "TRUMPEPEUSDT",
+        "exchange": "mexc",
+        "assetName": "TRUMP PEPE",
+        "assetArcId": "AMB:TRU000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trumpepe_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TRU000000000_AMB:USD000000335",
+        "normalizedPair": "truf_usdt",
+        "normalizedSymbol": "truf",
+        "nativePair": "TRUFUSDT",
+        "exchange": "mexc",
+        "assetName": "Truflation",
+        "assetArcId": "AMB:TRU000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "truf_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TRU000000000_AMB:USD000000335",
+        "normalizedPair": "trump404_usdt",
+        "normalizedSymbol": "trump404",
+        "nativePair": "TRUMP404USDT",
+        "exchange": "mexc",
+        "assetName": "Trump404",
+        "assetArcId": "AMB:TRU000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trump404_usdt",
+        "instrumentType": "spot"
+    }
+]

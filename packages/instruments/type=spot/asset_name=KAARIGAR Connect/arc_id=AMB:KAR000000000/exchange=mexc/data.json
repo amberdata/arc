@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KAR000000000_AMB:USD000000335",
+        "normalizedPair": "karcon_usdt",
+        "normalizedSymbol": "karcon",
+        "nativePair": "KARCONUSDT",
+        "exchange": "mexc",
+        "assetName": "KAARIGAR Connect",
+        "assetArcId": "AMB:KAR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "karcon_usdt",
+        "instrumentType": "spot"
+    }
+]

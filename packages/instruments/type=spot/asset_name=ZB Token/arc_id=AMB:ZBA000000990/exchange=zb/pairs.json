@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:ZBA000000990_AMB:BTC000000000",
+        "normalizedPair": "zb_btc",
+        "normalizedSymbol": "zb",
+        "nativePair": "zb_btc",
+        "exchange": "zb",
+        "assetName": "ZB Token",
+        "assetArcId": "AMB:ZBA000000990",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "zb_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ZBA000000990_AMB:QCA000000000",
+        "normalizedPair": "zb_qc",
+        "normalizedSymbol": "zb",
+        "nativePair": "zb_qc",
+        "exchange": "zb",
+        "assetName": "ZB Token",
+        "assetArcId": "AMB:ZBA000000990",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "zb_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ZBA000000990_AMB:USD000000335",
+        "normalizedPair": "zb_usdt",
+        "normalizedSymbol": "zb",
+        "nativePair": "zb_usdt",
+        "exchange": "zb",
+        "assetName": "ZB Token",
+        "assetArcId": "AMB:ZBA000000990",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zb_usdt",
+        "instrumentType": "spot"
+    }
+]

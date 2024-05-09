@@ -1,0 +1,25 @@
+{
+    "assetSymbol": "bit",
+    "assetName": "BitDAO",
+    "assetArcId": "AMB:BIT000000383",
+    "website": "https://www.bitdao.io/",
+    "whitePaperUrl": "https://docs.bitdao.io/",
+    "classificationTags": [
+        "Gaming",
+        "Governance",
+        "Privacy"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x1a4b46696b2bb4794eb3d4c26f1c55f9170fa4c5"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BitDAO/arc_id=AMB:BIT000000383/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BitDAO/arc_id=AMB:BIT000000383/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BitDAO/arc_id=AMB:BIT000000383/exchange=kraken/data.json"
+        ]
+    }
+}

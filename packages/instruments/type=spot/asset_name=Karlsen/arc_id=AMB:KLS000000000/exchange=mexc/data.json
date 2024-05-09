@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KLS000000000_AMB:USD000000335",
+        "normalizedPair": "kls_usdt",
+        "normalizedSymbol": "kls",
+        "nativePair": "KLSUSDT",
+        "exchange": "mexc",
+        "assetName": "Karlsen",
+        "assetArcId": "AMB:KLS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kls_usdt",
+        "instrumentType": "spot"
+    }
+]

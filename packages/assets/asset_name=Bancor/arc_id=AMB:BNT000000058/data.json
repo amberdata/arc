@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "bnt",
+    "assetName": "Bancor",
+    "assetArcId": "AMB:BNT000000058",
+    "website": "https://bancor.network/",
+    "whitePaperUrl": "https://resources.carbondefi.xyz/pages/CarbonWhitepaper.pdf",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

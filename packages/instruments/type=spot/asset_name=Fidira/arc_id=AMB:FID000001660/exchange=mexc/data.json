@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FID000001660_AMB:USD000000335",
+        "normalizedPair": "fid_usdt",
+        "normalizedSymbol": "fid",
+        "nativePair": "FIDUSDT",
+        "exchange": "mexc",
+        "assetName": "Fidira",
+        "assetArcId": "AMB:FID000001660",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fid_usdt",
+        "instrumentType": "spot"
+    }
+]

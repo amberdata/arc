@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "ustc",
+    "assetName": "TerraClassicUSD",
+    "assetArcId": "AMB:UST000000336",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=mexc/data.json"
+        ]
+    }
+}

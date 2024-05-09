@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:GAM000000000_AMB:USD000000335",
+        "normalizedPair": "game_usdt",
+        "normalizedSymbol": "game",
+        "nativePair": "GAMEUSDT",
+        "exchange": "mexc",
+        "assetName": "Gameluk",
+        "assetArcId": "AMB:GAM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "game_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GAM000000000_AMB:USD000000335",
+        "normalizedPair": "games_usdt",
+        "normalizedSymbol": "games",
+        "nativePair": "GAMESUSDT",
+        "exchange": "mexc",
+        "assetName": "Gaming Stars",
+        "assetArcId": "AMB:GAM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "games_usdt",
+        "instrumentType": "spot"
+    }
+]

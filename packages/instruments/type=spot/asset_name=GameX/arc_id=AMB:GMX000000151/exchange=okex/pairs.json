@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:GMX000000151_AMB:USD000000333",
+        "normalizedPair": "gmx_usdc",
+        "normalizedSymbol": "gmx",
+        "nativePair": "GMX-USDC",
+        "exchange": "okex",
+        "assetName": "GameX",
+        "assetArcId": "AMB:GMX000000151",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "gmx_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GMX000000151_AMB:USD000000335",
+        "normalizedPair": "gmx_usdt",
+        "normalizedSymbol": "gmx",
+        "nativePair": "GMX-USDT",
+        "exchange": "okex",
+        "assetName": "GameX",
+        "assetArcId": "AMB:GMX000000151",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gmx_usdt",
+        "instrumentType": "spot"
+    }
+]

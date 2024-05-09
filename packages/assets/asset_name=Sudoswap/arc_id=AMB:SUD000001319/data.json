@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "sudo",
+    "assetName": "Sudoswap",
+    "assetArcId": "AMB:SUD000001319",
+    "website": "https://sudoswap.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0x3446Dd70B2D52A6Bf4a5a192D9b0A161295aB7F9"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

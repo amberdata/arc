@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XLS000002375_AMB:USD000000335",
+        "normalizedPair": "xls_usdt",
+        "normalizedSymbol": "xls",
+        "nativePair": "XLSUSDT",
+        "exchange": "mexc",
+        "assetName": "ELIS",
+        "assetArcId": "AMB:XLS000002375",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xls_usdt",
+        "instrumentType": "spot"
+    }
+]

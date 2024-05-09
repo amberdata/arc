@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XRP000002700_AMB:USD000000949",
+        "normalizedPair": "xrphedge_usd",
+        "normalizedSymbol": "xrphedge",
+        "nativePair": "XRPHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short XRP Token",
+        "assetArcId": "AMB:XRP000002700",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xrphedge_usd",
+        "instrumentType": "spot"
+    }
+]

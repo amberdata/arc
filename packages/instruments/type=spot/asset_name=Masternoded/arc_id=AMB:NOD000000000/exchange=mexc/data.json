@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NOD000000000_AMB:USD000000335",
+        "normalizedPair": "noded_usdt",
+        "normalizedSymbol": "noded",
+        "nativePair": "NODEDUSDT",
+        "exchange": "mexc",
+        "assetName": "Masternoded",
+        "assetArcId": "AMB:NOD000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "noded_usdt",
+        "instrumentType": "spot"
+    }
+]

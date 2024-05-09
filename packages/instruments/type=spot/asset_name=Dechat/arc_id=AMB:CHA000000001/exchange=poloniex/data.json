@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHA000000001_AMB:USD000000335",
+        "normalizedPair": "chat_usdt",
+        "normalizedSymbol": "chat",
+        "nativePair": "CHAT_USDT",
+        "exchange": "poloniex",
+        "assetName": "Dechat",
+        "assetArcId": "AMB:CHA000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "chat_usdt",
+        "instrumentType": "spot"
+    }
+]

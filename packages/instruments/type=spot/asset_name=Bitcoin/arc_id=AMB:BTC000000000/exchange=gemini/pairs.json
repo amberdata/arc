@@ -1,0 +1,86 @@
+[
+    {
+        "arcPairId": "AMB:BTC000000000_AMB:DAI000000394",
+        "normalizedPair": "btc_dai",
+        "normalizedSymbol": "btc",
+        "nativePair": "btcdai",
+        "exchange": "gemini",
+        "assetName": "Bitcoin",
+        "assetArcId": "AMB:BTC000000000",
+        "quoteArcId": "AMB:DAI000000394",
+        "collectedPair": "btc_dai",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTC000000000_AMB:EUR000000120",
+        "normalizedPair": "btc_eur",
+        "normalizedSymbol": "btc",
+        "nativePair": "btceur",
+        "exchange": "gemini",
+        "assetName": "Bitcoin",
+        "assetArcId": "AMB:BTC000000000",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "btc_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTC000000000_AMB:GBP000000144",
+        "normalizedPair": "btc_gbp",
+        "normalizedSymbol": "btc",
+        "nativePair": "btcgbp",
+        "exchange": "gemini",
+        "assetName": "Bitcoin",
+        "assetArcId": "AMB:BTC000000000",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "btc_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTC000000000_AMB:GUS000000410",
+        "normalizedPair": "btc_gusd",
+        "normalizedSymbol": "btc",
+        "nativePair": "btcgusdperp",
+        "exchange": "gemini",
+        "assetName": "Bitcoin",
+        "assetArcId": "AMB:BTC000000000",
+        "quoteArcId": "AMB:GUS000000410",
+        "collectedPair": "btc_gusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTC000000000_AMB:SGD000002638",
+        "normalizedPair": "btc_sgd",
+        "normalizedSymbol": "btc",
+        "nativePair": "btcsgd",
+        "exchange": "gemini",
+        "assetName": "Bitcoin",
+        "assetArcId": "AMB:BTC000000000",
+        "quoteArcId": "AMB:SGD000002638",
+        "collectedPair": "btc_sgd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTC000000000_AMB:USD000000949",
+        "normalizedPair": "btc_usd",
+        "normalizedSymbol": "btc",
+        "nativePair": "btcusd",
+        "exchange": "gemini",
+        "assetName": "Bitcoin",
+        "assetArcId": "AMB:BTC000000000",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "btc_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTC000000000_AMB:USD000000335",
+        "normalizedPair": "btc_usdt",
+        "normalizedSymbol": "btc",
+        "nativePair": "btcusdt",
+        "exchange": "gemini",
+        "assetName": "Bitcoin",
+        "assetArcId": "AMB:BTC000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "btc_usdt",
+        "instrumentType": "spot"
+    }
+]

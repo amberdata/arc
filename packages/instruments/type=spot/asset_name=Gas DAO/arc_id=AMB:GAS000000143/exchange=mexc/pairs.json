@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GAS000000143_AMB:USD000000335",
+        "normalizedPair": "gas.amb.1_usdt",
+        "normalizedSymbol": "gas.amb.1",
+        "nativePair": "GASUSDT",
+        "exchange": "mexc",
+        "assetName": "Gas DAO",
+        "assetArcId": "AMB:GAS000000143",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gas_usdt",
+        "instrumentType": "spot"
+    }
+]

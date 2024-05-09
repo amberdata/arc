@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HFT000000158_AMB:KRW000000000",
+        "normalizedPair": "hft_krw",
+        "normalizedSymbol": "hft",
+        "nativePair": "HFT/KRW",
+        "exchange": "bithumb",
+        "assetName": "Hashflow",
+        "assetArcId": "AMB:HFT000000158",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "hft_krw",
+        "instrumentType": "spot"
+    }
+]

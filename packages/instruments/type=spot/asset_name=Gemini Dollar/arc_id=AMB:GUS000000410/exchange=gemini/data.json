@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:GUS000000410_AMB:GBP000000144",
+        "normalizedPair": "gusd_gbp",
+        "normalizedSymbol": "gusd",
+        "nativePair": "gusdgbp",
+        "exchange": "gemini",
+        "assetName": "Gemini Dollar",
+        "assetArcId": "AMB:GUS000000410",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "gusd_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GUS000000410_AMB:SGD000002638",
+        "normalizedPair": "gusd_sgd",
+        "normalizedSymbol": "gusd",
+        "nativePair": "gusdsgd",
+        "exchange": "gemini",
+        "assetName": "Gemini Dollar",
+        "assetArcId": "AMB:GUS000000410",
+        "quoteArcId": "AMB:SGD000002638",
+        "collectedPair": "gusd_sgd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GUS000000410_AMB:USD000000949",
+        "normalizedPair": "gusd_usd",
+        "normalizedSymbol": "gusd",
+        "nativePair": "gusdusd",
+        "exchange": "gemini",
+        "assetName": "Gemini Dollar",
+        "assetArcId": "AMB:GUS000000410",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "gusd_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OMG000000234_AMB:USD000000335",
+        "normalizedPair": "omg_usdt",
+        "normalizedSymbol": "omg",
+        "nativePair": "OMGUSDT",
+        "exchange": "binance",
+        "assetName": "OMG Network",
+        "assetArcId": "AMB:OMG000000234",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "omg_usdt",
+        "instrumentType": "spot"
+    }
+]

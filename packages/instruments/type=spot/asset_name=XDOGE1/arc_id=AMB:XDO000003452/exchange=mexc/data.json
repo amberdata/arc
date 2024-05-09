@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XDO000003452_AMB:USD000000335",
+        "normalizedPair": "xdoge1_usdt",
+        "normalizedSymbol": "xdoge1",
+        "nativePair": "XDOGE1USDT",
+        "exchange": "mexc",
+        "assetName": "XDOGE1",
+        "assetArcId": "AMB:XDO000003452",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xdoge1_usdt",
+        "instrumentType": "spot"
+    }
+]

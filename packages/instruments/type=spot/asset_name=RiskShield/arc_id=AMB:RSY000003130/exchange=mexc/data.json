@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RSY000003130_AMB:USD000000335",
+        "normalizedPair": "rsy_usdt",
+        "normalizedSymbol": "rsy",
+        "nativePair": "RSYUSDT",
+        "exchange": "mexc",
+        "assetName": "RiskShield",
+        "assetArcId": "AMB:RSY000003130",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rsy_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FAC000000678_AMB:USD000000335",
+        "normalizedPair": "face.amb.1_usdt",
+        "normalizedSymbol": "face.amb.1",
+        "nativePair": "FACEUSDT",
+        "exchange": "mexc",
+        "assetName": "Face Token",
+        "assetArcId": "AMB:FAC000000678",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "face_usdt",
+        "instrumentType": "spot"
+    }
+]

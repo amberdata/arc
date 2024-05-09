@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HAO000000696_AMB:USD000000335",
+        "normalizedPair": "hao_usdt",
+        "normalizedSymbol": "hao",
+        "nativePair": "HAOUSDT",
+        "exchange": "mexc",
+        "assetName": "HistoryDAO",
+        "assetArcId": "AMB:HAO000000696",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hao_usdt",
+        "instrumentType": "spot"
+    }
+]

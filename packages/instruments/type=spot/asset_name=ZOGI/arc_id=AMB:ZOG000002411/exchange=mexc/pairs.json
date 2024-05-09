@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZOG000002411_AMB:USD000000335",
+        "normalizedPair": "zogi_usdt",
+        "normalizedSymbol": "zogi",
+        "nativePair": "ZOGIUSDT",
+        "exchange": "mexc",
+        "assetName": "ZOGI",
+        "assetArcId": "AMB:ZOG000002411",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zogi_usdt",
+        "instrumentType": "spot"
+    }
+]

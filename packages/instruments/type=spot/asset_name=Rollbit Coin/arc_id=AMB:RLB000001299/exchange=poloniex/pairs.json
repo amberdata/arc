@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RLB000001299_AMB:USD000000335",
+        "normalizedPair": "rlb_usdt",
+        "normalizedSymbol": "rlb",
+        "nativePair": "RLB_USDT",
+        "exchange": "poloniex",
+        "assetName": "Rollbit Coin",
+        "assetArcId": "AMB:RLB000001299",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rlb_usdt",
+        "instrumentType": "spot"
+    }
+]

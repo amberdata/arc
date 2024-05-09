@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GFA000001706_AMB:USD000000335",
+        "normalizedPair": "gfal_usdt",
+        "normalizedSymbol": "gfal",
+        "nativePair": "GFALUSDT",
+        "exchange": "mexc",
+        "assetName": "Games for a Living",
+        "assetArcId": "AMB:GFA000001706",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gfal_usdt",
+        "instrumentType": "spot"
+    }
+]

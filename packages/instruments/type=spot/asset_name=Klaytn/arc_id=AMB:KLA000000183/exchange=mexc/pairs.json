@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:KLA000000183_AMB:USD000000333",
+        "normalizedPair": "klay_usdc",
+        "normalizedSymbol": "klay",
+        "nativePair": "KLAYUSDC",
+        "exchange": "mexc",
+        "assetName": "Klaytn",
+        "assetArcId": "AMB:KLA000000183",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "klay_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KLA000000183_AMB:USD000000335",
+        "normalizedPair": "klay_usdt",
+        "normalizedSymbol": "klay",
+        "nativePair": "KLAYUSDT",
+        "exchange": "mexc",
+        "assetName": "Klaytn",
+        "assetArcId": "AMB:KLA000000183",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "klay_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OVR000002031_AMB:USD000000335",
+        "normalizedPair": "ovr_usdt",
+        "normalizedSymbol": "ovr",
+        "nativePair": "OVRUSDT",
+        "exchange": "mexc",
+        "assetName": "OVR",
+        "assetArcId": "AMB:OVR000002031",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ovr_usdt",
+        "instrumentType": "spot"
+    }
+]

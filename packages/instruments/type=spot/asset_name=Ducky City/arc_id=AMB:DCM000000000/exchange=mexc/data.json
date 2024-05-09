@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DCM000000000_AMB:USD000000335",
+        "normalizedPair": "dcm_usdt",
+        "normalizedSymbol": "dcm",
+        "nativePair": "DCMUSDT",
+        "exchange": "mexc",
+        "assetName": "Ducky City",
+        "assetArcId": "AMB:DCM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dcm_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "arcPairId": "AMB:SOL000000000_AMB:USD000000335",
+        "normalizedPair": "solamb_usdt",
+        "normalizedSymbol": "solamb",
+        "nativePair": "SOLAMBUSDT",
+        "exchange": "mexc",
+        "assetName": "SOLAMB",
+        "assetArcId": "AMB:SOL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "solamb_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SOL000000000_AMB:USD000000335",
+        "normalizedPair": "solnav_usdt",
+        "normalizedSymbol": "solnav",
+        "nativePair": "SOLNAVUSDT",
+        "exchange": "mexc",
+        "assetName": "SolNav AI",
+        "assetArcId": "AMB:SOL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "solnav_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SOL000000000_AMB:USD000000335",
+        "normalizedPair": "solanax_usdt",
+        "normalizedSymbol": "solanax",
+        "nativePair": "SOLANAXUSDT",
+        "exchange": "mexc",
+        "assetName": "SOLANAX",
+        "assetArcId": "AMB:SOL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "solanax_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SOL000000000_AMB:USD000000335",
+        "normalizedPair": "solanaceo_usdt",
+        "normalizedSymbol": "solanaceo",
+        "nativePair": "SOLANACEOUSDT",
+        "exchange": "mexc",
+        "assetName": "SolanaCEO",
+        "assetArcId": "AMB:SOL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "solanaceo_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SOL000000000_AMB:USD000000335",
+        "normalizedPair": "solanadoge_usdt",
+        "normalizedSymbol": "solanadoge",
+        "nativePair": "SOLANADOGEUSDT",
+        "exchange": "mexc",
+        "assetName": "Solana Doge",
+        "assetArcId": "AMB:SOL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "solanadoge_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SOL000000000_AMB:USD000000335",
+        "normalizedPair": "solpepe_usdt",
+        "normalizedSymbol": "solpepe",
+        "nativePair": "SOLPEPEUSDT",
+        "exchange": "mexc",
+        "assetName": "SOLPEPE",
+        "assetArcId": "AMB:SOL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "solpepe_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SOL000000000_AMB:USD000000335",
+        "normalizedPair": "solama_usdt",
+        "normalizedSymbol": "solama",
+        "nativePair": "SOLAMAUSDT",
+        "exchange": "mexc",
+        "assetName": "Solama",
+        "assetArcId": "AMB:SOL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "solama_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SOL000000000_AMB:USD000000335",
+        "normalizedPair": "solmeme_usdt",
+        "normalizedSymbol": "solmeme",
+        "nativePair": "SOLMEMEUSDT",
+        "exchange": "mexc",
+        "assetName": "SOLMEME COIN",
+        "assetArcId": "AMB:SOL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "solmeme_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SOL000000000_AMB:USD000000335",
+        "normalizedPair": "soldoge_usdt",
+        "normalizedSymbol": "soldoge",
+        "nativePair": "SOLDOGEUSDT",
+        "exchange": "mexc",
+        "assetName": "SOLDOGE",
+        "assetArcId": "AMB:SOL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "soldoge_usdt",
+        "instrumentType": "spot"
+    }
+]

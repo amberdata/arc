@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "satox",
+    "assetName": "Satoxcoin",
+    "assetArcId": "AMB:SAT000002952",
+    "website": "https://www.satoverse.io/",
+    "whitePaperUrl": "https://www.satoverse.io/whitepaper/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Satoxcoin/arc_id=AMB:SAT000002952/exchange=mexc/data.json"
+        ]
+    }
+}

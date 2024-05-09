@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TX2000000000_AMB:USD000000335",
+        "normalizedPair": "tx20_usdt",
+        "normalizedSymbol": "tx20",
+        "nativePair": "TX20USDT",
+        "exchange": "mexc",
+        "assetName": "Trex20",
+        "assetArcId": "AMB:TX2000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tx20_usdt",
+        "instrumentType": "spot"
+    }
+]

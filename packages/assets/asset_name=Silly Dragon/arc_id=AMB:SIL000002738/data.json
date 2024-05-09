@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "silly",
+    "assetName": "Silly Dragon",
+    "assetArcId": "AMB:SIL000002738",
+    "website": "https://sillydragon.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "7EYnhQoR9YM3N7UoaKRoA44Uy8JeaZV3qyouov87awMs"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Silly Dragon/arc_id=AMB:SIL000002738/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Silly Dragon/arc_id=AMB:SIL000002738/exchange=poloniex/data.json"
+        ]
+    }
+}

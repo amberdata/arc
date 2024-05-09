@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NEO000000224_AMB:USD000000335",
+        "normalizedPair": "neo_usdt",
+        "normalizedSymbol": "neo",
+        "nativePair": "neousdt",
+        "exchange": "huobi",
+        "assetName": "Neo",
+        "assetArcId": "AMB:NEO000000224",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "neo_usdt",
+        "instrumentType": "spot"
+    }
+]

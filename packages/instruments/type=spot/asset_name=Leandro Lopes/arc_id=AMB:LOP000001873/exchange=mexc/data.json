@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LOP000001873_AMB:USD000000335",
+        "normalizedPair": "lopes_usdt",
+        "normalizedSymbol": "lopes",
+        "nativePair": "LOPESUSDT",
+        "exchange": "mexc",
+        "assetName": "Leandro Lopes",
+        "assetArcId": "AMB:LOP000001873",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lopes_usdt",
+        "instrumentType": "spot"
+    }
+]

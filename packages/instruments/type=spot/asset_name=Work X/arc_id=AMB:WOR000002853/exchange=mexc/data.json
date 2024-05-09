@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WOR000002853_AMB:USD000000335",
+        "normalizedPair": "work_usdt",
+        "normalizedSymbol": "work",
+        "nativePair": "WORKUSDT",
+        "exchange": "mexc",
+        "assetName": "Work X",
+        "assetArcId": "AMB:WOR000002853",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "work_usdt",
+        "instrumentType": "spot"
+    }
+]

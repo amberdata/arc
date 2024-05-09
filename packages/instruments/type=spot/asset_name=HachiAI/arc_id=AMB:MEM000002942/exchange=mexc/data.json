@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MEM000002942_AMB:USD000000335",
+        "normalizedPair": "memeha_usdt",
+        "normalizedSymbol": "memeha",
+        "nativePair": "MEMEHAUSDT",
+        "exchange": "mexc",
+        "assetName": "HachiAI",
+        "assetArcId": "AMB:MEM000002942",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "memeha_usdt",
+        "instrumentType": "spot"
+    }
+]

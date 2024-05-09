@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PRO000000259_AMB:USD000000335",
+        "normalizedPair": "prom_usdt",
+        "normalizedSymbol": "prom",
+        "nativePair": "PROMUSDT",
+        "exchange": "binanceus",
+        "assetName": "Prometeus",
+        "assetArcId": "AMB:PRO000000259",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "prom_usdt",
+        "instrumentType": "spot"
+    }
+]

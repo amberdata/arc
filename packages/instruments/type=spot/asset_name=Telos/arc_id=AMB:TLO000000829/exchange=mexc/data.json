@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TLO000000829_AMB:USD000000335",
+        "normalizedPair": "tlos_usdt",
+        "normalizedSymbol": "tlos",
+        "nativePair": "TLOSUSDT",
+        "exchange": "mexc",
+        "assetName": "Telos",
+        "assetArcId": "AMB:TLO000000829",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tlos_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BEA000002957_AMB:USD000000335",
+        "normalizedPair": "beamx_usdt",
+        "normalizedSymbol": "beamx",
+        "nativePair": "beamxusdt",
+        "exchange": "huobi",
+        "assetName": "Beam",
+        "assetArcId": "AMB:BEA000002957",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "beamx_usdt",
+        "instrumentType": "spot"
+    }
+]

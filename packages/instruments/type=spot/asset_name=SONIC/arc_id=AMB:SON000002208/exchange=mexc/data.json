@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SON000002208_AMB:USD000000335",
+        "normalizedPair": "sonic1_usdt",
+        "normalizedSymbol": "sonic1",
+        "nativePair": "SONIC1USDT",
+        "exchange": "mexc",
+        "assetName": "SONIC",
+        "assetArcId": "AMB:SON000002208",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sonic1_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:TRA000000938_AMB:USD000000949",
+        "normalizedPair": "trade_usd",
+        "normalizedSymbol": "trade",
+        "nativePair": "tTRADE:USD",
+        "exchange": "bitfinex",
+        "assetName": "Polytrade",
+        "assetArcId": "AMB:TRA000000938",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "trade_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TRA000000938_AMB:USD000000335",
+        "normalizedPair": "trade_usdt",
+        "normalizedSymbol": "trade",
+        "nativePair": "tTRADE:UST",
+        "exchange": "bitfinex",
+        "assetName": "Polytrade",
+        "assetArcId": "AMB:TRA000000938",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trade_usdt",
+        "instrumentType": "spot"
+    }
+]

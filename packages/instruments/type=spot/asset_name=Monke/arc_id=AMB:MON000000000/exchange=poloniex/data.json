@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MON000000000_AMB:USD000000335",
+        "normalizedPair": "monke_usdt",
+        "normalizedSymbol": "monke",
+        "nativePair": "MONKE_USDT",
+        "exchange": "poloniex",
+        "assetName": "Monke",
+        "assetArcId": "AMB:MON000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "monke_usdt",
+        "instrumentType": "spot"
+    }
+]

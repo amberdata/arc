@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BLY000001143_AMB:KRW000000000",
+        "normalizedPair": "bly_krw",
+        "normalizedSymbol": "bly",
+        "nativePair": "BLY/KRW",
+        "exchange": "bithumb",
+        "assetName": "Blocery",
+        "assetArcId": "AMB:BLY000001143",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "bly_krw",
+        "instrumentType": "spot"
+    }
+]

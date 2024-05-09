@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "ggx",
+    "assetName": "GtaGame",
+    "assetArcId": "AMB:GGX000000000",
+    "website": "https://www.gtagametoken.com/",
+    "whitePaperUrl": "/how-to-buy/GGX?utm_source=mexc&utm_medium=tokenifoGGX&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming",
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GtaGame/arc_id=AMB:GGX000000000/exchange=mexc/data.json"
+        ]
+    }
+}

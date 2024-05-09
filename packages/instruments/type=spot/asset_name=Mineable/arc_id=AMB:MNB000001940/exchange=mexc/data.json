@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MNB000001940_AMB:USD000000335",
+        "normalizedPair": "mnb_usdt",
+        "normalizedSymbol": "mnb",
+        "nativePair": "MNBUSDT",
+        "exchange": "mexc",
+        "assetName": "Mineable",
+        "assetArcId": "AMB:MNB000001940",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mnb_usdt",
+        "instrumentType": "spot"
+    }
+]

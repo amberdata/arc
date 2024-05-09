@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "slerfnft",
+    "assetName": "SLERFNFT",
+    "assetArcId": "AMB:SLE000000000",
+    "website": "https://slerfnft.xyz/",
+    "whitePaperUrl": "https://slerfnft.gitbook.io/slerfnft/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SLERFNFT/arc_id=AMB:SLE000000000/exchange=mexc/data.json"
+        ]
+    }
+}

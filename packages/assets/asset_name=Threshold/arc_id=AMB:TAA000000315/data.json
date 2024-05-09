@@ -1,0 +1,30 @@
+{
+    "assetSymbol": "t",
+    "assetName": "Threshold",
+    "assetArcId": "AMB:TAA000000315",
+    "website": "https://threshold.network/",
+    "whitePaperUrl": "https://blog.threshold.network/",
+    "classificationTags": [
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xcdf7028ceab81fa0c6971208e83fa7872994bee5"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Threshold/arc_id=AMB:TAA000000315/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Threshold/arc_id=AMB:TAA000000315/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Threshold/arc_id=AMB:TAA000000315/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Threshold/arc_id=AMB:TAA000000315/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Threshold/arc_id=AMB:TAA000000315/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Threshold/arc_id=AMB:TAA000000315/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Threshold/arc_id=AMB:TAA000000315/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Threshold/arc_id=AMB:TAA000000315/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Threshold/arc_id=AMB:TAA000000315/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Threshold/arc_id=AMB:TAA000000315/exchange=zb/data.json"
+        ]
+    }
+}

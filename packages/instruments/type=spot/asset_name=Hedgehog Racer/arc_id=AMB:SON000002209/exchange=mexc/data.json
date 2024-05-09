@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SON000002209_AMB:USD000000335",
+        "normalizedPair": "sonic_usdt",
+        "normalizedSymbol": "sonic",
+        "nativePair": "SONICUSDT",
+        "exchange": "mexc",
+        "assetName": "Hedgehog Racer",
+        "assetArcId": "AMB:SON000002209",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sonic_usdt",
+        "instrumentType": "spot"
+    }
+]

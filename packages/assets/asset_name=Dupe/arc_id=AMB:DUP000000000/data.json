@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "dupe",
+    "assetName": "Dupe",
+    "assetArcId": "AMB:DUP000000000",
+    "website": "https://www.dupetheduck.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "2K2EcwAKDjU6Dg17WRwKshhr4Qu29irvRt3GU3uphrKg"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dupe/arc_id=AMB:DUP000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

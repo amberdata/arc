@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BOS000000458_AMB:USD000000335",
+        "normalizedPair": "boson_usdt",
+        "normalizedSymbol": "boson",
+        "nativePair": "BOSONUSDT",
+        "exchange": "mexc",
+        "assetName": "Boson Protocol",
+        "assetArcId": "AMB:BOS000000458",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "boson_usdt",
+        "instrumentType": "spot"
+    }
+]

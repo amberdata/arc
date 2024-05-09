@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XIA000002374_AMB:USD000000335",
+        "normalizedPair": "xi_usdt",
+        "normalizedSymbol": "xi",
+        "nativePair": "XIUSDT",
+        "exchange": "mexc",
+        "assetName": "Xi Token",
+        "assetArcId": "AMB:XIA000002374",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xi_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DAR000000092_AMB:KRW000000000",
+        "normalizedPair": "dar_krw",
+        "normalizedSymbol": "dar",
+        "nativePair": "DAR/KRW",
+        "exchange": "bithumb",
+        "assetName": "Mines of Dalarnia",
+        "assetArcId": "AMB:DAR000000092",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "dar_krw",
+        "instrumentType": "spot"
+    }
+]

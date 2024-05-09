@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOO000000000_AMB:USD000000335",
+        "normalizedPair": "tooker_usdt",
+        "normalizedSymbol": "tooker",
+        "nativePair": "TOOKER_USDT",
+        "exchange": "poloniex",
+        "assetName": "tooker kurlson",
+        "assetArcId": "AMB:TOO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tooker_usdt",
+        "instrumentType": "spot"
+    }
+]

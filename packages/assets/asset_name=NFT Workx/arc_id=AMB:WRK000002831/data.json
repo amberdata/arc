@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "wrkx",
+    "assetName": "NFT Workx",
+    "assetArcId": "AMB:WRK000002831",
+    "website": "https://www.nftworkx.com/",
+    "whitePaperUrl": "https://whitepaper.nftworkx.com/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NFT Workx/arc_id=AMB:WRK000002831/exchange=mexc/data.json"
+        ]
+    }
+}

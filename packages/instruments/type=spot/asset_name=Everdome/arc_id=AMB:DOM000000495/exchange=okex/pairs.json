@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOM000000495_AMB:USD000000335",
+        "normalizedPair": "dome_usdt",
+        "normalizedSymbol": "dome",
+        "nativePair": "DOME-USDT",
+        "exchange": "okex",
+        "assetName": "Everdome",
+        "assetArcId": "AMB:DOM000000495",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dome_usdt",
+        "instrumentType": "spot"
+    }
+]

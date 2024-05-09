@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:REQ000000278_AMB:USD000000949",
+        "normalizedPair": "req_usd",
+        "normalizedSymbol": "req",
+        "nativePair": "tREQUSD",
+        "exchange": "bitfinex",
+        "assetName": "Request",
+        "assetArcId": "AMB:REQ000000278",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "req_usd",
+        "instrumentType": "spot"
+    }
+]

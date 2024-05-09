@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "myro",
+    "assetName": "Myro",
+    "assetArcId": "AMB:MYR000003445",
+    "website": "https://myrothedog.com/",
+    "whitePaperUrl": "/how-to-buy/MYRO?utm_source=mexc&utm_medium=tokenifoMYRO&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Myro/arc_id=AMB:MYR000003445/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Myro/arc_id=AMB:MYR000003445/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Myro/arc_id=AMB:MYR000003445/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Myro/arc_id=AMB:MYR000003445/exchange=mexc/data.json"
+        ]
+    }
+}

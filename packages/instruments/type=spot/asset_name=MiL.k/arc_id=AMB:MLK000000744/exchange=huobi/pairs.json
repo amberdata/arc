@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MLK000000744_AMB:USD000000335",
+        "normalizedPair": "mlk_usdt",
+        "normalizedSymbol": "mlk",
+        "nativePair": "mlkusdt",
+        "exchange": "huobi",
+        "assetName": "MiL.k",
+        "assetArcId": "AMB:MLK000000744",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mlk_usdt",
+        "instrumentType": "spot"
+    }
+]

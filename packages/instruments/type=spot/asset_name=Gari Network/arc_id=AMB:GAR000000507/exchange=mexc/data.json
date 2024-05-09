@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GAR000000507_AMB:USD000000335",
+        "normalizedPair": "gari_usdt",
+        "normalizedSymbol": "gari",
+        "nativePair": "GARIUSDT",
+        "exchange": "mexc",
+        "assetName": "Gari Network",
+        "assetArcId": "AMB:GAR000000507",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gari_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KOK000000715_AMB:USD000000335",
+        "normalizedPair": "kok_usdt",
+        "normalizedSymbol": "kok",
+        "nativePair": "kok_usdt",
+        "exchange": "zb",
+        "assetName": "KOK",
+        "assetArcId": "AMB:KOK000000715",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kok_usdt",
+        "instrumentType": "spot"
+    }
+]

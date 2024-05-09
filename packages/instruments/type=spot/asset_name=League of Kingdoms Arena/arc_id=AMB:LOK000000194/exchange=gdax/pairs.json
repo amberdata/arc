@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LOK000000194_AMB:USD000000949",
+        "normalizedPair": "loka_usd",
+        "normalizedSymbol": "loka",
+        "nativePair": "LOKA-USD",
+        "exchange": "gdax",
+        "assetName": "League of Kingdoms Arena",
+        "assetArcId": "AMB:LOK000000194",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "loka_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SST000003255_AMB:USD000000335",
+        "normalizedPair": "sst_usdt",
+        "normalizedSymbol": "sst",
+        "nativePair": "SSTUSDT",
+        "exchange": "mexc",
+        "assetName": "Social Swap",
+        "assetArcId": "AMB:SST000003255",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sst_usdt",
+        "instrumentType": "spot"
+    }
+]

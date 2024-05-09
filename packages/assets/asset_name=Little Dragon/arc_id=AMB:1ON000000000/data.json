@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "1on8",
+    "assetName": "Little Dragon",
+    "assetArcId": "AMB:1ON000000000",
+    "website": "https://www.10n8.io/",
+    "whitePaperUrl": "https://usd10n8.gitbook.io/10n8brc20",
+    "classificationTags": [
+        "Gaming",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Little Dragon/arc_id=AMB:1ON000000000/exchange=mexc/data.json"
+        ]
+    }
+}

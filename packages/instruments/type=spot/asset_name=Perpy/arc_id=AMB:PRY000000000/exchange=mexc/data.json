@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PRY000000000_AMB:USD000000335",
+        "normalizedPair": "pry_usdt",
+        "normalizedSymbol": "pry",
+        "nativePair": "PRYUSDT",
+        "exchange": "mexc",
+        "assetName": "Perpy",
+        "assetArcId": "AMB:PRY000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pry_usdt",
+        "instrumentType": "spot"
+    }
+]

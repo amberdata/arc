@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bog",
+    "assetName": "Bella doge",
+    "assetArcId": "AMB:BOG000000000",
+    "website": "https://www.belladoge.com/",
+    "whitePaperUrl": "/how-to-buy/BOG?utm_source=mexc&utm_medium=tokenifoBOG&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bella doge/arc_id=AMB:BOG000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SLN000002639_AMB:USD000000949",
+        "normalizedPair": "slnd_usd",
+        "normalizedSymbol": "slnd",
+        "nativePair": "SLND/USD",
+        "exchange": "ftx",
+        "assetName": "Solend",
+        "assetArcId": "AMB:SLN000002639",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "slnd_usd",
+        "instrumentType": "spot"
+    }
+]

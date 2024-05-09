@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:SAN000000288_AMB:BTC000000000",
+        "normalizedPair": "santos_btc",
+        "normalizedSymbol": "santos",
+        "nativePair": "SANTOSBTC",
+        "exchange": "binance",
+        "assetName": "Santos FC Fan Token",
+        "assetArcId": "AMB:SAN000000288",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "santos_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SAN000000288_AMB:BUS000000067",
+        "normalizedPair": "santos_busd",
+        "normalizedSymbol": "santos",
+        "nativePair": "SANTOSBUSD",
+        "exchange": "binance",
+        "assetName": "Santos FC Fan Token",
+        "assetArcId": "AMB:SAN000000288",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "santos_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SAN000000288_AMB:TRY000000940",
+        "normalizedPair": "santos_try",
+        "normalizedSymbol": "santos",
+        "nativePair": "SANTOSTRY",
+        "exchange": "binance",
+        "assetName": "Santos FC Fan Token",
+        "assetArcId": "AMB:SAN000000288",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "santos_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SAN000000288_AMB:USD000000335",
+        "normalizedPair": "santos_usdt",
+        "normalizedSymbol": "santos",
+        "nativePair": "SANTOSUSDT",
+        "exchange": "binance",
+        "assetName": "Santos FC Fan Token",
+        "assetArcId": "AMB:SAN000000288",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "santos_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BNX000000059_AMB:USD000000335",
+        "normalizedPair": "bnx_usdt",
+        "normalizedSymbol": "bnx",
+        "nativePair": "BNXUSDT",
+        "exchange": "mexc",
+        "assetName": "BinaryX (old)",
+        "assetArcId": "AMB:BNX000000059",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bnx_usdt",
+        "instrumentType": "spot"
+    }
+]

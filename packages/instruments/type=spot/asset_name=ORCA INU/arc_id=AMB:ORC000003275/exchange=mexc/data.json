@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ORC000003275_AMB:USD000000335",
+        "normalizedPair": "orcainu_usdt",
+        "normalizedSymbol": "orcainu",
+        "nativePair": "ORCAINUUSDT",
+        "exchange": "mexc",
+        "assetName": "ORCA INU",
+        "assetArcId": "AMB:ORC000003275",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "orcainu_usdt",
+        "instrumentType": "spot"
+    }
+]

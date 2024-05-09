@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UBS000002298_AMB:USD000000335",
+        "normalizedPair": "ubsn_usdt",
+        "normalizedSymbol": "ubsn",
+        "nativePair": "UBSNUSDT",
+        "exchange": "mexc",
+        "assetName": "Silent Notary",
+        "assetArcId": "AMB:UBS000002298",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ubsn_usdt",
+        "instrumentType": "spot"
+    }
+]

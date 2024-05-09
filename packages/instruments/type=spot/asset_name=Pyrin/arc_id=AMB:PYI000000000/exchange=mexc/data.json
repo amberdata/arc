@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PYI000000000_AMB:USD000000335",
+        "normalizedPair": "pyi_usdt",
+        "normalizedSymbol": "pyi",
+        "nativePair": "PYIUSDT",
+        "exchange": "mexc",
+        "assetName": "Pyrin",
+        "assetArcId": "AMB:PYI000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pyi_usdt",
+        "instrumentType": "spot"
+    }
+]

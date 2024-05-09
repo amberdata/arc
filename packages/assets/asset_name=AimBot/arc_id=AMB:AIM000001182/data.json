@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "aimbot",
+    "assetName": "AimBot",
+    "assetArcId": "AMB:AIM000001182",
+    "website": "https://www.aim-bot.app/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x0c48250eb1f29491f1efbeec0261eb556f0973c7"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AimBot/arc_id=AMB:AIM000001182/exchange=poloniex/data.json"
+        ]
+    }
+}

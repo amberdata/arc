@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MIT000000000_AMB:USD000000335",
+        "normalizedPair": "mit_usdt",
+        "normalizedSymbol": "mit",
+        "nativePair": "MITUSDT",
+        "exchange": "mexc",
+        "assetName": "MarketIn",
+        "assetArcId": "AMB:MIT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mit_usdt",
+        "instrumentType": "spot"
+    }
+]

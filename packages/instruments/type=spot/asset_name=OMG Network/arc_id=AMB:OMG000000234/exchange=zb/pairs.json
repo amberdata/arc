@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:OMG000000234_AMB:QCA000000000",
+        "normalizedPair": "omg_qc",
+        "normalizedSymbol": "omg",
+        "nativePair": "omg_qc",
+        "exchange": "zb",
+        "assetName": "OMG Network",
+        "assetArcId": "AMB:OMG000000234",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "omg_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OMG000000234_AMB:USD000000335",
+        "normalizedPair": "omg_usdt",
+        "normalizedSymbol": "omg",
+        "nativePair": "omg_usdt",
+        "exchange": "zb",
+        "assetName": "OMG Network",
+        "assetArcId": "AMB:OMG000000234",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "omg_usdt",
+        "instrumentType": "spot"
+    }
+]

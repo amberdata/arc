@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SMT000000802_AMB:USD000000335",
+        "normalizedPair": "smt_usdt",
+        "normalizedSymbol": "smt",
+        "nativePair": "smtusdt",
+        "exchange": "huobi",
+        "assetName": "Smart Marketing Token",
+        "assetArcId": "AMB:SMT000000802",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "smt_usdt",
+        "instrumentType": "spot"
+    }
+]

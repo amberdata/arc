@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:DEG000000096_AMB:ETH000000000",
+        "normalizedPair": "dego_eth",
+        "normalizedSymbol": "dego",
+        "nativePair": "DEGOETH",
+        "exchange": "mexc",
+        "assetName": "Dego Finance",
+        "assetArcId": "AMB:DEG000000096",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "dego_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DEG000000096_AMB:USD000000335",
+        "normalizedPair": "dego_usdt",
+        "normalizedSymbol": "dego",
+        "nativePair": "DEGOUSDT",
+        "exchange": "mexc",
+        "assetName": "Dego Finance",
+        "assetArcId": "AMB:DEG000000096",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dego_usdt",
+        "instrumentType": "spot"
+    }
+]

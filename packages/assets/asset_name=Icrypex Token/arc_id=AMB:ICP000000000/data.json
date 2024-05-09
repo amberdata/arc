@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "icpx",
+    "assetName": "Icrypex Token",
+    "assetArcId": "AMB:ICP000000000",
+    "website": "https://www.icrypex.com/en",
+    "whitePaperUrl": "https://cdn.icrypex.com/docs/ICPX-Whitepaper-en.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Icrypex Token/arc_id=AMB:ICP000000000/exchange=mexc/data.json"
+        ]
+    }
+}

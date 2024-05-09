@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "karcon",
+    "assetName": "KAARIGAR Connect",
+    "assetArcId": "AMB:KAR000000000",
+    "website": "https://www.kaarigarconnect.xyz/",
+    "whitePaperUrl": "https://kaarigar-connect.gitbook.io/kaarigar-connect",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=KAARIGAR Connect/arc_id=AMB:KAR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "hifi",
+    "assetName": "Hifi Finance",
+    "assetArcId": "AMB:HIF000000159",
+    "website": "https://hifi.finance/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance",
+        "Lending",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

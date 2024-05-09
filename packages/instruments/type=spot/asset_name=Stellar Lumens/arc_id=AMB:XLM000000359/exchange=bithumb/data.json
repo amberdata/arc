@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XLM000000359_AMB:KRW000000000",
+        "normalizedPair": "xlm_krw",
+        "normalizedSymbol": "xlm",
+        "nativePair": "XLM/KRW",
+        "exchange": "bithumb",
+        "assetName": "Stellar Lumens",
+        "assetArcId": "AMB:XLM000000359",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "xlm_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:1IN000000000_AMB:KRW000000000",
+        "normalizedPair": "1inch_krw",
+        "normalizedSymbol": "1inch",
+        "nativePair": "1INCH/KRW",
+        "exchange": "bithumb",
+        "assetName": "1inch",
+        "assetArcId": "AMB:1IN000000000",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "1inch_krw",
+        "instrumentType": "spot"
+    }
+]

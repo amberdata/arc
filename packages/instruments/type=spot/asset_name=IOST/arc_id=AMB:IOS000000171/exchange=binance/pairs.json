@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:IOS000000171_AMB:BTC000000000",
+        "normalizedPair": "iost_btc",
+        "normalizedSymbol": "iost",
+        "nativePair": "IOSTBTC",
+        "exchange": "binance",
+        "assetName": "IOST",
+        "assetArcId": "AMB:IOS000000171",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "iost_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IOS000000171_AMB:ETH000000000",
+        "normalizedPair": "iost_eth",
+        "normalizedSymbol": "iost",
+        "nativePair": "IOSTETH",
+        "exchange": "binance",
+        "assetName": "IOST",
+        "assetArcId": "AMB:IOS000000171",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "iost_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:IOS000000171_AMB:USD000000335",
+        "normalizedPair": "iost_usdt",
+        "normalizedSymbol": "iost",
+        "nativePair": "IOSTUSDT",
+        "exchange": "binance",
+        "assetName": "IOST",
+        "assetArcId": "AMB:IOS000000171",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "iost_usdt",
+        "instrumentType": "spot"
+    }
+]

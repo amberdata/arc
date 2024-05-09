@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:TON000000586_AMB:USD000000333",
+        "normalizedPair": "ton_usdc",
+        "normalizedSymbol": "ton",
+        "nativePair": "TON-USDC",
+        "exchange": "okex",
+        "assetName": "TON Token",
+        "assetArcId": "AMB:TON000000586",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "ton_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TON000000586_AMB:USD000000335",
+        "normalizedPair": "ton_usdt",
+        "normalizedSymbol": "ton",
+        "nativePair": "TON-USDT",
+        "exchange": "okex",
+        "assetName": "TON Token",
+        "assetArcId": "AMB:TON000000586",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ton_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TON000000586_AMB:EUR000000120",
+        "normalizedPair": "ton_eur",
+        "normalizedSymbol": "ton",
+        "nativePair": "TON-EUR",
+        "exchange": "okex",
+        "assetName": "TON Token",
+        "assetArcId": "AMB:TON000000586",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "ton_eur",
+        "instrumentType": "spot"
+    }
+]

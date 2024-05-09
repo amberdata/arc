@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MCT000001905_AMB:USD000000335",
+        "normalizedPair": "mctu_usdt",
+        "normalizedSymbol": "mctu",
+        "nativePair": "MCTUUSDT",
+        "exchange": "mexc",
+        "assetName": "Muverse",
+        "assetArcId": "AMB:MCT000001905",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mctu_usdt",
+        "instrumentType": "spot"
+    }
+]

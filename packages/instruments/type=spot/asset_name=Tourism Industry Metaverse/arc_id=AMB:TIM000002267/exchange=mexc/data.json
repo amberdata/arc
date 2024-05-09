@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TIM000002267_AMB:USD000000335",
+        "normalizedPair": "tim_usdt",
+        "normalizedSymbol": "tim",
+        "nativePair": "TIMUSDT",
+        "exchange": "mexc",
+        "assetName": "Tourism Industry Metaverse",
+        "assetArcId": "AMB:TIM000002267",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tim_usdt",
+        "instrumentType": "spot"
+    }
+]

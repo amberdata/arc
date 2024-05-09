@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BIG000001462_AMB:USD000000335",
+        "normalizedPair": "bigpanda_usdt",
+        "normalizedSymbol": "bigpanda",
+        "nativePair": "BIGPANDAUSDT",
+        "exchange": "mexc",
+        "assetName": "BIGPANDA",
+        "assetArcId": "AMB:BIG000001462",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bigpanda_usdt",
+        "instrumentType": "spot"
+    }
+]

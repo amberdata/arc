@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "rltm",
+    "assetName": "Reality Metaverse",
+    "assetArcId": "AMB:RLT000001107",
+    "website": "https://realitymeta.io/home/portal/building/613",
+    "whitePaperUrl": "https://drive.google.com/file/d/1ye7QuM8dy3qmNGbuN4MYeplSvLC4sGEg/view",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reality Metaverse/arc_id=AMB:RLT000001107/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reality Metaverse/arc_id=AMB:RLT000001107/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reality Metaverse/arc_id=AMB:RLT000001107/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IQ5000000000_AMB:USD000000335",
+        "normalizedPair": "iq50_usdt",
+        "normalizedSymbol": "iq50",
+        "nativePair": "IQ50USDT",
+        "exchange": "mexc",
+        "assetName": "IQ50",
+        "assetArcId": "AMB:IQ5000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "iq50_usdt",
+        "instrumentType": "spot"
+    }
+]

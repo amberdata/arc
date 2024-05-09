@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UMA000000330_AMB:USD000000949",
+        "normalizedPair": "uma_usd",
+        "normalizedSymbol": "uma",
+        "nativePair": "umausd",
+        "exchange": "gemini",
+        "assetName": "UMA",
+        "assetArcId": "AMB:UMA000000330",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "uma_usd",
+        "instrumentType": "spot"
+    }
+]

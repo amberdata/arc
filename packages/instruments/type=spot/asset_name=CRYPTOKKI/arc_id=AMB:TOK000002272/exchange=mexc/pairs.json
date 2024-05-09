@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOK000002272_AMB:USD000000335",
+        "normalizedPair": "tokki_usdt",
+        "normalizedSymbol": "tokki",
+        "nativePair": "TOKKIUSDT",
+        "exchange": "mexc",
+        "assetName": "CRYPTOKKI",
+        "assetArcId": "AMB:TOK000002272",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tokki_usdt",
+        "instrumentType": "spot"
+    }
+]

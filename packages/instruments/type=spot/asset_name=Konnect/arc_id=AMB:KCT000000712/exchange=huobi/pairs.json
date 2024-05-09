@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KCT000000712_AMB:USD000000335",
+        "normalizedPair": "kct_usdt",
+        "normalizedSymbol": "kct",
+        "nativePair": "kctusdt",
+        "exchange": "huobi",
+        "assetName": "Konnect",
+        "assetArcId": "AMB:KCT000000712",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kct_usdt",
+        "instrumentType": "spot"
+    }
+]

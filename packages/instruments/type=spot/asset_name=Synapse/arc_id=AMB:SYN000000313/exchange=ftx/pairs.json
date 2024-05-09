@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SYN000000313_AMB:USD000000949",
+        "normalizedPair": "syn_usd",
+        "normalizedSymbol": "syn",
+        "nativePair": "SYN/USD",
+        "exchange": "ftx",
+        "assetName": "Synapse",
+        "assetArcId": "AMB:SYN000000313",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "syn_usd",
+        "instrumentType": "spot"
+    }
+]

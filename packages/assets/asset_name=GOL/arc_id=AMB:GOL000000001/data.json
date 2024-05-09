@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "gol",
+    "assetName": "GOL",
+    "assetArcId": "AMB:GOL000000001",
+    "website": "https://golazo.world/#",
+    "whitePaperUrl": "/how-to-buy/GOL?utm_source=mexc&utm_medium=tokenifoGOL&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GOL/arc_id=AMB:GOL000000001/exchange=mexc/data.json"
+        ]
+    }
+}

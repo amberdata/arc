@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:CKB000000077_AMB:USD000000335",
+        "normalizedPair": "ckb_usdt",
+        "normalizedSymbol": "ckb",
+        "nativePair": "CKBUSDT",
+        "exchange": "binance",
+        "assetName": "Nervos Network",
+        "assetArcId": "AMB:CKB000000077",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ckb_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CKB000000077_AMB:TRY000000940",
+        "normalizedPair": "ckb_try",
+        "normalizedSymbol": "ckb",
+        "nativePair": "CKBTRY",
+        "exchange": "binance",
+        "assetName": "Nervos Network",
+        "assetArcId": "AMB:CKB000000077",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "ckb_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CKB000000077_AMB:USD000000333",
+        "normalizedPair": "ckb_usdc",
+        "normalizedSymbol": "ckb",
+        "nativePair": "CKBUSDC",
+        "exchange": "binance",
+        "assetName": "Nervos Network",
+        "assetArcId": "AMB:CKB000000077",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "ckb_usdc",
+        "instrumentType": "spot"
+    }
+]

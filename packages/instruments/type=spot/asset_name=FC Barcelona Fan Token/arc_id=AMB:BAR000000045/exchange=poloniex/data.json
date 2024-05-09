@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BAR000000045_AMB:USD000000841",
+        "normalizedPair": "bar_usdd",
+        "normalizedSymbol": "bar",
+        "nativePair": "BAR_USDD",
+        "exchange": "poloniex",
+        "assetName": "FC Barcelona Fan Token",
+        "assetArcId": "AMB:BAR000000045",
+        "quoteArcId": "AMB:USD000000841",
+        "collectedPair": "bar_usdd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BAR000000045_AMB:USD000000335",
+        "normalizedPair": "bar_usdt",
+        "normalizedSymbol": "bar",
+        "nativePair": "BAR_USDT",
+        "exchange": "poloniex",
+        "assetName": "FC Barcelona Fan Token",
+        "assetArcId": "AMB:BAR000000045",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bar_usdt",
+        "instrumentType": "spot"
+    }
+]

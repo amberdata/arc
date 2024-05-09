@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RXD000000000_AMB:USD000000335",
+        "normalizedPair": "rxd_usdt",
+        "normalizedSymbol": "rxd",
+        "nativePair": "RXDUSDT",
+        "exchange": "mexc",
+        "assetName": "Radiant",
+        "assetArcId": "AMB:RXD000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rxd_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LRC000000198_AMB:USD000000333",
+        "normalizedPair": "lrc_usdc",
+        "normalizedSymbol": "lrc",
+        "nativePair": "LRC-USDC",
+        "exchange": "okex",
+        "assetName": "Loopring",
+        "assetArcId": "AMB:LRC000000198",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "lrc_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LRC000000198_AMB:USD000000335",
+        "normalizedPair": "lrc_usdt",
+        "normalizedSymbol": "lrc",
+        "nativePair": "LRC-USDT",
+        "exchange": "okex",
+        "assetName": "Loopring",
+        "assetArcId": "AMB:LRC000000198",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lrc_usdt",
+        "instrumentType": "spot"
+    }
+]

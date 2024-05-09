@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CIR000001539_AMB:USD000000335",
+        "normalizedPair": "cirus_usdt",
+        "normalizedSymbol": "cirus",
+        "nativePair": "CIRUSUSDT",
+        "exchange": "mexc",
+        "assetName": "Cirus Foundation",
+        "assetArcId": "AMB:CIR000001539",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cirus_usdt",
+        "instrumentType": "spot"
+    }
+]

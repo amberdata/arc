@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GQA000000691_AMB:USD000000335",
+        "normalizedPair": "gq_usdt",
+        "normalizedSymbol": "gq",
+        "nativePair": "gqusdt",
+        "exchange": "huobi",
+        "assetName": "Galactic Quadrant",
+        "assetArcId": "AMB:GQA000000691",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gq_usdt",
+        "instrumentType": "spot"
+    }
+]

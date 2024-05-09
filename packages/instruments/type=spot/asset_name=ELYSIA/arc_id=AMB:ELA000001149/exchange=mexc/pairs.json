@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ELA000001149_AMB:USD000000335",
+        "normalizedPair": "el_usdt",
+        "normalizedSymbol": "el",
+        "nativePair": "ELUSDT",
+        "exchange": "mexc",
+        "assetName": "ELYSIA",
+        "assetArcId": "AMB:ELA000001149",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "el_usdt",
+        "instrumentType": "spot"
+    }
+]

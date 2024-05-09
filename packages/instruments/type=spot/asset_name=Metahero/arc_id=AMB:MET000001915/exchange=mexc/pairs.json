@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MET000001915_AMB:USD000000335",
+        "normalizedPair": "metahero_usdt",
+        "normalizedSymbol": "metahero",
+        "nativePair": "METAHEROUSDT",
+        "exchange": "mexc",
+        "assetName": "Metahero",
+        "assetArcId": "AMB:MET000001915",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "metahero_usdt",
+        "instrumentType": "spot"
+    }
+]

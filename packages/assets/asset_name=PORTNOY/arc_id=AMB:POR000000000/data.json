@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "portnoy",
+    "assetName": "PORTNOY",
+    "assetArcId": "AMB:POR000000000",
+    "website": "https://portnoyonsol.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "8wzYfqeqkjBwYBHMacBVen8tSuJqXiDtsCgmjnUJDSKM"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PORTNOY/arc_id=AMB:POR000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

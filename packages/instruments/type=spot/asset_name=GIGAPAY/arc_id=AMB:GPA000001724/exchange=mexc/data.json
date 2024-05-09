@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GPA000001724_AMB:USD000000335",
+        "normalizedPair": "gpay_usdt",
+        "normalizedSymbol": "gpay",
+        "nativePair": "GPAYUSDT",
+        "exchange": "mexc",
+        "assetName": "GIGAPAY",
+        "assetArcId": "AMB:GPA000001724",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gpay_usdt",
+        "instrumentType": "spot"
+    }
+]

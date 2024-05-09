@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IDA000000166_AMB:KRW000000000",
+        "normalizedPair": "id_krw",
+        "normalizedSymbol": "id",
+        "nativePair": "ID/KRW",
+        "exchange": "bithumb",
+        "assetName": "Everest",
+        "assetArcId": "AMB:IDA000000166",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "id_krw",
+        "instrumentType": "spot"
+    }
+]

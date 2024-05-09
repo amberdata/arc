@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHI000001310_AMB:USD000000335",
+        "normalizedPair": "shia_usdt",
+        "normalizedSymbol": "shia",
+        "nativePair": "SHIAUSDT",
+        "exchange": "mexc",
+        "assetName": "Shiba Saga",
+        "assetArcId": "AMB:SHI000001310",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shia_usdt",
+        "instrumentType": "spot"
+    }
+]

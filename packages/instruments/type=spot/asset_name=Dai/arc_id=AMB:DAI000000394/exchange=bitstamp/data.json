@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DAI000000394_AMB:USD000000949",
+        "normalizedPair": "dai_usd",
+        "normalizedSymbol": "dai",
+        "nativePair": "daiusd",
+        "exchange": "bitstamp",
+        "assetName": "Dai",
+        "assetArcId": "AMB:DAI000000394",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dai_usd",
+        "instrumentType": "spot"
+    }
+]

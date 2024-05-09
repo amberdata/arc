@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "mnlz",
+    "assetName": "Mona Lizard",
+    "assetArcId": "AMB:MNL000000000",
+    "website": "https://monalizard.gallery/",
+    "whitePaperUrl": "https://monalizard.gallery/wp-content/uploads/2024/03/MONA-LIZARD-WP.pdf",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mona Lizard/arc_id=AMB:MNL000000000/exchange=mexc/data.json"
+        ]
+    }
+}

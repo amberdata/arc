@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:COT000000082_AMB:BNB000000055",
+        "normalizedPair": "coti_bnb",
+        "normalizedSymbol": "coti",
+        "nativePair": "COTIBNB",
+        "exchange": "binance",
+        "assetName": "COTI",
+        "assetArcId": "AMB:COT000000082",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "coti_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:COT000000082_AMB:BTC000000000",
+        "normalizedPair": "coti_btc",
+        "normalizedSymbol": "coti",
+        "nativePair": "COTIBTC",
+        "exchange": "binance",
+        "assetName": "COTI",
+        "assetArcId": "AMB:COT000000082",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "coti_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:COT000000082_AMB:BUS000000067",
+        "normalizedPair": "coti_busd",
+        "normalizedSymbol": "coti",
+        "nativePair": "COTIBUSD",
+        "exchange": "binance",
+        "assetName": "COTI",
+        "assetArcId": "AMB:COT000000082",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "coti_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:COT000000082_AMB:USD000000335",
+        "normalizedPair": "coti_usdt",
+        "normalizedSymbol": "coti",
+        "nativePair": "COTIUSDT",
+        "exchange": "binance",
+        "assetName": "COTI",
+        "assetArcId": "AMB:COT000000082",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "coti_usdt",
+        "instrumentType": "spot"
+    }
+]

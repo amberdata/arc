@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GAP000000000_AMB:USD000000335",
+        "normalizedPair": "gap_usdt",
+        "normalizedSymbol": "gap",
+        "nativePair": "GAPUSDT",
+        "exchange": "mexc",
+        "assetName": "GAPNexus",
+        "assetArcId": "AMB:GAP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gap_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:OXT000000242_AMB:BTC000000000",
+        "normalizedPair": "oxt_btc",
+        "normalizedSymbol": "oxt",
+        "nativePair": "oxtbtc",
+        "exchange": "gemini",
+        "assetName": "Orchid",
+        "assetArcId": "AMB:OXT000000242",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "oxt_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OXT000000242_AMB:ETH000000000",
+        "normalizedPair": "oxt_eth",
+        "normalizedSymbol": "oxt",
+        "nativePair": "oxteth",
+        "exchange": "gemini",
+        "assetName": "Orchid",
+        "assetArcId": "AMB:OXT000000242",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "oxt_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OXT000000242_AMB:USD000000949",
+        "normalizedPair": "oxt_usd",
+        "normalizedSymbol": "oxt",
+        "nativePair": "oxtusd",
+        "exchange": "gemini",
+        "assetName": "Orchid",
+        "assetArcId": "AMB:OXT000000242",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "oxt_usd",
+        "instrumentType": "spot"
+    }
+]

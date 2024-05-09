@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NBT000001980_AMB:USD000000335",
+        "normalizedPair": "nbt_usdt",
+        "normalizedSymbol": "nbt",
+        "nativePair": "NBTUSDT",
+        "exchange": "mexc",
+        "assetName": "NanoByte Token",
+        "assetArcId": "AMB:NBT000001980",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nbt_usdt",
+        "instrumentType": "spot"
+    }
+]

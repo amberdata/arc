@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:PEP000000246_AMB:USD000000949",
+        "normalizedPair": "pepe_usd",
+        "normalizedSymbol": "pepe",
+        "nativePair": "tPEPE:USD",
+        "exchange": "bitfinex",
+        "assetName": "PEPEBSC",
+        "assetArcId": "AMB:PEP000000246",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "pepe_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PEP000000246_AMB:USD000000335",
+        "normalizedPair": "pepe_usdt",
+        "normalizedSymbol": "pepe",
+        "nativePair": "tPEPE:UST",
+        "exchange": "bitfinex",
+        "assetName": "PEPEBSC",
+        "assetArcId": "AMB:PEP000000246",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pepe_usdt",
+        "instrumentType": "spot"
+    }
+]

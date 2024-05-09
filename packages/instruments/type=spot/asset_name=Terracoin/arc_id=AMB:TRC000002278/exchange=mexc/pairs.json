@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRC000002278_AMB:USD000000335",
+        "normalizedPair": "trc_usdt",
+        "normalizedSymbol": "trc",
+        "nativePair": "TRCUSDT",
+        "exchange": "mexc",
+        "assetName": "Terracoin",
+        "assetArcId": "AMB:TRC000002278",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trc_usdt",
+        "instrumentType": "spot"
+    }
+]

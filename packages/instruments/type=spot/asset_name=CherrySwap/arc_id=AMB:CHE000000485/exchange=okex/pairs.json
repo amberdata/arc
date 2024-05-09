@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHE000000485_AMB:USD000000335",
+        "normalizedPair": "che_usdt",
+        "normalizedSymbol": "che",
+        "nativePair": "CHE-USDT",
+        "exchange": "okex",
+        "assetName": "CherrySwap",
+        "assetArcId": "AMB:CHE000000485",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "che_usdt",
+        "instrumentType": "spot"
+    }
+]

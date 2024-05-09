@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BCH000002476_AMB:USD000000949",
+        "normalizedPair": "bchhedge_usd",
+        "normalizedSymbol": "bchhedge",
+        "nativePair": "BCHHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short Bitcoin Cash Token",
+        "assetArcId": "AMB:BCH000002476",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bchhedge_usd",
+        "instrumentType": "spot"
+    }
+]

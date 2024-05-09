@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PPT000002714_AMB:USD000000335",
+        "normalizedPair": "ppt_usdt",
+        "normalizedSymbol": "ppt",
+        "nativePair": "PPTUSDT",
+        "exchange": "mexc",
+        "assetName": "Populous",
+        "assetArcId": "AMB:PPT000002714",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ppt_usdt",
+        "instrumentType": "spot"
+    }
+]

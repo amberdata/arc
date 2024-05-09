@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRA000002275_AMB:USD000000335",
+        "normalizedPair": "trans_usdt",
+        "normalizedSymbol": "trans",
+        "nativePair": "TRANSUSDT",
+        "exchange": "mexc",
+        "assetName": "Trans Pepe",
+        "assetArcId": "AMB:TRA000002275",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trans_usdt",
+        "instrumentType": "spot"
+    }
+]

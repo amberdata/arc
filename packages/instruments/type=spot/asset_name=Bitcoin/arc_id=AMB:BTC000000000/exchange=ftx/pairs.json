@@ -1,0 +1,110 @@
+[
+    {
+        "arcPairId": "AMB:BTC000000000_AMB:AUD000002420",
+        "normalizedPair": "btc_aud",
+        "normalizedSymbol": "btc",
+        "nativePair": "BTC/AUD",
+        "exchange": "ftx",
+        "assetName": "Bitcoin",
+        "assetArcId": "AMB:BTC000000000",
+        "quoteArcId": "AMB:AUD000002420",
+        "collectedPair": "btc_aud",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTC000000000_AMB:BRL000002486",
+        "normalizedPair": "btc_brl",
+        "normalizedSymbol": "btc",
+        "nativePair": "NONE-VALUE-FROM-API",
+        "exchange": "ftx",
+        "assetName": "Bitcoin",
+        "assetArcId": "AMB:BTC000000000",
+        "quoteArcId": "AMB:BRL000002486",
+        "collectedPair": "btc_brl",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTC000000000_AMB:BRZ000002487",
+        "normalizedPair": "btc_brz",
+        "normalizedSymbol": "btc",
+        "nativePair": "BTC/BRZ",
+        "exchange": "ftx",
+        "assetName": "Bitcoin",
+        "assetArcId": "AMB:BTC000000000",
+        "quoteArcId": "AMB:BRZ000002487",
+        "collectedPair": "btc_brz",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTC000000000_AMB:EUR000000120",
+        "normalizedPair": "btc_eur",
+        "normalizedSymbol": "btc",
+        "nativePair": "BTC/EUR",
+        "exchange": "ftx",
+        "assetName": "Bitcoin",
+        "assetArcId": "AMB:BTC000000000",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "btc_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTC000000000_AMB:JPY000000903",
+        "normalizedPair": "btc_jpy",
+        "normalizedSymbol": "btc",
+        "nativePair": "BTC/JPY",
+        "exchange": "ftx",
+        "assetName": "Bitcoin",
+        "assetArcId": "AMB:BTC000000000",
+        "quoteArcId": "AMB:JPY000000903",
+        "collectedPair": "btc_jpy",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTC000000000_AMB:TRY000000940",
+        "normalizedPair": "btc_try",
+        "normalizedSymbol": "btc",
+        "nativePair": "BTC/TRY",
+        "exchange": "ftx",
+        "assetName": "Bitcoin",
+        "assetArcId": "AMB:BTC000000000",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "btc_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTC000000000_AMB:TRY000002291",
+        "normalizedPair": "btc_tryb",
+        "normalizedSymbol": "btc",
+        "nativePair": "BTC/TRYB",
+        "exchange": "ftx",
+        "assetName": "Bitcoin",
+        "assetArcId": "AMB:BTC000000000",
+        "quoteArcId": "AMB:TRY000002291",
+        "collectedPair": "btc_tryb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTC000000000_AMB:USD000000949",
+        "normalizedPair": "btc_usd",
+        "normalizedSymbol": "btc",
+        "nativePair": "BTC/USD",
+        "exchange": "ftx",
+        "assetName": "Bitcoin",
+        "assetArcId": "AMB:BTC000000000",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "btc_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTC000000000_AMB:USD000000335",
+        "normalizedPair": "btc_usdt",
+        "normalizedSymbol": "btc",
+        "nativePair": "BTC/USDT",
+        "exchange": "ftx",
+        "assetName": "Bitcoin",
+        "assetArcId": "AMB:BTC000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "btc_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:RVN000000286_AMB:USD000000335",
+        "normalizedPair": "rvn_usdt",
+        "normalizedSymbol": "rvn",
+        "nativePair": "RVN-USDT",
+        "exchange": "okex",
+        "assetName": "Ravencoin",
+        "assetArcId": "AMB:RVN000000286",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rvn_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RVN000000286_AMB:USD000000333",
+        "normalizedPair": "rvn_usdc",
+        "normalizedSymbol": "rvn",
+        "nativePair": "RVN-USDC",
+        "exchange": "okex",
+        "assetName": "Ravencoin",
+        "assetArcId": "AMB:RVN000000286",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "rvn_usdc",
+        "instrumentType": "spot"
+    }
+]

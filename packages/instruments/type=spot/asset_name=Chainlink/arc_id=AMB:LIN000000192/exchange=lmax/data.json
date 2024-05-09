@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LIN000000192_AMB:USD000000949",
+        "normalizedPair": "link_usd",
+        "normalizedSymbol": "link",
+        "nativePair": "link-usd",
+        "exchange": "lmax",
+        "assetName": "Chainlink",
+        "assetArcId": "AMB:LIN000000192",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "link_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LIN000000192_AMB:USD000000333",
+        "normalizedPair": "link_usdc",
+        "normalizedSymbol": "link",
+        "nativePair": "link-usdc",
+        "exchange": "lmax",
+        "assetName": "Chainlink",
+        "assetArcId": "AMB:LIN000000192",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "link_usdc",
+        "instrumentType": "spot"
+    }
+]

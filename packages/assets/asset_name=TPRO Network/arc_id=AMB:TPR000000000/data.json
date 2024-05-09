@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "tpro",
+    "assetName": "TPRO Network",
+    "assetArcId": "AMB:TPR000000000",
+    "website": "https://tpro.network/",
+    "whitePaperUrl": "/how-to-buy/TPRO?utm_source=mexc&utm_medium=tokenifoTPRO&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TPRO Network/arc_id=AMB:TPR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

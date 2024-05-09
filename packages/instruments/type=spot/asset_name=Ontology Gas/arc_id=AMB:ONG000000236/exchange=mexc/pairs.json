@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ONG000000236_AMB:USD000000335",
+        "normalizedPair": "ong_usdt",
+        "normalizedSymbol": "ong",
+        "nativePair": "ONGUSDT",
+        "exchange": "mexc",
+        "assetName": "Ontology Gas",
+        "assetArcId": "AMB:ONG000000236",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ong_usdt",
+        "instrumentType": "spot"
+    }
+]

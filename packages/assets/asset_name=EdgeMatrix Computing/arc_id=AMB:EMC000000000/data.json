@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "emc",
+    "assetName": "EdgeMatrix Computing",
+    "assetArcId": "AMB:EMC000000000",
+    "website": "https://edgematrix.pro/",
+    "whitePaperUrl": "https://whitepaper.edgematrix.pro/",
+    "classificationTags": [
+        "DePIN",
+        "Real World Asset"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=EdgeMatrix Computing/arc_id=AMB:EMC000000000/exchange=mexc/data.json"
+        ]
+    }
+}

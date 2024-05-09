@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "lf",
+    "assetName": "Logistic Fundamental",
+    "assetArcId": "AMB:LFA000001862",
+    "website": "https://www.lf-foundation.com/",
+    "whitePaperUrl": "https://www.lf-foundation.com/_files/ugd/4e379c_da45a19ce6fd459f95fc67dc64049206.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Logistic Fundamental/arc_id=AMB:LFA000001862/exchange=mexc/data.json"
+        ]
+    }
+}

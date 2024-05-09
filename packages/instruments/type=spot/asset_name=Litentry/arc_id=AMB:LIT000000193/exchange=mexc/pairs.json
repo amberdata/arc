@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LIT000000193_AMB:USD000000335",
+        "normalizedPair": "lit_usdt",
+        "normalizedSymbol": "lit",
+        "nativePair": "LITUSDT",
+        "exchange": "mexc",
+        "assetName": "Litentry",
+        "assetArcId": "AMB:LIT000000193",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lit_usdt",
+        "instrumentType": "spot"
+    }
+]

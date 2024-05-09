@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SPR000000810_AMB:USD000000335",
+        "normalizedPair": "sprt_usdt",
+        "normalizedSymbol": "sprt",
+        "nativePair": "SPRTUSDT",
+        "exchange": "mexc",
+        "assetName": "Sportium",
+        "assetArcId": "AMB:SPR000000810",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sprt_usdt",
+        "instrumentType": "spot"
+    }
+]

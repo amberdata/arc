@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GDC000000000_AMB:USD000000335",
+        "normalizedPair": "gdcb_usdt",
+        "normalizedSymbol": "gdcb",
+        "nativePair": "GDCBUSDT",
+        "exchange": "mexc",
+        "assetName": "Gold Dragon Coin",
+        "assetArcId": "AMB:GDC000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gdcb_usdt",
+        "instrumentType": "spot"
+    }
+]

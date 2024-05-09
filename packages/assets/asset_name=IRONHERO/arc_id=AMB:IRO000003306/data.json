@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ironhero",
+    "assetName": "IRONHERO",
+    "assetArcId": "AMB:IRO000003306",
+    "website": "https://ironmantoken.com/",
+    "whitePaperUrl": "/how-to-buy/IRONHERO?utm_source=mexc&utm_medium=tokenifoIRONHERO&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=IRONHERO/arc_id=AMB:IRO000003306/exchange=mexc/data.json"
+        ]
+    }
+}

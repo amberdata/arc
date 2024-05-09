@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ATO000000035_AMB:KRW000000000",
+        "normalizedPair": "atom_krw",
+        "normalizedSymbol": "atom",
+        "nativePair": "ATOM/KRW",
+        "exchange": "bithumb",
+        "assetName": "Cosmos",
+        "assetArcId": "AMB:ATO000000035",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "atom_krw",
+        "instrumentType": "spot"
+    }
+]

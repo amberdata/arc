@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SUN000000309_AMB:KRW000000000",
+        "normalizedPair": "sun_krw",
+        "normalizedSymbol": "sun",
+        "nativePair": "SUN/KRW",
+        "exchange": "bithumb",
+        "assetName": "Rising Sun",
+        "assetArcId": "AMB:SUN000000309",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "sun_krw",
+        "instrumentType": "spot"
+    }
+]

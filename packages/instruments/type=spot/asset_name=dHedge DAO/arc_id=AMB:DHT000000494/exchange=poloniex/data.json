@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DHT000000494_AMB:USD000000335",
+        "normalizedPair": "dht_usdt",
+        "normalizedSymbol": "dht",
+        "nativePair": "DHT_USDT",
+        "exchange": "poloniex",
+        "assetName": "dHedge DAO",
+        "assetArcId": "AMB:DHT000000494",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dht_usdt",
+        "instrumentType": "spot"
+    }
+]

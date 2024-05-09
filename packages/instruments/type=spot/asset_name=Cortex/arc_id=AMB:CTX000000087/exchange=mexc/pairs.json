@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CTX000000087_AMB:USD000000335",
+        "normalizedPair": "ctxc_usdt",
+        "normalizedSymbol": "ctxc",
+        "nativePair": "CTXCUSDT",
+        "exchange": "mexc",
+        "assetName": "Cortex",
+        "assetArcId": "AMB:CTX000000087",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ctxc_usdt",
+        "instrumentType": "spot"
+    }
+]

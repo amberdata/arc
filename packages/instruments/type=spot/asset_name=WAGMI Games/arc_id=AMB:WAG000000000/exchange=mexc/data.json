@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WAG000000000_AMB:USD000000335",
+        "normalizedPair": "wagmigames_usdt",
+        "normalizedSymbol": "wagmigames",
+        "nativePair": "WAGMIGAMESUSDT",
+        "exchange": "mexc",
+        "assetName": "WAGMI Games",
+        "assetArcId": "AMB:WAG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wagmigames_usdt",
+        "instrumentType": "spot"
+    }
+]

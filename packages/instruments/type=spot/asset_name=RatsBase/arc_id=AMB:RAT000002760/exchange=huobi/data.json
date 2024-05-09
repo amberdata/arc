@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAT000002760_AMB:USD000000335",
+        "normalizedPair": "rats_usdt",
+        "normalizedSymbol": "rats",
+        "nativePair": "ratsusdt",
+        "exchange": "huobi",
+        "assetName": "RatsBase",
+        "assetArcId": "AMB:RAT000002760",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rats_usdt",
+        "instrumentType": "spot"
+    }
+]

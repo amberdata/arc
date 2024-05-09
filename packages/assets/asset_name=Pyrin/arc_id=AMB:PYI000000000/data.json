@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "pyi",
+    "assetName": "Pyrin",
+    "assetArcId": "AMB:PYI000000000",
+    "website": "https://pyrin.network/",
+    "whitePaperUrl": "https://eprint.iacr.org/2018/104.pdf",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pyrin/arc_id=AMB:PYI000000000/exchange=mexc/data.json"
+        ]
+    }
+}

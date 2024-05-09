@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "puffin",
+    "assetName": "Puffin Global",
+    "assetArcId": "AMB:PUF000003494",
+    "website": "https://puffinglobal.com/",
+    "whitePaperUrl": "https://puffinglobal.com/whitepaper.pdf",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Puffin Global/arc_id=AMB:PUF000003494/exchange=mexc/data.json"
+        ]
+    }
+}

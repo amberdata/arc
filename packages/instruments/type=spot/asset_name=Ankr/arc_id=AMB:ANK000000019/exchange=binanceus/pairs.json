@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ANK000000019_AMB:USD000000335",
+        "normalizedPair": "ankr_usdt",
+        "normalizedSymbol": "ankr",
+        "nativePair": "ANKRUSDT",
+        "exchange": "binanceus",
+        "assetName": "Ankr",
+        "assetArcId": "AMB:ANK000000019",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ankr_usdt",
+        "instrumentType": "spot"
+    }
+]

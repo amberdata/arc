@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "collab",
+    "assetName": "Collab.Land",
+    "assetArcId": "AMB:COL000001215",
+    "website": "https://www.collab.land/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Optimism",
+            "address": "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Collab.Land/arc_id=AMB:COL000001215/exchange=poloniex/data.json"
+        ]
+    }
+}

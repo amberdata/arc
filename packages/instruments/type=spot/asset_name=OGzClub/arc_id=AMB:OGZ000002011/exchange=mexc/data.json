@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OGZ000002011_AMB:USD000000335",
+        "normalizedPair": "ogz_usdt",
+        "normalizedSymbol": "ogz",
+        "nativePair": "OGZUSDT",
+        "exchange": "mexc",
+        "assetName": "OGzClub",
+        "assetArcId": "AMB:OGZ000002011",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ogz_usdt",
+        "instrumentType": "spot"
+    }
+]

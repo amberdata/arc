@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:MTL000000221_AMB:BTC000000000",
+        "normalizedPair": "mtl_btc",
+        "normalizedSymbol": "mtl",
+        "nativePair": "MTLBTC",
+        "exchange": "binance",
+        "assetName": "Metal DAO",
+        "assetArcId": "AMB:MTL000000221",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "mtl_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MTL000000221_AMB:BUS000000067",
+        "normalizedPair": "mtl_busd",
+        "normalizedSymbol": "mtl",
+        "nativePair": "MTLBUSD",
+        "exchange": "binance",
+        "assetName": "Metal DAO",
+        "assetArcId": "AMB:MTL000000221",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "mtl_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MTL000000221_AMB:TRY000000940",
+        "normalizedPair": "mtl_try",
+        "normalizedSymbol": "mtl",
+        "nativePair": "MTLTRY",
+        "exchange": "binance",
+        "assetName": "Metal DAO",
+        "assetArcId": "AMB:MTL000000221",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "mtl_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MTL000000221_AMB:USD000000335",
+        "normalizedPair": "mtl_usdt",
+        "normalizedSymbol": "mtl",
+        "nativePair": "MTLUSDT",
+        "exchange": "binance",
+        "assetName": "Metal DAO",
+        "assetArcId": "AMB:MTL000000221",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mtl_usdt",
+        "instrumentType": "spot"
+    }
+]

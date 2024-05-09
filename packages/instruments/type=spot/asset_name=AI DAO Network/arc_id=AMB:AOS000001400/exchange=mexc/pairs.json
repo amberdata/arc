@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AOS000001400_AMB:USD000000335",
+        "normalizedPair": "aos_usdt",
+        "normalizedSymbol": "aos",
+        "nativePair": "AOSUSDT",
+        "exchange": "mexc",
+        "assetName": "AI DAO Network",
+        "assetArcId": "AMB:AOS000001400",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aos_usdt",
+        "instrumentType": "spot"
+    }
+]

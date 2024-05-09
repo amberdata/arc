@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETL000001642_AMB:USD000000335",
+        "normalizedPair": "etl_usdt",
+        "normalizedSymbol": "etl",
+        "nativePair": "ETLUSDT",
+        "exchange": "mexc",
+        "assetName": "Etherlite",
+        "assetArcId": "AMB:ETL000001642",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "etl_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ACA000000002_AMB:EUR000000120",
+        "normalizedPair": "aca_eur",
+        "normalizedSymbol": "aca",
+        "nativePair": "ACAEUR",
+        "exchange": "kraken",
+        "assetName": "ACA Token",
+        "assetArcId": "AMB:ACA000000002",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "aca_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ACA000000002_AMB:USD000000949",
+        "normalizedPair": "aca_usd",
+        "normalizedSymbol": "aca",
+        "nativePair": "ACAUSD",
+        "exchange": "kraken",
+        "assetName": "ACA Token",
+        "assetArcId": "AMB:ACA000000002",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "aca_usd",
+        "instrumentType": "spot"
+    }
+]

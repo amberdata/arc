@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TTT000000000_AMB:USD000000335",
+        "normalizedPair": "tttu_usdt",
+        "normalizedSymbol": "tttu",
+        "nativePair": "TTTUUSDT",
+        "exchange": "mexc",
+        "assetName": "The Terminal Token",
+        "assetArcId": "AMB:TTT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tttu_usdt",
+        "instrumentType": "spot"
+    }
+]

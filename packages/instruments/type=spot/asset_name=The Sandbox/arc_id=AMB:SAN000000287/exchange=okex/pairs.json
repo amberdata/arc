@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SAN000000287_AMB:USD000000333",
+        "normalizedPair": "sand_usdc",
+        "normalizedSymbol": "sand",
+        "nativePair": "SAND-USDC",
+        "exchange": "okex",
+        "assetName": "The Sandbox",
+        "assetArcId": "AMB:SAN000000287",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "sand_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SAN000000287_AMB:USD000000335",
+        "normalizedPair": "sand_usdt",
+        "normalizedSymbol": "sand",
+        "nativePair": "SAND-USDT",
+        "exchange": "okex",
+        "assetName": "The Sandbox",
+        "assetArcId": "AMB:SAN000000287",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sand_usdt",
+        "instrumentType": "spot"
+    }
+]

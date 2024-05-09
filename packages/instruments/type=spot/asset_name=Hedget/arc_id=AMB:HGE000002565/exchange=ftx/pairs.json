@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:HGE000002565_AMB:USD000000949",
+        "normalizedPair": "hget_usd",
+        "normalizedSymbol": "hget",
+        "nativePair": "HGET/USD",
+        "exchange": "ftx",
+        "assetName": "Hedget",
+        "assetArcId": "AMB:HGE000002565",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "hget_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:HGE000002565_AMB:USD000000335",
+        "normalizedPair": "hget_usdt",
+        "normalizedSymbol": "hget",
+        "nativePair": "HGET/USDT",
+        "exchange": "ftx",
+        "assetName": "Hedget",
+        "assetArcId": "AMB:HGE000002565",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hget_usdt",
+        "instrumentType": "spot"
+    }
+]

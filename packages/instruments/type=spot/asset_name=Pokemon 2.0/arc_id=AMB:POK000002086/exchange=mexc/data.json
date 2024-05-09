@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POK000002086_AMB:USD000000335",
+        "normalizedPair": "pokemon2_usdt",
+        "normalizedSymbol": "pokemon2",
+        "nativePair": "POKEMON2USDT",
+        "exchange": "mexc",
+        "assetName": "Pokemon 2.0",
+        "assetArcId": "AMB:POK000002086",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pokemon2_usdt",
+        "instrumentType": "spot"
+    }
+]

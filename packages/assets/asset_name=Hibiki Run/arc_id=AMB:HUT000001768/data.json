@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "hut",
+    "assetName": "Hibiki Run",
+    "assetArcId": "AMB:HUT000001768",
+    "website": "https://www.hibikirun.com/",
+    "whitePaperUrl": "https://whitepaper.hibikirun.com/hibiki-run-whitepaper-v3.0/welcome/introduction",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hibiki Run/arc_id=AMB:HUT000001768/exchange=mexc/data.json"
+        ]
+    }
+}

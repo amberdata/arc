@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ARD000000026_AMB:BTC000000000",
+        "normalizedPair": "ardr_btc",
+        "normalizedSymbol": "ardr",
+        "nativePair": "ardrbtc",
+        "exchange": "huobi",
+        "assetName": "Ardor",
+        "assetArcId": "AMB:ARD000000026",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ardr_btc",
+        "instrumentType": "spot"
+    }
+]

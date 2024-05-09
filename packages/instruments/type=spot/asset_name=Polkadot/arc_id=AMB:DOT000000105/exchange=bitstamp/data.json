@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:DOT000000105_AMB:EUR000000120",
+        "normalizedPair": "dot_eur",
+        "normalizedSymbol": "dot",
+        "nativePair": "doteur",
+        "exchange": "bitstamp",
+        "assetName": "Polkadot",
+        "assetArcId": "AMB:DOT000000105",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "dot_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:DOT000000105_AMB:USD000000949",
+        "normalizedPair": "dot_usd",
+        "normalizedSymbol": "dot",
+        "nativePair": "dotusd",
+        "exchange": "bitstamp",
+        "assetName": "Polkadot",
+        "assetArcId": "AMB:DOT000000105",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dot_usd",
+        "instrumentType": "spot"
+    }
+]

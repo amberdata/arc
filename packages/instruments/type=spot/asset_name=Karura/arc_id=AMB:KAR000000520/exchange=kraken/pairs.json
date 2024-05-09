@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:KAR000000520_AMB:EUR000000120",
+        "normalizedPair": "kar_eur",
+        "normalizedSymbol": "kar",
+        "nativePair": "KAREUR",
+        "exchange": "kraken",
+        "assetName": "Karura",
+        "assetArcId": "AMB:KAR000000520",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "kar_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KAR000000520_AMB:USD000000949",
+        "normalizedPair": "kar_usd",
+        "normalizedSymbol": "kar",
+        "nativePair": "KARUSD",
+        "exchange": "kraken",
+        "assetName": "Karura",
+        "assetArcId": "AMB:KAR000000520",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "kar_usd",
+        "instrumentType": "spot"
+    }
+]

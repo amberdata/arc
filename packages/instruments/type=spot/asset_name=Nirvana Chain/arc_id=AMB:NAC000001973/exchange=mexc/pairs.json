@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NAC000001973_AMB:USD000000335",
+        "normalizedPair": "nac_usdt",
+        "normalizedSymbol": "nac",
+        "nativePair": "NACUSDT",
+        "exchange": "mexc",
+        "assetName": "Nirvana Chain",
+        "assetArcId": "AMB:NAC000001973",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nac_usdt",
+        "instrumentType": "spot"
+    }
+]

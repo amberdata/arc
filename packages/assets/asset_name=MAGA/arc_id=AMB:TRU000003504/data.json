@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "trump",
+    "assetName": "MAGA",
+    "assetArcId": "AMB:TRU000003504",
+    "website": "https://magamemecoin.com/",
+    "whitePaperUrl": "/how-to-buy/TRUMP?utm_source=mexc&utm_medium=tokenifoTRUMP&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MAGA/arc_id=AMB:TRU000003504/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MAGA/arc_id=AMB:TRU000003504/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DUC000000000_AMB:USD000000335",
+        "normalizedPair": "ducke_usdt",
+        "normalizedSymbol": "ducke",
+        "nativePair": "DUCKE_USDT",
+        "exchange": "poloniex",
+        "assetName": "Ducke",
+        "assetArcId": "AMB:DUC000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ducke_usdt",
+        "instrumentType": "spot"
+    }
+]

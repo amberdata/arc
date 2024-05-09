@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "blox",
+    "assetName": "Blox",
+    "assetArcId": "AMB:BLO000000001",
+    "website": "https://www.blox.pro/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC",
+            "address": "0xc9F00080d96cEA3Ef92D2E2e563d4cD41fB5Bb36"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Blox/arc_id=AMB:BLO000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

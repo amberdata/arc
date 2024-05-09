@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GME000000689_AMB:USD000000335",
+        "normalizedPair": "gmee_usdt",
+        "normalizedSymbol": "gmee",
+        "nativePair": "gmeeusdt",
+        "exchange": "huobi",
+        "assetName": "GAMEE",
+        "assetArcId": "AMB:GME000000689",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gmee_usdt",
+        "instrumentType": "spot"
+    }
+]

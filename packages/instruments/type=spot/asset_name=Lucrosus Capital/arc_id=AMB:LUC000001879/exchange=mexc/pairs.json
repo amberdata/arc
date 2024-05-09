@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LUC000001879_AMB:USD000000335",
+        "normalizedPair": "luca_usdt",
+        "normalizedSymbol": "luca",
+        "nativePair": "LUCAUSDT",
+        "exchange": "mexc",
+        "assetName": "Lucrosus Capital",
+        "assetArcId": "AMB:LUC000001879",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "luca_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KXA000001849_AMB:USD000000335",
+        "normalizedPair": "kxa_usdt",
+        "normalizedSymbol": "kxa",
+        "nativePair": "KXAUSDT",
+        "exchange": "mexc",
+        "assetName": "Kryxivia",
+        "assetArcId": "AMB:KXA000001849",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kxa_usdt",
+        "instrumentType": "spot"
+    }
+]

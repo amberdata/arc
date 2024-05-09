@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:VAN000003084_AMB:TRY000000940",
+        "normalizedPair": "vanry_try",
+        "normalizedSymbol": "vanry",
+        "nativePair": "VANRYTRY",
+        "exchange": "binance",
+        "assetName": "Vanar Chain",
+        "assetArcId": "AMB:VAN000003084",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "vanry_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:VAN000003084_AMB:BTC000000000",
+        "normalizedPair": "vanry_btc",
+        "normalizedSymbol": "vanry",
+        "nativePair": "VANRYBTC",
+        "exchange": "binance",
+        "assetName": "Vanar Chain",
+        "assetArcId": "AMB:VAN000003084",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "vanry_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:VAN000003084_AMB:USD000000335",
+        "normalizedPair": "vanry_usdt",
+        "normalizedSymbol": "vanry",
+        "nativePair": "VANRYUSDT",
+        "exchange": "binance",
+        "assetName": "Vanar Chain",
+        "assetArcId": "AMB:VAN000003084",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vanry_usdt",
+        "instrumentType": "spot"
+    }
+]

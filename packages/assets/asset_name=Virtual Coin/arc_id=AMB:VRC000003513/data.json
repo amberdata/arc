@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "vrc",
+    "assetName": "Virtual Coin",
+    "assetArcId": "AMB:VRC000003513",
+    "website": "https://vrccoin.com/",
+    "whitePaperUrl": "https://vrccoin.com/static/media/VIRTUALCOIN_PDF.d2a8e9461e1bd156e33f.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Virtual Coin/arc_id=AMB:VRC000003513/exchange=mexc/data.json"
+        ]
+    }
+}

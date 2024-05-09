@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAT000002801_AMB:USD000000335",
+        "normalizedPair": "sats2_usdt",
+        "normalizedSymbol": "sats2",
+        "nativePair": "SATS2USDT",
+        "exchange": "mexc",
+        "assetName": "SatsMax",
+        "assetArcId": "AMB:SAT000002801",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sats2_usdt",
+        "instrumentType": "spot"
+    }
+]

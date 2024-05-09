@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "yourai",
+    "assetName": "YOUR AI",
+    "assetArcId": "AMB:YOU000000000",
+    "website": "https://your.io/token",
+    "whitePaperUrl": "https://info.your.io/hc/en-nl/articles/10067354832157-What-is-YOUR-AI-Protocol",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=YOUR AI/arc_id=AMB:YOU000000000/exchange=mexc/data.json"
+        ]
+    }
+}

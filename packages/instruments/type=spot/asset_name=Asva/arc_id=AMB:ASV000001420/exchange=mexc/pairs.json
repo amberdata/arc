@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ASV000001420_AMB:USD000000335",
+        "normalizedPair": "asva_usdt",
+        "normalizedSymbol": "asva",
+        "nativePair": "ASVAUSDT",
+        "exchange": "mexc",
+        "assetName": "Asva",
+        "assetArcId": "AMB:ASV000001420",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "asva_usdt",
+        "instrumentType": "spot"
+    }
+]

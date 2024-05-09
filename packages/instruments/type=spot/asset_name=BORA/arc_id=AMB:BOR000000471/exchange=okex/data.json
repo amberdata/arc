@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BOR000000471_AMB:USD000000335",
+        "normalizedPair": "bora_usdt",
+        "normalizedSymbol": "bora",
+        "nativePair": "BORA-USDT",
+        "exchange": "okex",
+        "assetName": "BORA",
+        "assetArcId": "AMB:BOR000000471",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bora_usdt",
+        "instrumentType": "spot"
+    }
+]

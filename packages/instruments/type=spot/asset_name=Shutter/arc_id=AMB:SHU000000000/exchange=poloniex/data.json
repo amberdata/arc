@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHU000000000_AMB:USD000000335",
+        "normalizedPair": "shu_usdt",
+        "normalizedSymbol": "shu",
+        "nativePair": "SHU_USDT",
+        "exchange": "poloniex",
+        "assetName": "Shutter",
+        "assetArcId": "AMB:SHU000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shu_usdt",
+        "instrumentType": "spot"
+    }
+]

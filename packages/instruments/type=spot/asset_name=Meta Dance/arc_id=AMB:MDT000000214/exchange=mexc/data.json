@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MDT000000214_AMB:USD000000335",
+        "normalizedPair": "mdt.amb.1_usdt",
+        "normalizedSymbol": "mdt.amb.1",
+        "nativePair": "MDTUSDT",
+        "exchange": "mexc",
+        "assetName": "Meta Dance",
+        "assetArcId": "AMB:MDT000000214",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mdt_usdt",
+        "instrumentType": "spot"
+    }
+]

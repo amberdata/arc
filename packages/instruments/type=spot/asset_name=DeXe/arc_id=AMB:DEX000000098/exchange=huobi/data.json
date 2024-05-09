@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DEX000000098_AMB:USD000000335",
+        "normalizedPair": "dexe_usdt",
+        "normalizedSymbol": "dexe",
+        "nativePair": "dexeusdt",
+        "exchange": "huobi",
+        "assetName": "DeXe",
+        "assetArcId": "AMB:DEX000000098",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dexe_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KMO000001061_AMB:USD000000335",
+        "normalizedPair": "kmon_usdt",
+        "normalizedSymbol": "kmon",
+        "nativePair": "KMONUSDT",
+        "exchange": "mexc",
+        "assetName": "Kryptomon",
+        "assetArcId": "AMB:KMO000001061",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kmon_usdt",
+        "instrumentType": "spot"
+    }
+]

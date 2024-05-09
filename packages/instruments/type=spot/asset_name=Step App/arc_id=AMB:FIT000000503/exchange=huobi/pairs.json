@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FIT000000503_AMB:USD000000335",
+        "normalizedPair": "fitfi_usdt",
+        "normalizedSymbol": "fitfi",
+        "nativePair": "fitfiusdt",
+        "exchange": "huobi",
+        "assetName": "Step App",
+        "assetArcId": "AMB:FIT000000503",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fitfi_usdt",
+        "instrumentType": "spot"
+    }
+]

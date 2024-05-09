@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TIA000002719_AMB:USD000000335",
+        "normalizedPair": "tia_usdt",
+        "normalizedSymbol": "tia",
+        "nativePair": "TIA-USDT",
+        "exchange": "okex",
+        "assetName": "TIA",
+        "assetArcId": "AMB:TIA000002719",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tia_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BIT000000383_AMB:USD000000949",
+        "normalizedPair": "bit_usd",
+        "normalizedSymbol": "bit",
+        "nativePair": "BIT-USD",
+        "exchange": "gdax",
+        "assetName": "BitDAO",
+        "assetArcId": "AMB:BIT000000383",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bit_usd",
+        "instrumentType": "spot"
+    }
+]

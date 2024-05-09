@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "x1",
+    "assetName": "X1",
+    "assetArcId": "AMB:X1A000003529",
+    "website": "https://www.xcom2023.world/",
+    "whitePaperUrl": "https://gorilla.gitbook.io/gorilla-white-paper/",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=X1/arc_id=AMB:X1A000003529/exchange=mexc/data.json"
+        ]
+    }
+}

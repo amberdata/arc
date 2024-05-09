@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:CIT000000076_AMB:BTC000000000",
+        "normalizedPair": "city_btc",
+        "normalizedSymbol": "city",
+        "nativePair": "CITYBTC",
+        "exchange": "binance",
+        "assetName": "Manchester City Fan Token",
+        "assetArcId": "AMB:CIT000000076",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "city_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CIT000000076_AMB:TRY000000940",
+        "normalizedPair": "city_try",
+        "normalizedSymbol": "city",
+        "nativePair": "CITYTRY",
+        "exchange": "binance",
+        "assetName": "Manchester City Fan Token",
+        "assetArcId": "AMB:CIT000000076",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "city_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CIT000000076_AMB:USD000000335",
+        "normalizedPair": "city_usdt",
+        "normalizedSymbol": "city",
+        "nativePair": "CITYUSDT",
+        "exchange": "binance",
+        "assetName": "Manchester City Fan Token",
+        "assetArcId": "AMB:CIT000000076",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "city_usdt",
+        "instrumentType": "spot"
+    }
+]

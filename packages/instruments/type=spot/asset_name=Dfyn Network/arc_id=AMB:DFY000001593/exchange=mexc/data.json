@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DFY000001593_AMB:USD000000335",
+        "normalizedPair": "dfyn_usdt",
+        "normalizedSymbol": "dfyn",
+        "nativePair": "DFYNUSDT",
+        "exchange": "mexc",
+        "assetName": "Dfyn Network",
+        "assetArcId": "AMB:DFY000001593",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dfyn_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LPU000000000_AMB:USD000000335",
+        "normalizedPair": "lpu_usdt",
+        "normalizedSymbol": "lpu",
+        "nativePair": "LPUUSDT",
+        "exchange": "mexc",
+        "assetName": "CortexLPU",
+        "assetArcId": "AMB:LPU000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lpu_usdt",
+        "instrumentType": "spot"
+    }
+]

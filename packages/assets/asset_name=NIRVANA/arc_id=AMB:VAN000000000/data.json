@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "vana",
+    "assetName": "NIRVANA",
+    "assetArcId": "AMB:VAN000000000",
+    "website": "https://www.vana-project.com/",
+    "whitePaperUrl": "https://vana-project.com/VANA_WP_en.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NIRVANA/arc_id=AMB:VAN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

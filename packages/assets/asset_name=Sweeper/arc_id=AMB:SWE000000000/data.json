@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "sweep",
+    "assetName": "Sweeper",
+    "assetArcId": "AMB:SWE000000000",
+    "website": "https://www.sweeper.so/",
+    "whitePaperUrl": "/how-to-buy/SWEEP?utm_source=mexc&utm_medium=tokenifoSWEEP&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sweeper/arc_id=AMB:SWE000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CCD000000888_AMB:USD000000335",
+        "normalizedPair": "ccd_usdt",
+        "normalizedSymbol": "ccd",
+        "nativePair": "CCDUSDT",
+        "exchange": "mexc",
+        "assetName": "CopyCat DAO",
+        "assetArcId": "AMB:CCD000000888",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ccd_usdt",
+        "instrumentType": "spot"
+    }
+]

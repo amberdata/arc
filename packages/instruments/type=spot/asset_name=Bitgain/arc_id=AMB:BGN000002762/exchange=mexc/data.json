@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BGN000002762_AMB:USD000000335",
+        "normalizedPair": "bgn_usdt",
+        "normalizedSymbol": "bgn",
+        "nativePair": "BGNUSDT",
+        "exchange": "mexc",
+        "assetName": "Bitgain",
+        "assetArcId": "AMB:BGN000002762",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bgn_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STG000000302_AMB:USD000000949",
+        "normalizedPair": "stg_usd",
+        "normalizedSymbol": "stg",
+        "nativePair": "STG/USD",
+        "exchange": "ftx",
+        "assetName": "Stargate Finance V1",
+        "assetArcId": "AMB:STG000000302",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "stg_usd",
+        "instrumentType": "spot"
+    }
+]

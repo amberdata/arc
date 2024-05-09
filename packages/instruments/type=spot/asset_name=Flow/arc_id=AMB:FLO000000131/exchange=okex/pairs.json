@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:FLO000000131_AMB:USD000000333",
+        "normalizedPair": "flow_usdc",
+        "normalizedSymbol": "flow",
+        "nativePair": "FLOW-USDC",
+        "exchange": "okex",
+        "assetName": "Flow",
+        "assetArcId": "AMB:FLO000000131",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "flow_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FLO000000131_AMB:USD000000335",
+        "normalizedPair": "flow_usdt",
+        "normalizedSymbol": "flow",
+        "nativePair": "FLOW-USDT",
+        "exchange": "okex",
+        "assetName": "Flow",
+        "assetArcId": "AMB:FLO000000131",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "flow_usdt",
+        "instrumentType": "spot"
+    }
+]

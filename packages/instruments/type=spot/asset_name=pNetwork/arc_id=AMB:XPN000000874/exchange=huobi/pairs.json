@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XPN000000874_AMB:USD000000335",
+        "normalizedPair": "xpnt_usdt",
+        "normalizedSymbol": "xpnt",
+        "nativePair": "xpntusdt",
+        "exchange": "huobi",
+        "assetName": "pNetwork",
+        "assetArcId": "AMB:XPN000000874",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xpnt_usdt",
+        "instrumentType": "spot"
+    }
+]

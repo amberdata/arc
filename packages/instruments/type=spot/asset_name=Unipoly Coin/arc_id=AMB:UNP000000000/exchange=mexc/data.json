@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UNP000000000_AMB:USD000000335",
+        "normalizedPair": "unp_usdt",
+        "normalizedSymbol": "unp",
+        "nativePair": "UNPUSDT",
+        "exchange": "mexc",
+        "assetName": "Unipoly Coin",
+        "assetArcId": "AMB:UNP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "unp_usdt",
+        "instrumentType": "spot"
+    }
+]

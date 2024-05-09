@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "koy",
+    "assetName": "Koyo",
+    "assetArcId": "AMB:KOY000001839",
+    "website": "https://www.koyotoken.com/",
+    "whitePaperUrl": "https://medium.com/@KintaroStrength",
+    "classificationTags": [
+        "Derivatives"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Koyo/arc_id=AMB:KOY000001839/exchange=mexc/data.json"
+        ]
+    }
+}

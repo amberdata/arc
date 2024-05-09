@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XID000002373_AMB:USD000000335",
+        "normalizedPair": "xido_usdt",
+        "normalizedSymbol": "xido",
+        "nativePair": "XIDOUSDT",
+        "exchange": "mexc",
+        "assetName": "XIDO FINANCE",
+        "assetArcId": "AMB:XID000002373",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xido_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "gta",
+    "assetName": "GTA",
+    "assetArcId": "AMB:GTA000000000",
+    "website": "https://gtatoken.cc/",
+    "whitePaperUrl": "/how-to-buy/GTA?utm_source=mexc&utm_medium=tokenifoGTA&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming",
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GTA/arc_id=AMB:GTA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

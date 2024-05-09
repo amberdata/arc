@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BTC000000001_AMB:USD000000335",
+        "normalizedPair": "btcat_usdt",
+        "normalizedSymbol": "btcat",
+        "nativePair": "BTCATUSDT",
+        "exchange": "mexc",
+        "assetName": "BTCAT",
+        "assetArcId": "AMB:BTC000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "btcat_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTC000000001_AMB:USD000000335",
+        "normalizedPair": "btchero_usdt",
+        "normalizedSymbol": "btchero",
+        "nativePair": "BTCHEROUSDT",
+        "exchange": "mexc",
+        "assetName": "BTCHero",
+        "assetArcId": "AMB:BTC000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "btchero_usdt",
+        "instrumentType": "spot"
+    }
+]

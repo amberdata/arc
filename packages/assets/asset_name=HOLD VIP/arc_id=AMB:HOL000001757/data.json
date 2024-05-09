@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "hold",
+    "assetName": "HOLD VIP",
+    "assetArcId": "AMB:HOL000001757",
+    "website": "https://www.hold.vip/",
+    "whitePaperUrl": "/how-to-buy/HOLD?utm_source=mexc&utm_medium=tokenifoHOLD&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=HOLD VIP/arc_id=AMB:HOL000001757/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:USD000000335_AMB:USD000000333",
+        "normalizedPair": "usdt_usdc",
+        "normalizedSymbol": "usdt",
+        "nativePair": "USDT-USDC",
+        "exchange": "okex",
+        "assetName": "USDT",
+        "assetArcId": "AMB:USD000000335",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "usdt_usdc",
+        "instrumentType": "spot"
+    }
+]

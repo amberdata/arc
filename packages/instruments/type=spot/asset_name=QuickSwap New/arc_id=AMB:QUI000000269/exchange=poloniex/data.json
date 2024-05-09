@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:QUI000000269_AMB:USD000000335",
+        "normalizedPair": "quick_usdt",
+        "normalizedSymbol": "quick",
+        "nativePair": "QUICK_USDT",
+        "exchange": "poloniex",
+        "assetName": "QuickSwap New",
+        "assetArcId": "AMB:QUI000000269",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "quick_usdt",
+        "instrumentType": "spot"
+    }
+]

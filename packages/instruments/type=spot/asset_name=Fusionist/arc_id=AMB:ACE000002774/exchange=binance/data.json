@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:ACE000002774_AMB:BNB000000055",
+        "normalizedPair": "ace.amb.1_bnb",
+        "normalizedSymbol": "ace.amb.1",
+        "nativePair": "ACEBNB",
+        "exchange": "binance",
+        "assetName": "Fusionist",
+        "assetArcId": "AMB:ACE000002774",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "ace_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ACE000002774_AMB:BTC000000000",
+        "normalizedPair": "ace.amb.1_btc",
+        "normalizedSymbol": "ace.amb.1",
+        "nativePair": "ACEBTC",
+        "exchange": "binance",
+        "assetName": "Fusionist",
+        "assetArcId": "AMB:ACE000002774",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ace_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ACE000002774_AMB:TRY000000940",
+        "normalizedPair": "ace.amb.1_try",
+        "normalizedSymbol": "ace.amb.1",
+        "nativePair": "ACETRY",
+        "exchange": "binance",
+        "assetName": "Fusionist",
+        "assetArcId": "AMB:ACE000002774",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "ace_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ACE000002774_AMB:FDU000000122",
+        "normalizedPair": "ace.amb.1_fdusd",
+        "normalizedSymbol": "ace.amb.1",
+        "nativePair": "ACEFDUSD",
+        "exchange": "binance",
+        "assetName": "Fusionist",
+        "assetArcId": "AMB:ACE000002774",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "ace_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ACE000002774_AMB:USD000000335",
+        "normalizedPair": "ace.amb.1_usdt",
+        "normalizedSymbol": "ace.amb.1",
+        "nativePair": "ACEUSDT",
+        "exchange": "binance",
+        "assetName": "Fusionist",
+        "assetArcId": "AMB:ACE000002774",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ace_usdt",
+        "instrumentType": "spot"
+    }
+]

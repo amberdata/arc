@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "bonks",
+    "assetName": "BONKS",
+    "assetArcId": "AMB:BON000000000",
+    "website": "https://twitter.com/BONKSlol",
+    "whitePaperUrl": "/how-to-buy/BONKS?utm_source=mexc&utm_medium=tokenifoBONKS&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BONKS/arc_id=AMB:BON000000000/exchange=mexc/data.json"
+        ]
+    }
+}

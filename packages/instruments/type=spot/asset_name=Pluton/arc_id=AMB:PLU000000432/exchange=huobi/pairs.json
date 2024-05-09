@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PLU000000432_AMB:USD000000335",
+        "normalizedPair": "plu_usdt",
+        "normalizedSymbol": "plu",
+        "nativePair": "pluusdt",
+        "exchange": "huobi",
+        "assetName": "Pluton",
+        "assetArcId": "AMB:PLU000000432",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "plu_usdt",
+        "instrumentType": "spot"
+    }
+]

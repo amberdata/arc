@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FRO000000135_AMB:USD000000335",
+        "normalizedPair": "front_usdt",
+        "normalizedSymbol": "front",
+        "nativePair": "frontusdt",
+        "exchange": "huobi",
+        "assetName": "Frontier",
+        "assetArcId": "AMB:FRO000000135",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "front_usdt",
+        "instrumentType": "spot"
+    }
+]

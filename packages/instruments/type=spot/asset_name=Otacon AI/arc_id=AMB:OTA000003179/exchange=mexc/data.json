@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OTA000003179_AMB:USD000000335",
+        "normalizedPair": "otacon_usdt",
+        "normalizedSymbol": "otacon",
+        "nativePair": "OTACONUSDT",
+        "exchange": "mexc",
+        "assetName": "Otacon AI",
+        "assetArcId": "AMB:OTA000003179",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "otacon_usdt",
+        "instrumentType": "spot"
+    }
+]

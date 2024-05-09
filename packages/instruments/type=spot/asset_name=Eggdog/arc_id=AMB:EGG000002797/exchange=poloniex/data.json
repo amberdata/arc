@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EGG000002797_AMB:USD000000335",
+        "normalizedPair": "egg.amb.1_usdt",
+        "normalizedSymbol": "egg.amb.1",
+        "nativePair": "EGG_USDT",
+        "exchange": "poloniex",
+        "assetName": "Eggdog",
+        "assetArcId": "AMB:EGG000002797",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "egg_usdt",
+        "instrumentType": "spot"
+    }
+]

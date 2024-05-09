@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bup",
+    "assetName": "BuildUp",
+    "assetArcId": "AMB:BUP000001504",
+    "website": "https://gomoneda.com/",
+    "whitePaperUrl": "https://whitepaper.gomoneda.com/bup-white-paper-ver-1.0/bup-white-paper-ver-1.0/bup-white-paper-ver1.0-eng",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BuildUp/arc_id=AMB:BUP000001504/exchange=mexc/data.json"
+        ]
+    }
+}

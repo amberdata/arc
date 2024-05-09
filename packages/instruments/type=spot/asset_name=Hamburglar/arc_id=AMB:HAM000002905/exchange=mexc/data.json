@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HAM000002905_AMB:USD000000335",
+        "normalizedPair": "hamburglar_usdt",
+        "normalizedSymbol": "hamburglar",
+        "nativePair": "HAMBURGLARUSDT",
+        "exchange": "mexc",
+        "assetName": "Hamburglar",
+        "assetArcId": "AMB:HAM000002905",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hamburglar_usdt",
+        "instrumentType": "spot"
+    }
+]

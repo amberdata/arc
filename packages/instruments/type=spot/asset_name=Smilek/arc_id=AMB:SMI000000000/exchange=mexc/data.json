@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SMI000000000_AMB:USD000000335",
+        "normalizedPair": "smilek_usdt",
+        "normalizedSymbol": "smilek",
+        "nativePair": "SMILEKUSDT",
+        "exchange": "mexc",
+        "assetName": "Smilek",
+        "assetArcId": "AMB:SMI000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "smilek_usdt",
+        "instrumentType": "spot"
+    }
+]

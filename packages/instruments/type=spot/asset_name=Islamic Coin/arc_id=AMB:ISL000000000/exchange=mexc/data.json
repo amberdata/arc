@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ISL000000000_AMB:USD000000335",
+        "normalizedPair": "islm_usdt",
+        "normalizedSymbol": "islm",
+        "nativePair": "ISLMUSDT",
+        "exchange": "mexc",
+        "assetName": "Islamic Coin",
+        "assetArcId": "AMB:ISL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "islm_usdt",
+        "instrumentType": "spot"
+    }
+]

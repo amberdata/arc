@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETC000002538_AMB:USD000000949",
+        "normalizedPair": "etcbear_usd",
+        "normalizedSymbol": "etcbear",
+        "nativePair": "ETCBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short Ethereum Classic Token",
+        "assetArcId": "AMB:ETC000002538",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "etcbear_usd",
+        "instrumentType": "spot"
+    }
+]

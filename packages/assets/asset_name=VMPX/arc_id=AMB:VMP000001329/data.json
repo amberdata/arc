@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "vmpx",
+    "assetName": "VMPX",
+    "assetArcId": "AMB:VMP000001329",
+    "website": "https://vmpx.io/",
+    "whitePaperUrl": "/how-to-buy/VMPX?utm_source=mexc&utm_medium=tokenifoVMPX&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=VMPX/arc_id=AMB:VMP000001329/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=VMPX/arc_id=AMB:VMP000001329/exchange=mexc/data.json"
+        ]
+    }
+}

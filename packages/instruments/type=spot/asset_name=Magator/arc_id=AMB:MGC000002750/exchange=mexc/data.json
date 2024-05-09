@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MGC000002750_AMB:USD000000335",
+        "normalizedPair": "mgc_usdt",
+        "normalizedSymbol": "mgc",
+        "nativePair": "MGCUSDT",
+        "exchange": "mexc",
+        "assetName": "Magator",
+        "assetArcId": "AMB:MGC000002750",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mgc_usdt",
+        "instrumentType": "spot"
+    }
+]

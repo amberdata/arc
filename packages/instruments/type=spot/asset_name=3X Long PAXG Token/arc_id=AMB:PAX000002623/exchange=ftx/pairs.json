@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PAX000002623_AMB:USD000000949",
+        "normalizedPair": "paxgbull_usd",
+        "normalizedSymbol": "paxgbull",
+        "nativePair": "PAXGBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long PAXG Token",
+        "assetArcId": "AMB:PAX000002623",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "paxgbull_usd",
+        "instrumentType": "spot"
+    }
+]

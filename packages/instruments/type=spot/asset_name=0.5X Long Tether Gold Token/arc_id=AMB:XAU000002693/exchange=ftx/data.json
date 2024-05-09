@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XAU000002693_AMB:USD000000949",
+        "normalizedPair": "xauthalf_usd",
+        "normalizedSymbol": "xauthalf",
+        "nativePair": "XAUTHALF/USD",
+        "exchange": "ftx",
+        "assetName": "0.5X Long Tether Gold Token",
+        "assetArcId": "AMB:XAU000002693",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xauthalf_usd",
+        "instrumentType": "spot"
+    }
+]

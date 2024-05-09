@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PUM000002101_AMB:USD000000335",
+        "normalizedPair": "pumbaa_usdt",
+        "normalizedSymbol": "pumbaa",
+        "nativePair": "PUMBAAUSDT",
+        "exchange": "mexc",
+        "assetName": "Pumbaa",
+        "assetArcId": "AMB:PUM000002101",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pumbaa_usdt",
+        "instrumentType": "spot"
+    }
+]

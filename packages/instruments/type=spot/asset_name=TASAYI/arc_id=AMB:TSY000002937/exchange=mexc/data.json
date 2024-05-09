@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TSY000002937_AMB:USD000000335",
+        "normalizedPair": "tsy_usdt",
+        "normalizedSymbol": "tsy",
+        "nativePair": "TSYUSDT",
+        "exchange": "mexc",
+        "assetName": "TASAYI",
+        "assetArcId": "AMB:TSY000002937",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tsy_usdt",
+        "instrumentType": "spot"
+    }
+]

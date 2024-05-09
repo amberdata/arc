@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GSC000002910_AMB:USD000000335",
+        "normalizedPair": "gsc_usdt",
+        "normalizedSymbol": "gsc",
+        "nativePair": "GSCUSDT",
+        "exchange": "mexc",
+        "assetName": "Global Social Chain",
+        "assetArcId": "AMB:GSC000002910",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gsc_usdt",
+        "instrumentType": "spot"
+    }
+]

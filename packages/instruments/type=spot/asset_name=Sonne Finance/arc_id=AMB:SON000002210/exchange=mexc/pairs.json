@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SON000002210_AMB:USD000000335",
+        "normalizedPair": "sonne_usdt",
+        "normalizedSymbol": "sonne",
+        "nativePair": "SONNEUSDT",
+        "exchange": "mexc",
+        "assetName": "Sonne Finance",
+        "assetArcId": "AMB:SON000002210",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sonne_usdt",
+        "instrumentType": "spot"
+    }
+]

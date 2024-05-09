@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "aiakita",
+    "assetName": "AiAkita",
+    "assetArcId": "AMB:AIA000002837",
+    "website": "https://aiakita.dog/",
+    "whitePaperUrl": "https://ai-akita.gitbook.io/docs/whitepaper",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AiAkita/arc_id=AMB:AIA000002837/exchange=mexc/data.json"
+        ]
+    }
+}

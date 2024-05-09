@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHI000001312_AMB:USD000000335",
+        "normalizedPair": "shib42069_usdt",
+        "normalizedSymbol": "shib42069",
+        "nativePair": "SHIB42069_USDT",
+        "exchange": "poloniex",
+        "assetName": "NicCageWaluigiElmo42069Inu",
+        "assetArcId": "AMB:SHI000001312",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shib42069_usdt",
+        "instrumentType": "spot"
+    }
+]

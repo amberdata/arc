@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:GOD000000408_AMB:EUR000000120",
+        "normalizedPair": "gods_eur",
+        "normalizedSymbol": "gods",
+        "nativePair": "godseur",
+        "exchange": "bitstamp",
+        "assetName": "Gods Unchained",
+        "assetArcId": "AMB:GOD000000408",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "gods_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GOD000000408_AMB:USD000000949",
+        "normalizedPair": "gods_usd",
+        "normalizedSymbol": "gods",
+        "nativePair": "godsusd",
+        "exchange": "bitstamp",
+        "assetName": "Gods Unchained",
+        "assetArcId": "AMB:GOD000000408",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "gods_usd",
+        "instrumentType": "spot"
+    }
+]

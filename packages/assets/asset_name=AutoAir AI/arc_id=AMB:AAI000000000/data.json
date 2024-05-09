@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "aai",
+    "assetName": "AutoAir AI",
+    "assetArcId": "AMB:AAI000000000",
+    "website": "https://autoair.xyz/",
+    "whitePaperUrl": "https://autobots-organization.gitbook.io/autoair-ai/getting-started/mission",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AutoAir AI/arc_id=AMB:AAI000000000/exchange=mexc/data.json"
+        ]
+    }
+}

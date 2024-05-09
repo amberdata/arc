@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TWA000000000_AMB:USD000000335",
+        "normalizedPair": "tw_usdt",
+        "normalizedSymbol": "tw",
+        "nativePair": "TWUSDT",
+        "exchange": "mexc",
+        "assetName": "Winners Coin",
+        "assetArcId": "AMB:TWA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tw_usdt",
+        "instrumentType": "spot"
+    }
+]

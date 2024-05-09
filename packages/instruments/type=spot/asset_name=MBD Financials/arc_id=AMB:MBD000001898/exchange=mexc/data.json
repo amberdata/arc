@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MBD000001898_AMB:USD000000335",
+        "normalizedPair": "mbd_usdt",
+        "normalizedSymbol": "mbd",
+        "nativePair": "MBDUSDT",
+        "exchange": "mexc",
+        "assetName": "MBD Financials",
+        "assetArcId": "AMB:MBD000001898",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mbd_usdt",
+        "instrumentType": "spot"
+    }
+]

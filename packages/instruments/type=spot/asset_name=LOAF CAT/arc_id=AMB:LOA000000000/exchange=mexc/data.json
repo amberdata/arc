@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LOA000000000_AMB:USD000000335",
+        "normalizedPair": "loaf_usdt",
+        "normalizedSymbol": "loaf",
+        "nativePair": "LOAFUSDT",
+        "exchange": "mexc",
+        "assetName": "LOAF CAT",
+        "assetArcId": "AMB:LOA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "loaf_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "fan",
+    "assetName": "Film.io",
+    "assetArcId": "AMB:FAN000000000",
+    "website": "https://film.io/sxsw-filmio/",
+    "whitePaperUrl": "https://film.io/blackpaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Film.io/arc_id=AMB:FAN000000000/exchange=mexc/data.json"
+        ]
+    }
+}

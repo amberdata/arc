@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CTA000001570_AMB:USD000000335",
+        "normalizedPair": "ct_usdt",
+        "normalizedSymbol": "ct",
+        "nativePair": "CTUSDT",
+        "exchange": "mexc",
+        "assetName": "Cojam",
+        "assetArcId": "AMB:CTA000001570",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ct_usdt",
+        "instrumentType": "spot"
+    }
+]

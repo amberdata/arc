@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HAT000001742_AMB:USD000000335",
+        "normalizedPair": "hati_usdt",
+        "normalizedSymbol": "hati",
+        "nativePair": "HATIUSDT",
+        "exchange": "mexc",
+        "assetName": "Hati",
+        "assetArcId": "AMB:HAT000001742",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hati_usdt",
+        "instrumentType": "spot"
+    }
+]

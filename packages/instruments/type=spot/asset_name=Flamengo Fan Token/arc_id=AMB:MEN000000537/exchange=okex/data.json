@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MEN000000537_AMB:USD000000335",
+        "normalizedPair": "mengo_usdt",
+        "normalizedSymbol": "mengo",
+        "nativePair": "MENGO-USDT",
+        "exchange": "okex",
+        "assetName": "Flamengo Fan Token",
+        "assetArcId": "AMB:MEN000000537",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mengo_usdt",
+        "instrumentType": "spot"
+    }
+]

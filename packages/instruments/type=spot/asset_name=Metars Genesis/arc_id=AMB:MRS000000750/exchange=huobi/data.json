@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MRS000000750_AMB:USD000000335",
+        "normalizedPair": "mrs_usdt",
+        "normalizedSymbol": "mrs",
+        "nativePair": "mrsusdt",
+        "exchange": "huobi",
+        "assetName": "Metars Genesis",
+        "assetArcId": "AMB:MRS000000750",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mrs_usdt",
+        "instrumentType": "spot"
+    }
+]

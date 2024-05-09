@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GST000000409_AMB:USD000000335",
+        "normalizedPair": "gst_usdt",
+        "normalizedSymbol": "gst",
+        "nativePair": "GSTUSDT",
+        "exchange": "bybit",
+        "assetName": "Green Satoshi Token",
+        "assetArcId": "AMB:GST000000409",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gst_usdt",
+        "instrumentType": "spot"
+    }
+]

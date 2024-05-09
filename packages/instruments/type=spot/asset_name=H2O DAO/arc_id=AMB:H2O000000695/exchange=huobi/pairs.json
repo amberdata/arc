@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:H2O000000695_AMB:USD000000335",
+        "normalizedPair": "h2o_usdt",
+        "normalizedSymbol": "h2o",
+        "nativePair": "h2ousdt",
+        "exchange": "huobi",
+        "assetName": "H2O DAO",
+        "assetArcId": "AMB:H2O000000695",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "h2o_usdt",
+        "instrumentType": "spot"
+    }
+]

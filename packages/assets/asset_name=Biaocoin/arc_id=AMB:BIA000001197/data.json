@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "biao",
+    "assetName": "Biaocoin",
+    "assetArcId": "AMB:BIA000001197",
+    "website": "https://biaocoin.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x00282FD551D03dC033256C4bf119532e8C735D8a"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Biaocoin/arc_id=AMB:BIA000001197/exchange=poloniex/data.json"
+        ]
+    }
+}

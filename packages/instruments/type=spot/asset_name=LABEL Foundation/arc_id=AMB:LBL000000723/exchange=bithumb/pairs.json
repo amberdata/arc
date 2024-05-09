@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LBL000000723_AMB:KRW000000000",
+        "normalizedPair": "lbl_krw",
+        "normalizedSymbol": "lbl",
+        "nativePair": "LBL/KRW",
+        "exchange": "bithumb",
+        "assetName": "LABEL Foundation",
+        "assetArcId": "AMB:LBL000000723",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "lbl_krw",
+        "instrumentType": "spot"
+    }
+]

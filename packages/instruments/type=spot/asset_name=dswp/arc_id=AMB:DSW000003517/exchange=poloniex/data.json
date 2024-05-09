@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DSW000003517_AMB:USD000000335",
+        "normalizedPair": "dswp_usdt",
+        "normalizedSymbol": "dswp",
+        "nativePair": "DSWP_USDT",
+        "exchange": "poloniex",
+        "assetName": "dswp",
+        "assetArcId": "AMB:DSW000003517",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dswp_usdt",
+        "instrumentType": "spot"
+    }
+]

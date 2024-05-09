@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VKT000002320_AMB:USD000000335",
+        "normalizedPair": "vkt_usdt",
+        "normalizedSymbol": "vkt",
+        "nativePair": "VKTUSDT",
+        "exchange": "mexc",
+        "assetName": "Virtual K-Pop Token",
+        "assetArcId": "AMB:VKT000002320",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vkt_usdt",
+        "instrumentType": "spot"
+    }
+]

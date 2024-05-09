@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAS000000207_AMB:USD000000949",
+        "normalizedPair": "mask_usd",
+        "normalizedSymbol": "mask",
+        "nativePair": "MASK/USD",
+        "exchange": "ftx",
+        "assetName": "Mask Network",
+        "assetArcId": "AMB:MAS000000207",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mask_usd",
+        "instrumentType": "spot"
+    }
+]

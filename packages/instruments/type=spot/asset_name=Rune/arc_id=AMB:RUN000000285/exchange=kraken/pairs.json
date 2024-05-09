@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:RUN000000285_AMB:EUR000000120",
+        "normalizedPair": "rune_eur",
+        "normalizedSymbol": "rune",
+        "nativePair": "RUNEEUR",
+        "exchange": "kraken",
+        "assetName": "Rune",
+        "assetArcId": "AMB:RUN000000285",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "rune_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RUN000000285_AMB:USD000000949",
+        "normalizedPair": "rune_usd",
+        "normalizedSymbol": "rune",
+        "nativePair": "RUNEUSD",
+        "exchange": "kraken",
+        "assetName": "Rune",
+        "assetArcId": "AMB:RUN000000285",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "rune_usd",
+        "instrumentType": "spot"
+    }
+]

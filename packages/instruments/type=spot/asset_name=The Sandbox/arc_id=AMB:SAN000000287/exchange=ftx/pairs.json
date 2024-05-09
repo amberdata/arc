@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAN000000287_AMB:USD000000949",
+        "normalizedPair": "sand_usd",
+        "normalizedSymbol": "sand",
+        "nativePair": "SAND/USD",
+        "exchange": "ftx",
+        "assetName": "The Sandbox",
+        "assetArcId": "AMB:SAN000000287",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sand_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ACO000000000_AMB:USD000000335",
+        "normalizedPair": "acornbits_usdt",
+        "normalizedSymbol": "acornbits",
+        "nativePair": "ACORNBITSUSDT",
+        "exchange": "mexc",
+        "assetName": "AcornBits",
+        "assetArcId": "AMB:ACO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "acornbits_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KOK000000715_AMB:USD000000335",
+        "normalizedPair": "kok_usdt",
+        "normalizedSymbol": "kok",
+        "nativePair": "kokusdt",
+        "exchange": "huobi",
+        "assetName": "KOK",
+        "assetArcId": "AMB:KOK000000715",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kok_usdt",
+        "instrumentType": "spot"
+    }
+]

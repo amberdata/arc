@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SOO000002211_AMB:USD000000335",
+        "normalizedPair": "soon_usdt",
+        "normalizedSymbol": "soon",
+        "nativePair": "SOONUSDT",
+        "exchange": "mexc",
+        "assetName": "SoonVerse",
+        "assetArcId": "AMB:SOO000002211",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "soon_usdt",
+        "instrumentType": "spot"
+    }
+]

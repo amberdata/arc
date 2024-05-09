@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MCP000000000_AMB:USD000000335",
+        "normalizedPair": "mcpe_usdt",
+        "normalizedSymbol": "mcpe",
+        "nativePair": "MCPEUSDT",
+        "exchange": "mexc",
+        "assetName": "MAGA ClownPepe",
+        "assetArcId": "AMB:MCP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mcpe_usdt",
+        "instrumentType": "spot"
+    }
+]

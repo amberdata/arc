@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "kalis",
+    "assetName": "KALICHAIN",
+    "assetArcId": "AMB:KAL000000000",
+    "website": "https://www.kalichain.com/",
+    "whitePaperUrl": "https://whitepaper.kalichain.com/",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=KALICHAIN/arc_id=AMB:KAL000000000/exchange=mexc/data.json"
+        ]
+    }
+}

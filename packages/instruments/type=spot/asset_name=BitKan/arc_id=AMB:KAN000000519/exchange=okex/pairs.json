@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KAN000000519_AMB:USD000000335",
+        "normalizedPair": "kan_usdt",
+        "normalizedSymbol": "kan",
+        "nativePair": "KAN-USDT",
+        "exchange": "okex",
+        "assetName": "BitKan",
+        "assetArcId": "AMB:KAN000000519",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kan_usdt",
+        "instrumentType": "spot"
+    }
+]

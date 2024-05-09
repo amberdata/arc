@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FOA000001680_AMB:USD000000335",
+        "normalizedPair": "fo_usdt",
+        "normalizedSymbol": "fo",
+        "nativePair": "FOUSDT",
+        "exchange": "mexc",
+        "assetName": "FIBOS",
+        "assetArcId": "AMB:FOA000001680",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fo_usdt",
+        "instrumentType": "spot"
+    }
+]

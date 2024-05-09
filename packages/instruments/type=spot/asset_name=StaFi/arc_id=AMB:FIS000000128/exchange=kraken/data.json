@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:FIS000000128_AMB:EUR000000120",
+        "normalizedPair": "fis_eur",
+        "normalizedSymbol": "fis",
+        "nativePair": "FISEUR",
+        "exchange": "kraken",
+        "assetName": "StaFi",
+        "assetArcId": "AMB:FIS000000128",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "fis_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FIS000000128_AMB:USD000000949",
+        "normalizedPair": "fis_usd",
+        "normalizedSymbol": "fis",
+        "nativePair": "FISUSD",
+        "exchange": "kraken",
+        "assetName": "StaFi",
+        "assetArcId": "AMB:FIS000000128",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "fis_usd",
+        "instrumentType": "spot"
+    }
+]

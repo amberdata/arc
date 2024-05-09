@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "bul",
+    "assetName": "BullLauncher",
+    "assetArcId": "AMB:BUL000002778",
+    "website": "https://bulllauncher.com/",
+    "whitePaperUrl": "https://docs.bulllauncher.com/",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BullLauncher/arc_id=AMB:BUL000002778/exchange=mexc/data.json"
+        ]
+    }
+}

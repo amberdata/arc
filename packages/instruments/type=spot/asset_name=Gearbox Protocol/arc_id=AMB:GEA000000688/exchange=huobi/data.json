@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GEA000000688_AMB:USD000000335",
+        "normalizedPair": "gearbox_usdt",
+        "normalizedSymbol": "gearbox",
+        "nativePair": "gearboxusdt",
+        "exchange": "huobi",
+        "assetName": "Gearbox Protocol",
+        "assetArcId": "AMB:GEA000000688",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gearbox_usdt",
+        "instrumentType": "spot"
+    }
+]

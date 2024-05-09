@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UPO000002312_AMB:USD000000335",
+        "normalizedPair": "upo_usdt",
+        "normalizedSymbol": "upo",
+        "nativePair": "UPOUSDT",
+        "exchange": "mexc",
+        "assetName": "UpOnly",
+        "assetArcId": "AMB:UPO000002312",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "upo_usdt",
+        "instrumentType": "spot"
+    }
+]

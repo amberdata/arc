@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LCX000000417_AMB:EUR000000120",
+        "normalizedPair": "lcx_eur",
+        "normalizedSymbol": "lcx",
+        "nativePair": "LCXEUR",
+        "exchange": "kraken",
+        "assetName": "LCX",
+        "assetArcId": "AMB:LCX000000417",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "lcx_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LCX000000417_AMB:USD000000949",
+        "normalizedPair": "lcx_usd",
+        "normalizedSymbol": "lcx",
+        "nativePair": "LCXUSD",
+        "exchange": "kraken",
+        "assetName": "LCX",
+        "assetArcId": "AMB:LCX000000417",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "lcx_usd",
+        "instrumentType": "spot"
+    }
+]

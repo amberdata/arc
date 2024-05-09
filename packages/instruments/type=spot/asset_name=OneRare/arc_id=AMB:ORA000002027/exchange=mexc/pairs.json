@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ORA000002027_AMB:USD000000335",
+        "normalizedPair": "orare_usdt",
+        "normalizedSymbol": "orare",
+        "nativePair": "ORAREUSDT",
+        "exchange": "mexc",
+        "assetName": "OneRare",
+        "assetArcId": "AMB:ORA000002027",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "orare_usdt",
+        "instrumentType": "spot"
+    }
+]

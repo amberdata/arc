@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DUS000000107_AMB:USD000000335",
+        "normalizedPair": "dusk_usdt",
+        "normalizedSymbol": "dusk",
+        "nativePair": "duskusdt",
+        "exchange": "huobi",
+        "assetName": "Dusk",
+        "assetArcId": "AMB:DUS000000107",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dusk_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRB000000322_AMB:USD000000335",
+        "normalizedPair": "trb_usdt",
+        "normalizedSymbol": "trb",
+        "nativePair": "TRB_USDT",
+        "exchange": "poloniex",
+        "assetName": "Tellor",
+        "assetArcId": "AMB:TRB000000322",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trb_usdt",
+        "instrumentType": "spot"
+    }
+]

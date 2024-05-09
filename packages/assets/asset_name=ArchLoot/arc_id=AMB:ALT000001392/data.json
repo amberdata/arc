@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "alt0",
+    "assetName": "ArchLoot",
+    "assetArcId": "AMB:ALT000001392",
+    "website": "https://archloot.com/",
+    "whitePaperUrl": "https://docs.archloot.com/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ArchLoot/arc_id=AMB:ALT000001392/exchange=mexc/data.json"
+        ]
+    }
+}

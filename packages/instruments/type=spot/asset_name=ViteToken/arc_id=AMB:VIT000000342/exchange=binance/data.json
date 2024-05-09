@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:VIT000000342_AMB:BTC000000000",
+        "normalizedPair": "vite_btc",
+        "normalizedSymbol": "vite",
+        "nativePair": "VITEBTC",
+        "exchange": "binance",
+        "assetName": "ViteToken",
+        "assetArcId": "AMB:VIT000000342",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "vite_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:VIT000000342_AMB:USD000000335",
+        "normalizedPair": "vite_usdt",
+        "normalizedSymbol": "vite",
+        "nativePair": "VITEUSDT",
+        "exchange": "binance",
+        "assetName": "ViteToken",
+        "assetArcId": "AMB:VIT000000342",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vite_usdt",
+        "instrumentType": "spot"
+    }
+]

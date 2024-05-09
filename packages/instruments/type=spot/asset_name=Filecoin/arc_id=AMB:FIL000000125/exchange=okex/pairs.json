@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:BTC000000000",
+        "normalizedPair": "fil_btc",
+        "normalizedSymbol": "fil",
+        "nativePair": "FIL-BTC",
+        "exchange": "okex",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "fil_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:ETH000000000",
+        "normalizedPair": "fil_eth",
+        "normalizedSymbol": "fil",
+        "nativePair": "FIL-ETH",
+        "exchange": "okex",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "fil_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:USD000000333",
+        "normalizedPair": "fil_usdc",
+        "normalizedSymbol": "fil",
+        "nativePair": "FIL-USDC",
+        "exchange": "okex",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "fil_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FIL000000125_AMB:USD000000335",
+        "normalizedPair": "fil_usdt",
+        "normalizedSymbol": "fil",
+        "nativePair": "FIL-USDT",
+        "exchange": "okex",
+        "assetName": "Filecoin",
+        "assetArcId": "AMB:FIL000000125",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fil_usdt",
+        "instrumentType": "spot"
+    }
+]

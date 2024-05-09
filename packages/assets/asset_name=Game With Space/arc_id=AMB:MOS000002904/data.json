@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "mospace",
+    "assetName": "Game With Space",
+    "assetArcId": "AMB:MOS000002904",
+    "website": "https://gamewithspace.com/",
+    "whitePaperUrl": "http://gamewithspace.com/wp-content/uploads/2023/10/GWS-Whitepaper.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Game With Space/arc_id=AMB:MOS000002904/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MCB000001900_AMB:USD000000949",
+        "normalizedPair": "mcb_usd",
+        "normalizedSymbol": "mcb",
+        "nativePair": "MCB/USD",
+        "exchange": "ftx",
+        "assetName": "MUX Protocol",
+        "assetArcId": "AMB:MCB000001900",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mcb_usd",
+        "instrumentType": "spot"
+    }
+]

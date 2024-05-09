@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XEN000002370_AMB:USD000000335",
+        "normalizedPair": "xend_usdt",
+        "normalizedSymbol": "xend",
+        "nativePair": "XENDUSDT",
+        "exchange": "mexc",
+        "assetName": "Xend Finance",
+        "assetArcId": "AMB:XEN000002370",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xend_usdt",
+        "instrumentType": "spot"
+    }
+]

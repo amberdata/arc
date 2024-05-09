@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CGP000001012_AMB:USD000000335",
+        "normalizedPair": "cgpt_usdt",
+        "normalizedSymbol": "cgpt",
+        "nativePair": "CGPT_USDT",
+        "exchange": "poloniex",
+        "assetName": "ChainGPT",
+        "assetArcId": "AMB:CGP000001012",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cgpt_usdt",
+        "instrumentType": "spot"
+    }
+]

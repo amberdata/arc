@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "pepera",
+    "assetName": "PEPERA",
+    "assetArcId": "AMB:PEP000002063",
+    "website": "https://www.pepera.io/",
+    "whitePaperUrl": "/how-to-buy/PEPERA?utm_source=mexc&utm_medium=tokenifoPEPERA&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PEPERA/arc_id=AMB:PEP000002063/exchange=mexc/data.json"
+        ]
+    }
+}

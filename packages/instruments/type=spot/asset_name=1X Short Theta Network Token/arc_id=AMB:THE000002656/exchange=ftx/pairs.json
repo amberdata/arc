@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:THE000002656_AMB:USD000000949",
+        "normalizedPair": "thetahedge_usd",
+        "normalizedSymbol": "thetahedge",
+        "nativePair": "THETAHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short Theta Network Token",
+        "assetArcId": "AMB:THE000002656",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "thetahedge_usd",
+        "instrumentType": "spot"
+    }
+]

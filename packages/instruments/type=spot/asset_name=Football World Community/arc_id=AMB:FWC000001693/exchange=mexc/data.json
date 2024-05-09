@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FWC000001693_AMB:USD000000335",
+        "normalizedPair": "fwc_usdt",
+        "normalizedSymbol": "fwc",
+        "nativePair": "FWCUSDT",
+        "exchange": "mexc",
+        "assetName": "Football World Community",
+        "assetArcId": "AMB:FWC000001693",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fwc_usdt",
+        "instrumentType": "spot"
+    }
+]

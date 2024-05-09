@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRL000002282_AMB:USD000000335",
+        "normalizedPair": "trl_usdt",
+        "normalizedSymbol": "trl",
+        "nativePair": "TRLUSDT",
+        "exchange": "mexc",
+        "assetName": "Triall",
+        "assetArcId": "AMB:TRL000002282",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trl_usdt",
+        "instrumentType": "spot"
+    }
+]

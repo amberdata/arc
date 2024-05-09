@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MRP000000000_AMB:USD000000335",
+        "normalizedPair": "mrpt_usdt",
+        "normalizedSymbol": "mrpt",
+        "nativePair": "MRPTUSDT",
+        "exchange": "mexc",
+        "assetName": "Marpto",
+        "assetArcId": "AMB:MRP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mrpt_usdt",
+        "instrumentType": "spot"
+    }
+]

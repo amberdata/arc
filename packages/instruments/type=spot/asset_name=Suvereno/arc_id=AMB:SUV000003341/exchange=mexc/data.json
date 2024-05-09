@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SUV000003341_AMB:USD000000335",
+        "normalizedPair": "suv_usdt",
+        "normalizedSymbol": "suv",
+        "nativePair": "SUVUSDT",
+        "exchange": "mexc",
+        "assetName": "Suvereno",
+        "assetArcId": "AMB:SUV000003341",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "suv_usdt",
+        "instrumentType": "spot"
+    }
+]

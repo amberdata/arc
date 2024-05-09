@@ -1,0 +1,31 @@
+{
+    "assetSymbol": "api3",
+    "assetName": "API3",
+    "assetArcId": "AMB:API000000022",
+    "website": "https://api3.org/",
+    "whitePaperUrl": "https://drive.google.com/file/d/1GzkLKc6DYxImgeDhoKLA4wHGlE0eGGgo/view",
+    "classificationTags": [
+        "Governance",
+        "Smart Contract"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=API3/arc_id=AMB:API000000022/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=API3/arc_id=AMB:API000000022/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=API3/arc_id=AMB:API000000022/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=API3/arc_id=AMB:API000000022/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=API3/arc_id=AMB:API000000022/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=API3/arc_id=AMB:API000000022/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=API3/arc_id=AMB:API000000022/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=API3/arc_id=AMB:API000000022/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=API3/arc_id=AMB:API000000022/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=API3/arc_id=AMB:API000000022/exchange=mexc/data.json"
+        ]
+    }
+}

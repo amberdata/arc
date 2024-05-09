@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:LTC000000200_AMB:BTC000000000",
+        "normalizedPair": "ltc_btc",
+        "normalizedSymbol": "ltc",
+        "nativePair": "LTC/BTC",
+        "exchange": "ftx",
+        "assetName": "Litecoin",
+        "assetArcId": "AMB:LTC000000200",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ltc_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LTC000000200_AMB:JPY000000903",
+        "normalizedPair": "ltc_jpy",
+        "normalizedSymbol": "ltc",
+        "nativePair": "LTC/JPY",
+        "exchange": "ftx",
+        "assetName": "Litecoin",
+        "assetArcId": "AMB:LTC000000200",
+        "quoteArcId": "AMB:JPY000000903",
+        "collectedPair": "ltc_jpy",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LTC000000200_AMB:USD000000949",
+        "normalizedPair": "ltc_usd",
+        "normalizedSymbol": "ltc",
+        "nativePair": "LTC/USD",
+        "exchange": "ftx",
+        "assetName": "Litecoin",
+        "assetArcId": "AMB:LTC000000200",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ltc_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LTC000000200_AMB:USD000000335",
+        "normalizedPair": "ltc_usdt",
+        "normalizedSymbol": "ltc",
+        "nativePair": "LTC/USDT",
+        "exchange": "ftx",
+        "assetName": "Litecoin",
+        "assetArcId": "AMB:LTC000000200",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ltc_usdt",
+        "instrumentType": "spot"
+    }
+]

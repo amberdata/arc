@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "xa",
+    "assetName": "XLV",
+    "assetArcId": "AMB:XAA000000000",
+    "website": "https://xaim.live/",
+    "whitePaperUrl": "https://docs.xaim.live/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=XLV/arc_id=AMB:XAA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

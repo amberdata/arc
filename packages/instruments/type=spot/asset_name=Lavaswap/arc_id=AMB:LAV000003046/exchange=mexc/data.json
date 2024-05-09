@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LAV000003046_AMB:USD000000335",
+        "normalizedPair": "lava_usdt",
+        "normalizedSymbol": "lava",
+        "nativePair": "LAVAUSDT",
+        "exchange": "mexc",
+        "assetName": "Lavaswap",
+        "assetArcId": "AMB:LAV000003046",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lava_usdt",
+        "instrumentType": "spot"
+    }
+]

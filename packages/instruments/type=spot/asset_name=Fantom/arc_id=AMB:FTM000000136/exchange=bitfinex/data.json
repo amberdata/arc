@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:FTM000000136_AMB:USD000000949",
+        "normalizedPair": "ftm_usd",
+        "normalizedSymbol": "ftm",
+        "nativePair": "tFTMUSD",
+        "exchange": "bitfinex",
+        "assetName": "Fantom",
+        "assetArcId": "AMB:FTM000000136",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ftm_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FTM000000136_AMB:USD000000335",
+        "normalizedPair": "ftm_usdt",
+        "normalizedSymbol": "ftm",
+        "nativePair": "tFTMUST",
+        "exchange": "bitfinex",
+        "assetName": "Fantom",
+        "assetArcId": "AMB:FTM000000136",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ftm_usdt",
+        "instrumentType": "spot"
+    }
+]

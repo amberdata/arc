@@ -1,0 +1,98 @@
+[
+    {
+        "arcPairId": "AMB:ETC000000117_AMB:BNB000000055",
+        "normalizedPair": "etc_bnb",
+        "normalizedSymbol": "etc",
+        "nativePair": "ETCBNB",
+        "exchange": "binance",
+        "assetName": "Ethereum Classic",
+        "assetArcId": "AMB:ETC000000117",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "etc_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ETC000000117_AMB:BTC000000000",
+        "normalizedPair": "etc_btc",
+        "normalizedSymbol": "etc",
+        "nativePair": "ETCBTC",
+        "exchange": "binance",
+        "assetName": "Ethereum Classic",
+        "assetArcId": "AMB:ETC000000117",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "etc_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ETC000000117_AMB:BUS000000067",
+        "normalizedPair": "etc_busd",
+        "normalizedSymbol": "etc",
+        "nativePair": "ETCBUSD",
+        "exchange": "binance",
+        "assetName": "Ethereum Classic",
+        "assetArcId": "AMB:ETC000000117",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "etc_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ETC000000117_AMB:ETH000000000",
+        "normalizedPair": "etc_eth",
+        "normalizedSymbol": "etc",
+        "nativePair": "ETCETH",
+        "exchange": "binance",
+        "assetName": "Ethereum Classic",
+        "assetArcId": "AMB:ETC000000117",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "etc_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ETC000000117_AMB:EUR000000120",
+        "normalizedPair": "etc_eur",
+        "normalizedSymbol": "etc",
+        "nativePair": "ETCEUR",
+        "exchange": "binance",
+        "assetName": "Ethereum Classic",
+        "assetArcId": "AMB:ETC000000117",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "etc_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ETC000000117_AMB:TRY000000940",
+        "normalizedPair": "etc_try",
+        "normalizedSymbol": "etc",
+        "nativePair": "ETCTRY",
+        "exchange": "binance",
+        "assetName": "Ethereum Classic",
+        "assetArcId": "AMB:ETC000000117",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "etc_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ETC000000117_AMB:USD000000335",
+        "normalizedPair": "etc_usdt",
+        "normalizedSymbol": "etc",
+        "nativePair": "ETCUSDT",
+        "exchange": "binance",
+        "assetName": "Ethereum Classic",
+        "assetArcId": "AMB:ETC000000117",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "etc_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ETC000000117_AMB:FDU000000122",
+        "normalizedPair": "etc_fdusd",
+        "normalizedSymbol": "etc",
+        "nativePair": "ETCFDUSD",
+        "exchange": "binance",
+        "assetName": "Ethereum Classic",
+        "assetArcId": "AMB:ETC000000117",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "etc_fdusd",
+        "instrumentType": "spot"
+    }
+]

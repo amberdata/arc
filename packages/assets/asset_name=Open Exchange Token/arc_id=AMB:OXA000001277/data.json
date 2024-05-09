@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "ox",
+    "assetName": "Open Exchange Token",
+    "assetArcId": "AMB:OXA000001277",
+    "website": "https://opnx.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Transparent"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x78a0a62fba6fb21a83fe8a3433d44c73a4017a6f"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Open Exchange Token/arc_id=AMB:OXA000001277/exchange=poloniex/data.json"
+        ]
+    }
+}

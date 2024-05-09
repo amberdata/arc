@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SVP000000000_AMB:USD000000335",
+        "normalizedPair": "svpn_usdt",
+        "normalizedSymbol": "svpn",
+        "nativePair": "SVPNUSDT",
+        "exchange": "mexc",
+        "assetName": "Shadow Node",
+        "assetArcId": "AMB:SVP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "svpn_usdt",
+        "instrumentType": "spot"
+    }
+]

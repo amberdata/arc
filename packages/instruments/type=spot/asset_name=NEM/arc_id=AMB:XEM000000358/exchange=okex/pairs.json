@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XEM000000358_AMB:USD000000335",
+        "normalizedPair": "xem_usdt",
+        "normalizedSymbol": "xem",
+        "nativePair": "XEM-USDT",
+        "exchange": "okex",
+        "assetName": "NEM",
+        "assetArcId": "AMB:XEM000000358",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xem_usdt",
+        "instrumentType": "spot"
+    }
+]

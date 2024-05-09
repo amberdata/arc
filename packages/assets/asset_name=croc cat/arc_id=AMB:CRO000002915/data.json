@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "croccat",
+    "assetName": "croc cat",
+    "assetArcId": "AMB:CRO000002915",
+    "website": "https://croccatsolana.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "5V9qpFo8NMFyhYHbrqY2c1TJrvzZSnRJAdj4ryPVB18n"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=croc cat/arc_id=AMB:CRO000002915/exchange=poloniex/data.json"
+        ]
+    }
+}

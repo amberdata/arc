@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "mona",
+    "assetName": "Monavale",
+    "assetArcId": "AMB:MON000000424",
+    "website": "https://www.digitalax.xyz/",
+    "whitePaperUrl": "https://www.digitalax.xyz/whitepaper",
+    "classificationTags": [
+        "DEX"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x275f5ad03be0fa221b4c6649b8aee09a42d9412a"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Monavale/arc_id=AMB:MON000000424/exchange=gdax/data.json"
+        ]
+    }
+}

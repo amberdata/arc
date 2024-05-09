@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAB000002466_AMB:USD000000949",
+        "normalizedPair": "baba_usd",
+        "normalizedSymbol": "baba",
+        "nativePair": "BABA/USD",
+        "exchange": "ftx",
+        "assetName": "Alibaba Tokenized Stock",
+        "assetArcId": "AMB:BAB000002466",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "baba_usd",
+        "instrumentType": "spot"
+    }
+]

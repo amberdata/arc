@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:INJ000000170_AMB:USD000000949",
+        "normalizedPair": "inj_usd",
+        "normalizedSymbol": "inj",
+        "nativePair": "injusd",
+        "exchange": "gemini",
+        "assetName": "Injective",
+        "assetArcId": "AMB:INJ000000170",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "inj_usd",
+        "instrumentType": "spot"
+    }
+]

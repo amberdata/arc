@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "shares",
+    "assetName": "shares.finance",
+    "assetArcId": "AMB:SHA000001308",
+    "website": "https://shares.finance/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xebb82c932759b515b2efc1cfbb6bf2f6dbace404"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=shares.finance/arc_id=AMB:SHA000001308/exchange=poloniex/data.json"
+        ]
+    }
+}

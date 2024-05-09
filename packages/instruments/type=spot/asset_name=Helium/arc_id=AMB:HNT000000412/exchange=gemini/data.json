@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HNT000000412_AMB:USD000000949",
+        "normalizedPair": "hnt_usd",
+        "normalizedSymbol": "hnt",
+        "nativePair": "hntusd",
+        "exchange": "gemini",
+        "assetName": "Helium",
+        "assetArcId": "AMB:HNT000000412",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "hnt_usd",
+        "instrumentType": "spot"
+    }
+]

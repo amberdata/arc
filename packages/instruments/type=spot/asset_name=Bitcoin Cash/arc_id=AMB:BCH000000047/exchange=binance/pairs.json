@@ -1,0 +1,86 @@
+[
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:BNB000000055",
+        "normalizedPair": "bch_bnb",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCHBNB",
+        "exchange": "binance",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "bch_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:BTC000000000",
+        "normalizedPair": "bch_btc",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCHBTC",
+        "exchange": "binance",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "bch_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:BUS000000067",
+        "normalizedPair": "bch_busd",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCHBUSD",
+        "exchange": "binance",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "bch_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:EUR000000120",
+        "normalizedPair": "bch_eur",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCHEUR",
+        "exchange": "binance",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "bch_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:TRY000000940",
+        "normalizedPair": "bch_try",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCHTRY",
+        "exchange": "binance",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "bch_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:TUS000000326",
+        "normalizedPair": "bch_tusd",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCHTUSD",
+        "exchange": "binance",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "bch_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:USD000000335",
+        "normalizedPair": "bch_usdt",
+        "normalizedSymbol": "bch",
+        "nativePair": "BCHUSDT",
+        "exchange": "binance",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bch_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:TAA000000315_AMB:BUS000000067",
+        "normalizedPair": "t_busd",
+        "normalizedSymbol": "t",
+        "nativePair": "TBUSD",
+        "exchange": "binance",
+        "assetName": "Threshold",
+        "assetArcId": "AMB:TAA000000315",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "t_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TAA000000315_AMB:USD000000335",
+        "normalizedPair": "t_usdt",
+        "normalizedSymbol": "t",
+        "nativePair": "TUSDT",
+        "exchange": "binance",
+        "assetName": "Threshold",
+        "assetArcId": "AMB:TAA000000315",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "t_usdt",
+        "instrumentType": "spot"
+    }
+]

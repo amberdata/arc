@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "canto",
+    "assetName": "CANTO",
+    "assetArcId": "AMB:CAN000001514",
+    "website": "https://canto.io/",
+    "whitePaperUrl": "https://docs.canto.io/overview/canto-unit-of-account-usdnote",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=CANTO/arc_id=AMB:CAN000001514/exchange=mexc/data.json"
+        ]
+    }
+}

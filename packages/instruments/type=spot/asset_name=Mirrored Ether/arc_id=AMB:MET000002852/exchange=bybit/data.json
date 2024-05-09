@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MET000002852_AMB:USD000000335",
+        "normalizedPair": "meth_usdt",
+        "normalizedSymbol": "meth",
+        "nativePair": "METHUSDT",
+        "exchange": "bybit",
+        "assetName": "Mirrored Ether",
+        "assetArcId": "AMB:MET000002852",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "meth_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MET000002852_AMB:ETH000000000",
+        "normalizedPair": "meth_eth",
+        "normalizedSymbol": "meth",
+        "nativePair": "METHETH",
+        "exchange": "bybit",
+        "assetName": "Mirrored Ether",
+        "assetArcId": "AMB:MET000002852",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "meth_eth",
+        "instrumentType": "spot"
+    }
+]

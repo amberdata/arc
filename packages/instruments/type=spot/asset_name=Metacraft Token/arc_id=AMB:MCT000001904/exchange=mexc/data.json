@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MCT000001904_AMB:USD000000335",
+        "normalizedPair": "mctp_usdt",
+        "normalizedSymbol": "mctp",
+        "nativePair": "MCTPUSDT",
+        "exchange": "mexc",
+        "assetName": "Metacraft Token",
+        "assetArcId": "AMB:MCT000001904",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mctp_usdt",
+        "instrumentType": "spot"
+    }
+]

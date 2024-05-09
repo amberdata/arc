@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:WLD000000352_AMB:BTC000000000",
+        "normalizedPair": "wld_btc",
+        "normalizedSymbol": "wld",
+        "nativePair": "WLDBTC",
+        "exchange": "binance",
+        "assetName": "Worldcoin",
+        "assetArcId": "AMB:WLD000000352",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "wld_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WLD000000352_AMB:RUB000000000",
+        "normalizedPair": "wld_rub",
+        "normalizedSymbol": "wld",
+        "nativePair": "WLDRUB",
+        "exchange": "binance",
+        "assetName": "Worldcoin",
+        "assetArcId": "AMB:WLD000000352",
+        "quoteArcId": "AMB:RUB000000000",
+        "collectedPair": "wld_rub",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WLD000000352_AMB:TRY000000940",
+        "normalizedPair": "wld_try",
+        "normalizedSymbol": "wld",
+        "nativePair": "WLDTRY",
+        "exchange": "binance",
+        "assetName": "Worldcoin",
+        "assetArcId": "AMB:WLD000000352",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "wld_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WLD000000352_AMB:USD000000335",
+        "normalizedPair": "wld_usdt",
+        "normalizedSymbol": "wld",
+        "nativePair": "WLDUSDT",
+        "exchange": "binance",
+        "assetName": "Worldcoin",
+        "assetArcId": "AMB:WLD000000352",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wld_usdt",
+        "instrumentType": "spot"
+    }
+]

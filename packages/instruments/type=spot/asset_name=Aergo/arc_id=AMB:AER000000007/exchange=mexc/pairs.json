@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AER000000007_AMB:USD000000335",
+        "normalizedPair": "aergo_usdt",
+        "normalizedSymbol": "aergo",
+        "nativePair": "AERGOUSDT",
+        "exchange": "mexc",
+        "assetName": "Aergo",
+        "assetArcId": "AMB:AER000000007",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aergo_usdt",
+        "instrumentType": "spot"
+    }
+]

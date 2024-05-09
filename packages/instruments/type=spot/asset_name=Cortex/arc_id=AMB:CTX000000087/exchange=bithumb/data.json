@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CTX000000087_AMB:KRW000000000",
+        "normalizedPair": "ctxc_krw",
+        "normalizedSymbol": "ctxc",
+        "nativePair": "CTXC/KRW",
+        "exchange": "bithumb",
+        "assetName": "Cortex",
+        "assetArcId": "AMB:CTX000000087",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "ctxc_krw",
+        "instrumentType": "spot"
+    }
+]

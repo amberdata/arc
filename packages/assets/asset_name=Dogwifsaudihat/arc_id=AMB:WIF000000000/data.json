@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "wifsa",
+    "assetName": "Dogwifsaudihat",
+    "assetArcId": "AMB:WIF000000000",
+    "website": "https://dogwifsaudihat.com",
+    "whitePaperUrl": "/how-to-buy/WIFSA?utm_source=mexc&utm_medium=tokenifoWIFSA&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dogwifsaudihat/arc_id=AMB:WIF000000000/exchange=mexc/data.json"
+        ]
+    }
+}

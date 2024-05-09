@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LNG000000000_AMB:USD000000335",
+        "normalizedPair": "lngai_usdt",
+        "normalizedSymbol": "lngai",
+        "nativePair": "LNGAIUSDT",
+        "exchange": "mexc",
+        "assetName": "Lightning AI",
+        "assetArcId": "AMB:LNG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lngai_usdt",
+        "instrumentType": "spot"
+    }
+]

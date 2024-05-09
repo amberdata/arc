@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:THO000000000_AMB:USD000000335",
+        "normalizedPair": "tholana_usdt",
+        "normalizedSymbol": "tholana",
+        "nativePair": "THOLANAUSDT",
+        "exchange": "mexc",
+        "assetName": "Tholana",
+        "assetArcId": "AMB:THO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tholana_usdt",
+        "instrumentType": "spot"
+    }
+]

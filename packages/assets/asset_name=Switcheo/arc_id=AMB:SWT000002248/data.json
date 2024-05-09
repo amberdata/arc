@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "swth",
+    "assetName": "Switcheo",
+    "assetArcId": "AMB:SWT000002248",
+    "website": "https://github.com/Switcheo",
+    "whitePaperUrl": "https://switcheo.network/whitepaper_v1.pdf",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

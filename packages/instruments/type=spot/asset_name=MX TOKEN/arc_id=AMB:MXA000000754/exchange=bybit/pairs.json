@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MXA000000754_AMB:USD000000335",
+        "normalizedPair": "mx_usdt",
+        "normalizedSymbol": "mx",
+        "nativePair": "MXUSDT",
+        "exchange": "bybit",
+        "assetName": "MX TOKEN",
+        "assetArcId": "AMB:MXA000000754",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mx_usdt",
+        "instrumentType": "spot"
+    }
+]

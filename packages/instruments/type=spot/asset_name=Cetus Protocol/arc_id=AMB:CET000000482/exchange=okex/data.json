@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:CET000000482_AMB:USD000000335",
+        "normalizedPair": "cetus_usdt",
+        "normalizedSymbol": "cetus",
+        "nativePair": "CETUS-USDT",
+        "exchange": "okex",
+        "assetName": "Cetus Protocol",
+        "assetArcId": "AMB:CET000000482",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cetus_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CET000000482_AMB:USD000000333",
+        "normalizedPair": "cetus_usdc",
+        "normalizedSymbol": "cetus",
+        "nativePair": "CETUS-USDC",
+        "exchange": "okex",
+        "assetName": "Cetus Protocol",
+        "assetArcId": "AMB:CET000000482",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "cetus_usdc",
+        "instrumentType": "spot"
+    }
+]

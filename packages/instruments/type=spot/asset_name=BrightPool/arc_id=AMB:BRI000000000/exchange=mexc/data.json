@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BRI000000000_AMB:USD000000335",
+        "normalizedPair": "bri_usdt",
+        "normalizedSymbol": "bri",
+        "nativePair": "BRIUSDT",
+        "exchange": "mexc",
+        "assetName": "BrightPool",
+        "assetArcId": "AMB:BRI000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bri_usdt",
+        "instrumentType": "spot"
+    }
+]

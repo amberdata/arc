@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LOO000000195_AMB:USD000000335",
+        "normalizedPair": "loom_usdt",
+        "normalizedSymbol": "loom",
+        "nativePair": "LOOMUSDT",
+        "exchange": "binanceus",
+        "assetName": "Loom Network",
+        "assetArcId": "AMB:LOO000000195",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "loom_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ONT000002021_AMB:USD000000335",
+        "normalizedPair": "ontp_usdt",
+        "normalizedSymbol": "ontp",
+        "nativePair": "ONTPUSDT",
+        "exchange": "mexc",
+        "assetName": "ONTP",
+        "assetArcId": "AMB:ONT000002021",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ontp_usdt",
+        "instrumentType": "spot"
+    }
+]

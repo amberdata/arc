@@ -1,0 +1,27 @@
+{
+    "assetSymbol": "loka",
+    "assetName": "League of Kingdoms Arena",
+    "assetArcId": "AMB:LOK000000194",
+    "website": "https://www.leagueofkingdoms.com/",
+    "whitePaperUrl": "https://whitepaper.playersarena.foundation/loka/",
+    "classificationTags": [
+        "Gaming",
+        "Governance",
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x61e90a50137e1f645c9ef4a0d3a4f01477738406"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=League of Kingdoms Arena/arc_id=AMB:LOK000000194/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=League of Kingdoms Arena/arc_id=AMB:LOK000000194/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=League of Kingdoms Arena/arc_id=AMB:LOK000000194/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=League of Kingdoms Arena/arc_id=AMB:LOK000000194/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=League of Kingdoms Arena/arc_id=AMB:LOK000000194/exchange=poloniex/data.json"
+        ]
+    }
+}

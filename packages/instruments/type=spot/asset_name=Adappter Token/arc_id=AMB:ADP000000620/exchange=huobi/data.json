@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ADP000000620_AMB:USD000000335",
+        "normalizedPair": "adp_usdt",
+        "normalizedSymbol": "adp",
+        "nativePair": "adpusdt",
+        "exchange": "huobi",
+        "assetName": "Adappter Token",
+        "assetArcId": "AMB:ADP000000620",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "adp_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dor",
+    "assetName": "Dor Technologies",
+    "assetArcId": "AMB:DOR000000000",
+    "website": "https://www.getdor.com/",
+    "whitePaperUrl": "https://docs.getdor.com/dtm-docs/v/metagraph",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dor Technologies/arc_id=AMB:DOR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

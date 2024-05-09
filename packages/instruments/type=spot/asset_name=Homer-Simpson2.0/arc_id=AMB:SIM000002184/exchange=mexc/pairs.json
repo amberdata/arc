@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SIM000002184_AMB:USD000000335",
+        "normalizedPair": "simpson2_usdt",
+        "normalizedSymbol": "simpson2",
+        "nativePair": "SIMPSON2USDT",
+        "exchange": "mexc",
+        "assetName": "Homer-Simpson2.0",
+        "assetArcId": "AMB:SIM000002184",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "simpson2_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SDT000002835_AMB:USD000000335",
+        "normalizedPair": "sdt_usdt",
+        "normalizedSymbol": "sdt",
+        "nativePair": "SDTUSDT",
+        "exchange": "mexc",
+        "assetName": "Stake DAO",
+        "assetArcId": "AMB:SDT000002835",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sdt_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PLA000001096_AMB:USD000000335",
+        "normalizedPair": "play_usdt",
+        "normalizedSymbol": "play",
+        "nativePair": "PLAYUSDT",
+        "exchange": "bybit",
+        "assetName": "HEROcoin",
+        "assetArcId": "AMB:PLA000001096",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "play_usdt",
+        "instrumentType": "spot"
+    }
+]

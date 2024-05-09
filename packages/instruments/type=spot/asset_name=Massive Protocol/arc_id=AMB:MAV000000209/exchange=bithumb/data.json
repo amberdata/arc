@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAV000000209_AMB:KRW000000000",
+        "normalizedPair": "mav_krw",
+        "normalizedSymbol": "mav",
+        "nativePair": "MAV/KRW",
+        "exchange": "bithumb",
+        "assetName": "Massive Protocol",
+        "assetArcId": "AMB:MAV000000209",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "mav_krw",
+        "instrumentType": "spot"
+    }
+]

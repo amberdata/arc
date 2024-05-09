@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIE000000000_AMB:USD000000335",
+        "normalizedPair": "aiet_usdt",
+        "normalizedSymbol": "aiet",
+        "nativePair": "AIETUSDT",
+        "exchange": "mexc",
+        "assetName": "AI Exclusive",
+        "assetArcId": "AMB:AIE000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aiet_usdt",
+        "instrumentType": "spot"
+    }
+]

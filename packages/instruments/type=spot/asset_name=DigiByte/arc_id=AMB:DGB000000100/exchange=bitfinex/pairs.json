@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DGB000000100_AMB:USD000000949",
+        "normalizedPair": "dgb_usd",
+        "normalizedSymbol": "dgb",
+        "nativePair": "tDGBUSD",
+        "exchange": "bitfinex",
+        "assetName": "DigiByte",
+        "assetArcId": "AMB:DGB000000100",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dgb_usd",
+        "instrumentType": "spot"
+    }
+]

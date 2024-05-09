@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRO000001565_AMB:USD000000335",
+        "normalizedPair": "crown_usdt",
+        "normalizedSymbol": "crown",
+        "nativePair": "CROWNUSDT",
+        "exchange": "mexc",
+        "assetName": "Crown Token",
+        "assetArcId": "AMB:CRO000001565",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "crown_usdt",
+        "instrumentType": "spot"
+    }
+]

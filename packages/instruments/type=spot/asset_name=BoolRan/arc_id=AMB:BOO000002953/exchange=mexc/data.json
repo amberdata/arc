@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BOO000002953_AMB:USD000000335",
+        "normalizedPair": "bool_usdt",
+        "normalizedSymbol": "bool",
+        "nativePair": "BOOLUSDT",
+        "exchange": "mexc",
+        "assetName": "BoolRan",
+        "assetArcId": "AMB:BOO000002953",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bool_usdt",
+        "instrumentType": "spot"
+    }
+]

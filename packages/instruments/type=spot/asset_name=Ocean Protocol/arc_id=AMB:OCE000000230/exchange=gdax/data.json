@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OCE000000230_AMB:USD000000949",
+        "normalizedPair": "ocean_usd",
+        "normalizedSymbol": "ocean",
+        "nativePair": "OCEAN-USD",
+        "exchange": "gdax",
+        "assetName": "Ocean Protocol",
+        "assetArcId": "AMB:OCE000000230",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ocean_usd",
+        "instrumentType": "spot"
+    }
+]

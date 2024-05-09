@@ -1,0 +1,98 @@
+[
+    {
+        "arcPairId": "AMB:OPA000000239_AMB:BNB000000055",
+        "normalizedPair": "op_bnb",
+        "normalizedSymbol": "op",
+        "nativePair": "OPBNB",
+        "exchange": "binance",
+        "assetName": "Optimism",
+        "assetArcId": "AMB:OPA000000239",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "op_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OPA000000239_AMB:BTC000000000",
+        "normalizedPair": "op_btc",
+        "normalizedSymbol": "op",
+        "nativePair": "OPBTC",
+        "exchange": "binance",
+        "assetName": "Optimism",
+        "assetArcId": "AMB:OPA000000239",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "op_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OPA000000239_AMB:BUS000000067",
+        "normalizedPair": "op_busd",
+        "normalizedSymbol": "op",
+        "nativePair": "OPBUSD",
+        "exchange": "binance",
+        "assetName": "Optimism",
+        "assetArcId": "AMB:OPA000000239",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "op_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OPA000000239_AMB:ETH000000000",
+        "normalizedPair": "op_eth",
+        "normalizedSymbol": "op",
+        "nativePair": "OPETH",
+        "exchange": "binance",
+        "assetName": "Optimism",
+        "assetArcId": "AMB:OPA000000239",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "op_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OPA000000239_AMB:EUR000000120",
+        "normalizedPair": "op_eur",
+        "normalizedSymbol": "op",
+        "nativePair": "OPEUR",
+        "exchange": "binance",
+        "assetName": "Optimism",
+        "assetArcId": "AMB:OPA000000239",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "op_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OPA000000239_AMB:TRY000000940",
+        "normalizedPair": "op_try",
+        "normalizedSymbol": "op",
+        "nativePair": "OPTRY",
+        "exchange": "binance",
+        "assetName": "Optimism",
+        "assetArcId": "AMB:OPA000000239",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "op_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OPA000000239_AMB:TUS000000326",
+        "normalizedPair": "op_tusd",
+        "normalizedSymbol": "op",
+        "nativePair": "OPTUSD",
+        "exchange": "binance",
+        "assetName": "Optimism",
+        "assetArcId": "AMB:OPA000000239",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "op_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OPA000000239_AMB:USD000000335",
+        "normalizedPair": "op_usdt",
+        "normalizedSymbol": "op",
+        "nativePair": "OPUSDT",
+        "exchange": "binance",
+        "assetName": "Optimism",
+        "assetArcId": "AMB:OPA000000239",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "op_usdt",
+        "instrumentType": "spot"
+    }
+]

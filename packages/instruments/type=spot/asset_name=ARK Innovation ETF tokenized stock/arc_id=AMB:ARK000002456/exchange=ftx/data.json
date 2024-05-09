@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ARK000002456_AMB:USD000000949",
+        "normalizedPair": "arkk_usd",
+        "normalizedSymbol": "arkk",
+        "nativePair": "ARKK/USD",
+        "exchange": "ftx",
+        "assetName": "ARK Innovation ETF tokenized stock",
+        "assetArcId": "AMB:ARK000002456",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "arkk_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "kitty",
+    "assetName": "Kitty Inu",
+    "assetArcId": "AMB:KIT000000000",
+    "website": "https://kitty-inu-dao.eth.limo/",
+    "whitePaperUrl": "https://kitty-inu-dao.eth.limo/whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kitty Inu/arc_id=AMB:KIT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WOO000000354_AMB:USD000000335",
+        "normalizedPair": "woo_usdt",
+        "normalizedSymbol": "woo",
+        "nativePair": "woousdt",
+        "exchange": "huobi",
+        "assetName": "WOO Network",
+        "assetArcId": "AMB:WOO000000354",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "woo_usdt",
+        "instrumentType": "spot"
+    }
+]

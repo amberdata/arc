@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STR000000818_AMB:TRX000000325",
+        "normalizedPair": "strx_trx",
+        "normalizedSymbol": "strx",
+        "nativePair": "strxtrx",
+        "exchange": "huobi",
+        "assetName": "Staked TRX",
+        "assetArcId": "AMB:STR000000818",
+        "quoteArcId": "AMB:TRX000000325",
+        "collectedPair": "strx_trx",
+        "instrumentType": "spot"
+    }
+]

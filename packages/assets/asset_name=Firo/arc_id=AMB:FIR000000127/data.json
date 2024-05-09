@@ -1,0 +1,18 @@
+{
+    "assetSymbol": "firo",
+    "assetName": "Firo",
+    "assetArcId": "AMB:FIR000000127",
+    "website": "https://firo.org/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Privacy",
+        "Proof-of-Work"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Firo/arc_id=AMB:FIR000000127/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Firo/arc_id=AMB:FIR000000127/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Firo/arc_id=AMB:FIR000000127/exchange=binance/data.json"
+        ]
+    }
+}

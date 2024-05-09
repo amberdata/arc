@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BIT000003431_AMB:USD000000335",
+        "normalizedPair": "bits_usdt",
+        "normalizedSymbol": "bits",
+        "nativePair": "BITSUSDT",
+        "exchange": "mexc",
+        "assetName": "Bitswift",
+        "assetArcId": "AMB:BIT000003431",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bits_usdt",
+        "instrumentType": "spot"
+    }
+]

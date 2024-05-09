@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAR000000441_AMB:USD000000949",
+        "normalizedPair": "rari_usd",
+        "normalizedSymbol": "rari",
+        "nativePair": "RARI-USD",
+        "exchange": "gdax",
+        "assetName": "Rarible",
+        "assetArcId": "AMB:RAR000000441",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "rari_usd",
+        "instrumentType": "spot"
+    }
+]

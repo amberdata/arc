@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:BTC000000000",
+        "normalizedPair": "xrp_btc",
+        "normalizedSymbol": "xrp",
+        "nativePair": "xrpbtc",
+        "exchange": "bitstamp",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "xrp_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:EUR000000120",
+        "normalizedPair": "xrp_eur",
+        "normalizedSymbol": "xrp",
+        "nativePair": "xrpeur",
+        "exchange": "bitstamp",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "xrp_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:GBP000000144",
+        "normalizedPair": "xrp_gbp",
+        "normalizedSymbol": "xrp",
+        "nativePair": "xrpgbp",
+        "exchange": "bitstamp",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "xrp_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:USD000000949",
+        "normalizedPair": "xrp_usd",
+        "normalizedSymbol": "xrp",
+        "nativePair": "xrpusd",
+        "exchange": "bitstamp",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xrp_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:XRP000000363_AMB:USD000000335",
+        "normalizedPair": "xrp_usdt",
+        "normalizedSymbol": "xrp",
+        "nativePair": "xrpusdt",
+        "exchange": "bitstamp",
+        "assetName": "XRP",
+        "assetArcId": "AMB:XRP000000363",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xrp_usdt",
+        "instrumentType": "spot"
+    }
+]

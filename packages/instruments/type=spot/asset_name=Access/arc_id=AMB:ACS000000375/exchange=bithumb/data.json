@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ACS000000375_AMB:KRW000000000",
+        "normalizedPair": "acs_krw",
+        "normalizedSymbol": "acs",
+        "nativePair": "ACS/KRW",
+        "exchange": "bithumb",
+        "assetName": "Access",
+        "assetArcId": "AMB:ACS000000375",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "acs_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JAS000000176_AMB:USD000000335",
+        "normalizedPair": "jasmy_usdt",
+        "normalizedSymbol": "jasmy",
+        "nativePair": "jasmyusdt",
+        "exchange": "huobi",
+        "assetName": "Jasmy",
+        "assetArcId": "AMB:JAS000000176",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jasmy_usdt",
+        "instrumentType": "spot"
+    }
+]

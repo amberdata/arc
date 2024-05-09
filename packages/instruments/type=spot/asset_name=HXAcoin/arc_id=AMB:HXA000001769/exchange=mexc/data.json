@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HXA000001769_AMB:USD000000335",
+        "normalizedPair": "hxa_usdt",
+        "normalizedSymbol": "hxa",
+        "nativePair": "HXAUSDT",
+        "exchange": "mexc",
+        "assetName": "HXAcoin",
+        "assetArcId": "AMB:HXA000001769",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hxa_usdt",
+        "instrumentType": "spot"
+    }
+]

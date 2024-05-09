@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FIT000001152_AMB:USD000000335",
+        "normalizedPair": "fit_usdt",
+        "normalizedSymbol": "fit",
+        "nativePair": "FITUSDT",
+        "exchange": "mexc",
+        "assetName": "FitVerse",
+        "assetArcId": "AMB:FIT000001152",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fit_usdt",
+        "instrumentType": "spot"
+    }
+]

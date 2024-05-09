@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIC000001372_AMB:USD000000335",
+        "normalizedPair": "aicore_usdt",
+        "normalizedSymbol": "aicore",
+        "nativePair": "AICOREUSDT",
+        "exchange": "mexc",
+        "assetName": "AICORE",
+        "assetArcId": "AMB:AIC000001372",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aicore_usdt",
+        "instrumentType": "spot"
+    }
+]

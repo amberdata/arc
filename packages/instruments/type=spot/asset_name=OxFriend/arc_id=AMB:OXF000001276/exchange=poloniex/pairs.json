@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OXF000001276_AMB:USD000000335",
+        "normalizedPair": "oxf_usdt",
+        "normalizedSymbol": "oxf",
+        "nativePair": "OXF_USDT",
+        "exchange": "poloniex",
+        "assetName": "OxFriend",
+        "assetArcId": "AMB:OXF000001276",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "oxf_usdt",
+        "instrumentType": "spot"
+    }
+]

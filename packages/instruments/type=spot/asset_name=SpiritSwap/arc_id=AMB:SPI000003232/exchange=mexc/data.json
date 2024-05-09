@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SPI000003232_AMB:USD000000335",
+        "normalizedPair": "spirit_usdt",
+        "normalizedSymbol": "spirit",
+        "nativePair": "SPIRITUSDT",
+        "exchange": "mexc",
+        "assetName": "SpiritSwap",
+        "assetArcId": "AMB:SPI000003232",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "spirit_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:CFX000000072_AMB:BTC000000000",
+        "normalizedPair": "cfx_btc",
+        "normalizedSymbol": "cfx",
+        "nativePair": "CFXBTC",
+        "exchange": "binance",
+        "assetName": "Conflux",
+        "assetArcId": "AMB:CFX000000072",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "cfx_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CFX000000072_AMB:BUS000000067",
+        "normalizedPair": "cfx_busd",
+        "normalizedSymbol": "cfx",
+        "nativePair": "CFXBUSD",
+        "exchange": "binance",
+        "assetName": "Conflux",
+        "assetArcId": "AMB:CFX000000072",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "cfx_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CFX000000072_AMB:TRY000000940",
+        "normalizedPair": "cfx_try",
+        "normalizedSymbol": "cfx",
+        "nativePair": "CFXTRY",
+        "exchange": "binance",
+        "assetName": "Conflux",
+        "assetArcId": "AMB:CFX000000072",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "cfx_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CFX000000072_AMB:TUS000000326",
+        "normalizedPair": "cfx_tusd",
+        "normalizedSymbol": "cfx",
+        "nativePair": "CFXTUSD",
+        "exchange": "binance",
+        "assetName": "Conflux",
+        "assetArcId": "AMB:CFX000000072",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "cfx_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CFX000000072_AMB:USD000000335",
+        "normalizedPair": "cfx_usdt",
+        "normalizedSymbol": "cfx",
+        "nativePair": "CFXUSDT",
+        "exchange": "binance",
+        "assetName": "Conflux",
+        "assetArcId": "AMB:CFX000000072",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cfx_usdt",
+        "instrumentType": "spot"
+    }
+]

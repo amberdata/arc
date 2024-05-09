@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VTH000000344_AMB:USD000000335",
+        "normalizedPair": "vtho_usdt",
+        "normalizedSymbol": "vtho",
+        "nativePair": "VTHOUSDT",
+        "exchange": "binance",
+        "assetName": "VeThor Token",
+        "assetArcId": "AMB:VTH000000344",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vtho_usdt",
+        "instrumentType": "spot"
+    }
+]

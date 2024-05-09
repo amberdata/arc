@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRU000000324_AMB:USD000000335",
+        "normalizedPair": "tru_usdt",
+        "normalizedSymbol": "tru",
+        "nativePair": "truusdt",
+        "exchange": "huobi",
+        "assetName": "TrueFi",
+        "assetArcId": "AMB:TRU000000324",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tru_usdt",
+        "instrumentType": "spot"
+    }
+]

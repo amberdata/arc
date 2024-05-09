@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BON000000060_AMB:USD000000333",
+        "normalizedPair": "bond_usdc",
+        "normalizedSymbol": "bond",
+        "nativePair": "bond_usdc",
+        "exchange": "zb",
+        "assetName": "BarnBridge",
+        "assetArcId": "AMB:BON000000060",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "bond_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BON000000060_AMB:USD000000335",
+        "normalizedPair": "bond_usdt",
+        "normalizedSymbol": "bond",
+        "nativePair": "bond_usdt",
+        "exchange": "zb",
+        "assetName": "BarnBridge",
+        "assetArcId": "AMB:BON000000060",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bond_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "joker",
+    "assetName": "JOKER",
+    "assetArcId": "AMB:JOK000000000",
+    "website": "https://joker-token.net/",
+    "whitePaperUrl": "https://joker-token.net/whitepaper/",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=JOKER/arc_id=AMB:JOK000000000/exchange=mexc/data.json"
+        ]
+    }
+}

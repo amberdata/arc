@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIM000001380_AMB:USD000000335",
+        "normalizedPair": "aimx_usdt",
+        "normalizedSymbol": "aimx",
+        "nativePair": "AIMXUSDT",
+        "exchange": "mexc",
+        "assetName": "Mind Matrix",
+        "assetArcId": "AMB:AIM000001380",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aimx_usdt",
+        "instrumentType": "spot"
+    }
+]

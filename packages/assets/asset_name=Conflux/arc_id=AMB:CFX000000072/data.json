@@ -1,0 +1,24 @@
+{
+    "assetSymbol": "cfx",
+    "assetName": "Conflux",
+    "assetArcId": "AMB:CFX000000072",
+    "website": "https://confluxnetwork.org/ ",
+    "whitePaperUrl": "https://confluxnetwork.org/en/files/Conflux_Economic_Paper_20201230.pdf",
+    "classificationTags": [
+        "Content & Streaming",
+        "Governance",
+        "Proof-of-Stake",
+        "Proof-of-Work",
+        "Smart Contract",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Conflux/arc_id=AMB:CFX000000072/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Conflux/arc_id=AMB:CFX000000072/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Conflux/arc_id=AMB:CFX000000072/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Conflux/arc_id=AMB:CFX000000072/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Conflux/arc_id=AMB:CFX000000072/exchange=zb/data.json"
+        ]
+    }
+}

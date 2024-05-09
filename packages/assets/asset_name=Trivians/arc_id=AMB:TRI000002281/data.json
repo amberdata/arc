@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "trivia",
+    "assetName": "Trivians",
+    "assetArcId": "AMB:TRI000002281",
+    "website": "https://trivians.io/",
+    "whitePaperUrl": "https://whitepaper.trivians.io/introduction/trivians",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Trivians/arc_id=AMB:TRI000002281/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TAV000000822_AMB:USD000000335",
+        "normalizedPair": "tava_usdt",
+        "normalizedSymbol": "tava",
+        "nativePair": "TAVAUSDT",
+        "exchange": "bybit",
+        "assetName": "ALTAVA",
+        "assetArcId": "AMB:TAV000000822",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tava_usdt",
+        "instrumentType": "spot"
+    }
+]

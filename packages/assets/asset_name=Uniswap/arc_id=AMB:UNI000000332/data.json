@@ -1,0 +1,38 @@
+{
+    "assetSymbol": "uni",
+    "assetName": "Uniswap",
+    "assetArcId": "AMB:UNI000000332",
+    "website": "https://uniswap.org/",
+    "whitePaperUrl": "https://uniswap.org/whitepaper.pdf",
+    "classificationTags": [
+        "DEX",
+        "Governance",
+        "Smart Contract"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Uniswap/arc_id=AMB:UNI000000332/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Uniswap/arc_id=AMB:UNI000000332/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Uniswap/arc_id=AMB:UNI000000332/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Uniswap/arc_id=AMB:UNI000000332/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Uniswap/arc_id=AMB:UNI000000332/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Uniswap/arc_id=AMB:UNI000000332/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Uniswap/arc_id=AMB:UNI000000332/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Uniswap/arc_id=AMB:UNI000000332/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Uniswap/arc_id=AMB:UNI000000332/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Uniswap/arc_id=AMB:UNI000000332/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Uniswap/arc_id=AMB:UNI000000332/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Uniswap/arc_id=AMB:UNI000000332/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Uniswap/arc_id=AMB:UNI000000332/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Uniswap/arc_id=AMB:UNI000000332/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Uniswap/arc_id=AMB:UNI000000332/exchange=ftxus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Uniswap/arc_id=AMB:UNI000000332/exchange=zb/data.json"
+        ]
+    }
+}

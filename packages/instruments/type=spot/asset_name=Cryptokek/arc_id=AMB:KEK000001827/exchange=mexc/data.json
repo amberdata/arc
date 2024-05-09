@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KEK000001827_AMB:USD000000335",
+        "normalizedPair": "kek_usdt",
+        "normalizedSymbol": "kek",
+        "nativePair": "KEKUSDT",
+        "exchange": "mexc",
+        "assetName": "Cryptokek",
+        "assetArcId": "AMB:KEK000001827",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kek_usdt",
+        "instrumentType": "spot"
+    }
+]

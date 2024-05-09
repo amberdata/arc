@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:MAV000000209_AMB:BTC000000000",
+        "normalizedPair": "mav_btc",
+        "normalizedSymbol": "mav",
+        "nativePair": "MAVBTC",
+        "exchange": "binance",
+        "assetName": "Massive Protocol",
+        "assetArcId": "AMB:MAV000000209",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "mav_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MAV000000209_AMB:TRY000000940",
+        "normalizedPair": "mav_try",
+        "normalizedSymbol": "mav",
+        "nativePair": "MAVTRY",
+        "exchange": "binance",
+        "assetName": "Massive Protocol",
+        "assetArcId": "AMB:MAV000000209",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "mav_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MAV000000209_AMB:TUS000000326",
+        "normalizedPair": "mav_tusd",
+        "normalizedSymbol": "mav",
+        "nativePair": "MAVTUSD",
+        "exchange": "binance",
+        "assetName": "Massive Protocol",
+        "assetArcId": "AMB:MAV000000209",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "mav_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MAV000000209_AMB:USD000000335",
+        "normalizedPair": "mav_usdt",
+        "normalizedSymbol": "mav",
+        "nativePair": "MAVUSDT",
+        "exchange": "binance",
+        "assetName": "Massive Protocol",
+        "assetArcId": "AMB:MAV000000209",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mav_usdt",
+        "instrumentType": "spot"
+    }
+]

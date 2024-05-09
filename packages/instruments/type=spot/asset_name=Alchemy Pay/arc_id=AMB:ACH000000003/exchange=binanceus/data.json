@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ACH000000003_AMB:USD000000335",
+        "normalizedPair": "ach_usdt",
+        "normalizedSymbol": "ach",
+        "nativePair": "ACHUSDT",
+        "exchange": "binanceus",
+        "assetName": "Alchemy Pay",
+        "assetArcId": "AMB:ACH000000003",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ach_usdt",
+        "instrumentType": "spot"
+    }
+]

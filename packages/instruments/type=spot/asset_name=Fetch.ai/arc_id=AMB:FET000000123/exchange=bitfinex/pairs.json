@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:FET000000123_AMB:USD000000949",
+        "normalizedPair": "fet_usd",
+        "normalizedSymbol": "fet",
+        "nativePair": "tFETUSD",
+        "exchange": "bitfinex",
+        "assetName": "Fetch.ai",
+        "assetArcId": "AMB:FET000000123",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "fet_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FET000000123_AMB:USD000000335",
+        "normalizedPair": "fet_usdt",
+        "normalizedSymbol": "fet",
+        "nativePair": "tFETUST",
+        "exchange": "bitfinex",
+        "assetName": "Fetch.ai",
+        "assetArcId": "AMB:FET000000123",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fet_usdt",
+        "instrumentType": "spot"
+    }
+]

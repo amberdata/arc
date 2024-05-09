@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SKY000002194_AMB:USD000000335",
+        "normalizedPair": "sky_usdt",
+        "normalizedSymbol": "sky",
+        "nativePair": "SKYUSDT",
+        "exchange": "mexc",
+        "assetName": "Skycoin",
+        "assetArcId": "AMB:SKY000002194",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sky_usdt",
+        "instrumentType": "spot"
+    }
+]

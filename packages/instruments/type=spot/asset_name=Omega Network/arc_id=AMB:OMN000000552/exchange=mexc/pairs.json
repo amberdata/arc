@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OMN000000552_AMB:USD000000335",
+        "normalizedPair": "omn_usdt",
+        "normalizedSymbol": "omn",
+        "nativePair": "OMNUSDT",
+        "exchange": "mexc",
+        "assetName": "Omega Network",
+        "assetArcId": "AMB:OMN000000552",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "omn_usdt",
+        "instrumentType": "spot"
+    }
+]

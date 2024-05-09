@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "gone",
+    "assetName": "GONE",
+    "assetArcId": "AMB:GON000000000",
+    "website": "https://itsgone.xyz/",
+    "whitePaperUrl": "https://itsgone.xyz/gonepaper",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GONE/arc_id=AMB:GON000000000/exchange=mexc/data.json"
+        ]
+    }
+}

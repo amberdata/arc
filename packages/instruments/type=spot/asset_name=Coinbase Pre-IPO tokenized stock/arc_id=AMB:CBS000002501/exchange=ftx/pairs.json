@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CBS000002501_AMB:USD000000949",
+        "normalizedPair": "cbse_usd",
+        "normalizedSymbol": "cbse",
+        "nativePair": "NONE-VALUE-FROM-API",
+        "exchange": "ftx",
+        "assetName": "Coinbase Pre-IPO tokenized stock",
+        "assetArcId": "AMB:CBS000002501",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "cbse_usd",
+        "instrumentType": "spot"
+    }
+]

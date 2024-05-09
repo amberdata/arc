@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CBX000001011_AMB:USD000000335",
+        "normalizedPair": "cbx_usdt",
+        "normalizedSymbol": "cbx",
+        "nativePair": "CBXUSDT",
+        "exchange": "mexc",
+        "assetName": "CropBytes",
+        "assetArcId": "AMB:CBX000001011",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cbx_usdt",
+        "instrumentType": "spot"
+    }
+]

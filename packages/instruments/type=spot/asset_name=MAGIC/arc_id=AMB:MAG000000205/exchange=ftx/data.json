@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAG000000205_AMB:USD000000949",
+        "normalizedPair": "magic_usd",
+        "normalizedSymbol": "magic",
+        "nativePair": "MAGIC/USD",
+        "exchange": "ftx",
+        "assetName": "MAGIC",
+        "assetArcId": "AMB:MAG000000205",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "magic_usd",
+        "instrumentType": "spot"
+    }
+]

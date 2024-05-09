@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "oraix",
+    "assetName": "OraiDEX",
+    "assetArcId": "AMB:ORA000000000",
+    "website": "https://oraidex.io/",
+    "whitePaperUrl": "https://docs.orai.io/oraidex/introduction-to-oraidex",
+    "classificationTags": [
+        "Smart Contract"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=OraiDEX/arc_id=AMB:ORA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

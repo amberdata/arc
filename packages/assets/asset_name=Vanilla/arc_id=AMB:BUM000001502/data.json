@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bum",
+    "assetName": "Vanilla",
+    "assetArcId": "AMB:BUM000001502",
+    "website": "https://main.bumup.io/",
+    "whitePaperUrl": "https://bumup.gitbook.io/vanilla/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Vanilla/arc_id=AMB:BUM000001502/exchange=mexc/data.json"
+        ]
+    }
+}

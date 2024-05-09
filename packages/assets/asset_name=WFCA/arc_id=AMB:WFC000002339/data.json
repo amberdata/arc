@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "wfca",
+    "assetName": "WFCA",
+    "assetArcId": "AMB:WFC000002339",
+    "website": "https://www.wfca.io/",
+    "whitePaperUrl": "https://www.wfca.io/assets/doc/WFCA_Whitepaper_ver1.1_220922.pdf",
+    "classificationTags": [
+        "Metaverse",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WFCA/arc_id=AMB:WFC000002339/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:BNB000000055",
+        "normalizedPair": "algo_bnb",
+        "normalizedSymbol": "algo",
+        "nativePair": "ALGOBNB",
+        "exchange": "binance",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "algo_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:BTC000000000",
+        "normalizedPair": "algo_btc",
+        "normalizedSymbol": "algo",
+        "nativePair": "ALGOBTC",
+        "exchange": "binance",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "algo_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:BUS000000067",
+        "normalizedPair": "algo_busd",
+        "normalizedSymbol": "algo",
+        "nativePair": "ALGOBUSD",
+        "exchange": "binance",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "algo_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:ETH000000000",
+        "normalizedPair": "algo_eth",
+        "normalizedSymbol": "algo",
+        "nativePair": "ALGOETH",
+        "exchange": "binance",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "algo_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:RUB000000000",
+        "normalizedPair": "algo_rub",
+        "normalizedSymbol": "algo",
+        "nativePair": "ALGORUB",
+        "exchange": "binance",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:RUB000000000",
+        "collectedPair": "algo_rub",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:TRY000000940",
+        "normalizedPair": "algo_try",
+        "normalizedSymbol": "algo",
+        "nativePair": "ALGOTRY",
+        "exchange": "binance",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "algo_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:USD000000335",
+        "normalizedPair": "algo_usdt",
+        "normalizedSymbol": "algo",
+        "nativePair": "ALGOUSDT",
+        "exchange": "binance",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "algo_usdt",
+        "instrumentType": "spot"
+    }
+]

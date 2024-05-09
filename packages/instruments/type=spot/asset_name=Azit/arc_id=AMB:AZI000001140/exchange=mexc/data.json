@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AZI000001140_AMB:USD000000335",
+        "normalizedPair": "azit_usdt",
+        "normalizedSymbol": "azit",
+        "nativePair": "AZITUSDT",
+        "exchange": "mexc",
+        "assetName": "Azit",
+        "assetArcId": "AMB:AZI000001140",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "azit_usdt",
+        "instrumentType": "spot"
+    }
+]

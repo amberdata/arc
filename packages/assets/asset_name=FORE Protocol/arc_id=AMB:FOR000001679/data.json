@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "fore",
+    "assetName": "FORE Protocol",
+    "assetArcId": "AMB:FOR000001679",
+    "website": "https://www.foreprotocol.io/",
+    "whitePaperUrl": "https://docs.foreprotocol.io/home/whitepaper",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=FORE Protocol/arc_id=AMB:FOR000001679/exchange=mexc/data.json"
+        ]
+    }
+}
