@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:CLV000000078_AMB:BTC000000000",
+        "normalizedPair": "clv_btc",
+        "normalizedSymbol": "clv",
+        "nativePair": "CLVBTC",
+        "exchange": "binance",
+        "assetName": "Clover Finance",
+        "assetArcId": "AMB:CLV000000078",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "clv_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CLV000000078_AMB:USD000000335",
+        "normalizedPair": "clv_usdt",
+        "normalizedSymbol": "clv",
+        "nativePair": "CLVUSDT",
+        "exchange": "binance",
+        "assetName": "Clover Finance",
+        "assetArcId": "AMB:CLV000000078",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "clv_usdt",
+        "instrumentType": "spot"
+    }
+]

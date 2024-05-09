@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BON000001484_AMB:USD000000335",
+        "normalizedPair": "bondlyv2_usdt",
+        "normalizedSymbol": "bondlyv2",
+        "nativePair": "BONDLYV2USDT",
+        "exchange": "mexc",
+        "assetName": "BONDLYV2",
+        "assetArcId": "AMB:BON000001484",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bondlyv2_usdt",
+        "instrumentType": "spot"
+    }
+]

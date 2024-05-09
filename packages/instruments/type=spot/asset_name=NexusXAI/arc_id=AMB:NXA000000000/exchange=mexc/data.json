@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NXA000000000_AMB:USD000000335",
+        "normalizedPair": "nxai_usdt",
+        "normalizedSymbol": "nxai",
+        "nativePair": "NXAIUSDT",
+        "exchange": "mexc",
+        "assetName": "NexusXAI",
+        "assetArcId": "AMB:NXA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nxai_usdt",
+        "instrumentType": "spot"
+    }
+]

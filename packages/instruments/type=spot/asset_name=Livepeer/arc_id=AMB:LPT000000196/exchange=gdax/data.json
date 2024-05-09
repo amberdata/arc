@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LPT000000196_AMB:USD000000949",
+        "normalizedPair": "lpt_usd",
+        "normalizedSymbol": "lpt",
+        "nativePair": "LPT-USD",
+        "exchange": "gdax",
+        "assetName": "Livepeer",
+        "assetArcId": "AMB:LPT000000196",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "lpt_usd",
+        "instrumentType": "spot"
+    }
+]

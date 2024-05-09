@@ -1,0 +1,18 @@
+{
+    "assetSymbol": "amb",
+    "assetName": "AirDAO",
+    "assetArcId": "AMB:AMB000000017",
+    "website": " https://airdao.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "DEX",
+        "Governance",
+        "Layer-1",
+        "Lending",
+        "Stablecoin",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

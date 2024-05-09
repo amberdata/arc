@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "ast",
+    "assetName": "AirSwap",
+    "assetArcId": "AMB:AST000000031",
+    "website": "https://www.airswap.io/",
+    "whitePaperUrl": "https://www.airswap.io/whitepaper.htm",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x27054b13b1b798b345b591a4d22e6562d47ea75a"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AirSwap/arc_id=AMB:AST000000031/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AirSwap/arc_id=AMB:AST000000031/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AirSwap/arc_id=AMB:AST000000031/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AirSwap/arc_id=AMB:AST000000031/exchange=okex/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "mmit",
+    "assetName": "MangoMan Intelligent",
+    "assetArcId": "AMB:MMI000001934",
+    "website": "https://mmint.io/#",
+    "whitePaperUrl": "/how-to-buy/MMIT?utm_source=mexc&utm_medium=tokenifoMMIT&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MangoMan Intelligent/arc_id=AMB:MMI000001934/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SQT000000000_AMB:USD000000335",
+        "normalizedPair": "sqtsant_usdt",
+        "normalizedSymbol": "sqtsant",
+        "nativePair": "SQTSANTUSDT",
+        "exchange": "mexc",
+        "assetName": "Sqtsant",
+        "assetArcId": "AMB:SQT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sqtsant_usdt",
+        "instrumentType": "spot"
+    }
+]

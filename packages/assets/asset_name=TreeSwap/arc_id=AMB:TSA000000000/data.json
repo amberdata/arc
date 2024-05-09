@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ts",
+    "assetName": "TreeSwap",
+    "assetArcId": "AMB:TSA000000000",
+    "website": "https://www.bnbts.com/",
+    "whitePaperUrl": "/how-to-buy/TS?utm_source=mexc&utm_medium=tokenifoTS&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TreeSwap/arc_id=AMB:TSA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

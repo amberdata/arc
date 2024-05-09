@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "simpsonsinu",
+    "assetName": "The Simpsons Inu",
+    "assetArcId": "AMB:SIM000002188",
+    "website": "https://thesimpsonsinu.com/",
+    "whitePaperUrl": "https://thesimpsonsinu.com/wp-content/uploads/2023/05/WhitePaperV1.pdf",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=The Simpsons Inu/arc_id=AMB:SIM000002188/exchange=mexc/data.json"
+        ]
+    }
+}

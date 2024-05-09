@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:QTZ000002106_AMB:USD000000335",
+        "normalizedPair": "qtz_usdt",
+        "normalizedSymbol": "qtz",
+        "nativePair": "QTZUSDT",
+        "exchange": "mexc",
+        "assetName": "Quartz",
+        "assetArcId": "AMB:QTZ000002106",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "qtz_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UNI000002908_AMB:USD000000335",
+        "normalizedPair": "unice_usdt",
+        "normalizedSymbol": "unice",
+        "nativePair": "UNICEUSDT",
+        "exchange": "mexc",
+        "assetName": "UNICE",
+        "assetArcId": "AMB:UNI000002908",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "unice_usdt",
+        "instrumentType": "spot"
+    }
+]

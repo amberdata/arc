@@ -1,0 +1,31 @@
+{
+    "assetSymbol": "bal",
+    "assetName": "Balancer",
+    "assetArcId": "AMB:BAL000000043",
+    "website": "https://balancer.fi/",
+    "whitePaperUrl": "https://balancer.fi/whitepaper.pdf",
+    "classificationTags": [
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xba100000625a3754423978a60c9317c58a424e3D"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Balancer/arc_id=AMB:BAL000000043/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Balancer/arc_id=AMB:BAL000000043/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Balancer/arc_id=AMB:BAL000000043/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Balancer/arc_id=AMB:BAL000000043/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Balancer/arc_id=AMB:BAL000000043/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Balancer/arc_id=AMB:BAL000000043/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Balancer/arc_id=AMB:BAL000000043/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Balancer/arc_id=AMB:BAL000000043/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Balancer/arc_id=AMB:BAL000000043/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Balancer/arc_id=AMB:BAL000000043/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Balancer/arc_id=AMB:BAL000000043/exchange=mexc/data.json"
+        ]
+    }
+}

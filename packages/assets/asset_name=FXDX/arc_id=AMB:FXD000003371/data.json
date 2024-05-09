@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "fxdx",
+    "assetName": "FXDX",
+    "assetArcId": "AMB:FXD000003371",
+    "website": "https://fxdx.exchange/",
+    "whitePaperUrl": "https://fxdxdocs.gitbook.io/fxdx-knowledge-base/",
+    "classificationTags": [
+        "DEX",
+        "Derivatives"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=FXDX/arc_id=AMB:FXD000003371/exchange=mexc/data.json"
+        ]
+    }
+}

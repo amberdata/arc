@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "bnc",
+    "assetName": "BNC",
+    "assetArcId": "AMB:BNC000001480",
+    "website": "https://bifrost.finance/",
+    "whitePaperUrl": "https://wiki.bifrost.finance/#white-paper",
+    "classificationTags": [
+        "Derivatives",
+        "Proof-of-Stake",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

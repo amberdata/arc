@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:TAA000000315_AMB:EUR000000120",
+        "normalizedPair": "t_eur",
+        "normalizedSymbol": "t",
+        "nativePair": "TEUR",
+        "exchange": "kraken",
+        "assetName": "Threshold",
+        "assetArcId": "AMB:TAA000000315",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "t_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:TAA000000315_AMB:USD000000949",
+        "normalizedPair": "t_usd",
+        "normalizedSymbol": "t",
+        "nativePair": "TUSD",
+        "exchange": "kraken",
+        "assetName": "Threshold",
+        "assetArcId": "AMB:TAA000000315",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "t_usd",
+        "instrumentType": "spot"
+    }
+]

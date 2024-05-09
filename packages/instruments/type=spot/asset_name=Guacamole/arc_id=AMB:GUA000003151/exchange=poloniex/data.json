@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GUA000003151_AMB:USD000000335",
+        "normalizedPair": "guac_usdt",
+        "normalizedSymbol": "guac",
+        "nativePair": "GUAC_USDT",
+        "exchange": "poloniex",
+        "assetName": "Guacamole",
+        "assetArcId": "AMB:GUA000003151",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "guac_usdt",
+        "instrumentType": "spot"
+    }
+]

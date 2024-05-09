@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FEV000001657_AMB:USD000000335",
+        "normalizedPair": "fevr_usdt",
+        "normalizedSymbol": "fevr",
+        "nativePair": "FEVRUSDT",
+        "exchange": "mexc",
+        "assetName": "RealFevr",
+        "assetArcId": "AMB:FEV000001657",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fevr_usdt",
+        "instrumentType": "spot"
+    }
+]

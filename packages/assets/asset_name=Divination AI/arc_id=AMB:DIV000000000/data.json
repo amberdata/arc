@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "divai",
+    "assetName": "Divination AI",
+    "assetArcId": "AMB:DIV000000000",
+    "website": "#",
+    "whitePaperUrl": "/how-to-buy/DIVAI?utm_source=mexc&utm_medium=tokenifoDIVAI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Divination AI/arc_id=AMB:DIV000000000/exchange=mexc/data.json"
+        ]
+    }
+}

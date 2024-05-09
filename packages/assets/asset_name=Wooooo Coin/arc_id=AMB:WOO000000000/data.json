@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "wooooo",
+    "assetName": "Wooooo Coin",
+    "assetArcId": "AMB:WOO000000000",
+    "website": "https://www.officialwooooocoin.com/",
+    "whitePaperUrl": "https://www.officialwooooocoin.com/wp-content/uploads/2024/01/wooooo-pitch-3.pdf",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Wooooo Coin/arc_id=AMB:WOO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

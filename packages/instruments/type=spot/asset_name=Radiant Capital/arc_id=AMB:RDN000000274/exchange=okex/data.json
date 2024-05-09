@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:RDN000000274_AMB:USD000000333",
+        "normalizedPair": "rdnt_usdc",
+        "normalizedSymbol": "rdnt",
+        "nativePair": "RDNT-USDC",
+        "exchange": "okex",
+        "assetName": "Radiant Capital",
+        "assetArcId": "AMB:RDN000000274",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "rdnt_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:RDN000000274_AMB:USD000000335",
+        "normalizedPair": "rdnt_usdt",
+        "normalizedSymbol": "rdnt",
+        "nativePair": "RDNT-USDT",
+        "exchange": "okex",
+        "assetName": "Radiant Capital",
+        "assetArcId": "AMB:RDN000000274",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rdnt_usdt",
+        "instrumentType": "spot"
+    }
+]

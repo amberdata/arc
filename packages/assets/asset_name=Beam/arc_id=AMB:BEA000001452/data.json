@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "beam",
+    "assetName": "Beam",
+    "assetArcId": "AMB:BEA000001452",
+    "website": "https://beam.mw/",
+    "whitePaperUrl": "/how-to-buy/BEAM?utm_source=mexc&utm_medium=tokenifoBEAM&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Beam/arc_id=AMB:BEA000001452/exchange=mexc/data.json"
+        ]
+    }
+}

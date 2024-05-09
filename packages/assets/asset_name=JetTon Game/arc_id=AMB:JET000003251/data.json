@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "jetton",
+    "assetName": "JetTon Game",
+    "assetArcId": "AMB:JET000003251",
+    "website": "https://jetton.games/",
+    "whitePaperUrl": "https://docs.google.com/document/d/1x7UD0QAkLCeDReWGpzZHALglRp6HuXMb/edit",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=JetTon Game/arc_id=AMB:JET000003251/exchange=mexc/data.json"
+        ]
+    }
+}

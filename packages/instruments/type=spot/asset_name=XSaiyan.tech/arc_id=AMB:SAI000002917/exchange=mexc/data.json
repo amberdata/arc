@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAI000002917_AMB:USD000000335",
+        "normalizedPair": "saix_usdt",
+        "normalizedSymbol": "saix",
+        "nativePair": "SAIXUSDT",
+        "exchange": "mexc",
+        "assetName": "XSaiyan.tech",
+        "assetArcId": "AMB:SAI000002917",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "saix_usdt",
+        "instrumentType": "spot"
+    }
+]

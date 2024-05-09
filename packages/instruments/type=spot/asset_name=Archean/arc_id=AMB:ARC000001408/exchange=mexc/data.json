@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ARC000001408_AMB:USD000000335",
+        "normalizedPair": "arch_usdt",
+        "normalizedSymbol": "arch",
+        "nativePair": "ARCHUSDT",
+        "exchange": "mexc",
+        "assetName": "Archean",
+        "assetArcId": "AMB:ARC000001408",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "arch_usdt",
+        "instrumentType": "spot"
+    }
+]

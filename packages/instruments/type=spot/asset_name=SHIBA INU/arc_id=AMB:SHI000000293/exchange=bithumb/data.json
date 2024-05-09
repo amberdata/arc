@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHI000000293_AMB:KRW000000000",
+        "normalizedPair": "shib_krw",
+        "normalizedSymbol": "shib",
+        "nativePair": "SHIB/KRW",
+        "exchange": "bithumb",
+        "assetName": "SHIBA INU",
+        "assetArcId": "AMB:SHI000000293",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "shib_krw",
+        "instrumentType": "spot"
+    }
+]

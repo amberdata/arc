@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TAO000000820_AMB:USD000000335",
+        "normalizedPair": "tao_usdt",
+        "normalizedSymbol": "tao",
+        "nativePair": "taousdt",
+        "exchange": "huobi",
+        "assetName": "Fusotao Protocol",
+        "assetArcId": "AMB:TAO000000820",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tao_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EAC000002847_AMB:USD000000335",
+        "normalizedPair": "eacc.amb.1_usdt",
+        "normalizedSymbol": "eacc.amb.1",
+        "nativePair": "EACCUSDT",
+        "exchange": "mexc",
+        "assetName": "EACC",
+        "assetArcId": "AMB:EAC000002847",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "eacc_usdt",
+        "instrumentType": "spot"
+    }
+]

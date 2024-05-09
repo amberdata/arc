@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PEL000002055_AMB:USD000000335",
+        "normalizedPair": "pel_usdt",
+        "normalizedSymbol": "pel",
+        "nativePair": "PELUSDT",
+        "exchange": "mexc",
+        "assetName": "Propel",
+        "assetArcId": "AMB:PEL000002055",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pel_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OGG000003098_AMB:USD000000335",
+        "normalizedPair": "oggyeth_usdt",
+        "normalizedSymbol": "oggyeth",
+        "nativePair": "OGGYETHUSDT",
+        "exchange": "mexc",
+        "assetName": "Oggy inu",
+        "assetArcId": "AMB:OGG000003098",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "oggyeth_usdt",
+        "instrumentType": "spot"
+    }
+]

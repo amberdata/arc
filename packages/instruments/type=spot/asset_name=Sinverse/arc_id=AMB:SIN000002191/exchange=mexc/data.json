@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SIN000002191_AMB:USD000000335",
+        "normalizedPair": "sin_usdt",
+        "normalizedSymbol": "sin",
+        "nativePair": "SINUSDT",
+        "exchange": "mexc",
+        "assetName": "Sinverse",
+        "assetArcId": "AMB:SIN000002191",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sin_usdt",
+        "instrumentType": "spot"
+    }
+]

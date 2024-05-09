@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "kube",
+    "assetName": "KubeCoin",
+    "assetArcId": "AMB:KUB000000720",
+    "website": "https://kubecoin.org/",
+    "whitePaperUrl": "https://cdn.kubecoin.org/media/public/kubecoin_whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=KubeCoin/arc_id=AMB:KUB000000720/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=KubeCoin/arc_id=AMB:KUB000000720/exchange=mexc/data.json"
+        ]
+    }
+}

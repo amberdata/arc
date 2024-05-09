@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "avalox",
+    "assetName": "Avalox",
+    "assetArcId": "AMB:AVA000003305",
+    "website": "https://avaloxtoken.com/",
+    "whitePaperUrl": "https://sg.docworkspace.com/d/sIO6U1Ji_AeCpn68G",
+    "classificationTags": [
+        "Lending",
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalox/arc_id=AMB:AVA000003305/exchange=mexc/data.json"
+        ]
+    }
+}

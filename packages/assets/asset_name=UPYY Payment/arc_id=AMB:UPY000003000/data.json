@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "upy",
+    "assetName": "UPYY Payment",
+    "assetArcId": "AMB:UPY000003000",
+    "website": "http://www.upyypay.xyz/",
+    "whitePaperUrl": "https://upyy.gitbook.io/whitepaper1/intro/intro",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=UPYY Payment/arc_id=AMB:UPY000003000/exchange=mexc/data.json"
+        ]
+    }
+}

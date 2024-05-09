@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "tsla",
+    "assetName": "TSLA",
+    "assetArcId": "AMB:TSL000002674",
+    "website": "https://tesla-token.com/",
+    "whitePaperUrl": "/how-to-buy/TSLA?utm_source=mexc&utm_medium=tokenifoTSLA&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TSLA/arc_id=AMB:TSL000002674/exchange=mexc/data.json"
+        ]
+    }
+}

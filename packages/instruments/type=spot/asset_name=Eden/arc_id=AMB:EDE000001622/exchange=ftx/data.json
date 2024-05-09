@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:EDE000001622_AMB:USD000000949",
+        "normalizedPair": "eden_usd",
+        "normalizedSymbol": "eden",
+        "nativePair": "EDEN/USD",
+        "exchange": "ftx",
+        "assetName": "Eden",
+        "assetArcId": "AMB:EDE000001622",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "eden_usd",
+        "instrumentType": "spot"
+    }
+]

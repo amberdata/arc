@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SLP000000295_AMB:USD000000335",
+        "normalizedPair": "slp_usdt",
+        "normalizedSymbol": "slp",
+        "nativePair": "SLPUSDT",
+        "exchange": "mexc",
+        "assetName": "Smooth Love Potion",
+        "assetArcId": "AMB:SLP000000295",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "slp_usdt",
+        "instrumentType": "spot"
+    }
+]

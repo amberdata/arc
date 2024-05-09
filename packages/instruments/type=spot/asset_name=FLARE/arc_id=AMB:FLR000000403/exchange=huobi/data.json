@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FLR000000403_AMB:USD000000335",
+        "normalizedPair": "flr_usdt",
+        "normalizedSymbol": "flr",
+        "nativePair": "flrusdt",
+        "exchange": "huobi",
+        "assetName": "FLARE",
+        "assetArcId": "AMB:FLR000000403",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "flr_usdt",
+        "instrumentType": "spot"
+    }
+]

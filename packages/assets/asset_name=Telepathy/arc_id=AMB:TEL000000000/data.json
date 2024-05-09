@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "telepathy",
+    "assetName": "Telepathy",
+    "assetArcId": "AMB:TEL000000000",
+    "website": "https://www.telepathy-coin.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "E4fVrxVL7xM19hqvp8U8VGJr6pCFdxNzvjCdrgngnQtH"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Telepathy/arc_id=AMB:TEL000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COL000000653_AMB:USD000000335",
+        "normalizedPair": "col_usdt",
+        "normalizedSymbol": "col",
+        "nativePair": "colusdt",
+        "exchange": "huobi",
+        "assetName": "Clash of Lilliput",
+        "assetArcId": "AMB:COL000000653",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "col_usdt",
+        "instrumentType": "spot"
+    }
+]

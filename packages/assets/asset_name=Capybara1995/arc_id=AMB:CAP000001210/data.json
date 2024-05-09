@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "capy",
+    "assetName": "Capybara1995",
+    "assetArcId": "AMB:CAP000001210",
+    "website": "https://www.getinnotimetoexplain.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xf03d5fc6e08de6ad886fca34abf9a59ef633b78a"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

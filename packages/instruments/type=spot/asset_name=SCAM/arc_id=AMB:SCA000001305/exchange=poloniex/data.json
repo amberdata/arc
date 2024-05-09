@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SCA000001305_AMB:USD000000335",
+        "normalizedPair": "scam_usdt",
+        "normalizedSymbol": "scam",
+        "nativePair": "SCAM_USDT",
+        "exchange": "poloniex",
+        "assetName": "SCAM",
+        "assetArcId": "AMB:SCA000001305",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "scam_usdt",
+        "instrumentType": "spot"
+    }
+]

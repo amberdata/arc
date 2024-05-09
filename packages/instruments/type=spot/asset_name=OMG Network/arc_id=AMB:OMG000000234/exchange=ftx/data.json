@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:OMG000000234_AMB:JPY000000903",
+        "normalizedPair": "omg_jpy",
+        "normalizedSymbol": "omg",
+        "nativePair": "OMG/JPY",
+        "exchange": "ftx",
+        "assetName": "OMG Network",
+        "assetArcId": "AMB:OMG000000234",
+        "quoteArcId": "AMB:JPY000000903",
+        "collectedPair": "omg_jpy",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:OMG000000234_AMB:USD000000949",
+        "normalizedPair": "omg_usd",
+        "normalizedSymbol": "omg",
+        "nativePair": "OMG/USD",
+        "exchange": "ftx",
+        "assetName": "OMG Network",
+        "assetArcId": "AMB:OMG000000234",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "omg_usd",
+        "instrumentType": "spot"
+    }
+]

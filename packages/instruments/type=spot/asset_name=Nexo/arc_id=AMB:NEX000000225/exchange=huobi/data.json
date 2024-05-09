@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NEX000000225_AMB:USD000000335",
+        "normalizedPair": "nexo_usdt",
+        "normalizedSymbol": "nexo",
+        "nativePair": "nexousdt",
+        "exchange": "huobi",
+        "assetName": "Nexo",
+        "assetArcId": "AMB:NEX000000225",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nexo_usdt",
+        "instrumentType": "spot"
+    }
+]

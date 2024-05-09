@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HOM000003129_AMB:USD000000335",
+        "normalizedPair": "homer_usdt",
+        "normalizedSymbol": "homer",
+        "nativePair": "HOMERUSDT",
+        "exchange": "mexc",
+        "assetName": "Homer Simpson(Solana)",
+        "assetArcId": "AMB:HOM000003129",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "homer_usdt",
+        "instrumentType": "spot"
+    }
+]

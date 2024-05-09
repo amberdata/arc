@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "wft",
+    "assetName": "Windfall Token",
+    "assetArcId": "AMB:WFT000002340",
+    "website": "http://www.windfalltoken.io/",
+    "whitePaperUrl": "http://whitepaper.windfalltoken.io/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Windfall Token/arc_id=AMB:WFT000002340/exchange=mexc/data.json"
+        ]
+    }
+}

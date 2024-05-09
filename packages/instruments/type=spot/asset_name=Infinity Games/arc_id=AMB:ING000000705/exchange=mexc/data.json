@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ING000000705_AMB:USD000000335",
+        "normalizedPair": "ing_usdt",
+        "normalizedSymbol": "ing",
+        "nativePair": "INGUSDT",
+        "exchange": "mexc",
+        "assetName": "Infinity Games",
+        "assetArcId": "AMB:ING000000705",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ing_usdt",
+        "instrumentType": "spot"
+    }
+]

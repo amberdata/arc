@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "edu",
+    "assetName": "Open Campus",
+    "assetArcId": "AMB:EDU000000109",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Open Campus/arc_id=AMB:EDU000000109/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Open Campus/arc_id=AMB:EDU000000109/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Open Campus/arc_id=AMB:EDU000000109/exchange=mexc/data.json"
+        ]
+    }
+}

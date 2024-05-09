@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HTE000001762_AMB:USD000000335",
+        "normalizedPair": "hte_usdt",
+        "normalizedSymbol": "hte",
+        "nativePair": "HTEUSDT",
+        "exchange": "mexc",
+        "assetName": "Hepton",
+        "assetArcId": "AMB:HTE000001762",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hte_usdt",
+        "instrumentType": "spot"
+    }
+]

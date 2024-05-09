@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "lrds",
+    "assetName": "Lionheart Robotics",
+    "assetArcId": "AMB:LRD000000000",
+    "website": "https://www.ipfscoin.top/",
+    "whitePaperUrl": "https://ipfs-1.gitbook.io/ipfs/introduction/lionheart-robotics-design",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Lionheart Robotics/arc_id=AMB:LRD000000000/exchange=mexc/data.json"
+        ]
+    }
+}

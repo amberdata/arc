@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WEL000003315_AMB:USD000000335",
+        "normalizedPair": "welsh_usdt",
+        "normalizedSymbol": "welsh",
+        "nativePair": "WELSHUSDT",
+        "exchange": "mexc",
+        "assetName": "WELSH CORGI COIN",
+        "assetArcId": "AMB:WEL000003315",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "welsh_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VIZ000003049_AMB:USD000000335",
+        "normalizedPair": "viz_usdt",
+        "normalizedSymbol": "viz",
+        "nativePair": "VIZUSDT",
+        "exchange": "mexc",
+        "assetName": "Vision City",
+        "assetArcId": "AMB:VIZ000003049",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "viz_usdt",
+        "instrumentType": "spot"
+    }
+]

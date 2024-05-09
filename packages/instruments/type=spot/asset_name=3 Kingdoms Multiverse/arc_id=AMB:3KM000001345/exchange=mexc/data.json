@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:3KM000001345_AMB:USD000000335",
+        "normalizedPair": "3km_usdt",
+        "normalizedSymbol": "3km",
+        "nativePair": "3KMUSDT",
+        "exchange": "mexc",
+        "assetName": "3 Kingdoms Multiverse",
+        "assetArcId": "AMB:3KM000001345",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "3km_usdt",
+        "instrumentType": "spot"
+    }
+]

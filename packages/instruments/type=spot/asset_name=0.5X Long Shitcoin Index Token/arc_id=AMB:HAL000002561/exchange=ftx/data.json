@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HAL000002561_AMB:USD000000949",
+        "normalizedPair": "halfshit_usd",
+        "normalizedSymbol": "halfshit",
+        "nativePair": "HALFSHIT/USD",
+        "exchange": "ftx",
+        "assetName": "0.5X Long Shitcoin Index Token",
+        "assetArcId": "AMB:HAL000002561",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "halfshit_usd",
+        "instrumentType": "spot"
+    }
+]

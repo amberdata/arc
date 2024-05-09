@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "tie",
+    "assetName": "Sproutie",
+    "assetArcId": "AMB:TIE000003355",
+    "website": "https://sproutie.io/",
+    "whitePaperUrl": "/how-to-buy/TIE?utm_source=mexc&utm_medium=tokenifoTIE&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sproutie/arc_id=AMB:TIE000003355/exchange=mexc/data.json"
+        ]
+    }
+}

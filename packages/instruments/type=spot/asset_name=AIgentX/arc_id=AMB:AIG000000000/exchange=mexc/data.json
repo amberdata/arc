@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIG000000000_AMB:USD000000335",
+        "normalizedPair": "aigentx_usdt",
+        "normalizedSymbol": "aigentx",
+        "nativePair": "AIGENTXUSDT",
+        "exchange": "mexc",
+        "assetName": "AIgentX",
+        "assetArcId": "AMB:AIG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aigentx_usdt",
+        "instrumentType": "spot"
+    }
+]

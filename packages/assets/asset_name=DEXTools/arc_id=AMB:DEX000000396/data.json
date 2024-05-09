@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "dext",
+    "assetName": "DEXTools",
+    "assetArcId": "AMB:DEX000000396",
+    "website": "https://www.dextools.io/",
+    "whitePaperUrl": "https://www.dextools.io/assets/pdf/DEXTools_manifesto.pdf",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xfb7b4564402e5500db5bb6d63ae671302777c75a"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DEXTools/arc_id=AMB:DEX000000396/exchange=gdax/data.json"
+        ]
+    }
+}

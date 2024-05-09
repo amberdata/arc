@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "hashai",
+    "assetName": "HashAI",
+    "assetArcId": "AMB:HAS000000000",
+    "website": "https://hashai.cc/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0x292fcDD1B104DE5A00250fEBbA9bC6A5092A0076"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=HashAI/arc_id=AMB:HAS000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

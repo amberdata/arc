@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BLU000000384_AMB:USD000000333",
+        "normalizedPair": "blur_usdc",
+        "normalizedSymbol": "blur",
+        "nativePair": "BLUR-USDC",
+        "exchange": "okex",
+        "assetName": "Blur",
+        "assetArcId": "AMB:BLU000000384",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "blur_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BLU000000384_AMB:USD000000335",
+        "normalizedPair": "blur_usdt",
+        "normalizedSymbol": "blur",
+        "nativePair": "BLUR-USDT",
+        "exchange": "okex",
+        "assetName": "Blur",
+        "assetArcId": "AMB:BLU000000384",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "blur_usdt",
+        "instrumentType": "spot"
+    }
+]

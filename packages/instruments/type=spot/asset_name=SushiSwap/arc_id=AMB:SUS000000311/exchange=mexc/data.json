@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SUS000000311_AMB:ETH000000000",
+        "normalizedPair": "sushi_eth",
+        "normalizedSymbol": "sushi",
+        "nativePair": "SUSHIETH",
+        "exchange": "mexc",
+        "assetName": "SushiSwap",
+        "assetArcId": "AMB:SUS000000311",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "sushi_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SUS000000311_AMB:USD000000335",
+        "normalizedPair": "sushi_usdt",
+        "normalizedSymbol": "sushi",
+        "nativePair": "SUSHIUSDT",
+        "exchange": "mexc",
+        "assetName": "SushiSwap",
+        "assetArcId": "AMB:SUS000000311",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sushi_usdt",
+        "instrumentType": "spot"
+    }
+]

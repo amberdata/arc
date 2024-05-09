@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "asr",
+    "assetName": "AS Roma Fan Token",
+    "assetArcId": "AMB:ASR000000030",
+    "website": "https://www.fantoken.com/asr/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "DEX",
+        "Governance",
+        "Smart Contract",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AS Roma Fan Token/arc_id=AMB:ASR000000030/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AS Roma Fan Token/arc_id=AMB:ASR000000030/exchange=poloniex/data.json"
+        ]
+    }
+}

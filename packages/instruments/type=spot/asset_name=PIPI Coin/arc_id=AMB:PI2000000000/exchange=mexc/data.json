@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PI2000000000_AMB:USD000000335",
+        "normalizedPair": "pi2_usdt",
+        "normalizedSymbol": "pi2",
+        "nativePair": "PI2USDT",
+        "exchange": "mexc",
+        "assetName": "PIPI Coin",
+        "assetArcId": "AMB:PI2000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pi2_usdt",
+        "instrumentType": "spot"
+    }
+]

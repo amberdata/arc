@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "dummy",
+    "assetName": "Dummy",
+    "assetArcId": "AMB:DUM000001223",
+    "website": "https://www.dummyeth.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x445bd590a01fe6709d4f13a8f579c1e4846921db"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dummy/arc_id=AMB:DUM000001223/exchange=poloniex/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STA000002229_AMB:USD000000335",
+        "normalizedPair": "star_usdt",
+        "normalizedSymbol": "star",
+        "nativePair": "STARUSDT",
+        "exchange": "mexc",
+        "assetName": "Starbase",
+        "assetArcId": "AMB:STA000002229",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "star_usdt",
+        "instrumentType": "spot"
+    }
+]

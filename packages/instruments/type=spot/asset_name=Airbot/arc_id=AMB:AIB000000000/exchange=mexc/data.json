@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:AIB000000000_AMB:USD000000335",
+        "normalizedPair": "aibot_usdt",
+        "normalizedSymbol": "aibot",
+        "nativePair": "AIBOTUSDT",
+        "exchange": "mexc",
+        "assetName": "Airbot",
+        "assetArcId": "AMB:AIB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aibot_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AIB000000000_AMB:USD000000335",
+        "normalizedPair": "aibat_usdt",
+        "normalizedSymbol": "aibat",
+        "nativePair": "AIBATUSDT",
+        "exchange": "mexc",
+        "assetName": "BRAHNO TIME",
+        "assetArcId": "AMB:AIB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aibat_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:AIB000000000_AMB:USD000000335",
+        "normalizedPair": "aibit_usdt",
+        "normalizedSymbol": "aibit",
+        "nativePair": "AIBITUSDT",
+        "exchange": "mexc",
+        "assetName": "AIBIT",
+        "assetArcId": "AMB:AIB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aibit_usdt",
+        "instrumentType": "spot"
+    }
+]

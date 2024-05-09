@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MLA000000000_AMB:USD000000335",
+        "normalizedPair": "mla_usdt",
+        "normalizedSymbol": "mla",
+        "nativePair": "MLAUSDT",
+        "exchange": "mexc",
+        "assetName": "MoolaNet",
+        "assetArcId": "AMB:MLA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mla_usdt",
+        "instrumentType": "spot"
+    }
+]

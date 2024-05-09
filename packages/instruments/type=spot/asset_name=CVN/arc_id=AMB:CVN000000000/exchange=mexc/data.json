@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CVN000000000_AMB:USD000000335",
+        "normalizedPair": "cvn_usdt",
+        "normalizedSymbol": "cvn",
+        "nativePair": "CVNUSDT",
+        "exchange": "mexc",
+        "assetName": "CVN",
+        "assetArcId": "AMB:CVN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cvn_usdt",
+        "instrumentType": "spot"
+    }
+]

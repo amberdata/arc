@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WOB000000000_AMB:USD000000335",
+        "normalizedPair": "wob_usdt",
+        "normalizedSymbol": "wob",
+        "nativePair": "WOBUSDT",
+        "exchange": "mexc",
+        "assetName": "Workonbitcoin",
+        "assetArcId": "AMB:WOB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wob_usdt",
+        "instrumentType": "spot"
+    }
+]

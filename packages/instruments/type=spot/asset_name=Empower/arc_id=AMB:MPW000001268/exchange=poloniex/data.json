@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MPW000001268_AMB:USD000000335",
+        "normalizedPair": "mpwr_usdt",
+        "normalizedSymbol": "mpwr",
+        "nativePair": "MPWR_USDT",
+        "exchange": "poloniex",
+        "assetName": "Empower",
+        "assetArcId": "AMB:MPW000001268",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mpwr_usdt",
+        "instrumentType": "spot"
+    }
+]

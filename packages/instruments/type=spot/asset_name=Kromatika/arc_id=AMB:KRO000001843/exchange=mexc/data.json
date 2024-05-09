@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KRO000001843_AMB:USD000000335",
+        "normalizedPair": "krom_usdt",
+        "normalizedSymbol": "krom",
+        "nativePair": "KROMUSDT",
+        "exchange": "mexc",
+        "assetName": "Kromatika",
+        "assetArcId": "AMB:KRO000001843",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "krom_usdt",
+        "instrumentType": "spot"
+    }
+]

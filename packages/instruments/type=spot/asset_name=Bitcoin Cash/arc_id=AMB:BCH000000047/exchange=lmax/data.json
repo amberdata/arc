@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:EUR000000120",
+        "normalizedPair": "bch_eur",
+        "normalizedSymbol": "bch",
+        "nativePair": "bch-eur",
+        "exchange": "lmax",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "bch_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:GBP000000144",
+        "normalizedPair": "bch_gbp",
+        "normalizedSymbol": "bch",
+        "nativePair": "bch-gbp",
+        "exchange": "lmax",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:GBP000000144",
+        "collectedPair": "bch_gbp",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:JPY000000903",
+        "normalizedPair": "bch_jpy",
+        "normalizedSymbol": "bch",
+        "nativePair": "bch-jpy",
+        "exchange": "lmax",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:JPY000000903",
+        "collectedPair": "bch_jpy",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:USD000000949",
+        "normalizedPair": "bch_usd",
+        "normalizedSymbol": "bch",
+        "nativePair": "bch-usd",
+        "exchange": "lmax",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bch_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BCH000000047_AMB:USD000000333",
+        "normalizedPair": "bch_usdc",
+        "normalizedSymbol": "bch",
+        "nativePair": "bch-usdc",
+        "exchange": "lmax",
+        "assetName": "Bitcoin Cash",
+        "assetArcId": "AMB:BCH000000047",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "bch_usdc",
+        "instrumentType": "spot"
+    }
+]

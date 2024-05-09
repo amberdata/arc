@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOR000002816_AMB:USD000000335",
+        "normalizedPair": "dork_usdt",
+        "normalizedSymbol": "dork",
+        "nativePair": "DORK_USDT",
+        "exchange": "poloniex",
+        "assetName": "DORK",
+        "assetArcId": "AMB:DOR000002816",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dork_usdt",
+        "instrumentType": "spot"
+    }
+]

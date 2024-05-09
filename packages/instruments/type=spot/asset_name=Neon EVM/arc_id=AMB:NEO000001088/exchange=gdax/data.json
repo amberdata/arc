@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NEO000001088_AMB:USD000000949",
+        "normalizedPair": "neon_usd",
+        "normalizedSymbol": "neon",
+        "nativePair": "NEON-USD",
+        "exchange": "gdax",
+        "assetName": "Neon EVM",
+        "assetArcId": "AMB:NEO000001088",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "neon_usd",
+        "instrumentType": "spot"
+    }
+]

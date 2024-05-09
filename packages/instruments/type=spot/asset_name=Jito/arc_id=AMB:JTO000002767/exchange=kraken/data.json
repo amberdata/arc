@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:JTO000002767_AMB:USD000000949",
+        "normalizedPair": "jto_usd",
+        "normalizedSymbol": "jto",
+        "nativePair": "JTOUSD",
+        "exchange": "kraken",
+        "assetName": "Jito",
+        "assetArcId": "AMB:JTO000002767",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "jto_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:JTO000002767_AMB:EUR000000120",
+        "normalizedPair": "jto_eur",
+        "normalizedSymbol": "jto",
+        "nativePair": "JTOEUR",
+        "exchange": "kraken",
+        "assetName": "Jito",
+        "assetArcId": "AMB:JTO000002767",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "jto_eur",
+        "instrumentType": "spot"
+    }
+]

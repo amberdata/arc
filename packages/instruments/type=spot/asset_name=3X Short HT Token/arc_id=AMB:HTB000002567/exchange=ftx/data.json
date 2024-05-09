@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HTB000002567_AMB:USD000000949",
+        "normalizedPair": "htbear_usd",
+        "normalizedSymbol": "htbear",
+        "nativePair": "HTBEAR/USD",
+        "exchange": "ftx",
+        "assetName": "3X Short HT Token",
+        "assetArcId": "AMB:HTB000002567",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "htbear_usd",
+        "instrumentType": "spot"
+    }
+]

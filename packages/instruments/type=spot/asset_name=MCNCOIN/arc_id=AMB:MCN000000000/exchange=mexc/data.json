@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MCN000000000_AMB:USD000000335",
+        "normalizedPair": "mcn_usdt",
+        "normalizedSymbol": "mcn",
+        "nativePair": "MCNUSDT",
+        "exchange": "mexc",
+        "assetName": "MCNCOIN",
+        "assetArcId": "AMB:MCN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mcn_usdt",
+        "instrumentType": "spot"
+    }
+]

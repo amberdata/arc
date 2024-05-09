@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KTA000000718_AMB:USD000000335",
+        "normalizedPair": "kt_usdt",
+        "normalizedSymbol": "kt",
+        "nativePair": "ktusdt",
+        "exchange": "huobi",
+        "assetName": "King Token",
+        "assetArcId": "AMB:KTA000000718",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kt_usdt",
+        "instrumentType": "spot"
+    }
+]

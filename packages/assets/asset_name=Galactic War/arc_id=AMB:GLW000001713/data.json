@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "glw",
+    "assetName": "Galactic War",
+    "assetArcId": "AMB:GLW000001713",
+    "website": "https://galacticwar.io/#inventory",
+    "whitePaperUrl": "https://docs.galacticwar.io/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Galactic War/arc_id=AMB:GLW000001713/exchange=mexc/data.json"
+        ]
+    }
+}

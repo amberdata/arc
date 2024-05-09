@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MMI000001934_AMB:USD000000335",
+        "normalizedPair": "mmit_usdt",
+        "normalizedSymbol": "mmit",
+        "nativePair": "MMITUSDT",
+        "exchange": "mexc",
+        "assetName": "MangoMan Intelligent",
+        "assetArcId": "AMB:MMI000001934",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mmit_usdt",
+        "instrumentType": "spot"
+    }
+]

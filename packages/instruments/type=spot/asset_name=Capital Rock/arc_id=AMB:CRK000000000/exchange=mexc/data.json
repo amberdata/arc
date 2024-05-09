@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRK000000000_AMB:USD000000335",
+        "normalizedPair": "crk_usdt",
+        "normalizedSymbol": "crk",
+        "nativePair": "CRKUSDT",
+        "exchange": "mexc",
+        "assetName": "Capital Rock",
+        "assetArcId": "AMB:CRK000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "crk_usdt",
+        "instrumentType": "spot"
+    }
+]

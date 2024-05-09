@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POG000000001_AMB:USD000000335",
+        "normalizedPair": "pogs_usdt",
+        "normalizedSymbol": "pogs",
+        "nativePair": "POGSUSDT",
+        "exchange": "mexc",
+        "assetName": "POGS",
+        "assetArcId": "AMB:POG000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pogs_usdt",
+        "instrumentType": "spot"
+    }
+]

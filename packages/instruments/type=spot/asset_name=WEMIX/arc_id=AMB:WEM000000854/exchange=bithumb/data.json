@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WEM000000854_AMB:KRW000000000",
+        "normalizedPair": "wemix_krw",
+        "normalizedSymbol": "wemix",
+        "nativePair": "WEMIX/KRW",
+        "exchange": "bithumb",
+        "assetName": "WEMIX",
+        "assetArcId": "AMB:WEM000000854",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "wemix_krw",
+        "instrumentType": "spot"
+    }
+]

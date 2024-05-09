@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "tsuka",
+    "assetName": "Dejitaru Tsuka",
+    "assetArcId": "AMB:TSU000001326",
+    "website": "https://twitter.com/Dejitaru_Tsuka",
+    "whitePaperUrl": "/how-to-buy/TSUKA?utm_source=mexc&utm_medium=tokenifoTSUKA&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dejitaru Tsuka/arc_id=AMB:TSU000001326/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dejitaru Tsuka/arc_id=AMB:TSU000001326/exchange=mexc/data.json"
+        ]
+    }
+}

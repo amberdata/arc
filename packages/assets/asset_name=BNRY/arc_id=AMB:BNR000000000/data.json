@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bnry",
+    "assetName": "BNRY",
+    "assetArcId": "AMB:BNR000000000",
+    "website": "https://www.thebinaryholdings.com/",
+    "whitePaperUrl": "https://docs.thebinaryholdings.com/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BNRY/arc_id=AMB:BNR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

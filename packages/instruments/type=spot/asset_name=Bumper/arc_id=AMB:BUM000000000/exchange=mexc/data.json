@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BUM000000000_AMB:USD000000335",
+        "normalizedPair": "bump_usdt",
+        "normalizedSymbol": "bump",
+        "nativePair": "BUMPUSDT",
+        "exchange": "mexc",
+        "assetName": "Bumper",
+        "assetArcId": "AMB:BUM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bump_usdt",
+        "instrumentType": "spot"
+    }
+]

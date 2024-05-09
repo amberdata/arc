@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:STC000000581_AMB:USD000000335",
+        "normalizedPair": "stc.amb.1_usdt",
+        "normalizedSymbol": "stc.amb.1",
+        "nativePair": "STCUSDT",
+        "exchange": "mexc",
+        "assetName": "SaitaChain",
+        "assetArcId": "AMB:STC000000581",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "stc_usdt",
+        "instrumentType": "spot"
+    }
+]

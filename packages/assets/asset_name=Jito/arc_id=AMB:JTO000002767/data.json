@@ -1,0 +1,29 @@
+{
+    "assetSymbol": "jto",
+    "assetName": "Jito",
+    "assetArcId": "AMB:JTO000002767",
+    "website": "https://www.jito.network/",
+    "whitePaperUrl": "https://www.jito.network/docs/jitosol/introduction-to-jito/",
+    "classificationTags": [
+        "Governance",
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Jito/arc_id=AMB:JTO000002767/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Jito/arc_id=AMB:JTO000002767/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Jito/arc_id=AMB:JTO000002767/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Jito/arc_id=AMB:JTO000002767/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Jito/arc_id=AMB:JTO000002767/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Jito/arc_id=AMB:JTO000002767/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Jito/arc_id=AMB:JTO000002767/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Jito/arc_id=AMB:JTO000002767/exchange=mexc/data.json"
+        ]
+    }
+}

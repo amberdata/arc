@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TER000000000_AMB:USD000000335",
+        "normalizedPair": "terra_usdt",
+        "normalizedSymbol": "terra",
+        "nativePair": "TERRAUSDT",
+        "exchange": "mexc",
+        "assetName": "Terraport",
+        "assetArcId": "AMB:TER000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "terra_usdt",
+        "instrumentType": "spot"
+    }
+]

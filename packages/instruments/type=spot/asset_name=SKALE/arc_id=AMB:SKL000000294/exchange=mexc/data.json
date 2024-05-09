@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SKL000000294_AMB:USD000000335",
+        "normalizedPair": "skl_usdt",
+        "normalizedSymbol": "skl",
+        "nativePair": "SKLUSDT",
+        "exchange": "mexc",
+        "assetName": "SKALE",
+        "assetArcId": "AMB:SKL000000294",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "skl_usdt",
+        "instrumentType": "spot"
+    }
+]

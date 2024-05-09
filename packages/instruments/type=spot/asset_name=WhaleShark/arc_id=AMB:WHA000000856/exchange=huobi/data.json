@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WHA000000856_AMB:USD000000335",
+        "normalizedPair": "whale_usdt",
+        "normalizedSymbol": "whale",
+        "nativePair": "whaleusdt",
+        "exchange": "huobi",
+        "assetName": "WhaleShark",
+        "assetArcId": "AMB:WHA000000856",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "whale_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "pokt",
+    "assetName": "Pocket Network",
+    "assetArcId": "AMB:POK000001100",
+    "website": "https://www.pokt.network/",
+    "whitePaperUrl": "/how-to-buy/POKT?utm_source=mexc&utm_medium=tokenifoPOKT&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pocket Network/arc_id=AMB:POK000001100/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pocket Network/arc_id=AMB:POK000001100/exchange=bybit/data.json"
+        ]
+    }
+}

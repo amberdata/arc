@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "pepebonk",
+    "assetName": "PepeBonk",
+    "assetArcId": "AMB:PEP000003321",
+    "website": "https://pepebonk.io/",
+    "whitePaperUrl": "/how-to-buy/PEPEBONK?utm_source=mexc&utm_medium=tokenifoPEPEBONK&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PepeBonk/arc_id=AMB:PEP000003321/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "rft",
+    "assetName": "RefundToken",
+    "assetArcId": "AMB:RFT000002129",
+    "website": "https://refundtoken.pro/",
+    "whitePaperUrl": "https://refundtoken.pro/WpRFT.pdf",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=RefundToken/arc_id=AMB:RFT000002129/exchange=mexc/data.json"
+        ]
+    }
+}

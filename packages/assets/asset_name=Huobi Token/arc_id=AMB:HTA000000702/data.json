@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "ht",
+    "assetName": "Huobi Token",
+    "assetArcId": "AMB:HTA000000702",
+    "website": "https://www.huobi.com/en-us/ht",
+    "whitePaperUrl": "/how-to-buy/HT?utm_source=mexc&utm_medium=tokenifoHT&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Huobi Token/arc_id=AMB:HTA000000702/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Huobi Token/arc_id=AMB:HTA000000702/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Huobi Token/arc_id=AMB:HTA000000702/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Huobi Token/arc_id=AMB:HTA000000702/exchange=mexc/data.json"
+        ]
+    }
+}

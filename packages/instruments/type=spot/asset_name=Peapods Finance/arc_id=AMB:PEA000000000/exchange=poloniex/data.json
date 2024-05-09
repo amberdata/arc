@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PEA000000000_AMB:USD000000335",
+        "normalizedPair": "peas_usdt",
+        "normalizedSymbol": "peas",
+        "nativePair": "PEAS_USDT",
+        "exchange": "poloniex",
+        "assetName": "Peapods Finance",
+        "assetArcId": "AMB:PEA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "peas_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MOB000000000_AMB:USD000000335",
+        "normalizedPair": "moby_usdt",
+        "normalizedSymbol": "moby",
+        "nativePair": "MOBY_USDT",
+        "exchange": "poloniex",
+        "assetName": "MOBY",
+        "assetArcId": "AMB:MOB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "moby_usdt",
+        "instrumentType": "spot"
+    }
+]

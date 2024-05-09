@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WEL000000853_AMB:USD000000335",
+        "normalizedPair": "well_usdt",
+        "normalizedSymbol": "well",
+        "nativePair": "wellusdt",
+        "exchange": "huobi",
+        "assetName": "Moonwell",
+        "assetArcId": "AMB:WEL000000853",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "well_usdt",
+        "instrumentType": "spot"
+    }
+]

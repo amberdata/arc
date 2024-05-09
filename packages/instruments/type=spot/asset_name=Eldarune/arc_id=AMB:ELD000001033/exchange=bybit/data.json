@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ELD000001033_AMB:USD000000335",
+        "normalizedPair": "elda_usdt",
+        "normalizedSymbol": "elda",
+        "nativePair": "ELDAUSDT",
+        "exchange": "bybit",
+        "assetName": "Eldarune",
+        "assetArcId": "AMB:ELD000001033",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "elda_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KP3000000186_AMB:USD000000335",
+        "normalizedPair": "kp3r_usdt",
+        "normalizedSymbol": "kp3r",
+        "nativePair": "KP3RUSDT",
+        "exchange": "binance",
+        "assetName": "Keep3rV1",
+        "assetArcId": "AMB:KP3000000186",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kp3r_usdt",
+        "instrumentType": "spot"
+    }
+]

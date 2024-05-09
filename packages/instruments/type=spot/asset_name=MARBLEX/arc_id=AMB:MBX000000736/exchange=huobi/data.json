@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MBX000000736_AMB:USD000000335",
+        "normalizedPair": "mbx_usdt",
+        "normalizedSymbol": "mbx",
+        "nativePair": "mbxusdt",
+        "exchange": "huobi",
+        "assetName": "MARBLEX",
+        "assetArcId": "AMB:MBX000000736",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mbx_usdt",
+        "instrumentType": "spot"
+    }
+]

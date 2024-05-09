@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PIK000000001_AMB:USD000000335",
+        "normalizedPair": "pika.amb.1_usdt",
+        "normalizedSymbol": "pika.amb.1",
+        "nativePair": "PIKA_USDT",
+        "exchange": "poloniex",
+        "assetName": "pika",
+        "assetArcId": "AMB:PIK000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pika_usdt",
+        "instrumentType": "spot"
+    }
+]

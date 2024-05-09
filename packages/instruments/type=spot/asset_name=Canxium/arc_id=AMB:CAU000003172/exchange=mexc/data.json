@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CAU000003172_AMB:USD000000335",
+        "normalizedPair": "cau_usdt",
+        "normalizedSymbol": "cau",
+        "nativePair": "CAUUSDT",
+        "exchange": "mexc",
+        "assetName": "Canxium",
+        "assetArcId": "AMB:CAU000003172",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cau_usdt",
+        "instrumentType": "spot"
+    }
+]

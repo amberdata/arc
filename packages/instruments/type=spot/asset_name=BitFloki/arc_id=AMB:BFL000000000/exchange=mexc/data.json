@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BFL000000000_AMB:USD000000335",
+        "normalizedPair": "bfloki_usdt",
+        "normalizedSymbol": "bfloki",
+        "nativePair": "BFLOKIUSDT",
+        "exchange": "mexc",
+        "assetName": "BitFloki",
+        "assetArcId": "AMB:BFL000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bfloki_usdt",
+        "instrumentType": "spot"
+    }
+]

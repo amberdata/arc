@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SWI000002245_AMB:USD000000335",
+        "normalizedPair": "swim_usdt",
+        "normalizedSymbol": "swim",
+        "nativePair": "SWIMUSDT",
+        "exchange": "mexc",
+        "assetName": "SWIM - Spread Wisdom",
+        "assetArcId": "AMB:SWI000002245",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "swim_usdt",
+        "instrumentType": "spot"
+    }
+]

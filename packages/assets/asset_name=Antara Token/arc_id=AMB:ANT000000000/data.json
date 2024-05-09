@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "antt",
+    "assetName": "Antara Token",
+    "assetArcId": "AMB:ANT000000000",
+    "website": "https://antaragame.io/",
+    "whitePaperUrl": "https://antaragame.io/whitepaper.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Antara Token/arc_id=AMB:ANT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

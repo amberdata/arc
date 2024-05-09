@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ELO000002897_AMB:USD000000335",
+        "normalizedPair": "elonmars_usdt",
+        "normalizedSymbol": "elonmars",
+        "nativePair": "ELONMARSUSDT",
+        "exchange": "mexc",
+        "assetName": "Elon Mars",
+        "assetArcId": "AMB:ELO000002897",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "elonmars_usdt",
+        "instrumentType": "spot"
+    }
+]

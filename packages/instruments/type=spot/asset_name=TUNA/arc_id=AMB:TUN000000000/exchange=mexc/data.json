@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TUN000000000_AMB:USD000000335",
+        "normalizedPair": "tuna_usdt",
+        "normalizedSymbol": "tuna",
+        "nativePair": "TUNAUSDT",
+        "exchange": "mexc",
+        "assetName": "TUNA",
+        "assetArcId": "AMB:TUN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tuna_usdt",
+        "instrumentType": "spot"
+    }
+]

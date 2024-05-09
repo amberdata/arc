@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:USH000001328_AMB:USD000000335",
+        "normalizedPair": "ush_usdt",
+        "normalizedSymbol": "ush",
+        "nativePair": "USH_USDT",
+        "exchange": "poloniex",
+        "assetName": "Hedge USD",
+        "assetArcId": "AMB:USH000001328",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ush_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OLA000000770_AMB:USD000000335",
+        "normalizedPair": "oland_usdt",
+        "normalizedSymbol": "oland",
+        "nativePair": "olandusdt",
+        "exchange": "huobi",
+        "assetName": "Oceanland",
+        "assetArcId": "AMB:OLA000000770",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "oland_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ESC000001638_AMB:USD000000335",
+        "normalizedPair": "esco_usdt",
+        "normalizedSymbol": "esco",
+        "nativePair": "ESCOUSDT",
+        "exchange": "mexc",
+        "assetName": "Esco Coin",
+        "assetArcId": "AMB:ESC000001638",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "esco_usdt",
+        "instrumentType": "spot"
+    }
+]

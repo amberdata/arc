@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XRD000000944_AMB:USD000000335",
+        "normalizedPair": "xrd_usdt",
+        "normalizedSymbol": "xrd",
+        "nativePair": "XRDUSDT",
+        "exchange": "mexc",
+        "assetName": "Radix",
+        "assetArcId": "AMB:XRD000000944",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xrd_usdt",
+        "instrumentType": "spot"
+    }
+]

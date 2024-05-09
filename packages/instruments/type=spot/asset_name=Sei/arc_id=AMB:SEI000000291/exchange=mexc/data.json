@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SEI000000291_AMB:USD000000335",
+        "normalizedPair": "sei_usdt",
+        "normalizedSymbol": "sei",
+        "nativePair": "SEIUSDT",
+        "exchange": "mexc",
+        "assetName": "Sei",
+        "assetArcId": "AMB:SEI000000291",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sei_usdt",
+        "instrumentType": "spot"
+    }
+]

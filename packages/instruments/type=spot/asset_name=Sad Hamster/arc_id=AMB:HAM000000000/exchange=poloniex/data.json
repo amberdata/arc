@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HAM000000000_AMB:USD000000335",
+        "normalizedPair": "hammy_usdt",
+        "normalizedSymbol": "hammy",
+        "nativePair": "HAMMY_USDT",
+        "exchange": "poloniex",
+        "assetName": "Sad Hamster",
+        "assetArcId": "AMB:HAM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hammy_usdt",
+        "instrumentType": "spot"
+    }
+]

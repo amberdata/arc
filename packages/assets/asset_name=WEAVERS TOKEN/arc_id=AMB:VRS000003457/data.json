@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "vrs2",
+    "assetName": "WEAVERS TOKEN",
+    "assetArcId": "AMB:VRS000003457",
+    "website": "https://weaverstoken.com/",
+    "whitePaperUrl": "https://weaverstoken.com/static/img/White%20Paper%20vrs.pdf",
+    "classificationTags": [
+        "Content & Streaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WEAVERS TOKEN/arc_id=AMB:VRS000003457/exchange=mexc/data.json"
+        ]
+    }
+}

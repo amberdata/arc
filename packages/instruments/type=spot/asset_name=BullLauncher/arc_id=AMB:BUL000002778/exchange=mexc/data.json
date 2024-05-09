@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BUL000002778_AMB:USD000000335",
+        "normalizedPair": "bul_usdt",
+        "normalizedSymbol": "bul",
+        "nativePair": "BULUSDT",
+        "exchange": "mexc",
+        "assetName": "BullLauncher",
+        "assetArcId": "AMB:BUL000002778",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bul_usdt",
+        "instrumentType": "spot"
+    }
+]

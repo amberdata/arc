@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FUT000001692_AMB:USD000000335",
+        "normalizedPair": "future_usdt",
+        "normalizedSymbol": "future",
+        "nativePair": "FUTUREUSDT",
+        "exchange": "mexc",
+        "assetName": "FUTURECOIN",
+        "assetArcId": "AMB:FUT000001692",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "future_usdt",
+        "instrumentType": "spot"
+    }
+]

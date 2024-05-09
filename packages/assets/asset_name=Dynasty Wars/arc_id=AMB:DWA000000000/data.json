@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dwars",
+    "assetName": "Dynasty Wars",
+    "assetArcId": "AMB:DWA000000000",
+    "website": "https://dynastywars.io/",
+    "whitePaperUrl": "https://dynastywars.gitbook.io/dynasty-wars/about-dynasty-wars/game-story",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dynasty Wars/arc_id=AMB:DWA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

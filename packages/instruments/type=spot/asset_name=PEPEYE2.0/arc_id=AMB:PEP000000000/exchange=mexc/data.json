@@ -1,0 +1,62 @@
+[
+    {
+        "arcPairId": "AMB:PEP000000000_AMB:USD000000335",
+        "normalizedPair": "pepee_usdt",
+        "normalizedSymbol": "pepee",
+        "nativePair": "PEPEEUSDT",
+        "exchange": "mexc",
+        "assetName": "Pepe the pepe",
+        "assetArcId": "AMB:PEP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pepee_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PEP000000000_AMB:USD000000335",
+        "normalizedPair": "pepesol_usdt",
+        "normalizedSymbol": "pepesol",
+        "nativePair": "PEPESOLUSDT",
+        "exchange": "mexc",
+        "assetName": "PepeSol",
+        "assetArcId": "AMB:PEP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pepesol_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PEP000000000_AMB:USD000000335",
+        "normalizedPair": "pepeson_usdt",
+        "normalizedSymbol": "pepeson",
+        "nativePair": "PEPESONUSDT",
+        "exchange": "mexc",
+        "assetName": "PEPE SON",
+        "assetArcId": "AMB:PEP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pepeson_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PEP000000000_AMB:USD000000335",
+        "normalizedPair": "pepeye2_usdt",
+        "normalizedSymbol": "pepeye2",
+        "nativePair": "PEPEYE2USDT",
+        "exchange": "mexc",
+        "assetName": "PEPEYE2.0",
+        "assetArcId": "AMB:PEP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pepeye2_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PEP000000000_AMB:USD000000335",
+        "normalizedPair": "pepi_usdt",
+        "normalizedSymbol": "pepi",
+        "nativePair": "PEPIUSDT",
+        "exchange": "mexc",
+        "assetName": "PEPI",
+        "assetArcId": "AMB:PEP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pepi_usdt",
+        "instrumentType": "spot"
+    }
+]

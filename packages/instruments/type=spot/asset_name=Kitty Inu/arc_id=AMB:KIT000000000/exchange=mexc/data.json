@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:KIT000000000_AMB:USD000000335",
+        "normalizedPair": "kittenwif_usdt",
+        "normalizedSymbol": "kittenwif",
+        "nativePair": "KITTENWIFUSDT",
+        "exchange": "mexc",
+        "assetName": "KITTENWIF",
+        "assetArcId": "AMB:KIT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kittenwif_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:KIT000000000_AMB:USD000000335",
+        "normalizedPair": "kitty_usdt",
+        "normalizedSymbol": "kitty",
+        "nativePair": "KITTYUSDT",
+        "exchange": "mexc",
+        "assetName": "Kitty Inu",
+        "assetArcId": "AMB:KIT000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "kitty_usdt",
+        "instrumentType": "spot"
+    }
+]

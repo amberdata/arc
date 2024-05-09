@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BID000000000_AMB:USD000000335",
+        "normalizedPair": "bidp_usdt",
+        "normalizedSymbol": "bidp",
+        "nativePair": "BIDPUSDT",
+        "exchange": "mexc",
+        "assetName": "BID Protocol",
+        "assetArcId": "AMB:BID000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bidp_usdt",
+        "instrumentType": "spot"
+    }
+]

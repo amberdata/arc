@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RCM000003515_AMB:USD000000335",
+        "normalizedPair": "rcm_usdt",
+        "normalizedSymbol": "rcm",
+        "nativePair": "RCMUSDT",
+        "exchange": "mexc",
+        "assetName": "READ2N",
+        "assetArcId": "AMB:RCM000003515",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rcm_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "bdp1",
+    "assetName": "BDPlayground",
+    "assetArcId": "AMB:BDP000003051",
+    "website": "https://bdplayground.io/",
+    "whitePaperUrl": "https://bdplayground.io/BDP%20Whitepaper_ver1.00_eng.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BDPlayground/arc_id=AMB:BDP000003051/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ORC000000430_AMB:USD000000949",
+        "normalizedPair": "orca_usd",
+        "normalizedSymbol": "orca",
+        "nativePair": "ORCA-USD",
+        "exchange": "gdax",
+        "assetName": "Orca",
+        "assetArcId": "AMB:ORC000000430",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "orca_usd",
+        "instrumentType": "spot"
+    }
+]

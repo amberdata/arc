@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MOB000000219_AMB:USD000000949",
+        "normalizedPair": "mob_usd",
+        "normalizedSymbol": "mob",
+        "nativePair": "tMOBUSD",
+        "exchange": "bitfinex",
+        "assetName": "Mobster",
+        "assetArcId": "AMB:MOB000000219",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mob_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MOB000000219_AMB:USD000000335",
+        "normalizedPair": "mob_usdt",
+        "normalizedSymbol": "mob",
+        "nativePair": "tMOBUST",
+        "exchange": "bitfinex",
+        "assetName": "Mobster",
+        "assetArcId": "AMB:MOB000000219",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mob_usdt",
+        "instrumentType": "spot"
+    }
+]

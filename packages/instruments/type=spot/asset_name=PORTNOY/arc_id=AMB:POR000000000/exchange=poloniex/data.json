@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:POR000000000_AMB:USD000000335",
+        "normalizedPair": "portnoy_usdt",
+        "normalizedSymbol": "portnoy",
+        "nativePair": "PORTNOY_USDT",
+        "exchange": "poloniex",
+        "assetName": "PORTNOY",
+        "assetArcId": "AMB:POR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "portnoy_usdt",
+        "instrumentType": "spot"
+    }
+]

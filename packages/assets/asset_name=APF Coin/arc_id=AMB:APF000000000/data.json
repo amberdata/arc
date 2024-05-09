@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "apfc",
+    "assetName": "APF Coin",
+    "assetArcId": "AMB:APF000000000",
+    "website": "https://apfdigitalagrifund.com/en/",
+    "whitePaperUrl": "https://apfdigitalagrifund.com/site/assets/files/1034/apf_whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=APF Coin/arc_id=AMB:APF000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "comai",
+    "assetName": "COMAI",
+    "assetArcId": "AMB:COM000000000",
+    "website": "https://www.communeai.org/",
+    "whitePaperUrl": "https://ai-secure.github.io/DMLW2022/assets/papers/7.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=COMAI/arc_id=AMB:COM000000000/exchange=mexc/data.json"
+        ]
+    }
+}

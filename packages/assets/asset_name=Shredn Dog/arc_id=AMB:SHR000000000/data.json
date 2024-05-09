@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "shredn",
+    "assetName": "Shredn Dog",
+    "assetArcId": "AMB:SHR000000000",
+    "website": "https://shredndog.io/",
+    "whitePaperUrl": "/how-to-buy/SHREDN?utm_source=mexc&utm_medium=tokenifoSHREDN&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Shredn Dog/arc_id=AMB:SHR000000000/exchange=mexc/data.json"
+        ]
+    }
+}

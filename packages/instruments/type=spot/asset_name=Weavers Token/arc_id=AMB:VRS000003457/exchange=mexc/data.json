@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VRS000003457_AMB:USD000000335",
+        "normalizedPair": "vrs2_usdt",
+        "normalizedSymbol": "vrs2",
+        "nativePair": "VRS2USDT",
+        "exchange": "mexc",
+        "assetName": "WEAVERS TOKEN",
+        "assetArcId": "AMB:VRS000003457",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vrs2_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CLV000000078_AMB:USD000000335",
+        "normalizedPair": "clv_usdt",
+        "normalizedSymbol": "clv",
+        "nativePair": "clv_usdt",
+        "exchange": "zb",
+        "assetName": "Clover Finance",
+        "assetArcId": "AMB:CLV000000078",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "clv_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "huhu",
+    "assetName": "HUHU Connect",
+    "assetArcId": "AMB:HUH000000000",
+    "website": "https://huhutoken.xyz/",
+    "whitePaperUrl": "https://huhu.gitbook.io/huhu-whitepepar",
+    "classificationTags": [
+        "Content & Streaming",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=HUHU Connect/arc_id=AMB:HUH000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:GRO000000000_AMB:USD000000335",
+        "normalizedPair": "grow_usdt",
+        "normalizedSymbol": "grow",
+        "nativePair": "GROWUSDT",
+        "exchange": "mexc",
+        "assetName": "Triathon",
+        "assetArcId": "AMB:GRO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "grow_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GRO000000000_AMB:USD000000335",
+        "normalizedPair": "grokcat_usdt",
+        "normalizedSymbol": "grokcat",
+        "nativePair": "GROKCATUSDT",
+        "exchange": "mexc",
+        "assetName": "Grok Cat",
+        "assetArcId": "AMB:GRO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "grokcat_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GRO000000000_AMB:USD000000335",
+        "normalizedPair": "groks_usdt",
+        "normalizedSymbol": "groks",
+        "nativePair": "GROKSUSDT",
+        "exchange": "mexc",
+        "assetName": "GROKS",
+        "assetArcId": "AMB:GRO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "groks_usdt",
+        "instrumentType": "spot"
+    }
+]

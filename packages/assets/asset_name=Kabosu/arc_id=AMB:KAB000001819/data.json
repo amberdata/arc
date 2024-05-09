@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "kabosu",
+    "assetName": "Kabosu",
+    "assetArcId": "AMB:KAB000001819",
+    "website": "https://kabosufamily.io/",
+    "whitePaperUrl": "/how-to-buy/KABOSU?utm_source=mexc&utm_medium=tokenifoKABOSU&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kabosu/arc_id=AMB:KAB000001819/exchange=mexc/data.json"
+        ]
+    }
+}

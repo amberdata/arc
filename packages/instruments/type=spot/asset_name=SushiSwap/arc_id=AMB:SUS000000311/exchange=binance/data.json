@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:SUS000000311_AMB:BNB000000055",
+        "normalizedPair": "sushi_bnb",
+        "normalizedSymbol": "sushi",
+        "nativePair": "SUSHIBNB",
+        "exchange": "binance",
+        "assetName": "SushiSwap",
+        "assetArcId": "AMB:SUS000000311",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "sushi_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SUS000000311_AMB:BTC000000000",
+        "normalizedPair": "sushi_btc",
+        "normalizedSymbol": "sushi",
+        "nativePair": "SUSHIBTC",
+        "exchange": "binance",
+        "assetName": "SushiSwap",
+        "assetArcId": "AMB:SUS000000311",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "sushi_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SUS000000311_AMB:USD000000335",
+        "normalizedPair": "sushi_usdt",
+        "normalizedSymbol": "sushi",
+        "nativePair": "SUSHIUSDT",
+        "exchange": "binance",
+        "assetName": "SushiSwap",
+        "assetArcId": "AMB:SUS000000311",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sushi_usdt",
+        "instrumentType": "spot"
+    }
+]

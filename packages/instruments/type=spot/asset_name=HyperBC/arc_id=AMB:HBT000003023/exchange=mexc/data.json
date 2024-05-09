@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HBT000003023_AMB:USD000000335",
+        "normalizedPair": "hbt_usdt",
+        "normalizedSymbol": "hbt",
+        "nativePair": "HBTUSDT",
+        "exchange": "mexc",
+        "assetName": "HyperBC",
+        "assetArcId": "AMB:HBT000003023",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "hbt_usdt",
+        "instrumentType": "spot"
+    }
+]

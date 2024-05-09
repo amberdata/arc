@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "gobli",
+    "assetName": "Gobli",
+    "assetArcId": "AMB:GOB000000000",
+    "website": "https://goblibsc.xyz",
+    "whitePaperUrl": "/how-to-buy/GOBLI?utm_source=mexc&utm_medium=tokenifoGOBLI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gobli/arc_id=AMB:GOB000000000/exchange=mexc/data.json"
+        ]
+    }
+}

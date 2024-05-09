@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SUB000000000_AMB:USD000000335",
+        "normalizedPair": "subf_usdt",
+        "normalizedSymbol": "subf",
+        "nativePair": "SUBFUSDT",
+        "exchange": "mexc",
+        "assetName": "Super Best Friends",
+        "assetArcId": "AMB:SUB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "subf_usdt",
+        "instrumentType": "spot"
+    }
+]

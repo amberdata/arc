@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IOT000000173_AMB:KRW000000000",
+        "normalizedPair": "iotx_krw",
+        "normalizedSymbol": "iotx",
+        "nativePair": "IOTX/KRW",
+        "exchange": "bithumb",
+        "assetName": "IoTeX",
+        "assetArcId": "AMB:IOT000000173",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "iotx_krw",
+        "instrumentType": "spot"
+    }
+]

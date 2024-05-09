@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DEV000000000_AMB:USD000000335",
+        "normalizedPair": "devve_usdt",
+        "normalizedSymbol": "devve",
+        "nativePair": "DEVVEUSDT",
+        "exchange": "mexc",
+        "assetName": "DevvE",
+        "assetArcId": "AMB:DEV000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "devve_usdt",
+        "instrumentType": "spot"
+    }
+]

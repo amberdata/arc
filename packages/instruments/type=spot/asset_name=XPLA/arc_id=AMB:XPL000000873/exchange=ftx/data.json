@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XPL000000873_AMB:USD000000949",
+        "normalizedPair": "xpla_usd",
+        "normalizedSymbol": "xpla",
+        "nativePair": "XPLA/USD",
+        "exchange": "ftx",
+        "assetName": "XPLA",
+        "assetArcId": "AMB:XPL000000873",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "xpla_usd",
+        "instrumentType": "spot"
+    }
+]

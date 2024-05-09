@@ -1,0 +1,30 @@
+{
+    "assetSymbol": "hft",
+    "assetName": "Hashflow",
+    "assetArcId": "AMB:HFT000000158",
+    "website": "https://www.hashflow.com/",
+    "whitePaperUrl": "https://docs.hashflow.com/hashflow/",
+    "classificationTags": [
+        "DEX",
+        "Gaming",
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xb3999f658c0391d94a37f7ff328f3fec942bcadc"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hashflow/arc_id=AMB:HFT000000158/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hashflow/arc_id=AMB:HFT000000158/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hashflow/arc_id=AMB:HFT000000158/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hashflow/arc_id=AMB:HFT000000158/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hashflow/arc_id=AMB:HFT000000158/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hashflow/arc_id=AMB:HFT000000158/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hashflow/arc_id=AMB:HFT000000158/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Hashflow/arc_id=AMB:HFT000000158/exchange=mexc/data.json"
+        ]
+    }
+}

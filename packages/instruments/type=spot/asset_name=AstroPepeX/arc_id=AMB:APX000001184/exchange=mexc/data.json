@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:APX000001184_AMB:USD000000335",
+        "normalizedPair": "apx1_usdt",
+        "normalizedSymbol": "apx1",
+        "nativePair": "APX1USDT",
+        "exchange": "mexc",
+        "assetName": "AstroPepeX",
+        "assetArcId": "AMB:APX000001184",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "apx1_usdt",
+        "instrumentType": "spot"
+    }
+]

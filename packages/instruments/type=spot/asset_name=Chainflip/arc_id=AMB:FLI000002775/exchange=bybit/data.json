@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FLI000002775_AMB:USD000000335",
+        "normalizedPair": "flip_usdt",
+        "normalizedSymbol": "flip",
+        "nativePair": "FLIPUSDT",
+        "exchange": "bybit",
+        "assetName": "Chainflip",
+        "assetArcId": "AMB:FLI000002775",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "flip_usdt",
+        "instrumentType": "spot"
+    }
+]

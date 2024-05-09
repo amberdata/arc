@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:COR000000487_AMB:USD000000333",
+        "normalizedPair": "core_usdc",
+        "normalizedSymbol": "core",
+        "nativePair": "CORE-USDC",
+        "exchange": "okex",
+        "assetName": "cVault.finance",
+        "assetArcId": "AMB:COR000000487",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "core_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:COR000000487_AMB:USD000000335",
+        "normalizedPair": "core_usdt",
+        "normalizedSymbol": "core",
+        "nativePair": "CORE-USDT",
+        "exchange": "okex",
+        "assetName": "cVault.finance",
+        "assetArcId": "AMB:COR000000487",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "core_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:COR000000487_AMB:TRY000000940",
+        "normalizedPair": "core_try",
+        "normalizedSymbol": "core",
+        "nativePair": "CORE-TRY",
+        "exchange": "okex",
+        "assetName": "cVault.finance",
+        "assetArcId": "AMB:COR000000487",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "core_try",
+        "instrumentType": "spot"
+    }
+]

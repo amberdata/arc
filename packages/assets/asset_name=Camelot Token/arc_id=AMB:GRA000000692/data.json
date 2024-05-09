@@ -1,0 +1,23 @@
+{
+    "assetSymbol": "grail",
+    "assetName": "Camelot Token",
+    "assetArcId": "AMB:GRA000000692",
+    "website": "https://camelot.exchange/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "DEX"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Arbitrum",
+            "address": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Camelot Token/arc_id=AMB:GRA000000692/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Camelot Token/arc_id=AMB:GRA000000692/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Camelot Token/arc_id=AMB:GRA000000692/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAT000002601_AMB:USD000000949",
+        "normalizedPair": "matichedge_usd",
+        "normalizedSymbol": "matichedge",
+        "nativePair": "MATICHEDGE/USD",
+        "exchange": "ftx",
+        "assetName": "1X Short Matic Token",
+        "assetArcId": "AMB:MAT000002601",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "matichedge_usd",
+        "instrumentType": "spot"
+    }
+]

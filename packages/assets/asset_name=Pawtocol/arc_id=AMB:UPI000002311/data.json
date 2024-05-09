@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "upi",
+    "assetName": "Pawtocol",
+    "assetArcId": "AMB:UPI000002311",
+    "website": "https://pawtocol.com/",
+    "whitePaperUrl": "/how-to-buy/UPI?utm_source=mexc&utm_medium=tokenifoUPI&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Pawtocol/arc_id=AMB:UPI000002311/exchange=mexc/data.json"
+        ]
+    }
+}

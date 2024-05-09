@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VSC000002328_AMB:USD000000335",
+        "normalizedPair": "vsc_usdt",
+        "normalizedSymbol": "vsc",
+        "nativePair": "VSCUSDT",
+        "exchange": "mexc",
+        "assetName": "Vyvo Coin",
+        "assetArcId": "AMB:VSC000002328",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vsc_usdt",
+        "instrumentType": "spot"
+    }
+]

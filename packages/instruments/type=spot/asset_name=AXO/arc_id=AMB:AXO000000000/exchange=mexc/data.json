@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AXO000000000_AMB:USD000000335",
+        "normalizedPair": "axo_usdt",
+        "normalizedSymbol": "axo",
+        "nativePair": "AXOUSDT",
+        "exchange": "mexc",
+        "assetName": "AXO",
+        "assetArcId": "AMB:AXO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "axo_usdt",
+        "instrumentType": "spot"
+    }
+]

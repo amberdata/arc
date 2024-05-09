@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "sui",
+    "assetName": "Sui",
+    "assetArcId": "AMB:SUI000000308",
+    "website": "https://sui.io/",
+    "whitePaperUrl": "https://github.com/MystenLabs/sui/blob/main/doc/paper/sui.pdf",
+    "classificationTags": [
+        "Privacy",
+        "Smart Contract",
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Sui",
+            "address": ""
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

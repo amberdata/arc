@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:WBT000000852_AMB:USD000000949",
+        "normalizedPair": "wbt_usd",
+        "normalizedSymbol": "wbt",
+        "nativePair": "tWHBT:USD",
+        "exchange": "bitfinex",
+        "assetName": "WhiteBIT",
+        "assetArcId": "AMB:WBT000000852",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "whbt_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:WBT000000852_AMB:USD000000335",
+        "normalizedPair": "wbt_usdt",
+        "normalizedSymbol": "wbt",
+        "nativePair": "tWHBT:UST",
+        "exchange": "bitfinex",
+        "assetName": "WhiteBIT",
+        "assetArcId": "AMB:WBT000000852",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "whbt_usdt",
+        "instrumentType": "spot"
+    }
+]

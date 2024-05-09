@@ -1,0 +1,18 @@
+{
+    "assetSymbol": "ark",
+    "assetName": "Ark",
+    "assetArcId": "AMB:ARK000000028",
+    "website": "https://ark.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Proof-of-Stake",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ark/arc_id=AMB:ARK000000028/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ark/arc_id=AMB:ARK000000028/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ark/arc_id=AMB:ARK000000028/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:STP000000305_AMB:BTC000000000",
+        "normalizedPair": "stpt_btc",
+        "normalizedSymbol": "stpt",
+        "nativePair": "STPT_BTC",
+        "exchange": "poloniex",
+        "assetName": "Standard Tokenization Protocol",
+        "assetArcId": "AMB:STP000000305",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "stpt_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:STP000000305_AMB:USD000000335",
+        "normalizedPair": "stpt_usdt",
+        "normalizedSymbol": "stpt",
+        "nativePair": "STPT_USDT",
+        "exchange": "poloniex",
+        "assetName": "Standard Tokenization Protocol",
+        "assetArcId": "AMB:STP000000305",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "stpt_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JGN000001809_AMB:USD000000335",
+        "normalizedPair": "jgn_usdt",
+        "normalizedSymbol": "jgn",
+        "nativePair": "JGNUSDT",
+        "exchange": "mexc",
+        "assetName": "Juggernaut",
+        "assetArcId": "AMB:JGN000001809",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jgn_usdt",
+        "instrumentType": "spot"
+    }
+]

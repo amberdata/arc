@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "eurt",
+    "assetName": "Tether EURt",
+    "assetArcId": "AMB:EUR000000501",
+    "website": "https://tether.to/en/",
+    "whitePaperUrl": "https://tether.to/en/transparency/",
+    "classificationTags": [
+        "Stablecoin"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether EURt/arc_id=AMB:EUR000000501/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether EURt/arc_id=AMB:EUR000000501/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether EURt/arc_id=AMB:EUR000000501/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether EURt/arc_id=AMB:EUR000000501/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether EURt/arc_id=AMB:EUR000000501/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether EURt/arc_id=AMB:EUR000000501/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether EURt/arc_id=AMB:EUR000000501/exchange=mexc/data.json"
+        ]
+    }
+}

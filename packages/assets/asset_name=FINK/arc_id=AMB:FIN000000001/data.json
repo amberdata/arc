@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "fink",
+    "assetName": "FINK",
+    "assetArcId": "AMB:FIN000000001",
+    "website": "https://www.basedfink.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "BASE",
+            "address": "0x9ee4ed687d1ae6fc3a7a427add25c6356876af6c"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=FINK/arc_id=AMB:FIN000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

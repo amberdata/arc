@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BTS000000064_AMB:BTC000000000",
+        "normalizedPair": "bts_btc",
+        "normalizedSymbol": "bts",
+        "nativePair": "BTS_BTC",
+        "exchange": "poloniex",
+        "assetName": "BitShares",
+        "assetArcId": "AMB:BTS000000064",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "bts_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BTS000000064_AMB:USD000000335",
+        "normalizedPair": "bts_usdt",
+        "normalizedSymbol": "bts",
+        "nativePair": "BTS_USDT",
+        "exchange": "poloniex",
+        "assetName": "BitShares",
+        "assetArcId": "AMB:BTS000000064",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bts_usdt",
+        "instrumentType": "spot"
+    }
+]

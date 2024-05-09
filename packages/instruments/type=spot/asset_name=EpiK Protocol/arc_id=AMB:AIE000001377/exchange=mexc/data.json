@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIE000001377_AMB:USD000000335",
+        "normalizedPair": "aiepk_usdt",
+        "normalizedSymbol": "aiepk",
+        "nativePair": "AIEPKUSDT",
+        "exchange": "mexc",
+        "assetName": "EpiK Protocol",
+        "assetArcId": "AMB:AIE000001377",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aiepk_usdt",
+        "instrumentType": "spot"
+    }
+]

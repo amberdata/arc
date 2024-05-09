@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JTO000002767_AMB:USD000000335",
+        "normalizedPair": "jto_usdt",
+        "normalizedSymbol": "jto",
+        "nativePair": "JTO-USDT",
+        "exchange": "okex",
+        "assetName": "Jito",
+        "assetArcId": "AMB:JTO000002767",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jto_usdt",
+        "instrumentType": "spot"
+    }
+]

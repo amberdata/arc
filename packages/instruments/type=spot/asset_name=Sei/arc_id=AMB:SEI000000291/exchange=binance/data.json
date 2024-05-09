@@ -1,0 +1,86 @@
+[
+    {
+        "arcPairId": "AMB:SEI000000291_AMB:BNB000000055",
+        "normalizedPair": "sei_bnb",
+        "normalizedSymbol": "sei",
+        "nativePair": "SEIBNB",
+        "exchange": "binance",
+        "assetName": "Sei",
+        "assetArcId": "AMB:SEI000000291",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "sei_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SEI000000291_AMB:BTC000000000",
+        "normalizedPair": "sei_btc",
+        "normalizedSymbol": "sei",
+        "nativePair": "SEIBTC",
+        "exchange": "binance",
+        "assetName": "Sei",
+        "assetArcId": "AMB:SEI000000291",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "sei_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SEI000000291_AMB:FDU000000122",
+        "normalizedPair": "sei_fdusd",
+        "normalizedSymbol": "sei",
+        "nativePair": "SEIFDUSD",
+        "exchange": "binance",
+        "assetName": "Sei",
+        "assetArcId": "AMB:SEI000000291",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "sei_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SEI000000291_AMB:TRY000000940",
+        "normalizedPair": "sei_try",
+        "normalizedSymbol": "sei",
+        "nativePair": "SEITRY",
+        "exchange": "binance",
+        "assetName": "Sei",
+        "assetArcId": "AMB:SEI000000291",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "sei_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SEI000000291_AMB:TUS000000326",
+        "normalizedPair": "sei_tusd",
+        "normalizedSymbol": "sei",
+        "nativePair": "SEITUSD",
+        "exchange": "binance",
+        "assetName": "Sei",
+        "assetArcId": "AMB:SEI000000291",
+        "quoteArcId": "AMB:TUS000000326",
+        "collectedPair": "sei_tusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SEI000000291_AMB:USD000000335",
+        "normalizedPair": "sei_usdt",
+        "normalizedSymbol": "sei",
+        "nativePair": "SEIUSDT",
+        "exchange": "binance",
+        "assetName": "Sei",
+        "assetArcId": "AMB:SEI000000291",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sei_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SEI000000291_AMB:USD000000333",
+        "normalizedPair": "sei_usdc",
+        "normalizedSymbol": "sei",
+        "nativePair": "SEIUSDC",
+        "exchange": "binance",
+        "assetName": "Sei",
+        "assetArcId": "AMB:SEI000000291",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "sei_usdc",
+        "instrumentType": "spot"
+    }
+]

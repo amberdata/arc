@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RAM000000000_AMB:USD000000335",
+        "normalizedPair": "ramadam_usdt",
+        "normalizedSymbol": "ramadam",
+        "nativePair": "RAMADAMUSDT",
+        "exchange": "mexc",
+        "assetName": "RAMADAM",
+        "assetArcId": "AMB:RAM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ramadam_usdt",
+        "instrumentType": "spot"
+    }
+]

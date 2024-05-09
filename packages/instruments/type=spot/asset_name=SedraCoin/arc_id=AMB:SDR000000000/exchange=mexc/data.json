@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SDR000000000_AMB:USD000000335",
+        "normalizedPair": "sdr_usdt",
+        "normalizedSymbol": "sdr",
+        "nativePair": "SDRUSDT",
+        "exchange": "mexc",
+        "assetName": "SedraCoin",
+        "assetArcId": "AMB:SDR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sdr_usdt",
+        "instrumentType": "spot"
+    }
+]

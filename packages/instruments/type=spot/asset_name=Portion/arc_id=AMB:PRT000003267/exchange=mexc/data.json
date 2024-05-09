@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PRT000003267_AMB:USD000000335",
+        "normalizedPair": "prt_usdt",
+        "normalizedSymbol": "prt",
+        "nativePair": "PRTUSDT",
+        "exchange": "mexc",
+        "assetName": "Portion",
+        "assetArcId": "AMB:PRT000003267",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "prt_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ubdn",
+    "assetName": "UBD Network",
+    "assetArcId": "AMB:UBD000000000",
+    "website": "https://ubdn.com/",
+    "whitePaperUrl": "https://ubdn.com/vision",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=UBD Network/arc_id=AMB:UBD000000000/exchange=mexc/data.json"
+        ]
+    }
+}

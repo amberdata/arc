@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SLM000000000_AMB:USD000000335",
+        "normalizedPair": "slm_usdt",
+        "normalizedSymbol": "slm",
+        "nativePair": "SLMUSDT",
+        "exchange": "mexc",
+        "assetName": "SLM",
+        "assetArcId": "AMB:SLM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "slm_usdt",
+        "instrumentType": "spot"
+    }
+]

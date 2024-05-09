@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MDX000000215_AMB:USD000000335",
+        "normalizedPair": "mdx_usdt",
+        "normalizedSymbol": "mdx",
+        "nativePair": "MDXUSDT",
+        "exchange": "mexc",
+        "assetName": "Mdex",
+        "assetArcId": "AMB:MDX000000215",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mdx_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bmn",
+    "assetName": "BitMin Wallet",
+    "assetArcId": "AMB:BMN000000887",
+    "website": "http://bitmin.io/",
+    "whitePaperUrl": "/how-to-buy/BMN?utm_source=mexc&utm_medium=tokenifoBMN&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BitMin Wallet/arc_id=AMB:BMN000000887/exchange=mexc/data.json"
+        ]
+    }
+}

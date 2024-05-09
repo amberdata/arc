@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "factr",
+    "assetName": "Defactor",
+    "assetArcId": "AMB:FAC000001227",
+    "website": "https://defactor.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0xe0bceef36f3a6efdd5eebfacd591423f8549b9d5"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Defactor/arc_id=AMB:FAC000001227/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Defactor/arc_id=AMB:FAC000001227/exchange=mexc/data.json"
+        ]
+    }
+}

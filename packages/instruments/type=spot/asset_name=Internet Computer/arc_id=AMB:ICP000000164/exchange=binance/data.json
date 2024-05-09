@@ -1,0 +1,110 @@
+[
+    {
+        "arcPairId": "AMB:ICP000000164_AMB:BNB000000055",
+        "normalizedPair": "icp_bnb",
+        "normalizedSymbol": "icp",
+        "nativePair": "ICPBNB",
+        "exchange": "binance",
+        "assetName": "Internet Computer",
+        "assetArcId": "AMB:ICP000000164",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "icp_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ICP000000164_AMB:BTC000000000",
+        "normalizedPair": "icp_btc",
+        "normalizedSymbol": "icp",
+        "nativePair": "ICPBTC",
+        "exchange": "binance",
+        "assetName": "Internet Computer",
+        "assetArcId": "AMB:ICP000000164",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "icp_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ICP000000164_AMB:BUS000000067",
+        "normalizedPair": "icp_busd",
+        "normalizedSymbol": "icp",
+        "nativePair": "ICPBUSD",
+        "exchange": "binance",
+        "assetName": "Internet Computer",
+        "assetArcId": "AMB:ICP000000164",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "icp_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ICP000000164_AMB:ETH000000000",
+        "normalizedPair": "icp_eth",
+        "normalizedSymbol": "icp",
+        "nativePair": "ICPETH",
+        "exchange": "binance",
+        "assetName": "Internet Computer",
+        "assetArcId": "AMB:ICP000000164",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "icp_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ICP000000164_AMB:EUR000000120",
+        "normalizedPair": "icp_eur",
+        "normalizedSymbol": "icp",
+        "nativePair": "ICPEUR",
+        "exchange": "binance",
+        "assetName": "Internet Computer",
+        "assetArcId": "AMB:ICP000000164",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "icp_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ICP000000164_AMB:TRY000000940",
+        "normalizedPair": "icp_try",
+        "normalizedSymbol": "icp",
+        "nativePair": "ICPTRY",
+        "exchange": "binance",
+        "assetName": "Internet Computer",
+        "assetArcId": "AMB:ICP000000164",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "icp_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ICP000000164_AMB:USD000000335",
+        "normalizedPair": "icp_usdt",
+        "normalizedSymbol": "icp",
+        "nativePair": "ICPUSDT",
+        "exchange": "binance",
+        "assetName": "Internet Computer",
+        "assetArcId": "AMB:ICP000000164",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "icp_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ICP000000164_AMB:FDU000000122",
+        "normalizedPair": "icp_fdusd",
+        "normalizedSymbol": "icp",
+        "nativePair": "ICPFDUSD",
+        "exchange": "binance",
+        "assetName": "Internet Computer",
+        "assetArcId": "AMB:ICP000000164",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "icp_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ICP000000164_AMB:USD000000333",
+        "normalizedPair": "icp_usdc",
+        "normalizedSymbol": "icp",
+        "nativePair": "ICPUSDC",
+        "exchange": "binance",
+        "assetName": "Internet Computer",
+        "assetArcId": "AMB:ICP000000164",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "icp_usdc",
+        "instrumentType": "spot"
+    }
+]

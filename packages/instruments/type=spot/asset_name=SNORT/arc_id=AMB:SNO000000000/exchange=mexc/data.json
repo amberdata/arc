@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SNO000000000_AMB:USD000000335",
+        "normalizedPair": "snort_usdt",
+        "normalizedSymbol": "snort",
+        "nativePair": "SNORTUSDT",
+        "exchange": "mexc",
+        "assetName": "SNORT",
+        "assetArcId": "AMB:SNO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "snort_usdt",
+        "instrumentType": "spot"
+    }
+]

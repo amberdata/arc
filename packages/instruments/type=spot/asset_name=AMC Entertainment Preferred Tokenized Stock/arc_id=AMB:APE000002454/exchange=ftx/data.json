@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:APE000002454_AMB:USD000000949",
+        "normalizedPair": "apeamc_usd",
+        "normalizedSymbol": "apeamc",
+        "nativePair": "APEAMC/USD",
+        "exchange": "ftx",
+        "assetName": "AMC Entertainment Preferred Tokenized Stock",
+        "assetArcId": "AMB:APE000002454",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "apeamc_usd",
+        "instrumentType": "spot"
+    }
+]

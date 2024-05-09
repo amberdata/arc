@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "usdp",
+    "assetName": "Pax Dollar",
+    "assetArcId": "AMB:USD000000334",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Proof-of-Stake",
+        "Remittance",
+        "Stablecoin",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

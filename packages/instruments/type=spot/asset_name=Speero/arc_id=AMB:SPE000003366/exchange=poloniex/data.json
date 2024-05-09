@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SPE000003366_AMB:USD000000335",
+        "normalizedPair": "speero_usdt",
+        "normalizedSymbol": "speero",
+        "nativePair": "SPEERO_USDT",
+        "exchange": "poloniex",
+        "assetName": "Speero",
+        "assetArcId": "AMB:SPE000003366",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "speero_usdt",
+        "instrumentType": "spot"
+    }
+]

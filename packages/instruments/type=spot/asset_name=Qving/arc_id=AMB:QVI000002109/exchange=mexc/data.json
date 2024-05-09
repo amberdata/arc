@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:QVI000002109_AMB:USD000000335",
+        "normalizedPair": "qvi_usdt",
+        "normalizedSymbol": "qvi",
+        "nativePair": "QVIUSDT",
+        "exchange": "mexc",
+        "assetName": "Qving",
+        "assetArcId": "AMB:QVI000002109",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "qvi_usdt",
+        "instrumentType": "spot"
+    }
+]

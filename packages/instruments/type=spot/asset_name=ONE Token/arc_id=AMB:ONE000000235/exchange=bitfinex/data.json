@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ONE000000235_AMB:USD000000949",
+        "normalizedPair": "one_usd",
+        "normalizedSymbol": "one",
+        "nativePair": "tONEUSD",
+        "exchange": "bitfinex",
+        "assetName": "ONE Token",
+        "assetArcId": "AMB:ONE000000235",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "one_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ONE000000235_AMB:USD000000335",
+        "normalizedPair": "one_usdt",
+        "normalizedSymbol": "one",
+        "nativePair": "tONEUST",
+        "exchange": "bitfinex",
+        "assetName": "ONE Token",
+        "assetArcId": "AMB:ONE000000235",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "one_usdt",
+        "instrumentType": "spot"
+    }
+]

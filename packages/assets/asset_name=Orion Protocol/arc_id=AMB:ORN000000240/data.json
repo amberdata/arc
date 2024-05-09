@@ -1,0 +1,23 @@
+{
+    "assetSymbol": "orn",
+    "assetName": "Orion Protocol",
+    "assetArcId": "AMB:ORN000000240",
+    "website": "https://www.orionprotocol.io/orn",
+    "whitePaperUrl": "https://www.orionprotocol.io/hubfs/whitepaper.pdf",
+    "classificationTags": [
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orion Protocol/arc_id=AMB:ORN000000240/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orion Protocol/arc_id=AMB:ORN000000240/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orion Protocol/arc_id=AMB:ORN000000240/exchange=mexc/data.json"
+        ]
+    }
+}

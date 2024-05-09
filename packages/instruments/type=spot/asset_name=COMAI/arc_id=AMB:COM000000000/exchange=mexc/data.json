@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:COM000000000_AMB:USD000000335",
+        "normalizedPair": "comai_usdt",
+        "normalizedSymbol": "comai",
+        "nativePair": "COMAIUSDT",
+        "exchange": "mexc",
+        "assetName": "COMAI",
+        "assetArcId": "AMB:COM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "comai_usdt",
+        "instrumentType": "spot"
+    }
+]

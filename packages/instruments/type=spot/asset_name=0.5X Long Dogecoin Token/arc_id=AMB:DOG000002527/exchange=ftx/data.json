@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOG000002527_AMB:USD000000949",
+        "normalizedPair": "dogehalf_usd",
+        "normalizedSymbol": "dogehalf",
+        "nativePair": "DOGEHALF/USD",
+        "exchange": "ftx",
+        "assetName": "0.5X Long Dogecoin Token",
+        "assetArcId": "AMB:DOG000002527",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "dogehalf_usd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FAM000000502_AMB:USD000000335",
+        "normalizedPair": "fame_usdt",
+        "normalizedSymbol": "fame",
+        "nativePair": "FAME-USDT",
+        "exchange": "okex",
+        "assetName": "FARM ME",
+        "assetArcId": "AMB:FAM000000502",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fame_usdt",
+        "instrumentType": "spot"
+    }
+]

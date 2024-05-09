@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PEP000000246_AMB:USD000000335",
+        "normalizedPair": "pepe_usdt",
+        "normalizedSymbol": "pepe",
+        "nativePair": "pepeusdt",
+        "exchange": "huobi",
+        "assetName": "PEPEBSC",
+        "assetArcId": "AMB:PEP000000246",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pepe_usdt",
+        "instrumentType": "spot"
+    }
+]

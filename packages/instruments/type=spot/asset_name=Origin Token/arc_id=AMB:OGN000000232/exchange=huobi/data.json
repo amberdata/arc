@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OGN000000232_AMB:USD000000335",
+        "normalizedPair": "ogn_usdt",
+        "normalizedSymbol": "ogn",
+        "nativePair": "ognusdt",
+        "exchange": "huobi",
+        "assetName": "Origin Token",
+        "assetArcId": "AMB:OGN000000232",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ogn_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "wzrd",
+    "assetName": "wzrd",
+    "assetArcId": "AMB:WZR000000000",
+    "website": "https://magiceden.io/ordinals/marketplace/bitcoin-wizards",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "BRC20",
+            "address": "64550b91e058ef71501f1f46d446f6dae16fa446321f9e02e3c89490220ef400i0"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=wzrd/arc_id=AMB:WZR000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

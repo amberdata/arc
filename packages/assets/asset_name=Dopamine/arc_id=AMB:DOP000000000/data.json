@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dope",
+    "assetName": "Dopamine",
+    "assetArcId": "AMB:DOP000000000",
+    "website": "https://www.web3intelligence.com/",
+    "whitePaperUrl": "https://docs.google.com/presentation/d/1AYsHESA5M6O41E3Sb4oT5NpZQjGfwdyiBqtSQhtqCcc/present?slide=id.g2b5a9ef60a3_0_0",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dopamine/arc_id=AMB:DOP000000000/exchange=mexc/data.json"
+        ]
+    }
+}

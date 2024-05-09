@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:YES000000000_AMB:USD000000335",
+        "normalizedPair": "yesbut_usdt",
+        "normalizedSymbol": "yesbut",
+        "nativePair": "YESBUT_USDT",
+        "exchange": "poloniex",
+        "assetName": "Yes But",
+        "assetArcId": "AMB:YES000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "yesbut_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:YES000000000_AMB:USD000000335",
+        "normalizedPair": "yes_usdt",
+        "normalizedSymbol": "yes",
+        "nativePair": "YES_USDT",
+        "exchange": "poloniex",
+        "assetName": "YES",
+        "assetArcId": "AMB:YES000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "yes_usdt",
+        "instrumentType": "spot"
+    }
+]

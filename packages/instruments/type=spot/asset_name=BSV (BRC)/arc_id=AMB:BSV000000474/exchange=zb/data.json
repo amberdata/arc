@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BSV000000474_AMB:USD000000335",
+        "normalizedPair": "bsv_usdt",
+        "normalizedSymbol": "bsv",
+        "nativePair": "bsv_usdt",
+        "exchange": "zb",
+        "assetName": "BSV (BRC)",
+        "assetArcId": "AMB:BSV000000474",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bsv_usdt",
+        "instrumentType": "spot"
+    }
+]

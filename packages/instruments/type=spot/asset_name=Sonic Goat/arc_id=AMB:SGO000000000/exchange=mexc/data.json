@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SGO000000000_AMB:USD000000335",
+        "normalizedPair": "sgoat_usdt",
+        "normalizedSymbol": "sgoat",
+        "nativePair": "SGOATUSDT",
+        "exchange": "mexc",
+        "assetName": "Sonic Goat",
+        "assetArcId": "AMB:SGO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sgoat_usdt",
+        "instrumentType": "spot"
+    }
+]

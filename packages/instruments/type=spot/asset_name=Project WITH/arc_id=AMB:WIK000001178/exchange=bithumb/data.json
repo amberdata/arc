@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WIK000001178_AMB:KRW000000000",
+        "normalizedPair": "wiken_krw",
+        "normalizedSymbol": "wiken",
+        "nativePair": "WIKEN/KRW",
+        "exchange": "bithumb",
+        "assetName": "Project WITH",
+        "assetArcId": "AMB:WIK000001178",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "wiken_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GPT000001725_AMB:USD000000335",
+        "normalizedPair": "gptg_usdt",
+        "normalizedSymbol": "gptg",
+        "nativePair": "GPTGUSDT",
+        "exchange": "mexc",
+        "assetName": "GPT Guru",
+        "assetArcId": "AMB:GPT000001725",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gptg_usdt",
+        "instrumentType": "spot"
+    }
+]

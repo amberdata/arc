@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SNS000000000_AMB:USD000000335",
+        "normalizedPair": "snsy_usdt",
+        "normalizedSymbol": "snsy",
+        "nativePair": "SNSYUSDT",
+        "exchange": "mexc",
+        "assetName": "Sensay",
+        "assetArcId": "AMB:SNS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "snsy_usdt",
+        "instrumentType": "spot"
+    }
+]

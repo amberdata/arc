@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FUS000000687_AMB:USD000000335",
+        "normalizedPair": "fuse_usdt",
+        "normalizedSymbol": "fuse",
+        "nativePair": "fuseusdt",
+        "exchange": "huobi",
+        "assetName": "Fuse",
+        "assetArcId": "AMB:FUS000000687",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fuse_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PHA000000249_AMB:USD000000335",
+        "normalizedPair": "pha_usdt",
+        "normalizedSymbol": "pha",
+        "nativePair": "PHA-USDT",
+        "exchange": "okex",
+        "assetName": "Phala Network",
+        "assetArcId": "AMB:PHA000000249",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pha_usdt",
+        "instrumentType": "spot"
+    }
+]

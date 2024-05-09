@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LOS000001874_AMB:USD000000335",
+        "normalizedPair": "lost_usdt",
+        "normalizedSymbol": "lost",
+        "nativePair": "LOSTUSDT",
+        "exchange": "mexc",
+        "assetName": "Lost Worlds",
+        "assetArcId": "AMB:LOS000001874",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lost_usdt",
+        "instrumentType": "spot"
+    }
+]

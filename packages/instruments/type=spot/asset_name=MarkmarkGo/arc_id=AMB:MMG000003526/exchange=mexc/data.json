@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MMG000003526_AMB:USD000000335",
+        "normalizedPair": "mmg_usdt",
+        "normalizedSymbol": "mmg",
+        "nativePair": "MMGUSDT",
+        "exchange": "mexc",
+        "assetName": "MarkmarkGo",
+        "assetArcId": "AMB:MMG000003526",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mmg_usdt",
+        "instrumentType": "spot"
+    }
+]

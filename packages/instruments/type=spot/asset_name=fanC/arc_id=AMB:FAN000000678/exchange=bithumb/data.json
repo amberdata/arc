@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FAN000000678_AMB:KRW000000000",
+        "normalizedPair": "fanc_krw",
+        "normalizedSymbol": "fanc",
+        "nativePair": "FANC/KRW",
+        "exchange": "bithumb",
+        "assetName": "fanC",
+        "assetArcId": "AMB:FAN000000678",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "fanc_krw",
+        "instrumentType": "spot"
+    }
+]

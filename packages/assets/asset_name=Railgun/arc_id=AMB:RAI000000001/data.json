@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "rail",
+    "assetName": "Railgun",
+    "assetArcId": "AMB:RAI000000001",
+    "website": "https://railgun.org/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Privacy",
+        "Smart Contract"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0xe76c6c83af64e4c60245d8c7de953df673a7a33d"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Railgun/arc_id=AMB:RAI000000001/exchange=poloniex/data.json"
+        ]
+    }
+}

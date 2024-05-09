@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "bitci",
+    "assetName": "Bitcicoin",
+    "assetArcId": "AMB:BIT000000637",
+    "website": "https://www.bitcichain.com ",
+    "whitePaperUrl": "/how-to-buy/BITCI?utm_source=mexc&utm_medium=tokenifoBITCI&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bitcicoin/arc_id=AMB:BIT000000637/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bitcicoin/arc_id=AMB:BIT000000637/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bitcicoin/arc_id=AMB:BIT000000637/exchange=mexc/data.json"
+        ]
+    }
+}

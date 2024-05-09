@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TIS000003465_AMB:USD000000335",
+        "normalizedPair": "tism_usdt",
+        "normalizedSymbol": "tism",
+        "nativePair": "TISM_USDT",
+        "exchange": "poloniex",
+        "assetName": "The Autism Token",
+        "assetArcId": "AMB:TIS000003465",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tism_usdt",
+        "instrumentType": "spot"
+    }
+]

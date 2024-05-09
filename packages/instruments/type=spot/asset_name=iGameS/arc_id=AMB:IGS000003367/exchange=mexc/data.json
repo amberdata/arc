@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IGS000003367_AMB:USD000000335",
+        "normalizedPair": "igs_usdt",
+        "normalizedSymbol": "igs",
+        "nativePair": "IGSUSDT",
+        "exchange": "mexc",
+        "assetName": "iGameS",
+        "assetArcId": "AMB:IGS000003367",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "igs_usdt",
+        "instrumentType": "spot"
+    }
+]

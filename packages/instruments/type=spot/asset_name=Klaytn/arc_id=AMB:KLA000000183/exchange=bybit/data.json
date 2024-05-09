@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KLA000000183_AMB:USD000000335",
+        "normalizedPair": "klay_usdt",
+        "normalizedSymbol": "klay",
+        "nativePair": "KLAYUSDT",
+        "exchange": "bybit",
+        "assetName": "Klaytn",
+        "assetArcId": "AMB:KLA000000183",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "klay_usdt",
+        "instrumentType": "spot"
+    }
+]

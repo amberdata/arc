@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TRU000003504_AMB:USD000000335",
+        "normalizedPair": "trump_usdt",
+        "normalizedSymbol": "trump",
+        "nativePair": "TRUMPUSDT",
+        "exchange": "mexc",
+        "assetName": "MAGA",
+        "assetArcId": "AMB:TRU000003504",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "trump_usdt",
+        "instrumentType": "spot"
+    }
+]

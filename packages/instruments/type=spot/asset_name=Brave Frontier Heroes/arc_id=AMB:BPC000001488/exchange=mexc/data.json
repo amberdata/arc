@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BPC000001488_AMB:USD000000335",
+        "normalizedPair": "bpc_usdt",
+        "normalizedSymbol": "bpc",
+        "nativePair": "BPCUSDT",
+        "exchange": "mexc",
+        "assetName": "Brave Frontier Heroes",
+        "assetArcId": "AMB:BPC000001488",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bpc_usdt",
+        "instrumentType": "spot"
+    }
+]

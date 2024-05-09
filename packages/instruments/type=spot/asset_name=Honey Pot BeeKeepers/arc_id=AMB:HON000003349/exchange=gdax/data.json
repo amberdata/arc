@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HON000003349_AMB:USD000000949",
+        "normalizedPair": "honey_usd",
+        "normalizedSymbol": "honey",
+        "nativePair": "HONEY-USD",
+        "exchange": "gdax",
+        "assetName": "Honey Pot BeeKeepers",
+        "assetArcId": "AMB:HON000003349",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "honey_usd",
+        "instrumentType": "spot"
+    }
+]

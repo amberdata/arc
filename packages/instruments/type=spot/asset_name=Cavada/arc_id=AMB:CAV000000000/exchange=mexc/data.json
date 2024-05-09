@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CAV000000000_AMB:USD000000335",
+        "normalizedPair": "cavada_usdt",
+        "normalizedSymbol": "cavada",
+        "nativePair": "CAVADAUSDT",
+        "exchange": "mexc",
+        "assetName": "Cavada",
+        "assetArcId": "AMB:CAV000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "cavada_usdt",
+        "instrumentType": "spot"
+    }
+]

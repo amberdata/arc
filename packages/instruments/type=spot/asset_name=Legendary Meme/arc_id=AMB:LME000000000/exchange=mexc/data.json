@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LME000000000_AMB:USD000000335",
+        "normalizedPair": "lme_usdt",
+        "normalizedSymbol": "lme",
+        "nativePair": "LMEUSDT",
+        "exchange": "mexc",
+        "assetName": "Legendary Meme",
+        "assetArcId": "AMB:LME000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lme_usdt",
+        "instrumentType": "spot"
+    }
+]

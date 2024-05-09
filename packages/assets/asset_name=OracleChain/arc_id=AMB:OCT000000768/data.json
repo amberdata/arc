@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "oct",
+    "assetName": "OracleChain",
+    "assetArcId": "AMB:OCT000000768",
+    "website": "https://oct.network/",
+    "whitePaperUrl": "https://github.com/octopus-network/papers/blob/main/Octopus%20Network%20White%20Paper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=OracleChain/arc_id=AMB:OCT000000768/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=OracleChain/arc_id=AMB:OCT000000768/exchange=mexc/data.json"
+        ]
+    }
+}

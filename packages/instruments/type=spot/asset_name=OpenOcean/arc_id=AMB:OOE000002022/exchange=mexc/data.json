@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OOE000002022_AMB:USD000000335",
+        "normalizedPair": "ooe_usdt",
+        "normalizedSymbol": "ooe",
+        "nativePair": "OOEUSDT",
+        "exchange": "mexc",
+        "assetName": "OpenOcean",
+        "assetArcId": "AMB:OOE000002022",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ooe_usdt",
+        "instrumentType": "spot"
+    }
+]

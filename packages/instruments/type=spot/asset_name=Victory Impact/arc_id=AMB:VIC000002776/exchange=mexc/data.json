@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VIC000002776_AMB:USD000000335",
+        "normalizedPair": "vic_usdt",
+        "normalizedSymbol": "vic",
+        "nativePair": "VICUSDT",
+        "exchange": "mexc",
+        "assetName": "Victory Impact",
+        "assetArcId": "AMB:VIC000002776",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vic_usdt",
+        "instrumentType": "spot"
+    }
+]

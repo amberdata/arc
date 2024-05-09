@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PYT000002828_AMB:USD000000335",
+        "normalizedPair": "pyth_usdt",
+        "normalizedSymbol": "pyth",
+        "nativePair": "PYTH-USDT",
+        "exchange": "okex",
+        "assetName": "Pyth Network",
+        "assetArcId": "AMB:PYT000002828",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pyth_usdt",
+        "instrumentType": "spot"
+    }
+]

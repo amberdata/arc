@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "mdt",
+    "assetName": "Measurable Data Token",
+    "assetArcId": "AMB:MDT000000213",
+    "website": "https://mdt.io/",
+    "whitePaperUrl": "https://mdt.io/docs/whitepaper.pdf",
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Measurable Data Token/arc_id=AMB:MDT000000213/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Measurable Data Token/arc_id=AMB:MDT000000213/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Measurable Data Token/arc_id=AMB:MDT000000213/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Measurable Data Token/arc_id=AMB:MDT000000213/exchange=okex/data.json"
+        ]
+    }
+}

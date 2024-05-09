@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PEE000002053_AMB:USD000000335",
+        "normalizedPair": "peel_usdt",
+        "normalizedSymbol": "peel",
+        "nativePair": "PEELUSDT",
+        "exchange": "mexc",
+        "assetName": "Meta Apes",
+        "assetArcId": "AMB:PEE000002053",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "peel_usdt",
+        "instrumentType": "spot"
+    }
+]

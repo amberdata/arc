@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GAI000001696_AMB:USD000000335",
+        "normalizedPair": "gaia_usdt",
+        "normalizedSymbol": "gaia",
+        "nativePair": "GAIAUSDT",
+        "exchange": "mexc",
+        "assetName": "GAIA Everworld",
+        "assetArcId": "AMB:GAI000001696",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gaia_usdt",
+        "instrumentType": "spot"
+    }
+]

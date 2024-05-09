@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VEI000002766_AMB:USD000000335",
+        "normalizedPair": "veil_usdt",
+        "normalizedSymbol": "veil",
+        "nativePair": "VEILUSDT",
+        "exchange": "mexc",
+        "assetName": "Veil Exchange",
+        "assetArcId": "AMB:VEI000002766",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "veil_usdt",
+        "instrumentType": "spot"
+    }
+]

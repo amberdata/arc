@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BSC000001496_AMB:USD000000335",
+        "normalizedPair": "bscpad_usdt",
+        "normalizedSymbol": "bscpad",
+        "nativePair": "BSCPADUSDT",
+        "exchange": "mexc",
+        "assetName": "BSCPAD",
+        "assetArcId": "AMB:BSC000001496",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bscpad_usdt",
+        "instrumentType": "spot"
+    }
+]

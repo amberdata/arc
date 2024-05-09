@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MOO000001951_AMB:EUR000000120",
+        "normalizedPair": "moon_eur",
+        "normalizedSymbol": "moon",
+        "nativePair": "MOONEUR",
+        "exchange": "kraken",
+        "assetName": "r/CryptoCurrency Moons",
+        "assetArcId": "AMB:MOO000001951",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "moon_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MOO000001951_AMB:USD000000949",
+        "normalizedPair": "moon_usd",
+        "normalizedSymbol": "moon",
+        "nativePair": "MOONUSD",
+        "exchange": "kraken",
+        "assetName": "r/CryptoCurrency Moons",
+        "assetArcId": "AMB:MOO000001951",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "moon_usd",
+        "instrumentType": "spot"
+    }
+]

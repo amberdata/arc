@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TPR000000000_AMB:USD000000335",
+        "normalizedPair": "tpro_usdt",
+        "normalizedSymbol": "tpro",
+        "nativePair": "TPROUSDT",
+        "exchange": "mexc",
+        "assetName": "TPRO Network",
+        "assetArcId": "AMB:TPR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tpro_usdt",
+        "instrumentType": "spot"
+    }
+]

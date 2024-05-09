@@ -1,0 +1,28 @@
+{
+    "assetSymbol": "ctsi",
+    "assetName": "Cartesi",
+    "assetArcId": "AMB:CTS000000086",
+    "website": "https://cartesi.io/",
+    "whitePaperUrl": "https://cartesi.io/cartesi_whitepaper.pdf",
+    "classificationTags": [
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cartesi/arc_id=AMB:CTS000000086/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cartesi/arc_id=AMB:CTS000000086/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cartesi/arc_id=AMB:CTS000000086/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cartesi/arc_id=AMB:CTS000000086/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cartesi/arc_id=AMB:CTS000000086/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cartesi/arc_id=AMB:CTS000000086/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cartesi/arc_id=AMB:CTS000000086/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cartesi/arc_id=AMB:CTS000000086/exchange=binanceus/data.json"
+        ]
+    }
+}

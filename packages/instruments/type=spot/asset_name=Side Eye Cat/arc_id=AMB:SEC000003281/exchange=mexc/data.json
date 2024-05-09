@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SEC000003281_AMB:USD000000335",
+        "normalizedPair": "sec_usdt",
+        "normalizedSymbol": "sec",
+        "nativePair": "SECUSDT",
+        "exchange": "mexc",
+        "assetName": "Side Eye Cat",
+        "assetArcId": "AMB:SEC000003281",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sec_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRA000003005_AMB:USD000000335",
+        "normalizedPair": "crac_usdt",
+        "normalizedSymbol": "crac",
+        "nativePair": "CRACUSDT",
+        "exchange": "mexc",
+        "assetName": "Cracle",
+        "assetArcId": "AMB:CRA000003005",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "crac_usdt",
+        "instrumentType": "spot"
+    }
+]

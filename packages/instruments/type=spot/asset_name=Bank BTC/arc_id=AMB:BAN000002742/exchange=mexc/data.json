@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAN000002742_AMB:USD000000335",
+        "normalizedPair": "bankbtc_usdt",
+        "normalizedSymbol": "bankbtc",
+        "nativePair": "BANKBTCUSDT",
+        "exchange": "mexc",
+        "assetName": "Bank BTC",
+        "assetArcId": "AMB:BAN000002742",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bankbtc_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KSO000002582_AMB:USD000000949",
+        "normalizedPair": "ksos_usd",
+        "normalizedSymbol": "ksos",
+        "nativePair": "KSOS/USD",
+        "exchange": "ftx",
+        "assetName": "Kilo OpenDAO",
+        "assetArcId": "AMB:KSO000002582",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ksos_usd",
+        "instrumentType": "spot"
+    }
+]

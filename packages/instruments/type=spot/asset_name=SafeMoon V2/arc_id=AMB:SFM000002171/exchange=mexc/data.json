@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SFM000002171_AMB:USD000000335",
+        "normalizedPair": "sfm_usdt",
+        "normalizedSymbol": "sfm",
+        "nativePair": "SFMUSDT",
+        "exchange": "mexc",
+        "assetName": "SafeMoon V2",
+        "assetArcId": "AMB:SFM000002171",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sfm_usdt",
+        "instrumentType": "spot"
+    }
+]

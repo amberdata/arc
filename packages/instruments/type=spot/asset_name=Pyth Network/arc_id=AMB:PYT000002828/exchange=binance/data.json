@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:PYT000002828_AMB:USD000000335",
+        "normalizedPair": "pyth_usdt",
+        "normalizedSymbol": "pyth",
+        "nativePair": "PYTHUSDT",
+        "exchange": "binance",
+        "assetName": "Pyth Network",
+        "assetArcId": "AMB:PYT000002828",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pyth_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PYT000002828_AMB:TRY000000940",
+        "normalizedPair": "pyth_try",
+        "normalizedSymbol": "pyth",
+        "nativePair": "PYTHTRY",
+        "exchange": "binance",
+        "assetName": "Pyth Network",
+        "assetArcId": "AMB:PYT000002828",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "pyth_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PYT000002828_AMB:BTC000000000",
+        "normalizedPair": "pyth_btc",
+        "normalizedSymbol": "pyth",
+        "nativePair": "PYTHBTC",
+        "exchange": "binance",
+        "assetName": "Pyth Network",
+        "assetArcId": "AMB:PYT000002828",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "pyth_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PYT000002828_AMB:FDU000000122",
+        "normalizedPair": "pyth_fdusd",
+        "normalizedSymbol": "pyth",
+        "nativePair": "PYTHFDUSD",
+        "exchange": "binance",
+        "assetName": "Pyth Network",
+        "assetArcId": "AMB:PYT000002828",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "pyth_fdusd",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETH000002545_AMB:USD000000949",
+        "normalizedPair": "ethhalf_usd",
+        "normalizedSymbol": "ethhalf",
+        "nativePair": "ETHHALF/USD",
+        "exchange": "ftx",
+        "assetName": "0.5X Long Ethereum Token",
+        "assetArcId": "AMB:ETH000002545",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ethhalf_usd",
+        "instrumentType": "spot"
+    }
+]

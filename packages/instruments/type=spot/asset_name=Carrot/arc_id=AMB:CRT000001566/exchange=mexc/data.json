@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRT000001566_AMB:USD000000335",
+        "normalizedPair": "crt_usdt",
+        "normalizedSymbol": "crt",
+        "nativePair": "CRTUSDT",
+        "exchange": "mexc",
+        "assetName": "Carrot",
+        "assetArcId": "AMB:CRT000001566",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "crt_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "assetSymbol": "slp",
+    "assetName": "Smooth Love Potion",
+    "assetArcId": "AMB:SLP000000295",
+    "website": "https://axieinfinity.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Smooth Love Potion/arc_id=AMB:SLP000000295/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Smooth Love Potion/arc_id=AMB:SLP000000295/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Smooth Love Potion/arc_id=AMB:SLP000000295/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Smooth Love Potion/arc_id=AMB:SLP000000295/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Smooth Love Potion/arc_id=AMB:SLP000000295/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Smooth Love Potion/arc_id=AMB:SLP000000295/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Smooth Love Potion/arc_id=AMB:SLP000000295/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Smooth Love Potion/arc_id=AMB:SLP000000295/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Smooth Love Potion/arc_id=AMB:SLP000000295/exchange=mexc/data.json"
+        ]
+    }
+}

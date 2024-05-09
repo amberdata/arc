@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAN000001891_AMB:USD000000335",
+        "normalizedPair": "man_usdt",
+        "normalizedSymbol": "man",
+        "nativePair": "MANUSDT",
+        "exchange": "mexc",
+        "assetName": "Matrix AI Network",
+        "assetArcId": "AMB:MAN000001891",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "man_usdt",
+        "instrumentType": "spot"
+    }
+]

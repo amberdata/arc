@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OCT000003216_AMB:USD000000335",
+        "normalizedPair": "octa_usdt",
+        "normalizedSymbol": "octa",
+        "nativePair": "OCTAUSDT",
+        "exchange": "mexc",
+        "assetName": "OctaSpace",
+        "assetArcId": "AMB:OCT000003216",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "octa_usdt",
+        "instrumentType": "spot"
+    }
+]

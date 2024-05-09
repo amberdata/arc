@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BRW000000473_AMB:USD000000335",
+        "normalizedPair": "brwl_usdt",
+        "normalizedSymbol": "brwl",
+        "nativePair": "BRWL-USDT",
+        "exchange": "okex",
+        "assetName": "Blockchain Brawlers",
+        "assetArcId": "AMB:BRW000000473",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "brwl_usdt",
+        "instrumentType": "spot"
+    }
+]

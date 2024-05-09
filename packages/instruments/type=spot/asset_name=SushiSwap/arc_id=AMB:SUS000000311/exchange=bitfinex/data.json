@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SUS000000311_AMB:USD000000949",
+        "normalizedPair": "sushi_usd",
+        "normalizedSymbol": "sushi",
+        "nativePair": "tSUSHI:USD",
+        "exchange": "bitfinex",
+        "assetName": "SushiSwap",
+        "assetArcId": "AMB:SUS000000311",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "sushi_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SUS000000311_AMB:USD000000335",
+        "normalizedPair": "sushi_usdt",
+        "normalizedSymbol": "sushi",
+        "nativePair": "tSUSHI:UST",
+        "exchange": "bitfinex",
+        "assetName": "SushiSwap",
+        "assetArcId": "AMB:SUS000000311",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sushi_usdt",
+        "instrumentType": "spot"
+    }
+]

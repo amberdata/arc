@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HUA000001765_AMB:USD000000335",
+        "normalizedPair": "huahua_usdt",
+        "normalizedSymbol": "huahua",
+        "nativePair": "HUAHUAUSDT",
+        "exchange": "mexc",
+        "assetName": "Chihuahua",
+        "assetArcId": "AMB:HUA000001765",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "huahua_usdt",
+        "instrumentType": "spot"
+    }
+]

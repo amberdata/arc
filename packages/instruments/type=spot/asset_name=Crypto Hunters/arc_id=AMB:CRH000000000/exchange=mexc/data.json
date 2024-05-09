@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CRH000000000_AMB:USD000000335",
+        "normalizedPair": "crh_usdt",
+        "normalizedSymbol": "crh",
+        "nativePair": "CRHUSDT",
+        "exchange": "mexc",
+        "assetName": "Crypto Hunters",
+        "assetArcId": "AMB:CRH000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "crh_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DRA000003313_AMB:USD000000335",
+        "normalizedPair": "dragon_usdt",
+        "normalizedSymbol": "dragon",
+        "nativePair": "DRAGONUSDT",
+        "exchange": "mexc",
+        "assetName": "SolDragon",
+        "assetArcId": "AMB:DRA000003313",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dragon_usdt",
+        "instrumentType": "spot"
+    }
+]

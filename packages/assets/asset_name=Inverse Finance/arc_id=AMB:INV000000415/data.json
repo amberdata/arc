@@ -1,0 +1,24 @@
+{
+    "assetSymbol": "inv",
+    "assetName": "Inverse Finance",
+    "assetArcId": "AMB:INV000000415",
+    "website": "https://inverse.finance/",
+    "whitePaperUrl": "https://docs.inverse.finance/",
+    "classificationTags": [
+        "Governance",
+        "Lending",
+        "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Inverse Finance/arc_id=AMB:INV000000415/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Inverse Finance/arc_id=AMB:INV000000415/exchange=mexc/data.json"
+        ]
+    }
+}

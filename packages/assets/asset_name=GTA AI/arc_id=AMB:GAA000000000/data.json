@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ga",
+    "assetName": "GTA AI",
+    "assetArcId": "AMB:GAA000000000",
+    "website": "https://www.bnbgtaai.com/",
+    "whitePaperUrl": "/how-to-buy/GA?utm_source=mexc&utm_medium=tokenifoGA&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GTA AI/arc_id=AMB:GAA000000000/exchange=mexc/data.json"
+        ]
+    }
+}

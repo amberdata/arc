@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:PYR000000263_AMB:BTC000000000",
+        "normalizedPair": "pyr_btc",
+        "normalizedSymbol": "pyr",
+        "nativePair": "PYRBTC",
+        "exchange": "binance",
+        "assetName": "Vulcan Forged PYR",
+        "assetArcId": "AMB:PYR000000263",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "pyr_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PYR000000263_AMB:BUS000000067",
+        "normalizedPair": "pyr_busd",
+        "normalizedSymbol": "pyr",
+        "nativePair": "PYRBUSD",
+        "exchange": "binance",
+        "assetName": "Vulcan Forged PYR",
+        "assetArcId": "AMB:PYR000000263",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "pyr_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PYR000000263_AMB:USD000000335",
+        "normalizedPair": "pyr_usdt",
+        "normalizedSymbol": "pyr",
+        "nativePair": "PYRUSDT",
+        "exchange": "binance",
+        "assetName": "Vulcan Forged PYR",
+        "assetArcId": "AMB:PYR000000263",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pyr_usdt",
+        "instrumentType": "spot"
+    }
+]

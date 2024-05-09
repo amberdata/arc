@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "srlty",
+    "assetName": "SaitaRealty",
+    "assetArcId": "AMB:SRL000002226",
+    "website": "https://saitarealty.com/",
+    "whitePaperUrl": "https://saitarealty.com/pdf/SaitaRealty-whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SaitaRealty/arc_id=AMB:SRL000002226/exchange=mexc/data.json"
+        ]
+    }
+}

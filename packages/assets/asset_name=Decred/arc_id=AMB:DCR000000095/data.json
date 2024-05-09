@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "dcr",
+    "assetName": "Decred",
+    "assetArcId": "AMB:DCR000000095",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance",
+        "Proof-of-Stake",
+        "Proof-of-Work"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Decred/arc_id=AMB:DCR000000095/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Decred/arc_id=AMB:DCR000000095/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Decred/arc_id=AMB:DCR000000095/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Decred/arc_id=AMB:DCR000000095/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Decred/arc_id=AMB:DCR000000095/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Decred/arc_id=AMB:DCR000000095/exchange=mexc/data.json"
+        ]
+    }
+}

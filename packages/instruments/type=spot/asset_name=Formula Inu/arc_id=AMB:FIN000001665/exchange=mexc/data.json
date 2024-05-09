@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FIN000001665_AMB:USD000000335",
+        "normalizedPair": "finu_usdt",
+        "normalizedSymbol": "finu",
+        "nativePair": "FINUUSDT",
+        "exchange": "mexc",
+        "assetName": "Formula Inu",
+        "assetArcId": "AMB:FIN000001665",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "finu_usdt",
+        "instrumentType": "spot"
+    }
+]

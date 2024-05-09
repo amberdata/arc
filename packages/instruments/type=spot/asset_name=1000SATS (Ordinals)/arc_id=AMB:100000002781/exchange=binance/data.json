@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:100000002781_AMB:TRY000000940",
+        "normalizedPair": "1000sats_try",
+        "normalizedSymbol": "1000sats",
+        "nativePair": "1000SATSTRY",
+        "exchange": "binance",
+        "assetName": "1000SATS (Ordinals)",
+        "assetArcId": "AMB:100000002781",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "1000sats_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:100000002781_AMB:FDU000000122",
+        "normalizedPair": "1000sats_fdusd",
+        "normalizedSymbol": "1000sats",
+        "nativePair": "1000SATSFDUSD",
+        "exchange": "binance",
+        "assetName": "1000SATS (Ordinals)",
+        "assetArcId": "AMB:100000002781",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "1000sats_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:100000002781_AMB:USD000000335",
+        "normalizedPair": "1000sats_usdt",
+        "normalizedSymbol": "1000sats",
+        "nativePair": "1000SATSUSDT",
+        "exchange": "binance",
+        "assetName": "1000SATS (Ordinals)",
+        "assetArcId": "AMB:100000002781",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "1000sats_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "portuma",
+    "assetName": "Portuma",
+    "assetArcId": "AMB:POR000002091",
+    "website": "https://portoken.com/",
+    "whitePaperUrl": "https://portoken.com/portoken-whitepaper.pdf",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Portuma/arc_id=AMB:POR000002091/exchange=mexc/data.json"
+        ]
+    }
+}

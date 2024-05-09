@@ -1,0 +1,50 @@
+[
+    {
+        "arcPairId": "AMB:CRV000000084_AMB:BTC000000000",
+        "normalizedPair": "crv_btc",
+        "normalizedSymbol": "crv",
+        "nativePair": "CRVXBT",
+        "exchange": "kraken",
+        "assetName": "Curve DAO Token",
+        "assetArcId": "AMB:CRV000000084",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "crv_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CRV000000084_AMB:ETH000000000",
+        "normalizedPair": "crv_eth",
+        "normalizedSymbol": "crv",
+        "nativePair": "CRVETH",
+        "exchange": "kraken",
+        "assetName": "Curve DAO Token",
+        "assetArcId": "AMB:CRV000000084",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "crv_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CRV000000084_AMB:EUR000000120",
+        "normalizedPair": "crv_eur",
+        "normalizedSymbol": "crv",
+        "nativePair": "CRVEUR",
+        "exchange": "kraken",
+        "assetName": "Curve DAO Token",
+        "assetArcId": "AMB:CRV000000084",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "crv_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CRV000000084_AMB:USD000000949",
+        "normalizedPair": "crv_usd",
+        "normalizedSymbol": "crv",
+        "nativePair": "CRVUSD",
+        "exchange": "kraken",
+        "assetName": "Curve DAO Token",
+        "assetArcId": "AMB:CRV000000084",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "crv_usd",
+        "instrumentType": "spot"
+    }
+]

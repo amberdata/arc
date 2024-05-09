@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "arch",
+    "assetName": "ARCH",
+    "assetArcId": "AMB:ARC000001408",
+    "website": "https://archimedesfi.com/",
+    "whitePaperUrl": "https://docs.archimedesfi.com/archimedes-finance-whitepaper-(v2)",
+    "classificationTags": [
+        "Lending",
+        "Stablecoin"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

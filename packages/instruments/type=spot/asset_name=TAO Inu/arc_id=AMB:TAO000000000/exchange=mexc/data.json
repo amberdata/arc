@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TAO000000000_AMB:USD000000335",
+        "normalizedPair": "taonu_usdt",
+        "normalizedSymbol": "taonu",
+        "nativePair": "TAONUUSDT",
+        "exchange": "mexc",
+        "assetName": "TAO Inu",
+        "assetArcId": "AMB:TAO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "taonu_usdt",
+        "instrumentType": "spot"
+    }
+]

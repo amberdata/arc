@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:ALI000000013_AMB:BTC000000000",
+        "normalizedPair": "alice_btc",
+        "normalizedSymbol": "alice",
+        "nativePair": "ALICEBTC",
+        "exchange": "binance",
+        "assetName": "MyNeighborAlice",
+        "assetArcId": "AMB:ALI000000013",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "alice_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALI000000013_AMB:TRY000000940",
+        "normalizedPair": "alice_try",
+        "normalizedSymbol": "alice",
+        "nativePair": "ALICETRY",
+        "exchange": "binance",
+        "assetName": "MyNeighborAlice",
+        "assetArcId": "AMB:ALI000000013",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "alice_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALI000000013_AMB:USD000000335",
+        "normalizedPair": "alice_usdt",
+        "normalizedSymbol": "alice",
+        "nativePair": "ALICEUSDT",
+        "exchange": "binance",
+        "assetName": "MyNeighborAlice",
+        "assetArcId": "AMB:ALI000000013",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "alice_usdt",
+        "instrumentType": "spot"
+    }
+]

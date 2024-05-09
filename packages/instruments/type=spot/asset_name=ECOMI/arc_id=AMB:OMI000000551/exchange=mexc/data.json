@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OMI000000551_AMB:USD000000335",
+        "normalizedPair": "omi_usdt",
+        "normalizedSymbol": "omi",
+        "nativePair": "OMIUSDT",
+        "exchange": "mexc",
+        "assetName": "ECOMI",
+        "assetArcId": "AMB:OMI000000551",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "omi_usdt",
+        "instrumentType": "spot"
+    }
+]

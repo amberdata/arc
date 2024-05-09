@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bet",
+    "assetName": "BETalk Token",
+    "assetArcId": "AMB:BET000000000",
+    "website": "https://betalk.xyz/",
+    "whitePaperUrl": "https://betalk.gitbook.io/betalk/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BETalk Token/arc_id=AMB:BET000000000/exchange=mexc/data.json"
+        ]
+    }
+}

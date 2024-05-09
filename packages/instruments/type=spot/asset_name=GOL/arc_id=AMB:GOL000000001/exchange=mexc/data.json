@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GOL000000001_AMB:USD000000335",
+        "normalizedPair": "gol_usdt",
+        "normalizedSymbol": "gol",
+        "nativePair": "GOLUSDT",
+        "exchange": "mexc",
+        "assetName": "GOL",
+        "assetArcId": "AMB:GOL000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gol_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ELO000000498_AMB:USD000000335",
+        "normalizedPair": "elon_usdt",
+        "normalizedSymbol": "elon",
+        "nativePair": "ELONUSDT",
+        "exchange": "mexc",
+        "assetName": "Dogelon Mars",
+        "assetArcId": "AMB:ELO000000498",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "elon_usdt",
+        "instrumentType": "spot"
+    }
+]

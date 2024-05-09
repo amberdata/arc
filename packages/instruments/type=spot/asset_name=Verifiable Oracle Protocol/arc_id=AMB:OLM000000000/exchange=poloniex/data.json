@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OLM000000000_AMB:USD000000335",
+        "normalizedPair": "olm_usdt",
+        "normalizedSymbol": "olm",
+        "nativePair": "OLM_USDT",
+        "exchange": "poloniex",
+        "assetName": "Verifiable Oracle Protocol",
+        "assetArcId": "AMB:OLM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "olm_usdt",
+        "instrumentType": "spot"
+    }
+]

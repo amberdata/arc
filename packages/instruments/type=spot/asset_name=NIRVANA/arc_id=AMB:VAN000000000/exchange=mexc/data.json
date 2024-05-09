@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VAN000000000_AMB:USD000000335",
+        "normalizedPair": "vana_usdt",
+        "normalizedSymbol": "vana",
+        "nativePair": "VANAUSDT",
+        "exchange": "mexc",
+        "assetName": "NIRVANA",
+        "assetArcId": "AMB:VAN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "vana_usdt",
+        "instrumentType": "spot"
+    }
+]

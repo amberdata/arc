@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:KNO000002798_AMB:USD000000335",
+        "normalizedPair": "knob_usdt",
+        "normalizedSymbol": "knob",
+        "nativePair": "KNOBUSDT",
+        "exchange": "mexc",
+        "assetName": "KNOB$",
+        "assetArcId": "AMB:KNO000002798",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "knob_usdt",
+        "instrumentType": "spot"
+    }
+]

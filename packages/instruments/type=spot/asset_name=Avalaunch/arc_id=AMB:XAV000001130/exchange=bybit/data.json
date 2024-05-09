@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XAV000001130_AMB:USD000000335",
+        "normalizedPair": "xava_usdt",
+        "normalizedSymbol": "xava",
+        "nativePair": "XAVAUSDT",
+        "exchange": "bybit",
+        "assetName": "Avalaunch",
+        "assetArcId": "AMB:XAV000001130",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xava_usdt",
+        "instrumentType": "spot"
+    }
+]

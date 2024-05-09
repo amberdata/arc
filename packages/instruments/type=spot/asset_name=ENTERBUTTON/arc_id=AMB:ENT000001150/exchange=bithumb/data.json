@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ENT000001150_AMB:KRW000000000",
+        "normalizedPair": "entc_krw",
+        "normalizedSymbol": "entc",
+        "nativePair": "ENTC/KRW",
+        "exchange": "bithumb",
+        "assetName": "ENTERBUTTON",
+        "assetArcId": "AMB:ENT000001150",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "entc_krw",
+        "instrumentType": "spot"
+    }
+]

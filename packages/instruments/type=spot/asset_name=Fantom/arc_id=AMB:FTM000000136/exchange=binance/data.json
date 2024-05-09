@@ -1,0 +1,110 @@
+[
+    {
+        "arcPairId": "AMB:FTM000000136_AMB:BNB000000055",
+        "normalizedPair": "ftm_bnb",
+        "normalizedSymbol": "ftm",
+        "nativePair": "FTMBNB",
+        "exchange": "binance",
+        "assetName": "Fantom",
+        "assetArcId": "AMB:FTM000000136",
+        "quoteArcId": "AMB:BNB000000055",
+        "collectedPair": "ftm_bnb",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FTM000000136_AMB:BTC000000000",
+        "normalizedPair": "ftm_btc",
+        "normalizedSymbol": "ftm",
+        "nativePair": "FTMBTC",
+        "exchange": "binance",
+        "assetName": "Fantom",
+        "assetArcId": "AMB:FTM000000136",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ftm_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FTM000000136_AMB:BUS000000067",
+        "normalizedPair": "ftm_busd",
+        "normalizedSymbol": "ftm",
+        "nativePair": "FTMBUSD",
+        "exchange": "binance",
+        "assetName": "Fantom",
+        "assetArcId": "AMB:FTM000000136",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "ftm_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FTM000000136_AMB:ETH000000000",
+        "normalizedPair": "ftm_eth",
+        "normalizedSymbol": "ftm",
+        "nativePair": "FTMETH",
+        "exchange": "binance",
+        "assetName": "Fantom",
+        "assetArcId": "AMB:FTM000000136",
+        "quoteArcId": "AMB:ETH000000000",
+        "collectedPair": "ftm_eth",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FTM000000136_AMB:EUR000000120",
+        "normalizedPair": "ftm_eur",
+        "normalizedSymbol": "ftm",
+        "nativePair": "FTMEUR",
+        "exchange": "binance",
+        "assetName": "Fantom",
+        "assetArcId": "AMB:FTM000000136",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "ftm_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FTM000000136_AMB:TRY000000940",
+        "normalizedPair": "ftm_try",
+        "normalizedSymbol": "ftm",
+        "nativePair": "FTMTRY",
+        "exchange": "binance",
+        "assetName": "Fantom",
+        "assetArcId": "AMB:FTM000000136",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "ftm_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FTM000000136_AMB:USD000000335",
+        "normalizedPair": "ftm_usdt",
+        "normalizedSymbol": "ftm",
+        "nativePair": "FTMUSDT",
+        "exchange": "binance",
+        "assetName": "Fantom",
+        "assetArcId": "AMB:FTM000000136",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ftm_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FTM000000136_AMB:FDU000000122",
+        "normalizedPair": "ftm_fdusd",
+        "normalizedSymbol": "ftm",
+        "nativePair": "FTMFDUSD",
+        "exchange": "binance",
+        "assetName": "Fantom",
+        "assetArcId": "AMB:FTM000000136",
+        "quoteArcId": "AMB:FDU000000122",
+        "collectedPair": "ftm_fdusd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FTM000000136_AMB:USD000000333",
+        "normalizedPair": "ftm_usdc",
+        "normalizedSymbol": "ftm",
+        "nativePair": "FTMUSDC",
+        "exchange": "binance",
+        "assetName": "Fantom",
+        "assetArcId": "AMB:FTM000000136",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "ftm_usdc",
+        "instrumentType": "spot"
+    }
+]

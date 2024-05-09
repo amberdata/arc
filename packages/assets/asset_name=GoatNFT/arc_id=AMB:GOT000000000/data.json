@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "got",
+    "assetName": "GoatNFT",
+    "assetArcId": "AMB:GOT000000000",
+    "website": "https://goatnft.xyz/",
+    "whitePaperUrl": "https://nftgogogo.gitbook.io/goatnft/",
+    "classificationTags": [
+        "Lending"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GoatNFT/arc_id=AMB:GOT000000000/exchange=mexc/data.json"
+        ]
+    }
+}

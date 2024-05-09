@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BSV000000474_AMB:KRW000000000",
+        "normalizedPair": "bsv_krw",
+        "normalizedSymbol": "bsv",
+        "nativePair": "BSV/KRW",
+        "exchange": "bithumb",
+        "assetName": "BSV (BRC)",
+        "assetArcId": "AMB:BSV000000474",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "bsv_krw",
+        "instrumentType": "spot"
+    }
+]

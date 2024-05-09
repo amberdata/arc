@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LDX000003208_AMB:USD000000335",
+        "normalizedPair": "ldx_usdt",
+        "normalizedSymbol": "ldx",
+        "nativePair": "LDXUSDT",
+        "exchange": "mexc",
+        "assetName": "Ledgix",
+        "assetArcId": "AMB:LDX000003208",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ldx_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "ae",
+    "assetName": "\u00c6ternity",
+    "assetArcId": "AMB:AEA000000951",
+    "website": "https://www.aeternity.com",
+    "whitePaperUrl": "https://github.com/aeternity/protocol",
+    "classificationTags": [
+        "Governance",
+        "Privacy",
+        "Smart Contract",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=\u00c6ternity/arc_id=AMB:AEA000000951/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=\u00c6ternity/arc_id=AMB:AEA000000951/exchange=mexc/data.json"
+        ]
+    }
+}

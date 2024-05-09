@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAI000000570_AMB:USD000000335",
+        "normalizedPair": "saitama_usdt",
+        "normalizedSymbol": "saitama",
+        "nativePair": "SAITAMA_USDT",
+        "exchange": "poloniex",
+        "assetName": "HarryPotterRussellSonic1Inu",
+        "assetArcId": "AMB:SAI000000570",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "saitama_usdt",
+        "instrumentType": "spot"
+    }
+]

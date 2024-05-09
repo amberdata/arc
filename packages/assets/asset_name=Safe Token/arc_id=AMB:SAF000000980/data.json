@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "safe",
+    "assetName": "Safe Token",
+    "assetArcId": "AMB:SAF000000980",
+    "website": "https://safe.global/",
+    "whitePaperUrl": "https://docs.safe.global/home/what-is-safe",
+    "classificationTags": [
+        "Gaming",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

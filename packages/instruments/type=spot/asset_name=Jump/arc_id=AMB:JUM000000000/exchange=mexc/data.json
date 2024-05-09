@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JUM000000000_AMB:USD000000335",
+        "normalizedPair": "jump_usdt",
+        "normalizedSymbol": "jump",
+        "nativePair": "JUMPUSDT",
+        "exchange": "mexc",
+        "assetName": "Jump",
+        "assetArcId": "AMB:JUM000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jump_usdt",
+        "instrumentType": "spot"
+    }
+]

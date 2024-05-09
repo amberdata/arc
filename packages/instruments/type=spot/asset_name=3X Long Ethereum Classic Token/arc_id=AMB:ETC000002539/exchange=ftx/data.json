@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ETC000002539_AMB:USD000000949",
+        "normalizedPair": "etcbull_usd",
+        "normalizedSymbol": "etcbull",
+        "nativePair": "ETCBULL/USD",
+        "exchange": "ftx",
+        "assetName": "3X Long Ethereum Classic Token",
+        "assetArcId": "AMB:ETC000002539",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "etcbull_usd",
+        "instrumentType": "spot"
+    }
+]

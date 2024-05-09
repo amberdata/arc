@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:NRG000002876_AMB:USD000000335",
+        "normalizedPair": "nrg_usdt",
+        "normalizedSymbol": "nrg",
+        "nativePair": "NRGUSDT",
+        "exchange": "mexc",
+        "assetName": "Energi",
+        "assetArcId": "AMB:NRG000002876",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nrg_usdt",
+        "instrumentType": "spot"
+    }
+]

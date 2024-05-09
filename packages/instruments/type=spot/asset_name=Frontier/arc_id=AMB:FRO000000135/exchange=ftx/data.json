@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:FRO000000135_AMB:USD000000949",
+        "normalizedPair": "front_usd",
+        "normalizedSymbol": "front",
+        "nativePair": "FRONT/USD",
+        "exchange": "ftx",
+        "assetName": "Frontier",
+        "assetArcId": "AMB:FRO000000135",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "front_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FRO000000135_AMB:USD000000335",
+        "normalizedPair": "front_usdt",
+        "normalizedSymbol": "front",
+        "nativePair": "FRONT/USDT",
+        "exchange": "ftx",
+        "assetName": "Frontier",
+        "assetArcId": "AMB:FRO000000135",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "front_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MVR000001967_AMB:USD000000335",
+        "normalizedPair": "mvrs_usdt",
+        "normalizedSymbol": "mvrs",
+        "nativePair": "MVRSUSDT",
+        "exchange": "mexc",
+        "assetName": "Meta MVRS",
+        "assetArcId": "AMB:MVR000001967",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mvrs_usdt",
+        "instrumentType": "spot"
+    }
+]

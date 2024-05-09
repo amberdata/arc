@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "jsm",
+    "assetName": "Joseon Mun",
+    "assetArcId": "AMB:JSM000001813",
+    "website": "https://joseon.com/",
+    "whitePaperUrl": "https://joseon.cloud/JoseonWhitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Joseon Mun/arc_id=AMB:JSM000001813/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UPF000000000_AMB:USD000000335",
+        "normalizedPair": "upfi_usdt",
+        "normalizedSymbol": "upfi",
+        "nativePair": "UPFIUSDT",
+        "exchange": "mexc",
+        "assetName": "Uplink Finance",
+        "assetArcId": "AMB:UPF000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "upfi_usdt",
+        "instrumentType": "spot"
+    }
+]

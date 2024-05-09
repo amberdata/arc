@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:INS000001785_AMB:USD000000335",
+        "normalizedPair": "insr_usdt",
+        "normalizedSymbol": "insr",
+        "nativePair": "INSRUSDT",
+        "exchange": "mexc",
+        "assetName": "Insurabler",
+        "assetArcId": "AMB:INS000001785",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "insr_usdt",
+        "instrumentType": "spot"
+    }
+]

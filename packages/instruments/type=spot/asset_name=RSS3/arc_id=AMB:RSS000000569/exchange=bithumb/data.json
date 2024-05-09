@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RSS000000569_AMB:KRW000000000",
+        "normalizedPair": "rss3_krw",
+        "normalizedSymbol": "rss3",
+        "nativePair": "RSS3/KRW",
+        "exchange": "bithumb",
+        "assetName": "RSS3",
+        "assetArcId": "AMB:RSS000000569",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "rss3_krw",
+        "instrumentType": "spot"
+    }
+]

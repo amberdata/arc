@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:VEL000000593_AMB:USD000000949",
+        "normalizedPair": "velodrome_usd",
+        "normalizedSymbol": "velodrome",
+        "nativePair": "VELO-USD",
+        "exchange": "gdax",
+        "assetName": "Velodrome Finance",
+        "assetArcId": "AMB:VEL000000593",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "velo_usd",
+        "instrumentType": "spot"
+    }
+]

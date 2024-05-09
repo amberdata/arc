@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ELG000000000_AMB:USD000000335",
+        "normalizedPair": "elg_usdt",
+        "normalizedSymbol": "elg",
+        "nativePair": "ELGUSDT",
+        "exchange": "mexc",
+        "assetName": "EscoinToken",
+        "assetArcId": "AMB:ELG000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "elg_usdt",
+        "instrumentType": "spot"
+    }
+]

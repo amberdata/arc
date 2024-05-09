@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IDE000001780_AMB:USD000000335",
+        "normalizedPair": "idea_usdt",
+        "normalizedSymbol": "idea",
+        "nativePair": "IDEAUSDT",
+        "exchange": "mexc",
+        "assetName": "Ideaology",
+        "assetArcId": "AMB:IDE000001780",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "idea_usdt",
+        "instrumentType": "spot"
+    }
+]

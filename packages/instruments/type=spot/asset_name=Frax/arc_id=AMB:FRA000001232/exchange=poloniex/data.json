@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:FRA000001232_AMB:USD000000841",
+        "normalizedPair": "frax_usdd",
+        "normalizedSymbol": "frax",
+        "nativePair": "FRAX_USDD",
+        "exchange": "poloniex",
+        "assetName": "Frax",
+        "assetArcId": "AMB:FRA000001232",
+        "quoteArcId": "AMB:USD000000841",
+        "collectedPair": "frax_usdd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:FRA000001232_AMB:USD000000335",
+        "normalizedPair": "frax_usdt",
+        "normalizedSymbol": "frax",
+        "nativePair": "FRAX_USDT",
+        "exchange": "poloniex",
+        "assetName": "Frax",
+        "assetArcId": "AMB:FRA000001232",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "frax_usdt",
+        "instrumentType": "spot"
+    }
+]

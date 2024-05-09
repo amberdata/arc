@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SOF000000805_AMB:KRW000000000",
+        "normalizedPair": "sofi_krw",
+        "normalizedSymbol": "sofi",
+        "nativePair": "SOFI/KRW",
+        "exchange": "bithumb",
+        "assetName": "RAI Finance",
+        "assetArcId": "AMB:SOF000000805",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "sofi_krw",
+        "instrumentType": "spot"
+    }
+]

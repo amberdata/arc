@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:KRW000000000",
+        "normalizedPair": "algo_krw",
+        "normalizedSymbol": "algo",
+        "nativePair": "ALGO/KRW",
+        "exchange": "bithumb",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "algo_krw",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:CTX000000087_AMB:BTC000000000",
+        "normalizedPair": "ctxc_btc",
+        "normalizedSymbol": "ctxc",
+        "nativePair": "CTXCBTC",
+        "exchange": "binance",
+        "assetName": "Cortex",
+        "assetArcId": "AMB:CTX000000087",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "ctxc_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CTX000000087_AMB:BUS000000067",
+        "normalizedPair": "ctxc_busd",
+        "normalizedSymbol": "ctxc",
+        "nativePair": "CTXCBUSD",
+        "exchange": "binance",
+        "assetName": "Cortex",
+        "assetArcId": "AMB:CTX000000087",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "ctxc_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:CTX000000087_AMB:USD000000335",
+        "normalizedPair": "ctxc_usdt",
+        "normalizedSymbol": "ctxc",
+        "nativePair": "CTXCUSDT",
+        "exchange": "binance",
+        "assetName": "Cortex",
+        "assetArcId": "AMB:CTX000000087",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ctxc_usdt",
+        "instrumentType": "spot"
+    }
+]

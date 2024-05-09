@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PEP000003184_AMB:USD000000335",
+        "normalizedPair": "pepebeast_usdt",
+        "normalizedSymbol": "pepebeast",
+        "nativePair": "PEPEBEASTUSDT",
+        "exchange": "mexc",
+        "assetName": "PEPEBEAST",
+        "assetArcId": "AMB:PEP000003184",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "pepebeast_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PNG000000433_AMB:USD000000335",
+        "normalizedPair": "png_usdt",
+        "normalizedSymbol": "png",
+        "nativePair": "PNGUSDT",
+        "exchange": "mexc",
+        "assetName": "Pangolin",
+        "assetArcId": "AMB:PNG000000433",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "png_usdt",
+        "instrumentType": "spot"
+    }
+]

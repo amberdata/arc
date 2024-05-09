@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "subf",
+    "assetName": "Super Best Friends",
+    "assetArcId": "AMB:SUB000000000",
+    "website": "https://www.superbestfriends.xyz/",
+    "whitePaperUrl": "/how-to-buy/SUBF?utm_source=mexc&utm_medium=tokenifoSUBF&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Super Best Friends/arc_id=AMB:SUB000000000/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CHR000000074_AMB:USD000000949",
+        "normalizedPair": "chr_usd",
+        "normalizedSymbol": "chr",
+        "nativePair": "CHR/USD",
+        "exchange": "ftx",
+        "assetName": "Chronos",
+        "assetArcId": "AMB:CHR000000074",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "chr_usd",
+        "instrumentType": "spot"
+    }
+]

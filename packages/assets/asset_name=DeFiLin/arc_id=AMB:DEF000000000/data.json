@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "def",
+    "assetName": "DeFiLin",
+    "assetArcId": "AMB:DEF000000000",
+    "website": "http://defilin.com/",
+    "whitePaperUrl": "https://docs.defilin.com/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DeFiLin/arc_id=AMB:DEF000000000/exchange=mexc/data.json"
+        ]
+    }
+}

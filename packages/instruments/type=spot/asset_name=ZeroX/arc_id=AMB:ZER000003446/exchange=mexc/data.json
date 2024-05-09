@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZER000003446_AMB:USD000000335",
+        "normalizedPair": "zerox_usdt",
+        "normalizedSymbol": "zerox",
+        "nativePair": "ZEROXUSDT",
+        "exchange": "mexc",
+        "assetName": "ZeroX",
+        "assetArcId": "AMB:ZER000003446",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zerox_usdt",
+        "instrumentType": "spot"
+    }
+]

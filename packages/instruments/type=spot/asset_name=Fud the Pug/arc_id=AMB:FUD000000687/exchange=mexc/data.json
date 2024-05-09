@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FUD000000687_AMB:USD000000335",
+        "normalizedPair": "fud.amb.1_usdt",
+        "normalizedSymbol": "fud.amb.1",
+        "nativePair": "FUDUSDT",
+        "exchange": "mexc",
+        "assetName": "Fud the Pug",
+        "assetArcId": "AMB:FUD000000687",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fud_usdt",
+        "instrumentType": "spot"
+    }
+]

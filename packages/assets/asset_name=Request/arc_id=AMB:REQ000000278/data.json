@@ -1,0 +1,30 @@
+{
+    "assetSymbol": "req",
+    "assetName": "Request",
+    "assetArcId": "AMB:REQ000000278",
+    "website": "https://request.network/en/",
+    "whitePaperUrl": "https://request.network/assets/pdf/request_whitepaper.pdf",
+    "classificationTags": [
+        "Governance",
+        "Staking"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Request/arc_id=AMB:REQ000000278/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Request/arc_id=AMB:REQ000000278/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Request/arc_id=AMB:REQ000000278/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Request/arc_id=AMB:REQ000000278/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Request/arc_id=AMB:REQ000000278/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Request/arc_id=AMB:REQ000000278/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Request/arc_id=AMB:REQ000000278/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Request/arc_id=AMB:REQ000000278/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Request/arc_id=AMB:REQ000000278/exchange=binanceus/data.json"
+        ]
+    }
+}

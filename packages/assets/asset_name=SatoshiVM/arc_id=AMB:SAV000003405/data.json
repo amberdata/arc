@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "savm",
+    "assetName": "SatoshiVM",
+    "assetArcId": "AMB:SAV000003405",
+    "website": "https://www.satoshivm.io/",
+    "whitePaperUrl": "https://docs.satoshivm.io/satoshivm/overview",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SatoshiVM/arc_id=AMB:SAV000003405/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SatoshiVM/arc_id=AMB:SAV000003405/exchange=mexc/data.json"
+        ]
+    }
+}

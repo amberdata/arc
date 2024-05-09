@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FOR000000404_AMB:USD000000335",
+        "normalizedPair": "fort_usdt",
+        "normalizedSymbol": "fort",
+        "nativePair": "FORTUSDT",
+        "exchange": "binanceus",
+        "assetName": "Forta",
+        "assetArcId": "AMB:FOR000000404",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "fort_usdt",
+        "instrumentType": "spot"
+    }
+]

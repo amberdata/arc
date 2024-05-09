@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "radar",
+    "assetName": "DappRadar",
+    "assetArcId": "AMB:RAD000000564",
+    "website": "https://dappradar.com/",
+    "whitePaperUrl": "/how-to-buy/RADAR?utm_source=mexc&utm_medium=tokenifoRADAR&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DappRadar/arc_id=AMB:RAD000000564/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DappRadar/arc_id=AMB:RAD000000564/exchange=mexc/data.json"
+        ]
+    }
+}

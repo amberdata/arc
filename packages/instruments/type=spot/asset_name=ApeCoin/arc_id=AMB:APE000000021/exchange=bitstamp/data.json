@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:APE000000021_AMB:EUR000000120",
+        "normalizedPair": "ape_eur",
+        "normalizedSymbol": "ape",
+        "nativePair": "apeeur",
+        "exchange": "bitstamp",
+        "assetName": "ApeCoin",
+        "assetArcId": "AMB:APE000000021",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "ape_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:APE000000021_AMB:USD000000949",
+        "normalizedPair": "ape_usd",
+        "normalizedSymbol": "ape",
+        "nativePair": "apeusd",
+        "exchange": "bitstamp",
+        "assetName": "ApeCoin",
+        "assetArcId": "AMB:APE000000021",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "ape_usd",
+        "instrumentType": "spot"
+    }
+]

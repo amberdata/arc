@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "gtop",
+    "assetName": "Andew Mate",
+    "assetArcId": "AMB:GTO000000000",
+    "website": "https://www.gtop.wtf/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "GahB1yHTvLjsvEapbiqrMPQPyKNodx9GNBJt53GYet7v"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Andew Mate/arc_id=AMB:GTO000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ONI000000771_AMB:KRW000000000",
+        "normalizedPair": "onit_krw",
+        "normalizedSymbol": "onit",
+        "nativePair": "ONIT/KRW",
+        "exchange": "bithumb",
+        "assetName": "ONBUFF",
+        "assetArcId": "AMB:ONI000000771",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "onit_krw",
+        "instrumentType": "spot"
+    }
+]

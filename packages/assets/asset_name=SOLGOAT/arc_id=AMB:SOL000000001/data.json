@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "solgoat",
+    "assetName": "SOLGOAT",
+    "assetArcId": "AMB:SOL000000001",
+    "website": "https://www.solgoat.io/#",
+    "whitePaperUrl": "/how-to-buy/SOLGOAT?utm_source=mexc&utm_medium=tokenifoSOLGOAT&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SOLGOAT/arc_id=AMB:SOL000000001/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MAX000001897_AMB:USD000000335",
+        "normalizedPair": "max_usdt",
+        "normalizedSymbol": "max",
+        "nativePair": "MAXUSDT",
+        "exchange": "mexc",
+        "assetName": "Maxcoin",
+        "assetArcId": "AMB:MAX000001897",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "max_usdt",
+        "instrumentType": "spot"
+    }
+]

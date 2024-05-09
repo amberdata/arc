@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ICP000000000_AMB:USD000000335",
+        "normalizedPair": "icpx_usdt",
+        "normalizedSymbol": "icpx",
+        "nativePair": "ICPXUSDT",
+        "exchange": "mexc",
+        "assetName": "Icrypex Token",
+        "assetArcId": "AMB:ICP000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "icpx_usdt",
+        "instrumentType": "spot"
+    }
+]

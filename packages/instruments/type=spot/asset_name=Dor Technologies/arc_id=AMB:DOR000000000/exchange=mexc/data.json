@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOR000000000_AMB:USD000000335",
+        "normalizedPair": "dor_usdt",
+        "normalizedSymbol": "dor",
+        "nativePair": "DORUSDT",
+        "exchange": "mexc",
+        "assetName": "Dor Technologies",
+        "assetArcId": "AMB:DOR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dor_usdt",
+        "instrumentType": "spot"
+    }
+]

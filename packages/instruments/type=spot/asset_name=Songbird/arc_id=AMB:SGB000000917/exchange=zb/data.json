@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SGB000000917_AMB:USD000000335",
+        "normalizedPair": "sgb_usdt",
+        "normalizedSymbol": "sgb",
+        "nativePair": "sgb_usdt",
+        "exchange": "zb",
+        "assetName": "Songbird",
+        "assetArcId": "AMB:SGB000000917",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sgb_usdt",
+        "instrumentType": "spot"
+    }
+]

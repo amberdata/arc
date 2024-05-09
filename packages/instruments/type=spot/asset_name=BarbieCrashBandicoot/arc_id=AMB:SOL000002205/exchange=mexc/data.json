@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SOL000002205_AMB:USD000000335",
+        "normalizedPair": "solana2_usdt",
+        "normalizedSymbol": "solana2",
+        "nativePair": "SOLANA2USDT",
+        "exchange": "mexc",
+        "assetName": "BarbieCrashBandicoot",
+        "assetArcId": "AMB:SOL000002205",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "solana2_usdt",
+        "instrumentType": "spot"
+    }
+]

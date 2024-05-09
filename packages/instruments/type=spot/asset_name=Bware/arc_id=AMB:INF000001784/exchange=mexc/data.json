@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:INF000001784_AMB:USD000000335",
+        "normalizedPair": "infra_usdt",
+        "normalizedSymbol": "infra",
+        "nativePair": "INFRAUSDT",
+        "exchange": "mexc",
+        "assetName": "Bware",
+        "assetArcId": "AMB:INF000001784",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "infra_usdt",
+        "instrumentType": "spot"
+    }
+]

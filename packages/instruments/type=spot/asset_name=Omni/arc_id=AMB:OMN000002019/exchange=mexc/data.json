@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OMN000002019_AMB:USD000000335",
+        "normalizedPair": "omni_usdt",
+        "normalizedSymbol": "omni",
+        "nativePair": "OMNIUSDT",
+        "exchange": "mexc",
+        "assetName": "Omni",
+        "assetArcId": "AMB:OMN000002019",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "omni_usdt",
+        "instrumentType": "spot"
+    }
+]

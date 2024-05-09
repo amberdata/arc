@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:APU000000000_AMB:USD000000335",
+        "normalizedPair": "apuff_usdt",
+        "normalizedSymbol": "apuff",
+        "nativePair": "APUFF_USDT",
+        "exchange": "poloniex",
+        "assetName": "APUFF",
+        "assetArcId": "AMB:APU000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "apuff_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "pyr",
+    "assetName": "Vulcan Forged",
+    "assetArcId": "AMB:PYR000000263",
+    "website": "https://vulcanforged.com/",
+    "whitePaperUrl": "https://docs.vulcanforged.com/thepyrtoken",
+    "classificationTags": [
+        "Gaming",
+        "Metaverse"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x430ef9263e76dae63c84292c3409d61c598e9682"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

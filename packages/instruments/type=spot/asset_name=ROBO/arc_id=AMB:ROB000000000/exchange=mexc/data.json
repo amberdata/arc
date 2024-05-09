@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ROB000000000_AMB:USD000000335",
+        "normalizedPair": "robo_usdt",
+        "normalizedSymbol": "robo",
+        "nativePair": "ROBOUSDT",
+        "exchange": "mexc",
+        "assetName": "ROBO",
+        "assetArcId": "AMB:ROB000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "robo_usdt",
+        "instrumentType": "spot"
+    }
+]

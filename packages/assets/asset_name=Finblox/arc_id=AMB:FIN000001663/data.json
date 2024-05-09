@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "finblox",
+    "assetName": "Finblox",
+    "assetArcId": "AMB:FIN000001663",
+    "website": "https://finblox.com/",
+    "whitePaperUrl": "http://docs.finblox.com/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Finblox/arc_id=AMB:FIN000001663/exchange=mexc/data.json"
+        ]
+    }
+}

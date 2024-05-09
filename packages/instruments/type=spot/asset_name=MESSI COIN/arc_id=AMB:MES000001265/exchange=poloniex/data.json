@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MES000001265_AMB:USD000000335",
+        "normalizedPair": "messi_usdt",
+        "normalizedSymbol": "messi",
+        "nativePair": "MESSI_USDT",
+        "exchange": "poloniex",
+        "assetName": "MESSI COIN",
+        "assetArcId": "AMB:MES000001265",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "messi_usdt",
+        "instrumentType": "spot"
+    }
+]

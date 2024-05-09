@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ydf",
+    "assetName": "Yieldification",
+    "assetArcId": "AMB:YDF000002391",
+    "website": "https://yieldification.com/",
+    "whitePaperUrl": "https://docs.yieldification.com/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Yieldification/arc_id=AMB:YDF000002391/exchange=mexc/data.json"
+        ]
+    }
+}

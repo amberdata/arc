@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BIL000002478_AMB:USD000000949",
+        "normalizedPair": "bili_usd",
+        "normalizedSymbol": "bili",
+        "nativePair": "BILI/USD",
+        "exchange": "ftx",
+        "assetName": "Billibilli Inc tokenized stock",
+        "assetArcId": "AMB:BIL000002478",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "bili_usd",
+        "instrumentType": "spot"
+    }
+]

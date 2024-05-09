@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:MOV000000220_AMB:EUR000000120",
+        "normalizedPair": "movr_eur",
+        "normalizedSymbol": "movr",
+        "nativePair": "MOVREUR",
+        "exchange": "kraken",
+        "assetName": "Moonriver",
+        "assetArcId": "AMB:MOV000000220",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "movr_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:MOV000000220_AMB:USD000000949",
+        "normalizedPair": "movr_usd",
+        "normalizedSymbol": "movr",
+        "nativePair": "MOVRUSD",
+        "exchange": "kraken",
+        "assetName": "Moonriver",
+        "assetArcId": "AMB:MOV000000220",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "movr_usd",
+        "instrumentType": "spot"
+    }
+]

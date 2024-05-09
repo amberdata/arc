@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WSB000000601_AMB:USD000000335",
+        "normalizedPair": "wsb.amb.1_usdt",
+        "normalizedSymbol": "wsb.amb.1",
+        "nativePair": "WSB_USDT",
+        "exchange": "poloniex",
+        "assetName": "WSB Coin",
+        "assetArcId": "AMB:WSB000000601",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "wsb_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,18 @@
+{
+    "assetSymbol": "ong",
+    "assetName": "Ontology Gas",
+    "assetArcId": "AMB:ONG000000236",
+    "website": "https://ont.io/",
+    "whitePaperUrl": "https://docs.ont.io/discover#whitepapers",
+    "classificationTags": [
+        "Proof-of-Stake",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ontology Gas/arc_id=AMB:ONG000000236/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ontology Gas/arc_id=AMB:ONG000000236/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ontology Gas/arc_id=AMB:ONG000000236/exchange=mexc/data.json"
+        ]
+    }
+}

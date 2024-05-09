@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "jewel",
+    "assetName": "DeFi Kingdoms",
+    "assetArcId": "AMB:JEW000001808",
+    "website": "https://defikingdoms.com/",
+    "whitePaperUrl": "/how-to-buy/JEWEL?utm_source=mexc&utm_medium=tokenifoJEWEL&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Gaming",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DeFi Kingdoms/arc_id=AMB:JEW000001808/exchange=mexc/data.json"
+        ]
+    }
+}

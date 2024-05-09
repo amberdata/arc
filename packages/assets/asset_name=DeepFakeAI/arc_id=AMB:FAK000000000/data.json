@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "fakeai",
+    "assetName": "DeepFakeAI",
+    "assetArcId": "AMB:FAK000000000",
+    "website": "https://fakeai.io/",
+    "whitePaperUrl": "https://fakeai.io/whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DeepFakeAI/arc_id=AMB:FAK000000000/exchange=mexc/data.json"
+        ]
+    }
+}

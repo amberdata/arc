@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MOB000002779_AMB:USD000000949",
+        "normalizedPair": "mobile_usd",
+        "normalizedSymbol": "mobile",
+        "nativePair": "MOBILE-USD",
+        "exchange": "gdax",
+        "assetName": "Helium Mobile",
+        "assetArcId": "AMB:MOB000002779",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "mobile_usd",
+        "instrumentType": "spot"
+    }
+]

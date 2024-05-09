@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "wstor",
+    "assetName": "StorageChain",
+    "assetArcId": "AMB:WST000002773",
+    "website": "https://storagechain.io/",
+    "whitePaperUrl": "/how-to-buy/WSTOR?utm_source=mexc&utm_medium=tokenifoWSTOR&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=StorageChain/arc_id=AMB:WST000002773/exchange=mexc/data.json"
+        ]
+    }
+}

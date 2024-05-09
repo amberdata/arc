@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SMR000000920_AMB:USD000000335",
+        "normalizedPair": "smr_usdt",
+        "normalizedSymbol": "smr",
+        "nativePair": "SMRUSDT",
+        "exchange": "mexc",
+        "assetName": "Shimmer",
+        "assetArcId": "AMB:SMR000000920",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "smr_usdt",
+        "instrumentType": "spot"
+    }
+]

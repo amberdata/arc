@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:POL000000255_AMB:BTC000000000",
+        "normalizedPair": "polyx_btc",
+        "normalizedSymbol": "polyx",
+        "nativePair": "POLYXBTC",
+        "exchange": "binance",
+        "assetName": "Polymesh",
+        "assetArcId": "AMB:POL000000255",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "polyx_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:POL000000255_AMB:USD000000335",
+        "normalizedPair": "polyx_usdt",
+        "normalizedSymbol": "polyx",
+        "nativePair": "POLYXUSDT",
+        "exchange": "binance",
+        "assetName": "Polymesh",
+        "assetArcId": "AMB:POL000000255",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "polyx_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:POL000000255_AMB:TRY000000940",
+        "normalizedPair": "polyx_try",
+        "normalizedSymbol": "polyx",
+        "nativePair": "POLYXTRY",
+        "exchange": "binance",
+        "assetName": "Polymesh",
+        "assetArcId": "AMB:POL000000255",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "polyx_try",
+        "instrumentType": "spot"
+    }
+]

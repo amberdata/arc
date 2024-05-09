@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PER000000248_AMB:USD000000949",
+        "normalizedPair": "perp_usd",
+        "normalizedSymbol": "perp",
+        "nativePair": "PERP/USD",
+        "exchange": "ftx",
+        "assetName": "Perpetual Protocol",
+        "assetArcId": "AMB:PER000000248",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "perp_usd",
+        "instrumentType": "spot"
+    }
+]

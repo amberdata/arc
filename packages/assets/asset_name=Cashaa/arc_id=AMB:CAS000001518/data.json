@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "cas",
+    "assetName": "Cashaa",
+    "assetArcId": "AMB:CAS000001518",
+    "website": "https://cashaa.com",
+    "whitePaperUrl": "https://storage.googleapis.com/cashaa-cdn/cashaa/pdf/cashaa_wp_v2.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cashaa/arc_id=AMB:CAS000001518/exchange=mexc/data.json"
+        ]
+    }
+}

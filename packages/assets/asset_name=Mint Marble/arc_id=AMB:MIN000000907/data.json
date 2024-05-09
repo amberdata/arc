@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "mim",
+    "assetName": "Mint Marble",
+    "assetArcId": "AMB:MIN000000907",
+    "website": "https://www.mintmarble.com/",
+    "whitePaperUrl": "/how-to-buy/MIM?utm_source=mexc&utm_medium=tokenifoMIM&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mint Marble/arc_id=AMB:MIN000000907/exchange=mexc/data.json"
+        ]
+    }
+}

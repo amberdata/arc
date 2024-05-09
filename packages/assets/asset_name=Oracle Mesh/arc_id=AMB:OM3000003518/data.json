@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "om3",
+    "assetName": "Oracle Mesh",
+    "assetArcId": "AMB:OM3000003518",
+    "website": "http://www.oracle-mesh.com/",
+    "whitePaperUrl": "https://oraclemesh.gitbook.io/white-paper/",
+    "classificationTags": [
+        "Governance",
+        "Oracles"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Oracle Mesh/arc_id=AMB:OM3000003518/exchange=mexc/data.json"
+        ]
+    }
+}

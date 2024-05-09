@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:RWN000000000_AMB:USD000000335",
+        "normalizedPair": "rwn_usdt",
+        "normalizedSymbol": "rwn",
+        "nativePair": "RWNUSDT",
+        "exchange": "mexc",
+        "assetName": "Rowan Coin",
+        "assetArcId": "AMB:RWN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "rwn_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OBX000001090_AMB:USD000000335",
+        "normalizedPair": "obx_usdt",
+        "normalizedSymbol": "obx",
+        "nativePair": "OBXUSDT",
+        "exchange": "bybit",
+        "assetName": "OpenBlox",
+        "assetArcId": "AMB:OBX000001090",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "obx_usdt",
+        "instrumentType": "spot"
+    }
+]

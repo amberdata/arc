@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SCO000002160_AMB:USD000000335",
+        "normalizedPair": "scotty_usdt",
+        "normalizedSymbol": "scotty",
+        "nativePair": "SCOTTYUSDT",
+        "exchange": "mexc",
+        "assetName": "Scotty Beam",
+        "assetArcId": "AMB:SCO000002160",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "scotty_usdt",
+        "instrumentType": "spot"
+    }
+]

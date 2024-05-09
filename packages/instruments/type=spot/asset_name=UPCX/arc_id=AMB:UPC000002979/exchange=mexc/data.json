@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:UPC000002979_AMB:USD000000335",
+        "normalizedPair": "upc_usdt",
+        "normalizedSymbol": "upc",
+        "nativePair": "UPCUSDT",
+        "exchange": "mexc",
+        "assetName": "UPCX",
+        "assetArcId": "AMB:UPC000002979",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "upc_usdt",
+        "instrumentType": "spot"
+    }
+]

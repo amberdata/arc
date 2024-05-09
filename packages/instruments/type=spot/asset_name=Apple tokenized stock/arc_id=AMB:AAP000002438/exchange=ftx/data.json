@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AAP000002438_AMB:USD000000949",
+        "normalizedPair": "aapl_usd",
+        "normalizedSymbol": "aapl",
+        "nativePair": "AAPL/USD",
+        "exchange": "ftx",
+        "assetName": "Apple tokenized stock",
+        "assetArcId": "AMB:AAP000002438",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "aapl_usd",
+        "instrumentType": "spot"
+    }
+]

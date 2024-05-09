@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OZO000002033_AMB:USD000000335",
+        "normalizedPair": "ozo_usdt",
+        "normalizedSymbol": "ozo",
+        "nativePair": "OZOUSDT",
+        "exchange": "mexc",
+        "assetName": "Ozone Chain",
+        "assetArcId": "AMB:OZO000002033",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ozo_usdt",
+        "instrumentType": "spot"
+    }
+]

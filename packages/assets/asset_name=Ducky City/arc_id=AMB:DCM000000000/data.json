@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "dcm",
+    "assetName": "Ducky City",
+    "assetArcId": "AMB:DCM000000000",
+    "website": "https://duckycity.io/",
+    "whitePaperUrl": "https://docs.ducky.city/",
+    "classificationTags": [
+        "Gaming",
+        "Metaverse",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ducky City/arc_id=AMB:DCM000000000/exchange=mexc/data.json"
+        ]
+    }
+}

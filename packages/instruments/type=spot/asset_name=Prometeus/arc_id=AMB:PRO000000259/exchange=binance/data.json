@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:PRO000000259_AMB:BTC000000000",
+        "normalizedPair": "prom_btc",
+        "normalizedSymbol": "prom",
+        "nativePair": "PROMBTC",
+        "exchange": "binance",
+        "assetName": "Prometeus",
+        "assetArcId": "AMB:PRO000000259",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "prom_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PRO000000259_AMB:BUS000000067",
+        "normalizedPair": "prom_busd",
+        "normalizedSymbol": "prom",
+        "nativePair": "PROMBUSD",
+        "exchange": "binance",
+        "assetName": "Prometeus",
+        "assetArcId": "AMB:PRO000000259",
+        "quoteArcId": "AMB:BUS000000067",
+        "collectedPair": "prom_busd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:PRO000000259_AMB:USD000000335",
+        "normalizedPair": "prom_usdt",
+        "normalizedSymbol": "prom",
+        "nativePair": "PROMUSDT",
+        "exchange": "binance",
+        "assetName": "Prometeus",
+        "assetArcId": "AMB:PRO000000259",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "prom_usdt",
+        "instrumentType": "spot"
+    }
+]

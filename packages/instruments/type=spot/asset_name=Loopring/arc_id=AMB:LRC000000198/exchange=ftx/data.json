@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LRC000000198_AMB:USD000000949",
+        "normalizedPair": "lrc_usd",
+        "normalizedSymbol": "lrc",
+        "nativePair": "LRC/USD",
+        "exchange": "ftx",
+        "assetName": "Loopring",
+        "assetArcId": "AMB:LRC000000198",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "lrc_usd",
+        "instrumentType": "spot"
+    }
+]

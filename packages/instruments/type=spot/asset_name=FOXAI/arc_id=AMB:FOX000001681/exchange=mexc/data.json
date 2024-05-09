@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FOX000001681_AMB:USD000000335",
+        "normalizedPair": "foxai_usdt",
+        "normalizedSymbol": "foxai",
+        "nativePair": "FOXAIUSDT",
+        "exchange": "mexc",
+        "assetName": "FOXAI",
+        "assetArcId": "AMB:FOX000001681",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "foxai_usdt",
+        "instrumentType": "spot"
+    }
+]

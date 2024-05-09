@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ELU000000668_AMB:USD000000335",
+        "normalizedPair": "elu_usdt",
+        "normalizedSymbol": "elu",
+        "nativePair": "eluusdt",
+        "exchange": "huobi",
+        "assetName": "Elumia Crowns",
+        "assetArcId": "AMB:ELU000000668",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "elu_usdt",
+        "instrumentType": "spot"
+    }
+]

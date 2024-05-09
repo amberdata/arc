@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TOK000002892_AMB:USD000000335",
+        "normalizedPair": "token_usdt",
+        "normalizedSymbol": "token",
+        "nativePair": "TOKENUSDT",
+        "exchange": "mexc",
+        "assetName": "TokenFi",
+        "assetArcId": "AMB:TOK000002892",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "token_usdt",
+        "instrumentType": "spot"
+    }
+]

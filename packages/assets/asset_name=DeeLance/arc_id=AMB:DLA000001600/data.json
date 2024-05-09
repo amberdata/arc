@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "dlance",
+    "assetName": "DeeLance",
+    "assetArcId": "AMB:DLA000001600",
+    "website": "https://deelance.com/en",
+    "whitePaperUrl": "https://docs.deelance.com/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DeeLance/arc_id=AMB:DLA000001600/exchange=mexc/data.json"
+        ]
+    }
+}

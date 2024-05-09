@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ROO000002974_AMB:USD000000335",
+        "normalizedPair": "root_usdt",
+        "normalizedSymbol": "root",
+        "nativePair": "ROOTUSDT",
+        "exchange": "mexc",
+        "assetName": "The Root Network",
+        "assetArcId": "AMB:ROO000002974",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "root_usdt",
+        "instrumentType": "spot"
+    }
+]

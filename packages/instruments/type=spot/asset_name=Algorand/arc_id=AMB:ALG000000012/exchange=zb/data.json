@@ -1,0 +1,38 @@
+[
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:QCA000000000",
+        "normalizedPair": "algo_qc",
+        "normalizedSymbol": "algo",
+        "nativePair": "algo_qc",
+        "exchange": "zb",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "algo_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:USD000000333",
+        "normalizedPair": "algo_usdc",
+        "normalizedSymbol": "algo",
+        "nativePair": "algo_usdc",
+        "exchange": "zb",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:USD000000333",
+        "collectedPair": "algo_usdc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ALG000000012_AMB:USD000000335",
+        "normalizedPair": "algo_usdt",
+        "normalizedSymbol": "algo",
+        "nativePair": "algo_usdt",
+        "exchange": "zb",
+        "assetName": "Algorand",
+        "assetArcId": "AMB:ALG000000012",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "algo_usdt",
+        "instrumentType": "spot"
+    }
+]

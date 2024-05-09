@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:HIF000000159_AMB:KRW000000000",
+        "normalizedPair": "hifi_krw",
+        "normalizedSymbol": "hifi",
+        "nativePair": "HIFI/KRW",
+        "exchange": "bithumb",
+        "assetName": "HiFi Gaming Society",
+        "assetArcId": "AMB:HIF000000159",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "hifi_krw",
+        "instrumentType": "spot"
+    }
+]

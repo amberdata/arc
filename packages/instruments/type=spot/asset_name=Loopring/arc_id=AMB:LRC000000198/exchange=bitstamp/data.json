@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LRC000000198_AMB:EUR000000120",
+        "normalizedPair": "lrc_eur",
+        "normalizedSymbol": "lrc",
+        "nativePair": "lrceur",
+        "exchange": "bitstamp",
+        "assetName": "Loopring",
+        "assetArcId": "AMB:LRC000000198",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "lrc_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LRC000000198_AMB:USD000000949",
+        "normalizedPair": "lrc_usd",
+        "normalizedSymbol": "lrc",
+        "nativePair": "lrcusd",
+        "exchange": "bitstamp",
+        "assetName": "Loopring",
+        "assetArcId": "AMB:LRC000000198",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "lrc_usd",
+        "instrumentType": "spot"
+    }
+]

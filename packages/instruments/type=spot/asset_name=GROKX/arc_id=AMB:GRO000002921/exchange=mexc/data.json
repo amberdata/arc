@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GRO000002921_AMB:USD000000335",
+        "normalizedPair": "grokx_usdt",
+        "normalizedSymbol": "grokx",
+        "nativePair": "GROKXUSDT",
+        "exchange": "mexc",
+        "assetName": "GROKX",
+        "assetArcId": "AMB:GRO000002921",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "grokx_usdt",
+        "instrumentType": "spot"
+    }
+]

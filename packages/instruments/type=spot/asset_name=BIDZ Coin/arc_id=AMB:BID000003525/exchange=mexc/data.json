@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BID000003525_AMB:USD000000335",
+        "normalizedPair": "bidz_usdt",
+        "normalizedSymbol": "bidz",
+        "nativePair": "BIDZUSDT",
+        "exchange": "mexc",
+        "assetName": "BIDZ Coin",
+        "assetArcId": "AMB:BID000003525",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bidz_usdt",
+        "instrumentType": "spot"
+    }
+]

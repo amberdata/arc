@@ -1,0 +1,32 @@
+{
+    "assetSymbol": "mask",
+    "assetName": "Mask Network",
+    "assetArcId": "AMB:MAS000000207",
+    "website": "https://mask.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Content & Streaming"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mask Network/arc_id=AMB:MAS000000207/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mask Network/arc_id=AMB:MAS000000207/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mask Network/arc_id=AMB:MAS000000207/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mask Network/arc_id=AMB:MAS000000207/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mask Network/arc_id=AMB:MAS000000207/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mask Network/arc_id=AMB:MAS000000207/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mask Network/arc_id=AMB:MAS000000207/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mask Network/arc_id=AMB:MAS000000207/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mask Network/arc_id=AMB:MAS000000207/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mask Network/arc_id=AMB:MAS000000207/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mask Network/arc_id=AMB:MAS000000207/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mask Network/arc_id=AMB:MAS000000207/exchange=mexc/data.json"
+        ]
+    }
+}

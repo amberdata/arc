@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "dexe",
+    "assetName": "DeXe",
+    "assetArcId": "AMB:DEX000000098",
+    "website": "https://dexe.network/",
+    "whitePaperUrl": "https://whitepaper.dexe.network/",
+    "classificationTags": [
+        "DEX",
+        "Governance",
+        "Proof-of-Stake",
+        "Real World Asset",
+        "Smart Contract",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DeXe/arc_id=AMB:DEX000000098/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DeXe/arc_id=AMB:DEX000000098/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DeXe/arc_id=AMB:DEX000000098/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AER000000007_AMB:KRW000000000",
+        "normalizedPair": "aergo_krw",
+        "normalizedSymbol": "aergo",
+        "nativePair": "AERGO/KRW",
+        "exchange": "bithumb",
+        "assetName": "Aergo",
+        "assetArcId": "AMB:AER000000007",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "aergo_krw",
+        "instrumentType": "spot"
+    }
+]

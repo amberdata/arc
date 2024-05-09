@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:BLA000000000_AMB:USD000000335",
+        "normalizedPair": "bl_usdt",
+        "normalizedSymbol": "bl",
+        "nativePair": "BLUSDT",
+        "exchange": "mexc",
+        "assetName": "BitLex",
+        "assetArcId": "AMB:BLA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bl_usdt",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:BLA000000000_AMB:USD000000335",
+        "normalizedPair": "blaze_usdt",
+        "normalizedSymbol": "blaze",
+        "nativePair": "BLAZEUSDT",
+        "exchange": "mexc",
+        "assetName": "BLAZE",
+        "assetArcId": "AMB:BLA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "blaze_usdt",
+        "instrumentType": "spot"
+    }
+]

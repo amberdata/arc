@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZMA000002707_AMB:USD000000949",
+        "normalizedPair": "zm_usd",
+        "normalizedSymbol": "zm",
+        "nativePair": "ZM/USD",
+        "exchange": "ftx",
+        "assetName": "ZoomSwap",
+        "assetArcId": "AMB:ZMA000002707",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "zm_usd",
+        "instrumentType": "spot"
+    }
+]

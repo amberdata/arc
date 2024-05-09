@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:SPE000000299_AMB:TRY000000940",
+        "normalizedPair": "spell_try",
+        "normalizedSymbol": "spell",
+        "nativePair": "SPELLTRY",
+        "exchange": "binance",
+        "assetName": "Spell Token",
+        "assetArcId": "AMB:SPE000000299",
+        "quoteArcId": "AMB:TRY000000940",
+        "collectedPair": "spell_try",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:SPE000000299_AMB:USD000000335",
+        "normalizedPair": "spell_usdt",
+        "normalizedSymbol": "spell",
+        "nativePair": "SPELLUSDT",
+        "exchange": "binance",
+        "assetName": "Spell Token",
+        "assetArcId": "AMB:SPE000000299",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "spell_usdt",
+        "instrumentType": "spot"
+    }
+]

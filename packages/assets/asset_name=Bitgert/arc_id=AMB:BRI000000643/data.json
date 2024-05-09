@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "brise",
+    "assetName": "Bitgert",
+    "assetArcId": "AMB:BRI000000643",
+    "website": "https://bitgert.com/",
+    "whitePaperUrl": "/how-to-buy/BRISE?utm_source=mexc&utm_medium=tokenifoBRISE&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Smart Contract",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bitgert/arc_id=AMB:BRI000000643/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bitgert/arc_id=AMB:BRI000000643/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bitgert/arc_id=AMB:BRI000000643/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bitgert/arc_id=AMB:BRI000000643/exchange=bitfinex/data.json"
+        ]
+    }
+}

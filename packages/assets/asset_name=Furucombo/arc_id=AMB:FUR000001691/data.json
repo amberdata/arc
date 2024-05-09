@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "furucombo",
+    "assetName": "Furucombo",
+    "assetArcId": "AMB:FUR000001691",
+    "website": "https://furucombo.app/",
+    "whitePaperUrl": "/how-to-buy/FURUCOMBO?utm_source=mexc&utm_medium=tokenifoFURUCOMBO&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Furucombo/arc_id=AMB:FUR000001691/exchange=mexc/data.json"
+        ]
+    }
+}

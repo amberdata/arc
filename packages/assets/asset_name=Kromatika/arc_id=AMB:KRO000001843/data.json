@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "krom",
+    "assetName": "Kromatika",
+    "assetArcId": "AMB:KRO000001843",
+    "website": "https://kromatika.finance/",
+    "whitePaperUrl": "https://docs.kromatika.finance/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kromatika/arc_id=AMB:KRO000001843/exchange=mexc/data.json"
+        ]
+    }
+}

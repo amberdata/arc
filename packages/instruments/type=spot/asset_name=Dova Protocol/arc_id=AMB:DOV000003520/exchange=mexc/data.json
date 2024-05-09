@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DOV000003520_AMB:USD000000335",
+        "normalizedPair": "dova_usdt",
+        "normalizedSymbol": "dova",
+        "nativePair": "DOVAUSDT",
+        "exchange": "mexc",
+        "assetName": "Dova Protocol",
+        "assetArcId": "AMB:DOV000003520",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "dova_usdt",
+        "instrumentType": "spot"
+    }
+]

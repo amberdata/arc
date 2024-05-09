@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "boby",
+    "assetName": "BonkBaby",
+    "assetArcId": "AMB:BOB000000000",
+    "website": "https://bonkbaby.com/",
+    "whitePaperUrl": "https://docs.bonkbaby.com/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BonkBaby/arc_id=AMB:BOB000000000/exchange=mexc/data.json"
+        ]
+    }
+}

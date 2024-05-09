@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LBL000000723_AMB:USD000000335",
+        "normalizedPair": "lbl_usdt",
+        "normalizedSymbol": "lbl",
+        "nativePair": "lblusdt",
+        "exchange": "huobi",
+        "assetName": "LABEL Foundation",
+        "assetArcId": "AMB:LBL000000723",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lbl_usdt",
+        "instrumentType": "spot"
+    }
+]

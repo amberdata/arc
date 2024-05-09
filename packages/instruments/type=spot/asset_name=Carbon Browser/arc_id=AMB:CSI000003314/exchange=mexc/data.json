@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CSI000003314_AMB:USD000000335",
+        "normalizedPair": "csix_usdt",
+        "normalizedSymbol": "csix",
+        "nativePair": "CSIXUSDT",
+        "exchange": "mexc",
+        "assetName": "Carbon Browser",
+        "assetArcId": "AMB:CSI000003314",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "csix_usdt",
+        "instrumentType": "spot"
+    }
+]

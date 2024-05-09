@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MYS000000000_AMB:USD000000335",
+        "normalizedPair": "mystai_usdt",
+        "normalizedSymbol": "mystai",
+        "nativePair": "MYSTAIUSDT",
+        "exchange": "mexc",
+        "assetName": "MYSTAI",
+        "assetArcId": "AMB:MYS000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mystai_usdt",
+        "instrumentType": "spot"
+    }
+]

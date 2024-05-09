@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "sfp",
+    "assetName": "SafePal",
+    "assetArcId": "AMB:SFP000000292",
+    "website": null,
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Derivatives",
+        "Governance",
+        "Layer-1",
+        "Lending",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SafePal/arc_id=AMB:SFP000000292/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SafePal/arc_id=AMB:SFP000000292/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SafePal/arc_id=AMB:SFP000000292/exchange=mexc/data.json"
+        ]
+    }
+}

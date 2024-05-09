@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:XRP000002900_AMB:USD000000335",
+        "normalizedPair": "xrpbaby_usdt",
+        "normalizedSymbol": "xrpbaby",
+        "nativePair": "XRPBABYUSDT",
+        "exchange": "mexc",
+        "assetName": "XRPBABY",
+        "assetArcId": "AMB:XRP000002900",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "xrpbaby_usdt",
+        "instrumentType": "spot"
+    }
+]

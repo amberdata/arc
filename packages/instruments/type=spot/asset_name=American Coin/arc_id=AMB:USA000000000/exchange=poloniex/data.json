@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:USA000000000_AMB:USD000000335",
+        "normalizedPair": "usa_usdt",
+        "normalizedSymbol": "usa",
+        "nativePair": "USA_USDT",
+        "exchange": "poloniex",
+        "assetName": "American Coin",
+        "assetArcId": "AMB:USA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "usa_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "bhd1",
+    "assetName": "BHD1",
+    "assetArcId": "AMB:BHD000001460",
+    "website": "https://depinc.org/index.html",
+    "whitePaperUrl": "https://bhd.one/assets/btchd-white_paper.4aed7b0f.pdf",
+    "classificationTags": [
+        "Proof-of-Stake"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

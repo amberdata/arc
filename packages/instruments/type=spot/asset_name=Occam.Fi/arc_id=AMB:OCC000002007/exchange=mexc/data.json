@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:OCC000002007_AMB:USD000000335",
+        "normalizedPair": "occ_usdt",
+        "normalizedSymbol": "occ",
+        "nativePair": "OCCUSDT",
+        "exchange": "mexc",
+        "assetName": "Occam.Fi",
+        "assetArcId": "AMB:OCC000002007",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "occ_usdt",
+        "instrumentType": "spot"
+    }
+]

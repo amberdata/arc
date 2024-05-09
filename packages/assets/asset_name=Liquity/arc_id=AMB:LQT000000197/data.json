@@ -1,0 +1,27 @@
+{
+    "assetSymbol": "lqty",
+    "assetName": "Liquity",
+    "assetArcId": "AMB:LQT000000197",
+    "website": "https://www.liquity.org/",
+    "whitePaperUrl": "https://docs.liquity.org/faq/general",
+    "classificationTags": [
+        "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Liquity/arc_id=AMB:LQT000000197/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Liquity/arc_id=AMB:LQT000000197/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Liquity/arc_id=AMB:LQT000000197/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Liquity/arc_id=AMB:LQT000000197/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Liquity/arc_id=AMB:LQT000000197/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Liquity/arc_id=AMB:LQT000000197/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Liquity/arc_id=AMB:LQT000000197/exchange=mexc/data.json"
+        ]
+    }
+}

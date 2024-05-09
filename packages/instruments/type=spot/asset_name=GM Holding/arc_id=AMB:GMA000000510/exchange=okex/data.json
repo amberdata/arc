@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GMA000000510_AMB:USD000000335",
+        "normalizedPair": "gm_usdt",
+        "normalizedSymbol": "gm",
+        "nativePair": "GM-USDT",
+        "exchange": "okex",
+        "assetName": "GM Holding",
+        "assetArcId": "AMB:GMA000000510",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gm_usdt",
+        "instrumentType": "spot"
+    }
+]

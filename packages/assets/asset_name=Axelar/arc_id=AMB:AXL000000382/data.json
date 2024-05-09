@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "axl",
+    "assetName": "Axelar",
+    "assetArcId": "AMB:AXL000000382",
+    "website": "https://axelar.network/",
+    "whitePaperUrl": "https://axelar.network/axelar_whitepaper.pdf",
+    "classificationTags": [
+        "Governance",
+        "Proof-of-Stake",
+        "Smart Contract",
+        "Staking"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Axelar/arc_id=AMB:AXL000000382/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Axelar/arc_id=AMB:AXL000000382/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Axelar/arc_id=AMB:AXL000000382/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Axelar/arc_id=AMB:AXL000000382/exchange=bybit/data.json"
+        ]
+    }
+}

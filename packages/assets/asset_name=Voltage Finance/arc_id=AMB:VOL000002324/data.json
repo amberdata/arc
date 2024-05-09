@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "voltage",
+    "assetName": "Voltage Finance",
+    "assetArcId": "AMB:VOL000002324",
+    "website": "https://voltage.finance/",
+    "whitePaperUrl": "https://docs.voltage.finance/voltage/welcome/introduction",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Voltage Finance/arc_id=AMB:VOL000002324/exchange=mexc/data.json"
+        ]
+    }
+}

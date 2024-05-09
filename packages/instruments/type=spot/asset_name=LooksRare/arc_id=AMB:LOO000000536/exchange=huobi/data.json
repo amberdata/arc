@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LOO000000536_AMB:USD000000335",
+        "normalizedPair": "looks_usdt",
+        "normalizedSymbol": "looks",
+        "nativePair": "looksusdt",
+        "exchange": "huobi",
+        "assetName": "LooksRare",
+        "assetArcId": "AMB:LOO000000536",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "looks_usdt",
+        "instrumentType": "spot"
+    }
+]

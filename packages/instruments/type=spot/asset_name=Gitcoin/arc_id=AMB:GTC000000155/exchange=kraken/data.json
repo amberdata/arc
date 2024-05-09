@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:GTC000000155_AMB:EUR000000120",
+        "normalizedPair": "gtc_eur",
+        "normalizedSymbol": "gtc",
+        "nativePair": "GTCEUR",
+        "exchange": "kraken",
+        "assetName": "Gitcoin",
+        "assetArcId": "AMB:GTC000000155",
+        "quoteArcId": "AMB:EUR000000120",
+        "collectedPair": "gtc_eur",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:GTC000000155_AMB:USD000000949",
+        "normalizedPair": "gtc_usd",
+        "normalizedSymbol": "gtc",
+        "nativePair": "GTCUSD",
+        "exchange": "kraken",
+        "assetName": "Gitcoin",
+        "assetArcId": "AMB:GTC000000155",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "gtc_usd",
+        "instrumentType": "spot"
+    }
+]

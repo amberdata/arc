@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "crgpt",
+    "assetName": "CRGPT",
+    "assetArcId": "AMB:CRG000000000",
+    "website": "https://cryptogpt.io",
+    "whitePaperUrl": "https://cryptogpt-io.gitbook.io/whitepaper/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=CRGPT/arc_id=AMB:CRG000000000/exchange=mexc/data.json"
+        ]
+    }
+}

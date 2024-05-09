@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AIR000000000_AMB:USD000000335",
+        "normalizedPair": "airb_usdt",
+        "normalizedSymbol": "airb",
+        "nativePair": "AIRBUSDT",
+        "exchange": "mexc",
+        "assetName": "BillionAir",
+        "assetArcId": "AMB:AIR000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "airb_usdt",
+        "instrumentType": "spot"
+    }
+]

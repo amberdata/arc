@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MFE000001922_AMB:USD000000335",
+        "normalizedPair": "mfet_usdt",
+        "normalizedSymbol": "mfet",
+        "nativePair": "MFETUSDT",
+        "exchange": "mexc",
+        "assetName": "MultiFunctional Environmental Token",
+        "assetArcId": "AMB:MFE000001922",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mfet_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "farms",
+    "assetName": "Farmsent",
+    "assetArcId": "AMB:FAR000001652",
+    "website": "https://www.farmsent.io/",
+    "whitePaperUrl": "https://www.farmsent.io/assets/images/Farmsent-whitepaper.pdf",
+    "classificationTags": [
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Farmsent/arc_id=AMB:FAR000001652/exchange=mexc/data.json"
+        ]
+    }
+}

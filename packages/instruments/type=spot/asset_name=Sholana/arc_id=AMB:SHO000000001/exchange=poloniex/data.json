@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHO000000001_AMB:USD000000335",
+        "normalizedPair": "shol_usdt",
+        "normalizedSymbol": "shol",
+        "nativePair": "SHOL_USDT",
+        "exchange": "poloniex",
+        "assetName": "Sholana",
+        "assetArcId": "AMB:SHO000000001",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shol_usdt",
+        "instrumentType": "spot"
+    }
+]

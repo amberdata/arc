@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "lme",
+    "assetName": "Legendary Meme",
+    "assetArcId": "AMB:LME000000000",
+    "website": "https://legendaryme.me/",
+    "whitePaperUrl": "/how-to-buy/LME?utm_source=mexc&utm_medium=tokenifoLME&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Legendary Meme/arc_id=AMB:LME000000000/exchange=mexc/data.json"
+        ]
+    }
+}

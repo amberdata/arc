@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LPT000000196_AMB:KRW000000000",
+        "normalizedPair": "lpt_krw",
+        "normalizedSymbol": "lpt",
+        "nativePair": "LPT/KRW",
+        "exchange": "bithumb",
+        "assetName": "Livepeer",
+        "assetArcId": "AMB:LPT000000196",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "lpt_krw",
+        "instrumentType": "spot"
+    }
+]

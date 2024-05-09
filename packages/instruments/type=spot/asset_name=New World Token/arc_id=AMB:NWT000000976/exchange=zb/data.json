@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:NWT000000976_AMB:QCA000000000",
+        "normalizedPair": "nwt_qc",
+        "normalizedSymbol": "nwt",
+        "nativePair": "nwt_qc",
+        "exchange": "zb",
+        "assetName": "New World Token",
+        "assetArcId": "AMB:NWT000000976",
+        "quoteArcId": "AMB:QCA000000000",
+        "collectedPair": "nwt_qc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:NWT000000976_AMB:USD000000335",
+        "normalizedPair": "nwt_usdt",
+        "normalizedSymbol": "nwt",
+        "nativePair": "nwt_usdt",
+        "exchange": "zb",
+        "assetName": "New World Token",
+        "assetArcId": "AMB:NWT000000976",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "nwt_usdt",
+        "instrumentType": "spot"
+    }
+]

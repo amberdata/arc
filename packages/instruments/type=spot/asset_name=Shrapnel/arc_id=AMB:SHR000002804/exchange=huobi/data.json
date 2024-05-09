@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SHR000002804_AMB:USD000000335",
+        "normalizedPair": "shrap_usdt",
+        "normalizedSymbol": "shrap",
+        "nativePair": "shrapusdt",
+        "exchange": "huobi",
+        "assetName": "Shrapnel",
+        "assetArcId": "AMB:SHR000002804",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "shrap_usdt",
+        "instrumentType": "spot"
+    }
+]

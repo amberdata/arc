@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:DIA000002712_AMB:USD000000335",
+        "normalizedPair": "diamond_usdt",
+        "normalizedSymbol": "diamond",
+        "nativePair": "DIAMONDUSDT",
+        "exchange": "mexc",
+        "assetName": "Diamond ETH Vip",
+        "assetArcId": "AMB:DIA000002712",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "diamond_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MFA000000000_AMB:USD000000335",
+        "normalizedPair": "mf_usdt",
+        "normalizedSymbol": "mf",
+        "nativePair": "MFUSDT",
+        "exchange": "mexc",
+        "assetName": "Metafighter",
+        "assetArcId": "AMB:MFA000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mf_usdt",
+        "instrumentType": "spot"
+    }
+]

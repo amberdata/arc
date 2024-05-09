@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:PSI000001289_AMB:USD000000335",
+        "normalizedPair": "psi_usdt",
+        "normalizedSymbol": "psi",
+        "nativePair": "PSIUSDT",
+        "exchange": "mexc",
+        "assetName": "TridentDAO",
+        "assetArcId": "AMB:PSI000001289",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "psi_usdt",
+        "instrumentType": "spot"
+    }
+]

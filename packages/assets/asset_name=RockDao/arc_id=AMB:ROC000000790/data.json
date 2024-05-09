@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "rock",
+    "assetName": "RockDao",
+    "assetArcId": "AMB:ROC000000790",
+    "website": "https://twitter.com/the_rockdao?s=21&t=H-gJDi7-z3Ye-u8sSqjvrQ",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "trc20",
+            "address": "TZ3c6bmoqVeq9YEEBMSNrBLq2rHJ1vR8Nc"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

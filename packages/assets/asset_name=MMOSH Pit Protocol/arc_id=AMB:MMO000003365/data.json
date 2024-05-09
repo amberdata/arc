@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "mmosh",
+    "assetName": "MMOSH Pit Protocol",
+    "assetArcId": "AMB:MMO000003365",
+    "website": "https://www.mmosh.ai/",
+    "whitePaperUrl": "https://www.mmosh.ai/the_night_paper",
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MMOSH Pit Protocol/arc_id=AMB:MMO000003365/exchange=mexc/data.json"
+        ]
+    }
+}

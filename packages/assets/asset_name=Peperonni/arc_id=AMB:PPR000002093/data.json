@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "pprni",
+    "assetName": "Peperonni",
+    "assetArcId": "AMB:PPR000002093",
+    "website": "https://www.peperonni.com/",
+    "whitePaperUrl": "https://www.peperonni.com/whitepaper",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Peperonni/arc_id=AMB:PPR000002093/exchange=mexc/data.json"
+        ]
+    }
+}

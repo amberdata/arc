@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ZEN000000000_AMB:USD000000335",
+        "normalizedPair": "zenx_usdt",
+        "normalizedSymbol": "zenx",
+        "nativePair": "ZENXUSDT",
+        "exchange": "mexc",
+        "assetName": "ZenithDex",
+        "assetArcId": "AMB:ZEN000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "zenx_usdt",
+        "instrumentType": "spot"
+    }
+]

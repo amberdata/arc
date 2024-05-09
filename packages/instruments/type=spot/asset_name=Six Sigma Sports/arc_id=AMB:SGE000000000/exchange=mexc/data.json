@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SGE000000000_AMB:USD000000335",
+        "normalizedPair": "sge_usdt",
+        "normalizedSymbol": "sge",
+        "nativePair": "SGEUSDT",
+        "exchange": "mexc",
+        "assetName": "Six Sigma Sports",
+        "assetArcId": "AMB:SGE000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sge_usdt",
+        "instrumentType": "spot"
+    }
+]

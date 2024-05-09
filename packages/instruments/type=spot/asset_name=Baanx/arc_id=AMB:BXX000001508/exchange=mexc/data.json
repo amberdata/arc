@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BXX000001508_AMB:USD000000335",
+        "normalizedPair": "bxx_usdt",
+        "normalizedSymbol": "bxx",
+        "nativePair": "BXXUSDT",
+        "exchange": "mexc",
+        "assetName": "Baanx",
+        "assetArcId": "AMB:BXX000001508",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bxx_usdt",
+        "instrumentType": "spot"
+    }
+]

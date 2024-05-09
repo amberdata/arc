@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:IND000002574_AMB:USD000000949",
+        "normalizedPair": "indi_usd",
+        "normalizedSymbol": "indi",
+        "nativePair": "INDI/USD",
+        "exchange": "ftx",
+        "assetName": "IndiGG",
+        "assetArcId": "AMB:IND000002574",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "indi_usd",
+        "instrumentType": "spot"
+    }
+]

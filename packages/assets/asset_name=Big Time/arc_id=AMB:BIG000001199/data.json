@@ -1,0 +1,25 @@
+{
+    "assetSymbol": "bigtime",
+    "assetName": "Big Time",
+    "assetArcId": "AMB:BIG000001199",
+    "website": "https://bigtime.gg/",
+    "whitePaperUrl": "https://bigtime.gg/economy",
+    "classificationTags": [
+        "Gaming",
+        "Lending"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x64Bc2cA1Be492bE7185FAA2c8835d9b824c8a194"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Big Time/arc_id=AMB:BIG000001199/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Big Time/arc_id=AMB:BIG000001199/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Big Time/arc_id=AMB:BIG000001199/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Big Time/arc_id=AMB:BIG000001199/exchange=bithumb/data.json"
+        ]
+    }
+}

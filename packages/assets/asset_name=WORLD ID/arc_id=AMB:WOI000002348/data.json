@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "woid",
+    "assetName": "WORLD ID",
+    "assetArcId": "AMB:WOI000002348",
+    "website": "https://woid.ai",
+    "whitePaperUrl": "https://docs.woid.ai/products/roadmap",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WORLD ID/arc_id=AMB:WOI000002348/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "assetSymbol": "oxt",
+    "assetName": "Orchid",
+    "assetArcId": "AMB:OXT000000242",
+    "website": "https://www.orchid.com/",
+    "whitePaperUrl": "https://www.orchid.com/assets/whitepaper/whitepaper.pdf",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orchid/arc_id=AMB:OXT000000242/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orchid/arc_id=AMB:OXT000000242/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orchid/arc_id=AMB:OXT000000242/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orchid/arc_id=AMB:OXT000000242/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orchid/arc_id=AMB:OXT000000242/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orchid/arc_id=AMB:OXT000000242/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orchid/arc_id=AMB:OXT000000242/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orchid/arc_id=AMB:OXT000000242/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orchid/arc_id=AMB:OXT000000242/exchange=mexc/data.json"
+        ]
+    }
+}

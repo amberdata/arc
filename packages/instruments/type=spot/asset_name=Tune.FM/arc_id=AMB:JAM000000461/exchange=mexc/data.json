@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:JAM000000461_AMB:USD000000335",
+        "normalizedPair": "jam.amb.1_usdt",
+        "normalizedSymbol": "jam.amb.1",
+        "nativePair": "JAMUSDT",
+        "exchange": "mexc",
+        "assetName": "Tune.FM",
+        "assetArcId": "AMB:JAM000000461",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "jam_usdt",
+        "instrumentType": "spot"
+    }
+]

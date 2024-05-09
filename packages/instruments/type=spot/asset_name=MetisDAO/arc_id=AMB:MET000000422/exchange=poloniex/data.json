@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MET000000422_AMB:USD000000335",
+        "normalizedPair": "metis_usdt",
+        "normalizedSymbol": "metis",
+        "nativePair": "METIS_USDT",
+        "exchange": "poloniex",
+        "assetName": "MetisDAO",
+        "assetArcId": "AMB:MET000000422",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "metis_usdt",
+        "instrumentType": "spot"
+    }
+]

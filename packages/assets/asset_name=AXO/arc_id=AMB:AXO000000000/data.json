@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "axo",
+    "assetName": "AXO",
+    "assetArcId": "AMB:AXO000000000",
+    "website": "https://axo.trade",
+    "whitePaperUrl": "https://www.axo.trade/whitepaper.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AXO/arc_id=AMB:AXO000000000/exchange=mexc/data.json"
+        ]
+    }
+}

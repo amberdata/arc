@@ -1,0 +1,36 @@
+{
+    "assetSymbol": "usdt",
+    "assetName": "Tether",
+    "assetArcId": "AMB:USD000000335",
+    "website": "https://tether.to",
+    "whitePaperUrl": "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf",
+    "classificationTags": [
+        "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether/arc_id=AMB:USD000000335/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether/arc_id=AMB:USD000000335/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether/arc_id=AMB:USD000000335/exchange=lmax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether/arc_id=AMB:USD000000335/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether/arc_id=AMB:USD000000335/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether/arc_id=AMB:USD000000335/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether/arc_id=AMB:USD000000335/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether/arc_id=AMB:USD000000335/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether/arc_id=AMB:USD000000335/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether/arc_id=AMB:USD000000335/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether/arc_id=AMB:USD000000335/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether/arc_id=AMB:USD000000335/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether/arc_id=AMB:USD000000335/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether/arc_id=AMB:USD000000335/exchange=ftxus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether/arc_id=AMB:USD000000335/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether/arc_id=AMB:USD000000335/exchange=binanceus/data.json"
+        ]
+    }
+}

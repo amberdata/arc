@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:WHE000003356_AMB:USD000000335",
+        "normalizedPair": "when_usdt",
+        "normalizedSymbol": "when",
+        "nativePair": "WHENUSDT",
+        "exchange": "mexc",
+        "assetName": "when",
+        "assetArcId": "AMB:WHE000003356",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "when_usdt",
+        "instrumentType": "spot"
+    }
+]

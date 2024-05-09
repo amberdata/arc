@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "people",
+    "assetName": "ConstitutionDAO",
+    "assetArcId": "AMB:PEO000000245",
+    "website": "https://www.constitutiondao.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Governance"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ConstitutionDAO/arc_id=AMB:PEO000000245/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ConstitutionDAO/arc_id=AMB:PEO000000245/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ConstitutionDAO/arc_id=AMB:PEO000000245/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ConstitutionDAO/arc_id=AMB:PEO000000245/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ConstitutionDAO/arc_id=AMB:PEO000000245/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ConstitutionDAO/arc_id=AMB:PEO000000245/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ConstitutionDAO/arc_id=AMB:PEO000000245/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ConstitutionDAO/arc_id=AMB:PEO000000245/exchange=mexc/data.json"
+        ]
+    }
+}

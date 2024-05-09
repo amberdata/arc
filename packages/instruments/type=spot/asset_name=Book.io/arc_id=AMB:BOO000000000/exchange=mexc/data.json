@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BOO000000000_AMB:USD000000335",
+        "normalizedPair": "book_usdt",
+        "normalizedSymbol": "book",
+        "nativePair": "BOOKUSDT",
+        "exchange": "mexc",
+        "assetName": "Book.io",
+        "assetArcId": "AMB:BOO000000000",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "book_usdt",
+        "instrumentType": "spot"
+    }
+]

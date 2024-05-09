@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MED000000421_AMB:USD000000949",
+        "normalizedPair": "media_usd",
+        "normalizedSymbol": "media",
+        "nativePair": "MEDIA/USD",
+        "exchange": "ftx",
+        "assetName": "Media Network",
+        "assetArcId": "AMB:MED000000421",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "media_usd",
+        "instrumentType": "spot"
+    }
+]

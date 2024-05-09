@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ALF000001388_AMB:USD000000335",
+        "normalizedPair": "alf_usdt",
+        "normalizedSymbol": "alf",
+        "nativePair": "ALFUSDT",
+        "exchange": "mexc",
+        "assetName": "Alfprotocol",
+        "assetArcId": "AMB:ALF000001388",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "alf_usdt",
+        "instrumentType": "spot"
+    }
+]

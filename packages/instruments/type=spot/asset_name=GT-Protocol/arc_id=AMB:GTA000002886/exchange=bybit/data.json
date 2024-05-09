@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:GTA000002886_AMB:USD000000335",
+        "normalizedPair": "gtai_usdt",
+        "normalizedSymbol": "gtai",
+        "nativePair": "GTAIUSDT",
+        "exchange": "bybit",
+        "assetName": "GT-Protocol",
+        "assetArcId": "AMB:GTA000002886",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "gtai_usdt",
+        "instrumentType": "spot"
+    }
+]

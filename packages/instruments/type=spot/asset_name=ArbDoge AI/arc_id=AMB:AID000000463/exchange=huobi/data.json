@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:AID000000463_AMB:USD000000335",
+        "normalizedPair": "aidoge_usdt",
+        "normalizedSymbol": "aidoge",
+        "nativePair": "aidogeusdt",
+        "exchange": "huobi",
+        "assetName": "ArbDoge AI",
+        "assetArcId": "AMB:AID000000463",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "aidoge_usdt",
+        "instrumentType": "spot"
+    }
+]

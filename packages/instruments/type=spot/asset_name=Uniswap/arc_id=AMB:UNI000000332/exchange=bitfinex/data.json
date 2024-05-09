@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:UNI000000332_AMB:USD000000949",
+        "normalizedPair": "uni_usd",
+        "normalizedSymbol": "uni",
+        "nativePair": "tUNIUSD",
+        "exchange": "bitfinex",
+        "assetName": "Uniswap",
+        "assetArcId": "AMB:UNI000000332",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "uni_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:UNI000000332_AMB:USD000000335",
+        "normalizedPair": "uni_usdt",
+        "normalizedSymbol": "uni",
+        "nativePair": "tUNIUST",
+        "exchange": "bitfinex",
+        "assetName": "Uniswap",
+        "assetArcId": "AMB:UNI000000332",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "uni_usdt",
+        "instrumentType": "spot"
+    }
+]

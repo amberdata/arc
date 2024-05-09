@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:CLF000002854_AMB:USD000000335",
+        "normalizedPair": "clfi_usdt",
+        "normalizedSymbol": "clfi",
+        "nativePair": "CLFIUSDT",
+        "exchange": "mexc",
+        "assetName": "cLFi",
+        "assetArcId": "AMB:CLF000002854",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "clfi_usdt",
+        "instrumentType": "spot"
+    }
+]

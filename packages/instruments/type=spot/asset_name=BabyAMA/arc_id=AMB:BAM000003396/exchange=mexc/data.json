@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BAM000003396_AMB:USD000000335",
+        "normalizedPair": "bama_usdt",
+        "normalizedSymbol": "bama",
+        "nativePair": "BAMAUSDT",
+        "exchange": "mexc",
+        "assetName": "BabyAMA",
+        "assetArcId": "AMB:BAM000003396",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bama_usdt",
+        "instrumentType": "spot"
+    }
+]

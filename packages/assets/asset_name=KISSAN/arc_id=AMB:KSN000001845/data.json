@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "ksn",
+    "assetName": "KISSAN",
+    "assetArcId": "AMB:KSN000001845",
+    "website": "http://kissantoken.io/",
+    "whitePaperUrl": "https://kissantoken.io/pdf/Kissan_WP2_comp.pdf",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=KISSAN/arc_id=AMB:KSN000001845/exchange=mexc/data.json"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TBT000002755_AMB:USD000000335",
+        "normalizedPair": "tbt_usdt",
+        "normalizedSymbol": "tbt",
+        "nativePair": "TBTUSDT",
+        "exchange": "mexc",
+        "assetName": "Rebasing TBT",
+        "assetArcId": "AMB:TBT000002755",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "tbt_usdt",
+        "instrumentType": "spot"
+    }
+]

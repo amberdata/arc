@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:LIN000000192_AMB:BTC000000000",
+        "normalizedPair": "link_btc",
+        "normalizedSymbol": "link",
+        "nativePair": "LINKBTC",
+        "exchange": "binanceus",
+        "assetName": "Chainlink",
+        "assetArcId": "AMB:LIN000000192",
+        "quoteArcId": "AMB:BTC000000000",
+        "collectedPair": "link_btc",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:LIN000000192_AMB:USD000000335",
+        "normalizedPair": "link_usdt",
+        "normalizedSymbol": "link",
+        "nativePair": "LINKUSDT",
+        "exchange": "binanceus",
+        "assetName": "Chainlink",
+        "assetArcId": "AMB:LIN000000192",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "link_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "stepn",
+    "assetName": "STEPN",
+    "assetArcId": "AMB:STE000002232",
+    "website": "https://www.stepn.com/",
+    "whitePaperUrl": "https://whitepaper.stepn.com/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:STE000002232/exchange=mexc/data.json"
+        ]
+    }
+}

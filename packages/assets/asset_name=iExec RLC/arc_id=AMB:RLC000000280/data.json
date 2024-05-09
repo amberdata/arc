@@ -1,0 +1,27 @@
+{
+    "assetSymbol": "rlc",
+    "assetName": "iExec RLC",
+    "assetArcId": "AMB:RLC000000280",
+    "website": "https://iex.ec/",
+    "whitePaperUrl": "https://iex.ec/wp-content/uploads/pdf/iExec-WPv3.0-English.pdf",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x607f4c5bb672230e8672085532f7e901544a7375"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=mexc/data.json"
+        ]
+    }
+}

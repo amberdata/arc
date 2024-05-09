@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "t23",
+    "assetName": "T23",
+    "assetArcId": "AMB:T23000002250",
+    "website": "T23.info",
+    "whitePaperUrl": "https://t23.info/whitepaper",
+    "classificationTags": [
+        "Gaming",
+        "Transparent"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=T23/arc_id=AMB:T23000002250/exchange=mexc/data.json"
+        ]
+    }
+}

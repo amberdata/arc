@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:SAI000001109_AMB:USD000000335",
+        "normalizedPair": "sail_usdt",
+        "normalizedSymbol": "sail",
+        "nativePair": "SAILUSDT",
+        "exchange": "bybit",
+        "assetName": "SolanaSail",
+        "assetArcId": "AMB:SAI000001109",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "sail_usdt",
+        "instrumentType": "spot"
+    }
+]

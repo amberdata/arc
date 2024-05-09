@@ -1,0 +1,21 @@
+{
+    "assetSymbol": "dwifc",
+    "assetName": "DogWifCat",
+    "assetArcId": "AMB:DWI000000000",
+    "website": "https://www.dogwifcatcoin.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "wifhHP4nsNmhXJx9Rrq9NFiYShUTFAreM5LKHso5qXK"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DogWifCat/arc_id=AMB:DWI000000000/exchange=poloniex/data.json"
+        ]
+    }
+}

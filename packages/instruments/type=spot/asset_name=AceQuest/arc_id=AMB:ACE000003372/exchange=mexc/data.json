@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:ACE000003372_AMB:USD000000335",
+        "normalizedPair": "acequest_usdt",
+        "normalizedSymbol": "acequest",
+        "nativePair": "ACEQUESTUSDT",
+        "exchange": "mexc",
+        "assetName": "AceQuest",
+        "assetArcId": "AMB:ACE000003372",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "acequest_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:BBF000000634_AMB:USD000000335",
+        "normalizedPair": "bbf_usdt",
+        "normalizedSymbol": "bbf",
+        "nativePair": "BBFUSDT",
+        "exchange": "mexc",
+        "assetName": "Bubblefong",
+        "assetArcId": "AMB:BBF000000634",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "bbf_usdt",
+        "instrumentType": "spot"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:STG000000302_AMB:USD000000949",
+        "normalizedPair": "stg_usd",
+        "normalizedSymbol": "stg",
+        "nativePair": "tSTGUSD",
+        "exchange": "bitfinex",
+        "assetName": "Stargate Finance V1",
+        "assetArcId": "AMB:STG000000302",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "stg_usd",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:STG000000302_AMB:USD000000335",
+        "normalizedPair": "stg_usdt",
+        "normalizedSymbol": "stg",
+        "nativePair": "tSTGUST",
+        "exchange": "bitfinex",
+        "assetName": "Stargate Finance V1",
+        "assetArcId": "AMB:STG000000302",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "stg_usdt",
+        "instrumentType": "spot"
+    }
+]

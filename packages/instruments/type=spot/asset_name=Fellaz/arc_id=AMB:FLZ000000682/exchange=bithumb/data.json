@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:FLZ000000682_AMB:KRW000000000",
+        "normalizedPair": "flz_krw",
+        "normalizedSymbol": "flz",
+        "nativePair": "FLZ/KRW",
+        "exchange": "bithumb",
+        "assetName": "Fellaz",
+        "assetArcId": "AMB:FLZ000000682",
+        "quoteArcId": "AMB:KRW000000000",
+        "collectedPair": "flz_krw",
+        "instrumentType": "spot"
+    }
+]

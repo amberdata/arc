@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:TTM000002877_AMB:USD000000335",
+        "normalizedPair": "ttm_usdt",
+        "normalizedSymbol": "ttm",
+        "nativePair": "TTMUSDT",
+        "exchange": "mexc",
+        "assetName": "Tradetomato",
+        "assetArcId": "AMB:TTM000002877",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "ttm_usdt",
+        "instrumentType": "spot"
+    }
+]

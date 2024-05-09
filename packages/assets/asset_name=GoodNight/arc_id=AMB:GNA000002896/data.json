@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "gn",
+    "assetName": "GoodNight",
+    "assetArcId": "AMB:GNA000002896",
+    "website": "#",
+    "whitePaperUrl": "/how-to-buy/GN?utm_source=mexc&utm_medium=tokenifoGN&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GoodNight/arc_id=AMB:GNA000002896/exchange=mexc/data.json"
+        ]
+    }
+}

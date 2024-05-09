@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "grokbsc",
+    "assetName": "GROK",
+    "assetArcId": "AMB:GRO000003363",
+    "website": "http://groktoken.vip/",
+    "whitePaperUrl": "/how-to-buy/GROKBSC?utm_source=mexc&utm_medium=tokenifoGROKBSC&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GROK/arc_id=AMB:GRO000003363/exchange=mexc/data.json"
+        ]
+    }
+}

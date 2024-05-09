@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "wasb",
+    "assetName": "We Are So Back",
+    "assetArcId": "AMB:WAS000003424",
+    "website": "https://www.wasb.wtf/",
+    "whitePaperUrl": "https://www.wasb.wtf/",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=We Are So Back/arc_id=AMB:WAS000003424/exchange=mexc/data.json"
+        ]
+    }
+}

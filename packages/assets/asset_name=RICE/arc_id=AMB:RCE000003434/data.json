@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "rce",
+    "assetName": "RICE",
+    "assetArcId": "AMB:RCE000003434",
+    "website": "https://ricebsc.com/",
+    "whitePaperUrl": "/how-to-buy/RCE?utm_source=mexc&utm_medium=tokenifoRCE&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=RICE/arc_id=AMB:RCE000003434/exchange=mexc/data.json"
+        ]
+    }
+}

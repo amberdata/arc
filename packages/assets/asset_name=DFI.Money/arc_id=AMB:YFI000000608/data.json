@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "yfii",
+    "assetName": "DFI.Money",
+    "assetArcId": "AMB:YFI000000608",
+    "website": "https://yfii.finance/#/",
+    "whitePaperUrl": "/how-to-buy/YFII?utm_source=mexc&utm_medium=tokenifoYFII&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DFI.Money/arc_id=AMB:YFI000000608/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DFI.Money/arc_id=AMB:YFI000000608/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DFI.Money/arc_id=AMB:YFI000000608/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DFI.Money/arc_id=AMB:YFI000000608/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DFI.Money/arc_id=AMB:YFI000000608/exchange=mexc/data.json"
+        ]
+    }
+}

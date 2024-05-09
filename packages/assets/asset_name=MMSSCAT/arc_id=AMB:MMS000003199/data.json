@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "mmsscat",
+    "assetName": "MMSSCAT",
+    "assetArcId": "AMB:MMS000003199",
+    "website": "https://mmss.world/",
+    "whitePaperUrl": "/how-to-buy/MMSSCAT?utm_source=mexc&utm_medium=tokenifoMMSSCAT&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MMSSCAT/arc_id=AMB:MMS000003199/exchange=mexc/data.json"
+        ]
+    }
+}

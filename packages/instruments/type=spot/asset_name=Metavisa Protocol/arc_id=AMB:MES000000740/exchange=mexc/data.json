@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:MES000000740_AMB:USD000000335",
+        "normalizedPair": "mesa_usdt",
+        "normalizedSymbol": "mesa",
+        "nativePair": "MESAUSDT",
+        "exchange": "mexc",
+        "assetName": "Metavisa Protocol",
+        "assetArcId": "AMB:MES000000740",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "mesa_usdt",
+        "instrumentType": "spot"
+    }
+]

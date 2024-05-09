@@ -1,0 +1,16 @@
+{
+    "assetSymbol": "elda",
+    "assetName": "Eldarune",
+    "assetArcId": "AMB:ELD000001033",
+    "website": "https://www.eldarune.com/",
+    "whitePaperUrl": "https://digalabs.gitbook.io/whitepaper_eldarune/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Eldarune/arc_id=AMB:ELD000001033/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Eldarune/arc_id=AMB:ELD000001033/exchange=bybit/data.json"
+        ]
+    }
+}

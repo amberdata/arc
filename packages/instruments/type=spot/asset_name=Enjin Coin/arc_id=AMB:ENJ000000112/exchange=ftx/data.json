@@ -1,0 +1,26 @@
+[
+    {
+        "arcPairId": "AMB:ENJ000000112_AMB:JPY000000903",
+        "normalizedPair": "enj_jpy",
+        "normalizedSymbol": "enj",
+        "nativePair": "ENJ/JPY",
+        "exchange": "ftx",
+        "assetName": "Enjin Coin",
+        "assetArcId": "AMB:ENJ000000112",
+        "quoteArcId": "AMB:JPY000000903",
+        "collectedPair": "enj_jpy",
+        "instrumentType": "spot"
+    },
+    {
+        "arcPairId": "AMB:ENJ000000112_AMB:USD000000949",
+        "normalizedPair": "enj_usd",
+        "normalizedSymbol": "enj",
+        "nativePair": "ENJ/USD",
+        "exchange": "ftx",
+        "assetName": "Enjin Coin",
+        "assetArcId": "AMB:ENJ000000112",
+        "quoteArcId": "AMB:USD000000949",
+        "collectedPair": "enj_usd",
+        "instrumentType": "spot"
+    }
+]

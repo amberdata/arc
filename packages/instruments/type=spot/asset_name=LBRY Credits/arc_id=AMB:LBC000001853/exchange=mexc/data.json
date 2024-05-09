@@ -1,0 +1,14 @@
+[
+    {
+        "arcPairId": "AMB:LBC000001853_AMB:USD000000335",
+        "normalizedPair": "lbc_usdt",
+        "normalizedSymbol": "lbc",
+        "nativePair": "LBCUSDT",
+        "exchange": "mexc",
+        "assetName": "LBRY Credits",
+        "assetArcId": "AMB:LBC000001853",
+        "quoteArcId": "AMB:USD000000335",
+        "collectedPair": "lbc_usdt",
+        "instrumentType": "spot"
+    }
+]
