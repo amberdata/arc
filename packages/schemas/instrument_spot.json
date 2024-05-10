@@ -22,7 +22,7 @@
         "precisionCost",
         "precisionPrice",
         "precisionQuote",
-        "arcAssetId"
+        "assetArcId"
     ],
     "properties": {
         "exchange": {
@@ -109,7 +109,7 @@
             "type": "number",
             "description": "The number of decimal places that can be used for the quote asset amount in transactions."
         },
-        "arcAssetId": {
+        "assetArcId": {
             "type": "string",
             "description": "The permanent, unique identifier of the asset in ARC, that remains the same even if assetSymbol must change"
         }

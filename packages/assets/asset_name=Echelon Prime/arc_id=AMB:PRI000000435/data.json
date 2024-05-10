@@ -16,8 +16,8 @@
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Echelon Prime/arc_id=AMB:PRI000000435/exchange=gdax/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Echelon Prime/arc_id=AMB:PRI000000435/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Echelon Prime/arc_id=AMB:PRI000000435/exchange=bybit/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Echelon Prime/arc_id=AMB:PRI000000435/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Echelon Prime/arc_id=AMB:PRI000000435/exchange=poloniex/data.json"
         ]
     }
 }

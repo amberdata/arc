@@ -13,11 +13,11 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Unifi Protocol DAO/arc_id=AMB:UNF000000331/exchange=gdax/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Unifi Protocol DAO/arc_id=AMB:UNF000000331/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Unifi Protocol DAO/arc_id=AMB:UNF000000331/exchange=kraken/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Unifi Protocol DAO/arc_id=AMB:UNF000000331/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Unifi Protocol DAO/arc_id=AMB:UNF000000331/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Unifi Protocol DAO/arc_id=AMB:UNF000000331/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Unifi Protocol DAO/arc_id=AMB:UNF000000331/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Unifi Protocol DAO/arc_id=AMB:UNF000000331/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Unifi Protocol DAO/arc_id=AMB:UNF000000331/exchange=gdax/data.json"
         ]
     }
 }

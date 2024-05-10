@@ -17,17 +17,17 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=ftx/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=okex/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=okex/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=kraken/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=gemini/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=bybit/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=bithumb/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=huobi/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=bybit/data.json"
         ]
     }
 }

@@ -13,13 +13,13 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=ftx/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=okex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=kraken/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=huobi/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Civic/arc_id=AMB:CVC000000088/exchange=gdax/data.json"
         ]
     }
 }

@@ -9,8 +9,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GameGPT/arc_id=AMB:DUE000003074/exchange=mexc/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GameGPT/arc_id=AMB:DUE000003074/exchange=bybit/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GameGPT/arc_id=AMB:DUE000003074/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=GameGPT/arc_id=AMB:DUE000003074/exchange=mexc/data.json"
         ]
     }
 }

@@ -13,14 +13,14 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonk/arc_id=AMB:BON000000640/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonk/arc_id=AMB:BON000000640/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonk/arc_id=AMB:BON000000640/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonk/arc_id=AMB:BON000000640/exchange=bitfinex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonk/arc_id=AMB:BON000000640/exchange=kraken/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonk/arc_id=AMB:BON000000640/exchange=bybit/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonk/arc_id=AMB:BON000000640/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonk/arc_id=AMB:BON000000640/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonk/arc_id=AMB:BON000000640/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonk/arc_id=AMB:BON000000640/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonk/arc_id=AMB:BON000000640/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonk/arc_id=AMB:BON000000640/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonk/arc_id=AMB:BON000000640/exchange=bybit/data.json"
         ]
     }
 }

@@ -13,15 +13,15 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kava/arc_id=AMB:KAV000000180/exchange=gdax/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kava/arc_id=AMB:KAV000000180/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kava/arc_id=AMB:KAV000000180/exchange=bitfinex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kava/arc_id=AMB:KAV000000180/exchange=kraken/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kava/arc_id=AMB:KAV000000180/exchange=bybit/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kava/arc_id=AMB:KAV000000180/exchange=bithumb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kava/arc_id=AMB:KAV000000180/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kava/arc_id=AMB:KAV000000180/exchange=binanceus/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kava/arc_id=AMB:KAV000000180/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kava/arc_id=AMB:KAV000000180/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kava/arc_id=AMB:KAV000000180/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kava/arc_id=AMB:KAV000000180/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kava/arc_id=AMB:KAV000000180/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kava/arc_id=AMB:KAV000000180/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kava/arc_id=AMB:KAV000000180/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kava/arc_id=AMB:KAV000000180/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kava/arc_id=AMB:KAV000000180/exchange=bybit/data.json"
         ]
     }
 }

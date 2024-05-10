@@ -9,9 +9,9 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PONKE/arc_id=AMB:PON000003092/exchange=poloniex/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PONKE/arc_id=AMB:PON000003092/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PONKE/arc_id=AMB:PON000003092/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PONKE/arc_id=AMB:PON000003092/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PONKE/arc_id=AMB:PON000003092/exchange=poloniex/data.json"
         ]
     }
 }

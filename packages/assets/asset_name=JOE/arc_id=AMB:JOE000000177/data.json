@@ -7,12 +7,12 @@
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=JOE/arc_id=AMB:JOE000000177/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=JOE/arc_id=AMB:JOE000000177/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=JOE/arc_id=AMB:JOE000000177/exchange=ftx/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=JOE/arc_id=AMB:JOE000000177/exchange=okex/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=JOE/arc_id=AMB:JOE000000177/exchange=bithumb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=JOE/arc_id=AMB:JOE000000177/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=JOE/arc_id=AMB:JOE000000177/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=JOE/arc_id=AMB:JOE000000177/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=JOE/arc_id=AMB:JOE000000177/exchange=ftx/data.json"
         ]
     }
 }

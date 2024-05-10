@@ -7,14 +7,14 @@
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reserve Rights/arc_id=AMB:RSR000000284/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reserve Rights/arc_id=AMB:RSR000000284/exchange=ftx/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reserve Rights/arc_id=AMB:RSR000000284/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reserve Rights/arc_id=AMB:RSR000000284/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reserve Rights/arc_id=AMB:RSR000000284/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reserve Rights/arc_id=AMB:RSR000000284/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reserve Rights/arc_id=AMB:RSR000000284/exchange=okex/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reserve Rights/arc_id=AMB:RSR000000284/exchange=bithumb/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reserve Rights/arc_id=AMB:RSR000000284/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reserve Rights/arc_id=AMB:RSR000000284/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reserve Rights/arc_id=AMB:RSR000000284/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reserve Rights/arc_id=AMB:RSR000000284/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reserve Rights/arc_id=AMB:RSR000000284/exchange=ftx/data.json"
         ]
     }
 }

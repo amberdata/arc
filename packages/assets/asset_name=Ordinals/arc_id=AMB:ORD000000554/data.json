@@ -7,12 +7,12 @@
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ordinals/arc_id=AMB:ORD000000554/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ordinals/arc_id=AMB:ORD000000554/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ordinals/arc_id=AMB:ORD000000554/exchange=okex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ordinals/arc_id=AMB:ORD000000554/exchange=bybit/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ordinals/arc_id=AMB:ORD000000554/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ordinals/arc_id=AMB:ORD000000554/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ordinals/arc_id=AMB:ORD000000554/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ordinals/arc_id=AMB:ORD000000554/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ordinals/arc_id=AMB:ORD000000554/exchange=bybit/data.json"
         ]
     }
 }

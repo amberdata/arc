@@ -16,15 +16,15 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ankr/arc_id=AMB:ANK000000019/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ankr/arc_id=AMB:ANK000000019/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ankr/arc_id=AMB:ANK000000019/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ankr/arc_id=AMB:ANK000000019/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ankr/arc_id=AMB:ANK000000019/exchange=kraken/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ankr/arc_id=AMB:ANK000000019/exchange=gemini/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ankr/arc_id=AMB:ANK000000019/exchange=bybit/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ankr/arc_id=AMB:ANK000000019/exchange=bithumb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ankr/arc_id=AMB:ANK000000019/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ankr/arc_id=AMB:ANK000000019/exchange=binanceus/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ankr/arc_id=AMB:ANK000000019/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ankr/arc_id=AMB:ANK000000019/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ankr/arc_id=AMB:ANK000000019/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ankr/arc_id=AMB:ANK000000019/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ankr/arc_id=AMB:ANK000000019/exchange=bybit/data.json"
         ]
     }
 }

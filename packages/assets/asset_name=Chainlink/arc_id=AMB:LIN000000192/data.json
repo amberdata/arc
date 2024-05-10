@@ -16,23 +16,23 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=gdax/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=lmax/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=ftx/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=bitfinex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=okex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=zb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=kraken/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=gemini/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=bybit/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=bithumb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=bitstamp/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=ftxus/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=binanceus/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=lmax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chainlink/arc_id=AMB:LIN000000192/exchange=ftxus/data.json"
         ]
     }
 }

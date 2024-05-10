@@ -15,15 +15,15 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aragon/arc_id=AMB:ANT000000020/exchange=gdax/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aragon/arc_id=AMB:ANT000000020/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aragon/arc_id=AMB:ANT000000020/exchange=bitfinex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aragon/arc_id=AMB:ANT000000020/exchange=okex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aragon/arc_id=AMB:ANT000000020/exchange=kraken/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aragon/arc_id=AMB:ANT000000020/exchange=bitstamp/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aragon/arc_id=AMB:ANT000000020/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aragon/arc_id=AMB:ANT000000020/exchange=binanceus/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aragon/arc_id=AMB:ANT000000020/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aragon/arc_id=AMB:ANT000000020/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aragon/arc_id=AMB:ANT000000020/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aragon/arc_id=AMB:ANT000000020/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aragon/arc_id=AMB:ANT000000020/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aragon/arc_id=AMB:ANT000000020/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aragon/arc_id=AMB:ANT000000020/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aragon/arc_id=AMB:ANT000000020/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Aragon/arc_id=AMB:ANT000000020/exchange=gdax/data.json"
         ]
     }
 }

@@ -7,10 +7,10 @@
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AC Milan Fan Token/arc_id=AMB:ACM000000004/exchange=bybit/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AC Milan Fan Token/arc_id=AMB:ACM000000004/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AC Milan Fan Token/arc_id=AMB:ACM000000004/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AC Milan Fan Token/arc_id=AMB:ACM000000004/exchange=mexc/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AC Milan Fan Token/arc_id=AMB:ACM000000004/exchange=bybit/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AC Milan Fan Token/arc_id=AMB:ACM000000004/exchange=mexc/data.json"
         ]
     }
 }

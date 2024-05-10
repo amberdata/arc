@@ -9,9 +9,9 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tamadoge/arc_id=AMB:TAM000000584/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tamadoge/arc_id=AMB:TAM000000584/exchange=bybit/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tamadoge/arc_id=AMB:TAM000000584/exchange=mexc/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tamadoge/arc_id=AMB:TAM000000584/exchange=bybit/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tamadoge/arc_id=AMB:TAM000000584/exchange=okex/data.json"
         ]
     }
 }

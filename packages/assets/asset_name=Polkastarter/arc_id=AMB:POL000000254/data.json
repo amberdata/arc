@@ -16,14 +16,14 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=zb/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=okex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=kraken/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Polkastarter/arc_id=AMB:POL000000254/exchange=gdax/data.json"
         ]
     }
 }

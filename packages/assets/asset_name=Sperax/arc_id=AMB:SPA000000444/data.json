@@ -17,8 +17,8 @@
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sperax/arc_id=AMB:SPA000000444/exchange=gdax/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sperax/arc_id=AMB:SPA000000444/exchange=ftx/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sperax/arc_id=AMB:SPA000000444/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sperax/arc_id=AMB:SPA000000444/exchange=ftx/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Sperax/arc_id=AMB:SPA000000444/exchange=mexc/data.json"
         ]
     }

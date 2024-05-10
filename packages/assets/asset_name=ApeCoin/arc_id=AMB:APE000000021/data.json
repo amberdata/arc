@@ -16,21 +16,21 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=gdax/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=ftx/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=bitfinex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=okex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=zb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=kraken/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=gemini/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=bybit/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=bithumb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=bitstamp/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=poloniex/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=binanceus/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ApeCoin/arc_id=AMB:APE000000021/exchange=bybit/data.json"
         ]
     }
 }

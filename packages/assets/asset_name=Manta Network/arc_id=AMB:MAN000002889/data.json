@@ -14,11 +14,11 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manta Network/arc_id=AMB:MAN000002889/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manta Network/arc_id=AMB:MAN000002889/exchange=bybit/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manta Network/arc_id=AMB:MAN000002889/exchange=bithumb/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manta Network/arc_id=AMB:MAN000002889/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manta Network/arc_id=AMB:MAN000002889/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manta Network/arc_id=AMB:MAN000002889/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manta Network/arc_id=AMB:MAN000002889/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manta Network/arc_id=AMB:MAN000002889/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manta Network/arc_id=AMB:MAN000002889/exchange=bybit/data.json"
         ]
     }
 }

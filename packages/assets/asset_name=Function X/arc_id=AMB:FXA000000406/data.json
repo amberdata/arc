@@ -17,9 +17,9 @@
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Function X/arc_id=AMB:FXA000000406/exchange=gdax/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Function X/arc_id=AMB:FXA000000406/exchange=bithumb/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Function X/arc_id=AMB:FXA000000406/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Function X/arc_id=AMB:FXA000000406/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Function X/arc_id=AMB:FXA000000406/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Function X/arc_id=AMB:FXA000000406/exchange=bithumb/data.json"
         ]
     }
 }

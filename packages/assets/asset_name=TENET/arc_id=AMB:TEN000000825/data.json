@@ -11,10 +11,10 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TENET/arc_id=AMB:TEN000000825/exchange=mexc/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TENET/arc_id=AMB:TEN000000825/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TENET/arc_id=AMB:TEN000000825/exchange=bybit/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TENET/arc_id=AMB:TEN000000825/exchange=bitfinex/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TENET/arc_id=AMB:TEN000000825/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TENET/arc_id=AMB:TEN000000825/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TENET/arc_id=AMB:TEN000000825/exchange=mexc/data.json"
         ]
     }
 }

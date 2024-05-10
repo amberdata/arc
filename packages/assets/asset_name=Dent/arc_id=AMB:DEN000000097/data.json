@@ -8,8 +8,8 @@
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dent/arc_id=AMB:DEN000000097/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dent/arc_id=AMB:DEN000000097/exchange=kraken/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dent/arc_id=AMB:DEN000000097/exchange=ftx/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dent/arc_id=AMB:DEN000000097/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Dent/arc_id=AMB:DEN000000097/exchange=kraken/data.json"
         ]
     }
 }

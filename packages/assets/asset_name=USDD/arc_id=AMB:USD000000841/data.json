@@ -7,9 +7,9 @@
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=USDD/arc_id=AMB:USD000000841/exchange=poloniex/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=USDD/arc_id=AMB:USD000000841/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=USDD/arc_id=AMB:USD000000841/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=USDD/arc_id=AMB:USD000000841/exchange=poloniex/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=USDD/arc_id=AMB:USD000000841/exchange=mexc/data.json"
         ]
     }

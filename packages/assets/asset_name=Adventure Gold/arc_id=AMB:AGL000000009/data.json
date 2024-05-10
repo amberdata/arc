@@ -15,16 +15,16 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Adventure Gold/arc_id=AMB:AGL000000009/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Adventure Gold/arc_id=AMB:AGL000000009/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Adventure Gold/arc_id=AMB:AGL000000009/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Adventure Gold/arc_id=AMB:AGL000000009/exchange=ftx/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Adventure Gold/arc_id=AMB:AGL000000009/exchange=zb/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Adventure Gold/arc_id=AMB:AGL000000009/exchange=okex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Adventure Gold/arc_id=AMB:AGL000000009/exchange=kraken/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Adventure Gold/arc_id=AMB:AGL000000009/exchange=bybit/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Adventure Gold/arc_id=AMB:AGL000000009/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Adventure Gold/arc_id=AMB:AGL000000009/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Adventure Gold/arc_id=AMB:AGL000000009/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Adventure Gold/arc_id=AMB:AGL000000009/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Adventure Gold/arc_id=AMB:AGL000000009/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Adventure Gold/arc_id=AMB:AGL000000009/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Adventure Gold/arc_id=AMB:AGL000000009/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Adventure Gold/arc_id=AMB:AGL000000009/exchange=bybit/data.json"
         ]
     }
 }

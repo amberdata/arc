@@ -15,13 +15,13 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=gdax/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=mexc/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=ftx/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=kraken/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=bybit/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bonfida/arc_id=AMB:FID000000124/exchange=bybit/data.json"
         ]
     }
 }

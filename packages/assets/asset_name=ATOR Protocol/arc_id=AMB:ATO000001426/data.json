@@ -13,8 +13,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ATOR Protocol/arc_id=AMB:ATO000001426/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ATOR Protocol/arc_id=AMB:ATO000001426/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ATOR Protocol/arc_id=AMB:ATO000001426/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ATOR Protocol/arc_id=AMB:ATO000001426/exchange=poloniex/data.json"
         ]
     }
 }

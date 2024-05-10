@@ -11,12 +11,12 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Moonbeam/arc_id=AMB:GLM000000148/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Moonbeam/arc_id=AMB:GLM000000148/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Moonbeam/arc_id=AMB:GLM000000148/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Moonbeam/arc_id=AMB:GLM000000148/exchange=mexc/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Moonbeam/arc_id=AMB:GLM000000148/exchange=kraken/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Moonbeam/arc_id=AMB:GLM000000148/exchange=bybit/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Moonbeam/arc_id=AMB:GLM000000148/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Moonbeam/arc_id=AMB:GLM000000148/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Moonbeam/arc_id=AMB:GLM000000148/exchange=bybit/data.json"
         ]
     }
 }

@@ -10,8 +10,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BOZO Collective/arc_id=AMB:BOZ000003192/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BOZO Collective/arc_id=AMB:BOZ000003192/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BOZO Collective/arc_id=AMB:BOZ000003192/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BOZO Collective/arc_id=AMB:BOZ000003192/exchange=poloniex/data.json"
         ]
     }
 }

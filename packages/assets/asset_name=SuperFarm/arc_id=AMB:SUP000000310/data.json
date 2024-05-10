@@ -13,11 +13,11 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperFarm/arc_id=AMB:SUP000000310/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperFarm/arc_id=AMB:SUP000000310/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperFarm/arc_id=AMB:SUP000000310/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperFarm/arc_id=AMB:SUP000000310/exchange=kraken/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperFarm/arc_id=AMB:SUP000000310/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperFarm/arc_id=AMB:SUP000000310/exchange=huobi/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperFarm/arc_id=AMB:SUP000000310/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperFarm/arc_id=AMB:SUP000000310/exchange=gdax/data.json"
         ]
     }
 }

@@ -12,8 +12,8 @@
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZTX/arc_id=AMB:ZTX000003191/exchange=bithumb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZTX/arc_id=AMB:ZTX000003191/exchange=mexc/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZTX/arc_id=AMB:ZTX000003191/exchange=bybit/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZTX/arc_id=AMB:ZTX000003191/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZTX/arc_id=AMB:ZTX000003191/exchange=mexc/data.json"
         ]
     }
 }

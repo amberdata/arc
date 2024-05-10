@@ -9,8 +9,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=HONK/arc_id=AMB:HON000003258/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=HONK/arc_id=AMB:HON000003258/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=HONK/arc_id=AMB:HON000003258/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=HONK/arc_id=AMB:HON000003258/exchange=poloniex/data.json"
         ]
     }
 }

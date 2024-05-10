@@ -13,13 +13,13 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Astar/arc_id=AMB:AST000000032/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Astar/arc_id=AMB:AST000000032/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Astar/arc_id=AMB:AST000000032/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Astar/arc_id=AMB:AST000000032/exchange=okex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Astar/arc_id=AMB:AST000000032/exchange=kraken/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Astar/arc_id=AMB:AST000000032/exchange=bithumb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Astar/arc_id=AMB:AST000000032/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Astar/arc_id=AMB:AST000000032/exchange=binanceus/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Astar/arc_id=AMB:AST000000032/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Astar/arc_id=AMB:AST000000032/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Astar/arc_id=AMB:AST000000032/exchange=kraken/data.json"
         ]
     }
 }
