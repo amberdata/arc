@@ -15,9 +15,9 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Camelot Token/arc_id=AMB:GRA000000692/exchange=poloniex/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Camelot Token/arc_id=AMB:GRA000000692/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Camelot Token/arc_id=AMB:GRA000000692/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Camelot Token/arc_id=AMB:GRA000000692/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Camelot Token/arc_id=AMB:GRA000000692/exchange=poloniex/data.json"
         ]
     }
 }

@@ -9,8 +9,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Eggdog/arc_id=AMB:EGG000002797/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Eggdog/arc_id=AMB:EGG000002797/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Eggdog/arc_id=AMB:EGG000002797/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Eggdog/arc_id=AMB:EGG000002797/exchange=poloniex/data.json"
         ]
     }
 }

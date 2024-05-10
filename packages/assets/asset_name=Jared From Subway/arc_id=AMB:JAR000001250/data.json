@@ -9,8 +9,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Jared From Subway/arc_id=AMB:JAR000001250/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Jared From Subway/arc_id=AMB:JAR000001250/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Jared From Subway/arc_id=AMB:JAR000001250/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Jared From Subway/arc_id=AMB:JAR000001250/exchange=poloniex/data.json"
         ]
     }
 }

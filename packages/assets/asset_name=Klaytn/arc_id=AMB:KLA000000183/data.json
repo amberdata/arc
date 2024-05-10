@@ -13,12 +13,12 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Klaytn/arc_id=AMB:KLA000000183/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Klaytn/arc_id=AMB:KLA000000183/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Klaytn/arc_id=AMB:KLA000000183/exchange=okex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Klaytn/arc_id=AMB:KLA000000183/exchange=bybit/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Klaytn/arc_id=AMB:KLA000000183/exchange=bithumb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Klaytn/arc_id=AMB:KLA000000183/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Klaytn/arc_id=AMB:KLA000000183/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Klaytn/arc_id=AMB:KLA000000183/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Klaytn/arc_id=AMB:KLA000000183/exchange=bybit/data.json"
         ]
     }
 }

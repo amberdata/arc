@@ -9,9 +9,9 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reality Metaverse/arc_id=AMB:RLT000001107/exchange=bybit/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reality Metaverse/arc_id=AMB:RLT000001107/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reality Metaverse/arc_id=AMB:RLT000001107/exchange=mexc/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reality Metaverse/arc_id=AMB:RLT000001107/exchange=bybit/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Reality Metaverse/arc_id=AMB:RLT000001107/exchange=mexc/data.json"
         ]
     }
 }

@@ -12,8 +12,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZERO/arc_id=AMB:MEO000002940/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZERO/arc_id=AMB:MEO000002940/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZERO/arc_id=AMB:MEO000002940/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZERO/arc_id=AMB:MEO000002940/exchange=poloniex/data.json"
         ]
     }
 }

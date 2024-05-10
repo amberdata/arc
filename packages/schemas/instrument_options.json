@@ -2,7 +2,6 @@
     "type": "object",
     "required": [
         "exchange",
-        "nativeInstrument",
         "nativeBaseSymbol",
         "nativeQuoteSymbol",
         "underlying",
@@ -20,7 +19,7 @@
         "settleAsset",
         "optionType",
         "strikePrice",
-        "arcAssetId"
+        "assetArcId"
     ],
     "properties": {
         "exchange": {
@@ -100,7 +99,7 @@
             "type": "number",
             "description": "Indicates the price at which the option would be at the money"
         },
-        "arcAssetId": {
+        "assetArcId": {
             "type": "string",
             "description": "The permanent, unique identifier of the asset in ARC, that remains the same even if assetSymbol must change"
         }

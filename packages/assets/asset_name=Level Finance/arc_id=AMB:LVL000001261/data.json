@@ -15,8 +15,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Level Finance/arc_id=AMB:LVL000001261/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Level Finance/arc_id=AMB:LVL000001261/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Level Finance/arc_id=AMB:LVL000001261/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Level Finance/arc_id=AMB:LVL000001261/exchange=poloniex/data.json"
         ]
     }
 }

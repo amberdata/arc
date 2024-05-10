@@ -9,10 +9,10 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Juventus Fan Token/arc_id=AMB:JUV000000179/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Juventus Fan Token/arc_id=AMB:JUV000000179/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Juventus Fan Token/arc_id=AMB:JUV000000179/exchange=bybit/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Juventus Fan Token/arc_id=AMB:JUV000000179/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Juventus Fan Token/arc_id=AMB:JUV000000179/exchange=bybit/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Juventus Fan Token/arc_id=AMB:JUV000000179/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Juventus Fan Token/arc_id=AMB:JUV000000179/exchange=poloniex/data.json"
         ]
     }
 }

@@ -7,11 +7,11 @@
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DFI.Money/arc_id=AMB:YFI000000608/exchange=ftx/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DFI.Money/arc_id=AMB:YFI000000608/exchange=okex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DFI.Money/arc_id=AMB:YFI000000608/exchange=poloniex/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DFI.Money/arc_id=AMB:YFI000000608/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DFI.Money/arc_id=AMB:YFI000000608/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DFI.Money/arc_id=AMB:YFI000000608/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DFI.Money/arc_id=AMB:YFI000000608/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DFI.Money/arc_id=AMB:YFI000000608/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DFI.Money/arc_id=AMB:YFI000000608/exchange=ftx/data.json"
         ]
     }
 }

@@ -13,8 +13,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Silly Dragon/arc_id=AMB:SIL000002738/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Silly Dragon/arc_id=AMB:SIL000002738/exchange=huobi/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Silly Dragon/arc_id=AMB:SIL000002738/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Silly Dragon/arc_id=AMB:SIL000002738/exchange=poloniex/data.json"
         ]
     }
 }

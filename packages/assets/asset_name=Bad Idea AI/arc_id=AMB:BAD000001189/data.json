@@ -7,8 +7,8 @@
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bad Idea AI/arc_id=AMB:BAD000001189/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bad Idea AI/arc_id=AMB:BAD000001189/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bad Idea AI/arc_id=AMB:BAD000001189/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bad Idea AI/arc_id=AMB:BAD000001189/exchange=poloniex/data.json"
         ]
     }
 }

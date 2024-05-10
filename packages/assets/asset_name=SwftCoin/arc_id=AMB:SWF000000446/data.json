@@ -13,11 +13,11 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SwftCoin/arc_id=AMB:SWF000000446/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SwftCoin/arc_id=AMB:SWF000000446/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SwftCoin/arc_id=AMB:SWF000000446/exchange=zb/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SwftCoin/arc_id=AMB:SWF000000446/exchange=okex/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SwftCoin/arc_id=AMB:SWF000000446/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SwftCoin/arc_id=AMB:SWF000000446/exchange=huobi/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SwftCoin/arc_id=AMB:SWF000000446/exchange=gdax/data.json"
         ]
     }
 }

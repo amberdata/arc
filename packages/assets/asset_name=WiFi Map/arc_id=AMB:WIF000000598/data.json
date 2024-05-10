@@ -13,9 +13,9 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WiFi Map/arc_id=AMB:WIF000000598/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WiFi Map/arc_id=AMB:WIF000000598/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WiFi Map/arc_id=AMB:WIF000000598/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WiFi Map/arc_id=AMB:WIF000000598/exchange=huobi/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WiFi Map/arc_id=AMB:WIF000000598/exchange=okex/data.json"
         ]
     }
 }

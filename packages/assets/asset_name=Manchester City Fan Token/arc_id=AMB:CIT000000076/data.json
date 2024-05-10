@@ -12,11 +12,11 @@
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manchester City Fan Token/arc_id=AMB:CIT000000076/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manchester City Fan Token/arc_id=AMB:CIT000000076/exchange=ftx/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manchester City Fan Token/arc_id=AMB:CIT000000076/exchange=okex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manchester City Fan Token/arc_id=AMB:CIT000000076/exchange=bybit/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manchester City Fan Token/arc_id=AMB:CIT000000076/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manchester City Fan Token/arc_id=AMB:CIT000000076/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manchester City Fan Token/arc_id=AMB:CIT000000076/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manchester City Fan Token/arc_id=AMB:CIT000000076/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Manchester City Fan Token/arc_id=AMB:CIT000000076/exchange=bybit/data.json"
         ]
     }
 }

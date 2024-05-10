@@ -7,8 +7,8 @@
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Solidus Ai Tech/arc_id=AMB:AIT000001183/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Solidus Ai Tech/arc_id=AMB:AIT000001183/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Solidus Ai Tech/arc_id=AMB:AIT000001183/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Solidus Ai Tech/arc_id=AMB:AIT000001183/exchange=poloniex/data.json"
         ]
     }
 }

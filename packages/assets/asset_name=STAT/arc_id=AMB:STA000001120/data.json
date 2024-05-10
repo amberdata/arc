@@ -8,8 +8,8 @@
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STAT/arc_id=AMB:STA000001120/exchange=bithumb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STAT/arc_id=AMB:STA000001120/exchange=mexc/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STAT/arc_id=AMB:STA000001120/exchange=bybit/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STAT/arc_id=AMB:STA000001120/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STAT/arc_id=AMB:STA000001120/exchange=mexc/data.json"
         ]
     }
 }

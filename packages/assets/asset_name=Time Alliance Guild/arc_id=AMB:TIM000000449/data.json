@@ -8,8 +8,6 @@
         "Gaming"
     ],
     "miscellaneous": {
-        "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Time Alliance Guild/arc_id=AMB:TIM000000449/exchange=mexc/data.json"
-        ]
+        "relatedLinks": []
     }
 }

@@ -7,8 +7,8 @@
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Flamengo Fan Token/arc_id=AMB:MEN000000537/exchange=okex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Flamengo Fan Token/arc_id=AMB:MEN000000537/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Flamengo Fan Token/arc_id=AMB:MEN000000537/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Flamengo Fan Token/arc_id=AMB:MEN000000537/exchange=okex/data.json"
         ]
     }
 }

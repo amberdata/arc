@@ -14,8 +14,8 @@
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NKN/arc_id=AMB:NKN000000226/exchange=gdax/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NKN/arc_id=AMB:NKN000000226/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NKN/arc_id=AMB:NKN000000226/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NKN/arc_id=AMB:NKN000000226/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NKN/arc_id=AMB:NKN000000226/exchange=mexc/data.json"
         ]
     }

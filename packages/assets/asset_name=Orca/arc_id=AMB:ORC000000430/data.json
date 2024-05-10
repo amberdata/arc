@@ -14,9 +14,9 @@
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orca/arc_id=AMB:ORC000000430/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orca/arc_id=AMB:ORC000000430/exchange=ftx/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orca/arc_id=AMB:ORC000000430/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orca/arc_id=AMB:ORC000000430/exchange=kraken/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orca/arc_id=AMB:ORC000000430/exchange=ftx/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orca/arc_id=AMB:ORC000000430/exchange=kraken/data.json"
         ]
     }
 }

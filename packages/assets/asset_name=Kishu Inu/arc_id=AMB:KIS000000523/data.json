@@ -7,9 +7,9 @@
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kishu Inu/arc_id=AMB:KIS000000523/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kishu Inu/arc_id=AMB:KIS000000523/exchange=mexc/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kishu Inu/arc_id=AMB:KIS000000523/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kishu Inu/arc_id=AMB:KIS000000523/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kishu Inu/arc_id=AMB:KIS000000523/exchange=okex/data.json"
         ]
     }
 }

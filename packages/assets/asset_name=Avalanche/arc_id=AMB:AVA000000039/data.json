@@ -18,21 +18,21 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=ftx/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=bitfinex/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=okex/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=kraken/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=gemini/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=bybit/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=bithumb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=bitstamp/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=bitfinex/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=ftxus/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=binanceus/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Avalanche/arc_id=AMB:AVA000000039/exchange=ftxus/data.json"
         ]
     }
 }
