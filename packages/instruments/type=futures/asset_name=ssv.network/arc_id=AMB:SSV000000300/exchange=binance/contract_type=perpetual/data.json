@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "SSVUSDT",
+        "underlying": "SSV",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 100000.0,
+        "limitsAmountMin": 0.01,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 2000.0,
+        "limitsMarketMin": 0.01,
+        "limitsPriceMax": 2000.0,
+        "limitsPriceMin": 0.01,
+        "precisionAmount": 0.01,
+        "precisionBase": 1e-08,
+        "precisionPrice": 0.001,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "SSVUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:SSV000000300",
+        "assetName": "ssv.network"
+    }
+]

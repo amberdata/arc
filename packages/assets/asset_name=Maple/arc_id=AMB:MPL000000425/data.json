@@ -17,8 +17,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Maple/arc_id=AMB:MPL000000425/exchange=gdax/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Maple/arc_id=AMB:MPL000000425/exchange=bitstamp/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Maple/arc_id=AMB:MPL000000425/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Maple/arc_id=AMB:MPL000000425/exchange=gdax/data.json"
         ]
     }
 }

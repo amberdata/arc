@@ -12,6 +12,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Cream Finance/arc_id=AMB:CRE000000083/exchange=ftx/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Cream Finance/arc_id=AMB:CRE000000083/exchange=ftx/contract_type=quarterly/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cream Finance/arc_id=AMB:CRE000000083/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cream Finance/arc_id=AMB:CRE000000083/exchange=ftx/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cream Finance/arc_id=AMB:CRE000000083/exchange=mexc/data.json"

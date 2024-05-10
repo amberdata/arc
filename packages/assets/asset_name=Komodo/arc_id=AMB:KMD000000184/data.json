@@ -11,8 +11,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Komodo/arc_id=AMB:KMD000000184/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Komodo/arc_id=AMB:KMD000000184/exchange=binance/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Komodo/arc_id=AMB:KMD000000184/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Komodo/arc_id=AMB:KMD000000184/exchange=huobi/data.json"
         ]
     }
 }

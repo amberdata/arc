@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "huobi",
+        "nativeInstrument": "LAT-USDT",
+        "underlying": "LAT",
+        "expiration": null,
+        "active": false,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": null,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": null,
+        "precisionBase": null,
+        "precisionPrice": null,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "LAT-USDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:LAT000000527",
+        "assetName": "PlatON"
+    }
+]

@@ -10,8 +10,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Firo/arc_id=AMB:FIR000000127/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Firo/arc_id=AMB:FIR000000127/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Firo/arc_id=AMB:FIR000000127/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Firo/arc_id=AMB:FIR000000127/exchange=mexc/data.json"
         ]
     }

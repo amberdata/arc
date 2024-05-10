@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "UNFIUSDT",
+        "underlying": "UNFI",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 100000.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 8000.0,
+        "limitsMarketMin": 0.1,
+        "limitsPriceMax": 10000.0,
+        "limitsPriceMin": 0.222,
+        "precisionAmount": 0.1,
+        "precisionBase": 1e-08,
+        "precisionPrice": 0.001,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "UNFIUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:UNF000000331",
+        "assetName": "Unifi Protocol DAO"
+    }
+]

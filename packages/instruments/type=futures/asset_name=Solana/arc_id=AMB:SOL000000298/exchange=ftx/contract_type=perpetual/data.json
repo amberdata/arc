@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "SOL-PERP",
+        "underlying": "SOL",
+        "expiration": "",
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 0.01,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 0.0025,
+        "precisionAmount": 0.01,
+        "precisionBase": null,
+        "precisionPrice": 0.0025,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "SOL-PERP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:SOL000000298",
+        "assetName": "Solana"
+    }
+]

@@ -9,8 +9,10 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Vanar Chain/arc_id=AMB:VAN000003084/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Vanar Chain/arc_id=AMB:VAN000003084/exchange=binance/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Vanar Chain/arc_id=AMB:VAN000003084/exchange=bybit/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Vanar Chain/arc_id=AMB:VAN000003084/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Vanar Chain/arc_id=AMB:VAN000003084/exchange=bybit/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Vanar Chain/arc_id=AMB:VAN000003084/exchange=mexc/data.json"
         ]
     }

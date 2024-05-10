@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "bybit",
+        "nativeInstrument": "SLPUSDT",
+        "underlying": "SLP",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 63022000.0,
+        "limitsAmountMin": 10.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 25.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": 1.999998,
+        "limitsPriceMin": 1e-06,
+        "precisionAmount": 10.0,
+        "precisionBase": null,
+        "precisionPrice": 1e-06,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "SLPUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:SLP000000295",
+        "assetName": "Smooth Love Potion"
+    }
+]

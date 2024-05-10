@@ -10,14 +10,17 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Yield Guild Games/arc_id=AMB:YGG000000368/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Yield Guild Games/arc_id=AMB:YGG000000368/exchange=binance/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Yield Guild Games/arc_id=AMB:YGG000000368/exchange=huobi/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Yield Guild Games/arc_id=AMB:YGG000000368/exchange=okex/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Yield Guild Games/arc_id=AMB:YGG000000368/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Yield Guild Games/arc_id=AMB:YGG000000368/exchange=okex/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Yield Guild Games/arc_id=AMB:YGG000000368/exchange=bithumb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Yield Guild Games/arc_id=AMB:YGG000000368/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Yield Guild Games/arc_id=AMB:YGG000000368/exchange=mexc/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Yield Guild Games/arc_id=AMB:YGG000000368/exchange=ftx/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Yield Guild Games/arc_id=AMB:YGG000000368/exchange=kraken/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Yield Guild Games/arc_id=AMB:YGG000000368/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Yield Guild Games/arc_id=AMB:YGG000000368/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Yield Guild Games/arc_id=AMB:YGG000000368/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Yield Guild Games/arc_id=AMB:YGG000000368/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Yield Guild Games/arc_id=AMB:YGG000000368/exchange=poloniex/data.json"
         ]
     }
 }

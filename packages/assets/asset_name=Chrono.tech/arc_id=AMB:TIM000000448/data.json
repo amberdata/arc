@@ -16,8 +16,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chrono.tech/arc_id=AMB:TIM000000448/exchange=gdax/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chrono.tech/arc_id=AMB:TIM000000448/exchange=bybit/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chrono.tech/arc_id=AMB:TIM000000448/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Chrono.tech/arc_id=AMB:TIM000000448/exchange=gdax/data.json"
         ]
     }
 }

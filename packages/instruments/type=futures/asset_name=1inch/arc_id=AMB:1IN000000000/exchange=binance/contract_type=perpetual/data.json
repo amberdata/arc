@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "1INCHUSDT",
+        "underlying": "1INCH",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 5000000.0,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 500000.0,
+        "limitsMarketMin": 1.0,
+        "limitsPriceMax": 100000.0,
+        "limitsPriceMin": 0.0613,
+        "precisionAmount": 1.0,
+        "precisionBase": 1e-08,
+        "precisionPrice": 0.0001,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "1INCHUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:1IN000000000",
+        "assetName": "1inch"
+    }
+]

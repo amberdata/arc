@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "huobi",
+        "nativeInstrument": "FET-USDT",
+        "underlying": "FET",
+        "expiration": null,
+        "active": true,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": null,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": null,
+        "precisionBase": null,
+        "precisionPrice": null,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "FET-USDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:FET000000123",
+        "assetName": "Fetch.ai"
+    }
+]

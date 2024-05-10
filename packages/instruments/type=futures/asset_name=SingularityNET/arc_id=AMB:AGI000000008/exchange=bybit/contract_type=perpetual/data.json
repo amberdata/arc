@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "bybit",
+        "nativeInstrument": "AGIXUSDT",
+        "underlying": "AGIX",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 2200100.0,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 25.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": 99.9999,
+        "limitsPriceMin": 5e-05,
+        "precisionAmount": 1.0,
+        "precisionBase": null,
+        "precisionPrice": 5e-05,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "AGIXUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:AGI000000008",
+        "assetName": "SingularityNET"
+    }
+]

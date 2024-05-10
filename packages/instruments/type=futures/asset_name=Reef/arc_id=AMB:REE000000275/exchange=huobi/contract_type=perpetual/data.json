@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "huobi",
+        "nativeInstrument": "REEF-USDT",
+        "underlying": "REEF",
+        "expiration": null,
+        "active": false,
+        "contractSize": 100.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": null,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": null,
+        "precisionBase": null,
+        "precisionPrice": null,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "REEF-USDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:REE000000275",
+        "assetName": "Reef"
+    }
+]

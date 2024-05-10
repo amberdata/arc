@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "DMG-PERP",
+        "underlying": "DMG",
+        "expiration": "",
+        "active": false,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 0.001,
+        "precisionAmount": 0.1,
+        "precisionBase": null,
+        "precisionPrice": 0.001,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "DMG-PERP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:DMG000002523",
+        "assetName": "DMM: Governance"
+    }
+]

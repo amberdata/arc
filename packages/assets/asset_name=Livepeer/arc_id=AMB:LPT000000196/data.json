@@ -15,17 +15,20 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=binanceus/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=binance/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=huobi/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=okex/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=zb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=okex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=binanceus/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=bithumb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=gdax/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=gemini/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=gdax/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Livepeer/arc_id=AMB:LPT000000196/exchange=zb/data.json"
         ]
     }
 }

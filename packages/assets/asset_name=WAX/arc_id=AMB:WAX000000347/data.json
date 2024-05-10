@@ -12,14 +12,18 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=binanceus/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=binance/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=bybit/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=huobi/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=okex/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=zb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=binanceus/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=mexc/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=bybit/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=WAX/arc_id=AMB:WAX000000347/exchange=zb/data.json"
         ]
     }
 }

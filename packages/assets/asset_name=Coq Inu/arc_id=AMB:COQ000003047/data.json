@@ -15,8 +15,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Coq Inu/arc_id=AMB:COQ000003047/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Coq Inu/arc_id=AMB:COQ000003047/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Coq Inu/arc_id=AMB:COQ000003047/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Coq Inu/arc_id=AMB:COQ000003047/exchange=poloniex/data.json"
         ]
     }

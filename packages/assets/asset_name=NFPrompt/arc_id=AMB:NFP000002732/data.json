@@ -11,8 +11,9 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NFPrompt/arc_id=AMB:NFP000002732/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=NFPrompt/arc_id=AMB:NFP000002732/exchange=binance/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NFPrompt/arc_id=AMB:NFP000002732/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NFPrompt/arc_id=AMB:NFP000002732/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NFPrompt/arc_id=AMB:NFP000002732/exchange=mexc/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NFPrompt/arc_id=AMB:NFP000002732/exchange=poloniex/data.json"
         ]

@@ -15,19 +15,29 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=binanceus/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=binance/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=binance/contract_type=quarterly/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=bybit/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=deribit/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=huobi/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=huobi/contract_type=quarterly/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=huobi/contract_type=weekly/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=okex/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=okex/contract_type=quarterly/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=okex/contract_type=weekly/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=zb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=okex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=binanceus/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=bitfinex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=bithumb/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=bitstamp/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=bybit/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=gdax/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=bybit/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Cardano/arc_id=AMB:ADA000000005/exchange=zb/data.json"
         ]
     }
 }

@@ -12,8 +12,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=\u00c6ternity/arc_id=AMB:AEA000000951/exchange=zb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=\u00c6ternity/arc_id=AMB:AEA000000951/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=\u00c6ternity/arc_id=AMB:AEA000000951/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=\u00c6ternity/arc_id=AMB:AEA000000951/exchange=zb/data.json"
         ]
     }
 }

@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "KSOS-PERP",
+        "underlying": "KSOS",
+        "expiration": "",
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 100.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 5e-07,
+        "precisionAmount": 100.0,
+        "precisionBase": null,
+        "precisionPrice": 5e-07,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "KSOS-PERP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:KSO000002582",
+        "assetName": "Kilo OpenDAO"
+    }
+]

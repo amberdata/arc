@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "huobi",
+        "nativeInstrument": "LADYS-USDT",
+        "underlying": "LADYS",
+        "expiration": null,
+        "active": true,
+        "contractSize": 1000000.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": null,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": null,
+        "precisionBase": null,
+        "precisionPrice": null,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "LADYS-USDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:LAD000000721",
+        "assetName": "Milady Coin"
+    }
+]

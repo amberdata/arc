@@ -13,10 +13,10 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AirSwap/arc_id=AMB:AST000000031/exchange=gdax/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AirSwap/arc_id=AMB:AST000000031/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AirSwap/arc_id=AMB:AST000000031/exchange=zb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AirSwap/arc_id=AMB:AST000000031/exchange=okex/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AirSwap/arc_id=AMB:AST000000031/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AirSwap/arc_id=AMB:AST000000031/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=AirSwap/arc_id=AMB:AST000000031/exchange=zb/data.json"
         ]
     }
 }

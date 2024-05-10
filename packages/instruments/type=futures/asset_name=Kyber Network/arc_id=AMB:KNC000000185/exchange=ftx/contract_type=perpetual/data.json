@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "KNC-PERP",
+        "underlying": "KNC",
+        "expiration": "",
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 0.0001,
+        "precisionAmount": 0.1,
+        "precisionBase": null,
+        "precisionPrice": 0.0001,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "KNC-PERP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:KNC000000185",
+        "assetName": "Kyber Network"
+    }
+]

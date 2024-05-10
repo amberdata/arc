@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "REEF-PERP",
+        "underlying": "REEF",
+        "expiration": "",
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 10.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 20.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": 10.0,
+        "precisionBase": null,
+        "precisionPrice": 5e-07,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "REEF-PERP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:REE000000275",
+        "assetName": "Reef"
+    }
+]

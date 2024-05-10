@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "bybit",
+        "nativeInstrument": "AGLDUSDT",
+        "underlying": "AGLD",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 168340.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 25.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": 199.9998,
+        "limitsPriceMin": 0.0001,
+        "precisionAmount": 0.1,
+        "precisionBase": null,
+        "precisionPrice": 0.0001,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "AGLDUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:AGL000000009",
+        "assetName": "Adventure Gold"
+    }
+]

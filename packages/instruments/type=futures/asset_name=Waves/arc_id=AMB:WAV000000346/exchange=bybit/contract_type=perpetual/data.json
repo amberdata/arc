@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "bybit",
+        "nativeInstrument": "WAVESUSDT",
+        "underlying": "WAVES",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 175330.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 25.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": 999.999,
+        "limitsPriceMin": 0.0005,
+        "precisionAmount": 0.1,
+        "precisionBase": null,
+        "precisionPrice": 0.0005,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "WAVESUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:WAV000000346",
+        "assetName": "Waves"
+    }
+]

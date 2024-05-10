@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "ALPHAUSDT",
+        "underlying": "ALPHA",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 5000000.0,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 540000.0,
+        "limitsMarketMin": 1.0,
+        "limitsPriceMax": 100.0,
+        "limitsPriceMin": 0.0176,
+        "precisionAmount": 1.0,
+        "precisionBase": 1e-08,
+        "precisionPrice": 1e-05,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "ALPHAUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:ALP000000015",
+        "assetName": "Aavegotchi ALPHA"
+    }
+]

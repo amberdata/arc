@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "USTCUSDT",
+        "underlying": "USTC",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 1000000.0,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 100000.0,
+        "limitsMarketMin": 1.0,
+        "limitsPriceMax": 200.0,
+        "limitsPriceMin": 1e-05,
+        "precisionAmount": 1.0,
+        "precisionBase": 1e-08,
+        "precisionPrice": 1e-05,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "USTCUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:UST000000336",
+        "assetName": "TerraClassicUSD"
+    }
+]

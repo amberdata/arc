@@ -15,11 +15,11 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Voxies/arc_id=AMB:VOX000000343/exchange=binanceus/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Voxies/arc_id=AMB:VOX000000343/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Voxies/arc_id=AMB:VOX000000343/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Voxies/arc_id=AMB:VOX000000343/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Voxies/arc_id=AMB:VOX000000343/exchange=gdax/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Voxies/arc_id=AMB:VOX000000343/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Voxies/arc_id=AMB:VOX000000343/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Voxies/arc_id=AMB:VOX000000343/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Voxies/arc_id=AMB:VOX000000343/exchange=poloniex/data.json"
         ]
     }
 }

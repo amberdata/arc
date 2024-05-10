@@ -13,10 +13,10 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MOBOX/arc_id=AMB:MBO000000211/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MOBOX/arc_id=AMB:MBO000000211/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MOBOX/arc_id=AMB:MBO000000211/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MOBOX/arc_id=AMB:MBO000000211/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MOBOX/arc_id=AMB:MBO000000211/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MOBOX/arc_id=AMB:MBO000000211/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MOBOX/arc_id=AMB:MBO000000211/exchange=poloniex/data.json"
         ]
     }
 }

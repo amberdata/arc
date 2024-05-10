@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "MCB-PERP",
+        "underlying": "MCB",
+        "expiration": "",
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 0.01,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 20.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": 0.01,
+        "precisionBase": null,
+        "precisionPrice": 0.005,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "MCB-PERP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:MCB000001900",
+        "assetName": "MUX Protocol"
+    }
+]

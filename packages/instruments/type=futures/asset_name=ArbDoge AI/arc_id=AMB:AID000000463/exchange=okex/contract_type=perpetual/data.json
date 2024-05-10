@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "okex",
+        "nativeInstrument": "AIDOGE-USDT-SWAP",
+        "underlying": "AIDOGE",
+        "expiration": null,
+        "active": true,
+        "contractSize": 10000000000.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 0.0,
+        "precisionAmount": 1.0,
+        "precisionBase": null,
+        "precisionPrice": 0.0,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "AIDOGE-USDT-SWAP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:AID000000463",
+        "assetName": "ArbDoge AI"
+    }
+]

@@ -13,15 +13,18 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SKALE/arc_id=AMB:SKL000000294/exchange=binanceus/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SKALE/arc_id=AMB:SKL000000294/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=SKALE/arc_id=AMB:SKL000000294/exchange=binance/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=SKALE/arc_id=AMB:SKL000000294/exchange=ftx/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=SKALE/arc_id=AMB:SKL000000294/exchange=huobi/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SKALE/arc_id=AMB:SKL000000294/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SKALE/arc_id=AMB:SKL000000294/exchange=okex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SKALE/arc_id=AMB:SKL000000294/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SKALE/arc_id=AMB:SKL000000294/exchange=binanceus/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SKALE/arc_id=AMB:SKL000000294/exchange=bitstamp/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SKALE/arc_id=AMB:SKL000000294/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SKALE/arc_id=AMB:SKL000000294/exchange=gdax/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SKALE/arc_id=AMB:SKL000000294/exchange=gemini/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SKALE/arc_id=AMB:SKL000000294/exchange=gdax/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SKALE/arc_id=AMB:SKL000000294/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SKALE/arc_id=AMB:SKL000000294/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SKALE/arc_id=AMB:SKL000000294/exchange=okex/data.json"
         ]
     }
 }

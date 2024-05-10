@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "GMEPRE-0930",
+        "underlying": "GMEPRE",
+        "expiration": "2022-09-30 20:00:00",
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "quarterly",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 0.01,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 20.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": 0.01,
+        "precisionBase": null,
+        "precisionPrice": 0.01,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "GMEPRE-0930",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:GME000002556",
+        "assetName": "GMEPRE"
+    }
+]

@@ -7,8 +7,8 @@
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NULS/arc_id=AMB:NUL000000228/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NULS/arc_id=AMB:NUL000000228/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NULS/arc_id=AMB:NUL000000228/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NULS/arc_id=AMB:NUL000000228/exchange=mexc/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=NULS/arc_id=AMB:NUL000000228/exchange=okex/data.json"
         ]

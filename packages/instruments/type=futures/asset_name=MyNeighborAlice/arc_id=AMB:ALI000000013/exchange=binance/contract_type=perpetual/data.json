@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "ALICEUSDT",
+        "underlying": "ALICE",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 50000.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 50000.0,
+        "limitsMarketMin": 0.1,
+        "limitsPriceMax": 100000.0,
+        "limitsPriceMin": 0.12,
+        "precisionAmount": 0.1,
+        "precisionBase": 1e-08,
+        "precisionPrice": 0.001,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "ALICEUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:ALI000000013",
+        "assetName": "MyNeighborAlice"
+    }
+]

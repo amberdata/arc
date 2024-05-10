@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "API3USDT",
+        "underlying": "API3",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 1000000.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 100000.0,
+        "limitsMarketMin": 0.1,
+        "limitsPriceMax": 10000.0,
+        "limitsPriceMin": 0.001,
+        "precisionAmount": 0.1,
+        "precisionBase": 1e-08,
+        "precisionPrice": 0.0001,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "API3USDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:API000000022",
+        "assetName": "API3"
+    }
+]

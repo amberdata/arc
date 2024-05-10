@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "CONV-PERP",
+        "underlying": "CONV",
+        "expiration": "",
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 10.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 1e-05,
+        "precisionAmount": 10.0,
+        "precisionBase": null,
+        "precisionPrice": 1e-05,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "CONV-PERP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:CON000000486",
+        "assetName": "Convergence"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "ORBS-PERP",
+        "underlying": "ORBS",
+        "expiration": "",
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 10.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 2.5e-05,
+        "precisionAmount": 10.0,
+        "precisionBase": null,
+        "precisionPrice": 2.5e-05,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "ORBS-PERP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:ORB000000462",
+        "assetName": "Orbs"
+    }
+]

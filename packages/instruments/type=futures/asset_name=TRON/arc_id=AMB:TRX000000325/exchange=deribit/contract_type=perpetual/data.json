@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "deribit",
+        "nativeInstrument": "TRX_USDC-PERPETUAL",
+        "underlying": "TRX",
+        "expiration": "3000-01-01 08:00:00",
+        "active": true,
+        "contractSize": 100.0,
+        "contractType": "perpetual",
+        "marginType": "inverse",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 100.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 1e-05,
+        "precisionAmount": 100.0,
+        "precisionBase": null,
+        "precisionPrice": 1e-05,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "TRX_USDC-PERPETUAL",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:TRX000000325",
+        "assetName": "TRON"
+    }
+]

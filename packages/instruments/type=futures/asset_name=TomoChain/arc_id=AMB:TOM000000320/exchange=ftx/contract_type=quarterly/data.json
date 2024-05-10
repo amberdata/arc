@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "TOMO-1225",
+        "underlying": "TOMO",
+        "expiration": "2021-12-25 00:00:00",
+        "active": false,
+        "contractSize": null,
+        "contractType": "quarterly",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": null,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": null,
+        "precisionBase": null,
+        "precisionPrice": null,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "TOMO-1225",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:TOM000000320",
+        "assetName": "TomoChain"
+    }
+]

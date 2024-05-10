@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "deribit",
+        "nativeInstrument": "NEAR_USDC-PERPETUAL",
+        "underlying": "NEAR",
+        "expiration": "3000-01-01 08:00:00",
+        "active": true,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "inverse",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 0.001,
+        "precisionAmount": 1.0,
+        "precisionBase": null,
+        "precisionPrice": 0.001,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "NEAR_USDC-PERPETUAL",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:NEA000000223",
+        "assetName": "NEAR Protocol"
+    }
+]

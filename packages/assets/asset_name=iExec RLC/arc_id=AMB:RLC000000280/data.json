@@ -15,13 +15,14 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=binance/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=binanceus/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=bithumb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=gdax/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=kraken/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=gdax/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=iExec RLC/arc_id=AMB:RLC000000280/exchange=poloniex/data.json"
         ]
     }
 }

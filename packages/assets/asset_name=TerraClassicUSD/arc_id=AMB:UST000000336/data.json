@@ -7,11 +7,15 @@
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=binance/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=bybit/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=huobi/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=okex/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=mexc/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=bybit/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=okex/data.json"
         ]
     }
 }

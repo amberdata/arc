@@ -7,8 +7,9 @@
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZKFair/arc_id=AMB:ZKF000003483/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=ZKFair/arc_id=AMB:ZKF000003483/exchange=bybit/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZKFair/arc_id=AMB:ZKF000003483/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZKFair/arc_id=AMB:ZKF000003483/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZKFair/arc_id=AMB:ZKF000003483/exchange=mexc/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ZKFair/arc_id=AMB:ZKF000003483/exchange=poloniex/data.json"
         ]

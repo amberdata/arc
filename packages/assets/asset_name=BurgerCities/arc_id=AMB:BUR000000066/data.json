@@ -8,8 +8,8 @@
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BurgerCities/arc_id=AMB:BUR000000066/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BurgerCities/arc_id=AMB:BUR000000066/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BurgerCities/arc_id=AMB:BUR000000066/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BurgerCities/arc_id=AMB:BUR000000066/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BurgerCities/arc_id=AMB:BUR000000066/exchange=poloniex/data.json"
         ]
     }
 }

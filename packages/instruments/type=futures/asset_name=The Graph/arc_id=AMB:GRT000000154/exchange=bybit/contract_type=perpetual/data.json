@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "bybit",
+        "nativeInstrument": "GRTUSDT",
+        "underlying": "GRT",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 3641220.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 25.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": 19.99998,
+        "limitsPriceMin": 1e-05,
+        "precisionAmount": 0.1,
+        "precisionBase": null,
+        "precisionPrice": 1e-05,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "GRTUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:GRT000000154",
+        "assetName": "The Graph"
+    }
+]

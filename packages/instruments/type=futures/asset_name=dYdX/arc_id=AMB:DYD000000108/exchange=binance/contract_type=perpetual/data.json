@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "DYDXUSDT",
+        "underlying": "DYDX",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 1000000.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 220000.0,
+        "limitsMarketMin": 0.1,
+        "limitsPriceMax": 100000.0,
+        "limitsPriceMin": 0.01,
+        "precisionAmount": 0.1,
+        "precisionBase": 1e-08,
+        "precisionPrice": 0.001,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "DYDXUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:DYD000000108",
+        "assetName": "dYdX"
+    }
+]

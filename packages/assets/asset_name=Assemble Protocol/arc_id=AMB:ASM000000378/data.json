@@ -13,8 +13,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Assemble Protocol/arc_id=AMB:ASM000000378/exchange=gdax/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Assemble Protocol/arc_id=AMB:ASM000000378/exchange=bithumb/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Assemble Protocol/arc_id=AMB:ASM000000378/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Assemble Protocol/arc_id=AMB:ASM000000378/exchange=gdax/data.json"
         ]
     }
 }

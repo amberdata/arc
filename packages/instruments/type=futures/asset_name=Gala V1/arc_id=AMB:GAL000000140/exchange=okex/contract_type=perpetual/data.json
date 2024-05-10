@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "okex",
+        "nativeInstrument": "GALA-USDT-SWAP",
+        "underlying": "GALA",
+        "expiration": null,
+        "active": true,
+        "contractSize": 10.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 1e-05,
+        "precisionAmount": 1.0,
+        "precisionBase": null,
+        "precisionPrice": 1e-05,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "GALA-USDT-SWAP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:GAL000000140",
+        "assetName": "Gala V1"
+    }
+]

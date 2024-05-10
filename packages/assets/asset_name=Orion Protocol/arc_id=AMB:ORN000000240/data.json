@@ -15,8 +15,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orion Protocol/arc_id=AMB:ORN000000240/exchange=gdax/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orion Protocol/arc_id=AMB:ORN000000240/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orion Protocol/arc_id=AMB:ORN000000240/exchange=gdax/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Orion Protocol/arc_id=AMB:ORN000000240/exchange=mexc/data.json"
         ]
     }

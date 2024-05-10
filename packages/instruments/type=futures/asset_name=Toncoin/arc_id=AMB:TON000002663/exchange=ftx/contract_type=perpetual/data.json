@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "TONCOIN-PERP",
+        "underlying": "TONCOIN",
+        "expiration": "",
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 20.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": 0.1,
+        "precisionBase": null,
+        "precisionPrice": 0.0005,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "TONCOIN-PERP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:TON000002663",
+        "assetName": "Toncoin"
+    }
+]

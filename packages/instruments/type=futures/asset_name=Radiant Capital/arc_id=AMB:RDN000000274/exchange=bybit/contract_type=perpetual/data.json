@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "bybit",
+        "nativeInstrument": "RDNTUSDT",
+        "underlying": "RDNT",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 1041100.0,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 25.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": 99.9999,
+        "limitsPriceMin": 5e-05,
+        "precisionAmount": 1.0,
+        "precisionBase": null,
+        "precisionPrice": 5e-05,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "RDNTUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:RDN000000274",
+        "assetName": "Radiant Capital"
+    }
+]

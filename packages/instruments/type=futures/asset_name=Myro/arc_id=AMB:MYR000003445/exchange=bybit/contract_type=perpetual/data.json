@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "bybit",
+        "nativeInstrument": "MYROUSDT",
+        "underlying": "MYRO",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 1184100.0,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 25.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": 19.99998,
+        "limitsPriceMin": 1e-05,
+        "precisionAmount": 1.0,
+        "precisionBase": null,
+        "precisionPrice": 1e-05,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "MYROUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:MYR000003445",
+        "assetName": "Myro"
+    }
+]

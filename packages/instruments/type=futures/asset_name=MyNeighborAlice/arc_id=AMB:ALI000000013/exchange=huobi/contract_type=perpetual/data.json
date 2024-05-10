@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "huobi",
+        "nativeInstrument": "ALICE-USDT",
+        "underlying": "ALICE",
+        "expiration": null,
+        "active": false,
+        "contractSize": 0.1,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": null,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": null,
+        "precisionBase": null,
+        "precisionPrice": null,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "ALICE-USDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:ALI000000013",
+        "assetName": "MyNeighborAlice"
+    }
+]

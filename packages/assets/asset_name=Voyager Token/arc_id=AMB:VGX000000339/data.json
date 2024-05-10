@@ -9,8 +9,8 @@
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Voyager Token/arc_id=AMB:VGX000000339/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Voyager Token/arc_id=AMB:VGX000000339/exchange=ftx/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Voyager Token/arc_id=AMB:VGX000000339/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Voyager Token/arc_id=AMB:VGX000000339/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Voyager Token/arc_id=AMB:VGX000000339/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Voyager Token/arc_id=AMB:VGX000000339/exchange=poloniex/data.json"
         ]
     }
 }

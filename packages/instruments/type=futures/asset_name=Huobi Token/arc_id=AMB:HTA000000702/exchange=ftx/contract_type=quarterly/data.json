@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "HT-1225",
+        "underlying": "HT",
+        "expiration": "2021-12-25 00:00:00",
+        "active": false,
+        "contractSize": null,
+        "contractType": "quarterly",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": null,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": null,
+        "precisionBase": null,
+        "precisionPrice": null,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "HT-1225",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:HTA000000702",
+        "assetName": "Huobi Token"
+    }
+]

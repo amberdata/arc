@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "YFIUSDT",
+        "underlying": "YFI",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 500.0,
+        "limitsAmountMin": 0.001,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 20.0,
+        "limitsMarketMin": 0.001,
+        "limitsPriceMax": 3836373.0,
+        "limitsPriceMin": 667.0,
+        "precisionAmount": 0.001,
+        "precisionBase": 1e-08,
+        "precisionPrice": 1.0,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "YFIUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:YFI000000367",
+        "assetName": "yearn.finance"
+    }
+]

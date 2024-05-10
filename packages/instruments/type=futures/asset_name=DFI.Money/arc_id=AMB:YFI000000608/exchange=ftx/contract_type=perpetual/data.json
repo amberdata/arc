@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "YFII-PERP",
+        "underlying": "YFII",
+        "expiration": "",
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 0.001,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 20.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": 0.001,
+        "precisionBase": null,
+        "precisionPrice": 0.25,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "YFII-PERP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:YFI000000608",
+        "assetName": "DFI.Money"
+    }
+]

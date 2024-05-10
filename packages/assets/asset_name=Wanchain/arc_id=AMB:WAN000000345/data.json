@@ -12,8 +12,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Wanchain/arc_id=AMB:WAN000000345/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Wanchain/arc_id=AMB:WAN000000345/exchange=binance/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Wanchain/arc_id=AMB:WAN000000345/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Wanchain/arc_id=AMB:WAN000000345/exchange=huobi/data.json"
         ]
     }
 }
