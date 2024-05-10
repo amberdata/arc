@@ -13,13 +13,13 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperRare/arc_id=AMB:RAR000000272/exchange=binanceus/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperRare/arc_id=AMB:RAR000000272/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperRare/arc_id=AMB:RAR000000272/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperRare/arc_id=AMB:RAR000000272/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperRare/arc_id=AMB:RAR000000272/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperRare/arc_id=AMB:RAR000000272/exchange=gemini/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperRare/arc_id=AMB:RAR000000272/exchange=kraken/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperRare/arc_id=AMB:RAR000000272/exchange=mexc/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperRare/arc_id=AMB:RAR000000272/exchange=gemini/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperRare/arc_id=AMB:RAR000000272/exchange=gdax/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=SuperRare/arc_id=AMB:RAR000000272/exchange=zb/data.json"
         ]
     }
 }

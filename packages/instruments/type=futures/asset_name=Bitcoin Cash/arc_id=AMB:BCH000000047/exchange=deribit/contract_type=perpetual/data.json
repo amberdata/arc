@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "deribit",
+        "nativeInstrument": "BCH_USDC-PERPETUAL",
+        "underlying": "BCH",
+        "expiration": "3000-01-01 08:00:00",
+        "active": true,
+        "contractSize": 0.02,
+        "contractType": "perpetual",
+        "marginType": "inverse",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 0.02,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 0.01,
+        "precisionAmount": 0.02,
+        "precisionBase": null,
+        "precisionPrice": 0.01,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "BCH_USDC-PERPETUAL",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:BCH000000047",
+        "assetName": "Bitcoin Cash"
+    }
+]

@@ -10,6 +10,7 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Neutron/arc_id=AMB:NTR000001995/exchange=binance/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Neutron/arc_id=AMB:NTR000001995/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Neutron/arc_id=AMB:NTR000001995/exchange=mexc/data.json"
         ]

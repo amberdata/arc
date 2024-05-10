@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "bybit",
+        "nativeInstrument": "USTCUSDT",
+        "underlying": "USTC",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 13816000.0,
+        "limitsAmountMin": 10.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 50.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": 19.99998,
+        "limitsPriceMin": 1e-05,
+        "precisionAmount": 10.0,
+        "precisionBase": null,
+        "precisionPrice": 1e-05,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "USTCUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:UST000000336",
+        "assetName": "TerraClassicUSD"
+    }
+]

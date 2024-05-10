@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "bybit",
+        "nativeInstrument": "VANRYUSDT",
+        "underlying": "VANRY",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 350000.0,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 25.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": 199.9998,
+        "limitsPriceMin": 0.0001,
+        "precisionAmount": 1.0,
+        "precisionBase": null,
+        "precisionPrice": 0.0001,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "VANRYUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:VAN000003084",
+        "assetName": "Vanar Chain"
+    }
+]

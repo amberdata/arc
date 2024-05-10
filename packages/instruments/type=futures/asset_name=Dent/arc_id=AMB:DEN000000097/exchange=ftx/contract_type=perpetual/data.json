@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "DENT-PERP",
+        "underlying": "DENT",
+        "expiration": "",
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 100.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 20.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": 100.0,
+        "precisionBase": null,
+        "precisionPrice": 1e-07,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "DENT-PERP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:DEN000000097",
+        "assetName": "Dent"
+    }
+]

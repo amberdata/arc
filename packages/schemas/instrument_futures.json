@@ -3,8 +3,6 @@
     "required": [
         "exchange",
         "nativeInstrument",
-        "nativeBaseSymbol",
-        "nativeQuoteSymbol",
         "underlying",
         "expiration",
         "active",
@@ -25,7 +23,8 @@
         "precisionPrice",
         "precisionQuote",
         "settleAsset",
-        "assetArcId"
+        "assetArcId",
+        "assetName"
     ],
     "properties": {
         "exchange": {

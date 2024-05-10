@@ -9,8 +9,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Nano/arc_id=AMB:XNO000000361/exchange=binanceus/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Nano/arc_id=AMB:XNO000000361/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Nano/arc_id=AMB:XNO000000361/exchange=binanceus/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Nano/arc_id=AMB:XNO000000361/exchange=okex/data.json"
         ]
     }

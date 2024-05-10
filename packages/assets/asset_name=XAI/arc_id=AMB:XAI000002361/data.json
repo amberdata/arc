@@ -11,6 +11,7 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Xai/arc_id=AMB:XAI000002361/exchange=binance/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Xai/arc_id=AMB:XAI000002361/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Xai/arc_id=AMB:XAI000002361/exchange=mexc/data.json"
         ]

@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "okex",
+        "nativeInstrument": "OM-USDT-SWAP",
+        "underlying": "OM",
+        "expiration": null,
+        "active": true,
+        "contractSize": 10.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 1e-05,
+        "precisionAmount": 1.0,
+        "precisionBase": null,
+        "precisionPrice": 1e-05,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "OM-USDT-SWAP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:OMA000000233",
+        "assetName": "MANTRA DAO"
+    }
+]

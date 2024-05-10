@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "PROM-PERP",
+        "underlying": "PROM",
+        "expiration": "",
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 0.01,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 20.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": 0.01,
+        "precisionBase": null,
+        "precisionPrice": 0.0005,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "PROM-PERP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:PRO000000259",
+        "assetName": "Prometeus"
+    }
+]

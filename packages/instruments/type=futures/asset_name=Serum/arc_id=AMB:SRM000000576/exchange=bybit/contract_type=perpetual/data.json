@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "bybit",
+        "nativeInstrument": "SRMUSDT",
+        "underlying": "SRM",
+        "expiration": "",
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 18000.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 25.0,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": 1999.998,
+        "limitsPriceMin": 0.001,
+        "precisionAmount": 0.1,
+        "precisionBase": null,
+        "precisionPrice": 0.001,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "SRMUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:SRM000000576",
+        "assetName": "Serum"
+    }
+]

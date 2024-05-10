@@ -15,22 +15,27 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=binanceus/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=binance/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=bybit/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=ftx/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=huobi/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=okex/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=zb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=okex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=kraken/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=bithumb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=binanceus/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=bitfinex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=bithumb/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=bitstamp/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=ftx/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=gemini/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=gdax/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=bybit/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=ftxus/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=ftxus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=gemini/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Basic Attention Token/arc_id=AMB:BAT000000046/exchange=zb/data.json"
         ]
     }
 }

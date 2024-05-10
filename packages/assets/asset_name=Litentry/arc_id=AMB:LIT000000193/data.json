@@ -15,8 +15,9 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Litentry/arc_id=AMB:LIT000000193/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Litentry/arc_id=AMB:LIT000000193/exchange=binance/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Litentry/arc_id=AMB:LIT000000193/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Litentry/arc_id=AMB:LIT000000193/exchange=gdax/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Litentry/arc_id=AMB:LIT000000193/exchange=mexc/data.json"
         ]
     }

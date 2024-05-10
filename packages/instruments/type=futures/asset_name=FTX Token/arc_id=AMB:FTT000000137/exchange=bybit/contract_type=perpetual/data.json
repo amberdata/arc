@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "bybit",
+        "nativeInstrument": "FTTUSDT",
+        "underlying": "FTT",
+        "expiration": "",
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 800.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 14.0,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": 19999.98,
+        "limitsPriceMin": 0.01,
+        "precisionAmount": 0.1,
+        "precisionBase": null,
+        "precisionPrice": 0.01,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "FTTUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:FTT000000137",
+        "assetName": "FTX Token"
+    }
+]

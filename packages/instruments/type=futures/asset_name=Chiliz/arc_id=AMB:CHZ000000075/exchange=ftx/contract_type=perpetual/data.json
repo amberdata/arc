@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "CHZ-PERP",
+        "underlying": "CHZ",
+        "expiration": "",
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 10.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 20.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": 10.0,
+        "precisionBase": null,
+        "precisionPrice": 2.5e-05,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "CHZ-PERP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:CHZ000000075",
+        "assetName": "Chiliz"
+    }
+]

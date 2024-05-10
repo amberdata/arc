@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "NKNUSDT",
+        "underlying": "NKN",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 10000000.0,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 710000.0,
+        "limitsMarketMin": 1.0,
+        "limitsPriceMax": 20000.0,
+        "limitsPriceMin": 0.00602,
+        "precisionAmount": 1.0,
+        "precisionBase": 1e-08,
+        "precisionPrice": 1e-05,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "NKNUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:NKN000000226",
+        "assetName": "NKN"
+    }
+]

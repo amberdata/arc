@@ -9,6 +9,7 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Wojak/arc_id=AMB:WOJ000000861/exchange=huobi/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Wojak/arc_id=AMB:WOJ000000861/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Wojak/arc_id=AMB:WOJ000000861/exchange=mexc/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Wojak/arc_id=AMB:WOJ000000861/exchange=poloniex/data.json"

@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "COMBOUSDT",
+        "underlying": "COMBO",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 5000000.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 82000.0,
+        "limitsMarketMin": 0.1,
+        "limitsPriceMax": 2000.0,
+        "limitsPriceMin": 0.0001,
+        "precisionAmount": 0.1,
+        "precisionBase": 1e-08,
+        "precisionPrice": 0.0001,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "COMBOUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:COM000000079",
+        "assetName": "Furucombo"
+    }
+]

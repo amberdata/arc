@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "ENJUSDT",
+        "underlying": "ENJ",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 10000000.0,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 100000.0,
+        "limitsMarketMin": 1.0,
+        "limitsPriceMax": 153.0,
+        "limitsPriceMin": 0.0225,
+        "precisionAmount": 1.0,
+        "precisionBase": 1e-08,
+        "precisionPrice": 0.0001,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "ENJUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:ENJ000000112",
+        "assetName": "Enjin Coin"
+    }
+]

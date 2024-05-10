@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "okex",
+        "nativeInstrument": "ICP-USDT-SWAP",
+        "underlying": "ICP",
+        "expiration": null,
+        "active": true,
+        "contractSize": 0.01,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 0.001,
+        "precisionAmount": 1.0,
+        "precisionBase": null,
+        "precisionPrice": 0.001,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "ICP-USDT-SWAP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:ICP000000164",
+        "assetName": "Internet Computer"
+    }
+]

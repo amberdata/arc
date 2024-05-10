@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "bybit",
+        "nativeInstrument": "BTTUSDT",
+        "underlying": "BTT",
+        "expiration": "",
+        "active": false,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 12000000.0,
+        "limitsAmountMin": 100.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": 1.999998,
+        "limitsPriceMin": 1e-06,
+        "precisionAmount": 100.0,
+        "precisionBase": null,
+        "precisionPrice": 1e-06,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "BTTUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:BTT000000477",
+        "assetName": "BitTorrent"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "BTC-PERP",
+        "underlying": "BTC",
+        "expiration": "",
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 0.0001,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 20.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": 0.0001,
+        "precisionBase": null,
+        "precisionPrice": 1.0,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "BTC-PERP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:BTC000000000",
+        "assetName": "Bitcoin"
+    }
+]

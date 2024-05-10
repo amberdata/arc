@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "FLOWUSDT",
+        "underlying": "FLOW",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 1000000.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 150000.0,
+        "limitsMarketMin": 0.1,
+        "limitsPriceMax": 100000.0,
+        "limitsPriceMin": 0.01,
+        "precisionAmount": 0.1,
+        "precisionBase": 1e-08,
+        "precisionPrice": 0.001,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "FLOWUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:FLO000000131",
+        "assetName": "Flow"
+    }
+]

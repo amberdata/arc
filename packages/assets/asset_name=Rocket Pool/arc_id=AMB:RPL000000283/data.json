@@ -16,15 +16,16 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Rocket Pool/arc_id=AMB:RPL000000283/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Rocket Pool/arc_id=AMB:RPL000000283/exchange=bybit/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Rocket Pool/arc_id=AMB:RPL000000283/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Rocket Pool/arc_id=AMB:RPL000000283/exchange=okex/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Rocket Pool/arc_id=AMB:RPL000000283/exchange=bithumb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Rocket Pool/arc_id=AMB:RPL000000283/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Rocket Pool/arc_id=AMB:RPL000000283/exchange=mexc/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Rocket Pool/arc_id=AMB:RPL000000283/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Rocket Pool/arc_id=AMB:RPL000000283/exchange=bybit/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Rocket Pool/arc_id=AMB:RPL000000283/exchange=gdax/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Rocket Pool/arc_id=AMB:RPL000000283/exchange=bybit/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Rocket Pool/arc_id=AMB:RPL000000283/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Rocket Pool/arc_id=AMB:RPL000000283/exchange=kraken/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Rocket Pool/arc_id=AMB:RPL000000283/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Rocket Pool/arc_id=AMB:RPL000000283/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Rocket Pool/arc_id=AMB:RPL000000283/exchange=poloniex/data.json"
         ]
     }
 }

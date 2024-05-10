@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "HFTUSDT",
+        "underlying": "HFT",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 10000000.0,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 50000.0,
+        "limitsMarketMin": 1.0,
+        "limitsPriceMax": 200.0,
+        "limitsPriceMin": 0.0001,
+        "precisionAmount": 1.0,
+        "precisionBase": 1e-08,
+        "precisionPrice": 0.0001,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "HFTUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:HFT000000158",
+        "assetName": "Hashflow"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "okex",
+        "nativeInstrument": "WNCG-USDT-SWAP",
+        "underlying": "WNCG",
+        "expiration": null,
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 0.0001,
+        "precisionAmount": 1.0,
+        "precisionBase": null,
+        "precisionPrice": 0.0001,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "WNCG-USDT-SWAP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:WNC000000599",
+        "assetName": "Nine Chronicles"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "deribit",
+        "nativeInstrument": "ADA_USDC-PERPETUAL",
+        "underlying": "ADA",
+        "expiration": "3000-01-01 08:00:00",
+        "active": true,
+        "contractSize": 10.0,
+        "contractType": "perpetual",
+        "marginType": "inverse",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 10.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 0.0001,
+        "precisionAmount": 10.0,
+        "precisionBase": null,
+        "precisionPrice": 0.0001,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "ADA_USDC-PERPETUAL",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:ADA000000005",
+        "assetName": "Cardano"
+    }
+]

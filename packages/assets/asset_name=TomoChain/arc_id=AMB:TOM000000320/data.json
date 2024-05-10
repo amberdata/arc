@@ -11,6 +11,9 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=TomoChain/arc_id=AMB:TOM000000320/exchange=binance/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=TomoChain/arc_id=AMB:TOM000000320/exchange=ftx/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=TomoChain/arc_id=AMB:TOM000000320/exchange=ftx/contract_type=quarterly/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TomoChain/arc_id=AMB:TOM000000320/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TomoChain/arc_id=AMB:TOM000000320/exchange=ftx/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TomoChain/arc_id=AMB:TOM000000320/exchange=mexc/data.json"

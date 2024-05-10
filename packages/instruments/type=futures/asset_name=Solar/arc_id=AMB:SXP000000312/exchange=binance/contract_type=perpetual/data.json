@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "SXPUSDT",
+        "underlying": "SXP",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 1000000.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 80000.0,
+        "limitsMarketMin": 0.1,
+        "limitsPriceMax": 1000.0,
+        "limitsPriceMin": 0.0454,
+        "precisionAmount": 0.1,
+        "precisionBase": 1e-08,
+        "precisionPrice": 0.0001,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "SXPUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:SXP000000312",
+        "assetName": "Solar"
+    }
+]

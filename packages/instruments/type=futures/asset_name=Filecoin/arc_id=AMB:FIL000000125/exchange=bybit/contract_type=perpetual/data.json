@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "bybit",
+        "nativeInstrument": "FILUSDT",
+        "underlying": "FIL",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 295750.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 25.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": 1999.998,
+        "limitsPriceMin": 0.001,
+        "precisionAmount": 0.1,
+        "precisionBase": null,
+        "precisionPrice": 0.001,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "FILUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:FIL000000125",
+        "assetName": "Filecoin"
+    }
+]

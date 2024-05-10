@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "ASD-0625",
+        "underlying": "ASD",
+        "expiration": "2021-06-25 00:00:00",
+        "active": false,
+        "contractSize": null,
+        "contractType": "quarterly",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 1e-05,
+        "precisionAmount": 0.1,
+        "precisionBase": null,
+        "precisionPrice": 1e-05,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "ASD-0625",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:ASD000002461",
+        "assetName": "ASD"
+    }
+]

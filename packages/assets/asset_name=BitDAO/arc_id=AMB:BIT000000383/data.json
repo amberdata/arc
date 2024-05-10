@@ -17,8 +17,9 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BitDAO/arc_id=AMB:BIT000000383/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=BitDAO/arc_id=AMB:BIT000000383/exchange=ftx/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BitDAO/arc_id=AMB:BIT000000383/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BitDAO/arc_id=AMB:BIT000000383/exchange=gdax/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=BitDAO/arc_id=AMB:BIT000000383/exchange=kraken/data.json"
         ]
     }

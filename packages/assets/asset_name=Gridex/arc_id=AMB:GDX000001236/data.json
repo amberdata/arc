@@ -13,6 +13,7 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Gridex/arc_id=AMB:GDX000001236/exchange=ftx/contract_type=quarterly/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gridex/arc_id=AMB:GDX000001236/exchange=ftx/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gridex/arc_id=AMB:GDX000001236/exchange=poloniex/data.json"
         ]

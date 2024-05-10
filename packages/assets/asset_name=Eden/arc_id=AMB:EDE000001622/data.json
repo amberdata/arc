@@ -9,6 +9,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Eden/arc_id=AMB:EDE000001622/exchange=ftx/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Eden/arc_id=AMB:EDE000001622/exchange=ftx/contract_type=quarterly/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Eden/arc_id=AMB:EDE000001622/exchange=ftx/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Eden/arc_id=AMB:EDE000001622/exchange=mexc/data.json"
         ]

@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "okex",
+        "nativeInstrument": "ELON-USDT-SWAP",
+        "underlying": "ELON",
+        "expiration": null,
+        "active": false,
+        "contractSize": 1000000.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 1e-10,
+        "precisionAmount": 1.0,
+        "precisionBase": null,
+        "precisionPrice": 1e-10,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "ELON-USDT-SWAP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:ELO000000498",
+        "assetName": "Dogelon Mars"
+    }
+]

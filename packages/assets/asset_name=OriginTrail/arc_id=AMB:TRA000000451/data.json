@@ -13,9 +13,9 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=OriginTrail/arc_id=AMB:TRA000000451/exchange=binanceus/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=OriginTrail/arc_id=AMB:TRA000000451/exchange=gdax/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=OriginTrail/arc_id=AMB:TRA000000451/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=OriginTrail/arc_id=AMB:TRA000000451/exchange=binanceus/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=OriginTrail/arc_id=AMB:TRA000000451/exchange=huobi/data.json"
         ]
     }
 }

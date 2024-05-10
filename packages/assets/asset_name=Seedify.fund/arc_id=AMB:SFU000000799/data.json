@@ -9,8 +9,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Seedify.fund/arc_id=AMB:SFU000000799/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Seedify.fund/arc_id=AMB:SFU000000799/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Seedify.fund/arc_id=AMB:SFU000000799/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Seedify.fund/arc_id=AMB:SFU000000799/exchange=mexc/data.json"
         ]
     }

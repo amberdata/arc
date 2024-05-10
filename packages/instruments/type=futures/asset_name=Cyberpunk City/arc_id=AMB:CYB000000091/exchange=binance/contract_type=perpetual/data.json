@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "CYBERUSDT",
+        "underlying": "CYBER",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 10000000.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 10000.0,
+        "limitsMarketMin": 0.1,
+        "limitsPriceMax": 2000.0,
+        "limitsPriceMin": 0.001,
+        "precisionAmount": 0.1,
+        "precisionBase": 1e-08,
+        "precisionPrice": 0.001,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "CYBERUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:CYB000000091",
+        "assetName": "Cyberpunk City"
+    }
+]

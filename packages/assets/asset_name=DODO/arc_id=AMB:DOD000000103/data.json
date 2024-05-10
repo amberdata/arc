@@ -11,9 +11,11 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DODO/arc_id=AMB:DOD000000103/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=DODO/arc_id=AMB:DOD000000103/exchange=binance/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=DODO/arc_id=AMB:DOD000000103/exchange=ftx/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DODO/arc_id=AMB:DOD000000103/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DODO/arc_id=AMB:DOD000000103/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DODO/arc_id=AMB:DOD000000103/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=DODO/arc_id=AMB:DOD000000103/exchange=mexc/data.json"
         ]
     }

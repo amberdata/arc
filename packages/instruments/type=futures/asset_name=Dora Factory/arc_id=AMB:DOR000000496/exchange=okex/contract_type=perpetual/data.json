@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "okex",
+        "nativeInstrument": "DORA-USDT-SWAP",
+        "underlying": "DORA",
+        "expiration": "2023-08-24 08:00:00",
+        "active": false,
+        "contractSize": 0.1,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 0.001,
+        "precisionAmount": 1.0,
+        "precisionBase": null,
+        "precisionPrice": 0.001,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "DORA-USDT-SWAP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:DOR000000496",
+        "assetName": "Dora Factory"
+    }
+]

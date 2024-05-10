@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "huobi",
+        "nativeInstrument": "SUN-USD",
+        "underlying": "SUN",
+        "expiration": null,
+        "active": false,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "inverse",
+        "limitsAmountMax": null,
+        "limitsAmountMin": null,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": null,
+        "precisionBase": null,
+        "precisionPrice": null,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "SUN-USD",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:SUN000000309",
+        "assetName": "Rising Sun"
+    }
+]

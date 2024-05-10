@@ -7,6 +7,8 @@
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Convergence/arc_id=AMB:CON000000486/exchange=ftx/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Convergence/arc_id=AMB:CON000000486/exchange=okex/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Convergence/arc_id=AMB:CON000000486/exchange=ftx/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Convergence/arc_id=AMB:CON000000486/exchange=mexc/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Convergence/arc_id=AMB:CON000000486/exchange=okex/data.json"

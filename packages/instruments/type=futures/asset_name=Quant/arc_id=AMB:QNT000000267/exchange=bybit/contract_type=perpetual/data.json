@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "bybit",
+        "nativeInstrument": "QNTUSDT",
+        "underlying": "QNT",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 1920.0,
+        "limitsAmountMin": 0.01,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 12.5,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": 19999.98,
+        "limitsPriceMin": 0.01,
+        "precisionAmount": 0.01,
+        "precisionBase": null,
+        "precisionPrice": 0.01,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "QNTUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:QNT000000267",
+        "assetName": "Quant"
+    }
+]

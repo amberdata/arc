@@ -16,8 +16,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gemini Dollar/arc_id=AMB:GUS000000410/exchange=gdax/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gemini Dollar/arc_id=AMB:GUS000000410/exchange=bitstamp/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gemini Dollar/arc_id=AMB:GUS000000410/exchange=gdax/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gemini Dollar/arc_id=AMB:GUS000000410/exchange=gemini/data.json"
         ]
     }

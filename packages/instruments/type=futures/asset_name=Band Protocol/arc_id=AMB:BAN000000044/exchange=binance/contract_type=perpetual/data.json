@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "BANDUSDT",
+        "underlying": "BAND",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 2000000.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 200000.0,
+        "limitsMarketMin": 0.1,
+        "limitsPriceMax": 783.0,
+        "limitsPriceMin": 0.1647,
+        "precisionAmount": 0.1,
+        "precisionBase": 1e-08,
+        "precisionPrice": 0.0001,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "BANDUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:BAN000000044",
+        "assetName": "Band Protocol"
+    }
+]

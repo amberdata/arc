@@ -8,8 +8,8 @@
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ChainGPT/arc_id=AMB:CGP000001012/exchange=bybit/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ChainGPT/arc_id=AMB:CGP000001012/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ChainGPT/arc_id=AMB:CGP000001012/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ChainGPT/arc_id=AMB:CGP000001012/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=ChainGPT/arc_id=AMB:CGP000001012/exchange=poloniex/data.json"
         ]
     }
 }

@@ -11,9 +11,11 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Kadena/arc_id=AMB:KDA000000181/exchange=bybit/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Kadena/arc_id=AMB:KDA000000181/exchange=okex/contract_type=quarterly/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kadena/arc_id=AMB:KDA000000181/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kadena/arc_id=AMB:KDA000000181/exchange=binanceus/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kadena/arc_id=AMB:KDA000000181/exchange=bybit/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kadena/arc_id=AMB:KDA000000181/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kadena/arc_id=AMB:KDA000000181/exchange=okex/data.json"
         ]
     }

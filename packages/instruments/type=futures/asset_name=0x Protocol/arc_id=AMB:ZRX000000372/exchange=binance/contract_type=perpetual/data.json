@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "ZRXUSDT",
+        "underlying": "ZRX",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 1000000.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 250000.0,
+        "limitsMarketMin": 0.1,
+        "limitsPriceMax": 1000.0,
+        "limitsPriceMin": 0.0179,
+        "precisionAmount": 0.1,
+        "precisionBase": 1e-08,
+        "precisionPrice": 0.0001,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "ZRXUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:ZRX000000372",
+        "assetName": "0x Protocol"
+    }
+]

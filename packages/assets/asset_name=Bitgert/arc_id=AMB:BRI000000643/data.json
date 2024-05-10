@@ -10,10 +10,10 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bitgert/arc_id=AMB:BRI000000643/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bitgert/arc_id=AMB:BRI000000643/exchange=bitfinex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bitgert/arc_id=AMB:BRI000000643/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bitgert/arc_id=AMB:BRI000000643/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bitgert/arc_id=AMB:BRI000000643/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bitgert/arc_id=AMB:BRI000000643/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Bitgert/arc_id=AMB:BRI000000643/exchange=poloniex/data.json"
         ]
     }
 }

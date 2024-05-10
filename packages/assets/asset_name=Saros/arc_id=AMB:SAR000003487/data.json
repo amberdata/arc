@@ -7,8 +7,8 @@
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Saros/arc_id=AMB:SAR000003487/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Saros/arc_id=AMB:SAR000003487/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Saros/arc_id=AMB:SAR000003487/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Saros/arc_id=AMB:SAR000003487/exchange=mexc/data.json"
         ]
     }

@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "bybit",
+        "nativeInstrument": "FXSUSDT",
+        "underlying": "FXS",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 64300.0,
+        "limitsAmountMin": 0.01,
+        "limitsCostMax": null,
+        "limitsLeverageMax": 25.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": 999.999,
+        "limitsPriceMin": 0.0005,
+        "precisionAmount": 0.01,
+        "precisionBase": null,
+        "precisionPrice": 0.0005,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "FXSUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:FXS000000139",
+        "assetName": "Frax Share"
+    }
+]

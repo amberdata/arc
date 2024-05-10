@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "okex",
+        "nativeInstrument": "VRA-USDT-SWAP",
+        "underlying": "VRA",
+        "expiration": null,
+        "active": true,
+        "contractSize": 1000.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 1e-06,
+        "precisionAmount": 1.0,
+        "precisionBase": null,
+        "precisionPrice": 1e-06,
+        "precisionQuote": null,
+        "settleAsset": "USDT",
+        "normalizedInstrument": "VRA-USDT-SWAP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:VRA000000595",
+        "assetName": "Verasity"
+    }
+]

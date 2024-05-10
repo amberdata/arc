@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "ftx",
+        "nativeInstrument": "ENS-PERP",
+        "underlying": "ENS",
+        "expiration": "",
+        "active": false,
+        "contractSize": 1.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": 0.01,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 0.005,
+        "precisionAmount": 0.01,
+        "precisionBase": null,
+        "precisionPrice": 0.005,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "ENS-PERP",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:ENS000000113",
+        "assetName": "Ethereum Name Service"
+    }
+]

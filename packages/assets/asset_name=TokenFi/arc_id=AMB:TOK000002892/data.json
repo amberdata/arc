@@ -7,6 +7,7 @@
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=TokenFi/arc_id=AMB:TOK000002892/exchange=bybit/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TokenFi/arc_id=AMB:TOK000002892/exchange=bybit/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=TokenFi/arc_id=AMB:TOK000002892/exchange=mexc/data.json"
         ]

@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "TRBUSDT",
+        "underlying": "TRB",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 1000000.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 2000.0,
+        "limitsMarketMin": 0.1,
+        "limitsPriceMax": 5138.0,
+        "limitsPriceMin": 1.23,
+        "precisionAmount": 0.1,
+        "precisionBase": 1e-08,
+        "precisionPrice": 0.001,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "TRBUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:TRB000000322",
+        "assetName": "Tellor"
+    }
+]

@@ -12,10 +12,12 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Axelar/arc_id=AMB:AXL000000382/exchange=gdax/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Axelar/arc_id=AMB:AXL000000382/exchange=binance/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Axelar/arc_id=AMB:AXL000000382/exchange=bybit/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Axelar/arc_id=AMB:AXL000000382/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Axelar/arc_id=AMB:AXL000000382/exchange=binanceus/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Axelar/arc_id=AMB:AXL000000382/exchange=bybit/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Axelar/arc_id=AMB:AXL000000382/exchange=binanceus/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Axelar/arc_id=AMB:AXL000000382/exchange=gdax/data.json"
         ]
     }
 }

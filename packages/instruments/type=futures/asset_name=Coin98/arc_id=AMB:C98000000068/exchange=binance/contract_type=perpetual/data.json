@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "C98USDT",
+        "underlying": "C98",
+        "expiration": "",
+        "active": true,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 2500000.0,
+        "limitsAmountMin": 1.0,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 300000.0,
+        "limitsMarketMin": 1.0,
+        "limitsPriceMax": 100000.0,
+        "limitsPriceMin": 0.001,
+        "precisionAmount": 1.0,
+        "precisionBase": 1e-08,
+        "precisionPrice": 0.0001,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "C98USDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:C98000000068",
+        "assetName": "Coin98"
+    }
+]

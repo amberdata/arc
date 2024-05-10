@@ -10,8 +10,8 @@
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MVL/arc_id=AMB:MVL000001086/exchange=bybit/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MVL/arc_id=AMB:MVL000001086/exchange=poloniex/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MVL/arc_id=AMB:MVL000001086/exchange=mexc/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MVL/arc_id=AMB:MVL000001086/exchange=mexc/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=MVL/arc_id=AMB:MVL000001086/exchange=poloniex/data.json"
         ]
     }
 }

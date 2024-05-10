@@ -17,13 +17,14 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=binance/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=binance/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=zb/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=binanceus/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=bithumb/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=gdax/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=mexc/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=gdax/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=poloniex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mines of Dalarnia/arc_id=AMB:DAR000000092/exchange=zb/data.json"
         ]
     }
 }

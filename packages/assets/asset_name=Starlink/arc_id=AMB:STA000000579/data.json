@@ -9,6 +9,7 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Starlink/arc_id=AMB:STA000000579/exchange=okex/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Starlink/arc_id=AMB:STA000000579/exchange=mexc/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Starlink/arc_id=AMB:STA000000579/exchange=okex/data.json"
         ]

@@ -7,11 +7,13 @@
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether Gold/arc_id=AMB:XAU000000604/exchange=huobi/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether Gold/arc_id=AMB:XAU000000604/exchange=okex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Tether Gold/arc_id=AMB:XAU000000604/exchange=ftx/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Tether Gold/arc_id=AMB:XAU000000604/exchange=ftx/contract_type=quarterly/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether Gold/arc_id=AMB:XAU000000604/exchange=bitfinex/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether Gold/arc_id=AMB:XAU000000604/exchange=ftx/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether Gold/arc_id=AMB:XAU000000604/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether Gold/arc_id=AMB:XAU000000604/exchange=mexc/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether Gold/arc_id=AMB:XAU000000604/exchange=ftx/data.json"
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether Gold/arc_id=AMB:XAU000000604/exchange=okex/data.json"
         ]
     }
 }

@@ -13,8 +13,8 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Braintrust/arc_id=AMB:BTR000000386/exchange=gdax/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Braintrust/arc_id=AMB:BTR000000386/exchange=binanceus/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Braintrust/arc_id=AMB:BTR000000386/exchange=gdax/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Braintrust/arc_id=AMB:BTR000000386/exchange=poloniex/data.json"
         ]
     }

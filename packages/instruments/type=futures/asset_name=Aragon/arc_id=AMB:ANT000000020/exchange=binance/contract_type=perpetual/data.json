@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "binance",
+        "nativeInstrument": "ANTUSDT",
+        "underlying": "ANT",
+        "expiration": "",
+        "active": false,
+        "contractSize": null,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": 500000.0,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": 15000.0,
+        "limitsMarketMin": 0.1,
+        "limitsPriceMax": 100000.0,
+        "limitsPriceMin": 0.01,
+        "precisionAmount": 0.1,
+        "precisionBase": 1e-08,
+        "precisionPrice": 0.001,
+        "precisionQuote": 1e-08,
+        "settleAsset": null,
+        "normalizedInstrument": "ANTUSDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:ANT000000020",
+        "assetName": "Aragon"
+    }
+]

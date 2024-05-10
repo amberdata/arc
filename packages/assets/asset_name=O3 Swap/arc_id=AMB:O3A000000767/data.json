@@ -9,6 +9,7 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=O3 Swap/arc_id=AMB:O3A000000767/exchange=huobi/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=O3 Swap/arc_id=AMB:O3A000000767/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=O3 Swap/arc_id=AMB:O3A000000767/exchange=mexc/data.json"
         ]

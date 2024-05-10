@@ -10,8 +10,9 @@
     ],
     "miscellaneous": {
         "relatedLinks": [
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mdex/arc_id=AMB:MDX000000215/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Mdex/arc_id=AMB:MDX000000215/exchange=huobi/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mdex/arc_id=AMB:MDX000000215/exchange=binance/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mdex/arc_id=AMB:MDX000000215/exchange=huobi/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Mdex/arc_id=AMB:MDX000000215/exchange=mexc/data.json"
         ]
     }
