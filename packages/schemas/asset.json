@@ -3,7 +3,7 @@
     "required": [
         "assetSymbol",
         "assetName",
-        "arcAssetId",
+        "assetArcId",
         "assetAddresses",
         "classificationTags",
         "website",
