@@ -1,4 +1,5 @@
-![ARClogoRGBko](https://github.com/amberdata/arc/assets/6354050/0ddbdd18-d340-453a-9ce4-509e1dbd51a3)
+![ARClogoRGB](https://github.com/amberdata/arc/assets/6354050/d03185cc-966f-46ce-8385-0cd9641ee509)
+
 
 # ARC
 Open Source Repository for Asset Reference & Classification Data
