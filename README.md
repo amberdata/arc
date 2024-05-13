@@ -113,6 +113,8 @@ The once daily updates are published at 02:00 UTC. Amberdata reserves the right 
 
 ## Other Amberdata Products
 
+[Get A Demo](https://www.amberdata.io/demo) of any of the following products!
+
 ### amberLens
 
 ![amberlens-logo](https://github.com/amberdata/arc/assets/6354050/a24289d5-3921-4a78-abab-bcd4ad542982)
