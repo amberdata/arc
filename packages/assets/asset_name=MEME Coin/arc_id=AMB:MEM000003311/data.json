@@ -2,7 +2,7 @@
     "assetSymbol": "meme3",
     "assetName": "MEME Coin",
     "assetArcId": "AMB:MEM000003311",
-    "website": "#",
+    "website": null,
     "whitePaperUrl": "https://meme3.gitbook.io/meme3/",
     "classificationTags": [
         "Meme"

@@ -3,9 +3,10 @@
     "assetName": "ZEPH",
     "assetArcId": "AMB:ZEP000002402",
     "website": "https://www.zephyrprotocol.com/",
-    "whitePaperUrl": "/how-to-buy/ZEPH?utm_source=mexc&utm_medium=tokenifoZEPH&utm_campaign=tokeninfo",
+    "whitePaperUrl": null,
     "classificationTags": [
-        "Stablecoin"
+        "Privacy",
+        "DeFi"
     ],
     "miscellaneous": {
         "relatedLinks": [

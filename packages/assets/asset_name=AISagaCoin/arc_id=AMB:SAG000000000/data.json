@@ -2,7 +2,7 @@
     "assetSymbol": "saga1",
     "assetName": "AISagaCoin",
     "assetArcId": "AMB:SAG000000000",
-    "website": "#",
+    "website": null,
     "whitePaperUrl": "https://sagas-organization-1.gitbook.io/saga",
     "classificationTags": [
         "Governance",

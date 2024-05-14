@@ -2,13 +2,17 @@
     "assetSymbol": "usdp",
     "assetName": "Pax Dollar",
     "assetArcId": "AMB:USD000000334",
-    "website": null,
-    "whitePaperUrl": null,
+    "website": "https://www.paxos.com/usdp/",
+    "whitePaperUrl": "https://standard.paxos.com/whitepaper.pdf",
     "classificationTags": [
-        "Proof-of-Stake",
-        "Remittance",
-        "Stablecoin",
-        "Transparent"
+        "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+            "decimals": 18
+        }
     ],
     "miscellaneous": {
         "relatedLinks": []

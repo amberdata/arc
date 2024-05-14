@@ -5,8 +5,13 @@
     "website": "https://just.network/",
     "whitePaperUrl": "https://www.just.network/docs/white_paper_en.pdf",
     "classificationTags": [
-        "Smart Contract",
         "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Tron",
+            "address": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT"
+        }
     ],
     "miscellaneous": {
         "relatedLinks": [
