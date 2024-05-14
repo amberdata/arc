@@ -5,12 +5,15 @@
     "website": "https://cosmos.network/",
     "whitePaperUrl": "https://v1.cosmos.network/resources/whitepaper",
     "classificationTags": [
-        "Governance"
+        "Governance",
+        "Smart Contract",
+        "Blockchain Infrastructure"
     ],
     "assetAddresses": [
         {
-            "blockchainName": "Cosmos",
-            "address": null
+            "blockchainName": "Ethereum",
+            "address": "0x8D983cb9388EaC77af0474fA441C4815500Cb7BB",
+            "decimals": 6
         }
     ],
     "miscellaneous": {

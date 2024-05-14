@@ -5,7 +5,8 @@
     "website": "https://filecoin.io/",
     "whitePaperUrl": "https://filecoin.io/filecoin.pdf",
     "classificationTags": [
-        "Governance"
+        "Governance",
+        "DePIN"
     ],
     "assetAddresses": [
         {

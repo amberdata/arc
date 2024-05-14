@@ -5,7 +5,15 @@
     "website": "https://www.mantle.xyz/",
     "whitePaperUrl": "https://docs.mantle.xyz/governance/",
     "classificationTags": [
-        "Governance"
+        "Governance",
+        "Layer-2"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x3c3a81e81dc49A522A592e7622A7E711c06bf354",
+            "decimals": 18
+        }
     ],
     "miscellaneous": {
         "relatedLinks": []
