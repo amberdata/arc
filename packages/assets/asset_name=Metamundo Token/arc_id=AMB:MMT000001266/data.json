@@ -7,7 +7,7 @@
     "classificationTags": [],
     "assetAddresses": [
         {
-            "blockchainName": "ERC20",
+            "blockchainName": "Ethereum",
             "address": "0x485c665d8eEAcA7987c48057FfD0591e2aAa797E"
         }
     ],

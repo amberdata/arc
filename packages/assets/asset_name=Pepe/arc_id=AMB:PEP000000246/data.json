@@ -5,9 +5,13 @@
     "website": "https://www.pepe.vip/",
     "whitePaperUrl": null,
     "classificationTags": [
-        "Governance",
-        "Meme",
-        "Transparent"
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933"
+        }
     ],
     "miscellaneous": {
         "relatedLinks": []

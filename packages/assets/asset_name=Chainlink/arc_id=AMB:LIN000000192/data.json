@@ -5,13 +5,18 @@
     "website": "https://chain.link/",
     "whitePaperUrl": "https://link.smartcontract.com/whitepaper",
     "classificationTags": [
-        "Oracles",
-        "Smart Contract"
+        "Oracles"
     ],
     "assetAddresses": [
         {
+            "blockchainName": "Binance Smart Chain",
+            "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+            "decimals": 18
+        },
+        {
             "blockchainName": "Ethereum",
-            "address": "0x514910771af9ca656af840dff83e8264ecf986ca"
+            "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+            "decimals": 18
         }
     ],
     "miscellaneous": {

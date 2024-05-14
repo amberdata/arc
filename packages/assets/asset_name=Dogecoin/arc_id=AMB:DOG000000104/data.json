@@ -3,14 +3,15 @@
     "assetName": "Dogecoin",
     "assetArcId": "AMB:DOG000000104",
     "website": "http://dogecoin.com/",
-    "whitePaperUrl": null,
+    "whitePaperUrl": "https://github.com/dogecoin/dogecoin/blob/master/README.md",
     "classificationTags": [
         "Meme"
     ],
     "assetAddresses": [
         {
-            "blockchainName": "Dogecoin",
-            "address": null
+            "blockchainName": "Binance Smart Chain",
+            "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+            "decimals": 8
         }
     ],
     "miscellaneous": {

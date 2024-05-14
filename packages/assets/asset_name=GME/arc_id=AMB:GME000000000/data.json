@@ -9,7 +9,7 @@
     ],
     "assetAddresses": [
         {
-            "blockchainName": "ERC20",
+            "blockchainName": "Ethereum",
             "address": "0x28300d1c687b1f982d67f8a74efded5427da6ec1"
         }
     ],

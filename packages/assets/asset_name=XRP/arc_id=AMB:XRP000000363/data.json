@@ -4,11 +4,14 @@
     "assetArcId": "AMB:XRP000000363",
     "website": "https://ripple.com/xrp/",
     "whitePaperUrl": "https://arxiv.org/pdf/1802.07242.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "Remittance"
+    ],
     "assetAddresses": [
         {
-            "blockchainName": "Ripple",
-            "address": null
+            "blockchainName": "Binance Smart Chain",
+            "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+            "decimals": 18
         }
     ],
     "miscellaneous": {

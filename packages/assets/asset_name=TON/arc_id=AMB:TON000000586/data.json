@@ -4,7 +4,21 @@
     "assetArcId": "AMB:TON000000586",
     "website": "https://ton.org/",
     "whitePaperUrl": "https://ton.org/whitepaper.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "Layer-1"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Binance Smart Chain",
+            "address": "0x76A797A59Ba2C17726896976B7B3747BfD1d220f",
+            "decimals": 9
+        },
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+            "decimals": 9
+        }
+    ],
     "miscellaneous": {
         "relatedLinks": []
     }

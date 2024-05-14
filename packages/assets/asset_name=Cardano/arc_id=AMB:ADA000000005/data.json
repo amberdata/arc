@@ -5,12 +5,15 @@
     "website": "https://www.cardano.org",
     "whitePaperUrl": "https://docs.cardano.org/en/latest/",
     "classificationTags": [
-        "Smart Contract"
+        "Smart Contract",
+        "Layer-1",
+        "Proof-of-Stake"
     ],
     "assetAddresses": [
         {
-            "blockchainName": "Cardano",
-            "address": null
+            "blockchainName": "Binance Smart Chain",
+            "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+            "decimals": 18
         }
     ],
     "miscellaneous": {

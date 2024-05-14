@@ -6,10 +6,13 @@
     "whitePaperUrl": "https://uniswap.org/whitepaper.pdf",
     "classificationTags": [
         "DEX",
-        "Governance",
-        "Smart Contract"
+        "Governance"
     ],
     "assetAddresses": [
+        {
+            "blockchainName": "Binance Smart Chain",
+            "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1"
+        },
         {
             "blockchainName": "Ethereum",
             "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"

@@ -5,10 +5,16 @@
     "website": "https://tron.network/",
     "whitePaperUrl": "https://developers.tron.network/docs",
     "classificationTags": [
-        "Content & Streaming",
         "Proof-of-Stake",
         "Smart Contract",
-        "Stablecoin"
+        "Layer-1"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x50327c6c5a14DCaDE707ABad2E27eB517df87AB5",
+            "decimals": 6
+        }
     ],
     "miscellaneous": {
         "relatedLinks": [
