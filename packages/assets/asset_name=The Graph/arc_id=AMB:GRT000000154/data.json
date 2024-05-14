@@ -4,13 +4,23 @@
     "assetArcId": "AMB:GRT000000154",
     "website": "https://thegraph.com/",
     "whitePaperUrl": "https://thegraph.com/docs/about/introduction",
-    "classificationTags": [
-        "DEX"
-    ],
+    "classificationTags": [],
     "assetAddresses": [
+        {
+            "blockchainName": "Arbitrum",
+            "address": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7"
+        },
+        {
+            "blockchainName": "Avalanche C-Chain",
+            "address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9"
+        },
         {
             "blockchainName": "Ethereum",
             "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
+        },
+        {
+            "blockchainName": "Solana",
+            "address": "HGsLG4PnZ28L8A4R5nPqKgZd86zUUdmfnkTRnuFJ5dAX"
         }
     ],
     "miscellaneous": {

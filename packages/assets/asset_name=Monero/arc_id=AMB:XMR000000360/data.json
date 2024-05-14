@@ -2,10 +2,11 @@
     "assetSymbol": "xmr",
     "assetName": "Monero",
     "assetArcId": "AMB:XMR000000360",
-    "website": null,
-    "whitePaperUrl": null,
+    "website": "https://www.getmonero.org/",
+    "whitePaperUrl": "https://github.com/monero-project/research-lab/blob/master/whitepaper/whitepaper.pdf",
     "classificationTags": [
-        "Privacy"
+        "Privacy",
+        "Proof-of-Work"
     ],
     "miscellaneous": {
         "relatedLinks": [

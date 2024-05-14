@@ -7,6 +7,12 @@
     "classificationTags": [
         "Meme"
     ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm"
+        }
+    ],
     "miscellaneous": {
         "relatedLinks": []
     }

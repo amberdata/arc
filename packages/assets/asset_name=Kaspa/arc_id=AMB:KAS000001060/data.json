@@ -3,9 +3,10 @@
     "assetName": "Kaspa",
     "assetArcId": "AMB:KAS000001060",
     "website": "https://kaspa.org/",
-    "whitePaperUrl": null,
+    "whitePaperUrl": "https://eprint.iacr.org/2018/104.pdf",
     "classificationTags": [
-        "Proof-of-Work"
+        "Proof-of-Work",
+        "Layer-1"
     ],
     "assetAddresses": [
         {

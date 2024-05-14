@@ -5,9 +5,9 @@
     "website": "https://sui.io/",
     "whitePaperUrl": "https://github.com/MystenLabs/sui/blob/main/doc/paper/sui.pdf",
     "classificationTags": [
-        "Privacy",
         "Smart Contract",
-        "Staking"
+        "Staking",
+        "Layer-1"
     ],
     "assetAddresses": [
         {
