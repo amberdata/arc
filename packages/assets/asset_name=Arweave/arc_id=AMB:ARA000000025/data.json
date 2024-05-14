@@ -2,9 +2,11 @@
     "assetSymbol": "ar",
     "assetName": "Arweave",
     "assetArcId": "AMB:ARA000000025",
-    "website": null,
-    "whitePaperUrl": null,
-    "classificationTags": [],
+    "website": "https://www.arweave.org/",
+    "whitePaperUrl": "https://ar-io.net/azo-0qw6bb9u5doGdMR-atcIRV_ylJCV4K4Kwv85GO4",
+    "classificationTags": [
+        "DePIN"
+    ],
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Arweave/arc_id=AMB:ARA000000025/exchange=binance/contract_type=perpetual/data.json",

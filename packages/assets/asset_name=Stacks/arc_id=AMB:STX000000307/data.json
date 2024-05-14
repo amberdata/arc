@@ -3,9 +3,10 @@
     "assetName": "Stacks",
     "assetArcId": "AMB:STX000000307",
     "website": "https://www.stacks.co/",
-    "whitePaperUrl": null,
+    "whitePaperUrl": "https://gaia.blockstack.org/hub/1AxyPunHHAHiEffXWESKfbvmBpGQv138Fp/stacks.pdf",
     "classificationTags": [
-        "Smart Contract"
+        "Smart Contract",
+        "Layer-2"
     ],
     "assetAddresses": [
         {

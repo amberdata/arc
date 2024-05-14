@@ -2,12 +2,13 @@
     "assetSymbol": "theta",
     "assetName": "Theta Network",
     "assetArcId": "AMB:THE000000317",
-    "website": null,
-    "whitePaperUrl": null,
+    "website": "https://www.thetatoken.org/",
+    "whitePaperUrl": "https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-white-paper-latest.pdf?v=1553657855.509",
     "classificationTags": [
         "Gaming",
         "Governance",
-        "Proof-of-Stake"
+        "Proof-of-Stake",
+        "Content & Streaming"
     ],
     "miscellaneous": {
         "relatedLinks": [

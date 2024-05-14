@@ -5,7 +5,8 @@
     "website": "https://www.optimism.io/",
     "whitePaperUrl": "https://community.optimism.io/docs/governance/economics/#demand-for-op-blockspace-generates-revenue",
     "classificationTags": [
-        "Smart Contract"
+        "Smart Contract",
+        "Layer-2"
     ],
     "assetAddresses": [
         {

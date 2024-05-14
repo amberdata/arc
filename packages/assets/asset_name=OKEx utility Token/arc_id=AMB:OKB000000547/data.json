@@ -7,6 +7,13 @@
     "classificationTags": [
         "Governance"
     ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "decimals": 18
+        }
+    ],
     "miscellaneous": {
         "relatedLinks": []
     }
