@@ -2,9 +2,18 @@
     "assetSymbol": "ustc",
     "assetName": "TerraClassicUSD",
     "assetArcId": "AMB:UST000000336",
-    "website": null,
-    "whitePaperUrl": null,
-    "classificationTags": [],
+    "website": "https://terra.money/",
+    "whitePaperUrl": "https://terra.money/Terra_White_paper.pdf",
+    "classificationTags": [
+        "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
+            "decimals": 18
+        }
+    ],
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=TerraClassicUSD/arc_id=AMB:UST000000336/exchange=binance/contract_type=perpetual/data.json",

@@ -2,12 +2,17 @@
     "assetSymbol": "tusd",
     "assetName": "TrueUSD",
     "assetArcId": "AMB:TUS000000326",
-    "website": null,
+    "website": "https://trueusd.com/",
     "whitePaperUrl": null,
     "classificationTags": [
-        "Proof-of-Stake",
-        "Stablecoin",
-        "Transparent"
+        "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+            "decimals": 18
+        }
     ],
     "miscellaneous": {
         "relatedLinks": [

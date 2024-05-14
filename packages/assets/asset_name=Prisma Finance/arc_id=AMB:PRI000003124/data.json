@@ -5,13 +5,14 @@
     "website": "https://prismafinance.com/",
     "whitePaperUrl": null,
     "classificationTags": [
-        "Stablecoin",
-        "Staking"
+        "DeFi",
+        "Governance"
     ],
     "assetAddresses": [
         {
             "blockchainName": "ETH",
-            "address": "0xdA47862a83dac0c112BA89c6abC2159b95afd71C"
+            "address": "0xdA47862a83dac0c112BA89c6abC2159b95afd71C",
+            "decimals": 18
         }
     ],
     "miscellaneous": {

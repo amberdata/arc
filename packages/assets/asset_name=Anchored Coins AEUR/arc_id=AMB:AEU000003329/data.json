@@ -3,10 +3,15 @@
     "assetName": "Anchored Coins AEUR",
     "assetArcId": "AMB:AEU000003329",
     "website": "https://www.anchoredcoins.com/en/landing",
-    "whitePaperUrl": null,
+    "whitePaperUrl": "https://static.anchoredcoins.com/static/cloud/anchoredcoins/static/images/admin_mgs_image_upload/whitepaper_for_launch.pdf",
     "classificationTags": [
-        "Stablecoin",
-        "Transparent"
+        "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xA40640458FBc27b6EefEdeA1E9C9E17d4ceE7a21"
+        }
     ],
     "miscellaneous": {
         "relatedLinks": [

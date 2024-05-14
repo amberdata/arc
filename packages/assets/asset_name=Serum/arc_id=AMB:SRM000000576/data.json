@@ -2,7 +2,7 @@
     "assetSymbol": "srm",
     "assetName": "Serum",
     "assetArcId": "AMB:SRM000000576",
-    "website": "#",
+    "website": null,
     "whitePaperUrl": "http://projectserum.com/static/media/serum_white_paper.88d98f84.pdf",
     "classificationTags": [
         "DEX"

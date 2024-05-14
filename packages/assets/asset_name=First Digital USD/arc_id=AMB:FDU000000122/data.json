@@ -7,6 +7,13 @@
     "classificationTags": [
         "Stablecoin"
     ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+            "decimals": 18
+        }
+    ],
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=First Digital USD/arc_id=AMB:FDU000000122/exchange=binance/data.json"

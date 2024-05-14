@@ -7,6 +7,13 @@
     "classificationTags": [
         "Stablecoin"
     ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xC581b735A1688071A1746c968e0798D642EDE491",
+            "decimals": 6
+        }
+    ],
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Tether EURt/arc_id=AMB:EUR000000501/exchange=bitfinex/data.json",

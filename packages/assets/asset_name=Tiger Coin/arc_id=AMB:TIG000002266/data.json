@@ -2,8 +2,8 @@
     "assetSymbol": "tiger",
     "assetName": "Tiger Coin",
     "assetArcId": "AMB:TIG000002266",
-    "website": "--",
-    "whitePaperUrl": "/how-to-buy/TIGER?utm_source=mexc&utm_medium=tokenifoTIGER&utm_campaign=tokeninfo",
+    "website": null,
+    "whitePaperUrl": null,
     "classificationTags": [
         "Governance",
         "Staking"

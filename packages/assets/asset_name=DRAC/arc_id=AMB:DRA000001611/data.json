@@ -2,7 +2,7 @@
     "assetSymbol": "drac",
     "assetName": "DRAC",
     "assetArcId": "AMB:DRA000001611",
-    "website": "--",
+    "website": null,
     "whitePaperUrl": "https://drac.io/whitepaper.pdf",
     "classificationTags": [
         "DEX"

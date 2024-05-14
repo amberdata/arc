@@ -2,7 +2,7 @@
     "assetSymbol": "dcp",
     "assetName": "DataChainPro",
     "assetArcId": "AMB:DCP000003285",
-    "website": "#",
+    "website": null,
     "whitePaperUrl": "https://datachainpro.gitbook.io/datachainpro-white-paper/",
     "classificationTags": [
         "Transparent"

@@ -2,8 +2,8 @@
     "assetSymbol": "btcbam",
     "assetName": "BTCBAM",
     "assetArcId": "AMB:BTC000001500",
-    "website": "--",
-    "whitePaperUrl": "/how-to-buy/BTCBAM?utm_source=mexc&utm_medium=tokenifoBTCBAM&utm_campaign=tokeninfo",
+    "website": null,
+    "whitePaperUrl": null,
     "classificationTags": [
         "Proof-of-Stake"
     ],
