@@ -4,7 +4,16 @@
     "assetArcId": "AMB:USD000000841",
     "website": "https://usdd.io/#/",
     "whitePaperUrl": "https://usdd.network/USDD-en.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6",
+            "decimals": 18
+        }
+    ],
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=USDD/arc_id=AMB:USD000000841/exchange=bybit/data.json",

@@ -2,7 +2,7 @@
     "assetSymbol": "aicoin1",
     "assetName": "AICoin",
     "assetArcId": "AMB:AIC000002784",
-    "website": "#",
+    "website": null,
     "whitePaperUrl": "https://aicoin.gitbook.io/",
     "classificationTags": [
         "Transparent"

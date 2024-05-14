@@ -4,7 +4,10 @@
     "assetArcId": "AMB:VAI000002315",
     "website": "https://vaiot.ai/en",
     "whitePaperUrl": "https://vaiot.ai/assets/files/VAIOT_Whitepaper.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "Governance",
+        "Machine Learning & AI"
+    ],
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=VAIOT/arc_id=AMB:VAI000002315/exchange=mexc/data.json"

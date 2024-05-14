@@ -12,6 +12,11 @@
         {
             "blockchainName": "Arbitrum",
             "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1"
+        },
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "decimals": 18
         }
     ],
     "miscellaneous": {

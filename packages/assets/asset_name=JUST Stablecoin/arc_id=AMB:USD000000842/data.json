@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "usdj",
+    "assetName": "JUST Stablecoin",
+    "assetArcId": "AMB:USD000000842",
+    "website": "https://just.network/",
+    "whitePaperUrl": "https://www.just.network/docs/white_paper_en.pdf",
+    "classificationTags": [
+        "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Tron",
+            "address": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

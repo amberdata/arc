@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "eurt",
+    "assetName": "Euro Tether",
+    "assetArcId": "AMB:EUR000000501",
+    "website": "https://tether.to/en/",
+    "whitePaperUrl": "https://tether.to/en/transparency/",
+    "classificationTags": [
+        "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xC581b735A1688071A1746c968e0798D642EDE491",
+            "decimals": 6
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

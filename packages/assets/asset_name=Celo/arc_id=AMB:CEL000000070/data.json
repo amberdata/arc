@@ -5,10 +5,9 @@
     "website": "https://celo.org",
     "whitePaperUrl": "https://celo.org/papers/whitepaper ",
     "classificationTags": [
-        "Governance",
         "Proof-of-Stake",
         "Smart Contract",
-        "Stablecoin"
+        "Layer-2"
     ],
     "miscellaneous": {
         "relatedLinks": [

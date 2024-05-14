@@ -2,11 +2,17 @@
     "assetSymbol": "busd",
     "assetName": "BUSD",
     "assetArcId": "AMB:BUS000000067",
-    "website": null,
+    "website": "https://www.binance.com/en/busd",
     "whitePaperUrl": null,
     "classificationTags": [
-        "Stablecoin",
-        "Transparent"
+        "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+            "decimals": 18
+        }
     ],
     "miscellaneous": {
         "relatedLinks": []
