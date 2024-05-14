@@ -2,12 +2,21 @@
     "assetSymbol": "bnb",
     "assetName": "BNB",
     "assetArcId": "AMB:BNB000000055",
-    "website": null,
+    "website": "https://bnbchain.org/en",
     "whitePaperUrl": null,
     "classificationTags": [
-        "DEX",
-        "Gaming",
-        "Staking"
+        "Layer-1"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Binance Chain",
+            "address": "bnb1ultyhpw2p2ktvr68swz56570lgj2rdsadq3ym2"
+        },
+        {
+            "blockchainName": "Binance Smart Chain",
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "decimals": 18
+        }
     ],
     "miscellaneous": {
         "relatedLinks": [

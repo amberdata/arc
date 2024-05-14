@@ -5,16 +5,21 @@
     "website": "https://rendernetwork.com/",
     "whitePaperUrl": "https://renderfoundation.com/whitepaper",
     "classificationTags": [
-        "Governance"
+        "Content & Streaming"
     ],
     "assetAddresses": [
         {
-            "blockchainName": "Solana",
-            "address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof"
-        },
-        {
             "blockchainName": "Ethereum",
             "address": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24"
+        },
+        {
+            "blockchainName": "Polygon",
+            "address": "0x61299774020dA444Af134c82fa83E3810b309991",
+            "decimals": 18
+        },
+        {
+            "blockchainName": "Solana",
+            "address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof"
         }
     ],
     "miscellaneous": {

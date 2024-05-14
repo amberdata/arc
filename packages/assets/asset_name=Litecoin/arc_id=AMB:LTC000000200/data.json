@@ -4,11 +4,14 @@
     "assetArcId": "AMB:LTC000000200",
     "website": "https://litecoin.org",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Proof-of-Work"
+    ],
     "assetAddresses": [
         {
-            "blockchainName": "Litecoin",
-            "address": null
+            "blockchainName": "Binance Smart Chain",
+            "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+            "decimals": 18
         }
     ],
     "miscellaneous": {

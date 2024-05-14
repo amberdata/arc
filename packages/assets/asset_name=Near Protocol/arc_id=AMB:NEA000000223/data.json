@@ -4,12 +4,10 @@
     "assetArcId": "AMB:NEA000000223",
     "website": "https://near.org/",
     "whitePaperUrl": "https://near.org/papers/the-official-near-white-paper/",
-    "classificationTags": [],
-    "assetAddresses": [
-        {
-            "blockchainName": "Near",
-            "address": null
-        }
+    "classificationTags": [
+        "Layer-1",
+        "Proof-of-Stake",
+        "Smart Contract"
     ],
     "miscellaneous": {
         "relatedLinks": []

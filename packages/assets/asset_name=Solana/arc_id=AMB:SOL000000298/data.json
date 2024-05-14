@@ -5,12 +5,15 @@
     "website": "https://solana.com/",
     "whitePaperUrl": "https://solana.com/solana-whitepaper.pdf",
     "classificationTags": [
-        "Proof-of-Stake"
+        "Proof-of-Stake",
+        "Layer-1",
+        "Smart Contract"
     ],
     "assetAddresses": [
         {
             "blockchainName": "Solana",
-            "address": ""
+            "address": "So11111111111111111111111111111111111111112",
+            "decimals": 9
         }
     ],
     "miscellaneous": {

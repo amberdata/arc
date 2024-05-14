@@ -5,15 +5,14 @@
     "website": "https://www.avax.network/",
     "whitePaperUrl": "https://www.avalabs.org/whitepapers",
     "classificationTags": [
-        "Lending",
-        "Privacy",
         "Smart Contract",
-        "Stablecoin"
+        "Layer-1"
     ],
     "assetAddresses": [
         {
             "blockchainName": "Avalanche C-Chain",
-            "address": "0xfvweahmxkfeig8snevq42hc6whryy3efyavebmqdndgcgxn5z"
+            "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+            "decimals": 18
         }
     ],
     "miscellaneous": {

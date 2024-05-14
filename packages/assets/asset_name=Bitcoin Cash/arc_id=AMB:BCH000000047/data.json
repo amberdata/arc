@@ -4,11 +4,14 @@
     "assetArcId": "AMB:BCH000000047",
     "website": "http://bch.info/",
     "whitePaperUrl": "http://bch.info/bitcoin.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "Proof-of-Work"
+    ],
     "assetAddresses": [
         {
-            "blockchainName": "Bitcoin Cash",
-            "address": null
+            "blockchainName": "Binance Smart Chain",
+            "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+            "decimals": 18
         }
     ],
     "miscellaneous": {

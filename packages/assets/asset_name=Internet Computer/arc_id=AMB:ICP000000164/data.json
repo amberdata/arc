@@ -5,13 +5,9 @@
     "website": "https://internetcomputer.org/",
     "whitePaperUrl": "https://internetcomputer.org/whitepaper.pdf",
     "classificationTags": [
-        "Governance"
-    ],
-    "assetAddresses": [
-        {
-            "blockchainName": "Dfinity",
-            "address": ""
-        }
+        "Governance",
+        "Smart Contract",
+        "Staking"
     ],
     "miscellaneous": {
         "relatedLinks": [
