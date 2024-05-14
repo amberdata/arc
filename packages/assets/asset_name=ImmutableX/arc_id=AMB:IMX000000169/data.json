@@ -5,8 +5,10 @@
     "website": "https://www.immutable.com/",
     "whitePaperUrl": "https://www.immutable.com/token",
     "classificationTags": [
+        "Gaming",
         "Governance",
-        "Staking"
+        "Staking",
+        "Layer-2"
     ],
     "assetAddresses": [
         {

@@ -9,12 +9,6 @@
         "Proof-of-Stake",
         "Smart Contract"
     ],
-    "assetAddresses": [
-        {
-            "blockchainName": "Aptos",
-            "address": ""
-        }
-    ],
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Aptos/arc_id=AMB:APT000000023/exchange=binance/contract_type=perpetual/data.json",

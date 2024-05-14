@@ -4,7 +4,10 @@
     "assetArcId": "AMB:XLM000000359",
     "website": "https://www.stellar.org",
     "whitePaperUrl": "https://www.stellar.org/papers/stellar-consensus-protocol.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "DEX",
+        "Layer-1"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Stellar",

@@ -4,7 +4,9 @@
     "assetArcId": "AMB:CRO000000390",
     "website": "https://crypto.org/",
     "whitePaperUrl": "https://crypto.com/images/crypto_com_whitepaper.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "Metaverse"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",
