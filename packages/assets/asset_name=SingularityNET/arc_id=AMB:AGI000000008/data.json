@@ -3,10 +3,15 @@
     "assetName": "SingularityNET",
     "assetArcId": "AMB:AGI000000008",
     "website": "https://singularitynet.io/",
-    "whitePaperUrl": null,
+    "whitePaperUrl": "https://public.singularitynet.io/whitepaper.pdf",
     "classificationTags": [
-        "Proof-of-Stake",
-        "Smart Contract"
+        "Machine Learning & AI"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x5B7533812759B45C2B44C19e320ba2cD2681b542"
+        }
     ],
     "miscellaneous": {
         "relatedLinks": [

@@ -2,11 +2,16 @@
     "assetSymbol": "gala",
     "assetName": "Gala",
     "assetArcId": "AMB:GAL000000140",
-    "website": null,
+    "website": "https://gala.com/",
     "whitePaperUrl": null,
     "classificationTags": [
-        "Gaming",
-        "Governance"
+        "Gaming"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae"
+        }
     ],
     "miscellaneous": {
         "relatedLinks": []

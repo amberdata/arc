@@ -5,13 +5,16 @@
     "website": "https://flow.com/",
     "whitePaperUrl": "https://www.onflow.org/",
     "classificationTags": [
-        "Metaverse",
-        "Smart Contract"
+        "Gaming",
+        "Smart Contract",
+        "Layer-1",
+        "Proof-of-Stake"
     ],
+    "nativeBlockchainName": "Flow",
     "assetAddresses": [
         {
-            "blockchainName": "Flow",
-            "address": ""
+            "blockchainName": "Ethereum",
+            "address": "0x5c147e74D63B1D31AA3Fd78Eb229B65161983B2b"
         }
     ],
     "miscellaneous": {

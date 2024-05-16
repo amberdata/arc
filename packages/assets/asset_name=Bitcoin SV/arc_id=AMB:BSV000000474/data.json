@@ -4,7 +4,13 @@
     "assetArcId": "AMB:BSV000000474",
     "website": "https://bitcoinsv.com/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Transparent",
+        "Proof-of-Work",
+        "Smart Contract",
+        "Layer-1"
+    ],
+    "nativeBlockchainName": "BSV Blockchain",
     "miscellaneous": {
         "relatedLinks": []
     }

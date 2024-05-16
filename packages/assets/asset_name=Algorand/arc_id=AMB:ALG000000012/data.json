@@ -5,14 +5,12 @@
     "website": "https://www.algorand.com/",
     "whitePaperUrl": "https://www.algorand.com/technology/white-papers/",
     "classificationTags": [
-        "Proof-of-Stake"
+        "Proof-of-Stake",
+        "Smart Contract",
+        "Governance",
+        "Layer-1"
     ],
-    "assetAddresses": [
-        {
-            "blockchainName": "Algorand",
-            "address": ""
-        }
-    ],
+    "nativeBlockchainName": "Algorand",
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Algorand/arc_id=AMB:ALG000000012/exchange=binance/contract_type=perpetual/data.json",

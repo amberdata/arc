@@ -6,14 +6,11 @@
     "whitePaperUrl": "https://flare.network/wp-content/uploads/Flare-White-Paper-v2.pdf",
     "classificationTags": [
         "Governance",
-        "Staking"
+        "Staking",
+        "Layer-1",
+        "Proof-of-Stake"
     ],
-    "assetAddresses": [
-        {
-            "blockchainName": "Flare",
-            "address": null
-        }
-    ],
+    "nativeBlockchainName": "Flare",
     "miscellaneous": {
         "relatedLinks": []
     }

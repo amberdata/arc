@@ -11,9 +11,21 @@
     ],
     "assetAddresses": [
         {
+            "blockchainName": "Binance Smart Chain",
+            "address": "0xfb6115445bff7b52feb98650c87f44907e58f802"
+        },
+        {
             "blockchainName": "Ethereum",
             "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
             "decimals": 18
+        },
+        {
+            "blockchainName": "Polygon",
+            "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b"
+        },
+        {
+            "blockchainName": "Solana",
+            "address": "3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg"
         }
     ],
     "miscellaneous": {
