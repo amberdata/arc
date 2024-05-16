@@ -5,14 +5,11 @@
     "website": "https://www.sei.io/",
     "whitePaperUrl": "https://docs.sei.io/",
     "classificationTags": [
-        "Governance"
+        "Governance",
+        "Layer-1",
+        "Staking"
     ],
-    "assetAddresses": [
-        {
-            "blockchainName": "Sei",
-            "address": ""
-        }
-    ],
+    "nativeBlockchainName": "Sei",
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Sei/arc_id=AMB:SEI000000291/exchange=binance/contract_type=perpetual/data.json",

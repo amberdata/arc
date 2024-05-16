@@ -4,7 +4,13 @@
     "assetArcId": "AMB:COR000000487",
     "website": "https://coredao.org/",
     "whitePaperUrl": "https://docs.coredao.org/core-white-paper-v1.0.5/",
-    "classificationTags": [],
+    "classificationTags": [
+        "Layer-1",
+        "Smart Contract",
+        "Staking",
+        "Governance"
+    ],
+    "nativeBlockchainName": "Core Chain",
     "miscellaneous": {
         "relatedLinks": []
     }

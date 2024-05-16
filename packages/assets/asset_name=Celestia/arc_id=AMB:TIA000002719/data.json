@@ -6,14 +6,10 @@
     "whitePaperUrl": "https://docs.celestia.org/",
     "classificationTags": [
         "Governance",
-        "Staking"
+        "Staking",
+        "Blockchain Infrastructure"
     ],
-    "assetAddresses": [
-        {
-            "blockchainName": "Celestia",
-            "address": ""
-        }
-    ],
+    "nativeBlockchainName": "Celestia",
     "miscellaneous": {
         "relatedLinks": []
     }

@@ -2,11 +2,12 @@
     "assetSymbol": "rune",
     "assetName": "THORChain",
     "assetArcId": "AMB:RUN000000285",
-    "website": null,
-    "whitePaperUrl": null,
+    "website": "https://thorchain.org/",
+    "whitePaperUrl": "https://github.com/thorchain/Resources/tree/master/Whitepapers/THORChain/whitepaper-en.md",
     "classificationTags": [
         "Governance",
-        "Staking"
+        "Staking",
+        "DEX"
     ],
     "miscellaneous": {
         "relatedLinks": [

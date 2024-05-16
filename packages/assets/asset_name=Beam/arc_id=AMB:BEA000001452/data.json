@@ -3,10 +3,13 @@
     "assetName": "Beam",
     "assetArcId": "AMB:BEA000001452",
     "website": "https://beam.mw/",
-    "whitePaperUrl": null,
+    "whitePaperUrl": "https://github.com/BeamMW/beam/wiki/Beam-Technical-Specifications",
     "classificationTags": [
-        "Privacy"
+        "Privacy",
+        "Layer-1",
+        "Proof-of-Work"
     ],
+    "nativeBlockchainName": "Beam",
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Beam/arc_id=AMB:BEA000001452/exchange=mexc/data.json"

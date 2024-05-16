@@ -5,7 +5,14 @@
     "website": "https://www.bitget.com/",
     "whitePaperUrl": "https://img.bitgetimg.com/video/BGB-whitepaper-EN.pdf",
     "classificationTags": [
-        "Staking"
+        "Governance"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x19de6b897ed14a376dda0fe53a5420d2ac828a28",
+            "decimals": 18
+        }
     ],
     "miscellaneous": {
         "relatedLinks": [
