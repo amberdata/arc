@@ -14,6 +14,18 @@
             "blockchainName": "Arbitrum",
             "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
             "decimals": 18
+        },
+        {
+            "blockchainName": "Avalanche C-Chain",
+            "address": "0xf20d962a6c8f70c731bd838a3a388d7d48fa6e15"
+        },
+        {
+            "blockchainName": "Binance Smart Chain",
+            "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+        },
+        {
+            "blockchainName": "Solana",
+            "address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk"
         }
     ],
     "miscellaneous": {
