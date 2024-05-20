@@ -3,11 +3,16 @@
     "assetName": "Worldcoin",
     "assetArcId": "AMB:WLD000000352",
     "website": "https://worldcoin.org/",
-    "whitePaperUrl": null,
+    "whitePaperUrl": "https://whitepaper.worldcoin.org/",
     "classificationTags": [
         "Governance",
-        "Layer-2",
         "Privacy"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x163f8c2467924be0ae7b5347228cabf260318753"
+        }
     ],
     "miscellaneous": {
         "relatedLinks": [

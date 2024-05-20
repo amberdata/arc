@@ -4,7 +4,17 @@
     "assetArcId": "AMB:STR000003332",
     "website": "https://www.starknet.io/en",
     "whitePaperUrl": "https://docs.starknet.io/documentation/",
-    "classificationTags": [],
+    "classificationTags": [
+        "Layer-2",
+        "Smart Contract"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+            "decimals": 18
+        }
+    ],
     "miscellaneous": {
         "relatedLinks": []
     }

@@ -2,16 +2,14 @@
     "assetSymbol": "neo",
     "assetName": "Neo",
     "assetArcId": "AMB:NEO000000224",
-    "website": null,
-    "whitePaperUrl": null,
+    "website": "https://neo.org/",
+    "whitePaperUrl": "https://docs.neo.org/docs/en-us/index.html",
     "classificationTags": [
-        "Content & Streaming",
-        "DEX",
-        "Oracles",
-        "Proof-of-Stake",
+        "Layer-1",
         "Smart Contract",
         "Staking"
     ],
+    "nativeBlockchainName": "Neo",
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Neo/arc_id=AMB:NEO000000224/exchange=binance/contract_type=perpetual/data.json",

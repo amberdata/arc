@@ -4,7 +4,23 @@
     "assetArcId": "AMB:BTT000000477",
     "website": "https://www.bittorrent.com/btt/",
     "whitePaperUrl": "https://bt.io/doc/BitTorrent-ChainWhitepaper_EN.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "DePIN"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Binance Smart Chain",
+            "address": "0x352Cb5E19b12FC216548a2677bD0fce83BaE434B"
+        },
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xc669928185dbce49d2230cc9b0979be6dc797957"
+        },
+        {
+            "blockchainName": "Tron",
+            "address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4"
+        }
+    ],
     "miscellaneous": {
         "relatedLinks": []
     }
