@@ -3,10 +3,16 @@
     "assetName": "Pendle",
     "assetArcId": "AMB:PEN000000244",
     "website": "https://www.pendle.finance/",
-    "whitePaperUrl": null,
+    "whitePaperUrl": "https://docs.pendle.finance/Introduction",
     "classificationTags": [
         "Governance",
-        "Proof-of-Stake"
+        "Yield"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x808507121b80c02388fad14726482e061b8da827"
+        }
     ],
     "miscellaneous": {
         "relatedLinks": [

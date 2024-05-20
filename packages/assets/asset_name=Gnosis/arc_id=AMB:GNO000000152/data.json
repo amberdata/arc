@@ -4,13 +4,18 @@
     "assetArcId": "AMB:GNO000000152",
     "website": "https://gnosis.io/",
     "whitePaperUrl": "https://github.com/gnosis/research/blob/master/gnosis-whitepaper.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "Layer-1",
+        "Governance",
+        "Smart Contract"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",
             "address": "0x6810e776880c02933d47db1b9fc05908e5386b96"
         }
     ],
+    "nativeBlockchainName": "Gnosis Chain",
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gnosis/arc_id=AMB:GNO000000152/exchange=binance/data.json",

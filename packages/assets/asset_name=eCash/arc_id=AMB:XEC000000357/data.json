@@ -2,11 +2,10 @@
     "assetSymbol": "xec",
     "assetName": "eCash",
     "assetArcId": "AMB:XEC000000357",
-    "website": null,
-    "whitePaperUrl": null,
+    "website": "https://e.cash/",
+    "whitePaperUrl": "https://e.cash/core-tech",
     "classificationTags": [
-        "Proof-of-Work",
-        "Smart Contract"
+        "Proof-of-Work"
     ],
     "miscellaneous": {
         "relatedLinks": [

@@ -5,14 +5,10 @@
     "website": "https://eos.io/",
     "whitePaperUrl": "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md",
     "classificationTags": [
-        "Proof-of-Stake"
+        "Smart Contract",
+        "Layer-1"
     ],
-    "assetAddresses": [
-        {
-            "blockchainName": "Eosio",
-            "address": ""
-        }
-    ],
+    "nativeBlockchainName": "EOSIO",
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=EOS/arc_id=AMB:EOS000000114/exchange=binance/contract_type=perpetual/data.json",

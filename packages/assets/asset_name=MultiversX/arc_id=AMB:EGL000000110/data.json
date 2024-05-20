@@ -6,15 +6,9 @@
     "whitePaperUrl": "https://files.multiversx.com/multiversx-whitepaper.pdf",
     "classificationTags": [
         "Governance",
-        "Metaverse",
+        "Layer-1",
         "Smart Contract",
         "Staking"
-    ],
-    "assetAddresses": [
-        {
-            "blockchainName": "Elrond",
-            "address": null
-        }
     ],
     "miscellaneous": {
         "relatedLinks": [

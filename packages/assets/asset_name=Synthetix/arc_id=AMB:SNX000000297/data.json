@@ -5,7 +5,9 @@
     "website": "https://synthetix.io/",
     "whitePaperUrl": "https://www.synthetix.io/uploads/synthetix_whitepaper.pdf",
     "classificationTags": [
-        "Smart Contract"
+        "Derivatives",
+        "DeFi",
+        "Governance"
     ],
     "assetAddresses": [
         {

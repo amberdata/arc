@@ -4,7 +4,10 @@
     "assetArcId": "AMB:SAN000000287",
     "website": "https://www.sandbox.game/",
     "whitePaperUrl": "https://sandboxgame.gitbook.io/the-sandbox/",
-    "classificationTags": [],
+    "classificationTags": [
+        "Governance",
+        "Gaming"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

@@ -4,7 +4,10 @@
     "assetArcId": "AMB:JAS000000176",
     "website": "https://www.jasmy.co.jp/en.html",
     "whitePaperUrl": "https://www.jasmy.co.jp/images/whitepaper20200618_eng.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "Privacy",
+        "DePIN"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

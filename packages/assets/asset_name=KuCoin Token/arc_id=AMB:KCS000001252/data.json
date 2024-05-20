@@ -3,8 +3,18 @@
     "assetName": "KuCoin Token",
     "assetArcId": "AMB:KCS000001252",
     "website": "https://www.kucoin.com/",
-    "whitePaperUrl": null,
-    "classificationTags": [],
+    "whitePaperUrl": "https://www.kcs.foundation/kcs-whitepaper.pdf",
+    "classificationTags": [
+        "Governance"
+    ],
+    "nativeBlockchainName": "KCC Chain",
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0xf34960d9d60be18cC1D5Afc1A6F012A723a28811",
+            "decimals": 6
+        }
+    ],
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=KuCoin Token/arc_id=AMB:KCS000001252/exchange=mexc/data.json",
