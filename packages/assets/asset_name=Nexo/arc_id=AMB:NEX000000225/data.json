@@ -4,14 +4,7 @@
     "assetArcId": "AMB:NEX000000225",
     "website": "https://nexo.com/",
     "whitePaperUrl": null,
-    "classificationTags": [
-        "Governance",
-        "Lending",
-        "Privacy",
-        "Proof-of-Stake",
-        "Stablecoin",
-        "Transparent"
-    ],
+    "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Nexo/arc_id=AMB:NEX000000225/exchange=binance/data.json",

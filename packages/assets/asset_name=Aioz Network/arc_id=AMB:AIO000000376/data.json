@@ -4,7 +4,12 @@
     "assetArcId": "AMB:AIO000000376",
     "website": "https://aioz.network/",
     "whitePaperUrl": "https://aioz.network/aioz-token",
-    "classificationTags": [],
+    "classificationTags": [
+        "DePIN",
+        "Content & Streaming",
+        "Machine Learning & AI",
+        "Layer-1"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

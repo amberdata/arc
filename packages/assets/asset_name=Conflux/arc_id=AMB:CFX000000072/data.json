@@ -7,11 +7,11 @@
     "classificationTags": [
         "Content & Streaming",
         "Governance",
-        "Proof-of-Stake",
         "Proof-of-Work",
         "Smart Contract",
         "Staking"
     ],
+    "nativeBlockchainName": "Conflux",
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Conflux/arc_id=AMB:CFX000000072/exchange=binance/contract_type=perpetual/data.json",

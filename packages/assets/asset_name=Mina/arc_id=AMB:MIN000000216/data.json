@@ -6,14 +6,11 @@
     "whitePaperUrl": "https://docs.minaprotocol.com/en",
     "classificationTags": [
         "Privacy",
-        "Smart Contract"
+        "Smart Contract",
+        "Proof-of-Stake",
+        "Layer-1"
     ],
-    "assetAddresses": [
-        {
-            "blockchainName": "Mina",
-            "address": null
-        }
-    ],
+    "nativeBlockchainName": "Mina",
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Mina/arc_id=AMB:MIN000000216/exchange=binance/contract_type=perpetual/data.json",

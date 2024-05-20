@@ -2,8 +2,8 @@
     "assetSymbol": "ordi",
     "assetName": "Ordinals",
     "assetArcId": "AMB:ORD000000554",
-    "website": null,
-    "whitePaperUrl": null,
+    "website": "https://ordinals.com/",
+    "whitePaperUrl": "https://docs.ordinals.com/",
     "classificationTags": [],
     "miscellaneous": {
         "relatedLinks": [

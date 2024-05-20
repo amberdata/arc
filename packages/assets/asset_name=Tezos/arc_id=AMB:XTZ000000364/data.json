@@ -5,14 +5,11 @@
     "website": "https://tezos.com/",
     "whitePaperUrl": "https://wiki.tezosagora.org/whitepaper",
     "classificationTags": [
-        "Smart Contract"
+        "Smart Contract",
+        "Proof-of-Stake",
+        "Layer-1"
     ],
-    "assetAddresses": [
-        {
-            "blockchainName": "Tezos",
-            "address": ""
-        }
-    ],
+    "nativeBlockchainName": "Tezos",
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Tezos/arc_id=AMB:XTZ000000364/exchange=binance/contract_type=perpetual/data.json",
