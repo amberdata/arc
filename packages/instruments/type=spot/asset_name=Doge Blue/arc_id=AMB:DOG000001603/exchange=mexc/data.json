@@ -20,7 +20,7 @@
         "precisionBase": 0.0,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 0.0,
+        "precisionQuote": 1e-12,
         "normalizedInstrument": "dogeblue_usdt",
         "normalizedSymbol": "dogeblue",
         "assetName": "Doge Blue",

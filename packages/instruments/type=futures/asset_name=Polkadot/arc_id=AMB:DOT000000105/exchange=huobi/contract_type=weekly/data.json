@@ -421,7 +421,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT210430",
+        "nativeInstrument": "DOT",
         "underlying": "DOT",
         "expiration": "2021-04-30 00:00:00",
         "active": false,
@@ -505,7 +505,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT210521",
+        "nativeInstrument": "DOT",
         "underlying": "DOT",
         "expiration": "2021-05-21 00:00:00",
         "active": false,
@@ -645,7 +645,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT210702",
+        "nativeInstrument": "DOT",
         "underlying": "DOT",
         "expiration": "2021-07-02 00:00:00",
         "active": false,
@@ -729,7 +729,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT210723",
+        "nativeInstrument": "DOT",
         "underlying": "DOT",
         "expiration": "2021-07-23 00:00:00",
         "active": false,
@@ -813,7 +813,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT210813",
+        "nativeInstrument": "DOT",
         "underlying": "DOT",
         "expiration": "2021-08-13 00:00:00",
         "active": false,
@@ -897,7 +897,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT210903",
+        "nativeInstrument": "DOT",
         "underlying": "DOT",
         "expiration": "2021-09-03 00:00:00",
         "active": false,
@@ -981,7 +981,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT210924",
+        "nativeInstrument": "DOT",
         "underlying": "DOT",
         "expiration": "2021-09-24 00:00:00",
         "active": false,
@@ -1065,7 +1065,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT211015",
+        "nativeInstrument": "DOT",
         "underlying": "DOT",
         "expiration": "2021-10-15 00:00:00",
         "active": false,
@@ -1205,7 +1205,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT211119",
+        "nativeInstrument": "DOT",
         "underlying": "DOT",
         "expiration": "2021-11-19 00:00:00",
         "active": false,
@@ -1289,7 +1289,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT211210",
+        "nativeInstrument": "DOT",
         "underlying": "DOT",
         "expiration": "2021-12-10 00:00:00",
         "active": false,
@@ -1373,7 +1373,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT211231",
+        "nativeInstrument": "DOT",
         "underlying": "DOT",
         "expiration": "2021-12-31 00:00:00",
         "active": false,
@@ -1457,7 +1457,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT220121",
+        "nativeInstrument": "DOT",
         "underlying": "DOT",
         "expiration": "2022-01-21 00:00:00",
         "active": false,
@@ -1541,7 +1541,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT220211",
+        "nativeInstrument": "DOT",
         "underlying": "DOT",
         "expiration": "2022-02-11 00:00:00",
         "active": false,
@@ -1569,7 +1569,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT",
+        "nativeInstrument": "DOT220218",
         "underlying": "DOT",
         "expiration": "2022-02-18 00:00:00",
         "active": false,
@@ -1625,7 +1625,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT220304",
+        "nativeInstrument": "DOT",
         "underlying": "DOT",
         "expiration": "2022-03-04 00:00:00",
         "active": false,
@@ -1709,7 +1709,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT",
+        "nativeInstrument": "DOT220325",
         "underlying": "DOT",
         "expiration": "2022-03-25 00:00:00",
         "active": false,

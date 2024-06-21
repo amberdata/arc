@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "abi",
+    "assetName": "Ab Defi",
+    "assetArcId": "AMB:ABI000000000",
+    "website": "https://abdefi.co/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "DeFi"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "CSrKRU8dGbjaSiMdsSLFczN4inKRPqCBkDDutqPJpJU2"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

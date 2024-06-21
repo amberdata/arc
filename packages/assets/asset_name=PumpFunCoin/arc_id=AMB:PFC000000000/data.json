@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "pfcc",
+    "assetName": "PumpFunCoin",
+    "assetArcId": "AMB:PFC000000000",
+    "website": "https://pumpfuncoin.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "HFju3ohuEieDmFSpRRj1SZpizLQc8HayHgJDqwBWYtkN"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

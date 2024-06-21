@@ -18,7 +18,6 @@
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Worldcoin/arc_id=AMB:WLD000000352/exchange=binance/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Worldcoin/arc_id=AMB:WLD000000352/exchange=bybit/contract_type=perpetual/data.json",
-            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Worldcoin/arc_id=AMB:WLD000000352/exchange=huobi/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Worldcoin/arc_id=AMB:WLD000000352/exchange=okex/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Worldcoin/arc_id=AMB:WLD000000352/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Worldcoin/arc_id=AMB:WLD000000352/exchange=bithumb/data.json",

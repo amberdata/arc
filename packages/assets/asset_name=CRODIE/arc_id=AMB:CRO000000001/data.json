@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "crodie",
+    "assetName": "CRODIE",
+    "assetArcId": "AMB:CRO000000001",
+    "website": "https://crodiethecat.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "GvcNXdSehfNSNyhDVDj27kc459LzFqWozt9CSJywMy6r"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

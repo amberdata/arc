@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "MRST",
         "nativeQuoteSymbol": "USDT",
         "underlying": "MRST",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": 100.0,
         "limitsCostMax": null,

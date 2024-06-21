@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "nvda.amb.1",
+    "assetName": "NVIDIA",
+    "assetArcId": "AMB:NVD000000000",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "9dwPiStDBwJJqC3QzMnjpJP7xohZbMVmHELFx3uy3KRq"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "build",
+    "assetName": "Build",
+    "assetArcId": "AMB:BUI000000000",
+    "website": "https://www.build.top/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "BASE",
+            "address": "https://basescan.org/token/0x3C281A39944a2319aA653D81Cfd93Ca10983D234"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

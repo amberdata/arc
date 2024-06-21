@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "pepesolcomm",
+    "assetName": "Pepe",
+    "assetArcId": "AMB:PEP000000003",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "B5WTLaRwaUQpKk7ir1wniNB6m5o8GgMrimhKMYan2R6B"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

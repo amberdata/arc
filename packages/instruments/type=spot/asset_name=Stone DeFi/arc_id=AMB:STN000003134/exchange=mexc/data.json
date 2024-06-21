@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "STN",
         "nativeQuoteSymbol": "USDT",
         "underlying": "stn",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

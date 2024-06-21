@@ -60,7 +60,7 @@
         "nativeInstrument": "APEUSD_PERP",
         "underlying": "APE",
         "expiration": "",
-        "active": true,
+        "active": false,
         "contractSize": 10.0,
         "contractType": "perpetual",
         "marginType": "inverse",

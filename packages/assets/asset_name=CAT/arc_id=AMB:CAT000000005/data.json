@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "cat.amb.1",
+    "assetName": "CAT",
+    "assetArcId": "AMB:CAT000000005",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "3WKzqdh3ZW3tP2PhAtAuDu4e1XsEzFhk7qnN8mApm3S2"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

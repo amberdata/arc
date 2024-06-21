@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "eloneth",
+    "assetName": "ELONETH",
+    "assetArcId": "AMB:ELO000000001",
+    "website": "https://www.69420.vip/",
+    "whitePaperUrl": "/how-to-buy/ELONETH?utm_source=mexc&utm_medium=tokenifoELONETH&utm_campaign=tokeninfo",
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x69420E3A3aa9E17Dea102Bb3a9b3B73dcDDB9528"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

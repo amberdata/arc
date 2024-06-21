@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "wsbsol",
+    "assetName": "Wall street bets",
+    "assetArcId": "AMB:WSB000000000",
+    "website": "https://linktr.ee/wsbsol",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "AkVt31h8vgji5wF4nVbq1QmBV5wBoe8JdSoDTkDhQwEw"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

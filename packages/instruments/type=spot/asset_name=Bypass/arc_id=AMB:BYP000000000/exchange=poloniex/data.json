@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "BYPASS",
         "nativeQuoteSymbol": "USDT",
         "underlying": "BYPASS",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

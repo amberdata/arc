@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "ultra",
+    "assetName": "ULTRA MAGA",
+    "assetArcId": "AMB:ULT000000000",
+    "website": "https://ultramemetoken.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x943aF17C37207c9D7a27D12cb5055542A0b7aFa8"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

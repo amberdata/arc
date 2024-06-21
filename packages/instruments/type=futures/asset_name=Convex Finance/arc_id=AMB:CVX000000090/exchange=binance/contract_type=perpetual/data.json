@@ -32,7 +32,7 @@
         "nativeInstrument": "CVXUSDT",
         "underlying": "CVX",
         "expiration": "",
-        "active": true,
+        "active": false,
         "contractSize": null,
         "contractType": "perpetual",
         "marginType": "linear",

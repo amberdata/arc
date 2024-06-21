@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "SKEB",
         "nativeQuoteSymbol": "USDT",
         "underlying": "SKEB",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": 5000.0,
         "limitsCostMax": null,

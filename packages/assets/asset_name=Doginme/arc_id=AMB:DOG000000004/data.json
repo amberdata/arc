@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "doginme",
+    "assetName": "Doginme",
+    "assetArcId": "AMB:DOG000000004",
+    "website": "https://dogin.meme/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "BASE",
+            "address": "0x6921b130d297cc43754afba22e5eac0fbf8db75b"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "MATIC2S",
         "nativeQuoteSymbol": "USDT",
         "underlying": "MATIC2S",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

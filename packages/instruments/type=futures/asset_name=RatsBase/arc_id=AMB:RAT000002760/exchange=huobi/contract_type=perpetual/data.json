@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "huobi",
+        "nativeInstrument": "RATS-USDT",
+        "underlying": "RATS",
+        "expiration": null,
+        "active": true,
+        "contractSize": 1000.0,
+        "contractType": "perpetual",
+        "marginType": "linear",
+        "limitsAmountMax": null,
+        "limitsAmountMin": null,
+        "limitsCostMax": null,
+        "limitsLeverageMax": null,
+        "limitsLeverageMin": null,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": null,
+        "precisionAmount": null,
+        "precisionBase": null,
+        "precisionPrice": null,
+        "precisionQuote": null,
+        "settleAsset": null,
+        "normalizedInstrument": "RATS-USDT",
+        "instrumentType": "futures",
+        "assetArcId": "AMB:RAT000002760",
+        "assetName": "RatsBase"
+    }
+]

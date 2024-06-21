@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "pepebase",
+    "assetName": "Pepe",
+    "assetArcId": "AMB:PEP000000004",
+    "website": "https://pepeonbase.live/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "BASE",
+            "address": "0x698DC45e4F10966f6D1D98e3bFd7071d8144C233"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

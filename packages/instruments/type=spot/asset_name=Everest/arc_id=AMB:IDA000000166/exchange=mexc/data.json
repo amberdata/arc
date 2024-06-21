@@ -20,7 +20,7 @@
         "precisionBase": 0.01,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 1e-05,
+        "precisionQuote": 0.0001,
         "normalizedInstrument": "id_usdt",
         "normalizedSymbol": "id",
         "assetName": "Everest",

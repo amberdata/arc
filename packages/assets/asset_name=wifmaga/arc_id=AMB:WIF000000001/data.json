@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "wifmaga",
+    "assetName": "wifmaga",
+    "assetArcId": "AMB:WIF000000001",
+    "website": "https://dogwifmagasol.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "JDJd5bjQWRzNWhDQC2Umefa12hdgc34JXPzxN2zL55Zk"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

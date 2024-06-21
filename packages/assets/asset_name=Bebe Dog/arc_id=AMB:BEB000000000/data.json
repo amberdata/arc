@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "bebe",
+    "assetName": "Bebe Dog",
+    "assetArcId": "AMB:BEB000000000",
+    "website": "https://bebe.dog",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Arbitrum",
+            "address": "0x65E314a77655891624163d4315b26ba320745CC1"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

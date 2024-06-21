@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "habibi",
+    "assetName": "HABIBI",
+    "assetArcId": "AMB:HAB000000000",
+    "website": "https://habibi.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "864YJRb3JAVARC4FNuDtPKFxdEsYRbB39Nwxkzudxy46"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

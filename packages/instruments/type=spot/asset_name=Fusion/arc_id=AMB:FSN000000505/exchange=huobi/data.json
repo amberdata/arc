@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "fsn",
         "nativeQuoteSymbol": "usdt",
         "underlying": "fsn",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

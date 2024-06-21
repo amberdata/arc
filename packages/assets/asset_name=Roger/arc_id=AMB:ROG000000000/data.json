@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "roger",
+    "assetName": "Roger",
+    "assetArcId": "AMB:ROG000000000",
+    "website": "https://www.rogeronsol.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "8hN217wBBgRkDiyzabLmSuS95pxX5PFcv3HEM5Ha4ZEv"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

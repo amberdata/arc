@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "AXDT",
         "nativeQuoteSymbol": "USDT",
         "underlying": "axdt",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "KWENTA",
         "nativeQuoteSymbol": "USDT",
         "underlying": "KWENTA",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

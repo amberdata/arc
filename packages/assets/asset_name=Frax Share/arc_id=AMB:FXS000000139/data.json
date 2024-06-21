@@ -5,12 +5,7 @@
     "website": "https://frax.finance/",
     "whitePaperUrl": "https://docs.frax.finance/",
     "classificationTags": [
-        "Governance",
-        "Oracles",
-        "Smart Contract",
-        "Stablecoin",
-        "Staking",
-        "Transparent"
+        "Governance"
     ],
     "miscellaneous": {
         "relatedLinks": [

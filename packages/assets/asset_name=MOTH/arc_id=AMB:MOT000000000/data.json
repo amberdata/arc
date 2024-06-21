@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "moth",
+    "assetName": "MOTH",
+    "assetArcId": "AMB:MOT000000000",
+    "website": "https://mothmemecoin.wtf/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "EfRr6xyFYAwVLSV2sYt68gXwPFfUYayGpEyRoSLGRS5L"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

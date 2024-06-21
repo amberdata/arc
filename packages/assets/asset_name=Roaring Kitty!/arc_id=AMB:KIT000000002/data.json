@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "kitty.amb.1",
+    "assetName": "Roaring Kitty!",
+    "assetArcId": "AMB:KIT000000002",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "EKEWAk7hfnwfR8DBb1cTayPPambqyC7pwNiYkaYQKQHp"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

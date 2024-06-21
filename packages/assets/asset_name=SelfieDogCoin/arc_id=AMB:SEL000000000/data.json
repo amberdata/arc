@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "selfie",
+    "assetName": "SelfieDogCoin",
+    "assetArcId": "AMB:SEL000000000",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "9WPTUkh8fKuCnepRWoPYLH3aK9gSjPHFDenBq2X1Czdp"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

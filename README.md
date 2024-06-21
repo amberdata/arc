@@ -53,7 +53,7 @@ The dataset currently supports the following tags, which can be **expanded** and
 | Proof-of-Stake | Assets that require validation of block transactions by participants who offer their holdings of said asset as collateral to validate transactions |
 | Stablecoin | Assets that are intended to offer participants in the digital asset ecosystem access to blockchain applications and decentralized protocols without being exposed to volatile price action in digitally native tokens |
 | Real World Asset | Assets that are an on-chain tokenized representation of off-chain assets and are pegged to the performance of the underlying off-chain asset |
-| Machine Learning & AI |Assets native to protocols that facilitate model training, inference, predictions, and generative artificial intelligence |
+| Machine Learning & AI | Assets native to protocols that facilitate model training, inference, predictions, and generative artificial intelligence |
 | Gaming | Assets native to applications for blockchain-based gaming and their communities. Decentralized gaming applications often include a native token to incentivize players with monetary rewards based on their participation and success in the game |
 | Metaverse | Assets native to applications and protocols associated with a loose network of virtual worlds where social connections and interactions are the primary function |
 | Advertising | Assets native to applications that facilitate the tokenization of impressions for interacting with ads and marketing campaigns. These tokens correspond with the user’s viewership whereby they are rewarded in the token for their time and attention |

@@ -20,7 +20,7 @@
         "precisionBase": 0.01,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 0.001,
+        "precisionQuote": 1e-09,
         "normalizedInstrument": "wldt_usdt",
         "normalizedSymbol": "wldt",
         "assetName": "WLDT CHAIN",

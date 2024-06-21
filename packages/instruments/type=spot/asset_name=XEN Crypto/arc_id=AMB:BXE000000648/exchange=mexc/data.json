@@ -20,7 +20,7 @@
         "precisionBase": 0.01,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 0.0,
+        "precisionQuote": 1e-13,
         "normalizedInstrument": "bxen_usdt",
         "normalizedSymbol": "bxen",
         "assetName": "XEN Crypto",

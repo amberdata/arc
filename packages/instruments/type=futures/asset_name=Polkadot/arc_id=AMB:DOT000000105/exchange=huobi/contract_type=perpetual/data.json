@@ -1,13 +1,13 @@
 [
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT-USDT",
+        "nativeInstrument": "DOT-USD",
         "underlying": "DOT",
         "expiration": null,
         "active": true,
-        "contractSize": 1.0,
+        "contractSize": 10.0,
         "contractType": "perpetual",
-        "marginType": "linear",
+        "marginType": "inverse",
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,
@@ -22,7 +22,7 @@
         "precisionPrice": null,
         "precisionQuote": null,
         "settleAsset": null,
-        "normalizedInstrument": "DOT-USDT",
+        "normalizedInstrument": "DOT-USD",
         "instrumentType": "futures",
         "assetArcId": "AMB:DOT000000105",
         "assetName": "Polkadot"

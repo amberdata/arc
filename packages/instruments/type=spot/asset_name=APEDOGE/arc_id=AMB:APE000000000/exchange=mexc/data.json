@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "APEDOGE",
         "nativeQuoteSymbol": "USDT",
         "underlying": "apedoge",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

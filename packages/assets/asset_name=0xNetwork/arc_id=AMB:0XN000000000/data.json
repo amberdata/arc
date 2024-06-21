@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "0xnetwork",
+    "assetName": "0xNetwork",
+    "assetArcId": "AMB:0XN000000000",
+    "website": "https://0xnetwork.tech/",
+    "whitePaperUrl": "https://docs-whitepaper.gitbook.io/0xnetwork/",
+    "classificationTags": [
+        "Privacy"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

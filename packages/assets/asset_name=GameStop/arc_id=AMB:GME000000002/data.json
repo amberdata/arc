@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "gmeeth",
+    "assetName": "GameStop",
+    "assetArcId": "AMB:GME000000002",
+    "website": "https://gamestop-coin.vip/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xc56C7A0eAA804f854B536A5F3D5f49D2EC4B12b8"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

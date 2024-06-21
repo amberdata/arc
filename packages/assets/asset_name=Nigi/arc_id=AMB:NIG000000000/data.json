@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "nigi",
+    "assetName": "Nigi",
+    "assetArcId": "AMB:NIG000000000",
+    "website": "https://nigi.lol/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "3boRKAxWR6weV6kufr9ykdLcm9cL5q2p469tCqeCAnHy"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

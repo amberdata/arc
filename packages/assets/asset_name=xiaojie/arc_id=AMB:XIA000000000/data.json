@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "xiao",
+    "assetName": "xiaojie",
+    "assetArcId": "AMB:XIA000000000",
+    "website": "https://xiaojie.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "EDavhezsuNnhdoAKPExWaMtnuhq6FVqoBYnyFEJLLBqC"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

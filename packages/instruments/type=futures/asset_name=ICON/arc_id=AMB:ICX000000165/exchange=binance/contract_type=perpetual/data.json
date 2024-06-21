@@ -32,7 +32,7 @@
         "nativeInstrument": "ICXUSD_PERP",
         "underlying": "ICX",
         "expiration": "",
-        "active": true,
+        "active": false,
         "contractSize": 10.0,
         "contractType": "perpetual",
         "marginType": "inverse",

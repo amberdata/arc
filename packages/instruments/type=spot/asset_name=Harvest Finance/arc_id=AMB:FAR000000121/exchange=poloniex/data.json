@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "FARM",
         "nativeQuoteSymbol": "BTC",
         "underlying": "FARM",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

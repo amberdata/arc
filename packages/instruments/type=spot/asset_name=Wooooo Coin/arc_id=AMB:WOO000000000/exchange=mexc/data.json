@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "WOOOOO",
         "nativeQuoteSymbol": "USDT",
         "underlying": "wooooo",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

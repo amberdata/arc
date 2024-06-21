@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "GROKINU",
         "nativeQuoteSymbol": "USDT",
         "underlying": "grokinu",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

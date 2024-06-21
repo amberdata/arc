@@ -5,6 +5,12 @@
     "website": "https://xexchange.com/",
     "whitePaperUrl": "https://xexchange.com/x-exchange-economics.pdf",
     "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "MultiversX",
+            "address": "https://explorer.multiversx.com/tokens/MEX-455c57"
+        }
+    ],
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=XExchange/arc_id=AMB:MEX000000000/exchange=mexc/data.json"

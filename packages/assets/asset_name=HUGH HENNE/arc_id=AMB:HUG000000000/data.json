@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "hugh",
+    "assetName": "HUGH HENNE",
+    "assetArcId": "AMB:HUG000000000",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Nim Network",
+            "address": "8rXmnm1K8eHjZ3ESCVouhGXCFuEhRstir8VN1cwuTbBJ"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

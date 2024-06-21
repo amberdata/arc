@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "RLTM",
         "nativeQuoteSymbol": "USDT",
         "underlying": "RLTM",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "SAI",
         "nativeQuoteSymbol": "USDT",
         "underlying": "sai",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

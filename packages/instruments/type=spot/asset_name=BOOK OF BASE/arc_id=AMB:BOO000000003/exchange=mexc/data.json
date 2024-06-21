@@ -20,7 +20,7 @@
         "precisionBase": 0.01,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 1e-05,
+        "precisionQuote": 1e-07,
         "normalizedInstrument": "bookofbase_usdt",
         "normalizedSymbol": "bookofbase",
         "assetName": "BOOK OF BASE",

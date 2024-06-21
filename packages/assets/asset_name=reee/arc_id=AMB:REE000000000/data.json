@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "reee",
+    "assetName": "reee",
+    "assetArcId": "AMB:REE000000000",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "4ABXJEK62bfKqPiCbSsUtmb4nfkCNPDGtvLhwQcAWNjc"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

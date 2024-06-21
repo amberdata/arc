@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "bulei",
+    "assetName": "BULEI",
+    "assetArcId": "AMB:BUL000000001",
+    "website": "https://bulei.net/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x069e4Aa272d17D9625aa3B6F863C7EF6CfB96713"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

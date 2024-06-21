@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "peipei",
+    "assetName": "PePei",
+    "assetArcId": "AMB:PEI000000000",
+    "website": "https://peipeicoin.vip/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x3fFEea07a27Fab7ad1df5297fa75e77a43CB5790"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

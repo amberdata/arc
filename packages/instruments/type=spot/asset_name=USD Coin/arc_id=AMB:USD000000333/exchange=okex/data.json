@@ -54,5 +54,33 @@
         "assetName": "USD Coin",
         "assetArcId": "AMB:USD000000333",
         "instrumentType": "spot"
+    },
+    {
+        "exchange": "okex",
+        "nativeInstrument": "USDC-BRL",
+        "nativeBaseSymbol": "USDC",
+        "nativeQuoteSymbol": "BRL",
+        "underlying": "USDC",
+        "active": true,
+        "limitsAmountMax": null,
+        "limitsAmountMin": 0.1,
+        "limitsCostMax": null,
+        "limitsCostMin": null,
+        "limitsLeverageMax": 0.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 0.001,
+        "precisionAmount": 1e-05,
+        "precisionBase": null,
+        "precisionCost": null,
+        "precisionPrice": 0.001,
+        "precisionQuote": null,
+        "normalizedInstrument": "usdc_brl",
+        "normalizedSymbol": "usdc",
+        "assetName": "USD Coin",
+        "assetArcId": "AMB:USD000000333",
+        "instrumentType": "spot"
     }
 ]

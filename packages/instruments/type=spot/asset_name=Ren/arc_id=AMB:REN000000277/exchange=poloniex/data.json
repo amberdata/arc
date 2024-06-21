@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "REN",
         "nativeQuoteSymbol": "BTC",
         "underlying": "REN",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

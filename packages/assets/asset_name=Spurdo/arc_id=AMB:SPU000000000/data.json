@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "spurdoeth",
+    "assetName": "SPURDO",
+    "assetArcId": "AMB:SPU000000000",
+    "website": "https://supertrumpcoin.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x3927FB89F34BbeE63351A6340558Eebf51A19FB8"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

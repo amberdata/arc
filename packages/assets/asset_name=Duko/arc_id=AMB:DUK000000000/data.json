@@ -7,6 +7,12 @@
     "classificationTags": [
         "Meme"
     ],
+    "assetAddresses": [
+        {
+            "blockchainName": "sol",
+            "address": "HLptm5e6rTgh4EKgDpYFrnRHbjpkMyVdEeREEa2G7rf9"
+        }
+    ],
     "miscellaneous": {
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Duko/arc_id=AMB:DUK000000000/exchange=mexc/data.json"

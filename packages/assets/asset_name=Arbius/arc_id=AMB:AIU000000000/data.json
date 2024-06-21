@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "aius",
+    "assetName": "Arbius",
+    "assetArcId": "AMB:AIU000000000",
+    "website": "https://linktr.ee/arbius",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x8AFE4055Ebc86Bd2AFB3940c0095C9aca511d852"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

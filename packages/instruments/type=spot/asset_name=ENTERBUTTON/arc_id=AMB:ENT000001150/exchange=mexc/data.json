@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "ENTC",
         "nativeQuoteSymbol": "USDT",
         "underlying": "entc",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "daddy",
+    "assetName": "DADDY TATE",
+    "assetArcId": "AMB:DAD000000000",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "4Cnk9EPnW5ixfLZatCPJjDB1PUtcRpVVgTQukm9epump"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

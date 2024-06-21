@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "birddog",
+    "assetName": "Bird Dog",
+    "assetArcId": "AMB:BIR000000000",
+    "website": "https://www.solbirddog.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "3XTp12PmKMHxB6YkejaGPUjMGBLKRGgzHWgJuVTsBCoP"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

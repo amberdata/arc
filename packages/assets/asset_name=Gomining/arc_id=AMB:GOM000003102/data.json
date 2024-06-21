@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "gomining",
+    "assetName": "Gomining",
+    "assetArcId": "AMB:GOM000003102",
+    "website": "https://gmt.io/en",
+    "whitePaperUrl": "/how-to-buy/GOMINING?utm_source=mexc&utm_medium=tokenifoGOMINING&utm_campaign=tokeninfo",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Gomining/arc_id=AMB:GOM000003102/exchange=bitfinex/data.json"
+        ]
+    }
+}

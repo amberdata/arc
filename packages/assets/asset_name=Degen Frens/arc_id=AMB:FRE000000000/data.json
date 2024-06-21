@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "frens",
+    "assetName": "Degen Frens",
+    "assetArcId": "AMB:FRE000000000",
+    "website": "https://www.degenfrens.house/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "BASE",
+            "address": "0x72d1eb99bebadc114c52526f55c9bbad5870dd5c"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

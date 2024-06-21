@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "ATID",
         "nativeQuoteSymbol": "USDT",
         "underlying": "atid",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

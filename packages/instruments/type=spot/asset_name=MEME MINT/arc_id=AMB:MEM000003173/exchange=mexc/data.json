@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "MEMEMINT",
         "nativeQuoteSymbol": "USDT",
         "underlying": "mememint",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

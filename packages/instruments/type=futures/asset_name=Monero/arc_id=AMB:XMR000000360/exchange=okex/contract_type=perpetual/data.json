@@ -9,7 +9,7 @@
         "contractType": "perpetual",
         "marginType": "inverse",
         "limitsAmountMax": null,
-        "limitsAmountMin": 1.0,
+        "limitsAmountMin": null,
         "limitsCostMax": null,
         "limitsLeverageMax": null,
         "limitsLeverageMin": null,

@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "speed",
+    "assetName": "Real Speed",
+    "assetArcId": "AMB:SPE000000001",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "5Wd2ALxQfnpgQKCyH4WL9giBiiuuLuJs84CJxfQccvmN"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

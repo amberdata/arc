@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "amcsol",
+    "assetName": "AMC",
+    "assetArcId": "AMB:AMC000000000",
+    "website": "https://amconsolana.pro/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "9jaZhJM6nMHTo4hY9DGabQ1HNuUWhJtm7js1fmKMVpkN"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

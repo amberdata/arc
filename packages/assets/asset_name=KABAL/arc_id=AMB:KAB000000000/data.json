@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "kabal",
+    "assetName": "KABAL",
+    "assetArcId": "AMB:KAB000000000",
+    "website": "https://secretkabal.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "EyVn9ZW86b7FMVThMPjswEjac3YqrLWkzeVZn3nRwt5c"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

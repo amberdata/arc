@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "NMR",
         "nativeQuoteSymbol": "BTC",
         "underlying": "NMR",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

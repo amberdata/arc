@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "SEC",
         "nativeQuoteSymbol": "USDT",
         "underlying": "sec",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

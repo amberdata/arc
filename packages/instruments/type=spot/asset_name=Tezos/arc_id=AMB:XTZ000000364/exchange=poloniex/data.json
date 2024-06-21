@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "XTZ",
         "nativeQuoteSymbol": "BTC",
         "underlying": "XTZ",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

@@ -1,0 +1,23 @@
+{
+    "assetSymbol": "astr",
+    "assetName": "Astar Network",
+    "assetArcId": "AMB:AST000000032",
+    "website": "https://astar.network/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "DEX",
+        "Governance",
+        "Lending",
+        "Smart Contract",
+        "Stablecoin"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Astar zkEVM",
+            "address": ""
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

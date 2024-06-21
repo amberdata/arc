@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "tmania",
+    "assetName": "TRUMP MANIA",
+    "assetArcId": "AMB:TMA000000000",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "HuPspkki5Qdnf5WAU7jtEThkeMhni6XQ23tunZRkZWUi"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "catfrog",
+    "assetName": "CatFrogDogShark",
+    "assetArcId": "AMB:CAT000000006",
+    "website": "https://www.pepeinamemesworld.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "fESbUKjuMY6jzDH9VP8cy4p3pu2q5W2rK2XghVfNseP"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

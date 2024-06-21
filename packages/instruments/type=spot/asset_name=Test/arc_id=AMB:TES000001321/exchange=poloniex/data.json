@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "TEST",
         "nativeQuoteSymbol": "USDT",
         "underlying": "TEST",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

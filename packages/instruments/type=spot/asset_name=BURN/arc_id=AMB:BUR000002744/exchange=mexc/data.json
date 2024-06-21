@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "BURN",
         "nativeQuoteSymbol": "USDT",
         "underlying": "burn",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

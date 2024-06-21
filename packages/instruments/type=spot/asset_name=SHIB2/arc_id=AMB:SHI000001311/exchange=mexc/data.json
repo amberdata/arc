@@ -20,7 +20,7 @@
         "precisionBase": 0.0,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 0.0,
+        "precisionQuote": 1e-12,
         "normalizedInstrument": "shib2_usdt",
         "normalizedSymbol": "shib2",
         "assetName": "SHIB2",

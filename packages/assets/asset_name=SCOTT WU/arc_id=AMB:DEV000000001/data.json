@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "devin",
+    "assetName": "SCOTT WU",
+    "assetArcId": "AMB:DEV000000001",
+    "website": "https://devinonsol.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "7gbEP2TAy5wM3TmMp5utCrRvdJ3FFqYjgN5KDpXiWPmo"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

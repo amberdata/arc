@@ -20,7 +20,7 @@
         "precisionBase": 0.0,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 1e-17,
+        "precisionQuote": 1e-18,
         "normalizedInstrument": "sk_usdt",
         "normalizedSymbol": "sk",
         "assetName": "Strike",

@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "bxt",
+    "assetName": "BXT",
+    "assetArcId": "AMB:BXT000000000",
+    "website": "https://www.basex.fi/",
+    "whitePaperUrl": "https://basex.gitbook.io/docs/whitepaper/introduction",
+    "classificationTags": [
+        "DeFi",
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

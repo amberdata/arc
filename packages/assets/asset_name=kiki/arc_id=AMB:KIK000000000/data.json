@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "kiki",
+    "assetName": "kiki",
+    "assetArcId": "AMB:KIK000000000",
+    "website": "https://kikionsol.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "FePbYijSZfdHvswUhfBqztJ7kzUs5AEBMDi71xQhTtWC"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

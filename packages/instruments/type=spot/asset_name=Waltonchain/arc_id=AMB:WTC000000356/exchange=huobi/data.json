@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "wtc",
         "nativeQuoteSymbol": "usdt",
         "underlying": "wtc",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "REPV2",
         "nativeQuoteSymbol": "BTC",
         "underlying": "REPV2",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

@@ -9,6 +9,7 @@
         "relatedLinks": [
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Ordinals/arc_id=AMB:ORD000000554/exchange=binance/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Ordinals/arc_id=AMB:ORD000000554/exchange=bybit/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Ordinals/arc_id=AMB:ORD000000554/exchange=huobi/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Ordinals/arc_id=AMB:ORD000000554/exchange=okex/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ordinals/arc_id=AMB:ORD000000554/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ordinals/arc_id=AMB:ORD000000554/exchange=bybit/data.json",

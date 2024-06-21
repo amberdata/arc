@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "rmt",
+    "assetName": "RMT",
+    "assetArcId": "AMB:RMT000000000",
+    "website": "http://www.realtymingle.io",
+    "whitePaperUrl": "https://realtymingle.gitbook.io/white-paper",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

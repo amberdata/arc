@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "GAME",
         "nativeQuoteSymbol": "USDT",
         "underlying": "game",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

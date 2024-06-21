@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "htr",
+    "assetName": "HTR",
+    "assetArcId": "AMB:HTR000000000",
+    "website": "https://hathor.network",
+    "whitePaperUrl": "https://s3.amazonaws.com/hathor-public-files/hathor-white-paper.pdf",
+    "classificationTags": [
+        "Layer-1"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

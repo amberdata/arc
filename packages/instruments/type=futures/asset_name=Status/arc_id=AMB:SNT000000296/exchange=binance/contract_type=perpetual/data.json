@@ -4,7 +4,7 @@
         "nativeInstrument": "SNTUSDT",
         "underlying": "SNT",
         "expiration": "",
-        "active": true,
+        "active": false,
         "contractSize": null,
         "contractType": "perpetual",
         "marginType": "linear",

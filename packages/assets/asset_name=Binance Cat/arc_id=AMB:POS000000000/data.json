@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "poseidon",
+    "assetName": "Binance Cat",
+    "assetArcId": "AMB:POS000000000",
+    "website": "https://www.binancecat.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "7owGiGsFSLg7W5wVX1khcZdRAtXoMJPbLzMMXNXvvgsm"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "petoshi",
+    "assetName": "PETOSHI",
+    "assetArcId": "AMB:PET000000001",
+    "website": "https://www.petoshi.io/index",
+    "whitePaperUrl": "https://petoshi.gitbook.io/petoshi-white-paper",
+    "classificationTags": [
+        "Content & Streaming",
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

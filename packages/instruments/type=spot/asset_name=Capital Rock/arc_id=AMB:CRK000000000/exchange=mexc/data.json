@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "CRK",
         "nativeQuoteSymbol": "USDT",
         "underlying": "crk",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

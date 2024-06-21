@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "GOAT",
         "nativeQuoteSymbol": "USDT",
         "underlying": "goat",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

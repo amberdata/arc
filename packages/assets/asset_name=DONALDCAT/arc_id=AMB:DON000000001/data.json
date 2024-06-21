@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "donaldcat",
+    "assetName": "DONALDCAT",
+    "assetArcId": "AMB:DON000000001",
+    "website": "https://trump-your-cat.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "FaUKsgcuqAd9sCaFz3if7ia1DasaxVoNPTXWFs2GScWN"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

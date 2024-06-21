@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "wyac",
+    "assetName": "WOMAN YELLING AT CAT",
+    "assetArcId": "AMB:WYA000000000",
+    "website": "https://taylorarmstrong.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "BEgBsVSKJSxreiCE1XmWWq8arnwit7xDqQXSWYgay9xP"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

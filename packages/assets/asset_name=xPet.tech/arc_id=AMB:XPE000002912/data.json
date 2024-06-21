@@ -1,0 +1,22 @@
+{
+    "assetSymbol": "xpet",
+    "assetName": "xPet.tech",
+    "assetArcId": "AMB:XPE000002912",
+    "website": "https://www.xpet.tech/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Metaverse"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Arbitrum",
+            "address": "0x00CBcF7B3d37844e44b888Bc747bDd75FCf4E555"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=xPet.tech/arc_id=AMB:XPE000002912/exchange=huobi/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=xPet.tech/arc_id=AMB:XPE000002912/exchange=mexc/data.json"
+        ]
+    }
+}

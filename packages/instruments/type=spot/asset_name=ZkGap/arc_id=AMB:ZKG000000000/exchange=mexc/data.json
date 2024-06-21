@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "ZKGAP",
         "nativeQuoteSymbol": "USDT",
         "underlying": "zkgap",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

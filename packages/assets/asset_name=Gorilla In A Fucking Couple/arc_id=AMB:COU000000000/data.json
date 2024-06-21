@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "coupe",
+    "assetName": "Gorilla In A Fucking Couple",
+    "assetArcId": "AMB:COU000000000",
+    "website": "https://www.gorillainafuckingcoupe.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "solana",
+            "address": "FDYEs26DrnS59A2aeRnU1ZF2BsxLGZSbaFCCpzDgDUq3"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

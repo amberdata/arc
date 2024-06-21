@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "CTO",
         "nativeQuoteSymbol": "USDT",
         "underlying": "cto",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

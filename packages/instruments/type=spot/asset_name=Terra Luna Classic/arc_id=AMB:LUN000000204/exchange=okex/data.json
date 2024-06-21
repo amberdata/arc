@@ -54,5 +54,33 @@
         "assetName": "Terra Luna Classic",
         "assetArcId": "AMB:LUN000000204",
         "instrumentType": "spot"
+    },
+    {
+        "exchange": "okex",
+        "nativeInstrument": "LUNC-EUR",
+        "nativeBaseSymbol": "LUNC",
+        "nativeQuoteSymbol": "EUR",
+        "underlying": "LUNC",
+        "active": true,
+        "limitsAmountMax": null,
+        "limitsAmountMin": 10000.0,
+        "limitsCostMax": null,
+        "limitsCostMin": null,
+        "limitsLeverageMax": 0.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 1e-08,
+        "precisionAmount": 1.0,
+        "precisionBase": null,
+        "precisionCost": null,
+        "precisionPrice": 1e-08,
+        "precisionQuote": null,
+        "normalizedInstrument": "lunc_eur",
+        "normalizedSymbol": "lunc",
+        "assetName": "Terra Luna Classic",
+        "assetArcId": "AMB:LUN000000204",
+        "instrumentType": "spot"
     }
 ]

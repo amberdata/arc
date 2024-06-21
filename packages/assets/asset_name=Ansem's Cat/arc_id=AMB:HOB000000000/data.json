@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "hobbes",
+    "assetName": "Ansem's Cat",
+    "assetArcId": "AMB:HOB000000000",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "6n7Janary9fqzxKaJVrhL9TG2F61VbAtwUMu1YZscaQS"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

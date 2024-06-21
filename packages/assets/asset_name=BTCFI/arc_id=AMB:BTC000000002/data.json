@@ -1,0 +1,11 @@
+{
+    "assetSymbol": "btcfi",
+    "assetName": "BTCFI",
+    "assetArcId": "AMB:BTC000000002",
+    "website": "https://www.btcer.fi/",
+    "whitePaperUrl": "https://docs.btcer.fi/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

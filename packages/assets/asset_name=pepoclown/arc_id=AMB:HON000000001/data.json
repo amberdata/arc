@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "honketh",
+    "assetName": "pepoclown",
+    "assetArcId": "AMB:HON000000001",
+    "website": "https://pepoclownhonk.vip/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0xD8E8438CF7bEEd13cFABC82F300Fb6573962c9e3"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

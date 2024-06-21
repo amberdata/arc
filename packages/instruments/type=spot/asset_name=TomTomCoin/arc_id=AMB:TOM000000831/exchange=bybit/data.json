@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "TOMS",
         "nativeQuoteSymbol": "USDT",
         "underlying": "TOMS",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

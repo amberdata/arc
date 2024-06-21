@@ -20,7 +20,7 @@
         "precisionBase": 0.01,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 1e-06,
+        "precisionQuote": 0.0001,
         "normalizedInstrument": "front_usdt",
         "normalizedSymbol": "front",
         "assetName": "Frontier",

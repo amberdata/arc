@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "LMI",
         "nativeQuoteSymbol": "USDT",
         "underlying": "LMI",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

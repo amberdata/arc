@@ -61,7 +61,7 @@
         "nativeBaseSymbol": "ltc",
         "nativeQuoteSymbol": "gbp",
         "underlying": "LTC",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

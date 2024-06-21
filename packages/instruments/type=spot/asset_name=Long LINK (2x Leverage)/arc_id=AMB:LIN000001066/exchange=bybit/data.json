@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "LINK2L",
         "nativeQuoteSymbol": "USDT",
         "underlying": "LINK2L",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

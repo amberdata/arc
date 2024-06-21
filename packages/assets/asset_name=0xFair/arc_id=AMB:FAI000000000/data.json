@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "fair",
+    "assetName": "0xFair",
+    "assetArcId": "AMB:FAI000000000",
+    "website": "https://0xfair.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "BRC",
+            "address": "0x32eca61dc25d0742f238ce523e66b68867625dad"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

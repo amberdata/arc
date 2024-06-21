@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "ETL",
         "nativeQuoteSymbol": "USDT",
         "underlying": "etl",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

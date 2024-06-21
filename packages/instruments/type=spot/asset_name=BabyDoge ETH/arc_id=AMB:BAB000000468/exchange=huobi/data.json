@@ -19,7 +19,7 @@
         "precisionAmount": 0.01,
         "precisionBase": null,
         "precisionCost": 1e-08,
-        "precisionPrice": 0.0,
+        "precisionPrice": 1e-12,
         "precisionQuote": null,
         "normalizedInstrument": "babydoge_usdt",
         "normalizedSymbol": "babydoge",

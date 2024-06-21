@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "kendu",
+    "assetName": "Kendu Inu",
+    "assetArcId": "AMB:KEN000000000",
+    "website": "https://kenduinu.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

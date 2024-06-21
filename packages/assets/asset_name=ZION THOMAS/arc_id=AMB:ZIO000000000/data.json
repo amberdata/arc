@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "zion",
+    "assetName": "ZION THOMAS",
+    "assetArcId": "AMB:ZIO000000000",
+    "website": "https://www.zionthomas.vip/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "8JAoMxhNwJbMPMHTtdUnHafUhr43rbF6odddfFFfzb3N"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

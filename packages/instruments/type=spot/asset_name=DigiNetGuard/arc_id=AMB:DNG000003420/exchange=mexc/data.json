@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "DNG",
         "nativeQuoteSymbol": "USDT",
         "underlying": "dng",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

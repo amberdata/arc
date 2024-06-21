@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "tobi",
+    "assetName": "MOTO DOG",
+    "assetArcId": "AMB:TOB000000000",
+    "website": "https://www.tobimotodog.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "6h4ZKWqb9dDW8jaB4d76LNfP8PoRgiSvQLBHnkuih1Ty"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

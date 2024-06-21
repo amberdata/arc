@@ -1,13 +1,13 @@
 [
     {
         "exchange": "huobi",
-        "nativeInstrument": "BTC-USD",
+        "nativeInstrument": "BTC-USDT",
         "underlying": "BTC",
         "expiration": null,
         "active": true,
-        "contractSize": 100.0,
+        "contractSize": 0.001,
         "contractType": "perpetual",
-        "marginType": "inverse",
+        "marginType": "linear",
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,
@@ -22,7 +22,7 @@
         "precisionPrice": null,
         "precisionQuote": null,
         "settleAsset": null,
-        "normalizedInstrument": "BTC-USD",
+        "normalizedInstrument": "BTC-USDT",
         "instrumentType": "futures",
         "assetArcId": "AMB:BTC000000000",
         "assetName": "Bitcoin"

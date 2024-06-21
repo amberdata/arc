@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "wolfsol",
+    "assetName": "wolf",
+    "assetArcId": "AMB:WOL000000000",
+    "website": "https://thereallandwolf.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "solana",
+            "address": "Faf89929Ni9fbg4gmVZTca7eW6NFg877Jqn6MizT3Gvw"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

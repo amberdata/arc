@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "sdn",
         "nativeQuoteSymbol": "usdt",
         "underlying": "sdn",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,
