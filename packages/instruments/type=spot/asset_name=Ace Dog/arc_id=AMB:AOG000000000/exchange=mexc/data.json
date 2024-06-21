@@ -20,7 +20,7 @@
         "precisionBase": 0.01,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 1e-09,
+        "precisionQuote": 1e-11,
         "normalizedInstrument": "aog_usdt",
         "normalizedSymbol": "aog",
         "assetName": "Ace Dog",

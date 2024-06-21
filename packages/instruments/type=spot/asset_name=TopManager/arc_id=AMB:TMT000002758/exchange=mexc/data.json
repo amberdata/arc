@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "TMT",
         "nativeQuoteSymbol": "USDT",
         "underlying": "tmt",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

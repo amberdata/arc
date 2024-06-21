@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "genie",
+    "assetName": "GENIE",
+    "assetArcId": "AMB:GEN000000002",
+    "website": "https://andrewgenietate.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "solana",
+            "address": "3Jjt8QhbqNoYfSQYHWf8ZsTJwE2CyvmUrzgzJD5Jpump"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

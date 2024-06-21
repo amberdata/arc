@@ -4,7 +4,7 @@
         "nativeInstrument": "STPTUSDT",
         "underlying": "STPT",
         "expiration": "",
-        "active": true,
+        "active": false,
         "contractSize": null,
         "contractType": "perpetual",
         "marginType": "linear",

@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "tbank",
+    "assetName": "TaoBank",
+    "assetArcId": "AMB:TBA000000000",
+    "website": "https://www.taobank.ai/",
+    "whitePaperUrl": "https://docs.taobank.ai/",
+    "classificationTags": [
+        "Lending"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Ethereum",
+            "address": "0x95CcffaE3Eb8767D4a941Ec43280961dde89F4dE"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

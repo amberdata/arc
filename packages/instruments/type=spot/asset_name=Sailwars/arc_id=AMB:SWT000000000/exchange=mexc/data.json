@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "SWT",
         "nativeQuoteSymbol": "USDT",
         "underlying": "swt",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "testsol.amb.1",
+    "assetName": "Test",
+    "assetArcId": "AMB:TES000000001",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "4Hcm1TfA1MvVhCQHvJCcKL7ymUhJZAV7P439H5ZHnKRh"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

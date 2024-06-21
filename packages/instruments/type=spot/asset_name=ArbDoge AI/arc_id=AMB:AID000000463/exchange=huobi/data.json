@@ -19,7 +19,7 @@
         "precisionAmount": 0.01,
         "precisionBase": null,
         "precisionCost": 1e-16,
-        "precisionPrice": 0.0,
+        "precisionPrice": 1e-14,
         "precisionQuote": null,
         "normalizedInstrument": "aidoge_usdt",
         "normalizedSymbol": "aidoge",

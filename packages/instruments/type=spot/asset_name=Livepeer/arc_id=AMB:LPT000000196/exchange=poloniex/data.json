@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "LPT",
         "nativeQuoteSymbol": "BTC",
         "underlying": "LPT",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

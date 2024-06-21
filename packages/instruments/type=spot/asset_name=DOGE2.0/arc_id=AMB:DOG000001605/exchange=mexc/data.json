@@ -20,7 +20,7 @@
         "precisionBase": 0.01,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 0.0,
+        "precisionQuote": 1e-11,
         "normalizedInstrument": "dogecoin2_usdt",
         "normalizedSymbol": "dogecoin2",
         "assetName": "DOGE2.0",

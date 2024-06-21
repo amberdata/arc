@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "mcoin.amb.1",
+    "assetName": "MCOIN",
+    "assetArcId": "AMB:MCO000000000",
+    "website": "https://m20chain.com",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Native Blockchain integration",
+            "address": "https://explorer.m20chain.com"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "miki",
+    "assetName": "MIKI",
+    "assetArcId": "AMB:MIK000000000",
+    "website": "https://www.mikisolana.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "7qtnComv6JkaT9Ey2LUzXGGENnCv7kJTfTihGg9s27FD"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "onit",
         "nativeQuoteSymbol": "usdt",
         "underlying": "onit",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

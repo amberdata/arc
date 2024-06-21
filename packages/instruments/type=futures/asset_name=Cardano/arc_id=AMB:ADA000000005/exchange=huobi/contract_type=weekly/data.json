@@ -421,7 +421,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ADA210430",
+        "nativeInstrument": "ADA",
         "underlying": "ADA",
         "expiration": "2021-04-30 00:00:00",
         "active": false,
@@ -617,7 +617,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ADA",
+        "nativeInstrument": "ADA210625",
         "underlying": "ADA",
         "expiration": "2021-06-25 00:00:00",
         "active": false,
@@ -645,7 +645,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ADA210702",
+        "nativeInstrument": "ADA",
         "underlying": "ADA",
         "expiration": "2021-07-02 00:00:00",
         "active": false,
@@ -729,7 +729,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ADA210723",
+        "nativeInstrument": "ADA",
         "underlying": "ADA",
         "expiration": "2021-07-23 00:00:00",
         "active": false,
@@ -757,7 +757,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ADA",
+        "nativeInstrument": "ADA210730",
         "underlying": "ADA",
         "expiration": "2021-07-30 00:00:00",
         "active": false,
@@ -813,7 +813,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ADA210813",
+        "nativeInstrument": "ADA",
         "underlying": "ADA",
         "expiration": "2021-08-13 00:00:00",
         "active": false,
@@ -981,7 +981,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ADA210924",
+        "nativeInstrument": "ADA",
         "underlying": "ADA",
         "expiration": "2021-09-24 00:00:00",
         "active": false,
@@ -1037,7 +1037,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ADA",
+        "nativeInstrument": "ADA211008",
         "underlying": "ADA",
         "expiration": "2021-10-08 00:00:00",
         "active": false,
@@ -1065,7 +1065,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ADA211015",
+        "nativeInstrument": "ADA",
         "underlying": "ADA",
         "expiration": "2021-10-15 00:00:00",
         "active": false,
@@ -1289,7 +1289,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ADA211210",
+        "nativeInstrument": "ADA",
         "underlying": "ADA",
         "expiration": "2021-12-10 00:00:00",
         "active": false,
@@ -1345,7 +1345,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ADA",
+        "nativeInstrument": "ADA211224",
         "underlying": "ADA",
         "expiration": "2021-12-24 00:00:00",
         "active": false,
@@ -1373,7 +1373,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ADA211231",
+        "nativeInstrument": "ADA",
         "underlying": "ADA",
         "expiration": "2021-12-31 00:00:00",
         "active": false,
@@ -1457,7 +1457,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ADA220121",
+        "nativeInstrument": "ADA",
         "underlying": "ADA",
         "expiration": "2022-01-21 00:00:00",
         "active": false,
@@ -1485,7 +1485,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ADA",
+        "nativeInstrument": "ADA220128",
         "underlying": "ADA",
         "expiration": "2022-01-28 00:00:00",
         "active": false,
@@ -1541,7 +1541,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ADA220211",
+        "nativeInstrument": "ADA",
         "underlying": "ADA",
         "expiration": "2022-02-11 00:00:00",
         "active": false,
@@ -1765,7 +1765,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ADA",
+        "nativeInstrument": "ADA220408",
         "underlying": "ADA",
         "expiration": "2022-04-08 00:00:00",
         "active": false,

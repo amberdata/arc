@@ -20,7 +20,7 @@
         "precisionBase": 0.0,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 0.0,
+        "precisionQuote": 1e-13,
         "normalizedInstrument": "etfsol2024_usdt",
         "normalizedSymbol": "etfsol2024",
         "assetName": "ETFSOL2024",

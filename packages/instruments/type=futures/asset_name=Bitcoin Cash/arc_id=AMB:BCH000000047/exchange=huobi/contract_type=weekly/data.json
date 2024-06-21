@@ -1485,7 +1485,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "BCH220128",
+        "nativeInstrument": "BCH",
         "underlying": "BCH",
         "expiration": "2022-01-28 00:00:00",
         "active": false,
@@ -1569,7 +1569,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "BCH220218",
+        "nativeInstrument": "BCH",
         "underlying": "BCH",
         "expiration": "2022-02-18 00:00:00",
         "active": false,
@@ -1653,7 +1653,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "BCH220311",
+        "nativeInstrument": "BCH",
         "underlying": "BCH",
         "expiration": "2022-03-11 00:00:00",
         "active": false,
@@ -1737,7 +1737,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "BCH220401",
+        "nativeInstrument": "BCH",
         "underlying": "BCH",
         "expiration": "2022-04-01 00:00:00",
         "active": false,
@@ -2661,7 +2661,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "BCH221118",
+        "nativeInstrument": "BCH",
         "underlying": "BCH",
         "expiration": "2022-11-18 00:00:00",
         "active": false,

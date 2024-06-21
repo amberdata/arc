@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "skatecat",
+    "assetName": "Skateboard Cat",
+    "assetArcId": "AMB:SKA000000001",
+    "website": "https://skateboardcatsol.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "8NKJze6oUVRpbpk3TaYHv2se57fv54qMS38bRtnEZqYM"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

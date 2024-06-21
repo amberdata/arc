@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "HY",
         "nativeQuoteSymbol": "USDT",
         "underlying": "hy",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

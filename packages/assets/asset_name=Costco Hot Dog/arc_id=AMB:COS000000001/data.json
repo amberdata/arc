@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "cost",
+    "assetName": "Costco Hot Dog",
+    "assetArcId": "AMB:COS000000001",
+    "website": "https://costcodogsol.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "Av6qVigkb7USQyPXJkUvAEm4f599WTRvd75PUWBA9eNm"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

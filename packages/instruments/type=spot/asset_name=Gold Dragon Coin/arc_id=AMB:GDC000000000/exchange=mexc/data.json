@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "GDCB",
         "nativeQuoteSymbol": "USDT",
         "underlying": "gdcb",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "falx",
+    "assetName": "FALX",
+    "assetArcId": "AMB:FAL000000000",
+    "website": "https://falxdex.com/",
+    "whitePaperUrl": "https://falconx.gitbook.io/falconx",
+    "classificationTags": [
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

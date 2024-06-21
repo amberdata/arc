@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "squidsol",
+    "assetName": "Squid Game",
+    "assetArcId": "AMB:SQU000000001",
+    "website": "https://squidonsol.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "7TKnJjMumNAmks1BCMnNtS3aifDevcELVPE3Zr2s5ikW"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

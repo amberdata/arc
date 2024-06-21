@@ -10,7 +10,7 @@
         "limitsAmountMin": null,
         "limitsCostMax": null,
         "limitsCostMin": null,
-        "limitsLeverageMax": 10.0,
+        "limitsLeverageMax": null,
         "limitsLeverageMin": 1.0,
         "limitsMarketMax": null,
         "limitsMarketMin": null,

@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "OF",
         "nativeQuoteSymbol": "USDT",
         "underlying": "of",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

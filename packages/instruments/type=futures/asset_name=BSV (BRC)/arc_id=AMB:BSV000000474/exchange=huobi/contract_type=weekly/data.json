@@ -1037,7 +1037,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "BSV211008",
+        "nativeInstrument": "BSV",
         "underlying": "BSV",
         "expiration": "2021-10-08 00:00:00",
         "active": false,
@@ -1177,7 +1177,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "BSV211112",
+        "nativeInstrument": "BSV",
         "underlying": "BSV",
         "expiration": "2021-11-12 00:00:00",
         "active": false,
@@ -1261,7 +1261,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "BSV211203",
+        "nativeInstrument": "BSV",
         "underlying": "BSV",
         "expiration": "2021-12-03 00:00:00",
         "active": false,
@@ -1345,7 +1345,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "BSV211224",
+        "nativeInstrument": "BSV",
         "underlying": "BSV",
         "expiration": "2021-12-24 00:00:00",
         "active": false,
@@ -1429,7 +1429,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "BSV220114",
+        "nativeInstrument": "BSV",
         "underlying": "BSV",
         "expiration": "2022-01-14 00:00:00",
         "active": false,
@@ -1513,7 +1513,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "BSV220204",
+        "nativeInstrument": "BSV",
         "underlying": "BSV",
         "expiration": "2022-02-04 00:00:00",
         "active": false,
@@ -1597,7 +1597,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "BSV220225",
+        "nativeInstrument": "BSV",
         "underlying": "BSV",
         "expiration": "2022-02-25 00:00:00",
         "active": false,
@@ -1681,7 +1681,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "BSV220318",
+        "nativeInstrument": "BSV",
         "underlying": "BSV",
         "expiration": "2022-03-18 00:00:00",
         "active": false,
@@ -1765,7 +1765,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "BSV220408",
+        "nativeInstrument": "BSV",
         "underlying": "BSV",
         "expiration": "2022-04-08 00:00:00",
         "active": false,
@@ -2605,7 +2605,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "BSV221104",
+        "nativeInstrument": "BSV",
         "underlying": "BSV",
         "expiration": "2022-11-04 00:00:00",
         "active": false,

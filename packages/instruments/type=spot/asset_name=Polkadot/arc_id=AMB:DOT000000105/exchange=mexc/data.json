@@ -16,7 +16,7 @@
         "limitsMarketMin": null,
         "limitsPriceMax": null,
         "limitsPriceMin": null,
-        "precisionAmount": 0.9999884871,
+        "precisionAmount": 0.9999884871408086,
         "precisionBase": 0.0001,
         "precisionCost": null,
         "precisionPrice": null,

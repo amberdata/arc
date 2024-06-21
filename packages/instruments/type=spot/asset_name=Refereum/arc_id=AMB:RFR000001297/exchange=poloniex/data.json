@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "RFR",
         "nativeQuoteSymbol": "USDT",
         "underlying": "RFR",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

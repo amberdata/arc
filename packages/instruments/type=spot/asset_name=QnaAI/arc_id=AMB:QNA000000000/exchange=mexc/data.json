@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "QNA",
         "nativeQuoteSymbol": "USDT",
         "underlying": "qna",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

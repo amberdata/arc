@@ -54,5 +54,33 @@
         "assetName": "Yield Guild Games",
         "assetArcId": "AMB:YGG000000368",
         "instrumentType": "spot"
+    },
+    {
+        "exchange": "okex",
+        "nativeInstrument": "YGG-EUR",
+        "nativeBaseSymbol": "YGG",
+        "nativeQuoteSymbol": "EUR",
+        "underlying": "YGG",
+        "active": true,
+        "limitsAmountMax": null,
+        "limitsAmountMin": 10.0,
+        "limitsCostMax": null,
+        "limitsCostMin": null,
+        "limitsLeverageMax": 0.0,
+        "limitsLeverageMin": 1.0,
+        "limitsMarketMax": null,
+        "limitsMarketMin": null,
+        "limitsPriceMax": null,
+        "limitsPriceMin": 0.0001,
+        "precisionAmount": 1e-06,
+        "precisionBase": null,
+        "precisionCost": null,
+        "precisionPrice": 0.0001,
+        "precisionQuote": null,
+        "normalizedInstrument": "ygg_eur",
+        "normalizedSymbol": "ygg",
+        "assetName": "Yield Guild Games",
+        "assetArcId": "AMB:YGG000000368",
+        "instrumentType": "spot"
     }
 ]

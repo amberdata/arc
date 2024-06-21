@@ -1,0 +1,14 @@
+{
+    "assetSymbol": "zrs",
+    "assetName": "Zaros Finance",
+    "assetArcId": "AMB:ZRS000000000",
+    "website": "https://www.zaros.fi/",
+    "whitePaperUrl": "https://docs.zaros.fi/overview",
+    "classificationTags": [
+        "Derivatives",
+        "DEX"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

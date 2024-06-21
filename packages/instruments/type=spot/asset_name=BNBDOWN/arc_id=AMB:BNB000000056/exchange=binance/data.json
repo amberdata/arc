@@ -14,7 +14,7 @@
         "limitsLeverageMin": null,
         "limitsMarketMax": 922327.0,
         "limitsMarketMin": 0.0,
-        "limitsPriceMax": 0.00412,
+        "limitsPriceMax": 0.004119,
         "limitsPriceMin": 0.000217,
         "precisionAmount": 0.01,
         "precisionBase": 1e-08,

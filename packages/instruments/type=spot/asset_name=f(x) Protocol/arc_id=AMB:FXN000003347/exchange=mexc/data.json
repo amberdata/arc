@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "FXN",
         "nativeQuoteSymbol": "USDT",
         "underlying": "fxn",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

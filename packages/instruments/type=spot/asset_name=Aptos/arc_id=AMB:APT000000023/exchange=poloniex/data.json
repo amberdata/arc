@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "APT",
         "nativeQuoteSymbol": "USDD",
         "underlying": "APT",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

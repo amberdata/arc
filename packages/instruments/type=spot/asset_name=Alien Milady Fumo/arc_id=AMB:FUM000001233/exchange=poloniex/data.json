@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "FUMO",
         "nativeQuoteSymbol": "USDT",
         "underlying": "FUMO",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

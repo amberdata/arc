@@ -20,7 +20,7 @@
         "precisionBase": 0.01,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 0.0001,
+        "precisionQuote": 1e-07,
         "normalizedInstrument": "hyperai_usdt",
         "normalizedSymbol": "hyperai",
         "assetName": "Hyper AI",

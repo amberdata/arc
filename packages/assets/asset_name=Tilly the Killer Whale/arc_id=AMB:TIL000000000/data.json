@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "tilly",
+    "assetName": "Tilly the Killer Whale",
+    "assetArcId": "AMB:TIL000000000",
+    "website": "https://tillythekillerwhale.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "tiLYBRtBSfhwXe82nfRAYd5EVaqfpV74WsH75we8pki"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

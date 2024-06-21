@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "maru",
+    "assetName": "Maru",
+    "assetArcId": "AMB:MAR000000001",
+    "website": "https://maru.plus/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "maru4DtHRrPytGBgRk81qBLby8f72t23u4Xi3EgPPgJ"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

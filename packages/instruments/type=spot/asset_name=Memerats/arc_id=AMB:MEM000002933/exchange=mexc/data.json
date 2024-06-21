@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "MEMERATS",
         "nativeQuoteSymbol": "USDT",
         "underlying": "memerats",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

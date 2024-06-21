@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "bepe",
+    "assetName": "Baby Pepe",
+    "assetArcId": "AMB:BEP000000000",
+    "website": "https://bepe.meme/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0xdBcD57cc74b180f928258F7B1a32F6f7e64BF12e"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

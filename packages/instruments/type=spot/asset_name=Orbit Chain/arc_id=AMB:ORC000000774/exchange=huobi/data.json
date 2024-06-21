@@ -19,7 +19,7 @@
         "precisionAmount": 0.0001,
         "precisionBase": null,
         "precisionCost": 1e-08,
-        "precisionPrice": 0.0001,
+        "precisionPrice": 1e-05,
         "precisionQuote": null,
         "normalizedInstrument": "orc_usdt",
         "normalizedSymbol": "orc",

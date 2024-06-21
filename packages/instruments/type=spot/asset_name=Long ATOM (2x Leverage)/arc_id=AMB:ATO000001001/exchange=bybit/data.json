@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "ATOM2L",
         "nativeQuoteSymbol": "USDT",
         "underlying": "ATOM2L",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

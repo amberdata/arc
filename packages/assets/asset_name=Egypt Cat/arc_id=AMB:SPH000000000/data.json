@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "sphynx",
+    "assetName": "Egypt Cat",
+    "assetArcId": "AMB:SPH000000000",
+    "website": "https://egyptcat.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "sol",
+            "address": "5t4EVfkb5QU8NZXmTzcSK2bQsNWUr2HL64rRb8i6wpat"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

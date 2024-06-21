@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "chud",
+    "assetName": "Chudjak",
+    "assetArcId": "AMB:CHU000000000",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "6yjNqPzTSanBWSa6dxVEgTjePXBrZ2FoHLDQwYwEsyM6"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

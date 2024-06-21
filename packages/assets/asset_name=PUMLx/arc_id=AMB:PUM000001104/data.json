@@ -1,0 +1,15 @@
+{
+    "assetSymbol": "pumlx",
+    "assetName": "PUMLx",
+    "assetArcId": "AMB:PUM000001104",
+    "website": "https://puml.io",
+    "whitePaperUrl": "https://whitepaper.puml.io/",
+    "classificationTags": [
+        "Gaming"
+    ],
+    "miscellaneous": {
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=PUMLx/arc_id=AMB:PUM000001104/exchange=bybit/data.json"
+        ]
+    }
+}

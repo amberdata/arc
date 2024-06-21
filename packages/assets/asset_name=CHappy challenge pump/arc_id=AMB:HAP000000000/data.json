@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "happy",
+    "assetName": "CHappy challenge pump",
+    "assetArcId": "AMB:HAP000000000",
+    "website": "https://game.com/#/mailbox",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "FigPk2qX3XzTRnbTGmmX4b6ToVfRTMJ3TPwfjWMppump"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

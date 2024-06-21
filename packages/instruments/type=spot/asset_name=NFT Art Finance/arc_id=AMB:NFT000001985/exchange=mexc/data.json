@@ -20,7 +20,7 @@
         "precisionBase": 0.0,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 0.0,
+        "precisionQuote": 1e-14,
         "normalizedInstrument": "nftart_usdt",
         "normalizedSymbol": "nftart",
         "assetName": "NFT Art Finance",

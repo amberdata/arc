@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "hava",
+    "assetName": "HAVA",
+    "assetArcId": "AMB:HAV000000000",
+    "website": "https://havacoin.xyz/",
+    "whitePaperUrl": "https://havacoin.xyz/havapaper.pdf",
+    "classificationTags": [
+        "DeFi"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

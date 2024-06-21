@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "oppie",
+    "assetName": "Tolys cat",
+    "assetArcId": "AMB:OPP000000000",
+    "website": "https://oppie.vip/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "GwyxednWbrhgT2K6iPUsbtadErA7TBGqsJjyzAody2mv"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

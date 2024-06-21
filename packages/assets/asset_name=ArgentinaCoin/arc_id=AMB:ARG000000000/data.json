@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "argsol",
+    "assetName": "ArgentinaCoin",
+    "assetArcId": "AMB:ARG000000000",
+    "website": "https://www.argentinacoin.vip/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "9XRpjZjhJPeWtUymiEWn3FW7uAnMeQca14ucTWWWyP2g"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

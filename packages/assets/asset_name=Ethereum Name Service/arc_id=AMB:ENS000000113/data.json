@@ -16,6 +16,7 @@
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Ethereum Name Service/arc_id=AMB:ENS000000113/exchange=binance/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Ethereum Name Service/arc_id=AMB:ENS000000113/exchange=bybit/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Ethereum Name Service/arc_id=AMB:ENS000000113/exchange=ftx/contract_type=perpetual/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Ethereum Name Service/arc_id=AMB:ENS000000113/exchange=huobi/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=Ethereum Name Service/arc_id=AMB:ENS000000113/exchange=okex/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ethereum Name Service/arc_id=AMB:ENS000000113/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Ethereum Name Service/arc_id=AMB:ENS000000113/exchange=binanceus/data.json",

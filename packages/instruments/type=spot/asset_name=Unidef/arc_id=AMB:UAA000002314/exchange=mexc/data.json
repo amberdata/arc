@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "U",
         "nativeQuoteSymbol": "USDT",
         "underlying": "u",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

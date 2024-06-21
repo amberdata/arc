@@ -1,9 +1,9 @@
 {
     "assetSymbol": "krl",
-    "assetName": "kryll",
+    "assetName": "Kryll",
     "assetArcId": "AMB:KRL000000416",
-    "website": "https://kryll.io/",
-    "whitePaperUrl": "https://kryll.io/pdf/WhitePaper.pdf",
+    "website": "https://www.kryll.io/",
+    "whitePaperUrl": "https://www.kryll.io/whitepaper/",
     "classificationTags": [],
     "assetAddresses": [
         {
@@ -12,6 +12,9 @@
         }
     ],
     "miscellaneous": {
-        "relatedLinks": []
+        "relatedLinks": [
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kryll/arc_id=AMB:KRL000000416/exchange=bybit/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=Kryll/arc_id=AMB:KRL000000416/exchange=gdax/data.json"
+        ]
     }
 }

@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "FCT2",
         "nativeQuoteSymbol": "BTC",
         "underlying": "FCT2",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

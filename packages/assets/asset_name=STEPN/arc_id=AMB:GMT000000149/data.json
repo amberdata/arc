@@ -21,6 +21,7 @@
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=bybit/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=ftx/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=ftx/contract_type=quarterly/data.json",
+            "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=huobi/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=futures/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=okex/contract_type=perpetual/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=binance/data.json",
             "https://github.com/amberdata/arc/blob/main/packages/instruments/type=spot/asset_name=STEPN/arc_id=AMB:GMT000000149/exchange=bithumb/data.json",

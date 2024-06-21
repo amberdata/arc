@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "KEKEC",
         "nativeQuoteSymbol": "USDT",
         "underlying": "KEKEC",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

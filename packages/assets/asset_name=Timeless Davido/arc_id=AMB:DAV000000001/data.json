@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "davido",
+    "assetName": "Timeless Davido",
+    "assetArcId": "AMB:DAV000000001",
+    "website": "https://www.instagram.com/davido/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "9LAjk5F4rFetELE4CygcBbZ5hYc2QhRrbJjfm5Q26jWM"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

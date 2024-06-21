@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "DOGESWAP",
         "nativeQuoteSymbol": "USDT",
         "underlying": "dogeswap",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

@@ -19,7 +19,7 @@
         "precisionAmount": 0.1,
         "precisionBase": null,
         "precisionCost": 1e-08,
-        "precisionPrice": 0.0,
+        "precisionPrice": 1e-14,
         "precisionQuote": null,
         "normalizedInstrument": "smiley_usdt",
         "normalizedSymbol": "smiley",

@@ -2,10 +2,16 @@
     "assetSymbol": "xdc",
     "assetName": "XDC Network",
     "assetArcId": "AMB:XDC000000869",
-    "website": "http://xdc.org/",
+    "website": "https://xdc.org/",
     "whitePaperUrl": "https://xdc.org/resources?target=whitepapers",
     "classificationTags": [
         "Proof-of-Stake"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "XDC Network",
+            "address": ""
+        }
     ],
     "miscellaneous": {
         "relatedLinks": [

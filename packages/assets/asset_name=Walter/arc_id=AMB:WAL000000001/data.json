@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "walter",
+    "assetName": "Walter",
+    "assetArcId": "AMB:WAL000000001",
+    "website": "https://walteronsolana.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "FV56CmR7fhEyPkymKfmviKV48uPo51ti9kAxssQqTDLu"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "gpu",
+    "assetName": "Node AI",
+    "assetArcId": "AMB:GPU000000002",
+    "website": "https://nodeai.app/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Machine Learning & AI",
+        "DePIN"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0x1258d60b224c0c5cd888d37bbf31aa5fcfb7e870"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

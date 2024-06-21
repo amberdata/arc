@@ -20,7 +20,7 @@
         "precisionBase": 0.0,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 0.0,
+        "precisionQuote": 1e-15,
         "normalizedInstrument": "sut_usdt",
         "normalizedSymbol": "sut",
         "assetName": "Shaunt Gaming",

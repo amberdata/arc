@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "ADA2L",
         "nativeQuoteSymbol": "USDT",
         "underlying": "ADA2L",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

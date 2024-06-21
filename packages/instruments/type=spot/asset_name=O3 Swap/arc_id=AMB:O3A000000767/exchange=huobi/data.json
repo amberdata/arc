@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "o3",
         "nativeQuoteSymbol": "usdt",
         "underlying": "o3",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

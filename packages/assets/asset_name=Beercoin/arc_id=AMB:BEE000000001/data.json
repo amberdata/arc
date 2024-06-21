@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "beersol",
+    "assetName": "Beercoin",
+    "assetArcId": "AMB:BEE000000001",
+    "website": "https://beercoin.wtf/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "AujTJJ7aMS8LDo3bFzoyXDwT3jBALUbu4VZhzZdTZLmG"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

@@ -20,7 +20,7 @@
         "precisionBase": 0.0,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 0.0,
+        "precisionQuote": 1e-12,
         "normalizedInstrument": "bonk2_usdt",
         "normalizedSymbol": "bonk2",
         "assetName": "BONK2.0",

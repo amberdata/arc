@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "MBR",
         "nativeQuoteSymbol": "USDT",
         "underlying": "mbr",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

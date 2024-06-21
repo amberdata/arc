@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "trog",
+    "assetName": "Trog",
+    "assetArcId": "AMB:TRO000000000",
+    "website": "https://trog-coin.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x2077D81d0c5258230D5a195233941547cB5f0989"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

@@ -477,7 +477,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "FIL",
+        "nativeInstrument": "FIL210514",
         "underlying": "FIL",
         "expiration": "2021-05-14 00:00:00",
         "active": false,
@@ -561,7 +561,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "FIL",
+        "nativeInstrument": "FIL210604",
         "underlying": "FIL",
         "expiration": "2021-06-04 00:00:00",
         "active": false,
@@ -617,7 +617,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "FIL",
+        "nativeInstrument": "FIL210625",
         "underlying": "FIL",
         "expiration": "2021-06-25 00:00:00",
         "active": false,
@@ -701,7 +701,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "FIL",
+        "nativeInstrument": "FIL210716",
         "underlying": "FIL",
         "expiration": "2021-07-16 00:00:00",
         "active": false,
@@ -785,7 +785,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "FIL",
+        "nativeInstrument": "FIL210806",
         "underlying": "FIL",
         "expiration": "2021-08-06 00:00:00",
         "active": false,
@@ -869,7 +869,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "FIL",
+        "nativeInstrument": "FIL210827",
         "underlying": "FIL",
         "expiration": "2021-08-27 00:00:00",
         "active": false,
@@ -953,7 +953,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "FIL",
+        "nativeInstrument": "FIL210917",
         "underlying": "FIL",
         "expiration": "2021-09-17 00:00:00",
         "active": false,
@@ -1037,7 +1037,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "FIL",
+        "nativeInstrument": "FIL211008",
         "underlying": "FIL",
         "expiration": "2021-10-08 00:00:00",
         "active": false,
@@ -1177,7 +1177,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "FIL",
+        "nativeInstrument": "FIL211112",
         "underlying": "FIL",
         "expiration": "2021-11-12 00:00:00",
         "active": false,
@@ -1261,7 +1261,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "FIL",
+        "nativeInstrument": "FIL211203",
         "underlying": "FIL",
         "expiration": "2021-12-03 00:00:00",
         "active": false,
@@ -1345,7 +1345,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "FIL",
+        "nativeInstrument": "FIL211224",
         "underlying": "FIL",
         "expiration": "2021-12-24 00:00:00",
         "active": false,
@@ -1429,7 +1429,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "FIL",
+        "nativeInstrument": "FIL220114",
         "underlying": "FIL",
         "expiration": "2022-01-14 00:00:00",
         "active": false,
@@ -1513,7 +1513,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "FIL",
+        "nativeInstrument": "FIL220204",
         "underlying": "FIL",
         "expiration": "2022-02-04 00:00:00",
         "active": false,
@@ -1793,7 +1793,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "FIL",
+        "nativeInstrument": "FIL220415",
         "underlying": "FIL",
         "expiration": "2022-04-15 00:00:00",
         "active": false,
@@ -2633,7 +2633,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "FIL",
+        "nativeInstrument": "FIL221111",
         "underlying": "FIL",
         "expiration": "2022-11-11 00:00:00",
         "active": false,

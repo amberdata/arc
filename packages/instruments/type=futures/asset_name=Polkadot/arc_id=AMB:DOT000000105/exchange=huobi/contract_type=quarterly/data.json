@@ -85,7 +85,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "DOT210611",
+        "nativeInstrument": "DOT",
         "underlying": "DOT",
         "expiration": "2021-06-11 00:00:00",
         "active": false,

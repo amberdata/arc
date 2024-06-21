@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "MIBR",
         "nativeQuoteSymbol": "USDT",
         "underlying": "MIBR",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

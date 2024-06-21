@@ -20,7 +20,7 @@
         "precisionBase": 0.0,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 0.0,
+        "precisionQuote": 1e-11,
         "normalizedInstrument": "titan.amb.1_usdt",
         "normalizedSymbol": "titan.amb.1",
         "assetName": "IRON Titanium Token",

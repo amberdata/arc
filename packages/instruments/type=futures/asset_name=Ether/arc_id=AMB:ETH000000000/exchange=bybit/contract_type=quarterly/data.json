@@ -479,7 +479,7 @@
         "exchange": "bybit",
         "nativeInstrument": "ETHUSDZ21",
         "underlying": "ETH",
-        "expiration": "2021-12-01 00:00:00",
+        "expiration": "2021-03-26 00:00:00",
         "active": false,
         "contractSize": null,
         "contractType": "quarterly",

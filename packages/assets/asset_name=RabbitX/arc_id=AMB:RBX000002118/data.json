@@ -2,10 +2,16 @@
     "assetSymbol": "rbx",
     "assetName": "RabbitX",
     "assetArcId": "AMB:RBX000002118",
-    "website": "https://landing.rabbitx.io/",
+    "website": "https://rabbitx.io/",
     "whitePaperUrl": "https://docs.rabbitx.io/",
     "classificationTags": [
         "Derivatives"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ERC20",
+            "address": "0x3Ba925fdeAe6B46d0BB4d424D829982Cb2F7309e"
+        }
     ],
     "miscellaneous": {
         "relatedLinks": []

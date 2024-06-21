@@ -1,0 +1,11 @@
+{
+    "assetSymbol": "bscsats",
+    "assetName": "BscSats",
+    "assetArcId": "AMB:BSC000000000",
+    "website": "http://bscsats.biz/",
+    "whitePaperUrl": "https://docs.bscsats.biz/",
+    "classificationTags": [],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

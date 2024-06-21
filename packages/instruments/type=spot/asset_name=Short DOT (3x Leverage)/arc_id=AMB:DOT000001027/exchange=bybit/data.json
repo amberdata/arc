@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "DOT3S",
         "nativeQuoteSymbol": "USDT",
         "underlying": "DOT3S",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "dwp",
+    "assetName": "Dog wif pixels",
+    "assetArcId": "AMB:DWP000000000",
+    "website": "https://dogwifpixels.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "https://dogwifpixels.com 6CEtEhtVeN3EvxqxXv9sxri8EnpHq983dnsTmqHZf2eg"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

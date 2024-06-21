@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "ONIT",
         "nativeQuoteSymbol": "KRW",
         "underlying": "ONIT",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": 5000000000.0,

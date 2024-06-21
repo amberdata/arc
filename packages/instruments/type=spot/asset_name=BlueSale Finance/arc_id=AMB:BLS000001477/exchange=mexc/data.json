@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "BLS",
         "nativeQuoteSymbol": "USDT",
         "underlying": "bls",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

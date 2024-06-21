@@ -20,7 +20,7 @@
         "precisionBase": 0.0,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 0.0,
+        "precisionQuote": 1e-14,
         "normalizedInstrument": "elon2024_usdt",
         "normalizedSymbol": "elon2024",
         "assetName": "ELON 2024",

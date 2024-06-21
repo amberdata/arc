@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "ffie",
+    "assetName": "Faraday Future",
+    "assetArcId": "AMB:FFI000000000",
+    "website": "https://ffie.pumpamentals.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "3dH1FZwt2b1E3SLBZjUJbuFvA19ETFZ561QSzMnry5uV"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

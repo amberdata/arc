@@ -477,7 +477,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "LINK",
+        "nativeInstrument": "LINK210514",
         "underlying": "LINK",
         "expiration": "2021-05-14 00:00:00",
         "active": false,
@@ -561,7 +561,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "LINK",
+        "nativeInstrument": "LINK210604",
         "underlying": "LINK",
         "expiration": "2021-06-04 00:00:00",
         "active": false,
@@ -611,34 +611,6 @@
         "precisionQuote": null,
         "settleAsset": null,
         "normalizedInstrument": "LINK210618",
-        "instrumentType": "futures",
-        "assetArcId": "AMB:LIN000000192",
-        "assetName": "Chainlink"
-    },
-    {
-        "exchange": "huobi",
-        "nativeInstrument": "LINK",
-        "underlying": "LINK",
-        "expiration": "2021-06-25 00:00:00",
-        "active": false,
-        "contractSize": null,
-        "contractType": "weekly",
-        "marginType": "inverse",
-        "limitsAmountMax": null,
-        "limitsAmountMin": null,
-        "limitsCostMax": null,
-        "limitsLeverageMax": null,
-        "limitsLeverageMin": null,
-        "limitsMarketMax": null,
-        "limitsMarketMin": null,
-        "limitsPriceMax": null,
-        "limitsPriceMin": null,
-        "precisionAmount": null,
-        "precisionBase": null,
-        "precisionPrice": null,
-        "precisionQuote": null,
-        "settleAsset": null,
-        "normalizedInstrument": "LINK210625",
         "instrumentType": "futures",
         "assetArcId": "AMB:LIN000000192",
         "assetName": "Chainlink"
@@ -701,7 +673,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "LINK",
+        "nativeInstrument": "LINK210716",
         "underlying": "LINK",
         "expiration": "2021-07-16 00:00:00",
         "active": false,
@@ -785,7 +757,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "LINK",
+        "nativeInstrument": "LINK210806",
         "underlying": "LINK",
         "expiration": "2021-08-06 00:00:00",
         "active": false,
@@ -869,7 +841,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "LINK",
+        "nativeInstrument": "LINK210827",
         "underlying": "LINK",
         "expiration": "2021-08-27 00:00:00",
         "active": false,
@@ -953,7 +925,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "LINK",
+        "nativeInstrument": "LINK210917",
         "underlying": "LINK",
         "expiration": "2021-09-17 00:00:00",
         "active": false,
@@ -1037,7 +1009,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "LINK",
+        "nativeInstrument": "LINK211008",
         "underlying": "LINK",
         "expiration": "2021-10-08 00:00:00",
         "active": false,
@@ -1177,7 +1149,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "LINK",
+        "nativeInstrument": "LINK211112",
         "underlying": "LINK",
         "expiration": "2021-11-12 00:00:00",
         "active": false,
@@ -1261,7 +1233,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "LINK",
+        "nativeInstrument": "LINK211203",
         "underlying": "LINK",
         "expiration": "2021-12-03 00:00:00",
         "active": false,
@@ -1345,7 +1317,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "LINK",
+        "nativeInstrument": "LINK211224",
         "underlying": "LINK",
         "expiration": "2021-12-24 00:00:00",
         "active": false,
@@ -1429,7 +1401,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "LINK",
+        "nativeInstrument": "LINK220114",
         "underlying": "LINK",
         "expiration": "2022-01-14 00:00:00",
         "active": false,
@@ -1513,7 +1485,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "LINK",
+        "nativeInstrument": "LINK220204",
         "underlying": "LINK",
         "expiration": "2022-02-04 00:00:00",
         "active": false,
@@ -1597,7 +1569,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "LINK",
+        "nativeInstrument": "LINK220225",
         "underlying": "LINK",
         "expiration": "2022-02-25 00:00:00",
         "active": false,
@@ -1681,7 +1653,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "LINK",
+        "nativeInstrument": "LINK220318",
         "underlying": "LINK",
         "expiration": "2022-03-18 00:00:00",
         "active": false,
@@ -1765,7 +1737,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "LINK",
+        "nativeInstrument": "LINK220408",
         "underlying": "LINK",
         "expiration": "2022-04-08 00:00:00",
         "active": false,
@@ -2605,7 +2577,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "LINK",
+        "nativeInstrument": "LINK221104",
         "underlying": "LINK",
         "expiration": "2022-11-04 00:00:00",
         "active": false,

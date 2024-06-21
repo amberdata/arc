@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "PIXELPANIC",
         "nativeQuoteSymbol": "USDT",
         "underlying": "pixelpanic",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

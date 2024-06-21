@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "chan",
+    "assetName": "Memechan",
+    "assetArcId": "AMB:CHA000000003",
+    "website": "https://solana.memechan.gg/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "ChanGGuDHboPswpTmKDfsTVGQL96VHhmvpwrE4UjWssd"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

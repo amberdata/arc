@@ -20,7 +20,7 @@
         "precisionBase": 0.01,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 1e-08,
+        "precisionQuote": 1e-10,
         "normalizedInstrument": "pprowler_usdt",
         "normalizedSymbol": "pprowler",
         "assetName": "PPROWLER",

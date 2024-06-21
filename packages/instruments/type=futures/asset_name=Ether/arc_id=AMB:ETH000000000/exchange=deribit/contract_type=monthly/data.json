@@ -199,7 +199,7 @@
         "exchange": "deribit",
         "nativeInstrument": "ETH-25JUN21",
         "underlying": "ETH",
-        "expiration": "2021-06-25 08:00:00",
+        "expiration": "2025-06-21 00:00:00",
         "active": false,
         "contractSize": null,
         "contractType": "monthly",

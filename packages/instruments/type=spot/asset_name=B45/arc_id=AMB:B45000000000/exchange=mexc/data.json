@@ -20,7 +20,7 @@
         "precisionBase": 0.01,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 1e-07,
+        "precisionQuote": 1e-08,
         "normalizedInstrument": "b45_usdt",
         "normalizedSymbol": "b45",
         "assetName": "B45",

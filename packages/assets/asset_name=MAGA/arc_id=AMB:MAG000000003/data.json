@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "magasol.amb.1",
+    "assetName": "Maga",
+    "assetArcId": "AMB:MAG000000003",
+    "website": "https://magacoin.me/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "sfYDFZJguyF4YLZjje7qwwh41NRymFfZ3QXZbVm7Eyg"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

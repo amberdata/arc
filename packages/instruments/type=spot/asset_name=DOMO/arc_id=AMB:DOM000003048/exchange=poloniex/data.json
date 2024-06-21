@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "DOMO",
         "nativeQuoteSymbol": "USDT",
         "underlying": "DOMO",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

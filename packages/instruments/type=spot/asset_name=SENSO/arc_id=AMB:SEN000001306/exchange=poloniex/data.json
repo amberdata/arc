@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "SENSO",
         "nativeQuoteSymbol": "BTC",
         "underlying": "SENSO",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

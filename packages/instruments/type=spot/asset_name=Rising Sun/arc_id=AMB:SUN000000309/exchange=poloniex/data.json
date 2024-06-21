@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "SUN",
         "nativeQuoteSymbol": "TRX",
         "underlying": "SUN",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

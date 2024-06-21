@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "nohat",
+    "assetName": "DogWifNoHat",
+    "assetArcId": "AMB:NOH000000000",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "5BKTP1cWao5dhr8tkKcfPW9mWkKtuheMEAU6nih2jSX"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "assetSymbol": "gome",
+    "assetName": "Game of Memes",
+    "assetArcId": "AMB:GOM000000000",
+    "website": "https://gome.lol/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Gaming",
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "https://solscan.io/token/8ULCkCTUa3XXrNXaDVzPcja2tdJtRdxRr8T4eZjVKqk"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

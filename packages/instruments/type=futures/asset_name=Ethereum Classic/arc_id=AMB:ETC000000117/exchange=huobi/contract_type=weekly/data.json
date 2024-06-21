@@ -421,7 +421,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC210430",
+        "nativeInstrument": "ETC",
         "underlying": "ETC",
         "expiration": "2021-04-30 00:00:00",
         "active": false,
@@ -617,7 +617,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC",
+        "nativeInstrument": "ETC210625",
         "underlying": "ETC",
         "expiration": "2021-06-25 00:00:00",
         "active": false,
@@ -645,7 +645,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC210702",
+        "nativeInstrument": "ETC",
         "underlying": "ETC",
         "expiration": "2021-07-02 00:00:00",
         "active": false,
@@ -729,7 +729,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC210723",
+        "nativeInstrument": "ETC",
         "underlying": "ETC",
         "expiration": "2021-07-23 00:00:00",
         "active": false,
@@ -757,7 +757,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC",
+        "nativeInstrument": "ETC210730",
         "underlying": "ETC",
         "expiration": "2021-07-30 00:00:00",
         "active": false,
@@ -813,7 +813,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC210813",
+        "nativeInstrument": "ETC",
         "underlying": "ETC",
         "expiration": "2021-08-13 00:00:00",
         "active": false,
@@ -981,7 +981,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC210924",
+        "nativeInstrument": "ETC",
         "underlying": "ETC",
         "expiration": "2021-09-24 00:00:00",
         "active": false,
@@ -1037,7 +1037,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC",
+        "nativeInstrument": "ETC211008",
         "underlying": "ETC",
         "expiration": "2021-10-08 00:00:00",
         "active": false,
@@ -1065,7 +1065,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC211015",
+        "nativeInstrument": "ETC",
         "underlying": "ETC",
         "expiration": "2021-10-15 00:00:00",
         "active": false,
@@ -1289,7 +1289,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC211210",
+        "nativeInstrument": "ETC",
         "underlying": "ETC",
         "expiration": "2021-12-10 00:00:00",
         "active": false,
@@ -1345,7 +1345,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC",
+        "nativeInstrument": "ETC211224",
         "underlying": "ETC",
         "expiration": "2021-12-24 00:00:00",
         "active": false,
@@ -1373,7 +1373,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC211231",
+        "nativeInstrument": "ETC",
         "underlying": "ETC",
         "expiration": "2021-12-31 00:00:00",
         "active": false,
@@ -1457,7 +1457,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC220121",
+        "nativeInstrument": "ETC",
         "underlying": "ETC",
         "expiration": "2022-01-21 00:00:00",
         "active": false,
@@ -1485,7 +1485,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC",
+        "nativeInstrument": "ETC220128",
         "underlying": "ETC",
         "expiration": "2022-01-28 00:00:00",
         "active": false,
@@ -1625,7 +1625,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC",
+        "nativeInstrument": "ETC220304",
         "underlying": "ETC",
         "expiration": "2022-03-04 00:00:00",
         "active": false,
@@ -1709,7 +1709,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC",
+        "nativeInstrument": "ETC220325",
         "underlying": "ETC",
         "expiration": "2022-03-25 00:00:00",
         "active": false,
@@ -1793,7 +1793,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC",
+        "nativeInstrument": "ETC220415",
         "underlying": "ETC",
         "expiration": "2022-04-15 00:00:00",
         "active": false,
@@ -2633,7 +2633,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ETC",
+        "nativeInstrument": "ETC221111",
         "underlying": "ETC",
         "expiration": "2022-11-11 00:00:00",
         "active": false,

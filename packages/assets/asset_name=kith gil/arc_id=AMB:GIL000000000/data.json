@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "gil",
+    "assetName": "kith gil",
+    "assetArcId": "AMB:GIL000000000",
+    "website": "https://kithgil.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "CyUgNnKPQLqFcheyGV8wmypnJqojA7NzsdJjTS4nUT2j"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

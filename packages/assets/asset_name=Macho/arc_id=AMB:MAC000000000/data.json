@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "macho",
+    "assetName": "Macho",
+    "assetArcId": "AMB:MAC000000000",
+    "website": "https://www.machothedog.xyz/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "solana",
+            "address": "8zFovnzXzK9JDiftGaw7wiRxARrRtvm9Lz12vJ8CZ5ZA"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

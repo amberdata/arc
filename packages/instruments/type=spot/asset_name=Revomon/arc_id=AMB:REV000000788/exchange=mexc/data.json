@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "REVO",
         "nativeQuoteSymbol": "USDT",
         "underlying": "revo",
-        "active": false,
+        "active": true,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

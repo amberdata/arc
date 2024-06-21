@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "AINS",
         "nativeQuoteSymbol": "USDT",
         "underlying": "ains",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "BABYTOMCAT",
         "nativeQuoteSymbol": "USDT",
         "underlying": "babytomcat",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

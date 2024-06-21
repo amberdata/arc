@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "moocat",
+    "assetName": "Moocat",
+    "assetArcId": "AMB:MOO000000001",
+    "website": "https://getbootstrap.com/docs/5.0/examples/carousel/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "FuLH3f9TPxiLNojPBZxfaT5Rb5VFfia8hMzLo9e9c6CG"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

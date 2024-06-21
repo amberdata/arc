@@ -85,7 +85,7 @@
     },
     {
         "exchange": "huobi",
-        "nativeInstrument": "ADA210611",
+        "nativeInstrument": "ADA",
         "underlying": "ADA",
         "expiration": "2021-06-11 00:00:00",
         "active": false,

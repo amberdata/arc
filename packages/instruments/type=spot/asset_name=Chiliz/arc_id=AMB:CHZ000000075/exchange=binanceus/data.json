@@ -12,7 +12,7 @@
         "limitsCostMin": 1.0,
         "limitsLeverageMax": null,
         "limitsLeverageMin": null,
-        "limitsMarketMax": 52850.54166666,
+        "limitsMarketMax": 42000.16666666,
         "limitsMarketMin": 0.0,
         "limitsPriceMax": 1000.0,
         "limitsPriceMin": 1e-05,

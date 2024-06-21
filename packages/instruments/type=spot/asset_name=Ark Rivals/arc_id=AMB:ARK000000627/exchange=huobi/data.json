@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "arkn",
         "nativeQuoteSymbol": "usdt",
         "underlying": "arkn",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

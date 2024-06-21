@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "cok",
+    "assetName": "COK the cat",
+    "assetArcId": "AMB:COK000000000",
+    "website": "https://catownkimono.com/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "Dnb9dLSXxAarXVexehzeH8W8nFmLMNJSuGoaddZSwtog"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

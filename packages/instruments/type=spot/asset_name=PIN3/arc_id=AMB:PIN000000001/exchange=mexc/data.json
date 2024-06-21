@@ -20,7 +20,7 @@
         "precisionBase": 0.01,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 0.001,
+        "precisionQuote": 1e-08,
         "normalizedInstrument": "pin_usdt",
         "normalizedSymbol": "pin",
         "assetName": "PIN3",

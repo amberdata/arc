@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "nstr",
+    "assetName": "NSTR",
+    "assetArcId": "AMB:NST000000000",
+    "website": "https://nostra.finance/",
+    "whitePaperUrl": "https://docs.nostra.finance/",
+    "classificationTags": [
+        "DeFi"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

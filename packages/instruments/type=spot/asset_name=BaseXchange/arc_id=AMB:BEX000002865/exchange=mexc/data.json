@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "BEX1",
         "nativeQuoteSymbol": "USDT",
         "underlying": "bex1",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

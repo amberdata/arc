@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "phcr",
         "nativeQuoteSymbol": "usdt",
         "underlying": "phcr",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

@@ -20,7 +20,7 @@
         "precisionBase": 0.01,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 0.001,
+        "precisionQuote": 0.0001,
         "normalizedInstrument": "zyn_usdt",
         "normalizedSymbol": "zyn",
         "assetName": "ZYN",

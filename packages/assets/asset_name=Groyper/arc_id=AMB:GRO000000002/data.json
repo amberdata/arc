@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "groyper",
+    "assetName": "Groyper",
+    "assetArcId": "AMB:GRO000000002",
+    "website": "https://groypereth.vip/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "0x6942806D1B2d5886D95cE2f04314ece8eb825833"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

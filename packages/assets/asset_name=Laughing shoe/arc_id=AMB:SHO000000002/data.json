@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "shoe",
+    "assetName": "Laughing shoe",
+    "assetArcId": "AMB:SHO000000002",
+    "website": "https://michisolana.org/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "8XVXzmsMMw7ufa8RC21fHcDP6TGti5y3ZidQinnYurqr"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

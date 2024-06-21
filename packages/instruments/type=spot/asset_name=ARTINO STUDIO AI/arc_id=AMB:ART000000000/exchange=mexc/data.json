@@ -20,7 +20,7 @@
         "precisionBase": 0.01,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 1e-07,
+        "precisionQuote": 1e-10,
         "normalizedInstrument": "artino_usdt",
         "normalizedSymbol": "artino",
         "assetName": "ARTINO STUDIO AI",

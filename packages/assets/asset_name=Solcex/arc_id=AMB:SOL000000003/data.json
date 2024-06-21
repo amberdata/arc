@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "solcex",
+    "assetName": "Solcex",
+    "assetArcId": "AMB:SOL000000003",
+    "website": "https://solcex.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "Solana",
+            "address": "AMjzRn1TBQwQfNAjHFeBb7uGbbqbJB7FzXAnGgdFPk6K"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

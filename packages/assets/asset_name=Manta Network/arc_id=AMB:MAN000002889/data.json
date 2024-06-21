@@ -5,12 +5,9 @@
     "website": "https://manta.network/",
     "whitePaperUrl": null,
     "classificationTags": [
-        "Governance",
-        "Lending",
-        "Privacy",
-        "Proof-of-Stake",
-        "Smart Contract",
-        "Staking"
+        "Staking",
+        "Layer-2",
+        "Governance"
     ],
     "miscellaneous": {
         "relatedLinks": [

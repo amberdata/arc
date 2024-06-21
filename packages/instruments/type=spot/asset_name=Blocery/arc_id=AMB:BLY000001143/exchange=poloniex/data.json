@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "BLY",
         "nativeQuoteSymbol": "USDT",
         "underlying": "BLY",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

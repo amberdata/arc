@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "PLAY",
         "nativeQuoteSymbol": "USDT",
         "underlying": "PLAY",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "klaychain",
+    "assetName": "KLAYCHAIN",
+    "assetArcId": "AMB:KLA000000000",
+    "website": "https://www.klaychain.tech/",
+    "whitePaperUrl": "https://docs.klaychain.tech/",
+    "classificationTags": [
+        "Layer-2"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

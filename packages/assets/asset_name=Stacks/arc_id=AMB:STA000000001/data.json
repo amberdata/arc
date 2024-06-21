@@ -1,0 +1,19 @@
+{
+    "assetSymbol": "stacks",
+    "assetName": "stacks",
+    "assetArcId": "AMB:STA000000001",
+    "website": "https://slapcity.io/",
+    "whitePaperUrl": null,
+    "classificationTags": [
+        "Meme"
+    ],
+    "assetAddresses": [
+        {
+            "blockchainName": "ETH",
+            "address": "8npbXTu4oTNw3xrMGY1aTm4CtB7cMPVuRUCh3Wqj3fSW"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

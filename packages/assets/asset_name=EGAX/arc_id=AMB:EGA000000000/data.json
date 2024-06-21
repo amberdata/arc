@@ -1,0 +1,13 @@
+{
+    "assetSymbol": "egax",
+    "assetName": "EGAX",
+    "assetArcId": "AMB:EGA000000000",
+    "website": "https://www.egochain.org/",
+    "whitePaperUrl": "https://www.egochain.org/whitepaper",
+    "classificationTags": [
+        "Layer-1"
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

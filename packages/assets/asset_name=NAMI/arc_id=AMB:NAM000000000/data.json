@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "nami",
+    "assetName": "NAMI",
+    "assetArcId": "AMB:NAM000000000",
+    "website": "https://namionsol.club/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "Em9zr2tgSmGgRbz3kxyQeRXjRi9oc13wMu6cKam4zWFW"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "NEER",
         "nativeQuoteSymbol": "USDT",
         "underlying": "neer",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

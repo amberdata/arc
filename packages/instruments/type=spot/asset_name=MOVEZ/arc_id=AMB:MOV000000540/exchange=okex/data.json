@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "MOVEZ",
         "nativeQuoteSymbol": "USDT",
         "underlying": "MOVEZ",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": 10000.0,
         "limitsCostMax": null,

@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "TGMT",
         "nativeQuoteSymbol": "USDT",
         "underlying": "tgmt",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

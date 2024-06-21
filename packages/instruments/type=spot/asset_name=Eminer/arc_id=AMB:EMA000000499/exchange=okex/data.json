@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "EM",
         "nativeQuoteSymbol": "USDT",
         "underlying": "EM",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": 100.0,
         "limitsCostMax": null,

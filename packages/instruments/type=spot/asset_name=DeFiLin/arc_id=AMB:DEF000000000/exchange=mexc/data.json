@@ -48,7 +48,7 @@
         "precisionBase": 0.01,
         "precisionCost": null,
         "precisionPrice": null,
-        "precisionQuote": 1e-10,
+        "precisionQuote": 1e-14,
         "normalizedInstrument": "def_usdt",
         "normalizedSymbol": "def",
         "assetName": "DeFiLin",

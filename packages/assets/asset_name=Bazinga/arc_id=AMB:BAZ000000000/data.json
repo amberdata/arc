@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "bazinga",
+    "assetName": "Bazinga",
+    "assetArcId": "AMB:BAZ000000000",
+    "website": "/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "C3JX9TWLqHKmcoTDTppaJebX2U7DcUQDEHVSmJFz6K6S"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

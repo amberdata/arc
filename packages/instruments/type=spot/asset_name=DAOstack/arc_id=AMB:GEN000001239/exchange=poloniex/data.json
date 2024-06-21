@@ -19,7 +19,7 @@
         "precisionAmount": 1e-08,
         "precisionBase": null,
         "precisionCost": null,
-        "precisionPrice": 0.0,
+        "precisionPrice": 1e-12,
         "precisionQuote": 1e-08,
         "normalizedInstrument": "gen_usdt",
         "normalizedSymbol": "gen",

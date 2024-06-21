@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "KTK",
         "nativeQuoteSymbol": "USDT",
         "underlying": "ktk",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,

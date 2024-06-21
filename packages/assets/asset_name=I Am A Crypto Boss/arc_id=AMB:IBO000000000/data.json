@@ -1,0 +1,17 @@
+{
+    "assetSymbol": "iboss",
+    "assetName": "I Am A Crypto Boss",
+    "assetArcId": "AMB:IBO000000000",
+    "website": "https://app.bitrealms.ai/",
+    "whitePaperUrl": null,
+    "classificationTags": [],
+    "assetAddresses": [
+        {
+            "blockchainName": "SOL",
+            "address": "CnKqniq2e9xxE5v2k293YvBYv1v6DHAnJTpUSj9AXAUU"
+        }
+    ],
+    "miscellaneous": {
+        "relatedLinks": []
+    }
+}

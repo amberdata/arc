@@ -5,7 +5,7 @@
         "nativeBaseSymbol": "AKRO",
         "nativeQuoteSymbol": "BTC",
         "underlying": "AKRO",
-        "active": true,
+        "active": false,
         "limitsAmountMax": null,
         "limitsAmountMin": null,
         "limitsCostMax": null,
