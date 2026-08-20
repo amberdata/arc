@@ -4,7 +4,9 @@
     "assetArcId": "AMB:DAW000000961",
     "website": "https://www.dawn.org/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Gaming"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

@@ -4,7 +4,9 @@
     "assetArcId": "AMB:FOO000001230",
     "website": "https://foom.club/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Machine Learning & AI"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

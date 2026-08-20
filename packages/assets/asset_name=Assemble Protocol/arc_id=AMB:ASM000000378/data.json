@@ -4,7 +4,9 @@
     "assetArcId": "AMB:ASM000000378",
     "website": "https://assembleprotocol.io/",
     "whitePaperUrl": "https://assembleprotocol.io/paper/assemble_whitepaper_ver1.0_ENG.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "Machine Learning & AI"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

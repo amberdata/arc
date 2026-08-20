@@ -4,7 +4,9 @@
     "assetArcId": "AMB:DED000001217",
     "website": "https://dedepepekiller.com/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Meme"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

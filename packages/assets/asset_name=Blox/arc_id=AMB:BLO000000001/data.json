@@ -4,7 +4,9 @@
     "assetArcId": "AMB:BLO000000001",
     "website": "https://www.blox.pro/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Machine Learning & AI"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

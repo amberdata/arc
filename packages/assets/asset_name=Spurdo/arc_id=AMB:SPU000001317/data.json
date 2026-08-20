@@ -4,7 +4,9 @@
     "assetArcId": "AMB:SPU000001317",
     "website": "https://spurdo.com/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Meme"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

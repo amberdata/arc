@@ -4,7 +4,9 @@
     "assetArcId": "AMB:BSW000001206",
     "website": "https://baseswap.fi/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "DeFi"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Base",

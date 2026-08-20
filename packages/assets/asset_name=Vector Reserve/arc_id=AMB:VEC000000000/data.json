@@ -4,7 +4,9 @@
     "assetArcId": "AMB:VEC000000000",
     "website": "https://www.vectorreserve.com/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "DeFi"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

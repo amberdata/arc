@@ -4,7 +4,9 @@
     "assetArcId": "AMB:PAA000003147",
     "website": "https://paalai.io/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Machine Learning & AI"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

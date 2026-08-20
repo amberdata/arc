@@ -5,7 +5,8 @@
     "website": "https://clover.finance/",
     "whitePaperUrl": "https://clover.finance/litepaper.pdf",
     "classificationTags": [
-        "Smart Contract"
+        "Smart Contract",
+        "DeFi"
     ],
     "assetAddresses": [
         {

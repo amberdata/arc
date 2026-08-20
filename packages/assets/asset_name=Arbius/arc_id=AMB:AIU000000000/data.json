@@ -4,7 +4,9 @@
     "assetArcId": "AMB:AIU000000000",
     "website": "https://linktr.ee/arbius",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Machine Learning & AI"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "ETH",

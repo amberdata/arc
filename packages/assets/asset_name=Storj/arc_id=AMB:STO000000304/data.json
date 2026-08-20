@@ -4,7 +4,9 @@
     "assetArcId": "AMB:STO000000304",
     "website": "https://www.storj.io/",
     "whitePaperUrl": "https://www.storj.io/whitepaper",
-    "classificationTags": [],
+    "classificationTags": [
+        "DePIN"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

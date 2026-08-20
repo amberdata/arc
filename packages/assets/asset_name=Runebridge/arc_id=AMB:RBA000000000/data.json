@@ -4,7 +4,9 @@
     "assetArcId": "AMB:RBA000000000",
     "website": "https://runesbridge.xyz/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "DeFi"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

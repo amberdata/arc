@@ -4,7 +4,9 @@
     "assetArcId": "AMB:GME000000002",
     "website": "https://gamestop-coin.vip/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Gaming"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "ETH",

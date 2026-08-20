@@ -4,7 +4,9 @@
     "assetArcId": "AMB:TOS000002963",
     "website": "https://www.toshithecat.com/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Meme"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Base",

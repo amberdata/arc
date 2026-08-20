@@ -4,7 +4,9 @@
     "assetArcId": "AMB:MOG000001267",
     "website": "https://www.mogcoin.xyz/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Meme"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

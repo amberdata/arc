@@ -4,7 +4,9 @@
     "assetArcId": "AMB:MOB000000000",
     "website": "https://launchmoby.com/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "DeFi"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

@@ -4,7 +4,9 @@
     "assetArcId": "AMB:NEU000000001",
     "website": "https://neurahub.app/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Machine Learning & AI"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

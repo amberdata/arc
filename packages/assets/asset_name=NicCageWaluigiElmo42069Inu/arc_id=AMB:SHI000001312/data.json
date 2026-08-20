@@ -4,7 +4,9 @@
     "assetArcId": "AMB:SHI000001312",
     "website": "https://niccagewaluigielmo.com/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Meme"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

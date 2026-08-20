@@ -4,7 +4,9 @@
     "assetArcId": "AMB:AUR000000380",
     "website": "https://www.aurorachain.io/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Layer-2"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

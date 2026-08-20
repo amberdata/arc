@@ -4,7 +4,9 @@
     "assetArcId": "AMB:MOZ000000000",
     "website": "https://mozaic.finance/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Machine Learning & AI"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Arbitrum",

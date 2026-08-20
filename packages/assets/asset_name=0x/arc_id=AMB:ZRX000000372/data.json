@@ -4,7 +4,9 @@
     "assetArcId": "AMB:ZRX000000372",
     "website": "https://0x.org/",
     "whitePaperUrl": "https://0x.org/pdfs/0x_white_paper.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "DEX"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

@@ -4,7 +4,9 @@
     "assetArcId": "AMB:ATO000001426",
     "website": "https://ator.io/",
     "whitePaperUrl": "https://docs.ator.io/",
-    "classificationTags": [],
+    "classificationTags": [
+        "Privacy"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

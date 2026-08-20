@@ -4,7 +4,9 @@
     "assetArcId": "AMB:BIG000001200",
     "website": "https://bigeyes.space",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Meme"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

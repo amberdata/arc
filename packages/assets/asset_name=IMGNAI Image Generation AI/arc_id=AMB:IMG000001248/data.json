@@ -4,7 +4,9 @@
     "assetArcId": "AMB:IMG000001248",
     "website": "https://imgnai.com/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Machine Learning & AI"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

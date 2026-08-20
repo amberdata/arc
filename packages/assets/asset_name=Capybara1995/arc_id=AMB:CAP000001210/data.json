@@ -4,7 +4,9 @@
     "assetArcId": "AMB:CAP000001210",
     "website": "https://www.getinnotimetoexplain.com/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Meme"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

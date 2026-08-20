@@ -5,7 +5,8 @@
     "website": "https://www.ata.network/",
     "whitePaperUrl": "https://docs.ata.network/papers/lightpaper.pdf",
     "classificationTags": [
-        "DEX"
+        "DEX",
+        "Privacy"
     ],
     "assetAddresses": [
         {

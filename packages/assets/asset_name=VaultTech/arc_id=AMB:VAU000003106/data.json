@@ -4,7 +4,9 @@
     "assetArcId": "AMB:VAU000003106",
     "website": "https://vault.tech/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Machine Learning & AI"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

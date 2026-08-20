@@ -4,7 +4,9 @@
     "assetArcId": "AMB:SKL000000294",
     "website": "https://skale.space/",
     "whitePaperUrl": "https://skale.space/whitepaper",
-    "classificationTags": [],
+    "classificationTags": [
+        "Staking"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

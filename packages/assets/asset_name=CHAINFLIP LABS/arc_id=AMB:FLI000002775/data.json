@@ -4,7 +4,9 @@
     "assetArcId": "AMB:FLI000002775",
     "website": "https://chainflip.io/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "DEX"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",
