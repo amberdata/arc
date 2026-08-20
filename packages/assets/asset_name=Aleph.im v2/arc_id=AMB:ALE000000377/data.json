@@ -5,7 +5,8 @@
     "website": "https://aleph.im/",
     "whitePaperUrl": "https://github.com/moshemalawach/aleph-whitepaper/raw/master/aleph-whitepaper.pdf",
     "classificationTags": [
-        "Layer-2"
+        "Layer-2",
+        "DeFi"
     ],
     "assetAddresses": [
         {

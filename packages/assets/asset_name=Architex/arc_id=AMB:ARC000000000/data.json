@@ -4,7 +4,9 @@
     "assetArcId": "AMB:ARC000000000",
     "website": "https://architex.ai/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Machine Learning & AI"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

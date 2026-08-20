@@ -6,7 +6,10 @@
     "whitePaperUrl": "https://cryptex.finance/White_Paper.pdf",
     "classificationTags": [
         "Governance",
-        "Smart Contract"
+        "Smart Contract",
+        "Lending",
+        "DeFi",
+        "Derivatives"
     ],
     "assetAddresses": [
         {

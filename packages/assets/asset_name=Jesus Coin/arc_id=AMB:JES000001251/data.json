@@ -4,7 +4,9 @@
     "assetArcId": "AMB:JES000001251",
     "website": "https://www.jesus.toys/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Meme"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

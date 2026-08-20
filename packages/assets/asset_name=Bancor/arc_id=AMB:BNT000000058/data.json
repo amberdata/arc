@@ -4,7 +4,9 @@
     "assetArcId": "AMB:BNT000000058",
     "website": "https://bancor.network/",
     "whitePaperUrl": "https://resources.carbondefi.xyz/pages/CarbonWhitepaper.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "DEX"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

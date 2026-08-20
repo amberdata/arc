@@ -4,7 +4,9 @@
     "assetArcId": "AMB:FAC000001227",
     "website": "https://defactor.com/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "DeFi"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

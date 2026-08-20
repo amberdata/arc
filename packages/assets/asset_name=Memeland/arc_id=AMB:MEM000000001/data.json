@@ -4,7 +4,10 @@
     "assetArcId": "AMB:MEM000000001",
     "website": "https://www.memeland.com/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Meme",
+        "Yield"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

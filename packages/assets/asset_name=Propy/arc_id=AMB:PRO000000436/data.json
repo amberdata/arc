@@ -4,7 +4,9 @@
     "assetArcId": "AMB:PRO000000436",
     "website": "https://propy.com/",
     "whitePaperUrl": "https://propy.com/browse/wp-content/uploads/2019/04/Propy-White-Paper-17-Jul-2017.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "Real World Asset"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

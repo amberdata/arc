@@ -4,7 +4,9 @@
     "assetArcId": "AMB:PLA000000252",
     "website": "https://playdapp.io/",
     "whitePaperUrl": "https://playdapp.io/document/Playdapp_1Page_Eng_0716.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "Gaming"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

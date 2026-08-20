@@ -4,7 +4,9 @@
     "assetArcId": "AMB:SYN000000313",
     "website": "https://synapseprotocol.com/",
     "whitePaperUrl": "https://docs.synapseprotocol.com/how-it-works/syn",
-    "classificationTags": [],
+    "classificationTags": [
+        "Blockchain Infrastructure"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

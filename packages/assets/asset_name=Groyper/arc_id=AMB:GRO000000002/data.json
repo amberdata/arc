@@ -4,7 +4,9 @@
     "assetArcId": "AMB:GRO000000002",
     "website": "https://groypereth.vip/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Meme"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "ETH",

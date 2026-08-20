@@ -4,7 +4,9 @@
     "assetArcId": "AMB:UNF000000331",
     "website": "https://unifiprotocol.com/",
     "whitePaperUrl": "https://unifiprotocol.com/litepaper/",
-    "classificationTags": [],
+    "classificationTags": [
+        "Staking"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

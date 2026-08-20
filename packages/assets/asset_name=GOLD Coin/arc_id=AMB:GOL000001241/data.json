@@ -4,7 +4,9 @@
     "assetArcId": "AMB:GOL000001241",
     "website": "https://hodl.gold/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Meme"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

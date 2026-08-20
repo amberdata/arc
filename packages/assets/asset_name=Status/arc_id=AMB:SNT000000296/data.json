@@ -5,7 +5,8 @@
     "website": "http://status.im/",
     "whitePaperUrl": "https://status.im/whitepaper.pdf",
     "classificationTags": [
-        "DEX"
+        "DEX",
+        "Privacy"
     ],
     "assetAddresses": [
         {

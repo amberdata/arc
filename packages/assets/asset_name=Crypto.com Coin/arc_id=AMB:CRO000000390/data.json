@@ -5,7 +5,9 @@
     "website": "https://crypto.org/",
     "whitePaperUrl": "https://crypto.com/images/crypto_com_whitepaper.pdf",
     "classificationTags": [
-        "Metaverse"
+        "Metaverse",
+        "Remittance",
+        "DEX"
     ],
     "assetAddresses": [
         {

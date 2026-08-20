@@ -4,7 +4,9 @@
     "assetArcId": "AMB:AMP000000018",
     "website": "https://amptoken.org/",
     "whitePaperUrl": "https://amptoken.org/whitepaper.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "Remittance"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

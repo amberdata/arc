@@ -4,7 +4,9 @@
     "assetArcId": "AMB:MND000000001",
     "website": "https://mindlang.ai/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Machine Learning & AI"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

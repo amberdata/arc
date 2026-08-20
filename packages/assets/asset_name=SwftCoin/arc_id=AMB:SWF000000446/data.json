@@ -4,7 +4,9 @@
     "assetArcId": "AMB:SWF000000446",
     "website": "https://www.swft.pro/",
     "whitePaperUrl": "https://github.com/SwftCoins/SwftCoin/blob/master/SWFT%20WhitePaper.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "Remittance"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

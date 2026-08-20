@@ -4,7 +4,9 @@
     "assetArcId": "AMB:KRL000000416",
     "website": "https://www.kryll.io/",
     "whitePaperUrl": "https://www.kryll.io/whitepaper/",
-    "classificationTags": [],
+    "classificationTags": [
+        "Machine Learning & AI"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

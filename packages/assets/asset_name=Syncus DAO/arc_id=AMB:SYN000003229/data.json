@@ -4,7 +4,9 @@
     "assetArcId": "AMB:SYN000003229",
     "website": "https://syncus.fi/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "DeFi"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

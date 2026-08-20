@@ -5,7 +5,8 @@
     "website": "https://cartesi.io/",
     "whitePaperUrl": "https://cartesi.io/cartesi_whitepaper.pdf",
     "classificationTags": [
-        "Governance"
+        "Governance",
+        "Layer-2"
     ],
     "assetAddresses": [
         {

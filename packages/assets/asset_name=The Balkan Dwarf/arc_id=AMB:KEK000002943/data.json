@@ -4,7 +4,9 @@
     "assetArcId": "AMB:KEK000002943",
     "website": "https://www.kekec.wtf/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Meme"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

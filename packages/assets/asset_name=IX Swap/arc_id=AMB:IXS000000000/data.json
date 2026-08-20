@@ -5,7 +5,8 @@
     "website": "https://www.ixswap.io/",
     "whitePaperUrl": null,
     "classificationTags": [
-        "Real World Asset"
+        "Real World Asset",
+        "DEX"
     ],
     "assetAddresses": [
         {

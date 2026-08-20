@@ -4,7 +4,9 @@
     "assetArcId": "AMB:RST000003006",
     "website": "https://www.restakefinance.com/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Staking"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

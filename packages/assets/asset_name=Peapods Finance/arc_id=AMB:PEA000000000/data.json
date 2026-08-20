@@ -4,7 +4,10 @@
     "assetArcId": "AMB:PEA000000000",
     "website": "https://peapods.finance/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "DeFi",
+        "Yield"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

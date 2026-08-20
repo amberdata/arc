@@ -4,7 +4,9 @@
     "assetArcId": "AMB:POW000000258",
     "website": "https://powerledger.io/",
     "whitePaperUrl": "https://www.powerledger.io/company/power-ledger-whitepaper",
-    "classificationTags": [],
+    "classificationTags": [
+        "Real World Asset"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

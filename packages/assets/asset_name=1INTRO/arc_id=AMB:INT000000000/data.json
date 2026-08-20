@@ -4,7 +4,9 @@
     "assetArcId": "AMB:INT000000000",
     "website": "https://www.1intro.com/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "DEX"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Solana",

@@ -4,7 +4,9 @@
     "assetArcId": "AMB:AST000000031",
     "website": "https://www.airswap.io/",
     "whitePaperUrl": "https://www.airswap.io/whitepaper.htm",
-    "classificationTags": [],
+    "classificationTags": [
+        "DEX"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

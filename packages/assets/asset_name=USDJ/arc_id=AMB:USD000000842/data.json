@@ -5,7 +5,8 @@
     "website": "https://just.network/",
     "whitePaperUrl": "https://www.just.network/docs/white_paper_en.pdf",
     "classificationTags": [
-        "Stablecoin"
+        "Stablecoin",
+        "Lending"
     ],
     "assetAddresses": [
         {

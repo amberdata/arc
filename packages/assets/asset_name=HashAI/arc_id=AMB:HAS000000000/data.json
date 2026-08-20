@@ -4,7 +4,9 @@
     "assetArcId": "AMB:HAS000000000",
     "website": "https://hashai.cc/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Yield"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

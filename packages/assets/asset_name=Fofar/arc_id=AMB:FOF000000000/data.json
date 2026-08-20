@@ -4,7 +4,9 @@
     "assetArcId": "AMB:FOF000000000",
     "website": "https://fofar.club/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Meme"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "ETH",

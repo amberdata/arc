@@ -4,7 +4,9 @@
     "assetArcId": "AMB:XLR000001337",
     "website": "https://xccelerate.net/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "DeFi"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

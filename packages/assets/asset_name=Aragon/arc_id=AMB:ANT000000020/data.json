@@ -5,7 +5,8 @@
     "website": "https://aragon.org/",
     "whitePaperUrl": "https://documentation.aragon.org/the-token-ant/about-the-token/about-ant",
     "classificationTags": [
-        "DEX"
+        "DEX",
+        "Governance"
     ],
     "assetAddresses": [
         {

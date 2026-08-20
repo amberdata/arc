@@ -4,7 +4,9 @@
     "assetArcId": "AMB:WAX000000454",
     "website": "https://axelar.network/",
     "whitePaperUrl": "https://axelar.network/axelar_whitepaper.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "Blockchain Infrastructure"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

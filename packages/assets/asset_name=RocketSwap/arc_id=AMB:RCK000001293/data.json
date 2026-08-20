@@ -4,7 +4,9 @@
     "assetArcId": "AMB:RCK000001293",
     "website": "https://app.rocketswap.cc/exchange/swap",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "DEX"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Base",

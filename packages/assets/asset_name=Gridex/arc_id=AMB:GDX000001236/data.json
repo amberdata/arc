@@ -4,7 +4,9 @@
     "assetArcId": "AMB:GDX000001236",
     "website": "https://www.gdx.org/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "DEX"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Arbitrum",

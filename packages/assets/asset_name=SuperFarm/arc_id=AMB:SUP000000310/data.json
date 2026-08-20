@@ -4,7 +4,9 @@
     "assetArcId": "AMB:SUP000000310",
     "website": "https://superverse.cool/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "DeFi"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

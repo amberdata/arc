@@ -4,7 +4,9 @@
     "assetArcId": "AMB:BIC000000052",
     "website": "https://www.biconomy.io/",
     "whitePaperUrl": "https://www.biconomy.io/litepaper",
-    "classificationTags": [],
+    "classificationTags": [
+        "Blockchain Infrastructure"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

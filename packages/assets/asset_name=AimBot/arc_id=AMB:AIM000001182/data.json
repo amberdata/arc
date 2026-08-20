@@ -4,7 +4,9 @@
     "assetArcId": "AMB:AIM000001182",
     "website": "https://www.aim-bot.app/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Machine Learning & AI"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

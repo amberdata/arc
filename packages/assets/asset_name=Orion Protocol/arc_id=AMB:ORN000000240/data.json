@@ -5,7 +5,9 @@
     "website": "https://www.orionprotocol.io/orn",
     "whitePaperUrl": "https://www.orionprotocol.io/hubfs/whitepaper.pdf",
     "classificationTags": [
-        "Staking"
+        "Staking",
+        "DeFi",
+        "DEX"
     ],
     "assetAddresses": [
         {

@@ -4,7 +4,9 @@
     "assetArcId": "AMB:ALI000000611",
     "website": "https://alethea.ai/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Machine Learning & AI"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",
