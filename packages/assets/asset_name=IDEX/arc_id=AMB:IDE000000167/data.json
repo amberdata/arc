@@ -5,7 +5,8 @@
     "website": "https://idex.io/",
     "whitePaperUrl": "https://docs.idex.io/overview/idex-staking",
     "classificationTags": [
-        "DEX"
+        "DEX",
+        "Derivatives"
     ],
     "assetAddresses": [
         {

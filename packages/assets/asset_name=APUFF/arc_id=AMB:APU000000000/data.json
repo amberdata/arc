@@ -4,7 +4,9 @@
     "assetArcId": "AMB:APU000000000",
     "website": "https://www.airpuff.io/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Yield"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

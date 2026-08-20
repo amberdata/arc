@@ -4,7 +4,9 @@
     "assetArcId": "AMB:LRC000000198",
     "website": "https://loopring.org/",
     "whitePaperUrl": "https://loopring.org/resources/en_whitepaper.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "DEX"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

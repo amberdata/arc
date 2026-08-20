@@ -5,7 +5,8 @@
     "website": "https://velodrome.finance/",
     "whitePaperUrl": "https://velodrome.finance/docs",
     "classificationTags": [
-        "Governance"
+        "Governance",
+        "DEX"
     ],
     "assetAddresses": [
         {

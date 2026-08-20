@@ -4,7 +4,9 @@
     "assetArcId": "AMB:OLM000000000",
     "website": "https://www.ora.io/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Yield"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

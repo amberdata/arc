@@ -5,7 +5,8 @@
     "website": "https://0x.org/",
     "whitePaperUrl": "https://0x.org/pdfs/0x_white_paper.pdf",
     "classificationTags": [
-        "DEX"
+        "DEX",
+        "Blockchain Infrastructure"
     ],
     "assetAddresses": [
         {
