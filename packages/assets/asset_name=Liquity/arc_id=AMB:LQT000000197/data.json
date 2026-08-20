@@ -5,7 +5,8 @@
     "website": "https://www.liquity.org/",
     "whitePaperUrl": "https://docs.liquity.org/faq/general",
     "classificationTags": [
-        "Stablecoin"
+        "Stablecoin",
+        "Lending"
     ],
     "assetAddresses": [
         {

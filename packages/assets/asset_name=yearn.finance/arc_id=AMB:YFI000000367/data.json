@@ -5,7 +5,8 @@
     "website": "https://yearn.finance/",
     "whitePaperUrl": "https://docs.yearn.finance/",
     "classificationTags": [
-        "Governance"
+        "Governance",
+        "Yield"
     ],
     "assetAddresses": [
         {

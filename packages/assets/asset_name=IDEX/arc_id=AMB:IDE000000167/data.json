@@ -4,7 +4,9 @@
     "assetArcId": "AMB:IDE000000167",
     "website": "https://idex.io/",
     "whitePaperUrl": "https://docs.idex.io/overview/idex-staking",
-    "classificationTags": [],
+    "classificationTags": [
+        "DEX"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",
