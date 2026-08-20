@@ -4,7 +4,9 @@
     "assetArcId": "AMB:ACH000000003",
     "website": "https://www.alchemytech.io/",
     "whitePaperUrl": "http://static.alchemywallet.cn/Alchemy_WP-EN.pdf",
-    "classificationTags": [],
+    "classificationTags": [
+        "Remittance"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

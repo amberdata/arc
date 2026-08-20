@@ -4,7 +4,9 @@
     "assetArcId": "AMB:MCO000000420",
     "website": "https://moss.earth/",
     "whitePaperUrl": "https://mco2token.moss.earth/",
-    "classificationTags": [],
+    "classificationTags": [
+        "Real World Asset"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",

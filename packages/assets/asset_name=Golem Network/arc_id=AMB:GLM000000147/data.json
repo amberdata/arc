@@ -4,7 +4,9 @@
     "assetArcId": "AMB:GLM000000147",
     "website": "https://www.golem.network/",
     "whitePaperUrl": "https://www.golem.network/glm",
-    "classificationTags": [],
+    "classificationTags": [
+        "DePIN"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Ethereum",
