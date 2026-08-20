@@ -4,7 +4,9 @@
     "assetArcId": "AMB:MND000000423",
     "website": "https://marinade.finance/",
     "whitePaperUrl": null,
-    "classificationTags": [],
+    "classificationTags": [
+        "Staking"
+    ],
     "assetAddresses": [
         {
             "blockchainName": "Solana",
